@@ -1,0 +1,40 @@
+{
+  "topic": "简历该写几页",
+  "links": [
+    "https://www.douyin.com/video/demo-resume-1",
+    "https://www.douyin.com/video/demo-resume-2",
+    "https://www.douyin.com/video/demo-resume-3",
+    "https://www.douyin.com/video/demo-resume-4"
+  ],
+  "analysis": {
+    "one_line_summary": "简历几页没有统一答案：应届/转行优先一页讲清匹配度，资深/技术岗可以两页甚至更多，核心是“信息密度和相关性”而不是页数本身。",
+    "consensus": [
+      { "point": "简历的目标是让 HR 在几十秒内看到你与岗位的匹配点，可读性优先于篇幅", "sources": [1, 2, 3] },
+      { "point": "与目标岗位无关的经历应当删减，不要为了凑页数堆砌内容", "sources": [1, 4] },
+      { "point": "排版清晰、重点突出比“写满几页”更重要", "sources": [2, 3] }
+    ],
+    "conflicts": [
+      {
+        "topic": "应届生简历是不是必须压到一页",
+        "pro": { "argument": "应届经历有限，一页足以呈现，超过一页会显得注水、抓不住重点", "sources": [1] },
+        "con": { "argument": "如果有高质量的项目、竞赛、实习，两页能更充分展示，不必硬压成一页而牺牲内容", "sources": [4] }
+      },
+      {
+        "topic": "资深/技术岗简历该不该控制页数",
+        "pro": { "argument": "资深岗位项目和成果多，2-3 页能完整呈现技术深度和业绩", "sources": [2] },
+        "con": { "argument": "页数过多 HR 读不完，应只保留最近 10 年、最相关的经历", "sources": [3] }
+      }
+    ],
+    "recommendations": [
+      { "condition": "如果你是应届生或工作经验 3 年以内", "advice": "控制在一页，按“岗位 JD 关键词”筛选经历，量化成果", "sources": [1] },
+      { "condition": "如果你是资深从业者或技术岗、研究岗", "advice": "可以放宽到两页，第一页放最相关的核心成果，次要内容靠后", "sources": [2, 3] },
+      { "condition": "如果你在跨行业转行", "advice": "优先一页，重点写可迁移能力与转行动机，弱化不相关的旧经历", "sources": [3, 4] }
+    ],
+    "references": [
+      { "id": 1, "author": "演示数据·HR 实战派", "title": "应届简历为什么必须一页", "claim": "一页足以呈现应届经历，超页显注水", "url": "https://www.douyin.com/video/demo-resume-1" },
+      { "id": 2, "author": "演示数据·猎头视角", "title": "资深岗简历这样写才完整", "claim": "资深岗 2-3 页呈现技术深度", "url": "https://www.douyin.com/video/demo-resume-2" },
+      { "id": 3, "author": "演示数据·招聘官说", "title": "HR 真正怎么看你的简历", "claim": "可读性和相关性优先于页数", "url": "https://www.douyin.com/video/demo-resume-3" },
+      { "id": 4, "author": "演示数据·求职辅导", "title": "别再纠结一页两页了", "claim": "有料就两页，没料硬凑没意义", "url": "https://www.douyin.com/video/demo-resume-4" }
+    ]
+  }
+}

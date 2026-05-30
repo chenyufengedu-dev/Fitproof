@@ -1,0 +1,40 @@
+{
+  "topic": "空腹运动好不好",
+  "links": [
+    "https://www.douyin.com/video/demo-fasted-1",
+    "https://www.douyin.com/video/demo-fasted-2",
+    "https://www.douyin.com/video/demo-fasted-3",
+    "https://www.douyin.com/video/demo-fasted-4"
+  ],
+  "analysis": {
+    "one_line_summary": "空腹运动可能略微提高脂肪供能比例，但不等于减更多脂；是否适合主要取决于运动强度、个人血糖耐受和目标，低强度有氧相对安全，高强度或有血糖问题的人不建议。",
+    "consensus": [
+      { "point": "减脂的根本是总热量缺口，空腹与否不是决定性因素", "sources": [1, 2, 3], "screen_evidence": "视频1 1:32 画面：24 小时总消耗对比表（空腹组 vs 进食组 总能量消耗基本持平）" },
+      { "point": "空腹做低强度有氧（如快走、慢跑）对多数健康人相对安全", "sources": [2, 4] },
+      { "point": "运动后及时补充蛋白质和碳水有助于恢复，避免肌肉流失", "sources": [1, 3] }
+    ],
+    "conflicts": [
+      {
+        "topic": "空腹运动是不是减脂更快",
+        "pro": { "argument": "空腹时糖原储备低，身体更多动用脂肪供能，有利于减脂", "sources": [4] },
+        "con": { "argument": "脂肪供能比例提高不等于减更多脂，24 小时总消耗和热量缺口才决定结果", "sources": [1, 3] }
+      },
+      {
+        "topic": "空腹能不能做高强度训练",
+        "pro": { "argument": "适应后部分人空腹也能完成训练，且训练时间更灵活", "sources": [4] },
+        "con": { "argument": "空腹高强度易低血糖、头晕、表现下降甚至受伤，不推荐", "sources": [2, 3] }
+      }
+    ],
+    "recommendations": [
+      { "condition": "如果你只是想减脂、做的是低强度有氧", "advice": "空腹或不空腹差别不大，选你更舒服、更能坚持的方式，重点盯总热量缺口", "sources": [1, 2] },
+      { "condition": "如果你要做高强度间歇或力量训练", "advice": "运动前 1-2 小时适量进食碳水，保证表现和安全，别空腹硬上", "sources": [2, 3], "screen_evidence": "视频3 2:05 画面：空腹高强度训练低血糖风险提示字幕" },
+      { "condition": "如果你有低血糖史、糖尿病或心血管问题", "advice": "不要空腹运动，运动前后监测血糖并咨询医生", "sources": [3] }
+    ],
+    "references": [
+      { "id": 1, "author": "演示数据·运动营养师", "title": "空腹运动减脂的真相", "claim": "减脂看热量缺口，空腹非关键", "url": "https://www.douyin.com/video/demo-fasted-1" },
+      { "id": 2, "author": "演示数据·健身教练", "title": "什么人适合空腹训练", "claim": "低强度有氧空腹相对安全", "url": "https://www.douyin.com/video/demo-fasted-2" },
+      { "id": 3, "author": "演示数据·运动医学", "title": "空腹高强度训练的风险", "claim": "空腹高强度易低血糖、不推荐", "url": "https://www.douyin.com/video/demo-fasted-3" },
+      { "id": 4, "author": "演示数据·减脂博主", "title": "我靠空腹有氧瘦了10斤", "claim": "空腹脂肪供能比例更高", "url": "https://www.douyin.com/video/demo-fasted-4" }
+    ]
+  }
+}
