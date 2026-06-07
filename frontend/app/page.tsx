@@ -10,6 +10,11 @@ import RefsPage from '@/components/RefsPage'
 // 本地完整版：.env.local 设 NEXT_PUBLIC_API_URL=http://localhost:8000，走 Python 后端（含真实链接分析）
 // 云端（Vercel）：不设该变量，走同源的 Next 云函数 /api/*（预置话题 + AI 答疑）
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
+const MIN_LOADING_MS = 5600
+
+function wait(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
 
 export default function Home() {
   const [pageState, setPageState] = useState<PageState>('input')
@@ -24,6 +29,7 @@ export default function Home() {
     setTopic(topicName)
     setHistory([])
     setPageState('loading')
+    const loadingStartedAt = Date.now()
     try {
       const res = await fetch(`${API_BASE_URL}/api/analyze`, {
         method: 'POST',
@@ -35,6 +41,7 @@ export default function Home() {
         throw new Error(data.detail || '分析失败，请稍后重试')
       }
       const data: Analysis = await res.json()
+      await wait(Math.max(0, MIN_LOADING_MS - (Date.now() - loadingStartedAt)))
       setAnalysis(data)
       setPageState('result')
     } catch (e) {
@@ -50,8 +57,8 @@ export default function Home() {
     setHistory([])
     setAnalysis(data)
     setPageState('loading')
-    // 短暂展示加载页，模拟完整 AI 分析过程
-    setTimeout(() => setPageState('result'), 1800)
+    // 展示完整的模拟核验流程，避免 demo 中只闪过前几步
+    setTimeout(() => setPageState('result'), MIN_LOADING_MS)
   }
 
   async function handleFollowup(question: string) {

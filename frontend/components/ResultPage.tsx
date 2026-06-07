@@ -1,7 +1,7 @@
 'use client'
 
 import { useLayoutEffect, useMemo, useRef, useState } from 'react'
-import type { Analysis, Authority, ChatMessage, Reference, VideoRef } from '@/types'
+import type { Analysis, Authority, ChatMessage, Misleading, Reference, VideoRef } from '@/types'
 
 interface ResultPageProps {
   analysis: Analysis
@@ -21,6 +21,16 @@ interface DrawerItem {
 interface DrawerData {
   title: string
   items: DrawerItem[]
+}
+
+function authorityIndexForId(id: string, authorities: Authority[]) {
+  const direct = authorities.findIndex((a) => a.id === id)
+  if (direct >= 0) return direct
+
+  const numeric = id.match(/\d+/)?.[0]
+  if (!numeric) return -1
+  const byNumber = Number(numeric) - 1
+  return byNumber >= 0 && byNumber < authorities.length ? byNumber : -1
 }
 
 /* ---------- 引用小标签：点击弹底部抽屉 ---------- */
@@ -47,17 +57,17 @@ function AuthChips({
 }) {
   if (!ids || ids.length === 0) return null
   const nums = ids
-    .map((id) => authorities.findIndex((a) => a.id === id))
+    .map((id) => authorityIndexForId(id, authorities))
     .filter((i) => i >= 0)
     .map((i) => i + 1)
   if (nums.length === 0) return null
   return (
-    <span className="ml-0.5 inline-flex flex-wrap gap-0.5 align-middle">
+    <span className="ml-1 inline-flex flex-wrap gap-1 align-top">
       {nums.map((n) => (
         <button
           key={n}
           onClick={() => onOpen(n)}
-          className="align-super text-[11px] text-emerald-700 transition hover:text-emerald-900"
+          className="relative -top-1 inline-flex min-w-[1.35rem] items-center justify-center rounded-full border border-[#20CDB6]/30 bg-[#e9fbf8] px-1.5 py-0.5 text-[10px] font-bold leading-none text-[#0b6e63] shadow-sm transition hover:border-[#128f80] hover:bg-[#20CDB6] hover:text-white"
         >
           [{n}]
         </button>
@@ -76,6 +86,10 @@ function ScreenChip({ text, onOpen }: { text?: string; onOpen: (t: string) => vo
       画面
     </button>
   )
+}
+
+function isInteractiveTarget(target: EventTarget | null) {
+  return target instanceof Element && Boolean(target.closest('button,a,input,textarea,select,[role="button"]'))
 }
 
 type SupportLevel = '高' | '中' | '低'
@@ -140,16 +154,22 @@ function MetricCard({ label, value, tone = 'teal' }: { label: string; value: str
   )
 }
 
-// 短视频播放语义图标：播放三角始终朝右（不左右镜像），左右差异交给气泡位置与编号体现
-function VideoSourceMark({ label }: { label: string; align?: 'left' | 'right' }) {
+function VideoSourceMark({
+  label,
+  tone = 'teal',
+}: {
+  label: string
+  align?: 'left' | 'right'
+  tone?: 'teal' | 'blue'
+}) {
+  const cls =
+    tone === 'teal'
+      ? 'border-[#20CDB6]/30 bg-[#20CDB6]/10 text-[#128f80]'
+      : 'border-sky-200 bg-sky-50 text-sky-700'
+  const src = tone === 'teal' ? '/brand/portrait-teal.png' : '/brand/portrait-blue.png'
   return (
-    <div className="relative flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl border border-[#20CDB6]/25 bg-white text-[#128f80] shadow-sm">
-      <div className="grid h-6 w-7 place-items-center rounded-md border-2 border-current bg-[#20CDB6]/10">
-        <span className="h-0 w-0 border-y-[5px] border-y-transparent border-l-[8px] border-l-current" />
-      </div>
-      <span className="absolute -right-1 -top-1 rounded-full bg-[#20CDB6] px-1 text-[9px] font-bold text-white">
-        {label}
-      </span>
+    <div className={`relative flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-2xl border shadow-sm ${cls}`}>
+      <img src={src} alt="" aria-hidden className="h-9 w-9 object-contain" />
       <span className="sr-only">{label}</span>
     </div>
   )
@@ -160,7 +180,6 @@ export default function ResultPage({
   topic,
   history,
   onFollowup,
-  onViewRefs,
   onBack,
 }: ResultPageProps) {
   const [index, setIndex] = useState(0)
@@ -169,6 +188,7 @@ export default function ResultPage({
   const [exporting, setExporting] = useState(false)
   const [exportError, setExportError] = useState('')
   const [drawer, setDrawer] = useState<DrawerData | null>(null)
+  const [dragDir, setDragDir] = useState<-1 | 1 | null>(null)
 
   const exportRef = useRef<HTMLDivElement>(null)
   const frontRef = useRef<HTMLDivElement>(null)
@@ -177,6 +197,8 @@ export default function ResultPage({
   const startY = useRef(0)
   const mxRef = useRef(0)
   const axisLock = useRef<null | 'x' | 'y'>(null)
+  const dragActive = useRef(false)
+  const dragDirRef = useRef<-1 | 1 | null>(null)
   const animating = useRef(false)
 
   const authorities = analysis.authorities || []
@@ -213,6 +235,83 @@ export default function ResultPage({
   }
   const openScreen = (text: string) =>
     setDrawer({ title: 'AI 从画面识别到的信息', items: [{ main: text }] })
+
+  const makeVideoItems = (refs: VideoRef[]): DrawerItem[] => {
+    const seen = new Set<string>()
+    return refs
+      .filter((r) => {
+        const key = `${r.id}-${r.time}`
+        if (seen.has(key)) return false
+        seen.add(key)
+        return true
+      })
+      .map((r) => {
+        const v = refById[r.id]
+        return {
+          main: `视频${r.id}${v ? `《${v.title}》` : ''}`,
+          sub: `${v ? `${v.author} · ` : ''}第 ${r.time}`,
+          href: v?.url,
+          hrefLabel: '看原视频',
+        }
+      })
+  }
+
+  const makeAuthorityItems = (ids: string[]): DrawerItem[] => {
+    const seen = new Set<number>()
+    return ids
+      .map((id) => authorityIndexForId(id, authorities))
+      .filter((i) => {
+        if (i < 0 || seen.has(i)) return false
+        seen.add(i)
+        return true
+      })
+      .map((i) => {
+        const a = authorities[i]
+        return {
+          main: `[E${i + 1}] ${a.name}`,
+          sub: a.note,
+        }
+      })
+  }
+
+  const makeEvidenceItems = ({
+    videoRefs = [],
+    authorityIds = [],
+    all = false,
+  }: {
+    videoRefs?: VideoRef[]
+    authorityIds?: string[]
+    all?: boolean
+  }) => {
+    const videoItems: DrawerItem[] = all
+      ? analysis.references.map((r) => ({
+          main: `视频${r.id}《${r.title}》`,
+          sub: `${r.author} · 核心主张：${r.claim}`,
+          href: r.url,
+          hrefLabel: '看原视频',
+        }))
+      : makeVideoItems(videoRefs)
+    const authorityItems: DrawerItem[] = all
+      ? authorities.map((a, i) => ({
+          main: `[E${i + 1}] ${a.name}`,
+          sub: a.note,
+        }))
+      : makeAuthorityItems(authorityIds)
+    return [
+      ...(videoItems.length ? [{ main: '视频出处', sub: '来自待核验短视频的作者、标题、核心主张与原链接。' }] : []),
+      ...videoItems,
+      ...(authorityItems.length ? [{ main: '专业依据', sub: '用于辅助判断运动健康说法的指南、文献或机构建议。' }] : []),
+      ...authorityItems,
+    ]
+  }
+
+  const openEvidenceItems = (title: string, items: DrawerItem[]) => {
+    if (items.length === 0) return
+    setDrawer({
+      title,
+      items,
+    })
+  }
 
   function conflictConfidence(authorityCount: number, videoRefCount: number, hasEvidenceNote: boolean) {
     return Math.min(95, 62 + authorityCount * 10 + videoRefCount * 4 + (hasEvidenceNote ? 8 : 0))
@@ -253,6 +352,39 @@ export default function ResultPage({
     return /不建议|不要|避免|风险|低血糖|谨慎|咨询/.test(text) ? '谨慎理解' : '适用参考'
   }
 
+  function riskPointForMisleading(item: Misleading) {
+    const text = `${item.claim} ${item.correction}`
+    if (/低血糖|晕厥|发慌|乏力/.test(text)) {
+      return '可能低估低血糖等安全风险，让用户在不适时继续运动。'
+    }
+    if (/必须|一定|马上|立即|否则/.test(text)) {
+      return '把条件性建议说成绝对要求，容易忽略运动强度、目标和个体差异。'
+    }
+    if (/肌肉|掉肌肉|糖原|蛋白质分解/.test(text)) {
+      return '可能夸大短时中低强度运动带来的肌肉流失风险。'
+    }
+    if (/高强度|提高强度|运动量提上去/.test(text)) {
+      return '可能把高风险处理方式包装成通用做法，不适合直接照搬。'
+    }
+    return '表达可能过于绝对，容易让用户忽略适用人群、运动强度和自身状态。'
+  }
+
+  function actionAttention(advice: string) {
+    if (/低血糖|发慌|乏力|糖尿病/.test(advice)) {
+      return '优先关注血糖和不适反应，出现异常应停止运动并及时补充能量。'
+    }
+    if (/不建议|不要|避免/.test(advice)) {
+      return '这类情况不适合直接照搬视频做法，应先降低强度或换更稳妥方式。'
+    }
+    if (/咨询|医生|疾病|患者/.test(advice)) {
+      return '如果已有疾病、用药或反复不适，应结合专业人员建议再行动。'
+    }
+    if (/风险|谨慎/.test(advice)) {
+      return '先从低强度和短时长开始，观察身体反馈后再调整。'
+    }
+    return '保持中低强度、循序渐进，并根据身体反馈调整。'
+  }
+
   async function ask(text: string) {
     const q = text.trim()
     if (!q || sending) return
@@ -290,20 +422,41 @@ export default function ResultPage({
   }
 
   /* ---------- 各区块内容 ---------- */
-  type Section = { key: string; label: string; node: React.ReactNode; exportable: boolean }
+  type Section = {
+    key: string
+    label: string
+    node: React.ReactNode
+    exportable: boolean
+    evidenceItems?: DrawerItem[]
+    evidenceLabel?: string
+    evidenceTitle?: string
+  }
   const sections: Section[] = []
 
   sections.push({
     key: 'conclusion',
     label: '核验结论',
     exportable: true,
+    evidenceItems: makeEvidenceItems({ all: true }),
+    evidenceLabel: '查看全部依据',
+    evidenceTitle: '全部依据',
     node: (
       <div className="space-y-7">
         <div className="rounded-[28px] border border-[#20CDB6]/20 bg-[#f0fffc] p-5">
-          <p className="mb-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#128f80]">
-            FitProof 核验结果
-          </p>
-          <p className="text-[22px] font-semibold leading-[1.55] text-slate-950">{analysis.one_line_summary}</p>
+          <div className="flex items-start gap-3">
+            <div className="min-w-0 flex-1">
+              <p className="mb-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#128f80]">
+                FitProof 核验结果
+              </p>
+              <p className="text-[22px] font-semibold leading-[1.55] text-slate-950">{analysis.one_line_summary}</p>
+            </div>
+            <img
+              src="/brand/cat-result.png"
+              alt=""
+              aria-hidden
+              className="fitproof-cat-float pointer-events-none mt-1 w-16 shrink-0 drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)]"
+            />
+          </div>
         </div>
         <EvidenceGauge level={evidenceSupportLevel} label="证据支持度" />
         <div className="grid grid-cols-3 gap-3">
@@ -317,8 +470,12 @@ export default function ResultPage({
 
   sections.push({
     key: 'consensus',
-      label: '共识提取',
+      label: '共识基础',
     exportable: true,
+    evidenceItems: makeEvidenceItems({
+      videoRefs: analysis.consensus.flatMap((c) => c.video_refs || []),
+      authorityIds: analysis.consensus.flatMap((c) => c.authority_ids || []),
+    }),
     node: (
       <div className="space-y-4">
         <div className="flex items-center gap-2 text-[11px] text-slate-400">
@@ -329,7 +486,7 @@ export default function ResultPage({
           <span className="rounded-full bg-[#128f80] px-2 py-1 text-white">共同基础</span>
         </div>
         <div className="px-1 text-sm leading-relaxed text-slate-500">
-          在有争议的视频中，AI 先提取双方都较认可的部分，作为后续校验的共同基础。
+          AI 先提取多个视频中相对一致的部分，作为后续判断争议和风险的共同基础。
         </div>
 
         <div className="space-y-3">
@@ -347,8 +504,6 @@ export default function ResultPage({
                     </p>
                     <p className="mt-1 text-[15px] font-medium leading-relaxed text-slate-900">
                       {c.point}
-                      <AuthChips ids={c.authority_ids} authorities={authorities} onOpen={openAuthority} />
-                      <ScreenChip text={c.screen_evidence} onOpen={openScreen} />
                     </p>
                   </div>
                 </div>
@@ -367,9 +522,9 @@ export default function ResultPage({
                       含专业依据
                     </span>
                   )}
-                  {c.screen_evidence && (
-                    <span className="rounded-full border border-violet-200 bg-violet-50 px-2.5 py-1 text-violet-600">
-                      含画面依据
+                  {(!c.authority_ids || c.authority_ids.length === 0) && (
+                    <span className="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 text-slate-500">
+                      仅视频出处
                     </span>
                   )}
                 </div>
@@ -384,8 +539,15 @@ export default function ResultPage({
   if (analysis.conflicts.length > 0) {
     sections.push({
       key: 'conflicts',
-      label: '分歧对照',
+      label: '分歧诊断',
       exportable: true,
+      evidenceItems: makeEvidenceItems({
+        videoRefs: analysis.conflicts.flatMap((c) => [
+          ...(c.pro.video_refs || []),
+          ...(c.con.video_refs || []),
+        ]),
+        authorityIds: analysis.conflicts.flatMap((c) => c.authority_ids || []),
+      }),
       node: (
         <div className="space-y-5" data-fitproof-conflict-debate>
           {analysis.conflicts.map((c, i) => {
@@ -396,8 +558,14 @@ export default function ResultPage({
             const risk = conflictRisk(c.evidence_note)
             const decision = conflictDecision(c.evidence_note)
             const caution = /需谨慎|待核验/.test(risk)
-            const proLabel = sideLabel(c.pro.video_refs)
-            const conLabel = sideLabel(c.con.video_refs)
+            const positions = [
+              { position: c.pro, tone: 'teal' as const, fallback: '正' },
+              { position: c.con, tone: 'blue' as const, fallback: '反' },
+            ].sort((a, b) => (a.position.video_refs?.[0]?.id ?? 99) - (b.position.video_refs?.[0]?.id ?? 99))
+            const first = positions[0]
+            const second = positions[1]
+            const firstLabel = sideLabel(first.position.video_refs)
+            const secondLabel = sideLabel(second.position.video_refs)
             return (
             <div key={i} className="overflow-hidden rounded-3xl border border-[#20CDB6]/15 bg-white p-3 shadow-sm">
               <div className="mb-3 flex items-center justify-between gap-3">
@@ -409,20 +577,23 @@ export default function ResultPage({
 
               <div className="space-y-4 text-[14px] leading-relaxed">
                 <div className="flex items-start gap-3">
-                  <VideoSourceMark label={String(c.pro.video_refs?.[0]?.id ?? '正')} />
+                  <VideoSourceMark
+                    label={String(first.position.video_refs?.[0]?.id ?? first.fallback)}
+                    tone={first.tone}
+                  />
                   <div className="max-w-[82%] rounded-[22px] rounded-tl-md border border-[#20CDB6]/20 bg-[#f5fffc] px-4 py-3 shadow-sm">
-                    <p className="mb-1 text-[11px] font-semibold text-[#128f80]">{proLabel}</p>
-                    <p className="text-slate-800">{c.pro.argument}</p>
+                    <p className="mb-1 text-[11px] font-semibold text-[#128f80]">{firstLabel}</p>
+                    <p className="text-slate-800">{first.position.argument}</p>
                     <div className="mt-3 flex flex-wrap items-center gap-2">
                       <button
                         type="button"
-                        onClick={() => c.pro.video_refs && c.pro.video_refs.length > 0 && openVideo(c.pro.video_refs)}
-                        disabled={!c.pro.video_refs || c.pro.video_refs.length === 0}
+                        onClick={() => first.position.video_refs && first.position.video_refs.length > 0 && openVideo(first.position.video_refs)}
+                        disabled={!first.position.video_refs || first.position.video_refs.length === 0}
                         className="rounded-full bg-white px-2.5 py-1 text-[11px] font-medium text-[#128f80] shadow-sm transition hover:bg-[#20CDB6] hover:text-white disabled:cursor-default disabled:opacity-60"
                       >
                         查看出处
                       </button>
-                      <ScreenChip text={c.pro.screen_evidence} onOpen={openScreen} />
+                      <ScreenChip text={first.position.screen_evidence} onOpen={openScreen} />
                     </div>
                   </div>
                 </div>
@@ -435,21 +606,25 @@ export default function ResultPage({
 
                 <div className="flex items-start justify-end gap-3">
                   <div className="max-w-[82%] rounded-[22px] rounded-tr-md border border-sky-200 bg-sky-50 px-4 py-3 text-left shadow-sm">
-                    <p className="mb-1 text-[11px] font-semibold text-sky-700">{conLabel}</p>
-                    <p className="text-slate-800">{c.con.argument}</p>
+                    <p className="mb-1 text-[11px] font-semibold text-sky-700">{secondLabel}</p>
+                    <p className="text-slate-800">{second.position.argument}</p>
                     <div className="mt-3 flex flex-wrap items-center gap-2">
-                      <ScreenChip text={c.con.screen_evidence} onOpen={openScreen} />
+                      <ScreenChip text={second.position.screen_evidence} onOpen={openScreen} />
                       <button
                         type="button"
-                        onClick={() => c.con.video_refs && c.con.video_refs.length > 0 && openVideo(c.con.video_refs)}
-                        disabled={!c.con.video_refs || c.con.video_refs.length === 0}
+                        onClick={() => second.position.video_refs && second.position.video_refs.length > 0 && openVideo(second.position.video_refs)}
+                        disabled={!second.position.video_refs || second.position.video_refs.length === 0}
                         className="rounded-full bg-white px-2.5 py-1 text-[11px] font-medium text-sky-700 shadow-sm transition hover:bg-sky-500 hover:text-white disabled:cursor-default disabled:opacity-60"
                       >
                         查看出处
                       </button>
                     </div>
                   </div>
-                  <VideoSourceMark label={String(c.con.video_refs?.[0]?.id ?? '反')} align="right" />
+                  <VideoSourceMark
+                    label={String(second.position.video_refs?.[0]?.id ?? second.fallback)}
+                    align="right"
+                    tone={second.tone}
+                  />
                 </div>
 
                 {/* 分歧根源 */}
@@ -458,7 +633,7 @@ export default function ResultPage({
                     分歧根源
                   </p>
                   <p className="text-[13px] leading-relaxed text-slate-700">
-                    一方强调“{shortenArgument(c.pro.argument)}”，另一方强调“{shortenArgument(c.con.argument)}”，核心差异多在适用人群、运动目标或风险边界。
+                    一方强调“{shortenArgument(first.position.argument)}”，另一方强调“{shortenArgument(second.position.argument)}”，核心差异多在适用人群、运动目标或风险边界。
                   </p>
                 </div>
 
@@ -519,12 +694,16 @@ export default function ResultPage({
 
   sections.push({
     key: 'recommendations',
-      label: '适用边界',
+      label: '行动建议',
     exportable: true,
+    evidenceItems: makeEvidenceItems({
+      videoRefs: analysis.recommendations.flatMap((r) => r.video_refs || []),
+      authorityIds: analysis.recommendations.flatMap((r) => r.authority_ids || []),
+    }),
     node: (
       <div className="space-y-4">
         <p className="px-1 text-sm leading-relaxed text-slate-500">
-          同一个运动健康说法，对不同人群、训练目标和风险状态的适用边界不同。
+          根据视频内容与专业依据，FitProof 将建议按人群和目标拆开。请结合自身健康状况理解。
         </p>
         <div className="space-y-3">
           {analysis.recommendations.map((r, i) => {
@@ -540,10 +719,7 @@ export default function ResultPage({
                 <div className="mb-3 flex items-start justify-between gap-3">
                   <div>
                     <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">
-                      适用对象 {i + 1}
-                    </p>
-                    <p className="mt-1 text-[15px] font-semibold leading-relaxed text-slate-950">
-                      {r.condition}
+                      人群建议 {i + 1}
                     </p>
                   </div>
                   <span
@@ -554,7 +730,20 @@ export default function ResultPage({
                     {tone}
                   </span>
                 </div>
-                <p className="text-[14px] leading-relaxed text-slate-600">{r.advice}</p>
+                <div className="space-y-3 text-[14px] leading-relaxed">
+                  <div>
+                    <p className="mb-1 text-[11px] font-semibold text-slate-400">适合谁</p>
+                    <p className="font-medium text-slate-950">{r.condition}</p>
+                  </div>
+                  <div>
+                    <p className="mb-1 text-[11px] font-semibold text-slate-400">建议怎么做</p>
+                    <p className="text-slate-700">{r.advice}</p>
+                  </div>
+                  <div className="rounded-2xl border border-[#20CDB6]/15 bg-[#f3fbf9] px-3 py-2.5">
+                    <p className="mb-1 text-[11px] font-semibold text-[#128f80]">需要注意</p>
+                    <p className="text-[13px] text-slate-600">{actionAttention(r.advice)}</p>
+                  </div>
+                </div>
 
                 <div className="mt-3 flex flex-wrap gap-2 text-[11px]">
                   <button
@@ -588,19 +777,26 @@ export default function ResultPage({
     ),
   })
 
-  if (misleading.length > 0) {
-    sections.push({
-      key: 'misleading',
-      label: '说法校验',
-      exportable: true,
-      node: (
-        <div className="space-y-4">
-          <p className="px-1 text-[13px] leading-relaxed text-slate-500">
-            对照运动医学证据，逐条核验视频里可能被夸大或不准确的说法。
-          </p>
-          {misleading.map((m, i) => (
+  sections.push({
+    key: 'misleading',
+    label: '误导风险',
+    exportable: true,
+    evidenceItems: makeEvidenceItems({
+      videoRefs: misleading.flatMap((m) => m.video_refs || []),
+      authorityIds: misleading.flatMap((m) => m.authority_ids || []),
+    }),
+    node: (
+      <div className="space-y-4">
+        <p className="px-1 text-[13px] leading-relaxed text-slate-500">
+          这里单独标出视频中可能被夸大、说得过满或存在风险的表达，帮助你避开误解。
+        </p>
+        {misleading.length === 0 ? (
+          <div className="rounded-3xl border border-[#20CDB6]/15 bg-white px-4 py-5 text-sm leading-relaxed text-slate-500 shadow-sm">
+            当前材料中未识别到需要单独标出的高风险表达，可继续查看行动建议。
+          </div>
+        ) : (
+          misleading.map((m, i) => (
             <div key={i} className="overflow-hidden rounded-3xl border border-[#20CDB6]/15 bg-white p-3 shadow-sm">
-              {/* 原视频说法（待核验） */}
               <div className="rounded-2xl border border-amber-200 bg-amber-50/70 px-4 py-3">
                 <div className="mb-1.5 flex items-center justify-between gap-2">
                   <span className="inline-flex items-center gap-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-amber-600">
@@ -624,14 +820,13 @@ export default function ResultPage({
                 )}
               </div>
 
-              {/* 核验分隔 */}
-              <div className="flex items-center justify-center gap-2 py-2 text-[11px] font-semibold text-[#128f80]">
-                <span className="h-px w-8 bg-[#20CDB6]/30" />
-                FitProof 核验
-                <span className="h-px w-8 bg-[#20CDB6]/30" />
+              <div className="my-2 rounded-2xl border border-amber-200/70 bg-white px-4 py-3">
+                <p className="mb-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-amber-600">
+                  风险点
+                </p>
+                <p className="text-[13px] leading-relaxed text-slate-700">{riskPointForMisleading(m)}</p>
               </div>
 
-              {/* 更准确的说法（核验结论） */}
               <div className="rounded-2xl border border-[#20CDB6]/25 bg-[#f3fbf9] px-4 py-3">
                 <div className="mb-1.5 flex items-center gap-2">
                   <span className="grid h-5 w-5 place-items-center rounded-full bg-[#20CDB6] text-[11px] text-white">
@@ -646,12 +841,22 @@ export default function ResultPage({
                   <AuthChips ids={m.authority_ids} authorities={authorities} onOpen={openAuthority} />
                 </p>
               </div>
+              <div className="mt-2 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3">
+                <p className="mb-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">
+                  相关依据
+                </p>
+                <p className="text-[13px] leading-relaxed text-slate-600">
+                  {m.video_refs && m.video_refs.length > 0 ? `涉及 ${m.video_refs.length} 处视频出处` : '视频出处待补充'}
+                  {m.authority_ids && m.authority_ids.length > 0 ? '，含专业依据' : '，暂无专业依据编号'}
+                  <AuthChips ids={m.authority_ids} authorities={authorities} onOpen={openAuthority} />
+                </p>
+              </div>
             </div>
-          ))}
-        </div>
-      ),
-    })
-  }
+          ))
+        )}
+      </div>
+    ),
+  })
 
   sections.push({
     key: 'followup',
@@ -666,7 +871,15 @@ export default function ResultPage({
         <div className="flex-1 space-y-2.5 overflow-y-auto">
           {history.length === 0 && (
             <div className="space-y-2.5">
-              <p className="text-[12px] text-slate-400">试试这些问题：</p>
+              <div className="flex items-end justify-between gap-3 px-1">
+                <p className="pb-1 text-[12px] text-slate-400">试试这些问题：</p>
+                <img
+                  src="/brand/cat-lie.png"
+                  alt=""
+                  aria-hidden
+                  className="fitproof-cat-float pointer-events-none w-20 shrink-0 drop-shadow-[0_12px_18px_rgba(15,118,110,0.12)]"
+                />
+              </div>
               <div className="flex flex-wrap gap-2">
                 {QUICK_QUESTIONS.map((q) => (
                   <button
@@ -708,7 +921,7 @@ export default function ResultPage({
             onChange={(e) => setQuestion(e.target.value)}
             onKeyDown={(e) => e.key === 'Enter' && handleSend()}
             placeholder="输入你的疑问，如某个名词是什么意思…"
-            className="flex-1 rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2.5 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+            className="flex-1 select-text rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2.5 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
           />
           <button
             onClick={handleSend}
@@ -722,12 +935,23 @@ export default function ResultPage({
     ),
   })
 
+  const sectionOrder = ['conclusion', 'consensus', 'conflicts', 'misleading', 'recommendations', 'followup']
+  sections.sort((a, b) => sectionOrder.indexOf(a.key) - sectionOrder.indexOf(b.key))
+
   const n = sections.length
   const cur = sections[index]
+  const prev = sections[index - 1]
   const next = sections[index + 1]
+  const behind = dragDir === 1 ? prev : next
 
   /* ---------- 命令式拖拽（不触发逐帧重渲染，丝滑） ---------- */
   const BEHIND_BASE = 'scale(0.94) translateY(12px)'
+
+  function setBehindDirection(dir: -1 | 1 | null) {
+    if (dragDirRef.current === dir) return
+    dragDirRef.current = dir
+    setDragDir(dir)
+  }
 
   // 切换卡片后，把 front 复位到中央、behind 复位到景深位
   useLayoutEffect(() => {
@@ -740,6 +964,10 @@ export default function ResultPage({
       behindRef.current.style.transition = 'none'
       behindRef.current.style.transform = BEHIND_BASE
     }
+    dragActive.current = false
+    mxRef.current = 0
+    axisLock.current = null
+    setBehindDirection(null)
   }, [index])
 
   function setFront(x: number) {
@@ -753,6 +981,7 @@ export default function ResultPage({
   }
 
   function springBack() {
+    if (!dragActive.current && !animating.current) return
     if (frontRef.current) {
       frontRef.current.style.transition = 'transform 0.28s cubic-bezier(0.22,1,0.36,1)'
       frontRef.current.style.transform = 'translateX(0px) rotate(0deg)'
@@ -761,6 +990,10 @@ export default function ResultPage({
       behindRef.current.style.transition = 'transform 0.28s cubic-bezier(0.22,1,0.36,1)'
       behindRef.current.style.transform = BEHIND_BASE
     }
+    dragActive.current = false
+    mxRef.current = 0
+    axisLock.current = null
+    window.setTimeout(() => setBehindDirection(null), 280)
   }
 
   function flyOff(dir: -1 | 1) {
@@ -778,22 +1011,30 @@ export default function ResultPage({
     }
     window.setTimeout(() => {
       setIndex((i) => (dir < 0 ? Math.min(i + 1, n - 1) : Math.max(i - 1, 0)))
+      dragActive.current = false
+      mxRef.current = 0
+      axisLock.current = null
+      setBehindDirection(null)
       animating.current = false
     }, 230)
   }
 
   function onPointerDown(e: React.PointerEvent) {
+    dragActive.current = false
     if (animating.current) return
+    if (isInteractiveTarget(e.target)) return
     startX.current = e.clientX
     startY.current = e.clientY
     axisLock.current = null
     mxRef.current = 0
+    dragActive.current = true
+    setBehindDirection(null)
     if (frontRef.current) frontRef.current.style.transition = 'none'
     if (behindRef.current) behindRef.current.style.transition = 'none'
     ;(e.currentTarget as HTMLElement).setPointerCapture?.(e.pointerId)
   }
   function onPointerMove(e: React.PointerEvent) {
-    if (e.buttons === 0 || animating.current) return
+    if (!dragActive.current || e.buttons === 0 || animating.current) return
     const mx = e.clientX - startX.current
     const my = e.clientY - startY.current
     if (axisLock.current === null) {
@@ -801,10 +1042,14 @@ export default function ResultPage({
     }
     if (axisLock.current === 'x') {
       mxRef.current = mx
+      if (mx < -4 && index < n - 1) setBehindDirection(-1)
+      else if (mx > 4 && index > 0) setBehindDirection(1)
+      else setBehindDirection(null)
       setFront(mx)
     }
   }
   function onPointerUp() {
+    if (!dragActive.current) return
     const mx = mxRef.current
     const threshold = 70
     if (axisLock.current === 'x' && mx <= -threshold && index < n - 1) return flyOff(-1)
@@ -812,10 +1057,25 @@ export default function ResultPage({
     springBack()
   }
 
+  function onContentPointerDown(e: React.PointerEvent) {
+    e.stopPropagation()
+    onPointerDown(e)
+  }
+
+  function onContentPointerMove(e: React.PointerEvent) {
+    e.stopPropagation()
+    onPointerMove(e)
+  }
+
+  function onContentPointerUp(e: React.PointerEvent) {
+    e.stopPropagation()
+    onPointerUp()
+  }
+
   // 注意：用普通函数渲染而非 <Card/> 组件，避免每次 setState 重建组件类型导致输入框失焦
   const renderCard = (section: Section) => {
     return (
-      <div className="flex h-full w-full flex-col overflow-hidden rounded-[30px] border border-[#20CDB6]/20 bg-white/[0.92] shadow-[0_26px_90px_rgba(18,116,103,0.18)] backdrop-blur-xl">
+      <div className="flex h-full w-full select-none flex-col overflow-hidden rounded-[30px] border border-[#20CDB6]/20 bg-white/[0.92] shadow-[0_26px_90px_rgba(18,116,103,0.18)] backdrop-blur-xl">
         <div className="h-1.5 bg-gradient-to-r from-[#20CDB6] via-[#20CDB6]/75 to-[#20CDB6]/10" />
         <div className="flex items-baseline justify-between px-7 pt-6">
           <div className="flex items-center gap-2">
@@ -827,7 +1087,26 @@ export default function ResultPage({
           </span>
         </div>
         <div className="mx-7 mt-3 h-px bg-[#20CDB6]/10" />
-        <div className="flex-1 overflow-y-auto px-7 pb-7 pt-5">{section.node}</div>
+        <div
+          className="flex-1 touch-pan-y overflow-y-auto px-7 pb-7 pt-5"
+          onPointerDown={onContentPointerDown}
+          onPointerMove={onContentPointerMove}
+          onPointerUp={onContentPointerUp}
+          onPointerCancel={springBack}
+        >
+          {section.node}
+        </div>
+        {section.evidenceItems && section.evidenceItems.length > 0 && (
+          <div className="mx-7 border-t border-[#20CDB6]/10 py-2">
+            <button
+              type="button"
+              onClick={() => openEvidenceItems(section.evidenceTitle || `${section.label}依据`, section.evidenceItems || [])}
+              className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white/80 px-4 py-2.5 text-sm font-semibold text-[#128f80] shadow-sm transition hover:border-[#20CDB6] hover:bg-[#20CDB6] hover:text-white"
+            >
+              {section.evidenceLabel || '查看本页依据'}
+            </button>
+          </div>
+        )}
         <div className="mx-7 border-t border-[#20CDB6]/10 py-3">
           <p className="text-center text-[11px] leading-relaxed text-slate-400">
             本产品用于运动健康内容辨析，不构成医疗诊断或个体化治疗建议。
@@ -855,24 +1134,18 @@ export default function ResultPage({
           >
             {exporting ? '保存中' : '保存结果'}
           </button>
-          <button
-            onClick={() => onViewRefs()}
-            className="rounded-full border border-slate-200 bg-white/70 px-3 py-1.5 font-medium text-slate-500 shadow-sm backdrop-blur transition hover:border-[#20CDB6]/35 hover:text-[#128f80]"
-          >
-            查看依据
-          </button>
         </div>
       </header>
 
       {/* 单卡拖拽区 */}
       <div className="relative z-10 flex-1 overflow-hidden px-6 py-3">
-        {next && (
+        {behind && (
           <div
             ref={behindRef}
             className="absolute inset-x-6 inset-y-3 opacity-75 will-change-transform"
             style={{ transform: BEHIND_BASE }}
           >
-            {renderCard(next)}
+            {renderCard(behind)}
           </div>
         )}
         <div

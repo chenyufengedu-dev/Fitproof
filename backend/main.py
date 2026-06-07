@@ -497,7 +497,7 @@ def health():
 
 @app.get("/api/preset/{preset_id}")
 def get_preset(preset_id: str):
-    if preset_id not in {"1", "2", "3"}:
+    if preset_id not in {"1", "2", "3", "5"}:
         raise HTTPException(status_code=404, detail="预置话题不存在")
     path = os.path.join(PRESETS_DIR, f"{preset_id}.json")
     try:

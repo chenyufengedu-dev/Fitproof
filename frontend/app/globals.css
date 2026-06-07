@@ -74,3 +74,18 @@ body {
     transform: translate3d(46px, -38px, 0);
   }
 }
+
+.fitproof-cat-float {
+  animation: fitproofCatFloat 3.8s ease-in-out infinite;
+  transform-origin: 50% 70%;
+}
+
+@keyframes fitproofCatFloat {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) rotate(-1deg);
+  }
+  50% {
+    transform: translate3d(0, -5px, 0) rotate(1deg);
+  }
+}

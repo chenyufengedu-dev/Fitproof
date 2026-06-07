@@ -13,20 +13,21 @@ const STEPS = [
   '计算置信度与风险边界',
   '生成 FitProof 核验报告',
 ]
+const STEP_DURATIONS = [900, 1100, 1200, 1100, 900]
 
 export default function LoadingPage({ topic }: LoadingPageProps) {
   const [active, setActive] = useState(0)
 
   useEffect(() => {
-    if (active >= STEPS.length - 1) return
-    const t = setTimeout(() => setActive((a) => a + 1), 900)
+    if (active >= STEPS.length) return
+    const t = setTimeout(() => setActive((a) => a + 1), STEP_DURATIONS[active] || 1000)
     return () => clearTimeout(t)
   }, [active])
 
-  const pct = Math.round(((active + 1) / STEPS.length) * 100)
+  const pct = Math.round((Math.min(active + 1, STEPS.length) / STEPS.length) * 100)
 
   return (
-    <main className="flex min-h-[100dvh] items-center justify-center bg-[#f3fbf9] px-5">
+    <main className="flex min-h-[100dvh] select-none items-center justify-center bg-[#f3fbf9] px-5">
       <section className="w-full max-w-md rounded-[28px] border border-[#20CDB6]/15 bg-white p-7 shadow-[0_20px_60px_rgba(18,116,103,0.10)]">
         {/* 品牌行 */}
         <div className="mb-7 flex items-center justify-between">
@@ -53,8 +54,18 @@ export default function LoadingPage({ topic }: LoadingPageProps) {
           </div>
         </div>
 
-        <p className="text-center text-xs text-slate-400">正在核验</p>
-        <h2 className="mb-7 text-center text-lg font-semibold text-slate-900">{topic}</h2>
+        <div className="mb-7 flex items-center gap-4 rounded-3xl border border-[#20CDB6]/10 bg-[#f3fbf9] px-5 py-3">
+          <img
+            src="/brand/cat-checking.png"
+            alt=""
+            aria-hidden
+            className="fitproof-cat-float pointer-events-none w-14 shrink-0 drop-shadow-[0_12px_20px_rgba(15,118,110,0.16)]"
+          />
+          <div className="min-w-0">
+            <p className="text-xs text-slate-400">正在核验</p>
+            <h2 className="truncate text-lg font-semibold text-slate-900">{topic}</h2>
+          </div>
+        </div>
 
         {/* 分步清单 */}
         <ul className="space-y-3.5">
