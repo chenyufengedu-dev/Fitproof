@@ -29,3 +29,7 @@ backend/test_frame.jpg
 # ===== 系统 =====
 .DS_Store
 Thumbs.db
+
+# ===== 本地工具配置（各人机器不同，不共享）=====
+.claude/
+
