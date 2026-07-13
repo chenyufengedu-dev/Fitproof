@@ -14,14 +14,12 @@
 
 拆条脚本要调用 DeepSeek，所以运行它的电脑需要配 API 密钥：
 
-1. 装依赖（首次）：`cd D:/PointMap/backend && pip install -r requirements.txt pymupdf`
+1. 装依赖（首次）：`pip install openai pymupdf rapidocr-onnxruntime python-dotenv`
 2. 申请密钥：去 https://platform.deepseek.com 注册 → 充值（拆条很便宜，几十元够拆很多本）→ 创建 API Key。
-3. **配置密钥**：把 `backend/.env.example` 复制成 `backend/.env`，打开 `.env`，把密钥填到 `DEEPSEEK_API_KEY=` 后面。保存。
-   - `.env` 不会上传 git，也不会随项目文件传播，所以每台机器要各自建自己的 `.env`。
-   - 纯拆条只需填 `DEEPSEEK_API_KEY` 一项，其余可留空。
-4. 验证：`python -c "from dotenv import load_dotenv;import os;load_dotenv();print('OK' if os.getenv('DEEPSEEK_API_KEY') else '密钥没填')"`
+3. **填密钥（最简单）**：用记事本打开 `ingest_evidence.py`，在文件顶部找到 `API_KEY = ""`，把密钥填进引号里，例如 `API_KEY = "sk-1234..."`，保存。就这一步。
 
-> 多人分工时：谁的电脑跑拆条，谁就配自己的 `.env`。只负责收集 PDF、不跑脚本的人不需要密钥。
+> 多人分工时：谁的电脑跑拆条，谁就在自己那份脚本顶部填自己的密钥。只负责收集 PDF、不跑脚本的人不需要密钥。
+> 填了密钥的脚本别提交到 git（各自本地用即可），避免密钥外泄。
 
 ## 1. 工具与方法
 

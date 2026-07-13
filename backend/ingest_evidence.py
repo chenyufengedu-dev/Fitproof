@@ -23,33 +23,66 @@ import time
 import argparse
 
 import fitz  # pymupdf
-from dotenv import load_dotenv
 from openai import OpenAI
 
 sys.stdout.reconfigure(encoding="utf-8")
-load_dotenv()
 
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
+# ============================================================
+#  在下面引号中间填入你的 DeepSeek API 密钥，然后保存本文件即可。
+#  （去 https://platform.deepseek.com 注册→充值→创建 API Key）
+API_KEY = ""      # 例如： API_KEY = "sk-1234567890abcdef"
+# ============================================================
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+
+# 读 .env（若脚本同目录下有 .env 就加载；没装 python-dotenv 或没有 .env 也不报错，可用其它方式给密钥）
+try:
+    from dotenv import load_dotenv
+    load_dotenv(os.path.join(BASE, ".env"))
+    load_dotenv()  # 再兜底找当前工作目录
+except Exception:
+    pass
+
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-# 拆条是机械的“阅读理解+结构化”，不需要推理模型。
-# 默认强制用快模型 deepseek-v4-flash（非推理），比 .env 里的 deepseek-v4-pro 快很多、省很多 token。
-# 若确需换模型，用命令行 --model 覆盖。
+# 拆条是机械的“阅读理解+结构化”，不需要推理模型，默认快模型（非推理）。
 INGEST_MODEL = os.getenv("INGEST_MODEL", "deepseek-v4-flash")
 
-BASE = os.path.dirname(__file__)
-CACHE_DIR = os.path.join(BASE, "evidence", "cache")   # OCR 文字缓存
-ENTRIES_DIR = os.path.join(BASE, "evidence", "entries")
+# 目录自适应：仓库里用 backend/evidence/*，脚本单独放一个文件夹时用同目录 ./cache ./entries
+_evid = os.path.join(BASE, "evidence")
+if os.path.isdir(_evid):
+    CACHE_DIR = os.path.join(_evid, "cache")
+    ENTRIES_DIR = os.path.join(_evid, "entries")
+else:
+    CACHE_DIR = os.path.join(BASE, "cache")
+    ENTRIES_DIR = os.path.join(BASE, "entries")
 os.makedirs(CACHE_DIR, exist_ok=True)
 os.makedirs(ENTRIES_DIR, exist_ok=True)
 
 _client = None
 _ocr = None
+_api_key = ""
+
+
+def resolve_api_key(cli_key: str = "") -> str:
+    """密钥来源优先级：命令行 --api-key > 文件顶部 API_KEY > 环境变量/.env > 同目录 key.txt。
+    最简单的方式：直接在本文件顶部的 API_KEY = "" 里填。脚本可脱离项目独立运行。"""
+    key = (cli_key or API_KEY or os.getenv("DEEPSEEK_API_KEY", "")).strip()
+    if not key:
+        kt = os.path.join(BASE, "key.txt")
+        if os.path.exists(kt):
+            key = open(kt, encoding="utf-8").read().strip()
+    if not key:
+        raise SystemExit(
+            "缺少 DeepSeek API 密钥。最简单：打开本脚本，在顶部 API_KEY = \"\" 的引号里填入密钥后保存。\n"
+            "（申请：https://platform.deepseek.com）"
+        )
+    return key
 
 
 def client():
     global _client
     if _client is None:
-        _client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL,
+        _client = OpenAI(api_key=_api_key, base_url=DEEPSEEK_BASE_URL,
                          max_retries=3, timeout=120)
     return _client
 
@@ -135,12 +168,30 @@ def slugify(name: str) -> str:
     return re.sub(r"[^\w]+", "-", name).strip("-").lower() or "doc"
 
 
+def resolve_pdf(pdf: str) -> str:
+    """在多个可能位置找 PDF，兼容"脚本单独一个文件夹"和"仓库结构"两种摆法。"""
+    if os.path.isabs(pdf) and os.path.exists(pdf):
+        return pdf
+    fn = os.path.basename(pdf)
+    candidates = [
+        pdf,                                        # 相对当前工作目录
+        os.path.join(BASE, pdf),                    # 相对脚本目录
+        os.path.join(BASE, fn),                     # 脚本同目录直接放 PDF
+        os.path.join(BASE, "raw", fn),              # 脚本同目录 raw/
+        os.path.join(BASE, "evidence", "raw", fn),  # 仓库结构 evidence/raw/
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            return c
+    return pdf  # 都找不到，返回原值让调用方报"找不到"
+
+
 def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
                window=3, dpi=200, model=INGEST_MODEL, force=False):
     """拆一份 PDF → 写 entries/{名}.json，返回条数。已拆过的默认跳过（除非 force）。"""
-    pdf_path = pdf if os.path.isabs(pdf) else os.path.join(BASE, pdf)
+    pdf_path = resolve_pdf(pdf)
     if not os.path.exists(pdf_path):
-        print(f"[skip] 找不到文件：{pdf_path}")
+        print(f"[skip] 找不到文件：{pdf}（把 PDF 放到脚本同目录，或同目录的 raw/ 文件夹）")
         return 0
     # 跳过已处理：entries/{名}.json 已存在且有内容就不重复跑（省时省 token）
     out_existing = os.path.join(ENTRIES_DIR, f"{slugify(doc_name)}.json")
@@ -218,7 +269,7 @@ def run_manifest(path, window, dpi, model, force=False):
         if not fn or fn.startswith("#"):
             continue
         total += ingest_one(
-            pdf=os.path.join("evidence", "raw", fn),
+            pdf=fn,
             org=(r.get("org") or "").strip(),
             doc_name=(r.get("doc") or fn).strip(),
             year=(r.get("year") or "").strip(),
@@ -245,7 +296,11 @@ def main():
     ap.add_argument("--model", default=INGEST_MODEL,
                     help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
     ap.add_argument("--force", action="store_true", help="强制重拆已处理过的文档")
+    ap.add_argument("--api-key", default="", help="DeepSeek 密钥；也可用 .env / key.txt 提供")
     args = ap.parse_args()
+
+    global _api_key
+    _api_key = resolve_api_key(args.api_key)
 
     if args.manifest:
         run_manifest(args.manifest, args.window, args.dpi, args.model, args.force)
