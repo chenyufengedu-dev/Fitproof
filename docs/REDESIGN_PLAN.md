@@ -97,6 +97,36 @@
 > - 阈值 0.45 是"命中/未命中降级"的分界；search 返回空即触发"AI 常识判断，未收录依据"降级档。
 > - 数据覆盖会随组员加库变好（如"鱼油"目前只召回到鱼肉相关，补充膳食补剂类文档后改善）——这是数据问题不是检索问题，管线逻辑不用为此改。
 
+## 阶段 3 详细任务（前端）
+
+> 目标：把阶段1的两个新接口接成完整的**单视频核验体验**。单视频为主，双视频现有流程保留不动。
+> 拆成 4 个任务，逐个验收。现有 dual-video（InputPage 预置 + ResultPage 6卡）在整个阶段3保持可用。
+
+**背景**：现状态机 `app/page.tsx` 是 input/loading/result/refs；InputPage 目前纯预置驱动，含"已标记视频/已同步"的抖音接入假象（要去掉，抖音接入已否）；ResultPage 6卡 + 命令式拖拽 + 底部抽屉（保留，别动核心交互）。新后端接口：`POST /api/analyze_single`（链接→主张清单）、`POST /api/verify_claim`（主张→模型核验）。
+
+### 任务 3.1：前端管线打通（MVP，UI 可粗糙）
+- 在 `types.ts` 加类型：`Claim{claim,video_refs,signal,why}`、`VerifyResult{verdict,risk_level,confidence,strength,correction,cited_evidence_ids,evidence[],evidence_status}`、`SingleAnalyzeResponse{reference,claims,keyframes,topic}`。
+- 加 API 客户端函数 `analyzeSingle(link,topic)`、`verifyClaim(claim,topic,video_refs,top_k)`，走 `API_BASE_URL + /api/...`。
+- 扩状态机支持单视频流程：输入链接 → 主张清单 → 点选一条 → 核验结果。**不破坏现有 dual 流程**。
+- **做一个单视频预置样例**（`frontend/data/single-sample.json`，含 reference+claims+一条已核验结果），并加"用样例数据"入口——因为真实 analyze_single 要 1-3 分钟，UI 开发/演示要能离线用样例秒开。
+- UI 先粗糙没关系，重点：数据能从输入流到主张清单流到核验结果，浏览器里点得通。
+- **只把 `cited_evidence_ids` 命中的证据当依据展示**；`cited_evidence_ids` 为空时按"证据不足/降级"呈现（见阶段3前端接入注意点）。
+- 验收：tsc --noEmit 过；浏览器里用样例数据能走通"输入→主张→点选→核验结果"。
+
+### 任务 3.2：输入页重做
+- 单视频（主）/双视频（次）切换；**URL 粘贴**为主输入；去掉"已标记视频/已同步"抖音假象。
+- 剪贴板检测（打开自动识别剪贴板里的抖音链接，弹"检测到视频，一键核验"；HTTP 下无剪贴板权限则降级为手动粘贴）。
+- 文件上传**本任务先不做**（需后端上传接口，另立任务）。
+- 保留预置话题作为"秒开体验"入口。
+
+### 任务 3.3：结果页单视频精修
+- 主张清单卡（列出3~5条主张+signal标签，点选一条）→ 核验卡。
+- 核验卡套用现有医学卡风格（teal、抽屉、无渐变无紫色）：判定/风险/依据强度**渲染模型返回的字段**，不再用前端正则；`correction` + 引用的真实证据（点开抽屉看指南原文+URL）。
+- 复用现有底部抽屉、拖拽；**ResultPage 命令式拖拽和 renderCard 函数式渲染别动**。
+
+### 任务 3.4（较轻，后置）：三 Tab 骨架 + 我的 + 社区
+- 底部三 Tab：核验/社区/我的。我的=核验历史回看；社区=预置卡片演示版。等 3.1-3.3 稳了再做。
+
 ## 六、视频获取层决策（阶段3 实现，先记着别忘）
 
 用户真实场景是"刷抖音拿到 URL"，所以 **URL 为主、文件上传仅兜底**。关键认知与决策：
