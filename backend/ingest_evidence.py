@@ -32,9 +32,9 @@ load_dotenv()
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 # 拆条是机械的“阅读理解+结构化”，不需要推理模型。
-# 默认强制用快模型 deepseek-chat（非推理），比 .env 里的 deepseek-v4-pro 快很多、省很多 token。
+# 默认强制用快模型 deepseek-v4-flash（非推理），比 .env 里的 deepseek-v4-pro 快很多、省很多 token。
 # 若确需换模型，用命令行 --model 覆盖。
-INGEST_MODEL = os.getenv("INGEST_MODEL", "deepseek-chat")
+INGEST_MODEL = os.getenv("INGEST_MODEL", "deepseek-v4-flash")
 
 BASE = os.path.dirname(__file__)
 CACHE_DIR = os.path.join(BASE, "evidence", "cache")   # OCR 文字缓存
@@ -135,48 +135,36 @@ def slugify(name: str) -> str:
     return re.sub(r"[^\w]+", "-", name).strip("-").lower() or "doc"
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("pdf")
-    ap.add_argument("--org", required=True)
-    ap.add_argument("--doc", required=True)
-    ap.add_argument("--year", default="")
-    ap.add_argument("--url", default="")
-    ap.add_argument("--topic", default="", help="领域标签，会写进每条")
-    ap.add_argument("--pages", default="", help="页范围如 35-60，缺省全书")
-    ap.add_argument("--window", type=int, default=3, help="每几页合并成一个抽取窗口（越大调用越少越快）")
-    ap.add_argument("--dpi", type=int, default=200)
-    ap.add_argument("--model", default=INGEST_MODEL,
-                    help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
-    args = ap.parse_args()
-
-    pdf_path = args.pdf if os.path.isabs(args.pdf) else os.path.join(BASE, args.pdf)
+def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
+               window=3, dpi=200, model=INGEST_MODEL):
+    """拆一份 PDF → 写 entries/{名}.json，返回条数。"""
+    pdf_path = pdf if os.path.isabs(pdf) else os.path.join(BASE, pdf)
+    if not os.path.exists(pdf_path):
+        print(f"[skip] 找不到文件：{pdf_path}")
+        return 0
     doc = fitz.open(pdf_path)
-    pages = parse_page_range(args.pages, doc.page_count)
-    cache_key = slugify(args.doc)
-    meta = {"org": args.org, "doc": args.doc, "year": args.year}
-    print(f"[ingest] 《{args.doc}》 共 {doc.page_count} 页，本次处理 {len(pages)} 页，窗口 {args.window} 页，模型 {args.model}")
+    page_list = parse_page_range(pages, doc.page_count)
+    cache_key = slugify(doc_name)
+    meta = {"org": org, "doc": doc_name, "year": year}
+    print(f"[ingest] 《{doc_name}》 共 {doc.page_count} 页，处理 {len(page_list)} 页，窗口 {window}，模型 {model}")
 
-    # 1) 逐页取文字（OCR 有缓存）
     texts = {}
-    for k, pno in enumerate(pages):
-        t = page_text(doc, pno, cache_key, args.dpi)
-        texts[pno] = t
-        print(f"  p{pno}: {len(t)} 字", end="\r")
+    for pno in page_list:
+        texts[pno] = page_text(doc, pno, cache_key, dpi)
+        print(f"  p{pno}: {len(texts[pno])} 字", end="\r")
     print()
 
-    # 2) 按窗口喂 LLM 抽条
     entries = []
     idx = 0
-    prefix = slugify(args.doc)[:12]
-    for i in range(0, len(pages), args.window):
-        win_pages = pages[i:i + args.window]
+    prefix = slugify(doc_name)[:12]
+    for i in range(0, len(page_list), window):
+        win_pages = page_list[i:i + window]
         window_text = "\n".join(texts[p] for p in win_pages if texts[p].strip())
         if len(window_text.strip()) < 40:
             continue
         page_label = f"{win_pages[0] + 1}-{win_pages[-1] + 1}"
         try:
-            raw = llm(extract_prompt(meta, window_text, page_label), model=args.model)
+            raw = llm(extract_prompt(meta, window_text, page_label), model=model)
             data = json.loads(raw)
         except Exception as e:
             print(f"  [warn] 页 {page_label} 抽取失败: {str(e)[:80]}")
@@ -191,22 +179,70 @@ def main():
                 "claim": claim,
                 "section": (e.get("section") or "").strip(),
                 "strength": e.get("strength") or "一般共识",
-                "topics": ([args.topic] if args.topic else []) + (e.get("topics") or []),
-                "source_doc": args.doc,
-                "org": args.org,
-                "year": args.year,
-                "url": args.url,
-                "page": page_label,
+                "topics": ([topic] if topic else []) + (e.get("topics") or []),
+                "source_doc": doc_name, "org": org, "year": year,
+                "url": url, "page": page_label,
             })
         print(f"  页 {page_label}: 累计 {len(entries)} 条")
         time.sleep(0.3)
 
     out = os.path.join(ENTRIES_DIR, f"{cache_key}.json")
     with open(out, "w", encoding="utf-8") as f:
-        json.dump({"doc": args.doc, "org": args.org, "year": args.year,
-                   "url": args.url, "count": len(entries), "entries": entries},
-                  f, ensure_ascii=False, indent=2)
-    print(f"\n[ingest] 完成，共 {len(entries)} 条 → {out}")
+        json.dump({"doc": doc_name, "org": org, "year": year, "url": url,
+                   "count": len(entries), "entries": entries}, f, ensure_ascii=False, indent=2)
+    print(f"[ingest] 完成，共 {len(entries)} 条 → {out}\n")
+    return len(entries)
+
+
+def run_manifest(path, window, dpi, model):
+    """批量模式：读 CSV 清单，逐行拆条。CSV 列：filename,org,doc,year,url,topic,pages"""
+    import csv
+    path = path if os.path.isabs(path) else os.path.join(BASE, path)
+    with open(path, "r", encoding="utf-8-sig") as f:
+        rows = list(csv.DictReader(f))
+    print(f"[manifest] 读到 {len(rows)} 行任务：{path}\n")
+    total = 0
+    for r in rows:
+        fn = (r.get("filename") or "").strip()
+        if not fn or fn.startswith("#"):
+            continue
+        total += ingest_one(
+            pdf=os.path.join("evidence", "raw", fn),
+            org=(r.get("org") or "").strip(),
+            doc_name=(r.get("doc") or fn).strip(),
+            year=(r.get("year") or "").strip(),
+            url=(r.get("url") or "").strip(),
+            topic=(r.get("topic") or "").strip(),
+            pages=(r.get("pages") or "").strip(),
+            window=window, dpi=dpi, model=model,
+        )
+    print(f"[manifest] 全部完成，累计 {total} 条")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("pdf", nargs="?", help="单份 PDF 路径；用 --manifest 时可省略")
+    ap.add_argument("--manifest", default="", help="批量：CSV 清单路径，如 evidence/registry.csv")
+    ap.add_argument("--org", default="")
+    ap.add_argument("--doc", default="")
+    ap.add_argument("--year", default="")
+    ap.add_argument("--url", default="")
+    ap.add_argument("--topic", default="", help="领域标签，会写进每条")
+    ap.add_argument("--pages", default="", help="页范围如 35-60，缺省全书")
+    ap.add_argument("--window", type=int, default=3, help="每几页合并成一个抽取窗口（越大调用越少越快）")
+    ap.add_argument("--dpi", type=int, default=200)
+    ap.add_argument("--model", default=INGEST_MODEL,
+                    help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
+    args = ap.parse_args()
+
+    if args.manifest:
+        run_manifest(args.manifest, args.window, args.dpi, args.model)
+    elif args.pdf:
+        ingest_one(args.pdf, args.org, args.doc or os.path.basename(args.pdf),
+                   args.year, args.url, args.topic, args.pages,
+                   args.window, args.dpi, args.model)
+    else:
+        ap.error("请提供单份 PDF 路径，或用 --manifest 指定 CSV 清单")
 
 
 if __name__ == "__main__":

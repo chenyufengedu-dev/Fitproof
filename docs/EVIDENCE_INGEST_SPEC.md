@@ -12,14 +12,26 @@
 
 ## 1. 工具与方法
 
-仓库已有拆条脚本 `backend/ingest_evidence.py`，它能处理文字版 PDF，也能对扫描版 PDF 自动 OCR。**优先用它**：
+仓库已有拆条脚本 `backend/ingest_evidence.py`，它能处理文字版 PDF，也能对扫描版 PDF 自动 OCR。
+
+### 推荐：批量模式（一条命令跑完清单）
+
+不用为每份 PDF 手搓命令。所有待拆文档登记在 **`backend/evidence/registry.csv`**（列：`filename,org,doc,year,url,topic,pages`），一条命令全跑：
 
 ```bash
 cd D:/PointMap/backend
+python ingest_evidence.py --manifest evidence/registry.csv
+```
+
+脚本会逐行读 CSV，对 `evidence/raw/` 里对应的 PDF 拆条，输出到 `evidence/entries/`。
+**你（执行拆条的 AI）要做的**：收到新 PDF 后，在 `registry.csv` 追加一行（`pages` 列填正文核心页范围，先翻 PDF 目录确定，跳过封面/前言/附录/食谱；留空则整本），然后跑上面这条命令即可。
+
+### 单份模式（临时测一份用）
+
+```bash
 python ingest_evidence.py "evidence/raw/文件名.pdf" \
     --org "发布机构" --doc "文档全名" --year 2022 \
-    --url "该文档的官方来源链接" --topic "领域标签" \
-    [--pages 起-止]   # 只拆核心章节，跳过目录/前言/附录/食谱
+    --url "官方链接" --topic "领域" [--pages 起-止]
 ```
 
 若某文档不适合该脚本（如英文文献、网页导出的 HTML/Markdown），你可自行用等效方法处理，但**输出的 JSON 结构必须和下面第 2 节完全一致**。
