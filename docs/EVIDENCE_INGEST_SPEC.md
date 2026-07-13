@@ -10,6 +10,19 @@
 3. **不得编造原文没有的内容。** 每条结论必须能在原文里找到依据。原文没说的数字、机构、结论，一个字都不许加。
 4. 拆条只做"提炼与结构化"，不做"补充与发挥"。你是搬运工，不是作者。
 
+## 0.5 环境准备（每台要跑拆条的电脑，首次做一次）
+
+拆条脚本要调用 DeepSeek，所以运行它的电脑需要配 API 密钥：
+
+1. 装依赖（首次）：`cd D:/PointMap/backend && pip install -r requirements.txt pymupdf`
+2. 申请密钥：去 https://platform.deepseek.com 注册 → 充值（拆条很便宜，几十元够拆很多本）→ 创建 API Key。
+3. **配置密钥**：把 `backend/.env.example` 复制成 `backend/.env`，打开 `.env`，把密钥填到 `DEEPSEEK_API_KEY=` 后面。保存。
+   - `.env` 不会上传 git，也不会随项目文件传播，所以每台机器要各自建自己的 `.env`。
+   - 纯拆条只需填 `DEEPSEEK_API_KEY` 一项，其余可留空。
+4. 验证：`python -c "from dotenv import load_dotenv;import os;load_dotenv();print('OK' if os.getenv('DEEPSEEK_API_KEY') else '密钥没填')"`
+
+> 多人分工时：谁的电脑跑拆条，谁就配自己的 `.env`。只负责收集 PDF、不跑脚本的人不需要密钥。
+
 ## 1. 工具与方法
 
 仓库已有拆条脚本 `backend/ingest_evidence.py`，它能处理文字版 PDF，也能对扫描版 PDF 自动 OCR。

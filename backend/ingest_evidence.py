@@ -136,12 +136,22 @@ def slugify(name: str) -> str:
 
 
 def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
-               window=3, dpi=200, model=INGEST_MODEL):
-    """拆一份 PDF → 写 entries/{名}.json，返回条数。"""
+               window=3, dpi=200, model=INGEST_MODEL, force=False):
+    """拆一份 PDF → 写 entries/{名}.json，返回条数。已拆过的默认跳过（除非 force）。"""
     pdf_path = pdf if os.path.isabs(pdf) else os.path.join(BASE, pdf)
     if not os.path.exists(pdf_path):
         print(f"[skip] 找不到文件：{pdf_path}")
         return 0
+    # 跳过已处理：entries/{名}.json 已存在且有内容就不重复跑（省时省 token）
+    out_existing = os.path.join(ENTRIES_DIR, f"{slugify(doc_name)}.json")
+    if not force and os.path.exists(out_existing):
+        try:
+            prev = json.load(open(out_existing, encoding="utf-8"))
+            if prev.get("count", 0) > 0:
+                print(f"[skip] 《{doc_name}》已拆过（{prev['count']} 条），跳过。要重拆加 --force")
+                return 0
+        except Exception:
+            pass
     doc = fitz.open(pdf_path)
     page_list = parse_page_range(pages, doc.page_count)
     cache_key = slugify(doc_name)
@@ -194,8 +204,9 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     return len(entries)
 
 
-def run_manifest(path, window, dpi, model):
-    """批量模式：读 CSV 清单，逐行拆条。CSV 列：filename,org,doc,year,url,topic,pages"""
+def run_manifest(path, window, dpi, model, force=False):
+    """批量模式：读 CSV 清单，逐行拆条。CSV 列：filename,org,doc,year,url,topic,pages
+    已拆过的文档自动跳过，所以后续往 CSV 加新行、重跑本命令，只会处理新文档。"""
     import csv
     path = path if os.path.isabs(path) else os.path.join(BASE, path)
     with open(path, "r", encoding="utf-8-sig") as f:
@@ -214,9 +225,9 @@ def run_manifest(path, window, dpi, model):
             url=(r.get("url") or "").strip(),
             topic=(r.get("topic") or "").strip(),
             pages=(r.get("pages") or "").strip(),
-            window=window, dpi=dpi, model=model,
+            window=window, dpi=dpi, model=model, force=force,
         )
-    print(f"[manifest] 全部完成，累计 {total} 条")
+    print(f"[manifest] 本次新增 {total} 条（已拆过的自动跳过）")
 
 
 def main():
@@ -233,14 +244,15 @@ def main():
     ap.add_argument("--dpi", type=int, default=200)
     ap.add_argument("--model", default=INGEST_MODEL,
                     help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
+    ap.add_argument("--force", action="store_true", help="强制重拆已处理过的文档")
     args = ap.parse_args()
 
     if args.manifest:
-        run_manifest(args.manifest, args.window, args.dpi, args.model)
+        run_manifest(args.manifest, args.window, args.dpi, args.model, args.force)
     elif args.pdf:
         ingest_one(args.pdf, args.org, args.doc or os.path.basename(args.pdf),
                    args.year, args.url, args.topic, args.pages,
-                   args.window, args.dpi, args.model)
+                   args.window, args.dpi, args.model, force=args.force)
     else:
         ap.error("请提供单份 PDF 路径，或用 --manifest 指定 CSV 清单")
 
