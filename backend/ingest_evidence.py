@@ -83,7 +83,7 @@ def client():
     global _client
     if _client is None:
         _client = OpenAI(api_key=_api_key, base_url=DEEPSEEK_BASE_URL,
-                         max_retries=3, timeout=120)
+                         max_retries=2, timeout=60)
     return _client
 
 
@@ -193,13 +193,13 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     if not os.path.exists(pdf_path):
         print(f"[skip] 找不到文件：{pdf}（把 PDF 放到脚本同目录，或同目录的 raw/ 文件夹）")
         return 0
-    # 跳过已处理：entries/{名}.json 已存在且有内容就不重复跑（省时省 token）
+    # 跳过已"完整"拆完的文档（complete=True）。未完成的会在下面断点续跑，不跳过。
     out_existing = os.path.join(ENTRIES_DIR, f"{slugify(doc_name)}.json")
     if not force and os.path.exists(out_existing):
         try:
             prev = json.load(open(out_existing, encoding="utf-8"))
-            if prev.get("count", 0) > 0:
-                print(f"[skip] 《{doc_name}》已拆过（{prev['count']} 条），跳过。要重拆加 --force")
+            if prev.get("complete", False) and prev.get("count", 0) > 0:
+                print(f"[skip] 《{doc_name}》已拆完（{prev['count']} 条），跳过。要重拆加 --force")
                 return 0
         except Exception:
             pass
@@ -215,42 +215,67 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
         print(f"  p{pno}: {len(texts[pno])} 字", end="\r")
     print()
 
+    out = os.path.join(ENTRIES_DIR, f"{cache_key}.json")
+
+    def save(entries, complete, done_windows):
+        """把当前进度写盘。complete=False 表示还没跑完（断点续存），杀掉也不丢已拆的。"""
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump({"doc": doc_name, "org": org, "year": year, "url": url,
+                       "complete": complete, "done_windows": done_windows,
+                       "count": len(entries), "entries": entries},
+                      f, ensure_ascii=False, indent=2)
+
+    # 断点续存：若已有未完成的进度文件，从上次的窗口接着跑（除非 force）
     entries = []
-    idx = 0
+    start_win = 0
+    if not force and os.path.exists(out):
+        try:
+            prev = json.load(open(out, encoding="utf-8"))
+            if not prev.get("complete", False) and prev.get("entries"):
+                entries = prev["entries"]
+                start_win = prev.get("done_windows", 0)
+                print(f"  [续跑] 检测到未完成进度：已有 {len(entries)} 条，从第 {start_win} 个窗口继续")
+        except Exception:
+            pass
+
+    idx = len(entries)
     prefix = slugify(doc_name)[:12]
-    for i in range(0, len(page_list), window):
+    windows = list(range(0, len(page_list), window))
+    total_win = len(windows)
+    for wi, i in enumerate(windows):
+        if wi < start_win:
+            continue
         win_pages = page_list[i:i + window]
         window_text = "\n".join(texts[p] for p in win_pages if texts[p].strip())
-        if len(window_text.strip()) < 40:
-            continue
         page_label = f"{win_pages[0] + 1}-{win_pages[-1] + 1}"
-        try:
-            raw = llm(extract_prompt(meta, window_text, page_label), model=model)
-            data = json.loads(raw)
-        except Exception as e:
-            print(f"  [warn] 页 {page_label} 抽取失败: {str(e)[:80]}")
-            continue
-        for e in data.get("entries", []):
-            claim = (e.get("claim") or "").strip()
-            if not claim:
-                continue
-            idx += 1
-            entries.append({
-                "id": f"E-{prefix}-{idx:03d}",
-                "claim": claim,
-                "section": (e.get("section") or "").strip(),
-                "strength": e.get("strength") or "一般共识",
-                "topics": ([topic] if topic else []) + (e.get("topics") or []),
-                "source_doc": doc_name, "org": org, "year": year,
-                "url": url, "page": page_label,
-            })
-        print(f"  页 {page_label}: 累计 {len(entries)} 条")
-        time.sleep(0.3)
+        if len(window_text.strip()) >= 40:
+            try:
+                raw = llm(extract_prompt(meta, window_text, page_label), model=model)
+                data = json.loads(raw)
+            except Exception as e:
+                print(f"  [warn] 页 {page_label} 抽取失败，跳过: {str(e)[:80]}")
+                data = {"entries": []}
+            for e in data.get("entries", []):
+                claim = (e.get("claim") or "").strip()
+                if not claim:
+                    continue
+                idx += 1
+                entries.append({
+                    "id": f"E-{prefix}-{idx:03d}",
+                    "claim": claim,
+                    "section": (e.get("section") or "").strip(),
+                    "strength": e.get("strength") or "一般共识",
+                    "topics": ([topic] if topic else []) + (e.get("topics") or []),
+                    "source_doc": doc_name, "org": org, "year": year,
+                    "url": url, "page": page_label,
+                })
+            print(f"  窗口 {wi + 1}/{total_win}（页{page_label}）：累计 {len(entries)} 条")
+        # 每 5 个窗口存一次盘（断点续存），中途被杀也不丢进度
+        if (wi + 1) % 5 == 0:
+            save(entries, complete=False, done_windows=wi + 1)
+        time.sleep(0.2)
 
-    out = os.path.join(ENTRIES_DIR, f"{cache_key}.json")
-    with open(out, "w", encoding="utf-8") as f:
-        json.dump({"doc": doc_name, "org": org, "year": year, "url": url,
-                   "count": len(entries), "entries": entries}, f, ensure_ascii=False, indent=2)
+    save(entries, complete=True, done_windows=total_win)
     print(f"[ingest] 完成，共 {len(entries)} 条 → {out}\n")
     return len(entries)
 
