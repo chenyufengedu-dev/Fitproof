@@ -31,7 +31,10 @@ load_dotenv()
 
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+# 拆条是机械的“阅读理解+结构化”，不需要推理模型。
+# 默认强制用快模型 deepseek-chat（非推理），比 .env 里的 deepseek-v4-pro 快很多、省很多 token。
+# 若确需换模型，用命令行 --model 覆盖。
+INGEST_MODEL = os.getenv("INGEST_MODEL", "deepseek-chat")
 
 BASE = os.path.dirname(__file__)
 CACHE_DIR = os.path.join(BASE, "evidence", "cache")   # OCR 文字缓存
@@ -59,10 +62,10 @@ def ocr_engine():
     return _ocr
 
 
-# 注意：deepseek-v4-pro 是推理模型，max_tokens 必须给足（>=8192），否则 content 为空
-def llm(prompt: str, max_tokens: int = 8192) -> str:
+# 用快模型（非推理）做拆条：max_tokens 4096 足够，不会有推理模型的空 content 问题
+def llm(prompt: str, model: str, max_tokens: int = 4096) -> str:
     resp = client().chat.completions.create(
-        model=DEEPSEEK_MODEL,
+        model=model,
         messages=[{"role": "user", "content": prompt}],
         max_tokens=max_tokens,
         temperature=0.2,
@@ -141,8 +144,10 @@ def main():
     ap.add_argument("--url", default="")
     ap.add_argument("--topic", default="", help="领域标签，会写进每条")
     ap.add_argument("--pages", default="", help="页范围如 35-60，缺省全书")
-    ap.add_argument("--window", type=int, default=2, help="每几页合并成一个抽取窗口")
+    ap.add_argument("--window", type=int, default=3, help="每几页合并成一个抽取窗口（越大调用越少越快）")
     ap.add_argument("--dpi", type=int, default=200)
+    ap.add_argument("--model", default=INGEST_MODEL,
+                    help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
     args = ap.parse_args()
 
     pdf_path = args.pdf if os.path.isabs(args.pdf) else os.path.join(BASE, args.pdf)
@@ -150,7 +155,7 @@ def main():
     pages = parse_page_range(args.pages, doc.page_count)
     cache_key = slugify(args.doc)
     meta = {"org": args.org, "doc": args.doc, "year": args.year}
-    print(f"[ingest] 《{args.doc}》 共 {doc.page_count} 页，本次处理 {len(pages)} 页，窗口 {args.window} 页")
+    print(f"[ingest] 《{args.doc}》 共 {doc.page_count} 页，本次处理 {len(pages)} 页，窗口 {args.window} 页，模型 {args.model}")
 
     # 1) 逐页取文字（OCR 有缓存）
     texts = {}
@@ -171,7 +176,7 @@ def main():
             continue
         page_label = f"{win_pages[0] + 1}-{win_pages[-1] + 1}"
         try:
-            raw = llm(extract_prompt(meta, window_text, page_label))
+            raw = llm(extract_prompt(meta, window_text, page_label), model=args.model)
             data = json.loads(raw)
         except Exception as e:
             print(f"  [warn] 页 {page_label} 抽取失败: {str(e)[:80]}")
