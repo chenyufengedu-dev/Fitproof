@@ -464,8 +464,8 @@ def clean_transcript(raw_text: str) -> str:
         f"{raw_text}"
     )
     try:
-        cleaned = llm_chat(prompt, max_tokens=8192).strip()
-        # 推理模型偶发返回空 content，此时退回原始转写，保证不丢内容
+        # 清洗是机械的加标点/纠错，用快模型即可（不用推理模型，省一半时间）
+        cleaned = llm_chat(prompt, max_tokens=4096, model=DEEPSEEK_FAST_MODEL).strip()
         return cleaned if cleaned else raw_text
     except Exception as e:
         print(f"[clean] 清洗失败，退回原始转写: {str(e)[:120]}")
@@ -601,8 +601,15 @@ def extract_one_video(index: int, link: str) -> dict:
             except OSError:
                 pass
     print(f"[extract] 视频{index} 转写 raw_text={len(raw_text)} 字 segments={len(segments)} 段")
-    clean_text = clean_transcript(raw_text) if raw_text else ""
-    print(f"[extract] 视频{index} 清洗后 clean_text={len(clean_text)} 字")
+    # 云 ASR 返回的文本已带标点、已干净，跳过清洗省 ~20s；本地 Whisper 才需要清洗
+    if not raw_text:
+        clean_text = ""
+    elif get_asr_provider() == "dashscope":
+        clean_text = raw_text
+        print(f"[extract] 视频{index} 云ASR文本已干净，跳过清洗")
+    else:
+        clean_text = clean_transcript(raw_text)
+        print(f"[extract] 视频{index} 清洗后 clean_text={len(clean_text)} 字")
 
     keyframes: list[dict] = []
     if ENABLE_KEYFRAMES and detail.get("video_url") and segments:
