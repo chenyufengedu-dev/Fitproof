@@ -205,15 +205,20 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
             pass
     doc = fitz.open(pdf_path)
     page_list = parse_page_range(pages, doc.page_count)
+    # 容错：pages 被 Excel 转成日期序列号等乱码（给了值但解析后一页都不在范围内）→ 改为拆整本
+    if pages.strip() and not page_list:
+        print(f"  [警告] pages=\"{pages}\" 不是有效页码范围（可能被 Excel 转坏），改为拆整本 {doc.page_count} 页", flush=True)
+        page_list = list(range(doc.page_count))
     cache_key = slugify(doc_name)
     meta = {"org": org, "doc": doc_name, "year": year}
-    print(f"[ingest] 《{doc_name}》 共 {doc.page_count} 页，处理 {len(page_list)} 页，窗口 {window}，模型 {model}")
+    print(f"[ingest] 《{doc_name}》 共 {doc.page_count} 页，处理 {len(page_list)} 页，窗口 {window}，模型 {model}", flush=True)
 
     texts = {}
-    for pno in page_list:
+    total_p = len(page_list)
+    for i, pno in enumerate(page_list, 1):
         texts[pno] = page_text(doc, pno, cache_key, dpi)
-        print(f"  p{pno}: {len(texts[pno])} 字", end="\r")
-    print()
+        print(f"  读取/OCR 第 {i}/{total_p} 页（原书p{pno + 1}）：{len(texts[pno])} 字      ", end="\r", flush=True)
+    print(flush=True)
 
     out = os.path.join(ENTRIES_DIR, f"{cache_key}.json")
 
@@ -269,7 +274,7 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
                     "source_doc": doc_name, "org": org, "year": year,
                     "url": url, "page": page_label,
                 })
-            print(f"  窗口 {wi + 1}/{total_win}（页{page_label}）：累计 {len(entries)} 条")
+            print(f"  窗口 {wi + 1}/{total_win}（页{page_label}）：累计 {len(entries)} 条", flush=True)
         # 每 5 个窗口存一次盘（断点续存），中途被杀也不丢进度
         if (wi + 1) % 5 == 0:
             save(entries, complete=False, done_windows=wi + 1)
@@ -288,22 +293,30 @@ def run_manifest(path, window, dpi, model, force=False):
     with open(path, "r", encoding="utf-8-sig") as f:
         rows = list(csv.DictReader(f))
     print(f"[manifest] 读到 {len(rows)} 行任务：{path}\n")
+    jobs = [r for r in rows if (r.get("filename") or "").strip() and not (r.get("filename") or "").strip().startswith("#")]
     total = 0
-    for r in rows:
+    failed = []
+    for n, r in enumerate(jobs, 1):
         fn = (r.get("filename") or "").strip()
-        if not fn or fn.startswith("#"):
-            continue
-        total += ingest_one(
-            pdf=fn,
-            org=(r.get("org") or "").strip(),
-            doc_name=(r.get("doc") or fn).strip(),
-            year=(r.get("year") or "").strip(),
-            url=(r.get("url") or "").strip(),
-            topic=(r.get("topic") or "").strip(),
-            pages=(r.get("pages") or "").strip(),
-            window=window, dpi=dpi, model=model, force=force,
-        )
-    print(f"[manifest] 本次新增 {total} 条（已拆过的自动跳过）")
+        print(f"\n========== [{n}/{len(jobs)}] {fn} ==========", flush=True)
+        try:
+            total += ingest_one(
+                pdf=fn,
+                org=(r.get("org") or "").strip(),
+                doc_name=(r.get("doc") or fn).strip(),
+                year=(r.get("year") or "").strip(),
+                url=(r.get("url") or "").strip(),
+                topic=(r.get("topic") or "").strip(),
+                pages=(r.get("pages") or "").strip(),
+                window=window, dpi=dpi, model=model, force=force,
+            )
+        except Exception as e:
+            # 单个文件失败：打印原因、记下、跳到下一个，不中断整批
+            print(f"  [失败] {fn} 处理出错，已跳过。原因：{type(e).__name__}: {str(e)[:150]}", flush=True)
+            failed.append((fn, f"{type(e).__name__}: {str(e)[:100]}"))
+    print(f"\n[manifest] 全部结束：本次新增 {total} 条；成功/跳过见上；失败 {len(failed)} 个", flush=True)
+    for fn, why in failed:
+        print(f"  ✗ {fn} —— {why}", flush=True)
 
 
 def main():
