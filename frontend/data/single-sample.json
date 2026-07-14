@@ -39,61 +39,205 @@
       "why": "说法可能过于单一，需核验是否符合食物多样化原则。"
     }
   ],
-  "sample_verified_claim_index": 0,
-  "sample_verify_result": {
-    "verdict": "基本可信",
-    "risk_level": "低",
-    "confidence": "高",
-    "strength": "高",
-    "correction": "孕妇可以把鸡蛋作为优质蛋白来源，一般不必丢弃蛋黄；但仍应结合鱼、禽、肉、奶、豆等多样化食物，而不是只靠鸡蛋。",
-    "cited_evidence_ids": [
-      "E-中国居民膳食指南-202-128",
-      "E-中国居民膳食指南-202-344"
-    ],
-    "evidence_status": "matched",
-    "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
-    "topic": "孕妇能不能吃蛋黄",
-    "video_refs": [{ "id": 1, "time": "0:12" }],
-    "evidence": [
-      {
-        "id": "E-中国居民膳食指南-202-128",
-        "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
-        "section": "蛋类摄入",
-        "strength": "指南推荐",
-        "topics": ["膳食营养", "鸡蛋", "蛋黄"],
-        "source_doc": "中国居民膳食指南（2022）",
-        "org": "中国营养学会",
-        "year": "2022",
-        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
-        "page": "83-85",
-        "score": 0.6296
-      },
-      {
-        "id": "E-中国居民膳食指南-202-344",
-        "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉150~200g，孕晚期175~225g。",
-        "section": "孕妇膳食指南",
-        "strength": "指南推荐",
-        "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
-        "source_doc": "中国居民膳食指南（2022）",
-        "org": "中国营养学会",
-        "year": "2022",
-        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
-        "page": "176-178",
-        "score": 0.594
-      },
-      {
-        "id": "E-候选但未采纳-001",
-        "claim": "成年人每周应累计进行至少150分钟中等强度有氧运动。",
-        "section": "身体活动",
-        "strength": "指南推荐",
-        "topics": ["身体活动"],
-        "source_doc": "中国居民膳食指南（2022）",
-        "org": "中国营养学会",
-        "year": "2022",
-        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
-        "page": "48-50",
-        "score": 0.451
-      }
-    ]
-  }
+  "sample_verify_results": [
+    {
+      "verdict": "基本可信",
+      "risk_level": "低",
+      "confidence": "高",
+      "strength": "高",
+      "correction": "孕妇可以把鸡蛋作为优质蛋白来源，一般不必丢弃蛋黄；但仍应结合鱼、禽、肉、奶、豆等多样化食物，而不是只靠鸡蛋。",
+      "cited_evidence_ids": [
+        "E-中国居民膳食指南-202-128",
+        "E-中国居民膳食指南-202-344"
+      ],
+      "evidence_status": "matched",
+      "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [{ "id": 1, "time": "0:12" }],
+      "evidence": [
+        {
+          "id": "E-中国居民膳食指南-202-128",
+          "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+          "section": "准则四 适量吃鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "鸡蛋", "蛋黄"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "90-92",
+          "score": 0.6296
+        },
+        {
+          "id": "E-中国居民膳食指南-202-344",
+          "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉（含动物内脏）150~200g，孕晚期175~225g。",
+          "section": "孕期需摄入多少奶、鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "176-178",
+          "score": 0.594
+        },
+        {
+          "id": "E-中国居民膳食指南-202-031",
+          "claim": "禁食减肥常以丢失水分和肌肉为代价，不能维持长久。",
+          "section": "体重过重或过轻怎么办",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "禁食减肥"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "48-50",
+          "score": 0.451
+        }
+      ]
+    },
+    {
+      "verdict": "需要加条件",
+      "risk_level": "中",
+      "confidence": "高",
+      "strength": "高",
+      "correction": "不能简单说孕妇最好别吃蛋黄。对一般人群，每天一个鸡蛋不会增加心血管疾病风险，蛋黄也有营养价值；但如果已有血脂异常、慢性病或家族高危因素，应控制总体膳食胆固醇并咨询专业人员。",
+      "cited_evidence_ids": [
+        "E-中国居民膳食指南-202-127",
+        "E-中国居民膳食指南-202-128",
+        "E-中国居民膳食指南-202-170"
+      ],
+      "evidence_status": "matched",
+      "claim": "蛋黄里的胆固醇会直接让血脂升高，所以孕妇最好别吃",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [{ "id": 1, "time": "0:26" }],
+      "evidence": [
+        {
+          "id": "E-中国居民膳食指南-202-127",
+          "claim": "对一般人群而言，每天吃一个鸡蛋不会增加心血管疾病的发病风险。",
+          "section": "准则四 适量吃鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "鸡蛋", "胆固醇"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "90-92",
+          "score": 0.64
+        },
+        {
+          "id": "E-中国居民膳食指南-202-128",
+          "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+          "section": "准则四 适量吃鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "鸡蛋", "蛋黄"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "90-92",
+          "score": 0.62
+        },
+        {
+          "id": "E-中国居民膳食指南-202-170",
+          "claim": "对患慢性病、血脂偏高或有家族史的高危人群，仍需注意控制膳食胆固醇摄入量。",
+          "section": "知识链接2.科学认识胆固醇",
+          "strength": "指南建议",
+          "topics": ["膳食营养", "胆固醇", "高危人群"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "105-107",
+          "score": 0.58
+        }
+      ]
+    },
+    {
+      "verdict": "可信",
+      "risk_level": "低",
+      "confidence": "高",
+      "strength": "高",
+      "correction": "孕中晚期适当增加奶、鱼、禽、蛋、瘦肉等优质蛋白来源是符合指南方向的，但摄入量应结合孕中期、孕晚期阶段和整体膳食安排。",
+      "cited_evidence_ids": [
+        "E-中国居民膳食指南-202-344",
+        "E-中国居民膳食指南-202-332"
+      ],
+      "evidence_status": "matched",
+      "claim": "孕中晚期需要适当增加鱼、禽、蛋、瘦肉这类优质蛋白",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [{ "id": 1, "time": "0:43" }],
+      "evidence": [
+        {
+          "id": "E-中国居民膳食指南-202-344",
+          "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉（含动物内脏）150~200g，孕晚期175~225g。",
+          "section": "孕期需摄入多少奶、鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "176-178",
+          "score": 0.66
+        },
+        {
+          "id": "E-中国居民膳食指南-202-332",
+          "claim": "建议孕期每周食用1~2次动物血或肝脏、2~3次海产鱼类。",
+          "section": "备孕和孕期妇女膳食指南",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "孕妇", "鱼类"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "171-172",
+          "score": 0.52
+        }
+      ]
+    },
+    {
+      "verdict": "不建议采纳",
+      "risk_level": "中",
+      "confidence": "高",
+      "strength": "高",
+      "correction": "鸡蛋可以作为孕期优质蛋白的一部分，但不能替代其他蛋白质来源。孕期仍应通过奶、鱼、禽、蛋、瘦肉等多类食物形成更完整的营养结构。",
+      "cited_evidence_ids": [
+        "E-中国居民膳食指南-202-344",
+        "E-中国居民膳食指南-202-128"
+      ],
+      "evidence_status": "matched",
+      "claim": "只要吃够鸡蛋，孕期就不用管其他蛋白质来源",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [{ "id": 1, "time": "1:02" }],
+      "evidence": [
+        {
+          "id": "E-中国居民膳食指南-202-344",
+          "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉（含动物内脏）150~200g，孕晚期175~225g。",
+          "section": "孕期需摄入多少奶、鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "176-178",
+          "score": 0.61
+        },
+        {
+          "id": "E-中国居民膳食指南-202-128",
+          "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+          "section": "准则四 适量吃鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "鸡蛋", "蛋黄"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "90-92",
+          "score": 0.56
+        }
+      ]
+    }
+  ]
 }

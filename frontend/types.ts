@@ -97,8 +97,9 @@ export interface SingleAnalyzeResponse {
 }
 
 export interface SingleSampleData extends SingleAnalyzeResponse {
-  sample_verified_claim_index: number
-  sample_verify_result: VerifyResult
+  sample_verify_results: VerifyResult[]
+  sample_verified_claim_index?: number
+  sample_verify_result?: VerifyResult
 }
 
 export interface Analysis {
