@@ -186,9 +186,14 @@ def resolve_pdf(pdf: str) -> str:
     return pdf  # 都找不到，返回原值让调用方报"找不到"
 
 
+# 短文档（≤此页数）忽略 pages 列，直接拆整本——避免短文档页码填偏漏掉内容
+SHORT_DOC_PAGES = 25
+
+
 def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
-               window=3, dpi=200, model=INGEST_MODEL, force=False):
-    """拆一份 PDF → 写 entries/{名}.json，返回条数。已拆过的默认跳过（除非 force）。"""
+               window=3, dpi=200, model=INGEST_MODEL, force=False, redo_below=0):
+    """拆一份 PDF → 写 entries/{名}.json，返回条数。已拆过的默认跳过（除非 force）。
+    redo_below>0 时，已拆但条数< redo_below 的文档会强制重拆（用于补拆之前拆太少的）。"""
     pdf_path = resolve_pdf(pdf)
     if not os.path.exists(pdf_path):
         print(f"[skip] 找不到文件：{pdf}（把 PDF 放到脚本同目录，或同目录的 raw/ 文件夹）")
@@ -199,8 +204,12 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
         try:
             prev = json.load(open(out_existing, encoding="utf-8"))
             if prev.get("complete", False) and prev.get("count", 0) > 0:
-                print(f"[skip] 《{doc_name}》已拆完（{prev['count']} 条），跳过。要重拆加 --force")
-                return 0
+                if redo_below and prev.get("count", 0) < redo_below:
+                    print(f"[重拆] 《{doc_name}》原 {prev['count']} 条 < {redo_below}，强制重拆", flush=True)
+                    force = True
+                else:
+                    print(f"[skip] 《{doc_name}》已拆完（{prev['count']} 条），跳过。要重拆加 --force")
+                    return 0
         except Exception:
             pass
     doc = fitz.open(pdf_path)
@@ -208,6 +217,10 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     # 容错：pages 被 Excel 转成日期序列号等乱码（给了值但解析后一页都不在范围内）→ 改为拆整本
     if pages.strip() and not page_list:
         print(f"  [警告] pages=\"{pages}\" 不是有效页码范围（可能被 Excel 转坏），改为拆整本 {doc.page_count} 页", flush=True)
+        page_list = list(range(doc.page_count))
+    # 短文档：忽略 pages，直接拆整本，避免页码填偏漏内容
+    if doc.page_count <= SHORT_DOC_PAGES and (not page_list or len(page_list) < doc.page_count):
+        print(f"  [短文档] 共 {doc.page_count} 页(≤{SHORT_DOC_PAGES})，忽略 pages 直接拆整本", flush=True)
         page_list = list(range(doc.page_count))
     cache_key = slugify(doc_name)
     meta = {"org": org, "doc": doc_name, "year": year}
@@ -285,7 +298,7 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     return len(entries)
 
 
-def run_manifest(path, window, dpi, model, force=False):
+def run_manifest(path, window, dpi, model, force=False, redo_below=0):
     """批量模式：读 CSV 清单，逐行拆条。CSV 列：filename,org,doc,year,url,topic,pages
     已拆过的文档自动跳过，所以后续往 CSV 加新行、重跑本命令，只会处理新文档。"""
     import csv
@@ -308,7 +321,7 @@ def run_manifest(path, window, dpi, model, force=False):
                 url=(r.get("url") or "").strip(),
                 topic=(r.get("topic") or "").strip(),
                 pages=(r.get("pages") or "").strip(),
-                window=window, dpi=dpi, model=model, force=force,
+                window=window, dpi=dpi, model=model, force=force, redo_below=redo_below,
             )
         except Exception as e:
             # 单个文件失败：打印原因、记下、跳到下一个，不中断整批
@@ -333,7 +346,9 @@ def main():
     ap.add_argument("--dpi", type=int, default=200)
     ap.add_argument("--model", default=INGEST_MODEL,
                     help=f"拆条模型，默认 {INGEST_MODEL}（快模型）。不建议用推理模型，慢且费 token")
-    ap.add_argument("--force", action="store_true", help="强制重拆已处理过的文档")
+    ap.add_argument("--force", action="store_true", help="强制重拆已处理过的所有文档")
+    ap.add_argument("--redo-below", type=int, default=0,
+                    help="只强制重拆'已拆但条数少于该值'的文档（补拆之前拆太少的），如 --redo-below 8")
     ap.add_argument("--api-key", default="", help="DeepSeek 密钥；也可用 .env / key.txt 提供")
     args = ap.parse_args()
 
@@ -341,11 +356,11 @@ def main():
     _api_key = resolve_api_key(args.api_key)
 
     if args.manifest:
-        run_manifest(args.manifest, args.window, args.dpi, args.model, args.force)
+        run_manifest(args.manifest, args.window, args.dpi, args.model, args.force, args.redo_below)
     elif args.pdf:
         ingest_one(args.pdf, args.org, args.doc or os.path.basename(args.pdf),
                    args.year, args.url, args.topic, args.pages,
-                   args.window, args.dpi, args.model, force=args.force)
+                   args.window, args.dpi, args.model, force=args.force, redo_below=args.redo_below)
     else:
         ap.error("请提供单份 PDF 路径，或用 --manifest 指定 CSV 清单")
 
