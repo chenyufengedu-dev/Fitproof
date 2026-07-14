@@ -10,8 +10,13 @@ import requests
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from openai import OpenAI
+
+try:
+    import evidence_store
+except ImportError:
+    from backend import evidence_store
 
 load_dotenv()
 
@@ -19,6 +24,8 @@ TIKHUB_TOKEN = os.getenv("TIKHUB_TOKEN", "")
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+DEEPSEEK_FAST_MODEL = os.getenv("DEEPSEEK_FAST_MODEL", "deepseek-v4-flash")
+DEEPSEEK_REASONING_MODEL = os.getenv("DEEPSEEK_REASONING_MODEL", "deepseek-v4-pro")
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
@@ -74,10 +81,16 @@ def get_llm_client() -> OpenAI:
 # 注意：deepseek-v4-pro 是「推理模型」，会先消耗 token 做隐藏推理(reasoning_content)，
 # 之后才输出 content。max_tokens 给太小会导致 content 为空（finish_reason=length），
 # 因此所有调用都要给足额度（推理预算 + 答案预算）。
-def llm_chat(prompt: str, max_tokens: int = 8192, json_mode: bool = False, retries: int = 3) -> str:
+def llm_chat(
+    prompt: str,
+    max_tokens: int = 8192,
+    json_mode: bool = False,
+    retries: int = 3,
+    model: str | None = None,
+) -> str:
     client = get_llm_client()
     kwargs = {
-        "model": DEEPSEEK_MODEL,
+        "model": model or DEEPSEEK_MODEL,
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": max_tokens,
         "temperature": 0.3,
@@ -101,6 +114,23 @@ def llm_chat(prompt: str, max_tokens: int = 8192, json_mode: bool = False, retri
 class AnalyzeRequest(BaseModel):
     links: list[str]
     topic: str = ""
+
+
+class AnalyzeSingleRequest(BaseModel):
+    link: str
+    topic: str = ""
+
+
+class VideoRefModel(BaseModel):
+    id: int = 1
+    time: str
+
+
+class VerifyClaimRequest(BaseModel):
+    claim: str
+    topic: str = ""
+    video_refs: list[VideoRefModel] = Field(default_factory=list)
+    top_k: int = 5
 
 
 class ChatMessage(BaseModel):
@@ -488,6 +518,201 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Single-video claim extraction + RAG verification
+# ---------------------------------------------------------------------------
+CLAIM_SIGNALS = {"疑似夸大", "有条件", "较公认", "有争议"}
+VERIFY_FIELDS = ["verdict", "risk_level", "confidence", "strength", "correction", "cited_evidence_ids"]
+
+
+def video_to_claim_prompt(topic: str, video: dict) -> str:
+    segs = video.get("segments") or []
+    timed = "\n".join(f"  [{fmt_time(s['start'])}] {s['text']}" for s in segs if s.get("text"))
+    kfs = video.get("keyframes") or []
+    screen = "\n".join(f"  [{fmt_time(k['time'])} 画面] {k.get('screen_text', '')}" for k in kfs)
+    screen_block = screen if screen else "  无可用画面文字"
+    return f"""你是 FitProof 的健康短视频信息拆解助手。请从单条视频中拆出 3~5 条「可核验主张」。
+较公认的说法也要列出，不能只挑刺；目标是让用户选择自己最想核验的一条。
+
+【话题】
+{topic or "健康信息"}
+
+【视频信息】
+作者：{video.get('author', '')}
+标题：{video.get('title', '')}
+整体转写：{video.get('clean_text', '')}
+
+【带时间戳逐句转写】
+{timed}
+
+【画面 OCR】
+{screen_block}
+
+要求：
+1. 每条 claim 尽量保留视频原话或接近原话，不要改写成学术结论。
+2. video_refs 标出该主张来自视频1的大致时间，格式 {{"id":1,"time":"0:12"}}。
+3. signal 只能从 ["疑似夸大","有条件","较公认","有争议"] 中选择。
+4. why 用一句话说明为什么值得核验。
+5. 只输出 JSON，不输出解释。
+
+JSON 格式：
+{{"claims":[
+  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","why":"为什么值得核验"}}
+]}}"""
+
+
+def normalize_claims(data: dict) -> list[dict]:
+    claims = data.get("claims", [])
+    if not isinstance(claims, list):
+        return []
+    normalized = []
+    for item in claims[:5]:
+        if not isinstance(item, dict):
+            continue
+        claim = str(item.get("claim") or "").strip()
+        if not claim:
+            continue
+        refs = item.get("video_refs") or []
+        good_refs = []
+        if isinstance(refs, list):
+            for ref in refs:
+                if not isinstance(ref, dict):
+                    continue
+                time_value = str(ref.get("time") or "").strip()
+                if time_value:
+                    good_refs.append({"id": int(ref.get("id") or 1), "time": time_value})
+        signal = str(item.get("signal") or "").strip()
+        if signal not in CLAIM_SIGNALS:
+            signal = "有条件"
+        normalized.append({
+            "claim": claim,
+            "video_refs": good_refs,
+            "signal": signal,
+            "why": str(item.get("why") or "").strip(),
+        })
+    return normalized
+
+
+def extract_claims_from_video(video: dict, topic: str = "") -> dict:
+    prompt = video_to_claim_prompt(topic, video)
+    raw = llm_chat(prompt, max_tokens=4096, json_mode=True, model=DEEPSEEK_FAST_MODEL)
+    data = parse_json_loose(raw) or {}
+    claims = normalize_claims(data)
+    if not claims:
+        raise HTTPException(status_code=500, detail="AI 未能拆出可核验主张")
+    reference = {
+        "id": video.get("id", 1),
+        "author": video.get("author", ""),
+        "title": video.get("title", ""),
+        "url": video.get("url", ""),
+    }
+    return {
+        "reference": reference,
+        "claims": claims,
+        "keyframes": video.get("keyframes") or [],
+    }
+
+
+def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5) -> tuple[list[dict], str]:
+    topic = topic.strip()
+    if topic:
+        hits = evidence_store.search(claim, topic=topic, top_k=top_k)
+        if hits:
+            return hits, "matched"
+    hits = evidence_store.search(claim, topic="", top_k=top_k)
+    return (hits, "matched") if hits else ([], "not_found")
+
+
+def evidence_prompt_block(evidence: list[dict]) -> str:
+    if not evidence:
+        return "未命中已收录权威依据。以下只能作为 AI 常识判断，必须明确标注这一点，并把 strength/依据强度降为低。"
+    lines = []
+    for item in evidence:
+        lines.append(
+            "\n".join([
+                f"证据ID：{item.get('id', '')}",
+                f"结论：{item.get('claim', '')}",
+                f"章节：{item.get('section', '')}",
+                f"强度：{item.get('strength', '')}",
+                f"来源：{item.get('source_doc', '')} / {item.get('org', '')} / {item.get('year', '')}",
+                f"页码：{item.get('page', '')}",
+                f"URL：{item.get('url', '')}",
+            ])
+        )
+    return "\n\n".join(lines)
+
+
+def build_verify_prompt(claim: str, topic: str, evidence: list[dict], video_refs: list[dict] | None = None) -> str:
+    allowed_ids = [item.get("id", "") for item in evidence]
+    refs_text = json.dumps(video_refs or [], ensure_ascii=False)
+    return f"""你是严谨的健康信息核验助手。请核验用户从短视频中选择的一条主张。
+
+【用户选择的主张】
+{claim}
+
+【话题】
+{topic or "健康信息"}
+
+【视频出处 video_refs】
+{refs_text}
+
+【已检索到的真实权威证据】
+{evidence_prompt_block(evidence)}
+
+规则：
+1. verdict、risk_level、confidence、strength 必须由你基于证据判断后输出，不能依赖关键词模板。
+2. 如果有证据，只能引用上方注入的证据ID：{allowed_ids}；cited_evidence_ids 不得出现其它ID。
+3. 不得编造指南、论文、年份、DOI 或 URL。证据不足就说证据不足。
+4. 如果未命中已收录权威依据，correction 必须包含“未命中已收录权威依据，以下为AI常识判断”，并把 strength 设为“低”。
+5. 只输出 JSON，不输出解释。
+
+JSON 格式：
+{{
+  "verdict": "可信/基本可信/需加条件/证据不足/不建议采纳 等简短判定",
+  "risk_level": "低/中/高",
+  "confidence": "低/中/高",
+  "strength": "低/中/高",
+  "correction": "更准确的说法，说明适用边界",
+  "cited_evidence_ids": ["证据ID"]
+}}"""
+
+
+def parse_verify_result(raw: str, evidence: list[dict]) -> dict:
+    data = parse_json_loose(raw) or {}
+    missing = [k for k in VERIFY_FIELDS if k not in data]
+    if missing:
+        raise HTTPException(status_code=500, detail=f"AI 核验结果缺少字段: {', '.join(missing)}")
+    allowed = {item.get("id") for item in evidence}
+    cited = data.get("cited_evidence_ids") or []
+    if not isinstance(cited, list):
+        cited = []
+    data["cited_evidence_ids"] = [str(cid) for cid in cited if cid in allowed]
+    return data
+
+
+def verify_single_claim(
+    claim: str,
+    topic: str = "",
+    video_refs: list[dict] | None = None,
+    top_k: int = 5,
+) -> dict:
+    evidence, evidence_status = search_evidence_for_claim(claim, topic=topic, top_k=top_k)
+    prompt = build_verify_prompt(claim, topic, evidence, video_refs=video_refs)
+    raw = llm_chat(prompt, max_tokens=8192, json_mode=True, model=DEEPSEEK_REASONING_MODEL)
+    data = parse_verify_result(raw, evidence)
+    if evidence_status == "not_found":
+        data["strength"] = "低"
+        data["cited_evidence_ids"] = []
+    data.update({
+        "claim": claim,
+        "topic": topic,
+        "video_refs": video_refs or [],
+        "evidence_status": evidence_status,
+        "evidence": evidence,
+    })
+    return data
+
+
+# ---------------------------------------------------------------------------
 # Routes
 # ---------------------------------------------------------------------------
 @app.get("/api/health")
@@ -560,6 +785,56 @@ async def analyze(req: AnalyzeRequest):
     return analysis
 
 
+@app.post("/api/analyze_single")
+async def analyze_single(req: AnalyzeSingleRequest):
+    if not req.link.strip():
+        raise HTTPException(status_code=400, detail="请提供一条视频链接")
+    try:
+        video = await asyncio.to_thread(extract_one_video, 1, req.link)
+    except Exception as e:
+        print(f"[analyze_single] 视频提取失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=502, detail="视频内容提取失败，请检查链接或稍后重试")
+
+    if not video.get("clean_text"):
+        raise HTTPException(status_code=502, detail="未能提取到视频文本内容")
+
+    try:
+        result = await asyncio.to_thread(extract_claims_from_video, video, req.topic)
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"[analyze_single] 主张拆解失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="AI 拆解主张失败，请重试")
+
+    result["topic"] = req.topic
+    return result
+
+
+@app.post("/api/verify_claim")
+async def verify_claim(req: VerifyClaimRequest):
+    claim = req.claim.strip()
+    if not claim:
+        raise HTTPException(status_code=400, detail="请提供要核验的主张")
+    top_k = max(1, min(req.top_k, 10))
+    video_refs = [r.model_dump() if hasattr(r, "model_dump") else r.dict() for r in req.video_refs]
+    try:
+        return await asyncio.to_thread(
+            verify_single_claim,
+            claim,
+            req.topic,
+            video_refs,
+            top_k,
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"[verify_claim] 核验失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="AI 核验失败，请重试")
+
+
 @app.post("/api/followup")
 async def followup(req: FollowupRequest):
     history_text = "\n".join(f"{m.role}: {m.content}" for m in req.history)
@@ -580,7 +855,7 @@ async def followup(req: FollowupRequest):
 4. 只有当问题与该运动健康话题**完全无关**时（例如问天气、问股票），才回复：这个问题和当前分析的视频话题无关哦。
 5. 回答简洁清楚，避免空话。"""
     try:
-        answer = await asyncio.to_thread(llm_chat, prompt, 4096)
+        answer = await asyncio.to_thread(llm_chat, prompt, 8192)
     except Exception as e:
         print(f"[followup] 失败: {e}")
         raise HTTPException(status_code=500, detail="追问失败，请重试")

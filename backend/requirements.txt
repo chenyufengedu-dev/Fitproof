@@ -6,3 +6,5 @@ openai
 openai-whisper
 ffmpeg-python
 rapidocr-onnxruntime
+numpy
+sentence-transformers
