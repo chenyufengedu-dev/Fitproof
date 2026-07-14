@@ -2,9 +2,11 @@ import os
 import re
 import json
 import asyncio
+import base64
 import tempfile
 import subprocess
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
 
 import requests
@@ -30,10 +32,20 @@ DEEPSEEK_REASONING_MODEL = os.getenv("DEEPSEEK_REASONING_MODEL", "deepseek-v4-pr
 DASHSCOPE_ASR_MODEL = os.getenv("DASHSCOPE_ASR_MODEL", "paraformer-v2")
 DASHSCOPE_ASR_SAMPLE_RATE = int(os.getenv("DASHSCOPE_ASR_SAMPLE_RATE", "16000"))
 DASHSCOPE_ASR_WAIT_TIMEOUT = int(os.getenv("DASHSCOPE_ASR_WAIT_TIMEOUT", "120"))
+DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
+DASHSCOPE_VL_MODEL = os.getenv("DASHSCOPE_VL_MODEL", "qwen3-vl-flash")
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
-MAX_KEYFRAMES = int(os.getenv("MAX_KEYFRAMES", "3"))
+KEYFRAME_INTERVAL = int(os.getenv("KEYFRAME_INTERVAL", "5"))
+KEYFRAME_MAX = int(os.getenv("KEYFRAME_MAX", os.getenv("MAX_KEYFRAMES", "8")))
+KEYFRAME_SAMPLE_LIMIT = int(os.getenv("KEYFRAME_SAMPLE_LIMIT", "120"))
+KEYFRAME_PHASH_THRESHOLD = int(os.getenv("KEYFRAME_PHASH_THRESHOLD", "8"))
+KEYFRAME_WORKERS = int(os.getenv("KEYFRAME_WORKERS", "16"))
+KEYFRAME_FFMPEG_TIMEOUT = int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", "5"))
+KEYFRAME_GRAB_RETRIES = int(os.getenv("KEYFRAME_GRAB_RETRIES", "1"))
+KEYFRAME_OCR_FALLBACK = os.getenv("KEYFRAME_OCR_FALLBACK", "0") in ("1", "true", "True")
+MAX_KEYFRAMES = KEYFRAME_MAX
 
 PRESETS_DIR = os.path.join(os.path.dirname(__file__), "presets")
 
@@ -51,6 +63,7 @@ app.add_middleware(
 # ---------------------------------------------------------------------------
 _whisper_model = None
 _llm_client = None
+_dashscope_vl_client = None
 _ocr_engine = None
 
 
@@ -80,6 +93,21 @@ def get_llm_client() -> OpenAI:
             timeout=60,
         )
     return _llm_client
+
+
+def get_dashscope_vl_client() -> OpenAI:
+    global _dashscope_vl_client
+    if _dashscope_vl_client is None:
+        api_key = os.getenv("DASHSCOPE_API_KEY", "").strip()
+        if not api_key:
+            raise RuntimeError("关键帧视觉解读需要设置 DASHSCOPE_API_KEY")
+        _dashscope_vl_client = OpenAI(
+            api_key=api_key,
+            base_url=os.getenv("DASHSCOPE_BASE_URL", DASHSCOPE_BASE_URL),
+            max_retries=2,
+            timeout=45,
+        )
+    return _dashscope_vl_client
 
 
 # 注意：deepseek-v4-pro 是「推理模型」，会先消耗 token 做隐藏推理(reasoning_content)，
@@ -185,11 +213,20 @@ def fetch_video_detail(aweme_id: str) -> dict:
     audio_url = detail["music"]["play_url"]["uri"]
     video_urls = (detail.get("video", {}).get("play_addr", {}) or {}).get("url_list") or []
     video_url = video_urls[0] if video_urls else None
+    duration_raw = (
+        detail.get("duration")
+        or (detail.get("video", {}) or {}).get("duration")
+        or (detail.get("video", {}) or {}).get("duration_ms")
+    )
+    duration = None
+    if isinstance(duration_raw, (int, float)) and duration_raw > 0:
+        duration = float(duration_raw) / 1000 if duration_raw > 1000 else float(duration_raw)
     return {
         "title": title,
         "author": author,
         "audio_url": audio_url,
         "video_url": video_url,
+        "duration": duration,
     }
 
 
@@ -473,45 +510,43 @@ def clean_transcript(raw_text: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# 关键帧多模态：按转写时间戳，让 AI 选关键时刻 → ffmpeg 抽帧 → OCR 读屏幕文字
+# 关键帧多模态：定时采样 → HTTP Range 抽帧 → pHash 去重 → Qwen-VL 解读
 # ---------------------------------------------------------------------------
-def pick_keyframe_times(segments: list[dict]) -> list[dict]:
-    """让 DeepSeek 从带时间戳的转写里，挑出画面可能含关键视觉信息的时间点。"""
-    lines = [f"[{int(s['start'])}s] {s['text']}" for s in segments if s["text"]]
-    if not lines:
-        return []
-    transcript = "\n".join(lines)
-    prompt = f"""下面是一段视频的语音转写，每行开头是该句出现的时间（秒）。
-请找出最多 {MAX_KEYFRAMES} 个“画面里很可能出现关键视觉信息”的时间点，
-比如出现表格、数据图、成分表、排行榜、对比、字幕总结、引用来源等
-（说话人常用“如图/这张表/如下/数据显示/总结/对比/榜单/成分”等词）。
+def estimate_video_duration(segments: list[dict] | None = None, duration: float | None = None) -> float:
+    if isinstance(duration, (int, float)) and duration > 0:
+        return float(duration)
+    starts = []
+    for s in segments or []:
+        for key in ("end", "start"):
+            value = s.get(key)
+            if isinstance(value, (int, float)):
+                starts.append(float(value))
+                break
+    return max(starts) if starts else float(KEYFRAME_SAMPLE_LIMIT)
 
-只输出 JSON，格式：
-{{"frames": [{{"time": 时间秒数(整数), "reason": "为什么这一帧可能重要", "quote": "对应的原话"}}]}}
-如果整段都没有值得截图的画面，返回 {{"frames": []}}。
 
-【转写】
-{transcript}"""
-    try:
-        raw = llm_chat(prompt, max_tokens=8192, json_mode=True)
-        data = parse_json_loose(raw) or {}
-        frames = data.get("frames", [])
-        out = []
-        for f in frames[:MAX_KEYFRAMES]:
-            t = f.get("time")
-            if isinstance(t, (int, float)):
-                out.append({"time": int(t), "reason": f.get("reason", ""), "quote": f.get("quote", "")})
-        print(f"[keyframe] AI 选出 {len(out)} 个时间点: {[p['time'] for p in out]}")
-        return out
-    except Exception as e:
-        print(f"[keyframe] 选点失败: {e}")
+def pick_keyframe_times(
+    segments: list[dict] | None,
+    interval: int | None = None,
+    sample_limit: int | None = None,
+    duration: float | None = None,
+) -> list[dict]:
+    """按固定间隔采样，不再让 LLM 从转写反推关键画面。"""
+    interval = max(1, int(interval or KEYFRAME_INTERVAL))
+    sample_limit = max(1, int(sample_limit or KEYFRAME_SAMPLE_LIMIT))
+    duration_sec = min(estimate_video_duration(segments, duration=duration), float(sample_limit))
+    if duration_sec <= 0:
         return []
+    times = list(range(0, int(duration_sec) + 1, interval))
+    print(f"[keyframe] 定时采样 {len(times)} 个时间点: {times}")
+    return [{"time": t} for t in times]
 
 
 def grab_frame(video_url: str, t: int) -> str | None:
     """用 ffmpeg 直接对视频 URL 按时间点拉单帧（HTTP Range，不下载整段）。"""
     fd, path = tempfile.mkstemp(suffix=".jpg")
     os.close(fd)
+    ffmpeg_timeout = max(2, int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", str(KEYFRAME_FFMPEG_TIMEOUT))))
     cmd = [
         "ffmpeg", "-y",
         "-headers", f"User-Agent: {BROWSER_HEADERS['User-Agent']}\r\nReferer: https://www.douyin.com/\r\n",
@@ -519,22 +554,94 @@ def grab_frame(video_url: str, t: int) -> str | None:
         "-reconnect_streamed", "1",
         "-reconnect_delay_max", "5",
         "-ss", str(t),
+        "-rw_timeout", str(ffmpeg_timeout * 1_000_000),
         "-i", video_url,
         "-frames:v", "1",
         path,
     ]
-    for attempt in range(2):
+    retries = max(1, int(os.getenv("KEYFRAME_GRAB_RETRIES", str(KEYFRAME_GRAB_RETRIES))))
+    for attempt in range(retries):
         try:
-            subprocess.run(cmd, capture_output=True, timeout=60)
+            subprocess.run(cmd, capture_output=True, timeout=ffmpeg_timeout)
         except Exception as e:
-            print(f"[keyframe] 抽帧失败 t={t} (第{attempt + 1}次): {e}")
+            remove_file_quietly(path)
+            print(f"[keyframe] 抽帧失败 t={t} (第{attempt + 1}次): {str(e)[:120]}")
         if os.path.exists(path) and os.path.getsize(path) > 0:
             return path
+    remove_file_quietly(path)
+    return None
+
+
+def remove_file_quietly(path: str | None) -> None:
+    if not path:
+        return
     try:
         os.remove(path)
     except OSError:
         pass
-    return None
+
+
+def image_phash(path: str) -> int:
+    """计算 64-bit pHash。失败交给上层 best-effort 跳过该帧。"""
+    from PIL import Image
+    import numpy as np
+
+    with Image.open(path) as img:
+        gray = img.convert("L").resize((32, 32))
+        pixels = np.asarray(gray, dtype=float)
+    n = 32
+    k = 8
+    x = np.arange(n)
+    u = np.arange(k).reshape(-1, 1)
+    basis = np.cos(((2 * x + 1) * u * np.pi) / (2 * n))
+    basis[0, :] *= 1 / np.sqrt(2)
+    dct = (basis @ pixels @ basis.T) / 4
+    low = dct[:8, :8].flatten()
+    median = float(np.median(low[1:]))
+    bits = low > median
+    value = 0
+    for bit in bits:
+        value = (value << 1) | int(bool(bit))
+    return value
+
+
+def phash_distance(a: int, b: int) -> int:
+    return int((a ^ b).bit_count())
+
+
+def _is_none_visual_description(text: str) -> bool:
+    normalized = re.sub(r"[\s。.!！,，；;：:]+", "", (text or "").strip())
+    return normalized in {"", "无", "沒有", "没有", "无关"}
+
+
+def _image_data_url(path: str) -> str:
+    with open(path, "rb") as f:
+        payload = base64.b64encode(f.read()).decode("ascii")
+    return f"data:image/jpeg;base64,{payload}"
+
+
+def describe_frame(path: str) -> str:
+    """用 Qwen-VL 解读单帧；无关画面按提示返回“无”。"""
+    client = get_dashscope_vl_client()
+    prompt = (
+        "描述这帧里与健康说法相关的信息——文字/表格数据/图表趋势/动作示范；"
+        "若只是人脸、转场、与健康无关，只回“无”。"
+    )
+    resp = client.chat.completions.create(
+        model=os.getenv("DASHSCOPE_VL_MODEL", DASHSCOPE_VL_MODEL),
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": _image_data_url(path)}},
+                    {"type": "text", "text": prompt},
+                ],
+            }
+        ],
+        temperature=0.1,
+        max_tokens=512,
+    )
+    return (resp.choices[0].message.content or "").strip()
 
 
 def ocr_image(path: str) -> str:
@@ -545,29 +652,106 @@ def ocr_image(path: str) -> str:
     return " ".join(line[1] for line in res).strip()
 
 
-def extract_keyframes(video_url: str, segments: list[dict]) -> list[dict]:
-    """完整关键帧流程，best-effort：任何环节失败都跳过、不阻断主分析。"""
-    picks = pick_keyframe_times(segments)
-    out = []
-    for p in picks:
-        fp = grab_frame(video_url, p["time"])
+def _grab_frames_parallel(video_url: str, picks: list[dict]) -> list[dict]:
+    if not picks:
+        return []
+    workers = min(KEYFRAME_WORKERS, max(1, len(picks)))
+
+    def one(pick: dict) -> dict | None:
+        t = int(pick["time"])
+        fp = grab_frame(video_url, t)
         if not fp:
-            print(f"[keyframe] t={p['time']}s 抽帧失败，跳过")
-            continue
-        print(f"[keyframe] t={p['time']}s 抽帧成功，OCR 中…")
-        try:
-            text = ocr_image(fp)
-        except Exception as e:
-            print(f"[keyframe] OCR 失败: {e}")
-            text = ""
-        finally:
+            print(f"[keyframe] t={t}s 抽帧失败，跳过")
+            return None
+        return {"time": t, "path": fp}
+
+    frames = []
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(one, p) for p in picks]
+        for future in as_completed(futures):
             try:
-                os.remove(fp)
-            except OSError:
-                pass
-        if text:
-            out.append({"time": p["time"], "reason": p["reason"], "screen_text": text})
-    return out
+                frame = future.result()
+                if frame:
+                    frames.append(frame)
+            except Exception as e:
+                print(f"[keyframe] 并行抽帧失败: {e}")
+    return sorted(frames, key=lambda item: item["time"])
+
+
+def dedupe_frames_by_phash(frames: list[dict], threshold: int | None = None) -> list[dict]:
+    threshold = KEYFRAME_PHASH_THRESHOLD if threshold is None else int(threshold)
+    deduped = []
+    last_hash: int | None = None
+    for frame in frames:
+        try:
+            current_hash = image_phash(frame["path"])
+        except Exception as e:
+            print(f"[keyframe] t={frame['time']}s pHash 失败，跳过: {e}")
+            remove_file_quietly(frame.get("path"))
+            continue
+        if last_hash is not None and phash_distance(last_hash, current_hash) <= threshold:
+            print(f"[keyframe] t={frame['time']}s 与上一帧相似，合并")
+            remove_file_quietly(frame.get("path"))
+            continue
+        frame["phash"] = current_hash
+        deduped.append(frame)
+        last_hash = current_hash
+    return deduped
+
+
+def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
+    if not frames:
+        return []
+    workers = min(KEYFRAME_WORKERS, max(1, len(frames)))
+
+    def one(frame: dict) -> dict | None:
+        try:
+            text = describe_frame(frame["path"])
+        except Exception as e:
+            print(f"[keyframe] t={frame['time']}s 视觉解读失败，跳过: {e}")
+            if not KEYFRAME_OCR_FALLBACK:
+                return None
+            try:
+                text = ocr_image(frame["path"])
+            except Exception as ocr_exc:
+                print(f"[keyframe] t={frame['time']}s OCR 兜底失败，跳过: {ocr_exc}")
+                return None
+        if _is_none_visual_description(text):
+            return None
+        return {"time": frame["time"], "screen_text": text}
+
+    out = []
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(one, frame) for frame in frames]
+        for future in as_completed(futures):
+            try:
+                item = future.result()
+                if item:
+                    out.append(item)
+            except Exception as e:
+                print(f"[keyframe] 并行视觉解读失败: {e}")
+    return sorted(out, key=lambda item: item["time"])
+
+
+def extract_keyframes(
+    video_url: str,
+    segments: list[dict] | None = None,
+    *,
+    duration: float | None = None,
+    max_frames: int | None = None,
+    phash_threshold: int | None = None,
+) -> list[dict]:
+    """完整关键帧流程，best-effort：任何环节失败都跳过、不阻断主分析。"""
+    max_frames = max(1, int(max_frames or KEYFRAME_MAX))
+    picks = pick_keyframe_times(segments or [], duration=duration)
+    grabbed = _grab_frames_parallel(video_url, picks)
+    deduped = dedupe_frames_by_phash(grabbed, threshold=phash_threshold)[:max_frames]
+    print(f"[keyframe] 抽到 {len(grabbed)} 帧，去重后保留 {len(deduped)} 帧，开始视觉解读")
+    try:
+        return _describe_frames_parallel(deduped)
+    finally:
+        for frame in deduped:
+            remove_file_quietly(frame.get("path"))
 
 
 def extract_one_video(index: int, link: str) -> dict:
@@ -577,46 +761,56 @@ def extract_one_video(index: int, link: str) -> dict:
     if not aweme_id:
         raise ValueError(f"无法从链接提取视频ID: {link}")
     detail = fetch_video_detail(aweme_id)
-    mp3_path = ""
-    if get_asr_provider() == "dashscope":
-        try:
-            raw_text, segments = transcribe("", audio_url=detail["audio_url"])
-        except Exception as e:
-            print(f"[asr] URL 直传失败，下载音频后重试/回退: {str(e)[:200]}")
+
+    def run_audio_line() -> tuple[str, list[dict], str]:
+        mp3_path = ""
+        if get_asr_provider() == "dashscope":
+            try:
+                raw, segs = transcribe("", audio_url=detail["audio_url"])
+            except Exception as e:
+                print(f"[asr] URL 直传失败，下载音频后重试/回退: {str(e)[:200]}")
+                mp3_path = download_mp3(detail["audio_url"])
+                try:
+                    raw, segs = transcribe(mp3_path)
+                finally:
+                    remove_file_quietly(mp3_path)
+        else:
             mp3_path = download_mp3(detail["audio_url"])
             try:
-                raw_text, segments = transcribe(mp3_path)
+                raw, segs = transcribe(mp3_path)
             finally:
-                try:
-                    os.remove(mp3_path)
-                except OSError:
-                    pass
-    else:
-        mp3_path = download_mp3(detail["audio_url"])
-        try:
-            raw_text, segments = transcribe(mp3_path)
-        finally:
-            try:
-                os.remove(mp3_path)
-            except OSError:
-                pass
-    print(f"[extract] 视频{index} 转写 raw_text={len(raw_text)} 字 segments={len(segments)} 段")
-    # 云 ASR 返回的文本已带标点、已干净，跳过清洗省 ~20s；本地 Whisper 才需要清洗
-    if not raw_text:
-        clean_text = ""
-    elif get_asr_provider() == "dashscope":
-        clean_text = raw_text
-        print(f"[extract] 视频{index} 云ASR文本已干净，跳过清洗")
-    else:
-        clean_text = clean_transcript(raw_text)
-        print(f"[extract] 视频{index} 清洗后 clean_text={len(clean_text)} 字")
+                remove_file_quietly(mp3_path)
+        print(f"[extract] 视频{index} 转写 raw_text={len(raw)} 字 segments={len(segs)} 段")
+        # 云 ASR 返回的文本已带标点、已干净，跳过清洗省 ~20s；本地 Whisper 才需要清洗
+        if not raw:
+            cleaned = ""
+        elif get_asr_provider() == "dashscope":
+            cleaned = raw
+            print(f"[extract] 视频{index} 云ASR文本已干净，跳过清洗")
+        else:
+            cleaned = clean_transcript(raw)
+            print(f"[extract] 视频{index} 清洗后 clean_text={len(cleaned)} 字")
+        return cleaned, segs, raw
 
-    keyframes: list[dict] = []
-    if ENABLE_KEYFRAMES and detail.get("video_url") and segments:
+    def run_visual_line() -> list[dict]:
+        if not ENABLE_KEYFRAMES or not detail.get("video_url"):
+            return []
         try:
-            keyframes = extract_keyframes(detail["video_url"], segments)
+            duration_segment = [{"start": float(detail["duration"])}] if detail.get("duration") else []
+            return extract_keyframes(detail["video_url"], duration_segment)
         except Exception as e:
             print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
+            return []
+
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        audio_future = pool.submit(run_audio_line)
+        keyframe_future = pool.submit(run_visual_line)
+        clean_text, segments, raw_text = audio_future.result()
+        try:
+            keyframes = keyframe_future.result()
+        except Exception as e:
+            print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
+            keyframes = []
 
     return {
         "id": index,

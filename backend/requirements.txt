@@ -9,3 +9,4 @@ ffmpeg-python
 rapidocr-onnxruntime
 numpy
 sentence-transformers
+Pillow
