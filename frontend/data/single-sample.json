@@ -1,0 +1,99 @@
+{
+  "topic": "孕妇能不能吃蛋黄",
+  "reference": {
+    "id": 1,
+    "author": "营养科普样例",
+    "title": "孕妇吃鸡蛋到底要不要丢蛋黄",
+    "url": "https://www.douyin.com/video/sample-single-fitproof"
+  },
+  "keyframes": [
+    {
+      "time": 18,
+      "reason": "画面出现蛋黄和胆固醇提示",
+      "screen_text": "蛋黄 胆碱 优质蛋白"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+      "video_refs": [{ "id": 1, "time": "0:12" }],
+      "signal": "较公认",
+      "why": "涉及孕期蛋类摄入和蛋黄营养，适合用膳食指南核验。"
+    },
+    {
+      "claim": "蛋黄里的胆固醇会直接让血脂升高，所以孕妇最好别吃",
+      "video_refs": [{ "id": 1, "time": "0:26" }],
+      "signal": "疑似夸大",
+      "why": "把单一营养成分和血脂风险直接画等号，可能忽略总膳食和个体差异。"
+    },
+    {
+      "claim": "孕中晚期需要适当增加鱼、禽、蛋、瘦肉这类优质蛋白",
+      "video_refs": [{ "id": 1, "time": "0:43" }],
+      "signal": "较公认",
+      "why": "属于常见孕期营养建议，但仍需要核对推荐边界。"
+    },
+    {
+      "claim": "只要吃够鸡蛋，孕期就不用管其他蛋白质来源",
+      "video_refs": [{ "id": 1, "time": "1:02" }],
+      "signal": "有条件",
+      "why": "说法可能过于单一，需核验是否符合食物多样化原则。"
+    }
+  ],
+  "sample_verified_claim_index": 0,
+  "sample_verify_result": {
+    "verdict": "基本可信",
+    "risk_level": "低",
+    "confidence": "高",
+    "strength": "高",
+    "correction": "孕妇可以把鸡蛋作为优质蛋白来源，一般不必丢弃蛋黄；但仍应结合鱼、禽、肉、奶、豆等多样化食物，而不是只靠鸡蛋。",
+    "cited_evidence_ids": [
+      "E-中国居民膳食指南-202-128",
+      "E-中国居民膳食指南-202-344"
+    ],
+    "evidence_status": "matched",
+    "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+    "topic": "孕妇能不能吃蛋黄",
+    "video_refs": [{ "id": 1, "time": "0:12" }],
+    "evidence": [
+      {
+        "id": "E-中国居民膳食指南-202-128",
+        "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+        "section": "蛋类摄入",
+        "strength": "指南推荐",
+        "topics": ["膳食营养", "鸡蛋", "蛋黄"],
+        "source_doc": "中国居民膳食指南（2022）",
+        "org": "中国营养学会",
+        "year": "2022",
+        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+        "page": "83-85",
+        "score": 0.6296
+      },
+      {
+        "id": "E-中国居民膳食指南-202-344",
+        "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉150~200g，孕晚期175~225g。",
+        "section": "孕妇膳食指南",
+        "strength": "指南推荐",
+        "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
+        "source_doc": "中国居民膳食指南（2022）",
+        "org": "中国营养学会",
+        "year": "2022",
+        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+        "page": "176-178",
+        "score": 0.594
+      },
+      {
+        "id": "E-候选但未采纳-001",
+        "claim": "成年人每周应累计进行至少150分钟中等强度有氧运动。",
+        "section": "身体活动",
+        "strength": "指南推荐",
+        "topics": ["身体活动"],
+        "source_doc": "中国居民膳食指南（2022）",
+        "org": "中国营养学会",
+        "year": "2022",
+        "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+        "page": "48-50",
+        "score": 0.451
+      }
+    ]
+  }
+}

@@ -1,12 +1,14 @@
 "use client";
 
 import { useState } from "react";
-import type { Analysis, PresetData } from "@/types";
+import type { Analysis, PresetData, SingleSampleData } from "@/types";
 
 interface InputPageProps {
   apiBaseUrl: string;
   onAnalyze: (links: string[], topic: string) => Promise<void>;
   onPresetLoaded: (analysis: Analysis, topic: string) => void;
+  onAnalyzeSingle: (link: string, topic: string) => Promise<void>;
+  onSingleSampleLoaded: (sample: SingleSampleData) => void;
   initialError?: string;
 }
 
@@ -33,11 +35,15 @@ export default function InputPage({
   apiBaseUrl,
   onAnalyze,
   onPresetLoaded,
+  onAnalyzeSingle,
+  onSingleSampleLoaded,
   initialError,
 }: InputPageProps) {
   const [topic, setTopic] = useState("");
+  const [singleLink, setSingleLink] = useState("");
   const [error, setError] = useState(initialError || "");
   const [submitting, setSubmitting] = useState(false);
+  const [singleSubmitting, setSingleSubmitting] = useState(false);
   const [presetLoading, setPresetLoading] = useState<string | null>(null);
   const [selectedPresetId, setSelectedPresetId] = useState(PRESETS[0].id);
 
@@ -50,6 +56,31 @@ export default function InputPage({
       await loadPreset(selectedPreset.id, selectedPreset.label);
     } finally {
       setSubmitting(false);
+    }
+  }
+
+  async function handleSingleSubmit() {
+    const link = singleLink.trim();
+    if (!link) {
+      setError("请先粘贴一条抖音视频链接");
+      return;
+    }
+    setError("");
+    setSingleSubmitting(true);
+    try {
+      await onAnalyzeSingle(link, topic.trim() || "单视频健康核验");
+    } finally {
+      setSingleSubmitting(false);
+    }
+  }
+
+  async function loadSingleSample() {
+    setError("");
+    try {
+      const mod = await import("@/data/single-sample.json");
+      onSingleSampleLoaded(mod.default as SingleSampleData);
+    } catch {
+      setError("单视频样例加载失败");
     }
   }
 
@@ -124,6 +155,45 @@ export default function InputPage({
         </div>
 
         <div className="mt-5 space-y-4 rounded-[28px] border border-white bg-white/75 p-4 shadow-[0_16px_60px_rgba(18,116,103,0.10)] backdrop-blur">
+          <div className="rounded-3xl border border-[#20CDB6]/20 bg-[#f3fbf9] p-4">
+            <div className="flex items-start justify-between gap-3">
+              <div>
+                <p className="text-sm font-semibold text-slate-900">单视频核验 MVP</p>
+                <p className="mt-1 text-xs leading-relaxed text-slate-500">
+                  粘贴 1 条视频链接，先拆主张清单，再点选其中一条做证据核验。
+                </p>
+              </div>
+              <span className="shrink-0 rounded-full bg-white px-2.5 py-1 text-[11px] font-medium text-[#128f80]">
+                新流程
+              </span>
+            </div>
+            <input
+              type="text"
+              value={singleLink}
+              onChange={(e) => setSingleLink(e.target.value)}
+              placeholder="粘贴单条抖音链接，如：https://v.douyin.com/..."
+              className="mt-3 w-full rounded-2xl border border-[#20CDB6]/20 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+            />
+            <div className="mt-3 grid grid-cols-1 gap-2 sm:grid-cols-2">
+              <button
+                type="button"
+                onClick={handleSingleSubmit}
+                disabled={singleSubmitting || presetLoading !== null || submitting}
+                className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
+              >
+                {singleSubmitting ? "正在拆解主张…" : "分析单视频"}
+              </button>
+              <button
+                type="button"
+                onClick={loadSingleSample}
+                disabled={singleSubmitting || presetLoading !== null || submitting}
+                className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-sm font-semibold text-[#128f80] transition hover:border-[#20CDB6] hover:bg-[#20CDB6]/10 disabled:opacity-50"
+              >
+                用样例数据
+              </button>
+            </div>
+          </div>
+
           <div className="flex items-start justify-between gap-3">
             <div>
               <p className="text-sm font-semibold text-slate-900">已标记的疑惑视频</p>
