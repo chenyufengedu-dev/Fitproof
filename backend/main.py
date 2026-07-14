@@ -5,7 +5,6 @@ import asyncio
 import tempfile
 import subprocess
 import traceback
-from http import HTTPStatus
 from typing import Any
 
 import requests
@@ -28,8 +27,9 @@ DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 DEEPSEEK_FAST_MODEL = os.getenv("DEEPSEEK_FAST_MODEL", "deepseek-v4-flash")
 DEEPSEEK_REASONING_MODEL = os.getenv("DEEPSEEK_REASONING_MODEL", "deepseek-v4-pro")
-DASHSCOPE_ASR_MODEL = os.getenv("DASHSCOPE_ASR_MODEL", "paraformer-realtime-v2")
+DASHSCOPE_ASR_MODEL = os.getenv("DASHSCOPE_ASR_MODEL", "paraformer-v2")
 DASHSCOPE_ASR_SAMPLE_RATE = int(os.getenv("DASHSCOPE_ASR_SAMPLE_RATE", "16000"))
+DASHSCOPE_ASR_WAIT_TIMEOUT = int(os.getenv("DASHSCOPE_ASR_WAIT_TIMEOUT", "120"))
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
@@ -240,12 +240,12 @@ def get_asr_provider() -> str:
     return (os.getenv("ASR_PROVIDER", "local") or "local").strip().lower()
 
 
-def transcribe(path: str) -> tuple[str, list[dict]]:
+def transcribe(path: str, audio_url: str | None = None) -> tuple[str, list[dict]]:
     provider = get_asr_provider()
     if provider == "local":
         return transcribe_local(path)
     if provider == "dashscope":
-        return transcribe_dashscope(path)
+        return transcribe_dashscope(path, audio_url=audio_url)
     raise RuntimeError(f"未知 ASR_PROVIDER={provider!r}，请设为 local 或 dashscope")
 
 
@@ -260,90 +260,111 @@ def transcribe_local(path: str) -> tuple[str, list[dict]]:
     return text, segments
 
 
-def transcribe_dashscope(path: str) -> tuple[str, list[dict]]:
+def transcribe_dashscope(path: str, audio_url: str | None = None) -> tuple[str, list[dict]]:
     api_key = os.getenv("DASHSCOPE_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("ASR_PROVIDER=dashscope 时必须设置 DASHSCOPE_API_KEY")
 
     try:
-        import dashscope
-        from dashscope.audio.asr import Recognition
+        from dashscope.audio.asr import Transcription
     except ImportError as exc:
         raise RuntimeError("缺少 dashscope 依赖，请先安装 requirements.txt") from exc
 
-    dashscope.api_key = api_key
-    websocket_url = os.getenv("DASHSCOPE_WEBSOCKET_URL", "").strip()
-    if websocket_url:
-        dashscope.base_websocket_api_url = websocket_url
-
-    sample_rate = int(os.getenv("DASHSCOPE_ASR_SAMPLE_RATE", str(DASHSCOPE_ASR_SAMPLE_RATE)))
-    asr_path = _prepare_dashscope_audio(path, sample_rate)
-    try:
-        recognition = Recognition(
-            model=os.getenv("DASHSCOPE_ASR_MODEL", DASHSCOPE_ASR_MODEL),
-            format="wav",
-            sample_rate=sample_rate,
-            language_hints=["zh", "en"],
-            callback=None,
-        )
-        result = recognition.call(asr_path)
-        status_code = getattr(result, "status_code", None)
-        if status_code not in (None, HTTPStatus.OK, 200, "200"):
-            message = getattr(result, "message", "") or getattr(result, "error_message", "") or str(result)
-            raise RuntimeError(f"DashScope ASR 调用失败: {message}")
-
-        payload = _dashscope_sentence_payload(result)
-        text, segments = _extract_dashscope_text_and_segments(payload)
-        if not text:
-            text, segments = _extract_dashscope_text_and_segments(_object_to_plain(result))
-        if not text:
-            raise RuntimeError("DashScope ASR 未返回可用文本")
-        return text, segments
-    finally:
-        if asr_path != path:
-            try:
-                os.remove(asr_path)
-            except OSError:
-                pass
-
-
-def _prepare_dashscope_audio(path: str, sample_rate: int) -> str:
-    fd, wav_path = tempfile.mkstemp(suffix=".wav")
-    os.close(fd)
-    cmd = [
-        "ffmpeg",
-        "-y",
-        "-i",
-        path,
-        "-ac",
-        "1",
-        "-ar",
-        str(sample_rate),
-        "-f",
-        "wav",
-        wav_path,
-    ]
-    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    if proc.returncode != 0:
+    last_err: Exception | None = None
+    if audio_url:
         try:
-            os.remove(wav_path)
-        except OSError:
-            pass
-        err = proc.stderr.decode("utf-8", errors="ignore")[-600:]
-        raise RuntimeError(f"DashScope ASR 音频转码失败: {err}")
-    return wav_path
+            print("[asr] dashscope 录音文件识别：URL 直传")
+            return _transcribe_dashscope_recorded(Transcription, [audio_url], api_key)
+        except Exception as exc:
+            last_err = exc
+            print(f"[asr] dashscope URL 直传失败，准备回退: {str(exc)[:200]}")
+
+    if path and os.path.exists(path):
+        try:
+            print("[asr] dashscope 录音文件识别：尝试本地文件路径")
+            return _transcribe_dashscope_recorded(Transcription, [path], api_key)
+        except Exception as exc:
+            last_err = exc
+            print(f"[asr] dashscope 本地文件提交失败，回退 local Whisper: {str(exc)[:200]}")
+            return transcribe_local(path)
+
+    if last_err:
+        raise RuntimeError(f"DashScope ASR 失败且无本地音频可回退: {last_err}") from last_err
+    raise RuntimeError("DashScope ASR 需要 audio_url 或本地音频路径")
 
 
-def _dashscope_sentence_payload(result: Any) -> Any:
-    if hasattr(result, "get_sentence"):
-        sentence = result.get_sentence()
-        if sentence:
-            return sentence
-    if hasattr(result, "get_output"):
-        output = result.get_output()
-        if output:
-            return output
-    return getattr(result, "output", result)
+def _transcribe_dashscope_recorded(Transcription: Any, file_urls: list[str], api_key: str) -> tuple[str, list[dict]]:
+    task = Transcription.async_call(
+        model=os.getenv("DASHSCOPE_ASR_MODEL", DASHSCOPE_ASR_MODEL),
+        file_urls=file_urls,
+        api_key=api_key,
+        language_hints=["zh", "en"],
+        timestamp_alignment_enabled=True,
+    )
+    _raise_for_dashscope_response(task, "提交")
+    result = Transcription.wait(
+        task,
+        api_key=api_key,
+        wait_timeout=int(os.getenv("DASHSCOPE_ASR_WAIT_TIMEOUT", str(DASHSCOPE_ASR_WAIT_TIMEOUT))),
+    )
+    _raise_for_dashscope_response(result, "轮询")
+    payload = _dashscope_transcription_payload(result)
+    text, segments = _extract_dashscope_text_and_segments(payload)
+    if not text:
+        raise RuntimeError("DashScope 录音文件识别未返回可用文本")
+    return text, segments
+
+
+def _raise_for_dashscope_response(response: Any, stage: str) -> None:
+    status_code = getattr(response, "status_code", None)
+    if status_code not in (None, 200, "200"):
+        message = getattr(response, "message", "") or getattr(response, "error_message", "") or str(response)
+        raise RuntimeError(f"DashScope ASR {stage}失败: {message}")
+
+
+def _dashscope_transcription_payload(result: Any) -> Any:
+    plain = _object_to_plain(result)
+    output = plain.get("output", plain) if isinstance(plain, dict) else plain
+    if isinstance(output, dict):
+        results = output.get("results")
+        if isinstance(results, list):
+            payloads = []
+            errors = []
+            for item in results:
+                if not isinstance(item, dict):
+                    continue
+                status = str(item.get("subtask_status") or item.get("status") or "").upper()
+                if status and status not in ("SUCCEEDED", "SUCCESS"):
+                    errors.append(item.get("message") or item.get("error_message") or status)
+                    continue
+                url = item.get("transcription_url") or item.get("url")
+                if url:
+                    resp = requests.get(url, timeout=30)
+                    resp.raise_for_status()
+                    payloads.extend(_normalize_dashscope_transcripts(resp.json()))
+            if payloads:
+                return {"transcripts": payloads}
+            if errors:
+                raise RuntimeError(f"DashScope 子任务失败: {'; '.join(str(e) for e in errors)}")
+        if output.get("transcription_url"):
+            resp = requests.get(output["transcription_url"], timeout=30)
+            resp.raise_for_status()
+            return resp.json()
+    return output
+
+
+def _normalize_dashscope_transcripts(payload: Any) -> list[dict]:
+    plain = _object_to_plain(payload)
+    if isinstance(plain, dict):
+        transcripts = plain.get("transcripts")
+        if isinstance(transcripts, list):
+            return [item for item in transcripts if isinstance(item, dict)]
+        sentences = plain.get("sentences")
+        if isinstance(sentences, list):
+            return [plain]
+    if isinstance(plain, list):
+        return [item for item in plain if isinstance(item, dict)]
+    return []
 
 
 def _object_to_plain(value: Any) -> Any:
@@ -375,14 +396,14 @@ def _extract_dashscope_text_and_segments(payload: Any) -> tuple[str, list[dict]]
 
 def _find_sentence_items(value: Any) -> list[Any]:
     if isinstance(value, list):
-        if any(_find_text_value(item) for item in value):
+        if any(isinstance(item, dict) and _find_text_value(item) and _has_time_key(item) for item in value):
             return value
         items: list[Any] = []
         for item in value:
             items.extend(_find_sentence_items(item))
         return items
     if isinstance(value, dict):
-        for key in ("sentence", "sentences", "sentence_list", "segments"):
+        for key in ("sentences", "sentence", "sentence_list", "segments"):
             nested = value.get(key)
             if isinstance(nested, list):
                 return nested
@@ -391,6 +412,10 @@ def _find_sentence_items(value: Any) -> list[Any]:
             if items:
                 return items
     return []
+
+
+def _has_time_key(value: dict) -> bool:
+    return any(key in value for key in ("begin_time", "start_time", "start", "begin"))
 
 
 def _dashscope_sentence_to_segment(item: Any) -> dict:
@@ -552,14 +577,29 @@ def extract_one_video(index: int, link: str) -> dict:
     if not aweme_id:
         raise ValueError(f"无法从链接提取视频ID: {link}")
     detail = fetch_video_detail(aweme_id)
-    mp3_path = download_mp3(detail["audio_url"])
-    try:
-        raw_text, segments = transcribe(mp3_path)
-    finally:
+    mp3_path = ""
+    if get_asr_provider() == "dashscope":
         try:
-            os.remove(mp3_path)
-        except OSError:
-            pass
+            raw_text, segments = transcribe("", audio_url=detail["audio_url"])
+        except Exception as e:
+            print(f"[asr] URL 直传失败，下载音频后重试/回退: {str(e)[:200]}")
+            mp3_path = download_mp3(detail["audio_url"])
+            try:
+                raw_text, segments = transcribe(mp3_path)
+            finally:
+                try:
+                    os.remove(mp3_path)
+                except OSError:
+                    pass
+    else:
+        mp3_path = download_mp3(detail["audio_url"])
+        try:
+            raw_text, segments = transcribe(mp3_path)
+        finally:
+            try:
+                os.remove(mp3_path)
+            except OSError:
+                pass
     print(f"[extract] 视频{index} 转写 raw_text={len(raw_text)} 字 segments={len(segments)} 段")
     clean_text = clean_transcript(raw_text) if raw_text else ""
     print(f"[extract] 视频{index} 清洗后 clean_text={len(clean_text)} 字")
