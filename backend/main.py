@@ -42,6 +42,8 @@ ENABLE_KEYFRAME_GATE = os.getenv("ENABLE_KEYFRAME_GATE", "1") not in ("0", "fals
 KEYFRAME_INTERVAL = int(os.getenv("KEYFRAME_INTERVAL", "5"))
 KEYFRAME_MAX = int(os.getenv("KEYFRAME_MAX", os.getenv("MAX_KEYFRAMES", "8")))
 KEYFRAME_SAMPLE_LIMIT = int(os.getenv("KEYFRAME_SAMPLE_LIMIT", "120"))
+KEYFRAME_PER_MIN = int(os.getenv("KEYFRAME_PER_MIN", "2"))
+KEYFRAME_HARD_CAP = int(os.getenv("KEYFRAME_HARD_CAP", "15"))
 KEYFRAME_PHASH_THRESHOLD = int(os.getenv("KEYFRAME_PHASH_THRESHOLD", "8"))
 KEYFRAME_WORKERS = int(os.getenv("KEYFRAME_WORKERS", "16"))
 KEYFRAME_FFMPEG_TIMEOUT = int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", "5"))
@@ -577,19 +579,23 @@ def estimate_video_duration(segments: list[dict] | None = None, duration: float 
     return max(starts) if starts else float(KEYFRAME_SAMPLE_LIMIT)
 
 
+def keyframe_budget(duration: float | None) -> int:
+    duration_sec = max(0.0, float(duration or 0))
+    return max(1, min(KEYFRAME_HARD_CAP, KEYFRAME_MAX + KEYFRAME_PER_MIN * int(duration_sec // 60)))
+
+
 def pick_keyframe_times(
     segments: list[dict] | None,
     interval: int | None = None,
     sample_limit: int | None = None,
     duration: float | None = None,
 ) -> list[dict]:
-    """按固定间隔采样，不再让 LLM 从转写反推关键画面。"""
-    interval = max(1, int(interval or KEYFRAME_INTERVAL))
-    sample_limit = max(1, int(sample_limit or KEYFRAME_SAMPLE_LIMIT))
-    duration_sec = min(estimate_video_duration(segments, duration=duration), float(sample_limit))
+    """在全片时长内均匀采样；抽帧失败由调用方按 best-effort 处理。"""
+    duration_sec = estimate_video_duration(segments, duration=duration)
     if duration_sec <= 0:
         return []
-    times = list(range(0, int(duration_sec) + 1, interval))
+    target = keyframe_budget(duration_sec)
+    times = [duration_sec * (i + 0.5) / target for i in range(target)]
     print(f"[keyframe] 定时采样 {len(times)} 个时间点: {times}")
     return [{"time": t} for t in times]
 
@@ -829,7 +835,8 @@ def sample_keyframes(
     phash_threshold: int | None = None,
 ) -> list[dict]:
     """仅做定时采样、抽帧和去重；调用方负责视觉解读与清理临时帧。"""
-    max_frames = max(1, int(max_frames or KEYFRAME_MAX))
+    duration_sec = estimate_video_duration(segments or [], duration=duration)
+    max_frames = max(1, int(max_frames)) if max_frames is not None else keyframe_budget(duration_sec)
     picks = pick_keyframe_times(segments or [], duration=duration)
     grabbed = _grab_frames_parallel(video_ref, picks)
     deduped_all = dedupe_frames_by_phash(grabbed, threshold=phash_threshold)

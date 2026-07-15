@@ -5,7 +5,15 @@ from unittest.mock import patch
 
 
 class KeyframePipelineTests(unittest.TestCase):
-    def test_pick_keyframe_times_uses_timed_sampling_without_llm(self):
+    def test_keyframe_budget_grows_with_duration_and_has_hard_cap(self):
+        from backend import main
+
+        self.assertEqual(main.keyframe_budget(30), 8)
+        self.assertEqual(main.keyframe_budget(90), 10)
+        self.assertEqual(main.keyframe_budget(180), 14)
+        self.assertEqual(main.keyframe_budget(300), 15)
+
+    def test_pick_keyframe_times_uniformly_covers_full_duration_without_llm(self):
         from backend import main
 
         segments = [
@@ -15,10 +23,13 @@ class KeyframePipelineTests(unittest.TestCase):
         ]
 
         with patch.object(main, "llm_chat") as llm:
-            picks = main.pick_keyframe_times(segments, interval=5, sample_limit=120)
+            picks = main.pick_keyframe_times(segments, duration=300)
 
         llm.assert_not_called()
-        self.assertEqual([p["time"] for p in picks], [0, 5, 10])
+        times = [p["time"] for p in picks]
+        self.assertEqual(len(times), 15)
+        self.assertGreater(times[-1], 280)
+        self.assertTrue(all(0 < t < 300 for t in times))
 
     def test_extract_keyframes_dedupes_caps_and_discards_none_descriptions(self):
         from backend import main
