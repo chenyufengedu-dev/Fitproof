@@ -309,6 +309,16 @@ def download_mp3(audio_url: str) -> str:
     return path
 
 
+def download_video(video_url: str) -> str:
+    # 抖音视频 CDN 对 ffmpeg Range seek 很敏感；完整下载后本地 seek 更稳
+    content = http_get_retry(video_url, min_bytes=100_000)
+    print(f"[download] video 大小 {round(len(content) / 1024 / 1024, 2)}MB")
+    fd, path = tempfile.mkstemp(suffix=".mp4")
+    with os.fdopen(fd, "wb") as f:
+        f.write(content)
+    return path
+
+
 def fmt_time(sec: float) -> str:
     sec = int(sec)
     return f"{sec // 60}:{sec % 60:02d}"
@@ -584,22 +594,32 @@ def pick_keyframe_times(
 
 
 def grab_frame(video_url: str, t: int) -> str | None:
-    """用 ffmpeg 直接对视频 URL 按时间点拉单帧（HTTP Range，不下载整段）。"""
+    """用 ffmpeg 从本地视频或 URL 按时间点抽单帧。"""
     fd, path = tempfile.mkstemp(suffix=".jpg")
     os.close(fd)
     ffmpeg_timeout = max(2, int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", str(KEYFRAME_FFMPEG_TIMEOUT))))
-    cmd = [
-        "ffmpeg", "-y",
-        "-headers", f"User-Agent: {BROWSER_HEADERS['User-Agent']}\r\nReferer: https://www.douyin.com/\r\n",
-        "-reconnect", "1",
-        "-reconnect_streamed", "1",
-        "-reconnect_delay_max", "5",
-        "-ss", str(t),
-        "-rw_timeout", str(ffmpeg_timeout * 1_000_000),
-        "-i", video_url,
-        "-frames:v", "1",
-        path,
-    ]
+    is_remote = re.match(r"https?://", video_url or "") is not None
+    if is_remote:
+        cmd = [
+            "ffmpeg", "-y",
+            "-headers", f"User-Agent: {BROWSER_HEADERS['User-Agent']}\r\nReferer: https://www.douyin.com/\r\n",
+            "-reconnect", "1",
+            "-reconnect_streamed", "1",
+            "-reconnect_delay_max", "5",
+            "-ss", str(t),
+            "-rw_timeout", str(ffmpeg_timeout * 1_000_000),
+            "-i", video_url,
+            "-frames:v", "1",
+            path,
+        ]
+    else:
+        cmd = [
+            "ffmpeg", "-y",
+            "-ss", str(t),
+            "-i", video_url,
+            "-frames:v", "1",
+            path,
+        ]
     retries = max(1, int(os.getenv("KEYFRAME_GRAB_RETRIES", str(KEYFRAME_GRAB_RETRIES))))
     for attempt in range(retries):
         try:
@@ -840,15 +860,25 @@ def extract_one_video(index: int, link: str) -> dict:
         return cleaned, segs, raw
 
     def run_visual_line() -> list[dict]:
-        video_ref = media.get("video_path") or media.get("video_url")
-        if not ENABLE_KEYFRAMES or not video_ref:
+        if not ENABLE_KEYFRAMES:
             return []
+        video_ref = media.get("video_path")
+        temp_video_path = ""
         try:
+            if not video_ref:
+                video_url = media.get("video_url")
+                if not video_url:
+                    return []
+                temp_video_path = download_video(video_url)
+                video_ref = temp_video_path
             duration_segment = [{"start": float(media["duration"])}] if media.get("duration") else []
             return extract_keyframes(video_ref, duration_segment)
         except Exception as e:
             print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
             return []
+        finally:
+            if temp_video_path:
+                remove_file_quietly(temp_video_path)
 
     try:
         with ThreadPoolExecutor(max_workers=2) as pool:

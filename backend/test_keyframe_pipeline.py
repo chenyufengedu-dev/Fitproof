@@ -63,7 +63,7 @@ class KeyframePipelineTests(unittest.TestCase):
             "title": "测试视频",
             "author": "作者",
             "audio_url": "https://example.test/audio.mp3",
-            "video_url": "https://example.test/video.mp4",
+            "video_path": "local-video.mp4",
             "cleanup_paths": [],
         }
 
@@ -87,6 +87,62 @@ class KeyframePipelineTests(unittest.TestCase):
         self.assertLess(elapsed, 0.45)
         self.assertEqual(video["clean_text"], "原始文本")
         self.assertEqual(video["keyframes"], [{"time": 10, "screen_text": "图表"}])
+
+    def test_extract_one_video_downloads_video_url_before_keyframes(self):
+        from backend import main
+
+        detail = {
+            "source": "tikhub",
+            "title": "测试视频",
+            "author": "作者",
+            "audio_url": "https://example.test/audio.mp3",
+            "video_url": "https://example.test/video.mp4",
+            "duration": 20.0,
+            "cleanup_paths": [],
+        }
+
+        with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
+                patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
+                patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "transcribe", return_value=("原始文本", [
+                    {"start": 1.0, "text": "原始文本"}
+                ])), \
+                patch.object(main, "download_video", return_value="local-video.mp4") as download_video, \
+                patch.object(main, "extract_keyframes", return_value=[{"time": 5, "screen_text": "表格"}]) as keyframes, \
+                patch.object(main, "remove_file_quietly") as remove_file:
+            video = main.extract_one_video(1, "https://v.douyin.com/test/")
+
+        download_video.assert_called_once_with("https://example.test/video.mp4")
+        keyframes.assert_called_once_with("local-video.mp4", [{"start": 20.0}])
+        self.assertIn("local-video.mp4", [call.args[0] for call in remove_file.call_args_list])
+        self.assertEqual(video["keyframes"], [{"time": 5, "screen_text": "表格"}])
+
+    def test_extract_one_video_skips_visual_line_when_video_download_fails(self):
+        from backend import main
+
+        detail = {
+            "source": "tikhub",
+            "title": "测试视频",
+            "author": "作者",
+            "audio_url": "https://example.test/audio.mp3",
+            "video_url": "https://example.test/video.mp4",
+            "duration": 20.0,
+            "cleanup_paths": [],
+        }
+
+        with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
+                patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
+                patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "transcribe", return_value=("原始文本", [
+                    {"start": 1.0, "text": "原始文本"}
+                ])), \
+                patch.object(main, "download_video", side_effect=RuntimeError("CDN拒绝")), \
+                patch.object(main, "extract_keyframes") as keyframes:
+            video = main.extract_one_video(1, "https://v.douyin.com/test/")
+
+        keyframes.assert_not_called()
+        self.assertEqual(video["clean_text"], "原始文本")
+        self.assertEqual(video["keyframes"], [])
 
 
 if __name__ == "__main__":
