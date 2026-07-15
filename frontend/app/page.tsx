@@ -11,6 +11,7 @@ import { analyzeSingle, verifyClaim } from '@/lib/api'
 import BottomNav from '@/components/BottomNav'
 import CommunityTab from '@/components/CommunityTab'
 import ProfileTab from '@/components/ProfileTab'
+import { appendHistory } from '@/lib/history'
 
 // 本地完整版：.env.local 设 NEXT_PUBLIC_API_URL=http://localhost:8000，走 Python 后端（含真实链接分析）
 // 云端（Vercel）：不设该变量，走同源的 Next 云函数 /api/*（预置话题 + AI 答疑）
@@ -108,11 +109,24 @@ export default function Home() {
 
   async function handleVerifySingleClaim(claim: Claim, index: number): Promise<VerifyResult> {
     const sampleResult = sampleVerifyResults?.[index]
-    if (sampleResult) {
-      return sampleResult
-    }
     try {
-      return await verifyClaim(claim.claim, topic, claim.video_refs, 5)
+      const result = sampleResult || await verifyClaim(claim.claim, topic, claim.video_refs, 5)
+      if (singleData) {
+        appendHistory({
+          id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+          claim: claim.claim,
+          signal: claim.signal,
+          topic,
+          reference: {
+            author: singleData.reference.author,
+            title: singleData.reference.title,
+            url: singleData.reference.url,
+          },
+          result,
+          createdAt: new Date().toISOString(),
+        })
+      }
+      return result
     } catch (e) {
       throw new Error(e instanceof Error ? e.message : '核验失败，请重试')
     }
