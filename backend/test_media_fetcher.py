@@ -63,13 +63,16 @@ class MediaFetcherTests(unittest.TestCase):
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])) as transcribe, \
-                patch.object(main, "extract_keyframes", return_value=[{"time": 5, "screen_text": "表格"}]) as keyframes, \
+                patch.object(main, "sample_keyframes", return_value=[{"time": 5, "path": "frame.jpg"}]) as keyframes, \
+                patch.object(main, "should_describe_keyframes", return_value=(True, "表格线索")), \
+                patch.object(main, "_describe_frames_parallel", return_value=[{"time": 5, "screen_text": "表格"}]), \
                 patch.object(main, "remove_file_quietly") as remove_file:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
 
         transcribe.assert_called_once_with("local-audio.mp3")
         keyframes.assert_called_once_with("local-video.mp4", [{"start": 20.0}])
         self.assertEqual([call.args[0] for call in remove_file.call_args_list], [
+            "frame.jpg",
             "local-audio.mp3",
             "local-video.mp4",
         ])

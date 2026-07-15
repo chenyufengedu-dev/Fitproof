@@ -184,6 +184,64 @@ class SingleVideoPipelineTests(unittest.TestCase):
         self.assertEqual(result, {"answer": "回答"})
         self.assertEqual(calls, [8192])
 
+    def test_keyframe_gate_skips_plain_talking_head_transcript(self):
+        from backend import main
+
+        def fake_llm(prompt, max_tokens=8192, json_mode=False, retries=3, model=None):
+            self.assertIn("激进", prompt)
+            self.assertTrue(json_mode)
+            self.assertEqual(model, main.DEEPSEEK_FAST_MODEL)
+            return '{"need_visual": false, "reason": "没有明确画面线索"}'
+
+        with patch.object(main, "llm_chat", side_effect=fake_llm):
+            need_visual, reason = main.should_describe_keyframes("每天走路半小时有助于心血管健康。")
+
+        self.assertFalse(need_visual)
+        self.assertEqual(reason, "没有明确画面线索")
+
+    def test_keyframe_gate_keeps_report_and_numeric_transcript(self):
+        from backend import main
+
+        with patch.object(
+            main,
+            "llm_chat",
+            return_value='{"need_visual": true, "reason": "提到血常规报告单和数值"}',
+        ):
+            need_visual, reason = main.should_describe_keyframes(
+                "请看这张血常规报告单，白细胞数值是 12.5。"
+            )
+
+        self.assertTrue(need_visual)
+        self.assertEqual(reason, "提到血常规报告单和数值")
+
+    def test_keyframe_gate_defaults_to_visual_on_unparseable_response(self):
+        from backend import main
+
+        with patch.object(main, "llm_chat", return_value="我认为不需要"):
+            need_visual, reason = main.should_describe_keyframes("纯口播文本")
+
+        self.assertTrue(need_visual)
+        self.assertIn("解析失败", reason)
+
+    def test_sample_keyframes_removes_frames_over_hard_cap(self):
+        from backend import main
+
+        frames = [
+            {"time": 0, "path": "keep-0.jpg"},
+            {"time": 5, "path": "keep-5.jpg"},
+            {"time": 10, "path": "discard-10.jpg"},
+        ]
+        removed = []
+
+        with patch.object(main, "pick_keyframe_times", return_value=[{"time": 0}]), \
+                patch.object(main, "_grab_frames_parallel", return_value=frames), \
+                patch.object(main, "dedupe_frames_by_phash", return_value=frames), \
+                patch.object(main, "remove_file_quietly", side_effect=removed.append):
+            result = main.sample_keyframes("video.mp4", max_frames=2)
+
+        self.assertEqual(result, frames[:2])
+        self.assertEqual(removed, ["discard-10.jpg"])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -38,6 +38,7 @@ MEDIA_FETCH_ORDER = os.getenv("MEDIA_FETCH_ORDER", "tikhub,upload")
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
+ENABLE_KEYFRAME_GATE = os.getenv("ENABLE_KEYFRAME_GATE", "1") not in ("0", "false", "False", "")
 KEYFRAME_INTERVAL = int(os.getenv("KEYFRAME_INTERVAL", "5"))
 KEYFRAME_MAX = int(os.getenv("KEYFRAME_MAX", os.getenv("MAX_KEYFRAMES", "8")))
 KEYFRAME_SAMPLE_LIMIT = int(os.getenv("KEYFRAME_SAMPLE_LIMIT", "120"))
@@ -797,6 +798,48 @@ def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
     return sorted(out, key=lambda item: item["time"])
 
 
+def should_describe_keyframes(clean_text: str) -> tuple[bool, str]:
+    """用快模型激进判断转写是否需要画面核验；失败时保守保留视觉。"""
+    prompt = f"""你是健康视频画面核验闸门。根据下面的语音转录，严格输出 JSON：
+{{"need_visual": true 或 false, "reason": "不超过20字的理由"}}
+
+这是激进省时策略：只有转录中出现明确需要看画面的线索才填 true，例如“看这张图/如图/报告单/化验单/成分表/配料表/数据/数值/百分比/图表/趋势/示范动作”。
+普通口播、泛泛提及健康知识、没有明确画面线索时一律填 false。不要猜测视频可能有画面，不要输出 JSON 以外内容。
+
+转录：
+{clean_text}"""
+    try:
+        raw = llm_chat(prompt, max_tokens=256, json_mode=True, model=DEEPSEEK_FAST_MODEL)
+        data = parse_json_loose(raw)
+        if not isinstance(data, dict) or not isinstance(data.get("need_visual"), bool):
+            return True, "闸门返回解析失败，保守保留视觉"
+        reason = str(data.get("reason") or "模型未提供理由").strip()[:80]
+        return data["need_visual"], reason
+    except Exception as e:
+        print(f"[keyframe-gate] 调用失败，保守保留视觉: {str(e)[:160]}")
+        return True, "闸门调用异常，保守保留视觉"
+
+
+def sample_keyframes(
+    video_ref: str,
+    segments: list[dict] | None = None,
+    *,
+    duration: float | None = None,
+    max_frames: int | None = None,
+    phash_threshold: int | None = None,
+) -> list[dict]:
+    """仅做定时采样、抽帧和去重；调用方负责视觉解读与清理临时帧。"""
+    max_frames = max(1, int(max_frames or KEYFRAME_MAX))
+    picks = pick_keyframe_times(segments or [], duration=duration)
+    grabbed = _grab_frames_parallel(video_ref, picks)
+    deduped_all = dedupe_frames_by_phash(grabbed, threshold=phash_threshold)
+    deduped = deduped_all[:max_frames]
+    for frame in deduped_all[max_frames:]:
+        remove_file_quietly(frame.get("path"))
+    print(f"[keyframe] 抽到 {len(grabbed)} 帧，去重后保留 {len(deduped)} 帧")
+    return deduped
+
+
 def extract_keyframes(
     video_url: str,
     segments: list[dict] | None = None,
@@ -806,11 +849,14 @@ def extract_keyframes(
     phash_threshold: int | None = None,
 ) -> list[dict]:
     """完整关键帧流程，best-effort：任何环节失败都跳过、不阻断主分析。"""
-    max_frames = max(1, int(max_frames or KEYFRAME_MAX))
-    picks = pick_keyframe_times(segments or [], duration=duration)
-    grabbed = _grab_frames_parallel(video_url, picks)
-    deduped = dedupe_frames_by_phash(grabbed, threshold=phash_threshold)[:max_frames]
-    print(f"[keyframe] 抽到 {len(grabbed)} 帧，去重后保留 {len(deduped)} 帧，开始视觉解读")
+    deduped = sample_keyframes(
+        video_url,
+        segments,
+        duration=duration,
+        max_frames=max_frames,
+        phash_threshold=phash_threshold,
+    )
+    print(f"[keyframe] 开始视觉解读 {len(deduped)} 帧")
     try:
         return _describe_frames_parallel(deduped)
     finally:
@@ -872,7 +918,7 @@ def extract_one_video(index: int, link: str) -> dict:
                 temp_video_path = download_video(video_url)
                 video_ref = temp_video_path
             duration_segment = [{"start": float(media["duration"])}] if media.get("duration") else []
-            return extract_keyframes(video_ref, duration_segment)
+            return sample_keyframes(video_ref, duration_segment)
         except Exception as e:
             print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
             return []
@@ -886,10 +932,26 @@ def extract_one_video(index: int, link: str) -> dict:
             keyframe_future = pool.submit(run_visual_line)
             clean_text, segments, raw_text = audio_future.result()
             try:
-                keyframes = keyframe_future.result()
+                deduped_frames = keyframe_future.result()
             except Exception as e:
                 print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
-                keyframes = []
+                deduped_frames = []
+
+        keyframes = []
+        if deduped_frames:
+            need_visual = True
+            reason = "闸门关闭，按原行为解读"
+            if ENABLE_KEYFRAME_GATE:
+                need_visual, reason = should_describe_keyframes(clean_text)
+            print(f"[keyframe-gate] 视频 {index} need_visual={need_visual}；{reason}")
+            try:
+                if need_visual:
+                    keyframes = _describe_frames_parallel(deduped_frames)
+                else:
+                    print(f"[keyframe] 视频 {index} 闸门跳过视觉解读，丢弃 {len(deduped_frames)} 帧")
+            finally:
+                for frame in deduped_frames:
+                    remove_file_quietly(frame.get("path"))
     finally:
         for path in media.get("cleanup_paths") or []:
             remove_file_quietly(path)

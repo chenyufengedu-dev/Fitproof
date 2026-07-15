@@ -71,15 +71,17 @@ class KeyframePipelineTests(unittest.TestCase):
             time.sleep(0.25)
             return "原始文本", [{"start": 10.0, "text": "原始文本"}]
 
-        def slow_keyframes(_video_url, _segments):
+        def slow_sampling(_video_url, _segments):
             time.sleep(0.25)
-            return [{"time": 10, "screen_text": "图表"}]
+            return [{"time": 10, "path": "frame.jpg"}]
 
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "transcribe", side_effect=slow_transcribe), \
-                patch.object(main, "extract_keyframes", side_effect=slow_keyframes):
+                patch.object(main, "sample_keyframes", side_effect=slow_sampling), \
+                patch.object(main, "should_describe_keyframes", return_value=(True, "图表线索")), \
+                patch.object(main, "_describe_frames_parallel", return_value=[{"time": 10, "screen_text": "图表"}]):
             start = time.perf_counter()
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
             elapsed = time.perf_counter() - start
@@ -108,7 +110,9 @@ class KeyframePipelineTests(unittest.TestCase):
                     {"start": 1.0, "text": "原始文本"}
                 ])), \
                 patch.object(main, "download_video", return_value="local-video.mp4") as download_video, \
-                patch.object(main, "extract_keyframes", return_value=[{"time": 5, "screen_text": "表格"}]) as keyframes, \
+                patch.object(main, "sample_keyframes", return_value=[{"time": 5, "path": "frame.jpg"}]) as keyframes, \
+                patch.object(main, "should_describe_keyframes", return_value=(True, "表格线索")), \
+                patch.object(main, "_describe_frames_parallel", return_value=[{"time": 5, "screen_text": "表格"}]), \
                 patch.object(main, "remove_file_quietly") as remove_file:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
 
@@ -137,7 +141,7 @@ class KeyframePipelineTests(unittest.TestCase):
                     {"start": 1.0, "text": "原始文本"}
                 ])), \
                 patch.object(main, "download_video", side_effect=RuntimeError("CDN拒绝")), \
-                patch.object(main, "extract_keyframes") as keyframes:
+                patch.object(main, "sample_keyframes") as keyframes:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
 
         keyframes.assert_not_called()
