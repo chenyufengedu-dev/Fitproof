@@ -13,6 +13,38 @@ class KeyframePipelineTests(unittest.TestCase):
         self.assertEqual(main.keyframe_budget(180), 14)
         self.assertEqual(main.keyframe_budget(300), 15)
 
+    def test_build_media_timeline_interleaves_speech_and_screen_by_time(self):
+        from backend import main
+
+        timeline = main.build_media_timeline(
+            [{"start": 3, "text": "第一句"}, {"start": 10, "text": "第二句"}],
+            [{"time": 5, "screen_text": "画面文字"}],
+        )
+
+        self.assertEqual(
+            timeline.splitlines(),
+            ["[0:03] 口播：第一句", "[0:05] 画面：画面文字", "[0:10] 口播：第二句"],
+        )
+
+    def test_build_media_timeline_handles_empty_input(self):
+        from backend import main
+
+        self.assertEqual(main.build_media_timeline([], [{"time": 5, "screen_text": "画面"}]), "[0:05] 画面：画面")
+        self.assertEqual(main.build_media_timeline([{ "start": 3, "text": "口播"}], []), "[0:03] 口播：口播")
+
+    def test_video_to_claim_prompt_uses_interleaved_media_timeline(self):
+        from backend import main
+
+        prompt = main.video_to_claim_prompt("话题", {
+            "clean_text": "整体转写",
+            "segments": [{"start": 3, "text": "第一句"}, {"start": 10, "text": "第二句"}],
+            "keyframes": [{"time": 5, "screen_text": "画面文字"}],
+        })
+
+        self.assertLess(prompt.index("[0:03] 口播：第一句"), prompt.index("[0:05] 画面：画面文字"))
+        self.assertLess(prompt.index("[0:05] 画面：画面文字"), prompt.index("[0:10] 口播：第二句"))
+        self.assertIn("画面是音频未必读出的补充", prompt)
+
     def test_pick_keyframe_times_uniformly_covers_full_duration_without_llm(self):
         from backend import main
 

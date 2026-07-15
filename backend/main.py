@@ -327,6 +327,25 @@ def fmt_time(sec: float) -> str:
     return f"{sec // 60}:{sec % 60:02d}"
 
 
+def build_media_timeline(segments: list[dict] | None, keyframes: list[dict] | None) -> str:
+    """将口播与画面文字按时间交错渲染为统一时间线。"""
+    events = []
+    for segment in segments or []:
+        text = str(segment.get("text") or "").strip()
+        start = segment.get("start")
+        if not text or not isinstance(start, (int, float)):
+            continue
+        events.append((float(start), 0, f"[{fmt_time(start)}] 口播：{text}"))
+    for keyframe in keyframes or []:
+        text = str(keyframe.get("screen_text") or "").strip()
+        timestamp = keyframe.get("time")
+        if not text or not isinstance(timestamp, (int, float)):
+            continue
+        events.append((float(timestamp), 1, f"[{fmt_time(timestamp)}] 画面：{text}"))
+    events.sort(key=lambda event: (event[0], event[1]))
+    return "\n".join(event[2] for event in events)
+
+
 def get_asr_provider() -> str:
     return (os.getenv("ASR_PROVIDER", "local") or "local").strip().lower()
 
@@ -983,18 +1002,12 @@ ANALYSIS_FIELDS = ["one_line_summary", "consensus", "conflicts", "recommendation
 def build_analysis_prompt(topic: str, videos: list[dict]) -> str:
     blocks = []
     for v in videos:
-        # 带时间戳的逐句转写，供模型为每条观点标注出自该视频的大致时间
-        segs = v.get("segments") or []
-        timed = "\n".join(f"  [{fmt_time(s['start'])}] {s['text']}" for s in segs if s["text"])
+        timeline = build_media_timeline(v.get("segments"), v.get("keyframes"))
         block = (
             f"视频{v['id']}（{v['author']}，标题：{v['title']}）\n"
             f"整体内容：{v['clean_text']}\n"
-            f"带时间戳逐句转写（用于标注出处时间 time）：\n{timed}"
+            f"按时间轴交错的转写与画面（画面是音频未必读出的补充，请一并参考；用于标注出处时间 time）：\n{timeline}"
         )
-        kfs = v.get("keyframes") or []
-        if kfs:
-            screen = "；".join(f"[{fmt_time(k['time'])} 画面]{k['screen_text']}" for k in kfs)
-            block += f"\n该视频画面中识别到的关键文字（音频未必读出，请一并参考）：{screen}"
         blocks.append(block)
     content = "\n\n".join(blocks)
     return f"""你是一个严谨的运动健康领域信息分析师，面向健身/运动人群。
@@ -1106,11 +1119,7 @@ VERIFY_FIELDS = ["verdict", "risk_level", "confidence", "strength", "correction"
 
 
 def video_to_claim_prompt(topic: str, video: dict) -> str:
-    segs = video.get("segments") or []
-    timed = "\n".join(f"  [{fmt_time(s['start'])}] {s['text']}" for s in segs if s.get("text"))
-    kfs = video.get("keyframes") or []
-    screen = "\n".join(f"  [{fmt_time(k['time'])} 画面] {k.get('screen_text', '')}" for k in kfs)
-    screen_block = screen if screen else "  无可用画面文字"
+    timeline = build_media_timeline(video.get("segments"), video.get("keyframes")) or "  无可用时间线内容"
     return f"""你是 FitProof 的健康短视频信息拆解助手。请从单条视频中拆出 3~5 条「可核验主张」。
 较公认的说法也要列出，不能只挑刺；目标是让用户选择自己最想核验的一条。
 
@@ -1122,11 +1131,9 @@ def video_to_claim_prompt(topic: str, video: dict) -> str:
 标题：{video.get('title', '')}
 整体转写：{video.get('clean_text', '')}
 
-【带时间戳逐句转写】
-{timed}
-
-【画面 OCR】
-{screen_block}
+【按时间轴交错的转写与画面】
+（画面是音频未必读出的补充，请一并参考）
+{timeline}
 
 要求：
 1. 每条 claim 尽量保留视频原话或接近原话，不要改写成学术结论。
