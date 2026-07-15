@@ -59,10 +59,12 @@ class KeyframePipelineTests(unittest.TestCase):
         from backend import main
 
         detail = {
+            "source": "tikhub",
             "title": "测试视频",
             "author": "作者",
             "audio_url": "https://example.test/audio.mp3",
             "video_url": "https://example.test/video.mp4",
+            "cleanup_paths": [],
         }
 
         def slow_transcribe(_path, audio_url=None):
@@ -75,7 +77,7 @@ class KeyframePipelineTests(unittest.TestCase):
 
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
-                patch.object(main, "fetch_video_detail", return_value=detail), \
+                patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "transcribe", side_effect=slow_transcribe), \
                 patch.object(main, "extract_keyframes", side_effect=slow_keyframes):
             start = time.perf_counter()

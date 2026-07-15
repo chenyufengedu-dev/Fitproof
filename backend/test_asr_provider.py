@@ -66,40 +66,46 @@ class AsrProviderTests(unittest.TestCase):
         from backend import main
 
         detail = {
+            "source": "tikhub",
             "title": "测试视频",
             "author": "作者",
             "audio_url": "https://example.test/audio.mp3",
             "video_url": None,
+            "cleanup_paths": [],
         }
 
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
-                patch.object(main, "fetch_video_detail", return_value=detail), \
+                patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "download_mp3") as download_mp3, \
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])) as transcribe, \
-                patch.object(main, "clean_transcript", return_value="清洗文本"):
+                patch.object(main, "extract_keyframes", return_value=[]), \
+                patch.object(main, "clean_transcript", return_value="清洗文本") as clean_transcript:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
 
         download_mp3.assert_not_called()
         transcribe.assert_called_once_with("", audio_url="https://example.test/audio.mp3")
-        self.assertEqual(video["clean_text"], "清洗文本")
+        clean_transcript.assert_not_called()
+        self.assertEqual(video["clean_text"], "原始文本")
         self.assertEqual(video["segments"], [{"start": 1.0, "text": "原始文本"}])
 
     def test_extract_one_video_downloads_for_local_provider(self):
         from backend import main
 
         detail = {
+            "source": "tikhub",
             "title": "测试视频",
             "author": "作者",
             "audio_url": "https://example.test/audio.mp3",
             "video_url": None,
+            "cleanup_paths": [],
         }
 
         with patch.dict(os.environ, {"ASR_PROVIDER": "local"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
-                patch.object(main, "fetch_video_detail", return_value=detail), \
+                patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "download_mp3", return_value="local.mp3") as download_mp3, \
                 patch.object(main, "transcribe", return_value=("原始文本", [])) as transcribe, \
                 patch.object(main, "clean_transcript", return_value="清洗文本"), \

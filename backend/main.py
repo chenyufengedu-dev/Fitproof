@@ -34,6 +34,7 @@ DASHSCOPE_ASR_SAMPLE_RATE = int(os.getenv("DASHSCOPE_ASR_SAMPLE_RATE", "16000"))
 DASHSCOPE_ASR_WAIT_TIMEOUT = int(os.getenv("DASHSCOPE_ASR_WAIT_TIMEOUT", "120"))
 DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
 DASHSCOPE_VL_MODEL = os.getenv("DASHSCOPE_VL_MODEL", "qwen3-vl-flash")
+MEDIA_FETCH_ORDER = os.getenv("MEDIA_FETCH_ORDER", "tikhub,upload")
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
@@ -228,6 +229,46 @@ def fetch_video_detail(aweme_id: str) -> dict:
         "video_url": video_url,
         "duration": duration,
     }
+
+
+def fetch_media_tikhub(link: str) -> dict:
+    """主获取层：保留 TikHub URL 获取逻辑。"""
+    full_url = resolve_url(link)
+    aweme_id = extract_aweme_id(full_url)
+    if not aweme_id:
+        raise ValueError(f"无法从链接提取视频ID: {link}")
+    detail = fetch_video_detail(aweme_id)
+    detail["source"] = "tikhub"
+    detail["cleanup_paths"] = []
+    return detail
+
+
+def fetch_media_upload_placeholder(link: str) -> dict:
+    raise RuntimeError("文件上传获取层尚未接入")
+
+
+def fetch_media(link: str) -> dict:
+    """统一媒体获取接口：TikHub → 文件上传占位。"""
+    fetchers = {
+        "tikhub": fetch_media_tikhub,
+        "upload": fetch_media_upload_placeholder,
+        "file": fetch_media_upload_placeholder,
+    }
+    errors = []
+    order = os.getenv("MEDIA_FETCH_ORDER", MEDIA_FETCH_ORDER)
+    for name in [item.strip() for item in order.split(",") if item.strip()]:
+        fetcher = fetchers.get(name)
+        if not fetcher:
+            continue
+        try:
+            media = fetcher(link)
+            print(f"[media] {name} 获取成功")
+            return media
+        except Exception as e:
+            reason = f"{name}: {str(e)[:200]}"
+            errors.append(reason)
+            print(f"[media] {name} 获取失败，切换下一个: {str(e)[:200]}")
+    raise RuntimeError("所有媒体获取方式均失败：" + " | ".join(errors))
 
 
 BROWSER_HEADERS = {
@@ -576,7 +617,10 @@ def remove_file_quietly(path: str | None) -> None:
     if not path:
         return
     try:
-        os.remove(path)
+        if os.path.isdir(path):
+            os.rmdir(path)
+        else:
+            os.remove(path)
     except OSError:
         pass
 
@@ -757,29 +801,32 @@ def extract_keyframes(
 def extract_one_video(index: int, link: str) -> dict:
     """同步阻塞流程，外层用 asyncio.to_thread 包裹。返回视频文本结构。"""
     full_url = resolve_url(link)
-    aweme_id = extract_aweme_id(full_url)
-    if not aweme_id:
-        raise ValueError(f"无法从链接提取视频ID: {link}")
-    detail = fetch_video_detail(aweme_id)
+    media = fetch_media(link)
 
     def run_audio_line() -> tuple[str, list[dict], str]:
         mp3_path = ""
-        if get_asr_provider() == "dashscope":
+        audio_path = media.get("audio_path")
+        audio_url = media.get("audio_url")
+        if audio_path:
+            raw, segs = transcribe(audio_path)
+        elif get_asr_provider() == "dashscope" and audio_url:
             try:
-                raw, segs = transcribe("", audio_url=detail["audio_url"])
+                raw, segs = transcribe("", audio_url=audio_url)
             except Exception as e:
                 print(f"[asr] URL 直传失败，下载音频后重试/回退: {str(e)[:200]}")
-                mp3_path = download_mp3(detail["audio_url"])
+                mp3_path = download_mp3(audio_url)
                 try:
                     raw, segs = transcribe(mp3_path)
                 finally:
                     remove_file_quietly(mp3_path)
-        else:
-            mp3_path = download_mp3(detail["audio_url"])
+        elif audio_url:
+            mp3_path = download_mp3(audio_url)
             try:
                 raw, segs = transcribe(mp3_path)
             finally:
                 remove_file_quietly(mp3_path)
+        else:
+            raise RuntimeError("媒体获取结果缺少 audio_path/audio_url")
         print(f"[extract] 视频{index} 转写 raw_text={len(raw)} 字 segments={len(segs)} 段")
         # 云 ASR 返回的文本已带标点、已干净，跳过清洗省 ~20s；本地 Whisper 才需要清洗
         if not raw:
@@ -793,29 +840,34 @@ def extract_one_video(index: int, link: str) -> dict:
         return cleaned, segs, raw
 
     def run_visual_line() -> list[dict]:
-        if not ENABLE_KEYFRAMES or not detail.get("video_url"):
+        video_ref = media.get("video_path") or media.get("video_url")
+        if not ENABLE_KEYFRAMES or not video_ref:
             return []
         try:
-            duration_segment = [{"start": float(detail["duration"])}] if detail.get("duration") else []
-            return extract_keyframes(detail["video_url"], duration_segment)
+            duration_segment = [{"start": float(media["duration"])}] if media.get("duration") else []
+            return extract_keyframes(video_ref, duration_segment)
         except Exception as e:
             print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
             return []
 
-    with ThreadPoolExecutor(max_workers=2) as pool:
-        audio_future = pool.submit(run_audio_line)
-        keyframe_future = pool.submit(run_visual_line)
-        clean_text, segments, raw_text = audio_future.result()
-        try:
-            keyframes = keyframe_future.result()
-        except Exception as e:
-            print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
-            keyframes = []
+    try:
+        with ThreadPoolExecutor(max_workers=2) as pool:
+            audio_future = pool.submit(run_audio_line)
+            keyframe_future = pool.submit(run_visual_line)
+            clean_text, segments, raw_text = audio_future.result()
+            try:
+                keyframes = keyframe_future.result()
+            except Exception as e:
+                print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
+                keyframes = []
+    finally:
+        for path in media.get("cleanup_paths") or []:
+            remove_file_quietly(path)
 
     return {
         "id": index,
-        "author": detail["author"],
-        "title": detail["title"],
+        "author": media["author"],
+        "title": media["title"],
         "url": full_url,
         "clean_text": clean_text,
         "segments": segments,
