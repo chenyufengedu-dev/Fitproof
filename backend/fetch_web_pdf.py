@@ -55,6 +55,32 @@ def parse_todo(todo_path: str):
     return items
 
 
+# 反爬/验证/拦截页的正文特征——命中即视为抓取失败（Cloudflare 验证页等会渲染成
+# 30KB 左右的 PDF 蒙混过“文件够大”的检查，必须靠正文内容识破）。
+BLOCK_SIGNATURES = [
+    "performing security verification",
+    "verifies you are not a bot",
+    "just a moment",
+    "enable javascript and cookies to continue",
+    "attention required",
+    "access denied",
+    "403 forbidden",
+    "please verify you are a human",
+    "checking your browser",
+]
+
+
+def looks_blocked(body_text: str) -> str | None:
+    """返回命中的拦截特征说明；正常内容返回 None。"""
+    low = (body_text or "").lower()
+    for sig in BLOCK_SIGNATURES:
+        if sig in low:
+            return f"反爬/验证页(命中 '{sig}')"
+    if len(low.strip()) < 200:  # 正文过短，八成是空壳/拦截页
+        return f"正文过短({len(low.strip())}字)，疑似空壳/拦截页"
+    return None
+
+
 def render_pdf(page, url: str, dest: str, timeout_ms: int) -> tuple[bool, str]:
     """把单个 url 渲染成 PDF。返回 (是否成功, 说明)。"""
     try:
@@ -64,6 +90,14 @@ def render_pdf(page, url: str, dest: str, timeout_ms: int) -> tuple[bool, str]:
         except Exception:
             page.goto(url, wait_until="domcontentloaded", timeout=timeout_ms)
         page.wait_for_timeout(1500)  # 给懒加载/字体一点时间
+        # 渲染前先看正文：命中反爬/验证/空壳特征就判失败，不生成垃圾 PDF
+        try:
+            body_text = page.inner_text("body")
+        except Exception:
+            body_text = ""
+        blocked = looks_blocked(body_text)
+        if blocked:
+            return False, blocked
         # 用屏幕媒体渲染，尽量还原实际可见内容（而非 print 样式隐藏的版本）
         page.emulate_media(media="screen")
         os.makedirs(os.path.dirname(dest), exist_ok=True)
