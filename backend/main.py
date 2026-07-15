@@ -184,6 +184,9 @@ class FollowupRequest(BaseModel):
 # Video extraction helpers
 # ---------------------------------------------------------------------------
 def resolve_url(link: str) -> str:
+    match = re.search(r"https?://[^\s]+", link or "")
+    if match:
+        link = match.group(0)
     if "v.douyin.com" in link:
         try:
             r = requests.get(link, allow_redirects=True, timeout=30)

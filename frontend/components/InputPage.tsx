@@ -78,7 +78,7 @@ export default function InputPage({
   }, []);
 
   async function startSingle(link: string) {
-    const clean = link.trim();
+    const clean = findDouyinLink(link) || link.trim();
     if (!clean) {
       setError("请先粘贴一条抖音视频链接");
       return;

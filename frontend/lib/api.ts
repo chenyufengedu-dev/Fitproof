@@ -3,11 +3,16 @@ import type { SingleAnalyzeResponse, VerifyResult, VideoRef } from '@/types'
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
 async function postJson<T>(path: string, body: unknown): Promise<T> {
-  const res = await fetch(`${API_BASE_URL}${path}`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
-  })
+  let res: Response
+  try {
+    res = await fetch(`${API_BASE_URL}${path}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    })
+  } catch {
+    throw new Error('无法连接分析服务，请确认后端已启动，或稍后重试')
+  }
   if (!res.ok) {
     const data = await res.json().catch(() => ({}))
     throw new Error(data.detail || '请求失败，请稍后重试')
