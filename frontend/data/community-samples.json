@@ -1,0 +1,71 @@
+[
+  {
+    "id": "pregnancy-egg-yolk",
+    "hook": "孕妇吃鸡蛋，到底要不要丢掉蛋黄？",
+    "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+    "signal": "较公认",
+    "topic": "孕妇能不能吃蛋黄",
+    "reference": {
+      "author": "营养科普样例",
+      "title": "孕妇吃鸡蛋到底要不要丢蛋黄",
+      "url": "https://www.douyin.com/video/sample-single-fitproof"
+    },
+    "result": {
+      "verdict": "基本可信",
+      "risk_level": "低",
+      "confidence": "高",
+      "strength": "高",
+      "correction": "孕妇可以把鸡蛋作为优质蛋白来源，一般不必丢弃蛋黄；但仍应结合鱼、禽、肉、奶、豆等多样化食物，而不是只靠鸡蛋。",
+      "cited_evidence_ids": [
+        "E-中国居民膳食指南-202-128",
+        "E-中国居民膳食指南-202-344"
+      ],
+      "evidence_status": "matched",
+      "evidence_tier": "结论",
+      "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [{ "id": 1, "time": "0:12" }],
+      "evidence": [
+        {
+          "id": "E-中国居民膳食指南-202-128",
+          "claim": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+          "section": "准则四 适量吃鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "鸡蛋", "蛋黄"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "90-92",
+          "score": 0.6296
+        },
+        {
+          "id": "E-中国居民膳食指南-202-344",
+          "claim": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉摄入，孕中期每日鱼禽蛋肉（含动物内脏）150~200g，孕晚期175~225g。",
+          "section": "孕期需摄入多少奶、鱼、禽、蛋、瘦肉",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "孕妇", "鸡蛋", "优质蛋白"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "176-178",
+          "score": 0.594
+        },
+        {
+          "id": "E-中国居民膳食指南-202-031",
+          "claim": "禁食减肥常以丢失水分和肌肉为代价，不能维持长久。",
+          "section": "体重过重或过轻怎么办",
+          "strength": "指南推荐",
+          "topics": ["膳食营养", "禁食减肥"],
+          "source_doc": "中国居民膳食指南（2022）",
+          "org": "中国营养学会",
+          "year": "2022",
+          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
+          "page": "48-50",
+          "score": 0.451
+        }
+      ]
+    }
+  }
+]
