@@ -1124,14 +1124,24 @@ def extract_claims_from_video(video: dict, topic: str = "") -> dict:
     }
 
 
-def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5) -> tuple[list[dict], str]:
+def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5) -> tuple[list[dict], str, str]:
     topic = topic.strip()
     if topic:
         hits = evidence_store.search(claim, topic=topic, top_k=top_k)
         if hits:
-            return hits, "matched"
+            return hits, "matched", "结论"
     hits = evidence_store.search(claim, topic="", top_k=top_k)
-    return (hits, "matched") if hits else ([], "not_found")
+    if hits:
+        return hits, "matched", "结论"
+
+    if topic:
+        chunk_hits = evidence_store.search_fulltext(claim, topic=topic, top_k=top_k)
+        if chunk_hits:
+            return chunk_hits, "matched", "全文"
+    chunk_hits = evidence_store.search_fulltext(claim, topic="", top_k=top_k)
+    if chunk_hits:
+        return chunk_hits, "matched", "全文"
+    return [], "not_found", "无"
 
 
 def evidence_prompt_block(evidence: list[dict]) -> str:
@@ -1139,12 +1149,15 @@ def evidence_prompt_block(evidence: list[dict]) -> str:
         return "未命中已收录权威依据。以下只能作为 AI 常识判断，必须明确标注这一点，并把 strength/依据强度降为低。"
     lines = []
     for item in evidence:
+        is_fulltext = item.get("evidence_tier") == "全文" or str(item.get("id", "")).startswith("F-")
+        claim_label = "原文段落" if is_fulltext else "结论"
+        strength_label = item.get("strength", "")
         lines.append(
             "\n".join([
                 f"证据ID：{item.get('id', '')}",
-                f"结论：{item.get('claim', '')}",
+                f"{claim_label}：{item.get('claim', '')}",
                 f"章节：{item.get('section', '')}",
-                f"强度：{item.get('strength', '')}",
+                f"强度：{strength_label}",
                 f"来源：{item.get('source_doc', '')} / {item.get('org', '')} / {item.get('year', '')}",
                 f"页码：{item.get('page', '')}",
                 f"URL：{item.get('url', '')}",
@@ -1173,9 +1186,10 @@ def build_verify_prompt(claim: str, topic: str, evidence: list[dict], video_refs
 规则：
 1. verdict、risk_level、confidence、strength 必须由你基于证据判断后输出，不能依赖关键词模板。
 2. 如果有证据，只能引用上方注入的证据ID：{allowed_ids}；cited_evidence_ids 不得出现其它ID。
-3. 不得编造指南、论文、年份、DOI 或 URL。证据不足就说证据不足。
-4. 如果未命中已收录权威依据，correction 必须包含“未命中已收录权威依据，以下为AI常识判断”，并把 strength 设为“低”。
-5. 只输出 JSON，不输出解释。
+3. 如果证据ID以 F- 开头，它来自指南全文原文段落，不是已抽取结论；可以引用，但 strength/confidence 不要高于“中”，除非原文段落非常直接。
+4. 不得编造指南、论文、年份、DOI 或 URL。证据不足就说证据不足。
+5. 如果未命中已收录权威依据，correction 必须包含“未命中已收录权威依据，以下为AI常识判断”，并把 strength 设为“低”。
+6. 只输出 JSON，不输出解释。
 
 JSON 格式：
 {{
@@ -1207,18 +1221,21 @@ def verify_single_claim(
     video_refs: list[dict] | None = None,
     top_k: int = 5,
 ) -> dict:
-    evidence, evidence_status = search_evidence_for_claim(claim, topic=topic, top_k=top_k)
+    evidence, evidence_status, evidence_tier = search_evidence_for_claim(claim, topic=topic, top_k=top_k)
     prompt = build_verify_prompt(claim, topic, evidence, video_refs=video_refs)
     raw = llm_chat(prompt, max_tokens=8192, json_mode=True, model=DEEPSEEK_REASONING_MODEL)
     data = parse_verify_result(raw, evidence)
     if evidence_status == "not_found":
         data["strength"] = "低"
         data["cited_evidence_ids"] = []
+    elif evidence_tier == "全文" and str(data.get("strength", "")) == "高":
+        data["strength"] = "中"
     data.update({
         "claim": claim,
         "topic": topic,
         "video_refs": video_refs or [],
         "evidence_status": evidence_status,
+        "evidence_tier": evidence_tier,
         "evidence": evidence,
     })
     return data

@@ -52,11 +52,14 @@ _evid = os.path.join(BASE, "evidence")
 if os.path.isdir(_evid):
     CACHE_DIR = os.path.join(_evid, "cache")
     ENTRIES_DIR = os.path.join(_evid, "entries")
+    FULLTEXT_DIR = os.path.join(_evid, "fulltext")
 else:
     CACHE_DIR = os.path.join(BASE, "cache")
     ENTRIES_DIR = os.path.join(BASE, "entries")
+    FULLTEXT_DIR = os.path.join(BASE, "fulltext")
 os.makedirs(CACHE_DIR, exist_ok=True)
 os.makedirs(ENTRIES_DIR, exist_ok=True)
+os.makedirs(FULLTEXT_DIR, exist_ok=True)
 
 _client = None
 _ocr = None
@@ -198,6 +201,9 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     if not os.path.exists(pdf_path):
         print(f"[skip] 找不到文件：{pdf}（把 PDF 放到脚本同目录，或同目录的 raw/ 文件夹）")
         return 0
+    cache_key = slugify(doc_name)
+    fulltext_path = os.path.join(FULLTEXT_DIR, f"{cache_key}.txt")
+    fulltext_only = False
     # 跳过已"完整"拆完的文档（complete=True）。未完成的会在下面断点续跑，不跳过。
     out_existing = os.path.join(ENTRIES_DIR, f"{slugify(doc_name)}.json")
     if not force and os.path.exists(out_existing):
@@ -208,8 +214,11 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
                     print(f"[重拆] 《{doc_name}》原 {prev['count']} 条 < {redo_below}，强制重拆", flush=True)
                     force = True
                 else:
-                    print(f"[skip] 《{doc_name}》已拆完（{prev['count']} 条），跳过。要重拆加 --force")
-                    return 0
+                    if os.path.exists(fulltext_path):
+                        print(f"[skip] 《{doc_name}》已拆完（{prev['count']} 条），跳过。要重拆加 --force")
+                        return 0
+                    print(f"[fulltext] 《{doc_name}》已拆条但缺全文缓存，本次只回填全文。", flush=True)
+                    fulltext_only = True
         except Exception:
             pass
     doc = fitz.open(pdf_path)
@@ -222,7 +231,6 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
     if doc.page_count <= SHORT_DOC_PAGES and (not page_list or len(page_list) < doc.page_count):
         print(f"  [短文档] 共 {doc.page_count} 页(≤{SHORT_DOC_PAGES})，忽略 pages 直接拆整本", flush=True)
         page_list = list(range(doc.page_count))
-    cache_key = slugify(doc_name)
     meta = {"org": org, "doc": doc_name, "year": year}
     print(f"[ingest] 《{doc_name}》 共 {doc.page_count} 页，处理 {len(page_list)} 页，窗口 {window}，模型 {model}", flush=True)
 
@@ -232,6 +240,15 @@ def ingest_one(pdf, org, doc_name, year="", url="", topic="", pages="",
         texts[pno] = page_text(doc, pno, cache_key, dpi)
         print(f"  读取/OCR 第 {i}/{total_p} 页（原书p{pno + 1}）：{len(texts[pno])} 字      ", end="\r", flush=True)
     print(flush=True)
+
+    with open(fulltext_path, "w", encoding="utf-8") as f:
+        for pno in page_list:
+            text = texts.get(pno, "").strip()
+            if text:
+                f.write(f"\n\n[page {pno + 1}]\n{text}")
+    if fulltext_only:
+        print(f"[fulltext] 已写入 → {fulltext_path}\n")
+        return 0
 
     out = os.path.join(ENTRIES_DIR, f"{cache_key}.json")
 
