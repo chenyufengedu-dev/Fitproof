@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, type ReactNode } from 'react'
 import type { Analysis, ChatMessage, Claim, PageState, SingleAnalyzeResponse, SingleSampleData, VerifyResult } from '@/types'
 import InputPage from '@/components/InputPage'
 import LoadingPage from '@/components/LoadingPage'
@@ -8,11 +8,15 @@ import ResultPage from '@/components/ResultPage'
 import RefsPage from '@/components/RefsPage'
 import SingleResultPage from '@/components/SingleResultPage'
 import { analyzeSingle, verifyClaim } from '@/lib/api'
+import BottomNav from '@/components/BottomNav'
+import CommunityTab from '@/components/CommunityTab'
+import ProfileTab from '@/components/ProfileTab'
 
 // 本地完整版：.env.local 设 NEXT_PUBLIC_API_URL=http://localhost:8000，走 Python 后端（含真实链接分析）
 // 云端（Vercel）：不设该变量，走同源的 Next 云函数 /api/*（预置话题 + AI 答疑）
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 const MIN_LOADING_MS = 5600
+type TabId = 'verify' | 'community' | 'profile'
 
 function wait(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms))
@@ -27,6 +31,7 @@ export default function Home() {
   const [inputError, setInputError] = useState<string>('')
   const [singleData, setSingleData] = useState<SingleAnalyzeResponse | null>(null)
   const [sampleVerifyResults, setSampleVerifyResults] = useState<VerifyResult[] | null>(null)
+  const [activeTab, setActiveTab] = useState<TabId>('verify')
 
   async function handleAnalyze(links: string[], topicName: string) {
     setInputError('')
@@ -138,54 +143,28 @@ export default function Home() {
     setPageState('refs')
   }
 
-  if (pageState === 'loading') {
-    return <LoadingPage topic={topic} />
+  function renderVerifyContent(): ReactNode {
+    if (pageState === 'loading') return <LoadingPage topic={topic} />
+    if (pageState === 'result' && analysis) {
+      return <ResultPage analysis={analysis} topic={topic} history={history} onFollowup={handleFollowup} onViewRefs={viewRefs} onBack={() => setPageState('input')} />
+    }
+    if (pageState === 'refs' && analysis) {
+      return <RefsPage references={analysis.references} authorities={analysis.authorities} topic={topic} focusId={refsFocusId} onBack={() => setPageState('result')} />
+    }
+    if (pageState === 'singleClaims' && singleData) {
+      return <SingleResultPage data={singleData} topic={topic} onBack={() => setPageState('input')} onVerifyClaim={handleVerifySingleClaim} />
+    }
+    return <InputPage apiBaseUrl={API_BASE_URL} onAnalyze={handleAnalyze} onPresetLoaded={handlePresetLoaded} onAnalyzeSingle={handleAnalyzeSingle} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} />
   }
 
-  if (pageState === 'result' && analysis) {
-    return (
-      <ResultPage
-        analysis={analysis}
-        topic={topic}
-        history={history}
-        onFollowup={handleFollowup}
-        onViewRefs={viewRefs}
-        onBack={() => setPageState('input')}
-      />
-    )
-  }
-
-  if (pageState === 'refs' && analysis) {
-    return (
-      <RefsPage
-        references={analysis.references}
-        authorities={analysis.authorities}
-        topic={topic}
-        focusId={refsFocusId}
-        onBack={() => setPageState('result')}
-      />
-    )
-  }
-
-  if (pageState === 'singleClaims' && singleData) {
-    return (
-      <SingleResultPage
-        data={singleData}
-        topic={topic}
-        onBack={() => setPageState('input')}
-        onVerifyClaim={handleVerifySingleClaim}
-      />
-    )
-  }
+  if (activeTab === 'verify' && pageState === 'loading') return <LoadingPage topic={topic} />
 
   return (
-    <InputPage
-      apiBaseUrl={API_BASE_URL}
-      onAnalyze={handleAnalyze}
-      onPresetLoaded={handlePresetLoaded}
-      onAnalyzeSingle={handleAnalyzeSingle}
-      onSingleSampleLoaded={handleSingleSampleLoaded}
-      initialError={inputError}
-    />
+    <div className="min-h-[100dvh] bg-white">
+      <div className="pb-16">
+        {activeTab === 'verify' ? renderVerifyContent() : activeTab === 'community' ? <CommunityTab /> : <ProfileTab />}
+      </div>
+      <BottomNav activeTab={activeTab} onChange={setActiveTab} />
+    </div>
   )
 }
