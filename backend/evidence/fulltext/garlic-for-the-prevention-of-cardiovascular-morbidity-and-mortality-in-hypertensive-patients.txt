@@ -1,0 +1,1696 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality
+in hypertensive patients (Review)
+ 
+ 
+Stabler SN, Tejani AM, Huynh F, Fowkes C
+ 
+ 
+Stabler SN, Tejani AM, Huynh F, Fowkes C. 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients. 
+Cochrane Database of Systematic Reviews 2012, Issue 8. Art. No.: CD007653. 
+DOI: 10.1002/14651858.CD007653.pub2.
+ 
+ 
+www.cochranelibrary.com
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+ 
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+BACKGROUND..............................................................................................................................................................................................
+3
+OBJECTIVES..................................................................................................................................................................................................
+3
+METHODS.....................................................................................................................................................................................................
+4
+RESULTS........................................................................................................................................................................................................
+5
+Figure 1..................................................................................................................................................................................................
+6
+Figure 2..................................................................................................................................................................................................
+8
+Figure 3..................................................................................................................................................................................................
+9
+Figure 4..................................................................................................................................................................................................
+10
+Figure 5..................................................................................................................................................................................................
+10
+DISCUSSION..................................................................................................................................................................................................
+10
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+11
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+11
+REFERENCES................................................................................................................................................................................................
+12
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+14
+DATA AND ANALYSES....................................................................................................................................................................................
+17
+Analysis 1.1. Comparison 1 Garlic versus Placebo, Outcome 1 Mean reduction in supine systolic blood pressure........................
+18
+Analysis 1.2. Comparison 1 Garlic versus Placebo, Outcome 2 Mean reduction in supine diastolic blood pressure.......................
+18
+APPENDICES.................................................................................................................................................................................................
+18
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+21
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+21
+SOURCES OF SUPPORT...............................................................................................................................................................................
+21
+INDEX TERMS...............................................................................................................................................................................................
+21
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Garlic for the prevention of cardiovascular morbidity and mortality in
+hypertensive patients
+Sarah N Stabler1, Aaron M Tejani2, Fong Huynh3, Claire Fowkes4
+1Cardiac Clinics, Royal Columbian Hospital, Lower Mainland Pharmacy Services, Vancouver, Canada. 2Therapeutics Initiative, University
+of British Columbia, Vancouver, Canada. 3Pharmacy, St Paul's Hospital, Vancouver, Canada. 4Pharmacy, University of British Columbia,
+Vancouver, Canada
+Contact: Aaron M Tejani, Therapeutics Initiative, University of British Columbia, 2176 Health Sciences Mall, Vancouver, BC, V6T 1Z3,
+Canada. Aaron.Tejani@fraserhealth.ca.
+Editorial group: Cochrane Hypertension Group.
+Publication status and date: New, published in Issue 8, 2012.
+Citation:  Stabler SN, Tejani AM, Huynh F, Fowkes C. Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive
+patients. Cochrane Database of Systematic Reviews 2012, Issue 8. Art. No.: CD007653. DOI: 10.1002/14651858.CD007653.pub2.
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Garlic is widely used by patients for its blood pressure lowering eﬀects. A meta-analysis published in 2008 concluded that garlic
+consumption lowers blood pressure in hypertensive and normotensive patients. Therefore, it is important to review the currently available
+evidence to determine whether garlic may also have a beneficial role in the reduction of cardiovascular events and mortality rates in
+patients with hypertension.
+Objectives
+To determine whether the use of garlic as monotherapy, in hypertensive patients, lowers the risk of cardiovascular morbidity and mortality
+compared to placebo.
+Search methods
+A systematic search for trials was conducted in the Cochrane Hypertension Group Specialised Register, CENTRAL, MEDLINE, EMBASE,
+AGRICOLA, AMED, and CINAHL up to November 2011. A hand search of reference lists of identified reviews was conducted. Experts in the
+area were also contacted to identify trials not found in the electronic search. Clinicaltrials.gov was searched for ongoing trials.
+Selection criteria
+Randomized, placebo-controlled trials of any garlic preparation versus placebo for the treatment of hypertension were included.
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality using the risk of bias tool. Data synthesis and analysis was
+performed using RevMan 5.
+Main results
+The search identified two randomized controlled trials for inclusion. One trial included 47 hypertensive patients and showed that garlic
+significantly reduces mean supine systolic blood pressure by 12 mmHg (95% CI 0.56 to 23.44 mmHg, p=0.04) and mean supine diastolic
+blood pressure by 9 mmHg (95% CI 2.49 to 15.51 mmHg, p=0.007) versus placebo. The authors state that garlic was "free from side eﬀects"
+and that no serious side eﬀects were reported. There were 3 cases "where a slight smell of garlic was noted."
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+The second trial could not be meta-analysed as they did not report the number of people randomized to each treatment group. They did
+report that 200 mg of garlic powder given three times daily, in addition to hydrochlorothiazide-triamterene baseline therapy, produced a
+mean reduction of systolic blood pressure by 10-11 mmHg and of diastolic blood pressure by 6-8 mmHg versus placebo.
+Neither trial reported clinical outcomes and insuﬀicient data was provided on adverse events.
+Authors' conclusions
+There is insuﬀicient evidence to determine if garlic provides a therapeutic advantage versus placebo in terms of reducing the risk of
+mortality and cardiovascular morbidity in patients diagnosed with hypertension. There is also insuﬀicient evidence to determine the
+diﬀerence in withdrawals due to adverse events between patients treated with garlic or placebo.
+Based on 2 trials in 87 hypertensive patients, it appears that garlic reduces mean supine systolic and diastolic blood pressure by
+approximately 10-12 mmHg and 6-9 mmHg, respectively, over and above the eﬀect of placebo but the confidence intervals for these eﬀect
+estimates are not precise and this diﬀerence in blood pressure reduction falls within the known variability in blood pressure measurements.
+This makes it diﬀicult to determine the true impact of garlic on lowering blood pressure.
+P L A I N   L A N G U A G E   S U M M A R Y
+Garlic for Hypertension
+Garlic is widely used by patients for its blood pressure lowering eﬀects. In this analysis, we reviewed the currently available evidence to
+determine the impact of garlic on cardiovascular events and mortality in patients with hypertension. Based on data from two randomized
+controlled trials that compared garlic to placebo in patients with hypertension it appears that garlic may have some blood pressure
+lowering eﬀect, as compared to placebo but the evidence currently available is insuﬀicient to determine whether garlic provides a
+therapeutic advantage versus placebo in terms of reducing the risk of cardiovascular morbidity and mortality. Data on the safety of garlic,
+as a therapeutic entity, in this population is also lacking. More (and large enough) trials comparing several doses of garlic with placebo are
+needed to detect possible diﬀerences in mortality, serious adverse events, and cardiovascular morbidity.
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+Hypertension is associated with structural changes in the heart
+and blood vessels which may lead to cardiovascular mortality and
+morbidity (i.e. cardiovascular disease, stroke, peripheral vascular
+disease, and renal disease). Hypertension is typically defined
+as having a systolic blood pressure (SBP) > 140 mmHg and a
+diastolic blood pressure (DBP) > 90 mmHg (CHEP 2008, Chobanian
+2003). Worldwide, approximately 1 billion people are aﬀected by
+hypertension (Chobanian 2003) and seven million deaths per year
+may be attributed to hypertension (WHO 2003).  In addition, for
+every 20 mmHg increase in SBP and 10 mmHg increase in DBP
+(through the range from 115/75 to 185/115 mmHg) in people aged
+40 to 70 years, the risk of cardiovascular disease (CVD) morbidity
+doubles (Chobanian 2003). This emphasizes the importance of
+finding safe and eﬀective treatments for the prevention of the
+associated mortality and morbidity in hypertensive patients.
+  Thus, with a vast number of patients being diagnosed with this
+disease, it is not surprising that alternative and complementary
+therapy for hypertension are being explored (Rahman 2006).
+According to a survey of 900 people conducted by the US Food
+and Drug Administration in 2002, garlic is the second most
+utilized complementary therapy (afer Echinacea) with 17% of the
+population using this supplement within the preceding 12 month
+period (Timbo 2006).  Garlic is considered one of the most popular
+complementary therapies for blood pressure control and is thought
+to be used by 50% of patients with hypertension (Bongiorno 2008).
+Description of the intervention
+Garlic (Allium sativum) is a member of the family Alliaceae, and is
+believed to have originated from Central Asia (Jellin 2006, Rahman
+2006). The use of garlic for medicinal purposes is well documented
+in history. The Egyptians, Romans, Chinese, and Indians used garlic
+for a variety of medical ailments. Garlic was thought to be eﬀective
+for respiratory and gastrointestinal illnesses, in the treatment
+of certain infectious diseases, and for increasing performance in
+labourers (Rivlin 2001).
+There are several diﬀerent types of garlic preparations that are
+available: garlic cloves, essential garlic oil (0.2 to 0.5% of garlic
+cloves), garlic powder (which contains the same compounds as
+garlic cloves but in diﬀerent amounts), garlic oil macerates (garlic
+cloves ground into vegetable oils), garlic extract (primarily made up
+of the water-soluble constituents of garlic cloves), and aged garlic
+extract (aging converts the harsh compounds into stable, less toxic
+sulphur compounds) (Harunobu 2001).
+How the intervention might work
+The blood pressure lowering properties of garlic appear to come
+from the bulb portion of the plant and have been attributed to
+the production of sulphur containing compounds. Allicin (allyl
+2-propenethiosulfinate) is thought to be one of the principle
+bioactive compounds, with the highest sulphur content. Allicin is
+produced  from the breakdown of S-allyl cysteine-S-oxide (alliin)
+(Jellin 2006). Allicin, a vasodilating agent, has also been shown in
+vitro to inhibit angiotensin-converting enzyme (which aids in the
+production of angiotensin, a potent vasoconstrictor) and therefore
+reduces blood pressure in individuals with hypertension (Banerjee
+2002).  The eﬀectiveness of garlic products on blood pressure is
+thought to be determined primarily by their ability to yield allicin.
+This ability, however, can be aﬀected by the method of preparation
+since the enzyme alliinase, responsible for the conversion of alliin
+to allicin, is inactivated by heat (Jellin 2006). As a result, not all
+garlic products have the same amount of allicin and thus, it is
+thought that the eﬀectiveness of the products vary depending on
+how they were prepared (Jellin 2006). Ongoing research suggests
+that the medicinal properties of garlic are due to other compounds
+in addition to allicin. Phenolic and steroidal compounds in garlic
+have pharmacological eﬀects, are odour free, and, unlike allicin, are
+heat-stable (Harunobu 2001, Lanzotti 2006, Matsuura 2001).
+Why it is important to do this review
+Evidence from randomized controlled trials suggests that garlic
+may be beneficial in the treatment of hypertension.   Results
+from a 1994 meta-analysis that included eight trials and 415
+patients reported an overall 7.7 mmHg greater reduction in systolic
+blood pressure and 5.0 mmHg greater reduction in diastolic blood
+pressure in all subjects treated with garlic. Upon review of the
+two placebo-controlled trials within the meta-analysis specifically
+looking at hypertensive patients, an 11.1 mmHg greater reduction
+in systolic blood pressure and 6.5 mmHg greater reduction in
+diastolic blood pressure was found in the garlic treated patients.
+Overall, however, this review concluded there was insuﬀicient
+evidence to recommend garlic as clinical therapy for the treatment
+of hypertension (Silagy 1994). On the other hand, a more recent
+2008 systematic review that included 25 studies (n=1298), eleven
+of which were eligible for meta-analysis (503 patients included in
+the SBP analysis and 565 in the DBP analysis), concluded that garlic
+preparations are, in fact, superior to placebo for lowering blood
+pressure in a mixed population of normotensive and hypertensive
+patients. The result of a regression analysis showed a statistically
+significant association between blood pressure at the start of the
+intervention and blood pressure reduction following use of garlic
+(SBP: R = 0.057; p = 0.03; DBP: R = -0.315; p = 0.02) (Ried 2008).
+Since garlic is widely used by patients for its blood pressure
+lowering eﬀects, it is important to review the currently available
+evidence to determine whether garlic may, in fact, have a beneficial
+role in the reduction of these cardiovascular events and/or reduce
+mortality rates in patients with hypertension. The recent meta-
+analysis (Ried 2008) provides evidence that garlic consumption
+lowers blood pressure in a mixed population of hypertensive and
+normotensive patients. However, it remains to be determined
+whether the consumption of garlic reduces the risk of morbidity or
+mortality associated with elevated blood pressure. The aim of our
+systematic review is to determine the eﬀect of garlic consumption
+on morbidity and mortality in hypertensive patients. The secondary
+aim is to quantify the blood pressure lowering eﬀect of garlic
+consumption specifically in hypertensive patients.
+O B J E C T I V E S
+Primary objective
+To determine whether garlic monotherapy provides a therapeutic
+advantage over placebo for the treatment of adults with
+hypertension, as determined by a hierarchy of clinically important
+outcomes:
+•
+All cause mortality
+•
+Cardiovascular events (fatal or non-fatal myocardial infarction)
+•
+Cerebrovascular events (fatal or non fatal strokes)
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Secondary objectives
+To determine whether garlic monotherapy provides a therapeutic
+advantage over placebo in reduction of systolic and diastolic blood
+pressure in adults with hypertension.
+To determine the incidence of withdrawal due to adverse eﬀects
+associated with garlic monotherapy.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomized controlled trials, either parallel group or crossover,
+were considered.
+Types of participants
+Trials with human participants who are at least 18 years of age, with
+a diagnosis of primary hypertension (defined as having a systolic
+blood pressure > 140 mmHg or a diastolic blood pressure of >
+90mmHg, or both) were reviewed. Participants could be on other
+therapies for hypertension as long as this additional therapy was
+used by participants in all arms of the trial (i.e. all groups would
+receive the same additional antihypertensive therapy).
+Types of interventions
+Interventions using garlic (allium sativum) monotherapy in a
+preparation without any other ingredients known or thought to
+have an antihypertensive eﬀect. Studies that use manufactured,
+cooked, or raw garlic preparations were considered. No restrictions
+were placed on the quantity of garlic administered or the frequency
+of garlic administration.
+Trials with a placebo comparator were considered for inclusion.
+Types of outcome measures
+Primary outcomes
+The primary outcomes are death due to any cause, serious adverse
+events (an event that is life-threatening, causes death, leads to
+hospitalization, prolongs hospitalization, leads to persistent or
+significant disability/incapacity, or leads to a congenital anomaly/
+birth defect), and cardiovascular events including myocardial
+infarction and stroke.
+Secondary outcomes
+The secondary outcomes are blood pressure reduction, as well
+as breath and body odour, mouth and gastrointestinal burning
+or irritation, or any other adverse events severe enough to cause
+withdrawal from treatment.
+Search methods for identification of studies
+The Database of Abstracts of Reviews of Eﬀectiveness (DARE) and
+the Cochrane Database of Systematic Reviews were searched for
+related reviews.
+Electronic searches
+The following electronic databases were searched for primary
+studies:
+a)       The Cochrane Hypertension Group Specialised Register
+(1948-November 2011), Cochrane Central Register of Controlled
+Trials (2011, Issue 4), MEDLINE (1950-November 2011), EMBASE
+(1980-November 2011), AGRICOLA (1970-November 2011), Allied
+and Complementary Medicine (AMED) (1985-November 2011),
+BIOSIS (1969-2011), and CINAHL (1981-November 2011). The
+Hypertension Group Specialised Register includes controlled trials
+from searches of AGRICOLA, Allied and Complementary Medicine
+(AMED), BIOSIS, CAB Abstracts, CINAHL, Cochrane Central Register
+of Controlled Trials, EMBASE, Food Science and Technology
+Abstracts (FSTA), Global Health, International Pharmaceutical
+Abstracts (IPA), LILACS, MEDLINE, ProQuest Dissertations & Theses,
+PsycINFO, SCIRUS, and Web of Science.
+b)    ClinicalTrials.gov
+Electronic databases were searched using a strategy combining
+the Cochrane Highly Sensitive Search Strategy for identifying
+randomized trials in MEDLINE: sensitivity-maximizing version (2008
+revision) with selected MeSH terms and free text terms relating
+to garlic and hypertension.  No language restrictions were used.
+   The MEDLINE search strategy (Appendix 1) was translated into
+EMBASE (Appendix 2), CENTRAL (Appendix 3), the Hypertension
+Group Specialised Register (Appendix 4), AGRICOLA (Appendix 5),
+AMED (Appendix 6), BIOSIS (Appendix 7), and CINAHL (Appendix 8)
+using the appropriate controlled vocabulary as applicable.
+Searching other resources
+Citations of reviews and meta-analyses on the treatment of
+hypertension with garlic were examined.  Experts in the field were
+contacted to identify any other trials missed in our search.
+Data collection and analysis
+Selection of studies
+Two reviewers independently assessed all studies identified to
+determine whether they met the predefined inclusion criteria.  All
+references that mentioned the use of garlic from articles identified
+in the search were reviewed and were included if they met the
+criteria. The reasons for excluding a study were documented. A
+third independent reviewer resolved any diﬀerences that arose on
+whether a trial should be included.
+Data extraction and management
+Studies which fulfilled the inclusion criteria were examined in
+detail by two independent reviewers. Two independent reviewers
+extracted data using a standardized data extraction form.
+Assessment of risk of bias in included studies
+The following parameters were assessed:
+•
+Method and/or security of randomization,
+•
+Whether or not the individuals involved in the study (including
+health care provider, assessor, and patient) were blinded to
+the treatment allocation,
+•
+Whether analysis by intention-to-treat was performed,
+•
+How many participants completed the study.
+Any diﬀerences in interpretation of the data were resolved through
+consensus between the four reviewers.  If additional information
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+was required, an attempt to contact the original authors of the
+study was made.
+Study characteristics and the outcome measures of interest were
+collected independently by the two reviewers using a pre-formed
+data extraction sheet.   All data, regardless of compliance or
+completion of follow up was collected in order to allow for analysis
+by intention to treat.
+Measures of treatment eﬀect
+For evaluation of the primary outcomes (all cause mortality,
+cardiovascular events, and cerebrovascular events), the total
+number of patients with at least one event within each trial were
+to be recorded as a percent. Proportions were to be calculated for
+these dichotomous outcomes, and comparisons between groups.
+However none of the included trials reported on clinical outcomes.
+Data for blood pressure reduction was combined using a weighted
+mean diﬀerence method. This combines a weight based on the
+number of individuals in the trial and the within study variance.
+If the trial did not report the within study variance for decrease
+in blood pressure, the standard deviation was to be imputed from
+the average standard deviation from the other trials. Imputation
+was not necessary as all relevant information was present in the
+included trials.
+Unit of analysis issues
+Data from all patients individually randomized to each intervention
+was used in the analysis. Care was taken to identify situations in
+which data has been censored/excluded or if data presented was
+the total number of events or the total number of patients with a
+first event.
+Dealing with missing data
+An attempt was made to contact the authors of the study for
+clarification if there was missing data.
+Assessment of heterogeneity
+Assessment of heterogeneity was not done as there was only one
+study included in the meta-analysis component of this review.
+Assessment of reporting biases
+Assessment of reporting bias was not necessary as we were unable
+to assess if there was data missing from the outcomes reported by
+the authors in the studies. None of the results reported in this study
+were imputed or assumed.
+Data synthesis
+Cochrane Review Manager sofware, RevMan 5, was used for
+all data analyses. No dichotomous outcome data was reported
+in the included trials. Data for blood pressure reduction was
+combined using a weighted mean diﬀerence method with standard
+deviations.
+Subgroup analysis and investigation of heterogeneity
+The following subgroup analyses were planned but were not
+performed due to the lack of data available in the included trials:
+1. Trials of less than 6 months duration, 6 to 12 months duration,
+and those more than 6 months duration
+2. Trials of mild-to-moderate hypertension, severe hypertension
+and isolated systolic hypertension
+Sensitivity analysis
+The following sensitivity analyses were planned but were not
+performed due to the lack of available data in the included trials:
+1. Trials with proper randomization or concealment of allocation
+compared to those without these characteristics
+2. Trials preformed with intention-to-treat analysis compared to
+those without an intention-to-treat analysis
+3. Unblinded versus blinded trials
+4. Trials using unmanufactured raw or cooked garlic versus
+manufactured garlic trials
+5. For any crossover trial, the pre-crossover versus post-crossover
+results
+6. The eﬀects of garlic with the inclusion of trials where blood
+pressure standard deviations are imputed versus the exclusion
+of data from trials that did not report blood pressure standard
+deviations
+R E S U L T S
+Description of studies
+Results of the search
+See Figure 1 for flow chart describing the search results. Two
+reviewers (CF and FH) independently reviewed titles and abstracts
+from the initial search results in 2009. The search was then updated
+in November 2011 and abstracts and titles were screened by two
+reviewers (SS and AT). Two additional trials were identified through
+screening of the updated search (Han 2011, Ried 2010). No on-
+going trials were identified through a search of the clinicaltrials.gov
+database.
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study Flow Diagram
+ 
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   (Continued)
+ 
+Included studies
+Two studies were identified that met all of the inclusion criteria
+(Auer 1990 and Kandziora 1988). See Characteristics of included
+studies.
+Excluded studies
+A total of nine studies (Barrie 1987; Gardner 2001; Jain 1993;
+Kieswetter 1991; Rotzsch 1992; Saradeth 1994; Simons 1995;
+Superko 2000; Turner 2004; Zhang 2000) were excluded from
+this analysis as they included healthy volunteers or patients
+who did not have a diagnosis of hypertension. Czerny 1996
+and Lutomski 1984 were excluded as the group randomized to
+receive garlic also received another herbal preparation (lecithin
+and rutin respectively). As well, not all patients in the Lutomski
+1984 trial had hypertension. De A Santos 1995, Kandaziora 1988
+(2), and Holzgartner 1992 did not have a placebo comparator
+arm, but compared garlic to another active antihypertensive
+medication. Eight studies (De A Santos 1993; Han 2011; Holzgartner
+1992; Isaacsohn 1998; Kiesewetter 1993; Steiner 1996; Vorberg
+1990) included some patients who had hypertension, but it ws
+unclear if randomization was stratified based on a diagnosis
+of hypertension. We were unable to extract the data on the
+hypertensive patients from these studies. Ried 2010 randomized
+patients with hypertension but these patients were on other
+anti-hypertensive agents, and the use of these other agents
+was not standardized or equal between groups. The intent of
+the Ried 2010 study was to assess the eﬀects of add-on garlic
+therapy for hypertension. Mrozikiewicz 1989 was excluded because
+the only available information was in abstract form only. Four
+trials (Luley 1986, Mansell 1996, Satitvipawee 2003; Schiewe
+1995) were excluded as they were primarily lipid lowering trials
+and didn't include or report adequate information on blood
+pressure. McMahon 1992 was excluded as no numerical data was
+available. Mousa 2007 was excluded because the patients were
+not randomized to the various interventions and a crossover
+design was not used. Two trials (Sobenin 2007 and Williams 2005)
+included patients with known ischemic heart disease or coronary
+artery disease. Presumably, some of these patients did have a
+diagnosis of hypertension, but we were unable to extract data for
+the hypertensive patients included in these studies.
+See Characteristics of excluded studies.
+Risk of bias in included studies
+Both Auer 1990 and Kandziora 1988 did not report details for
+sequence generation, allocation concealment, or blinding. No
+details were given to account for patients through the trial period
+in order to assess for loss to follow up. No trial protocol was cited
+to rule out selective outcome reporting. Very limited information
+was provided on harm. It was not possible to contact the author
+for clarification as no contact information was provided in the trial
+report. A Google search was conducted for the name of the lead
+authors however no useful contact information was retrieved. (See
+Figure 2; Figure 3).
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+ 
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Risk of bias summary: review authors' judgements about each risk of bias item for each included study.
+ 
+Eﬀects of interventions
+Auer 1990 did not report on clinical outcomes or adverse events.
+However it had a relatively small sample size that would have
+been insuﬀicient to demonstrate diﬀerences in these outcomes.
+Auer 1990 compared 200 mg garlic powder (Kwai(r)) three times
+daily (n=24) to placebo (n=23) in patients with WHO class I and
+II (mild) hypertension. Afer 12 weeks of study treatment garlic
+produced a reduction in mean supine systolic blood pressure of 19
+mmHg (from 171 to 152 mmHg) and a reduction in mean supine
+diastolic blood pressure of 13 mmHg (from 102 to 89 mmHg).
+Non-significant reductions in mean supine systolic (8 mmHg),
+mean supine diastolic (4 mmHg) blood pressure, mean standing
+systolic blood pressure (10 mmHg) or mean standing diastolic
+blood pressure (4 mmHg) were reported in the placebo-treated
+patients. Garlic produced a reduction in mean standing systolic
+blood pressure of 21 mmHg (from 171 to 150 mmHg) and a
+reduction in mean standing diastolic blood pressure of 11 mmHg
+(from 101 to 90 mmHg). No details for standard error of the mean or
+standard deviations with respect to blood pressure changes were
+reported but the information was imputable from figure 1 on page
+10 of Auer 1990. Information from the graph was used to calculate
+standard deviations and to subsequently compare the diﬀerence
+in mean reduction of supine systolic and diastolic blood pressure
+between garlic and placebo (see Analysis 1.1, Figure 4 and Analysis
+1.2, Figure 5). Our analysis suggests garlic significantly reduces
+mean supine systolic blood pressure by 12 mmHg (95% CI 0.56 to
+23.44 mmHg, p=0.04)) and mean supine diastolic blood pressure by
+9.00 mmHg (95%CI 2.49 to 15.51 mmHg, p=0.007) versus placebo.
+The trial reports state both that garlic was "free from side eﬀects"
+and that no serious adverse eﬀects were reported. They reported 3
+cases "where a slight smell of garlic was noted."
+ 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 4.   Forest plot of comparison: 1 Garlic versus Placebo, outcome: 1.1 Mean reduction in supine systolic blood
+pressure [mmHg].
+ 
+ 
+Figure 5.   Forest plot of comparison: 1 Garlic versus Placebo, outcome: 1.2 Mean reduction in supine diastolic blood
+pressure [mmHg].
+ 
+Kandziora 1988 enrolled 40 patients with hypertension who
+were all given hydrochlorothiazide-triameterene therapy for their
+hypertension. These patients were then randomized to either 2 X
+100 mg tablets of high potency garlic powder or matching placebo
+three times daily for 12 weeks. It should be noted that the data
+from this trial could not be used in the meta-analysis as authors did
+not report the number of patients randomized to each treatment
+group. In this trial, the authors report that garlic produced a
+statistically significant mean reduction in supine SBP of 16 mmHg
+(from 178 to 162 mmHg) and supine DBP of 15 mmHg (from
+100 to 85 mmHg). Garlic produced a statistically significant mean
+reduction in standing SBP of 16 mmHg (from 174 to 158 mmHg)
+and standing DBP of 16 mmHg (from 99 to 83 mmHg). Placebo
+produced a mean reduction in supine SBP of 5 mmHg (from 178 to
+173 mmHg) and supine DBP of 9 mmHg (from 100 to 91 mmHg).
+Placebo produced a mean reduction in standing SBP of 6 mmHg
+(from 175 to 169 mmHg) and standing DBP of 8 mmHg (from 98 to
+90 mmHg). This study reported that no patients experienced any
+cardiovascular outcomes, pulse changes, tachycardia, bradycardia,
+or other undesired eﬀects. These results were present in addition to
+any eﬀects of the use of hydrochlorothiazide-triamterene therapy
+that was given to all patients in the trial.
+D I S C U S S I O N
+Summary of main results
+Two trials (Auer 1990, Kandziora 1988) met the inclusion criteria for
+this review. In Auer 1990, 47 hypertensive individuals used 200 mg
+of garlic powder three times daily versus placebo. Garlic powder
+significantly reduced mean supine systolic and diastolic blood
+pressure by 12 mmHg and 9 mmHg, respectively. No cardiovascular
+event data or harm data were reported.
+The data from Kandziora 1988 could not be meta-analysed as
+they did not report the number of people randomized to each
+treatment group. They did report that 200 mg of garlic powder given
+three times daily, in addition to hydrochlorothiazide-triamterene
+baseline therapy, produced a 10-11 mmHg mean reduction in
+systolic blood pressure and a 6-8 mmHg mean reduction in diastolic
+blood pressure versus placebo. No clinical outcomes were reported
+and insuﬀicient data was provided on the safety of garlic powder
+for the treatment of hypertension.
+Overall completeness and applicability of evidence
+There is a paucity of clinical trials that randomize hypertensive
+patients to either garlic or placebo. It is important to demonstrate
+the impact of clinical and harm outcomes for interventions that
+reduce blood pressure. Based on the available data, it appears
+that garlic reduces blood pressure versus placebo however the
+magnitude of this eﬀect cannot be accurately quantified. There
+is currently insuﬀicient data regarding clinical outcomes or harm
+to support the use of garlic therapy in the management of
+hypertension.
+Quality of the evidence
+The two included trials (Auer 1990, Kandziora 1988) had small
+sample sizes and did not report important details regarding study
+methodology. As such, the amount of bias in these trials remains
+unclear. In addition, the eﬀect sizes are relatively imprecise and
+only give an indication of the possible blood pressure lowering
+eﬀects of garlic. Further research in this area is needed.
+Potential biases in the review process
+Many trials were excluded because they did not randomize patients
+with hypertension at baseline. Some may argue that important
+data was therefore not utilized. In our opinion, the impacts of garlic
+on blood pressure and clinical outcomes may diﬀer between non-
+hypertensive and hypertensive patients based on pathophysiology
+and risk of clinical morbidity due to underlying disease processes.
+Agreements and disagreements with other studies or
+reviews
+Ried 2008 conducted a meta-analysis of garlic intervention trials
+to determine the eﬀect of garlic on blood pressure. This review
+did not specify that trials had to randomize patients with
+objectively diagnosed hypertension. Rather, the authors included
+all randomized controlled trials of garlic that measured blood
+pressure changes. They did conduct a subgroup analysis of trials
+that had patients with baseline blood pressures in the hypertensive
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+range and reported that garlic did significantly reduce systolic
+blood pressure by 8.4 ± 2.8 mmHg (n = 4; p < 0.001), and diastolic
+blood pressure by 7.3 ± 1.5 mmHg versus placebo. We compared the
+trials in that subgroup analyses to those trials that were identified
+in our search. We had also found Auer 1990 and Kandziora 1988
+which were included in our review. We identified Vorberg 1990 as
+well but excluded this trial because patients were selected for the
+trial based on elevated cholesterol and not due to a diagnosis of
+hypertension. The original trial publication was reviewed and it
+was not possible to extract the data for the patients who may have
+been hypertensive at baseline. We also assessed Holzgartner 1992,
+however this trial compared garlic to bezafibrate and not placebo.
+This trial also included patients with and without hypertension,
+the patients were not stratified based on a diagnosis, and we were
+unable to extract the data for the hypertensive subgroup, therefore
+this trial was excluded from this analysis.
+In addition, the intent of the Ried 2008 analysis was simply to
+identify the blood pressure lowering eﬀect of garlic versus placebo.
+Our intent was diﬀerent, in that we also wanted to know if garlic
+reduced morbidity and mortality in hypertensive patients. In our
+opinion this is the more important clinical question as simply
+lowering blood pressure using an intervention doesn't necessarily
+mean that the clinical morbidity and mortality due to hypertension
+will also go down (Wright 2009). In addition we also wanted to
+establish if there was any significant harm for garlic versus placebo,
+which was also not described in the Ried 2008 meta-analysis.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+There is insuﬀicient evidence currently available to determine if
+garlic provides a therapeutic advantage versus placebo in terms of
+reducing the risk of mortality and cardiovascular morbidity. There
+is insuﬀicient evidence to determine the diﬀerence in withdrawals
+due to adverse events between patients treated with garlic or
+placebo.
+Based on 2 trials in 87 hypertensive patients, it appears that
+garlic reduces mean supine systolic and diastolic blood pressure
+by approximately 10-12 mmHg and 6-9 mmHg, respectively, over
+and above the eﬀect of placebo. However the confidence intervals
+for these eﬀect estimates are not precise and this diﬀerence in
+blood pressure reduction falls within the known variability in blood
+pressure measurements (Musini 2009). This makes it diﬀicult, if
+not impossible, to determine the true impact of garlic on reducing
+blood pressure.
+Implications for research
+Garlic appears to have a blood pressure lowering eﬀect based
+but the precise estimate of blood pressure reduction specifically
+in hypertensive individuals remains unknown. In addition,
+evidence is lacking on the possible impact of garlic on mortality
+or cardiovascular morbidity. Future trials should randomize
+hypertensive patients to several doses of garlic versus placebo.
+These trials should be large enough and report the diﬀerences in
+mortality, serious adverse events and cardiovascular morbidity.
+A C K N O W L E D G E M E N T S
+The Cochrane Hypertension Review Group.
+The UBC Therapeutics Initiative Drug Assessment Working Group.
+Stephen Adams for assistance with the statistical analysis.
+Ciprian Jauca for assistance with translation of non-English trials.
+Greg Rowell for help in refining the search strategy.
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Auer 1990 {published data only}
+Auer W, Eiber A, Hertkorn E, Koehrle U, Lorenz A, Mader F,
+Merx W, Otto G, Schmidt-Otto B, Taubenheim H. Hypertension
+and hyperlipidaemia: garlic helps in mild cases. Br J Clin Pract
+1990;Supplement 69:3-6.
+Kandziora 1988 {published data only}
+Kandaziora J. Blood pressure and lipid lowering eﬀect of
+garlic preparations in combination with a diuretic [Blutdruk-
+und lipidsenkende Wirkung eines Knoblauch-Praparates in
+Kombination mit einem Diuretikum]. Artzliche Forschung
+1988;35:1-8.
+ 
+References to studies excluded from this review
+Barrie 1987 {published data only}
+Barrie S, Wright J, Pizzorno JE. Eﬀects of garlic oil on platelet
+aggregation, serum lipids and blood pressure in humans.
+Journal of Orthomol Med 1987;2(1):15-21.
+Czerny 1996 {published data only}
+Czerny B, Sarnochowiec S. Clinical Investigations with a
+Garlic-Lecithin Preparation [Klinishce Untersuchungen mit
+einem Knoblauch-Lezithin-Praparat]. Arztezellschrif for
+Naturheltvorfahren 1996;37(2):126-136.
+De A Santos 1993 {published data only}
+De A Santos OS, Grunwald J. Eﬀect of garlic powder tablets on
+blood lipids and blood pressure-a six month placebo controlled,
+double blind trial. Br J Clin Res 1993;4:37-44.
+De A Santos 1995 {published data only}
+De A Santos OS, Johns RA. Eﬀects of garlic powder and garlic oil
+preparations on blood lipids, blood pressure and well-being.. Br
+J Clin Res 1995;6:91-100.
+Gardner 2001 {published data only}
+Gardner CD, Chatterjee LM, Carlson JJ. The eﬀect of a
+garlic preparation on plasma lipid levels in moderately
+hypercholesterolemic adults. Atherosclerosis 2001;154:213-220.
+Han 2011 {published and unpublished data}
+Han CH, Liu JC, Lin YS, et al. Antihypertensive activities of
+processed garlic on spontaneously hypertensive rats and
+hypertensive humans. Botanical Studies 2011;52:277-283.
+Holzgartner 1992 {published data only}
+Holzgartner H, Schmidt U, Kuhn U. Comparison of the
+eﬀicacy and tolerance of a garlic preparation vs. bezafibrate.
+Arzneimittelforschung 1992;42(12):1473–1477. [PUBMED:
+1288512]
+Isaacsohn 1998 {published data only}
+Isaacsohn JL, Moser M, Stein EA, Dudley K, Davey J, Liskov E,
+Black HR. Garlic Powder and Plasma Lipids and Lipoproteins.
+Arch Intern Med 1998;138:1189-1194.
+Jain 1993 {published data only}
+Jain AK, Vargas R, Gotzkowsky S, McMahon FG. Can Garlic
+Reduce Levels of Serum Lipids? A Controlled Clinical Study. Am
+J Med 1993;94:632-635.
+Kandaziora 1988 (2) {published data only}
+Kandziora J. Antihypertensive eﬀicacy and tolerability of garlic
+preparations [Antihypertensive Wirksamkeit und Vertraglichkeit
+eines Knoblauch-Praparates (Study 2)]. Artzliche Forschung
+1988;35:1-8.
+Kiesewetter 1993 {published data only}
+Kiesewetter H, Jung F, Jung EM, Blume J, Mrowietz C,
+Birk A, Koscienly J, Wenzel E. Eﬀects of garlic coated
+tablets in peripheral arterial occlusive disease. Clin Invetsig
+1993;71(5):383-386.
+Kieswetter 1991 {published data only}
+*  Kieswetter H, Jung F, Pindur EM, Mrowietz C, Wenzel E.
+Eﬀect of garlic on thrombocyte aggregation, microcirculation
+and other risk factors. Int J Clin Pharmacol Therapy and Tox
+1991;29(4):151-155.
+Luley 1986 {published data only}
+Luley C, Lehmann-Leo W, Moller B, Martin T, Schwatrzkopf W.
+Lack of eﬀicacy of dried garlic in patients with
+hyperlipoproteinemia. Arzneimittelforschung 1986;36(4):766-8.
+Lutomski 1984 {published data only}
+Lutomski J, Poznan, Polen. Clinical investigations of the
+therapeutic eﬀicacy of Ilja Rogogg(R) garlic pills with rutin
+[Klinische Untersuchungen zur therapeutischen Wirksamkeit
+von Ilja Rogogg(r) Knoblauchpillen mit Rutin]. Zeutschrif fur
+Phytotherapie 1984;5(15):938-942.
+Mansell 1996 {published data only}
+Mansell P, Reckless JPD, Lloyd J, Leatherdale B. The Eﬀect of
+Dried Garlic Powder Tablets On Serum Lipids in Non-Insulin
+Dependent Diabetic Patients. Eur J Clin Res 1996;8:25-26.
+McMahon 1992 {published data only}
+McMahon FG, Jain A, Vargas R, Kadowitz P, McNamara D.
+Clinical Eﬀects of a Garlic Powder Preparation on Various
+Cardiovascular Risk Factors. Eur J Clin Res 1992;3A:8-9.
+Mousa 2007 {published data only}
+Mousa AS, Mousa SA. Cellular eﬀects of garlic supplements and
+antioxidants on high blood pressure in humans: pilot study.
+Nutr Res 2007;27(2):119-123.
+Mrozikiewicz 1989 {published data only}
+Mrozikiewicz VA, Lutomski J. Eﬀicacy of Some Garlic
+Preparations. Pharmacological and Clinical Studies in
+Poland. [Wirkungseﬀekte einiger Knoblauchpraparate.
+Pharmakologische und klinische Untersuchungen in Polen].
+Deutsche Apotheker-Zeitung 1989;129:16.
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Ried 2010 {published data only}
+Ried K, Frank OR, Stocks NP. Aged garlic extract lowers
+blood pressure in patients with treated but uncontrolled
+hypertension: A randomised controlled trial. Maturitas
+2010;67:144-150.
+Rotzsch 1992 {published data only}
+Rotzsch W, Richter V, Rassoul F, Walper A. Postprandial Lipamie
+with medication of Allium sativum [Postprandiale Lipamie unter
+Medikation von Allium sativum]. Lipidsenker Lipid Reducers
+1992;42 (II)(10):1223-1226.
+Saradeth 1994 {published data only}
+Saradeth T, Seidl S, Resch KL, Ernst E. Does garlic alter the lipid
+pattern in normal volunteers?. Phytomedicine 1994;1:183-185.
+Satitvipawee 2003 {published data only}
+Satitvipawee P, Indrabhakti S, Getn-Gern P, Rawdaree P,
+Ratanasuwan, T, Viwatwongkasem C. No eﬀect of garlic extract
+supplement on serum lipid levels in hypercholesterolemic
+subjects. J Med Assoc Thai 2003;86:750-757.
+Schiewe 1995 {published data only}
+Schiewe FP, Hein T, Koln. Garlic in hyperlipidemia
+[Knoblauch bei Hyperlipidamie]. Zeitschrif fur Phytotherapie
+1995;16:343-348.
+Simons 1995 {published data only}
+Simons L, Balasubramaniam S, von Konigsmark M, Parfitt A,
+Simons J, Peters W. On the eﬀect of garlic on plasma lipids and
+lipoproteins in mild hypercholesterolaemia. Atherosclerosis
+1995;113(2):219-225.
+Sobenin 2007 {published data only}
+Sobenin IA, Prianishnikov VV, Kunnova LM, Rabinovich EA,
+Orekhov AN. Use of allicor to lower the risk of myocardial
+infarction (Article in Russian). Ter Arkh 2007;85(3):25-28.
+Steiner 1996 {published data only}
+Steiner A, Khan A, Holbert D, Lin R. A double-blind crossover
+study in moderately hypercholesterolemic men that compared
+the eﬀect of aged garlic extract and placebo administration on
+blood lipids. Am J Clin Nutr 1996;64(6):866-870.
+Superko 2000 {published data only}
+Superko HR, Krauss RM. Garlic Powder, Eﬀect on Plasma
+Lipids, Postprandial Lipemia, Low-Density Lipoprotein Particle
+Size, High-Density Lipoprotein Subclass Distribution and
+Lipoprotein(a). J Am Coll Cardiol 2000;35(2):321-326.
+Turner 2004 {published data only}
+Turner B, Molgaard C, Marckmann P. Eﬀect of garlic (Allium
+sativum) powder tablets on serum lipids, blood pressure
+and arterial stiﬀness in normo-lipidaemic volunteers: a
+randomised, double-blind, placebo-controlled trial. Br J of Nutr
+2004;92:701-706.
+Vorberg 1990 {published data only}
+Vorberg G, Schneider B. Therapey with Garlic: Results of
+a Placebo-Controlled, Double-Blind Study. Br J Clin Pract
+1009;68:7-11.
+Williams 2005 {published data only}
+Williams MJA, Sutherland WJF, McCormick MP, Yeoman DJ,
+de Jong SA. Aged garlic extract improves endothelial
+function in men with coronary artery disease. Phytother Res
+2005;19:314-319.
+Zhang 2000 {published data only}
+Zhang XH, Lowe D, Giles P, Fell S, Board AR, Baughan JA,
+Connock MJ, Maslin DJ. A randomized trial of the eﬀects of
+garlic oil upon coronary heart disease risk factors in trained
+male runners. Blood Caogul Fibrin 2000;11:67-74.
+ 
+Additional references
+Banerjee 2002
+Banerjee Sk, Maulik SK. Eﬀect of garlic on cardiovascular
+disorders: a review. Nutr J 2002;1:4.
+Bongiorno 2008
+Bongiorno PB, Fratellone PM, LoGiudice P. Potential health
+benefits of garlic (allium staivum): a narrative review. Journal of
+Complement and Int Med 2008;5:1-15.
+CHEP 2008
+Canadian Hypertension Education Program (CHEP) Guidelines
+2008. Available from: URL: http://hypertension.ca/chep/wp-
+content/uploads/2008/03/2008-chepspiral-booklet-final_
+ jan28.pdf.
+Chobanian 2003
+Chobanian AV, Bakris GL, Black HR, et al. The Seventh Report
+of the Joint National Committee on Prevention, Detection,
+Evaluation, and Treatment of High Blood Pressure: the JNC 7
+report.. JAMA 2003;289(19):2560-2572.
+Harunobu 2001
+Harunobu A, Petesch B, Matsuura H, et al. Intake of garlic and its
+bioactive components. J Nutr 2001;131(3):955S-962S.
+Jellin 2006
+Jellin Jm, Gregory PJ, Batz F, Hitchens K, et al. Garlic
+[Garlic]. Pharmacists Letter / Prescribers Letter Natural
+Medicine Comprehensive Database. 8th Edition. Stockton CA:
+Therapeutic Research Faculty, 2006:556-61.
+Lanzotti 2006
+Lanzotti V. The analysis of onion and garlic. J CHROMATOGR A
+2006;1112(1-2,21):3-22.
+Matsuura 2001
+Matsuura H. Saponins in Garlic as Modifiers of the Risk of
+Cardiovascular Disease. J Nutr 2001;31(3):1000S-1005.
+Musini 2009
+Musini V, Wright J. Factors Aﬀecting Blood Pressure Variability:
+Lessons Learned from Two Systematic Reviews of Randomized
+Controlled Trials.. PLoS One 2009;4(5):e5673. [DOI: 10.1371/
+journal.pone.0005673]
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Rahman 2006
+Rahman K, Lowe G. Garlic and Cardiovasular Disease: A Critical
+Review. J Nutr. 2006;136:736S-740S.
+Ried 2008
+Ried K, Frank OR, Stocks NP, et al. Eﬀect of garlic on
+blood pressure: a systematic review and meta-analysis.
+BMC Cardiovascular Disorders 2008;8(13):1-12. [DOI:
+10.1186/1471-2261-8-13]
+Rivlin 2001
+Rivlin R. Historical perspective on the use of garlic. J Nutr
+2001;31(3):951S-954S.
+Silagy 1994
+Silagy CA, Neil HA. A meta-analysis of the eﬀect of garlic on
+blood pressure. J Hypertens 1994;12:463-468.
+Timbo 2006
+Timbo BB, Ross MP, McCarthy PV, et al. Dietary supplements
+in a national survey: prevalence of use and reports of adverse
+events. Am Diet Assoc 2006;106:1966-1974..
+WHO 2003
+World Health Organization, International Society of
+Hypertension Writing Group. 2003 World Health Organization
+(WHO)/International Society of Hypertension (ISH)
+statement on management of hypertension. J Hypertens
+2003;21:1983-1992.
+Wright 2009
+Wright JM, Musini VM. First-line drugs for hypertension.
+Cochrane Database of Systematic Reviews 2009, Issue 3. [DOI:
+10.1002/14651858.CD001841.pub2]
+ 
+* Indicates the major publication for the study
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+Randomized, placebo-controlled, double-blind
+Participants
+Non-hospitalized patients, recruited from general practices, with mild hypertension (WHO stage I and
+II, diastolic pressure between 95-104 mmHg on "two control measurements with 14 days between
+each."The trial excluded patients on antihypertensives and antihyperlipidemic drugs, those with severe
+hypertension and hyperlipidemia, and those thought to be seriously ill or those that might suffer com-
+plications during the trial.
+Interventions
+Fourteen days of "acclimatization"then given active treatment or placebo. Two capsules of 100mg each
+garlic powered preparation three times daily and the control group received "a similar looking place-
+bo."
+Outcomes
+Pulse, triglycerides, total cholesterol, supine/standing systolic and diastolic blood pressure, aspartate
+aminotransferase, alanine aminotransferase, gamma glutamyl transpeptidase, and blood sugar.
+Notes
+Treatment lasted 12 weeks. Blood pressure, total cholesterol and pulse measure 2 weeks before treat-
+ment, at randomization, and at 4, 8, 12 weeks. aspartate aminotransferase, alanine aminotransferase,
+gamma glutamyl transpeptidase, and blood sugar were measured at randomization and at 12 weeks.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+"The patients were allocated to treatment groups at random."Given the small
+sample size, randomization was unlikely to balance groups for known and un-
+known characteristics even if an appropriate method of sequence generation
+was used.
+Allocation concealment
+(selection bias)
+Unclear risk
+Not reported
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+No details are reported on the number of people in each group that were
+analysed for any particular outcome nor were any details on loss to follow-up/
+withdrawals reported.
+Auer 1990 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Selective reporting (re-
+porting bias)
+Unclear risk
+No trial protocol was cited nor could a published protocol be found. It is un-
+clear whether the pre-specified plan matches what was reported in the pub-
+lished trial report.
+Other bias
+High risk
+No reporting of any harm data or any clinical outcome data. No reporting of
+sample size calculations or p-value adjustment for multiple comparisons. It is
+also unclear what the primary and secondary outcomes measures were.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+Stated as "double-blind"in the abstract but no mention of exactly which 2
+groups were blinded.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No details were reported with regards to who measured the outcomes, who
+analysed the data, and no mention if any of those parties were blinded to
+treatment allocation.
+Auer 1990  (Continued)
+ 
+ 
+Methods
+Randomized, double-blind, placebo controlled
+Participants
+40 hypertensive adults between the ages of 43 to 65 years with mild hypertension (WHO class I and II)
+with no evidence of diabetes, lipid disorders, serious coronary, renal or cerebral organ damage.
+Interventions
+200 mg of high potency garlic powder given orally three times daily for 12 weeks versus matching
+placebo.
+Outcomes
+Electrolytes, electrocardiograms, blood pressure, serum creatinine, blood sugar, and cholesterol.
+Notes
+Article published in German, was translated for us by Ciprian Jauca.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not reported
+Allocation concealment
+(selection bias)
+Unclear risk
+Not reported
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+No details given and the number of patients randomized to each group was
+not reported.
+Selective reporting (re-
+porting bias)
+Unclear risk
+No trial protocol cited.
+Other bias
+Unclear risk
+n/a
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+No details reported
+Kandziora 1988 
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No details reported
+Kandziora 1988  (Continued)
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Barrie 1987
+Patients did not have hypertension.
+Czerny 1996
+Group randomized to receive garlic also received lecithin, no lecithin was given in the placebo arm.
+De A Santos 1993
+Not all patients had hypertension at baseline. It is unclear if randomization was stratified based on
+diagnosis of hypertension. Unable to extract data on hypertensive patients.
+De A Santos 1995
+Compared garlic powder to garlic oil. No placebo comparator. Not all patients had hypertension at
+baseline. It is unclear if randomization was stratified based on diagnosis of hypertension. Unable to
+extract data on hypertensive patients.
+Gardner 2001
+Patients did not have hypertension
+Han 2011
+Patients with diagnosis of hypertension at baseline could not be separated from those with pre-hy-
+pertension. Authors were contacted by email in June 2012 but sufficient detail was not provided.
+Holzgartner 1992
+Compared garlic to bezafibrate. Not all patients had hypertension at baseline. It is unclear if ran-
+domization was stratified based on diagnosis of hypertension. Unable to extract data on hyperten-
+sive patients.
+Isaacsohn 1998
+Only some (11/50) had a diagnosis of hypertension. We were unable to extract the data from the
+hypertensive patients. Randomization was not stratified based on blood pressure at baseline.
+Jain 1993
+Patients did not have hypertension.
+Kandaziora 1988 (2)
+Compared garlic preparation to diuretic-reserpin combination. No placebo comparator.
+Kiesewetter 1993
+Of the 60 randomized patients, only 4 had hypertension at baseline and the data for these subjects
+are not reported separately. And even if randomization was stratified for hypertension, it was un-
+likely balanced between groups.
+Kieswetter 1991
+Not all patients had hypertension at baseline. It is unclear if randomization was stratified based on
+diagnosis of hypertension. Unable to extract data on hypertensive patients.
+Luley 1986
+Patients did not have hypertension. Lipid lowering trial.
+Lutomski 1984
+Not all patients had a diagnosis of hypertension. Individual data for patients with hypertension
+could not be obtained. Garlic was given in combination with rutin, no rutin was given in the place-
+bo arm.
+Mansell 1996
+Basline BP data not available. Lipid lowering trial in diabetic patients.
+McMahon 1992
+Identified through hand search of Simons S et al review in Netherlands Journal of Medicine 2009. In
+this review it was stated that "no numerical data provided."
+Mousa 2007
+Not a randomized or crossover study.
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study
+Reason for exclusion
+Mrozikiewicz 1989
+Abstract only, no baseline data available
+Ried 2010
+Enrolled people who were on a variety of other anti-hypertensive prior to being randomized to gar-
+lic or placebo. More importantly, patients in both study groups were on different proportions of an-
+tihypertensives compared to each other (i.e. use of other classes was not standardized).
+Note: email communication with Dr. Ried on June 26 2012 confirmed that the uncontrolled hyper-
+tension group was categorized after the randomization process. Also confirmed that "Group alloca-
+tion was randomized and double-blinded and trial IDs provided to eligible patients in consecutive
+order as they enrolled."
+Rotzsch 1992
+Patients did not have hypertension.
+Saradeth 1994
+Patients did not have hypertension.
+Satitvipawee 2003
+Lipid lowering trial, no blood pressure data available.
+Schiewe 1995
+Lipid lowering trial, no blood pressure data available.
+Simons 1995
+Patients did not have hypertension.
+Sobenin 2007
+Patients had known coronary artery diease but information on hypertension and blood pressure
+data were not available.
+Steiner 1996
+Not all patients had hypertension at baseline. It is unclear if randomization was stratified based on
+diagnosis of hypertension. Unable to extract data on hypertensive patients.
+Superko 2000
+Patients did not have hypertension.
+Turner 2004
+Patients did not have hypertension.
+Vorberg 1990
+Not all patients had hypertension at baseline. It is unclear if randomization was stratified based on
+diagnosis of hypertension. Unable to extract data on hypertensive patients.
+Williams 2005
+Ischemic heart disease patients, only some had hypertension but could not extract data for these
+patients. Randomization was not stratified based on hypertension
+Zhang 2000
+Patients did not have hypertension.
+ 
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Comparison 1.   Garlic versus Placebo
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Mean reduction in supine systolic
+blood pressure
+1
+47
+Mean Difference (IV, Fixed,
+95% CI)
+12.0 [0.56, 23.44]
+2 Mean reduction in supine diastolic
+blood pressure
+1
+47
+Mean Difference (IV, Fixed,
+95% CI)
+9.0 [2.49, 15.51]
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+ 
+Analysis 1.1.   Comparison 1 Garlic versus Placebo, Outcome 1 Mean reduction in supine systolic blood pressure.
+Study or subgroup
+Garlic
+Placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Auer 1990
+24
+19.5 (19.3)
+23
+7.5 (20.7)
+100%
+12[0.56,23.44]
+ 
+ 
+Total ***
+24
+ 
+23
+ 
+100%
+12[0.56,23.44]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.06(P=0.04)
+ 
+Favours Garlic
+100
+50
+-100
+-50
+0
+Favours Placebo
+ 
+ 
+Analysis 1.2.   Comparison 1 Garlic versus Placebo, Outcome 2 Mean reduction in supine diastolic blood pressure.
+Study or subgroup
+Garlic
+Placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Auer 1990
+24
+13.5 (11)
+23
+4.5 (11.7)
+100%
+9[2.49,15.51]
+ 
+ 
+Total ***
+24
+ 
+23
+ 
+100%
+9[2.49,15.51]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.71(P=0.01)
+ 
+Favours Garlic
+100
+50
+-100
+-50
+0
+Favours Placebo
+ 
+ 
+A P P E N D I C E S
+Appendix 1. Medline Search Strategy
+Database: Ovid MEDLINE(R) 1948 to Present with Daily Update
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 garlic/
+2 garlic.tw.
+3 (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund).tw.
+4 or/1-3
+5 hypertension/
+6 hypertens$.tw.
+7 exp blood pressure/
+8 (blood pressure or bloodpressure).tw.
+9 or/5-8
+10 randomized controlled trial.pt.
+11 controlled clinical trial.pt.
+12 randomized.tw.
+13 placebo.tw.
+14 drug therapy/
+15 randomly.tw.
+16 trial.tw.
+17 groups.tw.
+18 or/10-17
+19 animals/ not (humans/ and animals/)
+20 18 not 19
+21 4 and 9 and 20
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Appendix 2. EMBASE search strategy
+Database: EMBASE <1980 to 2011 November 22>
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 garlic/
+2 garlic extract/
+3 garlic oil/
+4 garlic.tw.
+5 (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund).tw.
+6 or/1-5
+7 exp hypertension/
+8 hypertens$.tw.
+9 exp blood pressure/
+10 (blood pressure or bloodpressure).mp.
+11 or/7-10
+12 randomized controlled trial/
+13 crossover procedure/
+14 double-blind procedure/
+15 random$.tw.
+16 (crossover$ or cross-over$).tw.
+17 placebo$.tw.
+18 (doubl$ adj blind$).tw.
+19 allocat$.tw.
+20 comparison.ti.
+21 trial.ti.
+22 or/12-21
+23 11 and 22
+24 (animal$ not (human$ and animal$)).mp.
+25 23 not 24
+26 6 and 11 and 25
+Appendix 3. CENTRAL search strategy
+Database: Wiley - Cochrane Central Register of Controlled Trials <2011 Issue 4>
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+#1 MeSH descriptor Garlic, explode all trees
+#2 garlic:ti,ab
+#3 (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund):ti,ab
+#4 #1 or #2 or #3
+#5 MeSH descriptor Hypertension, this term only
+#6 hypertens*:ti,ab
+#7 MeSH descriptor Blood Pressure explode all trees
+#8 (blood pressure or bloodpressure):ti,ab
+#9 #5 or #6 or #7 or #8
+#10 #4 AND #9
+Appendix 4. Hypertension Group Specialised Register search strategy
+Database: Hypertension Group Specialised Register
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 All fields (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund)
+Appendix 5. AGRICOLA search strategy
+Database: AGRICOLA <1970 to November 2011>
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 garlic.hw.
+2 allium.hw.
+3 garlic.tw.
+4 (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+salicaps or sanhelios or sapec or xund).tw.
+5 or/1-4
+6 hypertension.hw.
+7 hypertens$.tw.
+8 blood pressure.hw.
+9 (blood pressure or bloodpressure).tw.
+10 or/6-9
+11 random$.ti,ab,id,sh,mp.
+12 (control$ adj2 clinical).ti,ab,id,sh,mp.
+13 placebo$.ti,ab,id,sh,mp.
+14 trial.ti,ab,id,sh,mp.
+15 groups.ab.
+16 (doubl$ adj3 blind$).ti,ab,id,sh,mp.
+17 allocat$.ti,ab,id,sh,mp.
+18 assign$.ti,ab,id,sh,mp.
+19 or/11-18
+20 5 and 10 and 19
+Appendix 6. AMED search strategy
+Database: AMED (Allied and Complementary Medicine) <1985 to November 2011>
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 allium sativum/
+2 garlic.tw.
+3 (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund).tw.
+4 or/1-3
+5 hypertension/
+6 hypertens$.tw.
+7 blood pressure/
+8 (blood pressure or bloodpressure).tw.
+9 or/5-8
+10 exp clinical trials/
+11 double blind method/
+12 random allocation/
+13 random$.tw.
+14 placebo$.tw.
+15 trial.tw.
+16 groups.ab.
+17 assign$.tw.
+18 allocat$.tw.
+19 or/10-18
+20 4 and 9 and 19
+Appendix 7. BIOSIS search strategy
+Database: BIOSIS Previews <1969 to 2011>
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+1 TS=garlic
+2 TS=(allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund)
+3 #2 or #1
+4 TS=hypertens*
+5 TS=("blood pressure" or bloodpressure)
+6 #5 or #4
+7 TS=random*
+8 TS=("clinical control" or "clinical controlled" or "controlled clinical")
+9 TS=placebo*
+10 TI=trial*
+11 TS="doubl*-blind*"
+12 TS=allocat*
+13 TS=assign*
+14 #13 OR #12 OR #11 OR #10 OR #9 OR #8 OR #7
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+15 #14 and #6 and #3
+Appendix 8. CINAHL search strategy
+Database: EBSCO CINAHL
+Search Date: 23 November 2011
+--------------------------------------------------------------------------------
+S20 S4 and S9 and S19
+S19 S10 or S11 or S12 or S13 or S14 or S15 or S16 or S17 or S18
+S18 AB groups
+S17 TI trial*
+S16 TI allocat* or AB allocat*
+S15 TI assign* or AB assign*
+S14 TI doubl* n2 blind* or AB doubl* n2 blind*
+S13 TI placebo* or AB placebo*
+S12 TI random* or AB random*
+S11 (MH "Random Assignment") 
+S10 (MH "Clinical Trials")
+S9 S5 or S6 or S7 or S8
+S8 TI ( (blood pressure or bloodpressure) ) or AB ( (blood pressure or bloodpressure) ) 
+S7 (MH "Blood Pressure+")
+S6 TI hypertens* or AB hypertens*
+S5 (MH "Hypertension+")
+S4 S1 or S2 or S3
+S3 TI ( (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund) ) or AB
+( (allium or allibessen or allisantin or allisat or alloton or carisano or kwai or kyolic or salicaps or sanhelios or sapec or xund) ) 
+S2 TI garlic or AB garlic
+S1 (MH "Garlic")
+C O N T R I B U T I O N S   O F   A U T H O R S
+Sarah Stabler was be responsible for searching for trials, data extraction, data analyses, interpretation of data, and writing/editing of the
+final report.
+Aaron M Tejani was be responsible for verifying analyses, interpretation of data, writing/editing of the final report.
+Claire Fowkes was be responsible for searching for trials, data extraction, data analyses, interpretation of data.
+Fong Hyunh was be responsible for searching for trials, data extraction, data analyses, interpretation of data.
+D E C L A R A T I O N S   O F   I N T E R E S T
+None known.
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+None, Not specified.
+External sources
+•
+None, Not specified.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Antihypertensive Agents  [*therapeutic use];  Blood Pressure  [*drug eﬀects];  Cardiovascular Diseases  [prevention & control];  Drug
+Combinations;  Garlic  [*chemistry];  Hydrochlorothiazide  [therapeutic use];  Hypertension  [*drug therapy]  [mortality];  Phytotherapy
+ [*methods];  Randomized Controlled Trials as Topic;  Supine Position;  Triamterene  [therapeutic use]
+MeSH check words
+Humans
+Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients (Review)
+Copyright © 2012 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21

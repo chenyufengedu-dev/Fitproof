@@ -1,0 +1,242 @@
+
+
+[page 1]
+Ultrasound Imaging
+Description
+Uses
+Benefits/Risks
+Information for Patients including Expectant Mothers
+Information for Health Care Providers
+Information for Practices Conducting Ultrasound Imaging
+Information for Industry
+Reporting Problems to the FDA 
+Other Resources
+Description
+Ultrasound imaging (sonography) uses high-frequency sound waves to view inside the body.
+Because ultrasound images are captured in real-time, they can also show movement of the
+body's internal organs as well as blood flowing through the blood vessels. Unlike X-ray
+imaging, there is no ionizing radiation exposure associated with ultrasound imaging.
+In an ultrasound exam, a transducer (probe) is placed directly on the skin or inside a body
+opening. A thin layer of gel is applied to the skin so that the ultrasound waves are transmitted
+from the transducer through the gel into the body.
+Picture of a transducer (probe) used during an ultrasound exam.
+Feedback
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+1/7
+
+[page 2]
+The ultrasound image is produced based on the reflection of the waves off of the body
+structures. The strength (amplitude) of the sound signal and the time it takes for the wave to
+travel through the body provide the information necessary to produce an image.
+Uses
+Ultrasound imaging is a medical tool that can help a physician evaluate, diagnose and treat
+medical conditions. Common ultrasound imaging procedures include:
+Abdominal ultrasound (to visualize abdominal tissues and organs)
+Bone sonometry (to assess bone fragility)
+Breast ultrasound (to visualize breast tissue)
+Doppler fetal heart rate monitors (to listen to the fetal heart beat)
+Doppler ultrasound (to visualize blood flow through a blood vessel, organs, or other
+structures)
+Echocardiogram (to view the heart)
+Fetal ultrasound (to view the fetus in pregnancy)
+Ultrasound-guided biopsies (to collect a sample of tissue)
+Ophthalmic ultrasound (to visualize ocular structures
+Ultrasound-guided needle placement (in blood vessels or other tissues of interest)
+Benefits/Risks
+Ultrasound imaging has been used for over 20 years and has an excellent safety record. It is
+based on non-ionizing radiation, so it does not have the same risks as X-rays or other types of
+imaging systems that use ionizing radiation.
+Although ultrasound imaging is generally considered safe when used prudently by
+appropriately trained health care providers, ultrasound energy has the potential to produce
+biological effects on the body. Ultrasound waves can heat the tissues slightly. In some cases, it
+can also produce small pockets of gas in body fluids or tissues (cavitation). The long-term
+consequences of these effects are still unknown. Because of the particular concern for effects
+on the fetus, organizations such as the American Institute of Ultrasound in Medicine
+(http://www.aium.org/resources/guidelines.aspx)  (http://www.fda.gov/about-fda/website-
+policies/website-disclaimer) have advocated prudent use of ultrasound imaging in pregnancy.
+Furthermore, the use of ultrasound solely for non-medical purposes such as obtaining fetal
+‘keepsake’ videos has been discouraged. Keepsake images or videos are reasonable if they
+are produced during a medically-indicated exam, and if no additional exposure is required.
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+2/7
+
+[page 3]
+Information for Patients including Expectant Mothers
+For all medical imaging procedures, the FDA recommends that patients talk to their health care
+provider to understand the reason for the examination, the medical information that will be
+obtained, the potential risks, and how the results will be used to manage the medical condition
+or pregnancy. Because ultrasound is not based on ionizing radiation, it is particularly useful for
+women of child-bearing age when CT (/radiation-emitting-products/medical-x-ray-
+imaging/computed-tomography-ct) or other imaging methods would otherwise result in
+exposure to radiation.
+Expectant Mothers
+Ultrasound is the most widely used medical imaging
+method for viewing the fetus during pregnancy.
+Routine examinations are performed to assess and
+monitor the health status of the fetus and mother.
+Ultrasound examinations provide parents with a
+valuable opportunity to view and hear the heartbeat of
+the fetus, bond with the unborn baby, and capture
+images to share with family and friends.
+In fetal ultrasound, three-dimensional (3D) ultrasound
+allows the visualization of some facial features and possibly other parts such as fingers and
+toes of the fetus. Four-dimensional (4D) ultrasound is 3D ultrasound in motion. While
+ultrasound is generally considered to be safe with very low risks, the risks may increase with
+unnecessary prolonged exposure to ultrasound energy, or when untrained users operate the
+device.
+Expectant mothers should also be aware of concerns with purchasing over-the-counter fetal
+heartbeat monitoring systems (also called doptones). These devices should only be used by
+trained health care providers when medically necessary. Use of these devices by untrained
+persons could expose the fetus to prolonged and unsafe energy levels, or could provide
+information that is interpreted incorrectly by the user.
+Additional resources on ultrasound imaging:
+RadiologyInfo.org: Obstetrical Ultrasound (http://www.radiologyinfo.org/en/info.cfm?
+pg=obstetricus)  (http://www.fda.gov/about-fda/website-policies/website-disclaimer)
+Image Gently: The Alliance for Radiation Safety in Pediatric Imaging
+(http://www.imagegently.org/Procedures/Ultrasound.aspx)  (http://www.fda.gov/about-
+fda/website-policies/website-disclaimer)
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+3/7
+
+[page 4]
+Information for Health Care Providers
+As part of FDA’s Initiative To Reduce Unnecessary Radiation Exposure From Medical Imaging
+(/initiative-reduce-unnecessary-radiation-exposure-medical-imaging), FDA has recommended
+that health care providers consider examinations that use little or no ionizing radiation
+exposure, such as ultrasound or MRI, if medically appropriate. Ultrasound imaging does
+introduce energy into the body, and laboratory studies have shown that diagnostic levels of
+ultrasound can produce physical effects in tissue, such as pressure oscillations with
+subsequent mechanical effects and rise in temperature. Therefore, FDA recommends that
+health care providers consider ways to minimize exposure while maintaining diagnostic quality
+when using ultrasound. As with all other imaging modalities, the principles of As Low As
+Reasonably Achievable (ALARA) should be practiced by health care providers.
+Individual states regulate the use of diagnostic ultrasound through recommendations and
+requirements for personnel qualifications, quality assurance and quality control programs and
+facility accreditation.
+Information for Facilities Conducting Ultrasound Imaging
+Ultrasound practices should consider site and staff participation in voluntary accreditation and
+certification programs that address both safety and effectiveness of the device following the
+principles of As Low As Reasonably Achievable (ALARA), such as those offered by the
+American Institute of Ultrasound in Medicine (http://www.aium.org/) 
+(http://www.fda.gov/about-fda/website-policies/website-disclaimer) and the American Registry
+of Diagnostic Medical Sonographers (http://www.ardms.org/)  (http://www.fda.gov/about-
+fda/website-policies/website-disclaimer).
+Any health care facility employing ultrasound should conduct regular quality control tests to
+ensure that equipment is functioning properly.
+Information for Industry: Ultrasound Manufacturers
+Manufacturers of electronic radiation emitting products sold in the United States are
+responsible for compliance with the Federal Food, Drug and Cosmetic Act (FFDCA), Chapter V,
+Subchapter C - Electronic Product Radiation Control (http://www.gpo.gov/fdsys/pkg/USCODE-
+2010-title21/html/USCODE-2010-title21-chap9-subchapV-partC-sec360ii.htm).
+Manufacturers of ultrasound imaging products are responsible for compliance with all
+applicable requirements of Title 21 Code of Federal Regulations (Subchapter J, Radiological
+Health) Parts 1000 through 1005:
+1000 - General (http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?
+CFRPart=1000)
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+4/7
+
+[page 5]
+1002 - Records and Reports
+(http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=1002)
+1003 - Notification of defects or failure to comply
+(http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=1003)
+1004 - Repurchase, repairs, or replacement of electronic products
+(http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=1004)
+1005 - Importation of electronic products
+(http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=1005)
+There are no federal radiation safety performance standards for diagnostic ultrasound.
+Because they are medical devices, ultrasound imaging equipment must also comply with the
+medical device regulations. For more information, see Getting to Market with a Medical Device
+(/how-study-and-market-your-device).
+Industry Guidance - Documents of Interest
+Guidance for Industry and FDA Staff - Information for Manufacturers Seeking Marketing
+Clearance of Diagnostic Ultrasound Systems and Transducers (PDF Version) (PDF -
+474KB) (/media/71100/download)
+Declaration for Imported Electronic Products Subject to Radiation Control Standards
+(PDF - 399KB) (/media/72236/download)
+Ultrasound Letter to Industry (https://wayback.archive-
+it.org/7993/20170406003027/https://www.fda.gov/downloads/Radiation-
+EmittingProducts/RadiationEmittingProductsandProcedures/MedicalImaging/UCM509874.pdf)
+ (http://www.fda.gov/about-fda/website-policies/website-disclaimer)
+Variance Application Process (/radiation-emitting-products/submitting-reports-and-
+requirements-maintaining-records-radiation/electronic-product-radiation-control-eprc-
+variance-application-process-fda)
+Reporting Problems to FDA
+Prompt reporting of adverse events can help the FDA identify and better understand the risks
+associated with the product. We encourage health care providers and patients who suspect a
+problem with a medical imaging device to file a voluntary report through MedWatch, the FDA
+Safety Information and Adverse Event Reporting Program (/medwatch-fda-safety-information-
+and-adverse-event-reporting-program).
+Health care personnel employed by facilities that are subject to FDA's user facility reporting
+requirements (/mandatory-reporting-requirements-manufacturers-importers-and-device-user-
+facilities) should follow the reporting procedures established by their facilities.
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+5/7
+
+[page 6]
+Was this page helpful? * (required)
+Medical device manufacturers, distributors, importers, and device user facilities (which include
+many health care facilities) must comply with the Medical Device Reporting (MDR) Regulations
+of 21 CFR Part 803 (/mandatory-reporting-requirements-manufacturers-importers-and-device-
+user-facilities).
+In addition to following the general recommendations (for manufacturers, facilities, and any
+member of the public) for reporting problems for adverse events associated with ultrasound
+imaging, the following information should be included in reports, if available:
+the protocol being followed during the event;
+sample images, if available;
+the conditions of operation, including technical parameters such as:
+mode of operation
+clinical application
+Thermal Index (TI) and Mechanical Index (MI)
+duration of scan, if known 
+Other Resources
+Does the Product Emit Radiation? (/medical-devices/classify-your-medical-device/does-
+product-emit-radiation)
+Getting a Radiation Emitting Product to Market (/radiation-emitting-products/electronic-
+product-radiation-control-program/getting-radiation-emitting-product-market-frequently-
+asked-questions)
+Records and Reporting (Radiation-Emitting Products) (/radiation-emitting-
+products/getting-radiation-emitting-product-market-frequently-asked-questions/submitting-
+reports-and-requirements-maintaining-records-radiation)
+Importing and Exporting Electronic Products (/radiation-emitting-products/getting-
+radiation-emitting-product-market-frequently-asked-questions/importing-and-exporting-
+electronic-products)
+Yes
+No
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+6/7
+
+[page 7]
+Submit
+An official form of the United States government. Provided by Touchpoints
+
+Top ()
+2026/7/14 03:58
+Ultrasound Imaging | FDA
+https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging
+7/7

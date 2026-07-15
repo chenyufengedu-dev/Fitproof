@@ -1,0 +1,689 @@
+
+
+[page 1]
+ABSTRACT 
+Objective: The purpose of the present study was to determine the effect of abdominal binder usage on 
+mobilization, postoperative pain, and distress after cesarean delivery.
+Materials and Methods: This prospective randomized controlled study was conducted between September 
+1, 2017 and January 31, 2018 at Bakirkoy Dr. Sadi Konuk Education and Research Hospital, Istanbul, Turkey. 
+A total of 89 women undergoing elective cesarean were randomized to the study (binder, n=45) or control 
+(no binder, n=44) groups. Patients in the study group were fitted with a binder before leaving the operating 
+room. Mobilization (6-minute walk test), postoperative pain (measured by Short-Form McGill Pain Ques­
+tionnaire and Visual Analog Scale), and perceived distress status of both groups were evaluated within 8th 
+(first mobilization time), 24th, and 48th h of surgery.
+Results: We found that the binder group (BG) walked longer than the control group during the 6-minute 
+walking distance test. At the first mobilization time (postoperative 8th h), the BG (99.4±27.3 m) covered 
+significantly more distance than the control group (81.0±22.2 m) (p=0.001) in the walking distance test. At 
+postoperative 24th h, the McGill pain score in the BG was significantly lower than that in the control group 
+(p=0.004). For all three test times, the Symptom Distress Scale of the BG was lower than that of the control 
+group (postoperative 8th h p=0.024, 24th h p<0.001, and 48th h p<0.001).
+Conclusion: The evidence is consistent with abdominal binder usage after cesarean section decreasing the 
+feeling of distress and increasing mobility.
+Keywords: Abdominal binder, cesarean section, mobilization, pain
+Eurasian J Med 2019; 51(3): 214-8
+Original Article
+Introduction
+Cesarean section (CS) is the most frequent abdominal surgery worldwide [1], and pain is the 
+most common complaint associated with it [2]. In the early stages of the postpartum period, 
+when pain cannot be managed effectively, patients worry about injuries to the surgical site [3]. 
+Pain and worry in turn cause the patients to avoid mobilization, thereby increasing the risk of 
+thromboembolism and disrupting the maternal bonding with the infant.
+In the literature, there are few studies on the use of non-pharmacological interventions to re­
+duce pain and improve mobilization [4]. One of the most promising non-pharmacological in­
+terventions is postoperative abdominal binder usage. An abdominal binder is a wide belt that 
+surrounds the abdomen and supports the surgical site. The binder is hypothesized to improve 
+postoperative pulmonary function by limiting the movement of abdominal wall muscles [5]. In 
+particular, it might speed up the return of the uterus and the other organs to their pre-pregnancy 
+positions by compressing the abdomen, and it might help tissue repair by increasing blood flow 
+[6]. The benefits of abdominal binder use for reducing pain and improving mobility after major 
+abdominal surgeries are well-established in the literature [7, 8]. However, for cesarean delivery, 
+there are few studies on the impact of binder use on postoperative pain and symptom distress, 
+and to our knowledge, there are no studies on its impact on mobilization.
+The aim of the present study was to investigate the effects of abdominal binder use after cesar­
+ean delivery on postoperative pain, distress, and mobilization.
+Influence of Abdominal Binder Usage after Cesarean Delivery 
+on Postoperative Mobilization, Pain and Distress: A Randomized 
+Controlled Trial
+Ibrahim Karaca1 
+, Mustafa Ozturk1 
+, Ismail Alay1 
+, Onur Ince2 
+, Suna Yildirim Karaca3 
+, Volkan Sakir Erdogan1 
+, 
+Murat Ekin1 
+Cite this article as: Karaca I, Ozturk M, Alay I, et al. 
+Influence of Abdominal Binder Usage after Cesarean 
+Delivery on Postoperative Mobilization, Pain, and 
+Distress: A Randomized Controlled Trial. Eurasian J 
+Med 2019; 51(3): 214-8.
+ORCID IDs of the authors: 
+I.K. 0000-0001-5652-3423 
+M.O. 0000-0002-1847-8868
+I.A. 0000-0003-1859-4794
+O.I. 0000-0003-2263-8956
+S.Y.K. 0000-0001-8319-3052
+V.S.E. 0000-0002-7976-8287
+M.E. 0000-0002-4525-5125 
+1Department of Gynecology and Obstetrics, 
+Health Sciences University, Istanbul Bakirkoy 
+Dr. Sadi Konuk Training and Research Hospital, 
+İstanbul, Turkey
+2Department of Gynecology and Obstetrics, 
+Kutahya Health Sciences University, School of 
+Medicine, Kutahya, Turkey
+3Department of Gynecology and Obstetrics, 
+Health Sciences University, İstanbul Kanuni 
+Sultan Suleyman Training and Research Hospital, 
+İstanbul, Turkey
+Received: December 12, 2018
+Accepted: March 13, 2019
+Correspondence to: Onur Ince
+E-mail: onurincemd@gmail.com
+DOI 10.5152/eurasianjmed.2019.18457
+Content of this journal is licensed under a Creative 
+Commons Attribution 4.0 International License.
+
+[page 2]
+Materials and Methods
+Study Design and Ethical Approval
+This study was designed as a prospective ran­
+domized controlled trial and conducted at Ba­
+kirkoy Dr. Sadi Konuk Education and Research 
+Hospital, Istanbul, Turkey. The study was ap­
+proved by the hospital ethics committee (2017-
+09-22/246). Written informed consent was 
+obtained from the subjects. As soon as the 
+patients were admitted to the obstetric service, 
+they were randomly assigned to one of the two 
+groups by the successive opening of sequentially 
+numbered, opaque and stamped envelopes. Pa­
+tients in the intervention group used an abdomi­
+nal binder, and patients in the control group did 
+not. The allocation of the patients to the two 
+groups was performed by V.S.E. who was blind­
+ed to data collection.
+Patients and Methods
+The study comprised 104 women who under­
+went elective CS in our clinic between Septem­
+ber 22, 2017 and January 23, 2018. Exclusion 
+criteria included women with more than two 
+previous pregnancies, not delivering the current 
+pregnancy at term, with emergency cesarean, 
+who underwent general anesthesia instead of 
+spinal anesthesia, with chronic diseases, and who 
+underwent non-routine or additional surgical 
+procedures, such as hysterectomy, tubal ligation, 
+and classical uterine incision.
+All patients received evidence-based and stan­
+dardized preoperative and postoperative care. 
+The surgeons were blinded to group assign­
+ments and were instructed to perform CS 
+based on the same rules. According to these in­
+structions, Pfannenstiel incision was performed 
+for the skin, transverse incision was performed 
+for the subcutaneous tissue, and sharp incision 
+was performed for opening the peritoneum. 
+After pushing the peritoneum of the blad­
+der downward, Kerr incision was performed 
+to the uterus. After delivery, continuous one-
+layer suturation of the uterus was performed 
+with polyglactin no. 1 (Vicryl) while the uterus 
+was inside of the pelvis of the patient. Parietal 
+peritoneum was sutured with polyglactin no. 
+2-0 (Vicryl Rapide), and transverse incision on 
+the rectus sheath was closed using polyglactin 
+no. 1 (Vicryl). Finally, the skin was closed with 
+polyglactin no. 4-0 (Vicryl Rapide). After com­
+pleting the CS, the abdominal binder was fitted 
+to the lower abdomen by covering the incision. 
+The binder used in the study was manufactured 
+using an elastic, breathable nylon thread fabric, 
+with a height of 24 cm. All patients were mobi­
+lized for the first time at 8th h after CS. Analgesia 
+protocol and dietary intakes were standardized 
+for both groups. Antibiotic prophylaxis, an anti­
+emetic, a prokinetic agent, paracetamol, and ad­
+ditional nonsteroidal analgesia, if necessary, were 
+administered in the postoperative period.
+Outcome Measures
+The outcome measures were the pain level as 
+assessed by the Short-Form McGill Pain Ques­
+tionnaire (SF-MPQ) and Visual Analog Scale 
+(VAS), postoperative physical function as mea­
+sured by the 6-minute walk test (6MWT), and 
+perceived distress as measured by the Symptom 
+Distress Scale (SDS). All measurements (6MWT, 
+SF-MPQ, VAS, and SDS) were repeated at the 
+time of the first mobilization (postoperative 8th 
+h) and postoperative days 1 and 2. Hemoglobin 
+levels were tested before surgery and the first 
+day after surgery.
+6-minute Walk Test
+The 6MWT was used to evaluate the physi­
+cal functions of the patients. The researcher 
+recorded the distance the patient walked in 6 
+min in meters. The test was conducted on an 
+80-meter elliptical hospital corridor [9].
+Short-Form McGill Pain Questionnaire
+Pain was assessed using the SF-MPQ, which 
+consists of 15 adjectives that describe both 
+the sensory and the affective attributes of pain. 
+The adjectives are rated on a 4-point intensity 
+scale (0=none and 3=severe), and a higher to­
+tal score (range: 0–45) corresponds to a higher 
+level of pain [10].
+Visual Analog Scale
+The acuity of pain was evaluated by the VAS. Pa­
+tients were instructed to place a mark on a 10 
+cm line based on the severity of their pain, with 
+0 cm representing no pain and 10 cm being the 
+worst pain they had ever experienced.
+Symptom Distress Scale
+Patient distress was evaluated using the SDS. 
+SDS is associated with the following 14 symp­
+toms: nausea; vomiting; pain; anorexia; trouble 
+sleeping; fatigue; difficulty breathing; coughing; 
+lacrimation; restlessness; and changes in the abil­
+ity to concentrate, body temperature, bowel 
+elimination, and physical appearance. Each item 
+is rated on a 5-point Likert-type scale (0=no oc­
+currence or distress and 4=greatest occurrence 
+or distress).
+Statistical Analysis
+The MedCalc statistical software, version 18.9 
+(MedCalc Software bvba, Ostend, Belgium; 
+http://www.medcalc.org; 2018) was used for 
+power analysis. When the size of the study 
+reached 15 patients in each group, interim analy­
+sis was conducted. Based on the information ob­
+tained from the 6MWT results at postoperative 
+8 h of patients using a binder ( X =95.1, . .
+s s
+=31.3) and not using a binder ( X =78.3, . .
+s s
+=24.2), the required total sample size was found 
+to be 90, with 45 in each group, to reach 80% 
+power with a two-tailed alpha level of 0.05. Ten 
+additional subjects were recruited to account 
+for possible attrition.
+The Statistical Package for the Social Sciences 
+(SPSS), version 23.0 (IBM Corp.; Armonk, NY, 
+USA) was used for statistical analysis. For each 
+variable, the mean, median, standard deviation, 
+maximum, minimum, and sample size values 
+were calculated. Shapiro–Wilk test was used 
+to check whether the variables were distrib­
+uted normally, and Levene’s test was used to 
+assess the homogeneity of variances across the 
+groups. Independent samples t-test was used 
+when normality and variance homogeneity 
+were satisfied, and Mann–Whitney U test was 
+used otherwise.
+Results
+The flowchart of the study is presented in Fig­
+ure 1. Of the 104 patients who initially enrolled 
+in the analysis, 89 were included in the study. 
+Reasons for leaving are listed in the flowchart 
+(Figure 1). By the end of the study, the abdomi­
+nal binder group (BG) had 45 patients, and the 
+no-abdominal binder group (N-BG) had 44. 
+The demographic differences between the two 
+groups were not statistically significant. There 
+was also no detectable difference between the 
+two groups for body mass index values in the 
+pre-pregnancy period and the weight gain dur­
+ing pregnancy (Table 1).
+The 6MWT distances of the two groups are 
+listed in Table 2. For both groups, walking dis­
+tance increases as time passes after the op­
+eration (postoperative day 2 (POD2) walking 
+distance>postoperative day 1 (POD1) walking 
+distance >PO8 hours walking distance).
+For all time periods, the 6MWT distance of the 
+study group was longer than that of the control 
+group. The difference was significant 8 h after 
+CS (99.4±27.3 vs. 81.0±22.2, p=0.001), but it 
+was not significant on POD1 and POD2.
+Results of the SF-MPQ total pain, sensory, and 
+affective subscales and VAS scores are pre­
+sented in Table 3. The VAS scores of the study 
+group were found to be lower than those of the 
+control group at postoperative 8 h (p=0.001) 
+and on POD1 (p=0.03). The SF-MPQ total 
+pain scores of the study group were significantly 
+lower than those of the control group on POD1 
+Eurasian J Med 2019; 51(3): 214-8	
+Karaca et al. Abdominal Binder Usage after Caesarean Section • 215
+
+[page 3]
+(p=0.004). Sensory subscale scores were sig­
+nificantly lower in the study group on POD1 
+(p<0.001) and POD2 (p=0.025). Although the 
+effective subscale scores were lower for the 
+study group, the difference was not statistically 
+significant.
+SDSs (Table 4) were significantly lower in the 
+study group than in the control group for all 
+time frames (postoperative 8 h p=0.024, POD1 
+p<0.001, and POD2 p<0.001).
+Preoperative hemogram levels were similar 
+(p=0.249) for the binder (11.7±1.4 mg/dL) and 
+control groups (11.3±1.4 mg/dL). Postoperative 
+24 h hemogram levels of the patients were also 
+similar (p=0.611), 10.6±1.2 mg/dl for the BG 
+and 10.4±1.5 mg/dL for the control group.
+Discussion
+Early mobilization after CS is critical for the 
+return of physiological features to their pre-
+pregnancy levels. However, a large number of 
+patients refuse to walk for mobilization after CS 
+due to the fear of pain and damage to the surgi­
+cal incision area. To the best of our knowledge, 
+the present study is the first randomized con­
+trolled clinical trial on the effects of abdominal 
+binder usage on mobilization. We hypothesized 
+that abdominal binder usage would protect the 
+movement of the abdominal wall and decrease 
+pain due to physical functions. Our results show 
+that abdominal binder use increases mobiliza­
+tion, decreases pain and distress, and does not 
+affect postpartum bleeding.
+Physical function (defined as the distance cov­
+ered in a 6-minute walk) was investigated in 
+two trials after laparotomy (binders versus no 
+binders). Cheifetz et al. compared walking dis­
+tance with 6MWT on postoperative days 1 and 
+5 after major abdominal surgery and found that 
+abdominal binder using the group’s distance is 
+significantly longer [7]. On the other hand, Ol­
+sen et al. detected no difference between the 
+mobilization of the two groups [8].
+In our study, when the patients were mobilized 
+for the first time at postoperative 8th h, the 
+walking distance of the study group at 6MWT 
+was significantly longer than that of the control 
+group. On the other hand, the distances on 
+POD1 and POD2 after CS were not different 
+for the two groups. Using an abdominal binder 
+after CS increased the walking distance by 20% 
+as compared with the N-BG at 8th h following 
+the cesarean birth. The increase in postopera­
+tive mobilization in turn reduces the threat of 
+thromboembolism. While in patients who had 
+major abdominal surgery the positive effects 
+of abdominal binder usage on walking distance 
+were detected on postoperative day 5 [8], in 
+our study, the positive effects on patients who 
+had CS were seen in the early stages of the 
+postoperative period (at the time of the first 
+mobilization). Moreover, the 6MWT values of 
+the patients in our study group on POD1 and 
+Figure 1. Flow diagram of the groups. 
+6MWT: 6-minute walk test; ABG: abdominal binder group; n-ABG: no binder group
+Table 1. Demographic characteristics of the groups
+ 	
+Binder group (n=45)	
+Control group (n=44)	
+p
+Age	
+27.1±6.0	
+26.3±6.9	
+0.1
+Gravity	
+2.1±1.3	
+2.3±1.7	
+0.95
+Parity	
+0.9±0.8	
+0.8±0.7	
+0.68
+Pre-pregnancy BMI	
+28.9±1.5	
+27.1±1.8	
+0.08
+Pre-partum BMI	
+33.1±1.5	
+32.7±1.8	
+0.199
+Gain weight during pregnancy (kg)	
+12.4±2.6	
+12.2±2.9	
+0.492
+Gestational age (week)	
+38.6±1.7	
+38.4±1.5	
+0.8
+BMI: body mass index.
+Data are presented as mean±SD. Mann–Whitney U test or Student’s t-test was used.
+Table 2. Postoperative 8th h/POD1/POD2 6MWT results
+Group	
+Binder group (n=45)	
+Control group (n=44)	
+p
+PO 8th h 6MWT (m)	
+99.4±27.3	
+81.0±22.2	
+0.001*
+	
+995 (40-160)	
+80 (30-130)	
+POD1 6MWT (m)	
+155.3±23.6	
+146.7±28.6	
+0.122
+	
+150 (100-200)	
+140 (80-200)	
+POD2 6MWT (m)	
+215.3±30.9	
+213.4±28.4	
+0.761
+	
+210 (150-280)	
+210 (160-280)	
+PO: postoperative; POD: postoperative day; 6MWT: 6-minute walk test.
+Data are presented as mean±SD and median (minimum–maximum). Mann–Whitney U test or Student’s t-test was used.
+*Statistically significant comparisons.
+216 • Karaca et al. Abdominal Binder Usage after Caesarean Section	
+Eurasian J Med 2019; 51(3): 214-8
+
+[page 4]
+POD2 showed no difference when compared 
+with the control group. Arguably, the reason for 
+this difference is that the healing period after 
+CS is shorter than that after major abdominal 
+surgeries. Therefore, patients can return to 
+their preoperative performance levels quickly, 
+and there is no difference at 6MWT on POD1 
+and POD2.
+Abdominal binders generalize pain over the ab­
+domen rather than just the incision line by apply­
+ing pressure on the incision line itself. The feeling 
+of discomfort in patients while sitting, standing, 
+and walking becomes lesser as a result. Today, 
+especially for patients who had ventral hernia 
+correction, abdominal binders are being used in 
+an almost routine manner. A systematic review 
+of the effects of postoperative binder usage on 
+pain has also revealed that using abdominal bind­
+ers reduces postoperative pain [11]. Similarly, 
+Ghana et al. and Gustafson et al. showed that 
+abdominal binder usage after CS reduces the 
+feeling of pain and distress [6, 12]. In contrast, 
+another previous study has suggested that using 
+an abdominal binder does not have an impact on 
+VAS scores or SDS scores [4].
+In our study, we compared the distress scores of 
+both groups (binders versus no binders) after 
+giving birth by CS and detected that abdominal 
+binder usage reduces distress at all time periods. 
+The same conclusion cannot be made for the 
+pain scores. The SF-MPQ scores of the study 
+group were lower only on POD1, and no sig­
+nificant difference was observed at postopera­
+tive 8th h. This finding suggests that the increase 
+in mobilization of patients using an abdominal 
+binder at 8th h might be caused by the lowered 
+distress score rather than the pain score.
+No adverse effects of using abdominal binders 
+were observed in our study. However, some 
+researchers hypothesize that the increased ab­
+dominal pressure due to abdominal binder use 
+may lower lung capacity [13]. Another side effect 
+that has been suggested is that using abdominal 
+binders decreases the cardiac output by increas­
+ing the venous volume in the lower extremities 
+[14]. Furthermore, the researchers recommend 
+limiting the use of abdominal binders in non-am­
+bulatory patients since it might increase the risk 
+of thrombosis [5]. Therefore, patients who had 
+respiratory and cardiac diseases were excluded 
+from the study to avoid possible complications. 
+All the participants in the study group were 
+quite willing to use abdominal binders. This situ­
+ation might have contributed to the decrease in 
+distress levels during the hospitalization period.
+Postoperative pain, distress, and mobilization 
+are not the only areas that the abdominal bind­
+ers are also beneficial. They have some addi­
+tional potential advantages, such as quick healing 
+of the scar and prevention of hematoma and 
+seroma in the incision area [15]. In our study, we 
+did not detect complications in the incision area 
+for both groups.
+Our study has few limitations. First, blinding 
+of the group assignment was impossible due 
+to the nature of the intervention, and the pla­
+cebo of using an abdominal binder might have 
+had effect on the results of the study. Second, 
+pain is a subjective phenomenon, and the psy­
+chological and emotional states of the patient 
+may change her perception of this symptom 
+[16]. To minimize the personal differences in 
+pain perception, pain tests could be performed 
+preoperatively and compared with the postop­
+erative test results. Similarly, mobilization habits 
+of the patients could be scaled preoperatively 
+and could be compared with the postoperative 
+score for a more objective comparison. Howev­
+er, both preoperative measurements were not 
+available in the present study. Finally, the BG was 
+encouraged to use their binder in every chance 
+they have. However, they were allowed to have 
+breaks, and it was not possible to note over use 
+or not enough usage. Besides, to our knowl­
+edge, this prospective randomized controlled 
+trial is the first study comparing the mobilization 
+rate of women using a postoperative abdominal 
+binder and women who were not using it.
+In conclusion, abdominal binder usage after CS 
+can be suggested to patients as it increases the 
+walking distance, has a positive effect on pain, 
+and lowers the symptom associated with dis­
+tress.
+Ethics Committee Approval: Ethics committee ap­
+proval was received for this study from the ethics 
+committee of Istanbul Bakirkoy Dr. Sadi Konuk Train­
+ing and Research Hospital (2017-09-22/246).
+Informed Consent: Informed consent was obtained 
+from the patients who participated in this study.
+Table 3. SF-MPQ and VAS scores of the study and control groups
+	
+                     Total score		
+                    Sensory	    	                   Affective	 	                      VAS score
+	
+Binder	
+Control	
+Binder	
+Control	
+Binder	
+Control	
+Binder	
+Control
+PO 8 h	
+7.8±3.2	
+9.98±6.3	
+6.3±2.3	
+7.9±4.7	
+1.48±1.2	
+2.02±1.7	 44.4±8.03ǂ	
+51.4±11ǂ
+	
+7 (1-22)	
+7 (3-28)	
+6 (1-17)	
+6 (2-21)	
+1 (0-5)	
+1 (0-7)	
+43 (30-65)	
+50 (32–75)
+POD1	
+4.75±2.1*	 6.93±4.3*	
+3.8±1.7¥	
+5.8±3.4¥	
+0.95±0.9	
+1.1±1.2	
+24.7±5.7€	
+31.1±6.4€
+	
+4 (0-10)	
+5 (0-21)	
+3 (0-8)	
+5 (0-18)	
+1 (0-4)	
+1 (0-4)	
+25 (15-40)	
+32 (15-45)
+POD2	
+2.1±1.2	
+2.76±2	
+1.5±0.9£	
+2.2±1.6£	
+0.55±0.7	
+0.58±0.7	
+23.3±4.8	
+23.4±4.4
+	
+2 (0-5)	
+2 (0-9)	
+1 (0-4)	
+2 (0-7)	
+0 (0-2)	
+0 (0-2)	
+23 (14-35)	
+23 (13-33)
+SF-MPQ: Short-Form McGill Pain Questionnaire; VAS: Visual Analog Scale; PO: postoperative; POD: postoperative day.
+Data are presented as mean±SD and median (minimum–maximum). Mann–Whitney U test or Student’s t-test was used.
+*p=0.004 (total pain score POD1 study vs. control).
+¥p<0.001 (sensory subscale POD1 study vs. control).
+£p=0.025 (sensory subscale POD2 study vs. control).
+ǂp=0.001 (VAS score postoperative 8th h study vs. control).
+€p=0.03 (VAS score POD1 study vs. control).
+Significant values are identified with markers. 
+Table 4. Symptom Distress Scale of the study and control groups
+	
+                                                   Symptom Distress Scale	
+Groups	
+Binder group	
+Control group	
+p
+PO 8 h	
+11.8±3.8	
+12.9±4.4	
+0.024*
+	
+12 (5-24)	
+12 (5-27)	
+POD1	
+10.7±3.1	
+13.6±3.7	
+<0.001*
+	
+10 (6-21)	
+13 (7-23)	
+POD2	
+8.8±3.1	
+12.6±3.4	
+<0.001*
+	
+9 (4-16)	
+12 (6-22)	
+PO: postoperative; POD: postoperative day.
+Data are presented as mean±SD and median (minimum–maximum). Mann–Whitney U test or Student’s t-test was used.
+*Statistically significant comparisons.
+Eurasian J Med 2019; 51(3): 214-8	
+Karaca et al. Abdominal Binder Usage after Caesarean Section • 217
+
+[page 5]
+Peer-review: Externally peer-reviewed. 
+Author Contributions: Concept – I.K.; Design - I.K., 
+I.A.; Supervision -  M.O., S.Y.K.; Resources - M.O..; 
+Materials - V.S.E.; Data Collection and/or Processing 
+- V.S.E.; Analysis and/or Interpretation - O.I.; Literature 
+Search - M.E.; Writing Manuscript - I.K., O.I.; Critical 
+Review - M.E., S.Y.K.
+Conflict of Interest: The authors have no conflicts of 
+interest to declare.
+Financial Disclosure: The authors declared that this 
+study has received no financial support. 
+References
+1.	
+Molina G, Weiser TG, Lipsitz SR, et al. Relation­
+ship Between Cesarean Delivery Rate and Ma­
+ternal and Neonatal Mortality. Jama 2015; 314: 
+2263-70. [CrossRef]
+2.	
+Karlstrom A, Engstrom-Olofsson R, Norbergh 
+KG, Sjoling M, Hildingsson I. Postoperative pain 
+after cesarean birth affects breastfeeding and in­
+fant care. J Obstet Gynecol Neonatal Nurs 2007; 
+36: 430-40. [CrossRef]
+3.	
+Havey R, Herriman E, O'Brien D. Guarding the 
+gut: early mobility after abdominal surgery. Crit 
+Care Nurs Q 2013; 36: 63-72. [CrossRef]
+4.	
+Gillier CM, Sparks JR, Kriner R, Anasti JN. A ran­
+domized controlled trial of abdominal binders 
+for the management of postoperative pain and 
+distress after cesarean delivery. Int J Gynaecol 
+Obstet 2016; 133: 188-91. [CrossRef]
+5.	
+Larson CM, Ratzer ER, Davis-Merritt D, Clark JR. 
+The effect of abdominal binders on postopera­
+tive pulmonary function. Am Surg 2009; 75: 169-
+71.
+6.	
+Ghana S, Hakimi S, Mirghafourvand M, Abbasal­
+izadeh F, Behnampour N. Randomized controlled 
+trial of abdominal binders for postoperative pain, 
+distress, and blood loss after cesarean delivery. Int 
+J Gynaecol Obstet 2017; 137: 271-6. [CrossRef]
+7.	
+Cheifetz O, Lucy SD, Overend TJ, Crowe J. The 
+effect of abdominal support on functional out­
+comes in patients following major abdominal sur­
+gery: a randomized controlled trial. Physiother 
+Can 2010; 62: 242-53. [CrossRef]
+8.	
+Fagevik Olsén M, Josefson K, Wiklund M. Evalu­
+ation of abdominal binder after major upper 
+gastrointestinal surgery. Adv Physiother 2009; 11: 
+104-10. [CrossRef]
+9.	
+Laboratories ATSCoPSfCPF. ATS statement: 
+guidelines for the six-minute walk test. Am J Respir 
+Crit Care Med 2002; 166: 111-7. [CrossRef]
+10.	 Bicici B, Gunes UY. The validity and reliability of 
+the Turkish version of short-form McGill Pain 
+Questionnaire in patients with leukemia. J Clin 
+Nurs 2012; 21: 3328-34. [CrossRef]
+11.	 Gustafson JL, Dong F, Duong J, Kuhlmann ZC. 
+Elastic Abdominal Binders Reduce Cesarean Pain 
+Postoperatively: A Randomized Controlled Pilot 
+Trial. Kans J Med 2018; 11: 1-19.
+12.	 Haferbier Gustafson JL, Kuhlmann ZC, Frazier 
+LM, Duong J. Do Elastic Abdominal Binders Re­
+duce Postoperative Pain and Blood Loss?: A Ran­
+domized Controlled Trial [146]. Obstet Gynecol 
+2015; 125: 51S.
+13.	 Toft MH, Bulow J, Simonsen L. Haemodynamic 
+and respiratory effects of an abdominal compres­
+sion binder. Clin Physiol Funct Imaging 2008; 28: 
+398-402. [CrossRef]
+14.	 Laurikka JO, Toivio I, Tarkka MR. Effects of a novel 
+pneumatic vest on postoperative pain and lung 
+function after coronary artery bypass grafting. 
+Scand Cardiovasc J 1998; 32: 141-4. [CrossRef]
+15.	 Kaafarani HM, Hur K, Hirter A, et al. Seroma in 
+ventral incisional herniorrhaphy: incidence, pre­
+dictors and outcome. Am J Surg 2009; 198: 639-
+44. [CrossRef]
+16.	 Classification of chronic pain. Descriptions of 
+chronic pain syndromes and definitions of pain 
+terms. International Association for the Study of 
+Pain (IASP). In: Merskey H, Bogduk N, editors. 
+Seattle: Seattle: IASP Press; 1994.
+218 • Karaca et al. Abdominal Binder Usage after Caesarean Section	
+Eurasian J Med 2019; 51(3): 214-8

@@ -1,0 +1,94 @@
+
+
+[page 1]
+Donate
+Statement of the WHO
+Global Advisory Committee
+on Vaccine Safety (GACVS)
+on vaccines and autism
+11 December 2025 
+ 
+Statement
+|
+Reading time: 3 min (730 words)
+|
+On 27 November 2025, the WHO Global Advisory Committee on Vaccine Safety (GACVS)
+assessed two new systematic literature reviews, performed using robust methodology, on
+the potential relationship between vaccines and autism spectrum disorder (ASD)
+Upon comprehensive review of the latest evidence published from January 2010 until
+August 2025, the Committee reaffirmed its previous conclusion based on extensive reviews
+conducted in 2002[1][2], 2004[3], and 2012[4], that there is no evidence of a causal
+relationship between vaccines and ASD.
+A causal relationship between a vaccine and an event is suspected when several high-
+quality studies indicate a statistical association between exposure to the vaccine and the
+outcome of interest. In systematic reviews, databases are searched to ensure
+comprehensive capture of published studies and the quality of all included studies is
+evaluated according to well accepted methodologies. When reviewing the evidence to
+inform causality, the greatest weight is put on the high-quality well-designed studies with
+low risk of bias and little weight is given to those with methodological flaws and high risk of
+bias. 
+2026/7/13 21:45
+Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism
+https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism
+1/3
+
+[page 2]
+The first systematic review examined the relationship between thiomersal-containing
+vaccines and ASD, as well as the association between vaccines in general and ASD. This
+review was an update to a previous systematic review conducted in 2012, and encompassed
+publications in English from January 2010 to August 2025. In total, 31 primary research
+studies were included:16 specifically on vaccines containing thiomersal and ASD and 15 on
+vaccines and ASD more broadly. In addition, five meta-analyses (one on thiomersal and
+ASD, three on vaccines and ASD, and one that examined both) that summarized research
+also published before 2010 were included.
+Twenty of the 31 primary research papers originating from 11 different countries and
+including studies that were the most methodologically rigorous, as well as all five meta-
+analyses, found no evidence supporting an association between vaccines, irrespective of
+thiomersal content, and ASD. The other eleven studies (with nine originating from one
+single research group in the United States) suggested a potential association; however,
+these had multiple and significant methodological issues, and all had very low strength of
+evidence and a high risk of bias. Taken together, the large body of available high-quality
+scientific evidence, spanning decades and including data from multiple countries, continues
+to strongly support the positive safety profile and absence of a causal link with ASD of
+vaccines used in childhood and pregnancy. The full draft report of the review is available.
+The second systematic review focused on human studies assessing potential health risks
+associated with aluminium-adjuvanted vaccines, covering publications from six literature
+databases and other literature sources (up to March 2023). High-quality evidence from ten
+randomized controlled trials and seven large cohort studies found no association between
+aluminium-adjuvanted vaccines and chronic or systemic diseases. Two studies reported an
+association between cumulative aluminium exposure from vaccination and ASD prevalence;
+however, both of these studies were ecological and by design unable to inform causality.
+These studies also had other methodological limitations and were judged at critical risk of
+bias, and, hence, their level of evidence was rated as very low.
+GACVS also reviewed a recent study on the safety of aluminium-containing vaccines
+published after the period covered by the above systematic review[5]. This large cohort
+study used a robust methodology to examine nationwide registry data on children born in
+Denmark between 1997 and 2018, and found that the incidence of 50 chronic disorders,
+including ASD and other neurodevelopmental disorders, was not associated with early
+childhood exposure to aluminium-adsorbed vaccines. In summary, the available quality
+evidence supports no evidence of an association between the trace amounts of aluminum
+used in some vaccines and ASD and supports the ongoing use of  aluminium-containing
+vaccines.
+2026/7/13 21:45
+Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism
+https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism
+2/3
+
+[page 3]
+After its current review, GACVS reaffirms the conclusions from its previous reviews in 2002[1]
+[2], 2004[3], and 2012[4], that the available high-quality scientific evidence indicates that
+vaccines, including those with thiomersal or aluminium or both, do not cause autism. 
+[1] Report of Global Advisory Committee on Vaccine Safety, World Health Organization.
+2002 (accessed 12 November 2025)
+[2] MMR and autism, World Health Organization. 2003 (accessed 12 November 2025)
+[3] Weekly epidemiological record, World Health Organization. 2005 (accessed 12
+November 2025)
+[4] Weekly epidemiological record, World Health Organization. 2012 (accessed 12
+November 2025)
+[5] Andersson NW, Bech Svalgaard I, Hoffmann SS, Hviid A. Aluminum-Adsorbed Vaccines
+and Chronic Diseases in Childhood: A Nationwide Cohort Study. Ann Intern Med. 2025;
+178:1369-1377. doi: 10.7326/ANNALS-25-00997.
+2026/7/13 21:45
+Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism
+https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism
+3/3

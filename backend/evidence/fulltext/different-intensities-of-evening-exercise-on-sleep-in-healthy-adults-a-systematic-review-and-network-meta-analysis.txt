@@ -1,0 +1,1450 @@
+
+
+[page 1]
+R E V I E W
+Different Intensities of Evening Exercise on Sleep in 
+Healthy Adults: A Systematic Review and Network 
+Meta-Analysis
+Tian Yue
+*, Xuefang Liu*, Qi Gao, Yan Wang
+School of Sports Medicine and Rehabilitation, Beijing Sport University, Beijing, People’s Republic of China
+*These authors contributed equally to this work 
+Correspondence: Yan Wang, School of Sports Medicine and Rehabilitation, Beijing Sport University, No. 48 Xinxi Road, Haidian District, Beijing, People’s 
+Republic of China, Tel +86 15201061266, Email wyweiwei@126.com 
+Abstract: The effects of different intensities of evening exercise on subsequent sleep remain contradictory. Thus, this systematic review 
+and network meta-analysis aimed to compare and rank the effects of different intensities of acute evening exercise on sleep in healthy adults 
+with good sleep. Articles were systematically searched journals indexed in the PubMed, Web of Science, Cochrane Library, Embase, and 
+Scopus databases from inception to the 5th of May, 2022. The basic search terms included exercise, sleep and timing, which were combined 
+with AND. Of the 12,203 retrieved, twenty-eight studies with 325 participants met the inclusion criteria. Results revealed that there were no 
+significant differences in terms of impacts on sleep caused by different intensities of acute evening exercise, except that when compared to 
+no exercise, acute evening high-intensity exercise decreased rapid eye movement sleep (mean difference [MD] = −1.95%, 95% credible 
+interval [CI] = −3.58 to −0.35). Compared to no exercise, acute evening moderate-intensity exercise was ranked as the most potential 
+method to improve sleep, displaying a trend to improve wake time after sleep onset (MD = −2.50 min, 95% CI = −8.17 to 1.62), sleep 
+efficiency (MD = +0.41%, 95% CI = −0.71 to 1.66), the proportion of stage N1 (MD = −0.72%, 95% CI = −2.08 to 0.71) and N3 sleep (slow- 
+wave sleep) (MD = +0.84%, 95% CI = −1.17 to 2.78). Acute evening low-intensity exercise displayed the greatest tendency to shorten sleep 
+onset latency (MD = −1.02 min, 95% CI = −4.39 to 2.50) compared to no exercise. Overall, regardless of intensity, acute evening exercise 
+completed before bedtime does not disrupt subsequent sleep in healthy young and middle-aged adults. 
+Keywords: evening exercise, sleep quality, exercise intensity, systematic review, network meta-analysis
+Introduction
+Sleep and exercise play the vital role in maintaining human health. The prevalence of insomnia ranges from 10% to 30% 
+in the general population,1 increasing the risk of variable diseases and affecting life expectancy.2–5 Exercise has been 
+proven to be a low-cost and effective way to improve sleep.6,7 A previous systematic review and meta-analysis showed 
+regular exercise and daytime acute exercise had beneficial effects on sleep quality.8 Time-use epidemiology showed that 
+exercising and sleeping time competed with each other in daily life.9 Lack of time has become an obstacle hindering 
+people’s exercise.10 Exercise in the evening progressively becomes a good option for people burdened with day-to-day 
+work. The appearance of 24-hour gym also provides the environment for evening exercise.11 Nonetheless, the American 
+Academy of Sleep Medicine (AASM) does not recommend exercising in the evening as it would cause arousal and 
+disrupt subsequent sleep.12 A cross-sectional study found that most people reported that evening exercise did not disrupt 
+their sleep.13 Some studies also showed that exercise in the evening did not disrupt sleep but rather had small to moderate 
+beneficial effects on sleep.
+Dworak et al found that compared to no exercise, only acute evening high-intensity exercise (HIE) made the positive 
+modification to sleep efficiency (SE), sleep onset latency (SOL) and slow-wave sleep (SWS) while evening moderate- 
+intensity exercise (MIE) had no significant effects on sleep in children.14 Not inconsistent with Dworak et al, Oda and 
+Nature and Science of Sleep 2022:14 2157–2177                                                           
+2157
+© 2022 Yue et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php 
+and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work 
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+Nature and Science of Sleep                                                                 
+Dovepress
+open access to scientific and medical research
+Open Access Full Text Article
+Received: 6 September 2022
+Accepted: 24 November 2022
+Published: 14 December 2022
+
+[page 2]
+Shirakawa suggested acute evening HIE delayed sleep onset (+ 14 min), shortened total sleep time (TST) and decreased 
+SE in active young adults, whereas evening MIE did not disrupt sleep.15 The level of delayed sleep onset found by Oda 
+and Shirakawa was greater than that previously reported in the study of Browman and Tepas (+6.5min).16 Ramos-Campo 
+et al recruited recreational ultra-endurance male runners to conduct acute morning MIE, morning HIE, evening MIE and 
+evening HIE in a random sequence. A significantly higher average time of each awakening was observed in acute 
+evening HIE than in the other three interventions.17 The result of Ramos-Campo et al study suggested that exercise 
+intensity was as important as training time in the evening or the morning.17
+Actually, the effects of different evening exercise intensities on sleep are still a hot spot, leading to debates. 
+Vlahoyiannis et al found that acute evening sprint interval training increased TST compared to MIE and no exercise. 
+Moreover, compared to no exercise, sprint interval training also improved SE and shortened wake time after sleep onset 
+(WASO).18 A recent study by Thomas et al of endurance-trained runners showed that compared to no exercise, both acute 
+evening HIE and low-intensity exercise (LIE) increased TST and shortened WASO despite the increase in cardiac 
+autonomic activity.19 Myllymäki et al also found that acute evening LIE, MIE and HIE did not disrupt sleep quality in 
+young adults.20 Conversely, Browman and Tepas found that even evening LIE ended 2 h before bedtime delayed sleep 
+onset compared to no exercise in undergraduates.16 It remains unclear whether acute evening exercise with different 
+intensities disrupts sleep.
+The controversies of previous studies might be attributed to the different times of evening exercise, the hours from the 
+cessation of exercise to bedtime, the exercise modality, the physical activity level of participants, and the duration of 
+evening exercise.21,22 Furthermore, there might be an intensity threshold for the effects of evening exercise on sleep. 
+Previous pairwise meta-analyses only focused on comparing high-intensity or moderate-intensity exercise with no- 
+exercise controls, lacking comprehensive comparisons of different intensities of acute evening exercise.21,22 It was 
+necessary to conduct a comprehensive analysis of currently available data regarding acute evening exercise on sleep.
+The current systematic review and network meta-analysis (NMA), which would combine direct and indirect evidence 
+to potentially improve the precision of the effect estimates,23,24 aimed to compare and rank different intensities of acute 
+evening exercise on sleep in healthy adults. Owing to the larger magnitude of physiologic excitement that might be 
+induced by HIE, we hypothesized that performing HIE before bedtime would disrupt sleep compared to no exercise, 
+whereas performing MIE and LIE would not.
+Materials and Methods
+Search Strategy
+The search was performed in the PubMed, Web of Science, Cochrane Library, Embase and Scopus databases from inception 
+to the 5th of May, 2022. The basic search strategy consisted of the keywords and MeSH terms related to the intervention 
+(exercise), the outcomes (sleep) and the timing (evening), which was combined with “AND”. The detailed search strategy for 
+Pubmed was: (exercise [mesh] OR sports [mesh] OR physical exertion [mesh] OR “interval training” [tiab] OR aerob* [tiab] 
+OR endurance [tiab] OR strength* [tiab] OR sprint* [tiab] OR anaerob* [tiab] OR exercise [tiab] OR “physical activity” 
+[tiab] OR “high intensity training” [tiab] OR run* [tiab] OR cycling [tiab] OR walk* [tiab] OR swim* [tiab] OR row* [tiab] 
+OR “physical exertion” [tiab] or sport [tiab]) AND (sleep [mesh] OR sleep [tiab] OR “sleep architecture” [tiab] OR “sleep 
+quality” [tiab] OR “sleep efficiency” [tiab] OR polysomnography [tiab] OR actigraphy [tiab]) AND (timing [tiab] OR 
+evening [tiab] OR late-night [tiab] OR bedtime [tiab] OR afternoon [tiab] OR late [tiab] OR “time of day” [tiab] OR time-of- 
+day [tiab] OR “pre sleep” [tiab] OR “before sleep”[tiab] OR pre-sleep [tiab] OR “going to sleep” [tiab] OR “going to bed” 
+[tiab] OR “before bed”[tiab] OR nighttime [tiab] OR night-time [tiab] OR night [tiab]). In addition, we also searched the 
+literature from references cited in the included articles and previous systematic reviews.
+Eligibility Criteria
+The population, intervention, comparison, outcome and study design (PICOS) framework was used to measure the 
+eligibility criteria. Inclusion criteria for this systematic review and network meta-analysis included: 1) Population: 
+healthy adults (18–65 years) with normal sleep. 2) Intervention: acute exercises in the evening (less than 4h before 
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2158
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 3]
+bedtime or if stated to be conducted in the evening) (high intensity: ≥77% maximal heart rate (HRmax), ≥60% heart rate 
+reserve (HRR) or VO2 reserve (VO2R), ≥64% maximal oxygen consumption (VO2max) or rating of perceived exertion 
+(RPE) ≥14; moderate intensity: 64–76% HRmax, 40–59% HRR or VO2R, 46–63% VO2max or RPE 12–13; low 
+intensity: ≤63% HRmax, ≤39% HRR or VO2R, ≤45% VO2max or RPE ≤11).22,25 3) Comparison: no exercise, LIE, 
+MIE or HIE compared with each other 4) Outcomes: sleep quality and sleep quantity were objectively measured by 
+polysomnography (PSG) and actigraphic sleep parameters and subjectively measured by questionnaires. 5) Study design: 
+randomized controlled trials, randomized crossover trials and within-subject designs written in English were included.
+Data Extractions and Risk of Bias Assessment
+Two of the authors independently read the full text of included literature and extracted outcomes in an unblinded manner. 
+Any disagreements were resolved by discussion with a third author to achieve consensus. The extracted information 
+included (1) authorship and study design; (2) participant characteristics (sample size, age, gender, physical activity level); 
+(3) intervention characteristics (exercise intervention type, duration, intensity and timing of exercise before bedtimes); 
+(4) bedtimes; (5) sleep measurements; (6) sleep outcomes. The primary outcomes were: TST, SE, SOL, WASO, and sleep 
+architecture including the proportion of stages N1, N2, N3, SWS, and rapid eye movement (REM) sleep. If a study 
+reported the primary outcomes measured by actigraphy and PSG, the PSG data would be extracted for our network meta- 
+analysis. Actigraphy is one-dimensional, while polysomnography includes at least three different types of data (electro­
+encephalogram, electrooculogram, electromyogram) that together determine whether a person is asleep or awake.26 
+Therefore, PSG is the “gold standard” for the sleep study.26 The secondary outcome was subjective sleep quality (SSQ).
+Risk of bias was measured by using the revised Cochrane risk of bias tool for crossover trials (RoB 2.0), which 
+considered the crossover designs. ROB 2.0 consisted of 5 domains: (1) bias arising from the randomization process; (2) 
+bias due to deviations from the intended intervention; (3) bias due to the missing outcome data; (4) bias in the 
+measurement of the outcome; (5) bias in the selection of the reported result. Each domain had signaling questions, 
+requiring the assessors to respond “probably yes”, “yes”, “probably no”, “no” or “no information”. According to an 
+algorithm to the judgment of each domain, the included studies were rated as “low risk of bias”, “some concerns” or 
+“high risk bias”. The assessment was conducted by two authors independently in an unblinded manner.
+Statistical Analysis
+Means and standard deviations (SDs) were extracted from included studies. If the study only reported standard errors 
+(SEs), SDs were calculated by the following formula: SD ¼ SE
+ffiffiffiffi
+N
+p
+.
+Mean differences (MDs) and 95% credible intervals (CIs) were calculated for measuring the effect sizes of each 
+objective sleep outcome, whereas standardized mean differences (SMDs) and 95% CIs were calculated for measuring the 
+effect sizes of subjective sleep quality because of different evaluation methods in included studies. For this NMA, 
+heterogeneity was assessed by I2 static. Values of I2 ≤25%, 25% < I2 ≤50%, 50% < I2 ≤75%, and I2 > 75% indicated no 
+significant heterogeneity, low heterogeneity, medium heterogeneity, and high heterogeneity, respectively.
+Bayesian effects network meta-analysis (NMA) was performed by using the “gemtc” package in R (version 4.2.0). 
+Four Markov chain Monte Carlo chains were used to assess convergence with 20,000 iterations. Posterior summaries 
+were then obtained from 50,000 iterations in each of the four chains. Convergence was assessed by using potential scale 
+reduction factors (PSRF). The value of PSRF approached 1, indicating the convergence of the model was satisfactory.
+Network plots were created to describe different intensities of acute evening exercise on outcomes. Nodes in the 
+geometry represented different intensities of acute evening exercise and no-exercise control and the lines represented 
+direct comparisons for interventions. The size of each node and the thickness of each line were proportional to the 
+number of participants.
+Global inconsistency was assessed by comparing the difference values of differences in conditions (DIC) between the 
+consistency and inconsistency models. A difference value of DIC >5 indicated an inconsistent model.27 Local incon­
+sistency was evaluated by using the node splitting method. In addition, probability ranking for each intervention was 
+conducted by the surface under the cumulative ranking curve (SUCRA) values ranging from 0% to 100%, where 100% 
+indicated the best intervention.
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2159
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 4]
+To test the robustness of the results and examine the effects of potential modifiers on primary outcomes, subgroup analyses 
+were performed according to the following variables: time of evening exercise (early evening: 16:00 to 20:00, late evening: 
+after 20:00), hours from cessation of exercise to bedtime (0.5–1.5 h, 2 or >2–4 h), exercise modality (cycling, running), physical 
+activity level of participants (sedentary, physically fit), exercise duration (25–30 min, >30–60 min). Publication bias was 
+subjectively assessed with comparison-adjusted funnel plots. In all the analyses, a statistical significance was set at p < 0.05.
+This systematic review and network meta-analysis was carried out in conformance with the PRISMA Extension for 
+Network Meta-analyses (PRISMA-NMA) checklist.28 The protocol for this systematic review and NMA has been 
+registered on PROSPERO (CRD42022327787).
+Results
+Study Selection
+A PRISMA diagram of literature search and selection is presented in Figure 1. A total of 12,203 studies were initially 
+identified from PubMed, Web of Science, Cochrane Library, Embase, and Scopus databases. After removing duplicates (n = 
+4131) and reading titles and abstracts (n = 8072), the remaining studies (n = 48) progressed to full-text review and 24 studies 
+met the inclusion criteria. Twenty-four studies were excluded for the following reasons: (1) daytime exercise (n = 10), (2) poor 
+sleep participants (n = 2), (3) adolescents (n = 1), (4) observational or cross-sectional designs (n = 5), (5) review (n = 2), (6) no 
+sleep data (n = 3), (7) interrupted sleep (n = 1). In addition, four additional studies were found from the references of eligible 
+studies. Overall, 28 studies were finally included in this systematic review and network meta-analysis.
+Study Characteristics
+The characteristics of the included studies are presented in Table 1. The SUCRA values were shown in Table 2. The 
+network plot of eligible comparisons on objective and subjective sleep quality are shown in Figure 2. Four nodes were 
+Figure 1 PRISMA flow diagram of systematic search and included trials. 
+Notes: PRISMA figure adapted from Liberati A, Altman D, Tetzlaff J, et al. The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate 
+health care interventions: explanation and elaboration. Journal of clinical epidemiology. 2009;62(10). Creative Commons.29
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2160
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 5]
+Table 1 Descriptive Characteristics of the Included Studies
+Study
+Participants
+Design
+Arms
+Outcomes
+Timing of 
+Exercise 
+interventions 
+(Start – end 
+Time)
+Sleep Time
+Arias et al 
+201630
+N = 9 young non- 
+professional sportsmen 
+(performing exercise about 3 
+times per week) M = all 
+males Age = 18–38 years
+Crossover trial
+HIE: 5 sets of 20m-SRT interspersed with 6 min 
+breaks CON: no exercise
+Actigraphy: SE, SOL, Movement and 
+fragmentation index Subjective sleep 
+quality: NSFSD
+17:00 - NR / 
+21:00 - NR ended 
+> 4 h before 
+bedtime
+Usual 
+bedtime/ad 
+libitum
+Aloulou et al 
+202031
+N = 11 well-trained male 
+runners M: all males Age 
+(mean ± SD) = 32.3 ± 5.2 
+years 
+Chronotype: neither-types
+Crossover trial 1 
+week washout 
+period
+HIE: 45 min running at uphill (+10%) at 65% 
+MAS; downhill (−12.5%) at 80% MAS & level 
+treadmill (0%) at 60% MAS to maximal speed. 
+Average HR was 83% HRmax CON: no 
+exercise
+PSG: TIB, TST, WASO, SE, SOL, REM-L, 
+%N1, %N2, %N3, %REM Actigraphy: 
+TST, WASO, SOL, SE Subjective sleep 
+quality: SSI score
+21:00–22:00 
+ended 2 h before 
+bedtime
+00:46–9:00
+Browman & 
+Tepas 197616
+N = 9 male undergraduates, 
+average physical fitness M: all 
+males Mean age = 18.89 
+years
+Crossover trial
+LIE: 45 min cycling alternating 5 min of cycling 
+with a load of 0.5 kg and 3-min breaks CON: no 
+exercise
+PSG: TST, %N1, %N2, %SWS, % REM, 
+REM-L
+Started 2.5 
+h prior to 
+bedtime; ended 2 
+h before bedtime
+Usual 
+bedtime/ad 
+libitum, 7.5 
+h sleep 
+duration
+Bulckaert 
+et al 201132
+N = 9 young adults with 
+good physical health M: 4 
+males Age (mean ± SD) = 
+23 ± 3.4 years
+Crossover trial
+MIE: 60 min cycling at 65–75% HRmax CON: 
+reference night
+PSG: SOL, %N2, %SWS, %REM
+Started 2 h before 
+bedtime ended 1h 
+before bedtime
+22:30–23:00 
+to 7:00
+Driver et al 
+198833
+N = 9 young sedentary 
+women M: 0 male Age 
+(mean ± SD) = 24 ± 3 years
+Crossover trial 
+1 day washout 
+period
+HIE: 60 min cycling at 70% VO2peak CON: no 
+exercise
+PSG: SOL, REM-L, N2, SWS Subjective 
+sleep quality
+16:00–19:00
+NR
+Flausino et al 
+201246
+N = 17 healthy young good 
+sleepers with no regular 
+exercise habits M = all males 
+Age (mean ± SD) = 27.2 ± 
+3.6 years
+Crossover trial ≥ 
+1 week washout 
+period
+HIE: 30 and 60min running at Delta 50 (50% 
+above VT1) MIE: 30 and 60 min running at VT1 
+CON: no exercise
+PSG: TST, WASO, SOL, SE, % N1, %N2, 
+%SWS, % REM, REM-L
+20:00–20:30 
+ended 2 h before 
+bedtime
+22:30–23:00 
+to 06:00– 
+07:00
+Hayashi et al 
+201450
+N = 9 sedentary college 
+students M = all males Age 
+(mean ± SD) = 22.8 ± 2.0 
+years
+Crossover trial ≥ 
+3 days washout 
+period
+HIE: 60 min cycling at 80% HRmax MIE: 60 min 
+cycling at 65% HRmax LIE: 60 min at 50% 
+HRmax CON: no exercise
+PSG: TIB, TST, SE, SOL, REM-L, WASO, 
+%N1, %N2, %N3, %REM
+Ended 2 h before 
+bedtime
+Go to bed 2 
+h after 
+exercise
+(Continued)
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2161
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 6]
+Table 1 (Continued). 
+Study
+Participants
+Design
+Arms
+Outcomes
+Timing of 
+Exercise 
+interventions 
+(Start – end 
+Time)
+Sleep Time
+Kern et al 
+199547
+N = 10 healthy non- 
+professional male triathletes 
+M = all males Age = 20–26 
+years
+Crossover trial ≥1 
+week washout 
+period
+MIE: 120–150 km cycling at moderate intensity 
+LIE: 40 km cycling at low intensity CON: no 
+exercise
+PSG: TST, SOL, %N1, %N2, SWS, %REM, 
+REM-L
+16:00–20:30 (LIE) 
+18:00–20:30 (MIE) 
+ended 2.5 before 
+bedtime
+23:00–7:00
+Larsen et al 
+201934
+N = 11 inactive men M = all 
+males Age (mean ± SD) = 
+49 ± 5 years
+Crossover trial ≥5 
+days washout 
+period
+HIE: 30 min HIIT (60s cycling at 100% VO2peak, 
+interspersed with 240s active recovery at 50%  
+VO2peak) CON: baseline or no exercise
+PSG: TIB, TST, SE, SOL, REM-L, WASO, 
+%N1, %N2, %N3, %REM Actigraphy: 
+TIB, TST, SE, SOL, WASO, number of 
+awakenings
+19:00–20:00 3 
+h before bedtime
+Ad libitum 
+bedtimes and 
+wake time
+Miura et al 
+201635
+N = 10 young sedentary 
+adults M = all males Age = 
+18–25 years
+Crossover trial 1 
+week washout 
+period
+MIE: 60-min upright cycling at 60 rpm at an 
+intensity of 50% HRR CON: no exercise
+Actigraphy: TST, WASO, SE, SOL, REM, 
+stage 1and2 sleep, stage 3 and 4 sleep
+17:00–18:00 
+ended > 4 
+h before bedtime
+23:00–00:00
+Myllymäki 
+et al 201136
+N = 11 physically fit young 
+adults M = 7 males Age 
+(mean ± SD) = 26 ± 3 years
+Crossover trial 1 
+week washout 
+period
+HIE: 30 min incremental cycling until 
+exhaustion at 100 W for men and 25 W for 
+women CON: no exercise
+PSG: TST, SOL, %N1, %N2, %N3, %REM 
+Actigraphy: TST, SE, FI, total activity 
+Subjective sleep quality: questionnaire
+21:00 - ended 2 
+h before bedtime
+NR
+Myllymäki 
+et al 201220
+N = 14 physically healthy 
+young adults M = all males 
+Age (mean ± SD) = 35.9 ± 
+4.3 years
+Crossover trail ≥ 
+48h washout 
+period
+HIE: 30 min running at 75% VO2max MIE: 30 
+min running at 60% VO2max LIE: 30 min running 
+at 45% VO2max CON: no exercise
+Actigraphy: TST, SE, FI, activity counts 
+Subjective sleep quality: VAS
+18:00–19:00, 
+ended 4 h before 
+bedtime
+23:28–07:04
+Miller et al 
+202011
+N = 12 healthy young males 
+with regular exercise at least 
+3 times per week M = all 
+males Age (mean ± SD) = 
+21.9 ± 2.7 years
+Crossover trail 
+1 day washout 
+period
+MIE: 30 min cycling at 75% HRmax CON: no 
+exercise
+PSG: TST, SOL, N1, N2, N3, REM, SE 
+Subjective sleep quality: Karolinska 
+Sleep Scale
+20:45–21:30 
+ended 1.5 
+h before bedtime
+23:00–8:00
+O’Connor 
+et al 199848
+N = 8 physically active 
+college students M = all 
+males Age (mean ± SD) = 
+20.8 ± 2 years
+Crossover trial
+MIE: 60 min cycling at 60% VO2peak LIE: 60 min 
+cycling at 20% VO2peak CON: no exercise
+Sleep Assessment Device: SOL, TST, 
+SE, awakenings
+Late evening 
+ended 1.5 
+h before bedtime
+23:00–8:00
+Oda & 
+Shirakawa 
+201415
+N = 12 active young adults 
+M = all males Age (mean ± 
+SD) = 19.8 ± 0.9 years
+Crossover trial 4– 
+7 days washout 
+period
+HIE: 30 min running at 80% HRR MIE: 30 min 
+running at 60% HRR CON: no exercise
+PSG: TST, WASO, SOL, SE, N1, N2, 
+SWS and REM, REM-L Subjective sleep 
+quality: Sleep Inventory of Oguri- 
+Shirakawa-Azumi
+21:20–22:00 
+ended 1 h before 
+bedtime
+23:00–7:00
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2162
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 7]
+Park et al 
+202137
+N = 9 healthy young men with 
+regular exercise no more than 
+twice a week M = all males 
+Age (mean ± SD) = 23.8 ± 2.7 
+years
+Crossover trial 1 
+week washout 
+period
+MIE: 60 min running at 60% VO2max CON: no 
+exercise
+PSG: TIB, TST, SOL, SE, N1, N2, SWS, 
+REM-LSubjective sleep quality: Sleep 
+Inventory of Oguri-Shirakawa-Azumi
+17:00–18:00 
+ended 6 h before 
+bedtime
+23:30–24:30 
+to 8:00
+Robey et al 
+201338
+N = 11 athletes M = all 
+males Age (mean ± SD) = 
+26 ± 4.4 years
+Crossover trial 
+1 week washout 
+period
+HIE: 30 min cycling at 75% peak power + 
+maximal time trial CON: no exercise
+PSG: TIB, TST, SE, SOL, %WASO, %N1, 
+%N2, %N3, %REM, REM-L, %NERM 
+Actigraphy: TST, SOL, WASO, SE
+19:00–20:00 
+ended 2.5 
+h before bed
+22:30–6:00
+Ramos- 
+Campo et al 
+201917
+N = 14 recreational ultra- 
+endurance male runners 
+M = all males Age (mean ± 
+SD) = 27.6 ± 7.4 years 
+Chronotype: neither-types
+Crossover trial ≥ 
+72h washout 
+period
+HIE: 7 x 3 min running at 100% VO2max, 
+interspersed with 3 min passive rest MIE: 60 
+min running at 60% VO2max
+Actigraphy: TIB, TST, SE, wake of time, 
+number of awakenings, average time of 
+each awakening Subjective sleep 
+quality: Karolinska Sleep Diary
+20:00–21:00 
+ended 2–4 
+h before bedtime
+NR
+Saidi et al 
+202039
+N = 16 healthy college 
+students M: 8 males Age 
+(mean ± SD) = 22.31 ± 1.44 
+years 
+Chronotype: neither-types
+Crossover trial
+MIE: 50 min running at 60% HRmax CON: no 
+exercise
+Actigraphy: TIB, TST, SE, WASO, SOL
+18:30–19: 30 
+ended 4h before 
+bedtime 20:30– 
+21:30 ended 2h 
+before bedtime
+22:00–8:00
+Thomas et al 
+202019
+N = 8 endurance trained 
+runners M = all males Age 
+(mean ± SD) = 27.8 ± 6.9 
+years 
+Chronotype: neither-types
+Crossover trial ≥ 
+4 days washout 
+period
+HIE: 6×5 min running at 90% VO2peak, 
+interspersed with 5 min at 60% VO2peak LIE: 60 
+min running at 45% VO2peak CON: no exercise
+PSG: TIB, TST, SOL, REM latency, WASO, 
+%N1, %N2, SWS, %REMActigraphy: TST, 
+SOL, activity counts, FISubjective sleep 
+quality: Likert scale from the Consensus 
+sleep diary
+17:50 - ended 
+3.5h before 
+bedtime
+22:30–7:00
+Ucar et al 
+201740
+N = 20 healthy male college 
+students M = all males Age 
+= 20–24 years
+Crossover trial
+HIE: 90 min hard football match CON: no 
+exercise
+Subjective sleep quality: Karolinska 
+Sleep Diary, PSQI
+21:30–23:00 
+ended 2.5 
+h before bedtime
+1:39–8:08
+Vitale et al 
+201742
+N = 23 college soccer 
+players M = all males Age 
+(mean ± SD) = 21.7 ± 2.72 
+years 
+Chronotype: both 
+morning-type and evening- 
+type
+Crossover trial 1 
+week washout 
+period
+HIE: 4×4 min running at 90–95% HRmax, 
+interspersed with 3 min recovery at 70% 
+HRmax CON: pre exercise
+Actigraphy: SE, SOL, activity counts, 
+MFI, moving time, immobility time
+20:00 - NR
+NR
+Vincent et al 
+202041
+N = 12 healthy males with 
+regular exercise at least 3 
+times per week M = all 
+males Age (mean ± SD) = 
+27.3 ± 3.4 years
+Crossover trial 4 
+days washout 
+period
+MIE: 30 min cycling at 75% HRmax CON: no 
+exercise
+PSG: TST Subjective sleep quality: 
+Karolinska Sleep Diary
+20:45–21:30 
+ended 1.5h before 
+bedtime
+23:00–8:00
+(Continued)
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2163
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 8]
+Table 1 (Continued). 
+Study
+Participants
+Design
+Arms
+Outcomes
+Timing of 
+Exercise 
+interventions 
+(Start – end 
+Time)
+Sleep Time
+Vlahoyiannis 
+et al 202118
+N = 10 recreationally 
+trained young males M = all 
+males Age (mean ± SD) = 
+23.9 ± 3.3 years 
+Chronotype: neither-types
+Crossover trial 1 
+week washout 
+period
+HIE: 10×1 min cycling at 90% Wmax 
+interspersed with 1 min recovery at 20% 
+Wmax / 6×20 s cycling at 140% Wmax, 
+interspersed with 140s active recovery at 20% 
+Wmax MIE: 45 min cycling at 70% Wmax 
+CON: no exercise
+PSG: TIB, TST, SE, SOL, WASO, METs
+19:00–20:00 
+ended 3 h before 
+bedtime
+Ad libitum 
+sleep 
+duration
+Wong et al 
+201349
+N = 12 healthy sedentary 
+young adults M = 3 males 
+Age (mean ± SD) = 25.2 ± 
+4.0 years
+Crossover trial ≥ 
+2 days washout 
+period
+HIE: 40 min running at 65% VO2max / 75% 
+VO2max MIE: 40 min running at 55% VO2max 
+LIE: 40 min running at 45% VO2max CON: no 
+exercise
+PSG: TST, SOL, WASO, REM-L, SE, % 
+SWS, %REM
+Started 6 h prior 
+to bedtime; 
+ended 4–5 
+h before bedtime
+Bedtime 
+22:30–01:30 
+(majority 
+23:30), ad 
+libitum wake 
+time
+Yoshida et al 
+199843
+N = 5 healthy university 
+male students with no 
+exercise habits M = all males 
+Age (mean ± SD) = 21.0 ± 
+0.7 years
+Crossover trial 1– 
+3 weeks washout 
+period
+MIE: 50 min aerobic exercise at AT CON: no 
+exercise
+PSG: SWS Subjective sleep quality: 
+Sleep Inventory of Oguri-Shirakawa- 
+Azumi
+16:30–17:30 
+ended > 4 
+h before bedtime 
+20:30–21:30 
+ended 2 h before 
+bedtime
+23:30–7:30
+Youngstedt 
+et al 199944
+N = 16 highly fit cyclists 
+M = all males Age (mean ± 
+SD) = 27.3 ± 4.3 years
+Crossover trial 2– 
+4 weeks washout 
+period
+HIE: 3 h cycling at 65–75% of HRR under bright 
+light (3000 lux) in a laboratory CON: no 
+exercise or bright light alone
+Actigraphy: TST, SOL, WASO 
+Subjective sleep quality: SOL, WASO, 
+subjective rating of insomnia
+Ended 30 min 
+before bedtime
+30 min after 
+exercise and 
+were 
+awakened at 
+their usual 
+time
+Yamanaka 
+et al 201545
+N = 8 healthy young males, 
+paid volunteers, with a habit 
+of light exercise once or 
+twice a week M: all males
+Crossover trial
+MIE: 90 min cycling at 65–75% HRmax (2 x 45 
+min interspersed with a 10-min recovery) 
+CON: no exercise
+PSG: TST, SOL, SE, WASO
+18:00–20:00 
+ended 4h before 
+bedtime
+24:00–8:00
+Abbreviations: M, male; LIE, low-intensity exercise; MIE, moderate-intensity exercise; HIE, high-intensity exercise; TIB, time in bed; TST, total sleep time; SOL, sleep onset latency; WASO, wake time after sleep onset; SE, sleep 
+efficiency; REM, rapid eye movement; REM-L, rapid eye movement latency; SWS, slow-wave sleep; NERM, non-rapid eye movement; N1, stage N1 sleep; N2, stage N2 sleep; N3, stage N3 sleep; SQ, sleep quality; SSQ, subjective sleep 
+quality; PSG, polysomnography; SRT, Shuttle-Run-Test; NSFSD, National Sleep Foundation-Sleep Diary; SSI, Spiegel Sleep Inventory; KSS, Karolinska Sleep Scale; HR, heart rate; MAS, maximal aerobic speed; VT1, ventilatory threshold 1; 
+PSQI, Pittsburgh Sleep Quality Index; VO2peak, peak oxygen uptake; FI, fragmentation index; NR, not reported; METs, metabolic equivalent of tasks; Wmax, maximal power output; MAS, Maximal Aerobic Speed.
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2164
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 9]
+included in the NMA. Each node denoted different interventions: no-exercise control, evening low-intensity exercise 
+(LIE), evening moderate-intensity exercise (MIE), and evening high-intensity exercise (HIE). Among the 28 crossover 
+trials from 1976 to 2021 included in the analyses, 19 studies had two arms,11,16,17,30–45 6 had three arms15,18,19,46–48 and 3 
+had four arms.20,49,50 There were 325 participants (mean age: 25 years old, range: 18–49 years), of which 290 
+participants were male, and 35 participants were female. Twenty-three studies were men only,11,15–20,30,31,34,35,37,38,40– 
+48,50 one was women only33 and the remaining four included both men and women.32,36,39,49 In addition, most of the 
+participants were physically active or trained populations, and the others were sedentary participants.
+In terms of sleep outcomes, 22 of 28 studies reported on the results of the TST11,15–20,31,34–39,41,44–50 and 
+SOL.11,15,18,19,30–39,42,44–50 18 of 28 studies reported on the results of the SE.11,15,17,18,20,30,31,34,35,37–39,42,45,46,48–50 
+Two studies did not report SE and calculations were conducted by TST and TIB.19,36 Half of the studies (n = 14) 
+reported on the results of the WASO11,15,18,19,31,34,35,38,39,44–46,49,50 and SSQ (n = 14).11,15,17,19,20,30,31,33,36,37,40,41,43,44 
+Less than half of the studies reported the latency of rapid eye movement (REM-L) (n = 12),15,16,19,31,33,34,37,38,46,47,49,50 
+the proportion of REM sleep (n = 11),16,19,31,32,34,36,38,46,47,49,50 the proportion of stage N3 sleep (SWS) (n = 
+11),16,19,31,32,34,36,38,46,47,49,50 the proportion of stage N1 sleep (n = 9),16,19,31,34,36,38,46,47,50 and the proportion of N2 
+sleep (n = 10).16,19,31,32,34,36,38,46,47,50
+The evening exercises ranged from 25 min to 3 h and comprised cycling or running. Eleven of the included studies used 
+early evening protocol (16:00–20:00),18–20,33–35,37,38,45,47,49 and thirteen of the studies used late-evening protocol (after 
+20:00).11,15–17,31,32,36,40–42,44,46,48 Three of the remaining studies used both early evening and late-evening protocols,30,39,43 
+while one study did not mention the time to exercise in the evening.50 Evening exercise ended 0.5 to 4 h before bedtime.
+Quality Assessment
+Details of RoB 2.0 in each included study were shown in Supplementary Table S1. The majority of included studies 
+showed low risk bias, while eight studies had “some concerns” regarding the randomization process, wash-out period or 
+missing outcome data.11,16,20,33,35,40,48,49 Both “low risk bias” studies and “some concerns” studies were included in this 
+network meta-analysis.
+Network Meta-Analysis
+TST
+No significant difference was observed in regard to TST among these groups. In comparison with no exercise, the ranking 
+probability based on the SUCRA values indicated that acute evening MIE had the lowest impact on TST (MD = −1.62 
+min, 95% CI = −9.17 to 6.00, SUCRA = 47.3%), followed by HIE (MD = −2.11 min, 95% CI = −10.01 to 6.24, SUCRA = 
+44.2%) and LIE (MD = −3.04 min, 95% CI = −10.19 to 7.34, SUCRA = 37.0%). Compared with LIE, acute evening MIE and 
+HIE were comparable to each other in terms of the effects of increased TST, and no significant difference was found. 
+Compared to MIE, though acute evening HIE reduced TST, no significant difference was observed (Figure 3).
+SOL
+No significant difference was observed in regard to SOL among these groups. In comparison with no exercise, according to 
+the SUCRA values, acute evening LIE was ranked to be better for the shortening of SOL (MD = −1.02 min, 95% CI = −4.39 
+Table 2 SUCRA Values of Different Intensities of Acute Evening Exercise for Sleep Outcomes
+TST
+SOL
+WASO
+SE
+REM-L
+N1
+N2
+N3
+REM
+SSQ
+No exercise
+71.5%
+27.5%
+26.4%
+40.2%
+12.8%
+20.1%
+9.3%
+55.0%
+17.9%
+71.8%
+LIE
+37.0%
+61.7%
+59.4%
+60.2%
+69.3%
+47.4%
+55.2%
+25.0%
+23.1%
+43.9%
+MIE
+47.3%
+60.3%
+74.8%
+72.1%
+46.9%
+67.2%
+66.6%
+86.2%
+73.6%
+73.1%
+HIE
+44.2%
+50.4%
+39.4%
+27.4%
+71.0%
+65.3%
+68.9%
+33.9%
+85.4%
+11.2%
+Abbreviations: LIE, low-intensity exercise; MIE, moderate-intensity exercise; HIE, high-intensity exercise; TST, total sleep time; SOL, sleep onset latency; WASO, wake time 
+after sleep onset; SE, sleep efficiency; REM, rapid eye movement; REM-L, rapid eye movement latency; N1, stage N1 sleep; N2, stage N2 sleep; N3, stage N3 sleep; SSQ, 
+subjective sleep quality.
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2165
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 10]
+Figure 2 Network plots for comparisons of outcomes. 
+Abbreviations: LIE, low-intensity exercise; MIE, moderate-intensity exercise; HIE, high-intensity exercise; TST, total sleep time; SOL, sleep onset latency; WASO, wake time 
+after sleep onset; SE, sleep efficiency; REM, rapid eye movement; REM-L, rapid eye movement latency; N1, stage N1 sleep; N2, stage N2 sleep; N3, stage N3 sleep; SSQ, 
+subjective sleep quality.
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2166
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 11]
+to 2.50, SUCRA = 61.7%), followed by MIE (MD = −0.76 min, 95% CI = −2.87 to 1.28, SUCRA = 60.3%) and HIE (MD = 
+−0.54 min, 95% CI = −2.31 to 1.31, SUCRA = 50.4%). Compared with LIE, acute evening MIE and HIE were comparable 
+to each other in terms of the effects of increased SOL, and no significant difference was found. Compared to MIE, no 
+significant difference was observed while acute evening HIE increased SOL (Figure 3).
+Figure 3 Forest plots of network meta-analysis of all comparisons for TST, SOL, WASO, REM-L, and SE. 
+Abbreviations: TST, total sleep time; SOL, sleep onset latency; WASO, wake time after sleep onset; REM-L, rapid eye movement latency; SE, sleep efficiency.
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2167
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 12]
+WASO
+Regarding WASO, no statistically significant difference was observed among these groups. In comparison with no 
+exercise, the SUCRA revealed that acute evening MIE was ranked the best method to shorten WASO (MD = −2.50 
+min, 95% CI = −8.17 to 1.62, SUCRA = 74.8%), followed by LIE (MD = −1.87 min, 95% CI = −9.51 to 4.78, SUCRA = 
+59.4%) and HIE (MD = −0.64 min, 95% CI = −5.85 to 2.91, SUCRA = 39.4%). Compared with LIE, acute evening MIE 
+shortened WASO and HIE increased WASO, respectively, and no significant difference was found. Compared to MIE, no 
+significant difference was observed while acute evening HIE increased WASO (Figure 3).
+SE
+Acute evening LIE, MIE and HIE yielded no significant effects on SE compared with no exercise. The MDs and 95% CIs 
+of SE in the acute evening LIE, MIE, and HIE were +0.29% (95% CI = −1.27 to 1.91), +0.41% (95% CI = −0.71 to 
+1.66), and −0.17% (95% CI = −1.25 to 0.94), respectively. Acute evening MIE had the highest probability of being the 
+best option to improve SE, based on the SUCRA values (72.1%). Compared with LIE, acute evening MIE improved SE, 
+while HIE decreased SE, and no significant difference was found. Compared to MIE, no significant difference was 
+observed while acute evening HIE decreased SE (Figure 3).
+REM-L
+In comparison with no exercise, although there were no significant effects, acute evening HIE was ranked the best 
+intervention to increase REM-L (MD = +8.57 min, 95% CI = −1.80 to 18.58, SUCRA = 71.0%), followed by LIE (MD = 
++8.99 min, 95% CI = −6.10 to 24.14, SUCRA = 69.3%) and MIE (MD = +4.84 min, 95% CI = −7.57 to 17.74, SUCRA = 
+46.9%). Compared with LIE, acute evening MIE and HIE resulted in similar results, and no significant difference was 
+found. Compared to MIE, no significant difference was observed while acute evening HIE increased REM-L (Figure 3).
+The Proportion of Stage N1 Sleep
+In comparison with no exercise, acute evening LIE, MIE, and HIE did not show significant reductions in the proportion 
+of stage N1 sleep, showing MDs of −0.39% (95% CI = −2.49 to 1.59), −0.72% (95% CI = −2.08 to 0.71), and −0.66% 
+(95% CI = −1.69 to 0.44), respectively. The ranking probability based on the SUCRA values indicated that acute evening 
+MIE had the highest probability of being the best option to reduce the proportion of stage N1 sleep (SUCRA = 67.2%). 
+Compared with LIE, both acute evening MIE and HIE resulted in a reduction of the proportion of stage N1 sleep, and no 
+significant difference was found. Compared to MIE, no significant difference was observed while acute evening HIE 
+increased stage N1 sleep (Figure 4).
+The Proportion of Stage N2 Sleep
+In comparison with no exercise, although there were no significant effects, acute evening HIE was regarded as the best 
+method to increase the proportion of stage N2 sleep (MD = +2.09%, 95% CI = −0.12 to 4.34, SUCRA = 68.9%), 
+followed by MIE (MD = +2.13%, 95% CI = −1.19 to 5.30, SUCRA = 66.6%) and LIE (MD = +1.62%, 95% CI = −1.45 
+to 4.68, SUCRA = 55.2%). Compared with LIE, both acute evening MIE and HIE resulted in increasing the proportion of 
+N2 sleep, and no significant difference was found. Compared to MIE, no significant difference was observed while acute 
+evening HIE decreased stage N2 sleep (Figure 4).
+The Proportion of Stage N3 Sleep (SWS)
+There was no significant difference observed in regard to the proportion of N3 sleep among these groups. In comparison 
+with no exercise, the SUCRA revealed that acute evening MIE ranked the highest in terms of improving the proportion of 
+N3 sleep (MD = +0.84%, 95% CI = −1.17 to 2.78, SUCRA = 86.2%), followed by HIE (MD = −0.41%, 95% CI = −2.04 
+to 1.24, SUCRA = 33.9%) and LIE (MD = −0.64%, 95% CI = −2.55 to 1.27, SUCRA = 25.0%). Compared with LIE, 
+both acute evening MIE and HIE resulted in increasing the proportion of N3 sleep, and no significant difference was 
+found. Compared to MIE, no significant difference was observed while acute evening HIE shortened stage N3 sleep 
+(Figure 4).
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2168
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 13]
+The Proportion of REM Sleep
+The NMA suggested that, in comparison with no exercise, acute evening HIE was ranked to be significantly better for the 
+shortening of REM (MD = −1.95%, 95% CI = −3.58 to −0.35, SUCRA = 85.4%), followed by MIE (MD = −1.56%, 95% 
+CI = −3.54 to 0.48, SUCRA = 73.6%) and LIE (MD = −0.10%, 95% CI = −2.14 to 1.75, SUCRA = 23.1%). Compared 
+with LIE, both acute evening MIE and HIE resulted in shortening REM, and no significant difference was found. 
+Compared to MIE, no significant difference was observed while acute evening HIE shortened REM (Figure 4).
+Figure 4 Forest plots of network meta-analysis of all comparisons for N1, N2, N3, and REM sleep. 
+Abbreviations: N1, stage N1 sleep; N2, stage N2 sleep; N3, stage N3 sleep (slow-wave sleep); REM, rapid eye movement.
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2169
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 14]
+SSQ
+In comparison with no exercise, although there were no significant effects, the ranking probability based on the SUCRA 
+values indicated that acute evening MIE had the lowest impact on SSQ (SMD = −0.01, 95% CI = −0.44 to 0.42, SUCRA 
+= 73.1%), followed by LIE (SMD = −0.16, 95% CI = −0.67 to 0.37, SUCRA = 43.9%) and HIE (SMD = −0.34, −0.67 to 
+0.00, SUCRA = 11.2%). Compared with LIE, acute evening MIE improved SSQ, while HIE decreased SSQ, and no 
+significant difference was found. Compared to MIE, no significant difference was observed while acute evening HIE 
+decreased SSQ (Figure 5).
+The test of global inconsistency did not show any significant difference between the consistency and inconsistency 
+models for all outcomes (all difference values of DIC were <5). Similarly, the node splitting method, which tested local 
+inconsistency, showed that all comparisons among direct and indirect estimates were consistent for all outcomes (all 
+p values >0.5, Supplementary Table S12). In addition, no significant global heterogeneity of the NMA was found (I2 = 
+0%). There was no significant local heterogeneity in most of the comparisons in this NMA (I2 = 0% or 5.2%) except that 
+only three comparisons showed low local heterogeneity (I2 = 15.6%, 24.7% and 29.1%) (Supplementary Tables S2–S11). 
+The comparison-adjusted funnel plots for the outcomes suggested publication bias was not evident (Supplementary 
+Figures S1–S10).
+The subgroup NMA explored the effects of time of evening exercise, hours from cessation of exercise to bedtime, 
+exercise modality, physical activity level, and exercise duration of acute evening exercise on objective sleep quality. The 
+results of NMA of all outcomes were not modified in most of the comparisons. Different intensities of exercise 
+performed in early- and late-evening had no negatively impact on objective sleep quality. The timeslot between the 
+end of exercise and bedtime (0.5–1.5 h, 2 h, >2–4 h) had no effects on objective sleep quality. In addition, regardless of 
+sedentary or physically fit participants, different intensities of evening exercise had no effects on objective sleep quality. 
+However, compared with no exercise, MIE with cycling significantly increased REM-L (MD = 38.78 min, 95% CI = 3.99 
+to 73.80) and a longer (>30–60 min) HIE decreased REM sleep (MD = −2.50%, 95% CI = −4.74 to −0.35) 
+(Supplementary Table S13).
+Figure 5 A forest plot of network meta-analysis of all comparisons for SSQ. 
+Abbreviation: SSQ, subjective sleep quality.
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2170
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 15]
+Discussion
+This systematic review and network meta-analysis explored the effects of acute evening exercise with different intensities 
+on sleep in healthy adults. In contrast to our hypothesis, no significant differences were observed in both objective and 
+subjective sleep quality with different evening exercise intensities. The present findings were in line with a study showing 
+that different intensities of acute evening exercises did not disrupt sleep in healthy young and middle-aged adults.20 
+However, in line with our hypothesis and Frimpong et al's pairwise meta-analysis, 30–60 min duration with acute 
+evening HIE resulted in a decrease in the REM sleep, which might worsen sleep quality.21 In addition, acute MIE with 
+cycling in the evening resulted in an improvement on REM-L.
+Sufficient sleep plays an important role in restoring the consumption of the nervous system and metabolization in the 
+waking stage,51 and daytime exercise has been proven to be positive for sleep.8 TST was associated with daytime 
+sleepiness.52 Furthermore, a previous study from the Asia Cohort Consortium suggested that TST was a behavioral risk 
+factor in mortality in both men and women and TST of seven hours was recommended.53 Oda and Shirakawa found 
+a reduction in TST after acute HIE was completed one hour before bedtime compared with no exercise while TST in MIE 
+did not change in twelve young males.15 Not in line with Oda and Shirakawa, a recent study reported, compared with no 
+exercise, acute evening HIE did not disrupt TST in 12 healthy males.41 Thomas et al also found that acute evening HIE 
+and LIE resulted in similar improvements in TST.19 The crossover trial of Miller et al suggested that 30 min cycling at 
+75% HRmax ended 1.5 h before bedtime did not affect TST in 12 young males.11 The results of the present NMA also 
+supported the notion that acute evening exercise did not disrupt TST regardless of exercise intensities in healthy young 
+and middle-aged adults. The results of Frimpong et al's pairwise meta-analysis were consistent with the current study that 
+evening HIE did not significantly disrupt TST (+ 2.34 min).21
+In addition to TST, knowledge about SOL, WASO, and SE was also important, because SOL, WASO, and SE could 
+predict the perceived sleep quality in healthy subjects.54 SOL could be recalled easily in the morning, which might result 
+in increment in the perception of daytime dysfunction as well as perceived poor sleep quality.55 The current study found 
+there was a trend of shortening SOL after acute evening exercise compared to no exercise, and LIE might be the best 
+method for the improvement of SOL (- 1.02 min). Oda and Shirakawa found a delay in SOL (+ 14 min) after HIE in the 
+evening,15 which was contrary to the current study that acute evening HIE did not delay sleep onset (−0.54 min). In line 
+with our findings, Hayashi et al suggested relative to no exercise, acute evening HIE and MIE could significantly shorten 
+SOL in nine sedentary college students.50 In Myllymäki et al study, some indications of shortened SOL were also 
+observed after acute evening HIE.36 In addition, Ramos-Campo et al found average time of each awakening was 
+significantly higher when 14 recreational male runners conducted acute evening HIE compared to MIE.17 Conversely, 
+a previous meta-analysis found that exercise conducted at any time of the day had a significantly positive result for 
+WASO.8 The current NMA revealed a decreased trend of WASO after acute evening exercise and the largest decrease in 
+WASO was observed after acute evening MIE compared to no exercise (−2.50 min). In consistent with our findings, 
+a recent crossover trial also found acute evening MIE did not affect WASO compared with no exercise in 16 healthy 
+college students.39 In regard to SE, although our study found acute evening exercise did not disrupt SE, different trends 
+of SE after different intensities of acute evening exercise were observed. The current NMA resulted in improved trends 
+of SE after acute evening LIE (+ 0.29%) and MIE (+ 0.41%), while the worsening trend of SE was observed after HIE (- 
+0.17%) compared with no exercise. This was supported by a study conducted in eight physically active college students, 
+which revealed that SE was not worsened after acute evening MIE and LIE.48 In regard to acute evening HIE, compared 
+to no exercise, a recent pairwise meta-analysis revealed similar trends of SE (−0.22%) with the findings in our study.21 
+Disturbances of SOL and SE were associated with an increased risk of mortality.56 The non-disruptive findings of SOL, 
+WASO, and SE in the current NMA were of potential clinical significance.
+In regard to sleep architecture, compared to no exercise, the current NMA did not find significant changes in the 
+proportion of stages N1, N2, N3 sleep as well as REM-L after different intensities of acute evening exercise, while the 
+proportion of REM sleep was significantly decreased after acute evening HIE. There was an indication of increased stage 
+N1 sleep during the whole night in Aloulou et al study, and they also observed the proportion of stage N1 sleep was 
+higher during the first 180 min of the night after acute evening HIE compared with no exercise.31 Not inconsistent with 
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2171
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 16]
+the findings of Aloulou et al, Flausino et al found that the stage N1 sleep significantly decreased after acute evening HIE 
+and MIE compared with no exercise.46 The results of the current study showed a declining trend in stage N1 sleep after 
+acute evening exercise compared to no exercise. As stage N1 sleep represented light sleep, acute evening MIE might be 
+the best method to shorten the proportion of stage N1 sleep in our findings (−0.72%). A previous pairwise meta-analysis 
+also supported our results that stage N1 sleep was not significantly changed after evening HIE compared to no exercise.21 
+SWS, a component of non-rapid eye movement (NERM) sleep, was associated with increased growth hormone and 
+decreased cortisol secretion.47,57 Therefore, it has been proved to be the most restorative sleep stage. There were different 
+trends in SWS after different intensities of acute evening exercise observed in the current findings. The positive 
+modification of SWS was observed after acute evening MIE (+ 0.84%) while shortened SWS was observed after 
+acute evening LIE (−0.64%) and HIE (−0.41%) compared to no exercise. In contrast to our findings, the randomized 
+crossover trial of Dworak et al found that acute evening HIE completed 3–4 h before bedtime resulted in a significantly 
+increased proportion of SWS, and this change was not found in acute evening MIE.14 The discrepancy might be 
+attributed to the population. The current study focused on young and middle-aged adults, whereas children (mean: 
+12.6 years old) were recruited in the study of Dworak et al. However, Hayashi et al study echoed the current results. 
+Although Hayashi et al did not find significant difference, they found a tendency for an increase in the proportion of SWS 
+after acute evening MIE compared to no exercise in nine sedentary college students (mean: 22.8 years old).50 
+Considering that the sample size of included studies was small, the effects of evening MIE on SWS needed to be further 
+researched.
+Our study found REM sleep was significantly shortened after acute evening HIE compared to no exercise (−1.95%), 
+which was consistent with Frimpong et al pairwise meta-analysis (−2.34%).21 Previous studies found the similar effects 
+of evening exercise on REM sleep. The meta-analysis of Stutz et al revealed that, after sensitivity analysis, the decrease 
+of REM sleep became a trend or significant after acute evening exercise compared to no exercise (−0.69%).22 Both 
+Larsen et al and Aloulou et al observed a tendency for decreased REM sleep during the whole night after acute evening 
+HIE compared to no exercise in healthy young adults.31,34 Moreover, there was also a tendency for decreased REM sleep 
+after acute evening LIE (−0.10%) and MIE (−1.56%) in the present study, which conformed to the result of Wong et al 
+study.49 Wong et al showed that there was a trend of a reduced proportion of REM sleep with increased evening exercise 
+intensity.49 The results of our study showed that acute evening HIE decreased REM sleep, whereas LIE and MIE did not. 
+What is more, previous analyses found even if exercise during the day, REM sleep still decreased.7,8,58 However, 
+decreased REM sleep was not necessarily harmful. A previous study found that decreased REM sleep could reflect the 
+consolidation of REM sleep and could also be the result of enhanced SWS.59 The PSG data from Larsen et al showed 
+decreased REM sleep predominantly within the initial 180 min of sleep after acute evening HIE, in keeping with the 
+findings of Netzer et al and Robey et al38,60 Furthermore, Netzer found that an increase in norepinephrine after intense 
+exercise was associated with decreased REM sleep and increased REM-L.60 Indeed, the results of the current NMA 
+revealed a tendency for increased REM-L after acute evening exercise compared to no exercise, and acute evening HIE 
+was regarded as the best intervention to increase REM-L (+ 8.57 min). After HIE, the release of norepinephrine was 14.5 
+higher than MIE,61 which might result in delayed REM sleep.
+In addition, most of the included studies assessed SSQ. There were disagreements about whether evening exercise 
+was beneficial to SSQ among previous studies. Both Aloulou et al and Arias et al reported SSQ was impaired after acute 
+evening HIE while good SSQ was observed without evening exercise.30,31 Delayed onset muscle soreness after HIE 
+might be the reason for poor SSQ the next morning.62,63 In contrast to Aloulou et al and Arias et al, some studies 
+revealed that SSQ was not affected after acute evening LIE, MIE and HIE compared to no exercise.11,20,36 Compared 
+with no exercise, acute evening MIE and HIE did not negatively affect subjective TST and WASO.11,31,37 Oda & 
+Shirakawa found that compared with no exercise, subjective SOL was negatively affected by acute evening HIE but not 
+by acute evening MIE.15 Conversely, some studies also supported the notion that neither acute evening MIE nor HIE 
+would negatively affect subjective SOL compared to no exercise.11,17,44 As we mentioned above, the SOL would be 
+easily recalled in the next morning, which might affect the perceived SSQ of participants. The present NMA did not find 
+distorted SOL after evening exercise, and the results supported the notion that evening exercise regardless of low-, 
+moderate- and high intensity did not disrupt SSQ in young and middle-aged adults.
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2172
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 17]
+Previous pairwise meta-analyses suggested that the time of evening exercise, the hours from cessation of exercise to 
+bedtime, the exercise modality, the physical activity level of participants, and the duration of evening exercise should be 
+considered when analyzing the effects of acute evening exercise on objective sleep quality.21,22 Subgroup analyses in the 
+current study revealed a long duration (>30–60 min) of acute evening HIE significantly decreased the proportion of REM 
+sleep compared to no exercise (−2.50%). Considering increased norepinephrine levels after HIE,60 long duration might 
+be a potential factor to facilitate this process. The results of Youngstedt et al study also showed acute evening HIE with 3 
+hours did not disrupt subsequent sleep in 16 cyclists.44 Given that active participants might recover in a short period of 
+time after exercise, the physical activity level of participants was considered in subgroup analysis. The present NMA 
+subgroup analysis of physical activity level did not show any significant effects of acute evening exercise on objective 
+sleep quality. In addition, cycling with acute evening MIE had significantly positive effects on REM-L compared to no 
+exercise (+ 38.78 min), while there were no effects observed after running. Meanwhile, although a study had proven that 
+running was more likely to induce higher levels of muscle damage and inflammation compared to cycling,64 no sufficient 
+evidence showed that muscle damage and inflammation affect sleep negatively.
+Given that an acute psychophysiological response was induced by an acute exercise, exercise in the early evening 
+might have sufficient recovery for a psychophysiological response that might not disrupt subsequent sleep, whereas 
+exercise in the late evening might negatively affect sleep. However, the subgroup analysis of time of evening exercise in 
+the present study found exercise in the early and late evening did not disrupt sleep regardless of exercise intensity. 
+A previous meta-analysis found early evening HIE shortened SOL (−4.6 min), and late-evening exercise had no negative 
+effects on sleep.21 When considering the hours from cessation of exercise to bedtime, exercise performed close to 
+bedtime might disrupt sleep especially HIE.65 Oda and Shirakawa found that compared with no exercise, evening HIE 
+end 1 h before bedtime delayed sleep onset (+14 min) and decreased TST and SE.15 Conversely, the study of Youngstedt 
+et al suggested that even acute evening HIE ended 0.5 h before bedtime did not disturb sleep.44 Thus, the subgroup 
+analysis was conducted to explore the effects of the hours from cessation of exercise to bedtime. The results of the 
+present study showed that evening exercise regardless of intensity ended 0.5–1.5 h, 2 h and >2–4 h before bedtime did 
+not disrupt sleep. In line with the present results, evening MIE ended 1h or 0.5 h before bedtime had no effects on sleep 
+in previous studies.15,48 The meta-analysis of Frimpong et al also showed that evening HIE ended 2 h before bedtime 
+significantly decreased SOL and increased TST.21 Although some studies found that compared with no exercise, evening 
+HIE and MIE ended 2–4 h before bedtime decreased REM sleep,21,45,47 the decreases in REM sleep were also found in 
+daytime exercise6–8 and, as we discussed above, the decreases in REM sleep did not necessarily indicate a negative effect 
+on sleep. These results of subgroup analyses consolidated the main finding that evening exercise regardless of intensity 
+did not disrupt subsequent sleep.
+The chronotypes of participants might be a potential factor modulating the effects of evening exercise on sleep. Six of 
+included studies reported the chronotypes of participants.17–19,31,39,42 The study of Aloulou et al found that, compared 
+with no exercise, late-evening HIE ended 2 h before bedtime had negative impacts on sleep in neither-type participants.31 
+Not consistent with Aloulou et al, Thomas et al and Vlahoyiannis et al reported that evening HIE ended 3–3.5 h before 
+bedtime improved sleep quality in neither-type participants.18,19 Moreover, the positive changes of sleep quality induced 
+by evening LIE ended 3.5 h before bedtime were comparable to those induced by evening HIE in neither-type 
+participants.19 Saidi et al also showed that early evening MIE ended 4 h before bedtime had positive effects on sleep 
+quality in neither-type participants.39 The study of Vitale et al, which involved both morning-type and evening-type 
+participants, demonstrated that the sleep quality of morning-type participants was negatively affected by late evening HIE 
+while that of evening-type participants was not affected.42 However, morning HIE did not negatively affect the sleep 
+quality of both morning-type and evening-type participants.42 A recent cross-sectional study investigated 909 college 
+students, and showed chronotype moderated the relationship between exercise timing and bedtime.66 For every minute of 
+delay in exercise timing, bedtime was delayed by 6.1 minutes for morning-type participants and only 3.6 minutes for 
+evening-type participants.66 Existing studies mainly focus on neither-type participants, while only one of included studies 
+considered morning-type and evening-type participants. Few studies had taken chronotype into consideration when 
+exploring the effects of evening exercise on sleep quality. Therefore, how chronotype modulates the relationship between 
+different intensities of evening exercise and subsequent sleep needs to be further researched.
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2173
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 18]
+The potential complicated mechanisms between acute evening exercise and sleep were still unclear and were roughly 
+clarified as the thermoregulation hypothesis, body recovery hypothesis, and energy storage hypothesis.67–69 Some 
+previous studies reported the rising body temperature induced by exercise made a positive effect on the proportion of 
+SWS.70,71 The study of Horne and Moore, who used extra clothes (hot) to elevate body temperature, found only exercise 
+in hot conditions increased SWS.70 Actually, during the period of high core body temperature (CBT), the human body 
+was awake and active while during the period of low CBT, the body was inactive and asleep.72 Based on this view and in 
+consideration of previously mentioned studies which showed rising body temperature associated with the improvement 
+of SWS were not conducted in the evening,70,71 it seemed that high CBT close to bedtime was detrimental to subsequent 
+sleep. However, some studies were in contrast with this notion. Youngstedt et al recruited 16 healthy cyclists, and the 
+results showed that rising CBT caused by acute evening HIE with 3 hours completed 30 min before bedtime did not 
+disrupt sleep.44 The study of Aloulou et al showed that, although CBT significantly increased at the end of acute evening 
+HIE (+1.40 ± 0.43°C) and remained high during the first 3 hours of sleep compared with no exercise, the objective sleep 
+quality was not distorted by the elevated temperature.31 Another notion that the decrease of CBT after exercise rather 
+than absolute CBT was the inducement of sleep onset was worth mentioning to illustrate the influence of evening exercise 
+on sleep.73 Nevertheless, Miller et al found that CBT elevated during acute evening MIE and CBT returned to its pre- 
+exercise level when going to bed, but no positive modification of SOL was observed.11 Flausino et al did not find 
+peripheral body temperature would increase with the increment of exercise intensity, nor did they find that the peripheral 
+body temperature played a vital role in the delay of sleep latency and TST reduction.46 CBT also declined rapidly after 
+acute evening exercise, yet it did not make an improvement on SOL in Flausino et al study.46 The present NMA subgroup 
+analysis of hours from the cessation of exercise to bedtime (0.5–2 h, 2h, >2–4 h) did not show any significant difference 
+between acute evening exercise on subsequent objective sleep quality regardless of exercise intensity, which disproved 
+the thermoregulation hypothesis indirectly. However, complete clinical trials are also needed to directly verify whether 
+the thermoregulation hypothesis can explain the effects of acute evening exercise with different intensities on sleep.
+The body recovery and energy storage hypothesis suggested the quantity of TST and SWS would increase with the 
+increased energy consumption.68,69 High catabolic activity during awake was beneficial to anabolic activity during sleep.46 As 
+a previous study found, the growth hormone released during the SWS phase was beneficial to physical and mental health.58 
+However, as existing studies did not measure energy consumption during different intensities of evening exercise, future 
+studies could focus on this area. Moreover, hormone secretion after evening exercise might also affect subsequent sleep. As 
+was mentioned in the study of Netzer et al, more norepinephrine released after HIE compared to MIE was associated with 
+induced delayed REM sleep and the shortened proportion of REM sleep.60 Buxton et al and Miyazaki et al found both the 
+onset and peak phase of plasma melatonin were earlier after an acute exercise compared to no exercise.74,75 How hormone 
+secretion after different intensities of acute evening exercise affected subsequent sleep needed to be further researched.
+To the best of our knowledge, this NMA represented the most comprehensive analysis of currently available data 
+regarding different effects of intensities of acute evening exercise on subsequent sleep. The convergence of the current NMA 
+was good (PSRF = 1 or 1.01) and the global heterogeneity was low (I2 = 0%). However, some limitations should be noted in 
+this study. The sample size of included studies was small (ranged 5 to 23) and most of the participants were males, which 
+might cause bias in the results. In addition, this systematic review and network meta-analysis focused on acute evening 
+exercise. Thus, the effects of different intensities of chronic evening exercise on sleep needed to be further researched. Our 
+study did not find positive effects of acute evening exercise on subsequent sleep due to ceiling and floor effects, which meant 
+that it would be more effective for participants who were already presented impaired sleep to exercise before sleep.76 Also, 
+only good sleepers were explored in our study, limiting the application of the findings to a broad population.
+Conclusion
+This systematic review and network meta-analysis found that acute evening exercise regardless of intensity completed 
+before bedtime did not disrupt subsequent sleep in healthy young and middle-aged adults without sleep disorders. The 
+modality and duration of evening exercise should be considered when developing sleep hygiene recommendations.
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2174
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 19]
+Acknowledgments
+The authors thank Ruicong Liu for advice during research writing.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Ohayon MM. Epidemiology of insomnia: what we know and what we still need to learn. Sleep Med Rev. 2002;6(2):97–111. doi:10.1053/ 
+smrv.2002.0186
+2. Lovato N, Lack L. Insomnia and mortality: a meta-analysis. Sleep Med Rev. 2019;43:71–83. doi:10.1016/j.smrv.2018.10.004
+3. Bertisch SM, Pollock BD, Mittleman MA, et al. Insomnia with objective short sleep duration and risk of incident cardiovascular disease and 
+all-cause mortality: sleep Heart Health Study. Sleep. 2018;41(6). doi:10.1093/sleep/zsy047
+4. Ogilvie RP, Patel SR. The epidemiology of sleep and diabetes. Curr Diab Rep. 2018;18(10):82. doi:10.1007/s11892-018-1055-8
+5. Jarrin DC, Alvaro PK, Bouchard MA, Jarrin SD, Drake CL, Morin CM. Insomnia and hypertension: a systematic review. Sleep Med Rev. 
+2018;41:3–38. doi:10.1016/j.smrv.2018.02.003
+6. Kubitz KA, Landers DM, Petruzzello SJ, Han M. The effects of acute and chronic exercise on sleep. A meta-analytic review. Sports Med. 1996;21 
+(4):277–291. doi:10.2165/00007256-199621040-00004
+7. Youngstedt SD, O’Connor PJ, Dishman RK. The effects of acute exercise on sleep: a quantitative synthesis. Sleep. 1997;20(3):203–214. 
+doi:10.1093/sleep/20.3.203
+8. Kredlow MA, Capozzoli MC, Hearon BA, Calkins AW, Otto MW. The effects of physical activity on sleep: a meta-analytic review. J Behav Med. 
+2015;38(3):427–449. doi:10.1007/s10865-015-9617-6
+9. Pedišić Ž, Dumuid D, Olds TS. Integrating sleep, sedentary behaviour, and physical activity research in the emerging field of time-use 
+epidemiology definitions, concepts, statistical methods, theoretical framework, and future directions. Kinesiology. 2017;49(2):252–269.
+10. Cerin E, Leslie E, Sugiyama T, Owen N. Perceived barriers to leisure-time physical activity in adults: an ecological perspective. J Phys Act Health. 
+2010;7(4):451–459. doi:10.1123/jpah.7.4.451
+11. Miller DJ, Sargent C, Roach GD, Scanlan AT, Vincent GE, Lastella M. Moderate-intensity exercise performed in the evening does not impair sleep 
+in healthy males. Eur J Sport Sci. 2020;20(1):80–89. doi:10.1080/17461391.2019.1611934
+12. American Academy of Sleep Medicine. International classification of sleep disorders, revised: diagnostic and coding manual. Chicago: American 
+Academy of Sleep Medicine; 2001. Available from: https://cir.nii.ac.jp/crid/1571135650687048576. Accessed June 13, 2022.
+13. Buman MP, Phillips BA, Youngstedt SD, Kline CE, Hirshkowitz M. Does nighttime exercise really disturb sleep? Results from the 2013 national 
+sleep foundation sleep in America Poll. Sleep Med. 2014;15(7):755–761. doi:10.1016/j.sleep.2014.01.008
+14. Dworak M, Wiater A, Alfer D, Stephan E, Hollmann W, Strüder HK. Increased slow wave sleep and reduced stage 2 sleep in children depending on 
+exercise intensity. Sleep Med. 2008;9(3):266–272. doi:10.1016/j.sleep.2007.04.017
+15. Oda S, Shirakawa K. Sleep onset is disrupted following pre-sleep exercise that causes large physiological excitement at bedtime. Eur J Appl 
+Physiol. 2014;114(9):1789–1799. doi:10.1007/s00421-014-2873-2
+16. Browman CP, Tepas DI. The effects of presleep activity on all-night sleep. Psychophysiology. 1976;13(6):536–540. doi:10.1111/j.1469-8986.1976. 
+tb00876.x
+17. Ramos-Campo DJ, Ávila-Gandía V, Luque AJ, Rubio-Arias J. Effects of hour of training and exercise intensity on nocturnal autonomic modulation 
+and sleep quality of amateur ultra-endurance runners. Physiol Behav. 2019;198:134–139. doi:10.1016/j.physbeh.2018.10.020
+18. Vlahoyiannis A, Aphamis G, Eddin DA, Giannaki CD. The effect of evening cycling at different intensities on sleep in healthy young adults with 
+intermediate chronobiological phenotype: a randomized, cross-over trial. J Sports Sci. 2021;39(2):192–199. doi:10.1080/02640414.2020.1812194
+19. Thomas C, Jones H, Whitworth-Turner C, Louis J. High-intensity exercise in the evening does not disrupt sleep in endurance runners. Eur J Appl 
+Physiol. 2020;120(2):359–368. doi:10.1007/s00421-019-04280-w
+20. Myllymäki T, Rusko H, Syväoja H, Juuti T, Kinnunen ML, Kyröläinen H. Effects of exercise intensity and duration on nocturnal heart rate 
+variability and sleep quality. Eur J Appl Physiol. 2012;112(3):801–809. doi:10.1007/s00421-011-2034-9
+21. Frimpong E, Mograss M, Zvionow T, Dang-Vu TT. The effects of evening high-intensity exercise on sleep in healthy adults: a systematic review 
+and meta-analysis. Sleep Med Rev. 2021;60:101535. doi:10.1016/j.smrv.2021.101535
+22. Stutz J, Eiholzer R, Spengler CM. Effects of evening exercise on sleep in healthy participants: a systematic review and meta-analysis. Sports Med. 
+2019;49(2):269–287. doi:10.1007/s40279-018-1015-0
+23. Mills EJ, Thorlund K, Ioannidis JPA. Demystifying trial networks and network meta-analysis. BMJ. 2013;346:f2914. doi:10.1136/bmj.f2914
+24. Lu G, Ades AE. Combination of direct and indirect evidence in mixed treatment comparisons. Stat Med. 2004;23(20):3105–3124. doi:10.1002/ 
+sim.1875
+25. Garber CE, Blissmer B, Deschenes MR, et al. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, 
+and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. Med Sci Sports Exerc. 2011;43(7):1334–1359. doi:10.1249/ 
+MSS.0b013e318213fefb
+26. Ancoli-Israel S, Cole R, Alessi C, Chambers M, Moorcroft W, Pollak CP. The role of actigraphy in the study of sleep and circadian rhythms. Sleep. 
+2003;26(3):342–392. doi:10.1093/sleep/26.3.342
+27. Liang M, Pan Y, Zhong T, Zeng Y, Cheng ASK. Effects of aerobic, resistance, and combined exercise on metabolic syndrome parameters and 
+cardiovascular risk factors: a systematic review and network meta-analysis. Rev Cardiovasc Med. 2021;22(4):1523. doi:10.31083/j.rcm2204156
+28. Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension statement for reporting of systematic reviews incorporating network 
+meta-analyses of health care interventions: checklist and explanations. Ann Intern Med. 2015;162(11):777–784. doi:10.7326/M14-2385
+29. Liberati A, Altman DG and Tetzlaff J, et al. (2009). The PRISMA statement for reporting systematic reviews and meta-analyses of studies that 
+evaluate healthcare interventions: explanation and elaboration. BMJ, 339(jul21 1), b2700–b2700. 10.1136/bmj.b2700
+Nature and Science of Sleep 2022:14                                                                                               
+https://doi.org/10.2147/NSS.S388863                                                                  
+DovePress                                                                
+2175
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
+
+[page 20]
+30. Arias P, Madinabeitia-Mancebo E, Santiago M, Corral-Bergantinos Y, Robles-Garcia V. Effects of early or late-evening fatiguing physical activity 
+on sleep quality in non-professional sportsmen. J Sports Med Phys Fitness. 2016;56(5):597–605.
+31. Aloulou A, Duforez F, Bieuzen F, Nedelec M. The effect of night-time exercise on sleep architecture among well-trained male endurance runners. 
+J Sleep Res. 2020;29(6). doi:10.1111/jsr.12964
+32. Bulckaert A, Exadaktylos V, Haex B, De Valck E, Verbraecken J, Berckmans D. Elevated variance in heart rate during slow-wave sleep after 
+late-night physical activity. Chronobiol Int. 2011;28(3):282–284. doi:10.3109/07420528.2011.552820
+33. Driver HS, Meintjes AF, Rogers GG, Shapiro CM. Submaximal exercise effects on sleep patterns in young women before and after an aerobic 
+training programme. Acta Physiol Scand Suppl. 1988;574:8–13.
+34. Larsen P, Marino F, Melehan K, Guelfi KJ, Duffield R, Skein M. Evening high-intensity interval exercise does not disrupt sleep or alter energy 
+intake despite changes in acylated ghrelin in middle-aged men. Exp Physiol. 2019;104(6):826–836. doi:10.1113/EP087455
+35. Miura A, Myouken S, Yamada M, et al. Effects of aerobic exercise in early evening on the following nocturnal sleep and its haemodynamic 
+response. Res Sport Med. 2016;24(1):16–29. doi:10.1080/15438627.2015.1076415
+36. Myllymäki T, Kyröläinen H, Savolainen K, et al. Effects of vigorous late-night exercise on sleep quality and cardiac autonomic activity: late-night 
+exercise and sleep. J Sleep Res. 2011;20(1pt2):146–153. doi:10.1111/j.1365-2869.2010.00874.x
+37. Park I, Díaz J, Matsumoto S, et al. Exercise improves the quality of slow-wave sleep by increasing slow-wave stability. Sci Rep. 2021;11(1):4410. 
+doi:10.1038/s41598-021-83817-6
+38. Robey E, Dawson B, Halson S, et al. Effect of evening postexercise cold water immersion on subsequent sleep. Med Sci Sports Exerc. 2013;45 
+(7):1394–1402. doi:10.1249/MSS.0b013e318287f321
+39. Saidi O, Davenne D, Lehorgne C, Duche P. Effects of timing of moderate exercise in the evening on sleep and subsequent dietary intake in lean, 
+young, healthy adults: randomized crossover study. Eur J Appl Physiol. 2020;120(7):1551–1562. doi:10.1007/s00421-020-04386-6
+40. Uçar C, Özgöçer T, Yildiz S. Late-night exercise affects the autonomic nervous system activity but not the hypothalamo-pituitary-adrenal axis in 
+the next morning. J Sports Med Phys Fitness. 2017;58(1–2). doi:10.23736/S0022-4707.16.06766-9
+41. Vincent GE, Sargent C, Roach GD, et al. Exercise before bed does not impact sleep inertia in young healthy males. J Sleep Res. 2020;29(3):e12903. 
+doi:10.1111/jsr.12903
+42. Vitale JA, Bonato M, Galasso L, et al. Sleep quality and high intensity interval training at two different times of day: a crossover study on the 
+influence of the chronotype in male collegiate soccer players. Chronobiol Int. 2017;34(2):260–268. doi:10.1080/07420528.2016.1256301
+43. Yoshida H, Ishikawa T, Shiraishi F, Kobayashi T. Effects of the timing of exercise on the night sleep. Psychiatry Clin Neurosci. 1998;52 
+(2):139–140. doi:10.1111/j.1440-1819.1998.tb00994.x
+44. Youngstedt SD, Kripke DF, Elliott JA. Is sleep disturbed by vigorous late-night exercise? Med Sci Sports Exerc. 1999;31(6):864–869. doi:10.1097/ 
+00005768-199906000-00015
+45. Yamanaka Y, Hashimoto S, Takasu NN, et al. Morning and evening physical exercise differentially regulate the autonomic nervous system during 
+nocturnal sleep in humans. Am J Physiol Regul Integr Comp Physiol. 2015;309(9):R1112–R1121. doi:10.1152/ajpregu.00127.2015
+46. Flausino NH, Da Silva Prado JM, Queiroz SS, Tufik S, Mello MT. Physical exercise performed before bedtime improves the sleep pattern of 
+healthy young good sleepers: exercising before bedtime and sleep pattern. Psychophysiol. 2012;49(2):186–192. doi:10.1111/j.1469- 
+8986.2011.01300.x
+47. Kern W, Perras B, Wodick R, Fehm HL, Born J. Hormonal secretion during nighttime sleep indicating stress of daytime exercise. J Appl Physiol. 
+1995;79(5):1461–1468. doi:10.1152/jappl.1995.79.5.1461
+48. O’Connor PJ, Breus MJ, Youngstedt SD. Exercise-induced increase in core temperature does not disrupt a behavioral measure of sleep. Physiol 
+Behav. 1998;64(3):213–217. doi:10.1016/S0031-9384(98)00049-3
+49. Wong SN, Halaki M, Chow CM. The effects of moderate to vigorous aerobic exercise on the sleep need of sedentary young adults. J Sports Sci. 
+2013;31(4):381–386. doi:10.1080/02640414.2012.733823
+50. Hayashi Y, Nishihira Y, Higashiura T, Usui S. The effects of different intensities of exercise on night sleep. Adv Exerc Sport Physiol. 2014;20 
+(1):19–24.
+51. Assefa Z, Diaz-Abad M, Wickwire M, Scharf M. The Functions of Sleep. neuroscience. 2015;2(3):155–171. doi:10.3934/Neuroscience.2015.3.155
+52. Carskadon MA, Dement WC, Carskadon MA, Dement WC. Nocturnal determinants of daytime sleepiness. Sleep. 1982;5(suppl_2):S73–S81. 
+doi:10.1093/sleep/5.S2.S73
+53. Svensson T, Saito E, Svensson AK, et al. Association of sleep duration with all- and major-cause mortality among adults in Japan, China, 
+Singapore, and Korea. JAMA Netw Open. 2021;4(9):e2122837. doi:10.1001/jamanetworkopen.2021.22837
+54. Goelema MS, Regis M, Haakma R, van den Heuvel ER, Markopoulos P, Overeem S. Determinants of perceived sleep quality in normal sleepers. 
+Behav Sleep Med. 2019;17(4):388–397. doi:10.1080/15402002.2017.1376205
+55. Halson SL, Johnston RD, Appaneal RN, et al. Sleep quality in elite athletes: normative values, reliability and understanding contributors to poor 
+sleep. Sports Med. 2022;52(2):417–426. doi:10.1007/s40279-021-01555-1
+56. Dew MA, Hoch CC, Buysse DJ, et al. Healthy older adults’ sleep predicts all-cause mortality at 4 to 19 years of follow-up: psychosomatic 
+medicine. Mol Cell Proteomics. 2003;65(1):63–73. doi:10.1097/01.PSY.0000039756.23250.7C
+57. Obal F, Krueger JM. GHRH and sleep. Sleep Med Rev. 2004;8(5):367–377. doi:10.1016/j.smrv.2004.03.005
+58. Driver HS, Taylor SR. Exercise and sleep. Sleep Med Rev. 2000;4(4):387–402. doi:10.1053/smrv.2000.0110
+59. Lucidi F, Devoto A, Violani C, De Gennaro L, Mastracci P, Bertini M. Rapid eye movements density as a measure of sleep need: REM density 
+decreases linearly with the reduction of prior sleep duration. Electroencephalogr Clin Neurophysiol. 1996;99(6):556–561. doi:10.1016/S0013- 
+4694(96)95671-0
+60. Netzer NC, Kristo D, Steinle H, Lehmann M, Strohl KP. REM sleep and catecholamine excretion: a study in elite athletes. Eur J Appl Physiol. 
+2001;84(6):521–526. doi:10.1007/s004210100383
+61. Boutcher SH. High-intensity intermittent exercise and fat loss. J Obes. 2011;2011:868305. doi:10.1155/2011/868305
+62. Lewis PB, Ruby D, Bush-Joseph CA. Muscle soreness and delayed-onset muscle soreness. Clin Sports Med. 2012;31(2):255–262. doi:10.1016/j. 
+csm.2011.09.009
+63. MacIntyre DL, Reid WD, McKenzie DC. Delayed muscle soreness: the inflammatory response to muscle injury and its clinical implications. Sports 
+Med. 1995;20(1):24–40. doi:10.2165/00007256-199520010-00003
+https://doi.org/10.2147/NSS.S388863                                                                                                                                                                                                                                  
+DovePress                                                                                                                                                        
+Nature and Science of Sleep 2022:14 
+2176
+Yue et al                                                                                                                                                               
+Dovepress
+Powered by TCPDF (www.tcpdf.org)
+
+[page 21]
+64. Nieman DC, Luo B, Dréau D, et al. Immune and inflammation responses to a 3-day period of intensified running versus cycling. Brain Behav 
+Immun. 2014;39:180–185. doi:10.1016/j.bbi.2013.09.004
+65. Fullagar H, Skorski S, Duffield R, Meyer T. The effect of an acute sleep hygiene strategy following a late-night soccer match on recovery of 
+players. Chronobiol Int. 2016;33(5):490–505. doi:10.3109/07420528.2016.1149190
+66. Glavin EE, Ceneus M, Chanowitz M, et al. Relationships between sleep, exercise timing, and chronotype in young adults. J Health Psychol. 
+2021;26(13):2636–2647. doi:10.1177/1359105320926530
+67. McGinty D, Szymusiak R. Keeping cool: a hypothesis about the mechanisms and functions of slow-wave sleep. Trends Neurosci. 1990;13 
+(12):480–487. doi:10.1016/0166-2236(90)90081-K
+68. Adam K, Oswald I. Protein synthesis, bodily renewal and the sleep-wake cycle. Clin Sci. 1983;65(6):561–567. doi:10.1042/cs0650561
+69. Berger RJ, Phillips NH. Comparative aspects of energy metabolism, body temperature and sleep. Acta Physiol Scand Suppl. 1988;574:21–27.
+70. Horne JA, Moore VJ. Sleep EEG effects of exercise with and without additional body cooling. Electroencephalogr Clin Neurophysiol. 1985;60 
+(1):33–38. doi:10.1016/0013-4694(85)90948-4
+71. Horne JA, Staff LH. Exercise and sleep: body-heating effects. Sleep. 1983;6(1):36–46. doi:10.1093/sleep/6.1.36
+72. Van Dongen HPA, Dinges DF. Circadian rhythms in fatigue, alertness and performance. Principle Pract Sleep Med. 2000;20:391–399.
+73. Murphy PJ, Campbell SS. Nighttime drop in body temperature: a physiological trigger for sleep onset? Sleep. 1997;20(7):505–511. doi:10.1093/ 
+sleep/20.7.505
+74. Buxton OM, Lee CW, L’Hermite-Baleriaux M, Turek FW, Van Cauter E. Exercise elicits phase shifts and acute alterations of melatonin that vary 
+with circadian phase. Am J Physiol Regul Integr Comp Physiol. 2003;284(3):R714–R724. doi:10.1152/ajpregu.00355.2002
+75. Miyazaki T, Hashimoto S, Masubuchi S, Honma S, Honma KI. Phase-advance shifts of human circadian pacemaker are accelerated by daytime 
+physical exercise. Am J Physiol Regul Integr Comp Physiol. 2001;281(1):R197–R205. doi:10.1152/ajpregu.2001.281.1.R197
+76. Youngstedt SD. Ceiling and floor effects in sleep research. Sleep Med Rev. 2003;7(4):351–365. doi:10.1053/smrv.2001.0239
+Nature and Science of Sleep                                                                                                             
+Dovepress 
+Publish your work in this journal 
+Nature and Science of Sleep is an international, peer-reviewed, open access journal covering all aspects of sleep science and sleep medicine, 
+including the neurophysiology and functions of sleep, the genetics of sleep, sleep and society, biological rhythms, dreaming, sleep disorders 
+and therapy, and strategies to optimize healthy sleep. The manuscript management system is completely online and includes a very quick and fair 
+peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.  
+Submit your manuscript here: https://www.dovepress.com/nature-and-science-of-sleep-journal
+Nature and Science of Sleep 2022:14                                                                                         
+DovePress                                                             
+2177
+Dovepress                                                                                                                                                              
+Yue et al
+Powered by TCPDF (www.tcpdf.org)
