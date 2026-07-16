@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Claim, EvidenceEntry, Keyframe, SingleAnalyzeResponse, VerifyResult } from '@/types'
 import { citedEvidence, isEvidenceDowngraded } from '@/lib/single'
+import { followupSingle } from '@/lib/api'
 
 interface SingleResultPageProps {
   data: SingleAnalyzeResponse
@@ -23,6 +24,7 @@ type CardDescriptor =
   | { kind: 'overview' }
   | { kind: 'confrontation'; claimIndex: number }
   | { kind: 'summary' }
+  | { kind: 'followup' }
 
 interface DrawerData {
   title: string
@@ -33,6 +35,11 @@ interface VisualImage {
   image: string
   screenText: string
   time: number
+}
+
+interface FollowupMessage {
+  role: 'user' | 'assistant'
+  content: string
 }
 
 const SIGNAL_STYLES = {
@@ -421,6 +428,125 @@ function SummaryCard({ claims, states }: { claims: Claim[]; states: VerifyState[
   )
 }
 
+function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResponse; topic: string; claims: Claim[]; states: VerifyState[] }) {
+  const [messages, setMessages] = useState<FollowupMessage[]>([])
+  const [input, setInput] = useState('')
+  const [loading, setLoading] = useState(false)
+  const aliveRef = useRef(true)
+
+  useEffect(() => {
+    aliveRef.current = true
+    return () => {
+      aliveRef.current = false
+    }
+  }, [])
+
+  const examples = [
+    '这条视频里最需要注意哪一点？',
+    '哪些人需要更谨慎地看待这些说法？',
+    '日常照着做时，怎样会更稳妥？',
+  ]
+
+  async function sendQuestion(rawQuestion: string) {
+    const question = rawQuestion.trim()
+    if (!question || loading) return
+
+    const history = messages.map((message) => ({ role: message.role, content: message.content }))
+    const verifiedClaims = states.flatMap((state, index) => {
+      const claim = claims[index]
+      if (state.status !== 'done' || !state.result || !claim) return []
+      return [{
+        claim: claim.claim,
+        signal: claim.signal,
+        verdict: state.result.verdict,
+        correction: state.result.correction,
+      }]
+    })
+
+    setMessages((current) => [...current, { role: 'user', content: question }])
+    setInput('')
+    setLoading(true)
+    try {
+      const response = await followupSingle({
+        reference: {
+          author: data.reference.author,
+          title: data.reference.title,
+          url: data.reference.url,
+        },
+        topic: topic || data.topic,
+        claims: verifiedClaims,
+        question,
+        history,
+      })
+      if (aliveRef.current) {
+        setMessages((current) => [...current, { role: 'assistant', content: response.answer }])
+      }
+    } catch {
+      if (aliveRef.current) {
+        setMessages((current) => [...current, { role: 'assistant', content: '追问失败，请重试' }])
+      }
+    } finally {
+      if (aliveRef.current) setLoading(false)
+    }
+  }
+
+  return (
+    <section className="rounded-[26px] border border-[#20CDB6]/20 bg-white p-4 shadow-[0_18px_55px_rgba(18,116,103,0.10)]">
+      <div className="border-b border-[#D8F0EC] pb-4">
+        <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">继续追问</p>
+        <h1 className="mt-1 text-xl font-semibold text-slate-950">就这条视频和已核验的结论，继续问我</h1>
+      </div>
+
+      <div className="mt-4 max-h-[44vh] min-h-52 space-y-4 overflow-y-auto pr-1">
+        {messages.length === 0 ? (
+          <div className="rounded-2xl border border-[#20CDB6]/15 bg-[#f7fffd] p-4">
+            <p className="text-sm font-medium text-slate-600">你可以这样问</p>
+            <div className="mt-3 space-y-2">
+              {examples.map((example) => (
+                <button key={example} type="button" onClick={() => void sendQuestion(example)} disabled={loading} className="w-full rounded-xl border border-[#20CDB6]/20 bg-white px-3 py-2.5 text-left text-sm leading-relaxed text-[#0B6E63] disabled:opacity-50">
+                  {example}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : (
+          messages.map((message, index) => message.role === 'user' ? (
+            <div key={`${message.role}-${index}`} className="flex justify-end">
+              <div className="max-w-[82%] rounded-[14px_14px_4px_14px] bg-[#20CDB6] px-4 py-3 text-sm leading-relaxed text-white">
+                {message.content}
+              </div>
+            </div>
+          ) : (
+            <div key={`${message.role}-${index}`} className="flex items-end gap-2.5">
+              <ShieldAvatar />
+              <div className="max-w-[calc(100%-2.625rem)] rounded-[14px_14px_14px_4px] border border-slate-200 bg-white px-4 py-3 text-sm leading-relaxed text-slate-700 shadow-sm">
+                {message.content}
+              </div>
+            </div>
+          ))
+        )}
+
+        {loading && (
+          <div className="flex items-end gap-2.5">
+            <ShieldAvatar />
+            <div className="flex items-center gap-2 rounded-[14px_14px_14px_4px] border border-slate-200 bg-white px-4 py-3 text-sm text-[#0B6E63] shadow-sm">
+              <LoadingDots />
+              <span>思考中…</span>
+            </div>
+          </div>
+        )}
+      </div>
+
+      <form className="mt-4 flex items-end gap-2 border-t border-[#D8F0EC] pt-4" onSubmit={(event) => { event.preventDefault(); void sendQuestion(input) }}>
+        <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={2} placeholder="输入你想继续问的问题" className="min-h-[48px] min-w-0 flex-1 resize-none rounded-2xl border border-slate-200 bg-white px-3 py-2.5 text-sm leading-relaxed text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] disabled:bg-slate-50" />
+        <button type="submit" disabled={loading || !input.trim()} className="h-12 shrink-0 rounded-2xl bg-[#20CDB6] px-4 text-sm font-semibold text-white disabled:bg-slate-200 disabled:text-slate-400">
+          发送
+        </button>
+      </form>
+    </section>
+  )
+}
+
 export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }: SingleResultPageProps) {
   const initialStates = () => data.claims.map<VerifyState>(() => ({ status: 'pending' }))
   const [verifyStates, setVerifyStates] = useState<VerifyState[]>(initialStates)
@@ -441,6 +567,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
     { kind: 'overview' },
     ...data.claims.map((_, claimIndex) => ({ kind: 'confrontation' as const, claimIndex })),
     { kind: 'summary' },
+    { kind: 'followup' },
   ]
   const totalCards = cards.length
   const currentCard = cards[Math.min(cardIndex, totalCards - 1)]
@@ -536,6 +663,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
           />
         )}
         {currentCard.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
+        {currentCard.kind === 'followup' && <FollowupCard data={data} topic={topic} claims={data.claims} states={verifyStates} />}
       </div>
 
       <nav className="fixed inset-x-0 bottom-16 z-30 border-t border-[#D8F0EC] bg-[#f7fffd] px-4 py-3" aria-label="庭审卡片切换">

@@ -32,3 +32,13 @@ export function verifyClaim(
 ): Promise<VerifyResult> {
   return postJson<VerifyResult>('/api/verify_claim', { claim, topic, video_refs, top_k })
 }
+
+export function followupSingle(payload: {
+  reference: { author: string; title: string; url: string }
+  topic: string
+  claims: { claim: string; signal: string; verdict: string; correction: string }[]
+  question: string
+  history: { role: string; content: string }[]
+}): Promise<{ answer: string }> {
+  return postJson<{ answer: string }>('/api/followup_single', payload)
+}

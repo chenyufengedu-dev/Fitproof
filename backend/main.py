@@ -180,6 +180,14 @@ class FollowupRequest(BaseModel):
     history: list[ChatMessage] = []
 
 
+class FollowupSingleRequest(BaseModel):
+    reference: dict = Field(default_factory=dict)
+    topic: str = ""
+    claims: list[dict] = Field(default_factory=list)
+    question: str
+    history: list[ChatMessage] = Field(default_factory=list)
+
+
 # ---------------------------------------------------------------------------
 # Video extraction helpers
 # ---------------------------------------------------------------------------
@@ -1488,5 +1496,43 @@ async def followup(req: FollowupRequest):
         answer = await asyncio.to_thread(llm_chat, prompt, 8192)
     except Exception as e:
         print(f"[followup] 失败: {e}")
+        raise HTTPException(status_code=500, detail="追问失败，请重试")
+    return {"answer": answer.strip()}
+
+
+def build_followup_single_prompt(req: FollowupSingleRequest) -> str:
+    history_text = "\n".join(f"{message.role}: {message.content}" for message in req.history) or "（暂无）"
+    return f"""你是 FitProof 健康核验助手，只围绕用户看的这一条健康视频及其已核验结论答疑。
+
+视频信息：
+{json.dumps(req.reference, ensure_ascii=False)}
+
+视频话题：
+{req.topic or "（未指定）"}
+
+已核验的说法与结论：
+{json.dumps(req.claims, ensure_ascii=False)}
+
+对话历史：
+{history_text}
+
+用户问题：
+{req.question}
+
+回答要求：
+1. 优先依据上面已核验的结论和证据回答，不得改变已有判定或虚构新的核验结果。
+2. 若问题超出已核验范围，可以做通俗的名词或常识解释，但必须明确说明这部分没有权威证据支撑、属于常识判断。
+3. 绝不编造机构、指南、论文、数据、证据编号或来源；没有依据时要诚实说明。
+4. 只有问题与这条视频的健康话题完全无关时，例如天气或股票，才回复：这个问题和当前视频无关哦。
+5. 使用简洁、清楚的中文回答。"""
+
+
+@app.post("/api/followup_single")
+async def followup_single(req: FollowupSingleRequest):
+    prompt = build_followup_single_prompt(req)
+    try:
+        answer = await asyncio.to_thread(llm_chat, prompt, 8192)
+    except Exception as e:
+        print(f"[followup_single] 失败: {e}")
         raise HTTPException(status_code=500, detail="追问失败，请重试")
     return {"answer": answer.strip()}
