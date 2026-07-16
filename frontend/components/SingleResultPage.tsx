@@ -22,6 +22,7 @@ type CardDescriptor =
   | { kind: 'profile' }
   | { kind: 'overview' }
   | { kind: 'confrontation'; claimIndex: number }
+  | { kind: 'summary' }
 
 interface DrawerData {
   title: string
@@ -331,6 +332,95 @@ function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry
   )
 }
 
+function SummaryCard({ claims, states }: { claims: Claim[]; states: VerifyState[] }) {
+  const completedCount = states.filter((state) => state.status === 'done').length
+  const isReviewing = completedCount < claims.length
+  const dangerous = states
+    .map((state, index) => ({ state, claim: claims[index], index }))
+    .filter(({ state, claim }) => state.status === 'done' && state.result && claim && (
+      state.result.risk_level.includes('高')
+      || state.result.risk_level.includes('误导')
+      || state.result.verdict.includes('不建议')
+      || state.result.verdict.includes('夸大')
+      || claim.signal === '疑似夸大'
+    ))
+    .sort((left, right) => {
+      const leftHighRisk = left.state.result?.risk_level.includes('高') ? 1 : 0
+      const rightHighRisk = right.state.result?.risk_level.includes('高') ? 1 : 0
+      return rightHighRisk - leftHighRisk || left.index - right.index
+    })
+  const featuredDangerous = dangerous.slice(0, 2)
+
+  return (
+    <section className="overflow-hidden rounded-[26px] border border-[#20CDB6]/25 bg-white shadow-[0_18px_55px_rgba(18,116,103,0.10)]">
+      <div className="border-b border-[#D8F0EC] bg-[#f7fffd] px-5 py-5">
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">避坑总结</p>
+            <h1 className="mt-1 text-3xl font-black text-slate-950">宣判</h1>
+          </div>
+          <div className="rounded-xl border border-[#20CDB6]/25 bg-white px-3 py-2 text-right">
+            <p className="text-sm font-black text-[#0B6E63]">FitProof</p>
+            <p className="mt-0.5 text-[10px] text-slate-400">健康说法核验</p>
+          </div>
+        </div>
+
+        {isReviewing && claims.length > 0 && (
+          <p className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5 text-xs leading-relaxed text-amber-800">
+            审理中，已核验 {completedCount} / {claims.length}，结论将陆续给出
+          </p>
+        )}
+      </div>
+
+      <div className="p-5">
+        {claims.length === 0 ? (
+          <div className="rounded-2xl border border-[#20CDB6]/20 bg-[#E1F5EE] px-4 py-6 text-center">
+            <p className="text-base font-semibold text-[#0B6E63]">无可核验说法</p>
+            <p className="mt-1 text-sm text-slate-500">这条视频没有提取出可供证据核验的主张。</p>
+          </div>
+        ) : featuredDangerous.length > 0 ? (
+          <div className="space-y-4">
+            {featuredDangerous.map(({ claim, state, index }) => {
+              const result = state.result as VerifyResult
+              return (
+                <article key={`${claim.claim}-${index}`} className="rounded-2xl border border-slate-200 bg-white p-4 shadow-[0_8px_24px_rgba(15,23,42,0.06)]">
+                  <p className="text-[11px] font-semibold text-slate-400">需要打折听</p>
+                  <p className="mt-1.5 text-[15px] font-semibold leading-relaxed text-slate-950">“{claim.claim}”</p>
+                  <div className="mt-3 overflow-hidden px-1 py-1">
+                    <span className={`inline-block max-w-full -rotate-2 rounded-lg border-2 px-2.5 py-1.5 text-xs font-black ${verdictStampClass(result)}`}>
+                      {result.verdict} · 误导风险{result.risk_level}
+                    </span>
+                  </div>
+                  <div className="mt-3 rounded-xl bg-[#E1F5EE] px-3 py-3">
+                    <p className="text-[11px] font-semibold text-[#0B6E63]">更准确的说法</p>
+                    <p className="mt-1 text-sm leading-relaxed text-slate-700">{result.correction}</p>
+                  </div>
+                </article>
+              )
+            })}
+          </div>
+        ) : (
+          <div className="rounded-2xl border border-[#20CDB6]/25 bg-[#E1F5EE] px-4 py-6 text-center">
+            <p className="text-base font-bold text-[#0B6E63]">
+              {isReviewing ? '已核验部分暂未发现明显误导' : '这条视频整体较稳，未发现明显误导'}
+            </p>
+            {isReviewing && <p className="mt-1.5 text-xs text-slate-500">其余说法仍在审理中</p>}
+          </div>
+        )}
+
+        {claims.length > 0 && (
+          <div className="mt-5 border-t border-[#D8F0EC] pt-4 text-center">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0B6E63]">求真结论</p>
+            <p className="mt-1.5 text-base font-bold text-slate-900">
+              共 {claims.length} 条说法，其中 {dangerous.length} 条需要打折听
+            </p>
+          </div>
+        )}
+      </div>
+    </section>
+  )
+}
+
 export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }: SingleResultPageProps) {
   const initialStates = () => data.claims.map<VerifyState>(() => ({ status: 'pending' }))
   const [verifyStates, setVerifyStates] = useState<VerifyState[]>(initialStates)
@@ -350,6 +440,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
     { kind: 'profile' },
     { kind: 'overview' },
     ...data.claims.map((_, claimIndex) => ({ kind: 'confrontation' as const, claimIndex })),
+    { kind: 'summary' },
   ]
   const totalCards = cards.length
   const currentCard = cards[Math.min(cardIndex, totalCards - 1)]
@@ -444,6 +535,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
             onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
           />
         )}
+        {currentCard.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
       </div>
 
       <nav className="fixed inset-x-0 bottom-16 z-30 border-t border-[#D8F0EC] bg-[#f7fffd] px-4 py-3" aria-label="庭审卡片切换">
