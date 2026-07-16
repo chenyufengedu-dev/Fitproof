@@ -224,7 +224,8 @@ def main():
     # ---- 写独立的待核验文件（绝不碰 registry.csv）----
     if new_rows and not args.dry_run:
         os.makedirs(os.path.dirname(args.out), exist_ok=True)
-        with open(args.out, "w", encoding="utf-8", newline="") as f:
+        # Excel on Windows only auto-detects UTF-8 reliably when a BOM is present.
+        with open(args.out, "w", encoding="utf-8-sig", newline="") as f:
             w = csv.writer(f)
             w.writerow(["id", "filename", "org", "doc", "year", "url", "topic", "pages"])
             for row in new_rows:

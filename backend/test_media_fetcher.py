@@ -4,6 +4,19 @@ from unittest.mock import patch
 
 
 class MediaFetcherTests(unittest.TestCase):
+    def test_resolve_url_extracts_link_from_share_text_before_redirect(self):
+        from backend import main
+
+        class Response:
+            url = "https://www.douyin.com/video/123456"
+
+        share_text = "复制此链接，打开抖音搜索，看看这条健康科普 https://v.douyin.com/abcDeFg/ 乱码字符"
+        with patch.object(main.requests, "get", return_value=Response()) as get:
+            resolved = main.resolve_url(share_text)
+
+        get.assert_called_once_with("https://v.douyin.com/abcDeFg/", allow_redirects=True, timeout=30)
+        self.assertEqual(resolved, "https://www.douyin.com/video/123456")
+
     def test_fetch_media_uses_tikhub_first(self):
         from backend import main
 

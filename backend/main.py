@@ -45,8 +45,13 @@ KEYFRAME_SAMPLE_LIMIT = int(os.getenv("KEYFRAME_SAMPLE_LIMIT", "120"))
 KEYFRAME_PER_MIN = int(os.getenv("KEYFRAME_PER_MIN", "2"))
 KEYFRAME_HARD_CAP = int(os.getenv("KEYFRAME_HARD_CAP", "15"))
 KEYFRAME_PHASH_THRESHOLD = int(os.getenv("KEYFRAME_PHASH_THRESHOLD", "8"))
+# VL 解读是网络请求，并发越高越快 —— 这个值只给 _describe_frames_parallel 用。
 KEYFRAME_WORKERS = int(os.getenv("KEYFRAME_WORKERS", "16"))
-KEYFRAME_FFMPEG_TIMEOUT = int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", "5"))
+# 抽帧是本地 CPU/磁盘活，和 VL 相反：并发高了 ffmpeg 互相抢资源、集体超时被丢帧。
+# 实测同一条 76s 视频抽 10 帧：并发10 只活 1 帧(5.2s)，并发3 全活(3.9s)，串行全活(5.5s)。
+KEYFRAME_GRAB_WORKERS = int(os.getenv("KEYFRAME_GRAB_WORKERS", "3"))
+# 超时只在异常时起作用，给足余量；太小会让慢机器静默丢帧（正常一帧约 0.5s）。
+KEYFRAME_FFMPEG_TIMEOUT = int(os.getenv("KEYFRAME_FFMPEG_TIMEOUT", "20"))
 KEYFRAME_GRAB_RETRIES = int(os.getenv("KEYFRAME_GRAB_RETRIES", "1"))
 KEYFRAME_OCR_FALLBACK = os.getenv("KEYFRAME_OCR_FALLBACK", "0") in ("1", "true", "True")
 MAX_KEYFRAMES = KEYFRAME_MAX
@@ -660,7 +665,19 @@ def grab_frame(video_url: str, t: int) -> str | None:
     retries = max(1, int(os.getenv("KEYFRAME_GRAB_RETRIES", str(KEYFRAME_GRAB_RETRIES))))
     for attempt in range(retries):
         try:
-            subprocess.run(cmd, capture_output=True, timeout=ffmpeg_timeout)
+            proc = subprocess.run(cmd, capture_output=True, timeout=ffmpeg_timeout)
+            if proc.returncode != 0:
+                # 以前这里不看 returncode/stderr，抽帧全失败也只打一行没信息的日志，
+                # 导致画面线整条静默失效很久没被发现。
+                lines = (proc.stderr or b"").decode("utf-8", "replace").strip().splitlines()
+                reason = lines[-1].strip() if lines else f"ffmpeg 退出码 {proc.returncode}"
+                print(f"[keyframe] 抽帧失败 t={t} (第{attempt + 1}次): {reason[:160]}")
+        except subprocess.TimeoutExpired:
+            remove_file_quietly(path)
+            print(
+                f"[keyframe] 抽帧超时 t={t} (第{attempt + 1}次)：ffmpeg 超过 {ffmpeg_timeout}s 未返回。"
+                f"并发过高会让 ffmpeg 互相抢资源集体超时，见 KEYFRAME_GRAB_WORKERS"
+            )
         except Exception as e:
             remove_file_quietly(path)
             print(f"[keyframe] 抽帧失败 t={t} (第{attempt + 1}次): {str(e)[:120]}")
@@ -756,7 +773,7 @@ def ocr_image(path: str) -> str:
 def _grab_frames_parallel(video_url: str, picks: list[dict]) -> list[dict]:
     if not picks:
         return []
-    workers = min(KEYFRAME_WORKERS, max(1, len(picks)))
+    workers = min(KEYFRAME_GRAB_WORKERS, max(1, len(picks)))
 
     def one(pick: dict) -> dict | None:
         t = int(pick["time"])
@@ -800,28 +817,40 @@ def dedupe_frames_by_phash(frames: list[dict], threshold: int | None = None) -> 
     return deduped
 
 
+def encode_frame_image(path: str) -> str | None:
+    try:
+        import io
+        from PIL import Image
+
+        with Image.open(path) as source:
+            image = source.convert("RGB")
+            if image.width > 480:
+                height = max(1, round(image.height * 480 / image.width))
+                image = image.resize((480, height), Image.Resampling.LANCZOS)
+            buffer = io.BytesIO()
+            image.save(buffer, format="JPEG", quality=55, optimize=True)
+        encoded = base64.b64encode(buffer.getvalue()).decode("ascii")
+        return f"data:image/jpeg;base64,{encoded}"
+    except Exception as e:
+        print(f"[keyframe] 图片压缩编码失败，保留文字结果: {str(e)[:160]}")
+        return None
+
+
+def _poster_only_keyframe(frames: list[dict]) -> list[dict]:
+    """不做视觉解读时，仍留一帧中间帧当封面图（零 API 成本，不含画面描述）。"""
+    if not frames:
+        return []
+    frame = frames[len(frames) // 2]
+    image = encode_frame_image(frame["path"])
+    if not image:
+        return []
+    return [{"time": frame["time"], "image": image, "screen_text": ""}]
+
+
 def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
     if not frames:
         return []
     workers = min(KEYFRAME_WORKERS, max(1, len(frames)))
-
-    def encode_frame_image(path: str) -> str | None:
-        try:
-            import io
-            from PIL import Image
-
-            with Image.open(path) as source:
-                image = source.convert("RGB")
-                if image.width > 480:
-                    height = max(1, round(image.height * 480 / image.width))
-                    image = image.resize((480, height), Image.Resampling.LANCZOS)
-                buffer = io.BytesIO()
-                image.save(buffer, format="JPEG", quality=55, optimize=True)
-            encoded = base64.b64encode(buffer.getvalue()).decode("ascii")
-            return f"data:image/jpeg;base64,{encoded}"
-        except Exception as e:
-            print(f"[keyframe] 图片压缩编码失败，保留文字结果: {str(e)[:160]}")
-            return None
 
     def one(frame: dict) -> dict | None:
         try:
@@ -1007,7 +1036,11 @@ def extract_one_video(index: int, link: str) -> dict:
                 if need_visual:
                     keyframes = _describe_frames_parallel(deduped_frames)
                 else:
-                    print(f"[keyframe] 视频 {index} 闸门跳过视觉解读，丢弃 {len(deduped_frames)} 帧")
+                    keyframes = _poster_only_keyframe(deduped_frames)
+                    print(
+                        f"[keyframe] 视频 {index} 闸门跳过视觉解读，{len(deduped_frames)} 帧中"
+                        f"保留 {len(keyframes)} 帧仅作封面（不解读）"
+                    )
             finally:
                 for frame in deduped_frames:
                     remove_file_quietly(frame.get("path"))
