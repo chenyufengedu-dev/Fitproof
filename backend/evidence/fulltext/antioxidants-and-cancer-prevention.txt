@@ -1,0 +1,495 @@
+
+
+[page 1]
+Menu
+An official website of the United States government
+Español
+Home
+About Cancer
+Cancer Causes and Prevention
+Risk Factors 
+Diet
+Antioxidants and Cancer Prevention
+Antioxidants and Cancer Prevention
+On This Page
+What are free radicals, and do they play a role in cancer development?
+What are antioxidants?
+Can antioxidant supplements help prevent cancer?
+Should people already diagnosed with cancer take antioxidant supplements?
+What are free radicals, and do they play a role in
+cancer development?
+Free radicals are highly reactive chemicals that have the potential to harm cells. They are
+created when an atom or a molecule (a chemical that has two or more atoms) either gains
+or loses an electron (a small negatively charged particle found in atoms). Free radicals are
+formed naturally in the body and play an important role in many normal cellular processes
+(1, 2). At high concentrations, however, free radicals can be hazardous to the body and
+damage all major components of cells, including DNA, proteins, and cell membranes. The
+damage to cells caused by free radicals, especially the damage to DNA, may play a role in
+the development of cancer and other health conditions (1, 2).
+Abnormally high concentrations of free radicals in the body can be caused by exposure to
+ionizing radiation and other environmental toxins. When ionizing radiation hits an atom or
+a molecule in a cell, an electron may be lost, leading to the formation of a free radical. The
+production of abnormally high levels of free radicals is the mechanism by which ionizing
+radiation kills cells. Moreover, some environmental toxins, such as cigarette smoke, some
+metals, and high-oxygen atmospheres, may contain large amounts of free radicals or
+stimulate the body’s cells to produce more free radicals.
+
+[page 2]
+Free radicals that contain the element oxygen are the most common type of free radicals
+produced in living tissue. Another name for them is “reactive oxygen species,” or “ROS” (1,
+2).
+What are antioxidants?
+Antioxidants are chemicals that interact with and neutralize free radicals, thus preventing
+them from causing damage. Antioxidants are also known as “free radical scavengers.”
+The body makes some of the antioxidants that it uses to neutralize free radicals. These
+antioxidants are called endogenous antioxidants. However, the body relies on external
+(exogenous) sources, primarily the diet, to obtain the rest of the antioxidants it needs.
+These exogenous antioxidants are commonly called dietary antioxidants. Fruits, vegetables,
+and grains are rich sources of dietary antioxidants. Some dietary antioxidants are also
+available as dietary supplements (1, 3).
+Examples of dietary antioxidants include beta-carotene, lycopene, and vitamins A, C, and E
+(alpha-tocopherol). The mineral element selenium is often thought to be a dietary
+antioxidant, but the antioxidant effects of selenium are most likely due to the antioxidant
+activity of proteins that have this element as an essential component (i.e., selenium-
+containing proteins), and not to selenium itself (4).
+Can antioxidant supplements help prevent cancer?
+In laboratory and animal studies, the presence of increased levels of exogenous
+antioxidants has been shown to prevent the types of free radical damage that have been
+associated with cancer development. Therefore, researchers have investigated whether
+taking dietary antioxidant supplements can help lower the risk of developing or dying from
+cancer in humans.
+Many observational studies, including case–control studies and cohort studies, have been
+conducted to investigate whether the use of dietary antioxidant supplements is associated
+with reduced risks of cancer in humans. Overall, these studies have yielded mixed results
+(5). Because observational studies cannot adequately control for biases that might
+influence study outcomes, the results of any individual observational study must be viewed
+with caution.   
+Randomized controlled clinical trials, however, lack most of the biases that limit the
+reliability of observational studies. Therefore, randomized trials are considered to provide
+the strongest and most reliable evidence of the benefit and/or harm of a health-related
+intervention. To date, nine randomized controlled trials of dietary antioxidant supplements
+
+[page 3]
+for cancer prevention have been conducted worldwide. Many of the trials were sponsored
+by the National Cancer Institute. The results of these nine trials are summarized below.    
+Trial name,
+country
+(reference)
+Intervention
+Study subjects
+Results
+Linxian General
+Population
+Nutrition
+Intervention Trial,
+China (6, 7)
+15 milligrams (mg)
+beta-carotene, 30
+mg alpha-
+tocopherol, and 50
+micrograms (µg)
+selenium daily for
+5 years
+Healthy men
+and women at
+increased risk
+of developing
+esophageal
+cancer and
+gastric cancer
+Initial: no effect on
+risk of developing
+either cancer;
+decreased risk of
+dying from gastric
+cancer only Later:
+no effect on risk of
+dying from gastric
+cancer
+Later: no effect on
+risk of dying from
+gastric cancer
+Alpha-
+Tocopherol/Beta-
+Carotene Cancer
+Prevention Study
+(ATBC), Finland (8–
+12)
+Alpha-tocopherol
+(50 mg per day)
+and/or beta-
+carotene (20 mg
+per day)
+supplements for 5
+to 8 years
+Middle-aged
+male smokers
+Initial: increased
+incidence of lung
+cancer for those
+who took beta-
+carotene
+supplements
+Later:  no effect of
+either supplement
+on incidence of
+urothelial,
+pancreatic,
+colorectal, renal
+cell, or upper
+aerodigestive tract
+cancers
+
+[page 4]
+Carotene and
+Retinol Efficacy
+Trial (CARET),
+United States (13–
+15)
+Daily
+supplementation
+with 15 mg beta-
+carotene and
+25,000
+International Units
+(IU) retinol
+People at high
+risk of lung
+cancer because
+of a history of
+smoking or
+exposure to
+asbestos
+Initial: increased
+risk of lung cancer
+and increased
+death from all
+causes—trial
+ended early
+Later: higher risks
+of lung cancer and
+all-cause mortality
+persisted; no
+effect on risk of
+prostate cancer
+Physicians' Health
+Study I (PHS I),
+United States (16)
+Beta-carotene
+supplementation
+(50 mg every other
+day for 12 years)
+Male
+physicians
+No effect on
+cancer incidence,
+cancer mortality,
+or all-cause
+mortality in either
+smokers or non-
+smokers
+Women’s Health
+Study (WHS),
+United States (17,
+18)
+Beta-carotene
+supplementation
+(50 mg every other
+day), vitamin E
+supplementation
+(600 IU every other
+day), and aspirin
+(100 mg every
+other day)
+Women ages
+45 and older
+Initial: no benefit
+or harm
+associated with 2
+years of beta-
+carotene
+supplementation
+Later: no benefit
+or harm
+associated with 2
+years of vitamin E
+supplementation
+Supplémentation
+en Vitamines et
+Minéraux
+Antioxydants
+Daily
+supplementation
+with vitamin C (120
+mg), vitamin E (30
+mg), beta-carotene
+Men and
+women
+Initial: lower total
+cancer and
+prostate cancer
+incidence and all-
+
+[page 5]
+(SU.VI.MAX) Study,
+France (19–22)
+(6 mg), and the
+minerals selenium
+(100 µg) and zinc
+(20 mg) for a
+median of 7.5
+years
+cause mortality
+among men only;
+increased
+incidence of skin
+cancer among
+women only
+Later: no evidence
+of protective
+effects in men or
+harmful effects in
+women within 5
+years of ending
+supplementation
+Heart Outcomes
+Prevention
+Evaluation–The
+Ongoing
+Outcomes (HOPE–
+TOO) Study,
+International (23)
+Daily
+supplementation
+with alpha-
+tocopherol (400 IU)
+for a median of 7
+years
+People
+diagnosed with
+cardiovascular
+disease or
+diabetes
+No effect on
+cancer incidence,
+death from cancer,
+or the incidence of
+major
+cardiovascular
+events
+Selenium and
+Vitamin E Cancer
+Prevention Trial
+(SELECT), United
+States (24, 25)
+Daily
+supplementation
+with selenium (200
+µg), vitamin E (400
+IU), or both
+Men ages 50
+and older
+Initial: no
+reduction in
+incidence of
+prostate or other
+cancers—trial
+stopped early
+Later: more
+prostate cancer
+cases among those
+who took vitamin E
+alone
+Physicians' Health
+Study II (PHS II),
+United States (26)
+400 IU vitamin E
+every other day,
+500 mg vitamin C
+every day, or a
+Male
+physicians ages
+50 years and
+older
+No reduction in
+incidence of
+prostate cancer or
+other cancers
+
+[page 6]
+combination of the
+two
+Overall, these nine randomized controlled clinical trials did not provide evidence that
+dietary antioxidant supplements are beneficial in primary cancer prevention. In addition, a
+systematic review of the available evidence regarding the use of vitamin and mineral
+supplements for the prevention of chronic diseases, including cancer, conducted for the
+United States Preventive Services Task Force (USPSTF) likewise found no clear evidence of
+benefit in preventing cancer (27).
+It is possible that the lack of benefit in clinical studies can be explained by differences in the
+effects of the tested antioxidants when they are consumed as purified chemicals as
+opposed to when they are consumed in foods, which contain complex mixtures of
+antioxidants, vitamins, and minerals (3). Therefore, acquiring a more complete
+understanding of the antioxidant content of individual foods, how the various antioxidants
+and other substances in foods interact with one another, and factors that influence the
+uptake and distribution of food-derived antioxidants in the body are active areas of
+ongoing cancer prevention research.
+Should people already diagnosed with cancer take
+antioxidant supplements?
+Several randomized controlled trials, some including only small numbers of patients, have
+investigated whether taking antioxidant supplements during cancer treatment alters the
+effectiveness or reduces the toxicity of specific therapies (28). Although these trials had
+mixed results, some found that people who took antioxidant supplements during cancer
+therapy had worse outcomes, especially if they were smokers.
+In some preclinical studies, antioxidants have been found to promote tumor growth and
+metastasis in tumor-bearing mice and to increase the ability of circulating tumor cells to
+metastasize (29–31). Until more is known about the effects of antioxidant supplements in
+cancer patients, these supplements should be used with caution. Cancer patients should
+inform their doctors about their use of any dietary supplement.                
+Selected References
+
+[page 7]
+1. Diplock AT, Charleux JL, Crozier-Willi G, et al. Functional food science and defence
+against reactive oxygen species. British Journal of Nutrition 1998;  80(Suppl 1):S77-S112.
+[PubMed Abstract]
+2. Valko M, Leibfritz D, Moncol J, et al. Free radicals and antioxidants in normal
+physiological functions and human disease. International Journal of Biochemistry & Cell
+Biology 2007; 39(1):44-84. [PubMed Abstract]
+3. Bouayed J, Bohn T. Exogenous antioxidants—double-edged swords in cellular redoc
+state: health beneficial effects at physiologic doses versus deleterious effects at high
+doses. Oxidative Medicine and Cellular Longevity 2010; 3(4): 228-237. [PubMed Abstract]
+4. Davis CD, Tsuji PA, Milner JA. Selenoproteins and Cancer Prevention. Annual Review of
+Nutrition 2012; 32:73-95. [PubMed Abstract]
+5. Patterson RE, White E, Kristal AR, et al. Vitamin supplements and cancer risk: the
+epidemiologic evidence. Cancer Causes and Control 1997; 8(5):786-802. [PubMed
+Abstract]
+6. Blot WJ, Li JY, Taylor PR, et al. Nutrition intervention trials in Linxian, China:
+supplementation with specific vitamin/mineral combinations, cancer incidence, and
+disease-specific mortality in the general population. Journal of the National Cancer
+Institute 1993;85:1483–91. [PubMed Abstract]
+7. Qiao YL, Dawsey SM, Kamangar F, et al. Total and cancer mortality after
+supplementation with vitamins and minerals: follow-up of the Linxian General
+Population Nutrition Intervention Trial. Journal of the National Cancer Institute
+2009;101(7):507-518. [PubMed Abstract]
+8. The Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group. The effects of
+vitamin E and beta carotene on the incidence of lung cancer and other cancers in male
+smokers. New England Journal of Medicine 1994;330:1029–35. [PubMed Abstract]
+9. Rautalahti MT, Virtamo JR, Taylor PR, et al. The effects of supplementation with alpha-
+tocopherol and beta-carotene on the incidence and mortality of carcinoma of the
+pancreas in a randomized, controlled trial. Cancer 1999; 86(1):37-42. [PubMed Abstract]
+10. Virtamo J, Edwards BK, Virtanen M, et al. Effects of supplemental alpha-tocopherol and
+beta-carotene on urinary tract cancer: incidence and mortality in a controlled trial
+(Finland). Cancer Causes and Control 2000;11(10):933-939. [PubMed Abstract]
+11. Albanes D, Malila N, Taylor PR, et al. Effects of supplemental alpha-tocopherol and
+beta-carotene on colorectal cancer. Cancer Causes and Control 2000; 11(3):197-205.
+[PubMed Abstract]
+12. Wright ME, Virtamo J, Hartman AM, et al. Effects of alpha-tocopherol and beta-carotene
+supplementation on upper aerodigestive tract cancers in a large, randomized
+controlled trial. Cancer 2007; 109(5):891-898. [PubMed Abstract]
+13. Omenn GS, Goodman GE, Thornquist MD, et al. Effects of a combination of beta
+carotene and vitamin A on lung cancer and cardiovascular disease. New England Journal
+
+[page 8]
+of Medicine 1996;334(18):1150-1155. [PubMed Abstract]
+14. Goodman GE, Thornquist MD, Balmes J, et al. The Beta-Carotene and Retinol Efficacy
+Trial: incidence of lung cancer and cardiovascular disease mortality during 6-year
+follow-up after stopping beta-carotene and retinol supplements. Journal of the National
+Cancer Institute 2004;96(23):1743-1750. [PubMed Abstract]
+15. Neuhouser ML, Barnett MJ, Kristal AR, et al. Dietary supplement use and prostate
+cancer risk in the Carotene and Retinol Efficacy Trial. Cancer Epidemiology, Biomarkers &
+Prevention 2009;18(8):2202-2206. [PubMed Abstract]
+16. Hennekens CH, Buring JE, Manson JE, Stampfer M, Rosner B, Cook NR, et al. Lack of
+effect of long-term supplementation with beta carotene on the incidence of malignant
+neoplasms and cardiovascular disease. New England Journal of Medicine 1996;334:1145–
+9. [PubMed Abstract]
+17. Lee IM, Cook NR, Manson JE. Beta-carotene supplementation and incidence of cancer
+and cardiovascular disease: Women’s Health Study. Journal of the National Cancer
+Institute 1999;91:2102–6. [PubMed Abstract]
+18. Lee IM, Cook NR, Gaziano JM, et al. Vitamin E in the primary prevention of
+cardiovascular disease and cancer: the Women's Health Study: a randomized
+controlled trial. JAMA 2005;294(1):56-65. [PubMed Abstract]
+19. Hercberg S, Galan P, Preziosi P, et al. The SU.VI.MAX Study: a randomized, placebo-
+controlled trial of the health effects of antioxidant vitamins and minerals. Archives of
+Internal Medicine 2004;164(21):2335-2342. [PubMed Abstract]
+20. Hercberg S, Kesse-Guyot E, Druesne-Pecollo N, et al. Incidence of cancers, ischemic
+cardiovascular diseases and mortality during 5-year follow-up after stopping
+antioxidant vitamins and minerals supplements: a postintervention follow-up in the
+SU.VI.MAX Study. International Journal of Cancer 2010;127(8):1875-1881. [PubMed
+Abstract]
+21. Hercberg S, Ezzedine K, Guinot C, et al. Antioxidant supplementation increases the risk
+of skin cancers in women but not in men. Journal of Nutrition 2007;137(9):2098-2105.
+[PubMed Abstract]
+22. Ezzedine K, Latreille J, Kesse-Guyot E, et al. Incidence of skin cancers during 5-year
+follow-up after stopping antioxidant vitamins and mineral supplementation. European
+Journal of Cancer 2010;46(18):3316-3322. [PubMed Abstract]
+23. Lonn E, Bosch J, Yusuf S, et al. Effects of long-term vitamin E supplementation on
+cardiovascular events and cancer: a randomized controlled trial. JAMA
+2005;293(11):1338-1347. [PubMed Abstract]
+24. Lippman SM, Klein EA, Goodman PJ, et al. Effect of selenium and vitamin E on risk of
+prostate cancer and other cancers: the Selenium and Vitamin E Cancer Prevention Trial
+(SELECT). JAMA 2009;301(1):39-51. [PubMed Abstract]
+
+[page 9]
+25. Klein EA, Thompson IM, Tangen CM, et al. Vitamin E and the risk of prostate cancer: the
+Selenium and Vitamin E Cancer Prevention Trial (SELECT). JAMA 2011;306(14):1549-
+1556. [PubMed Abstract]
+26. Gaziano JM, Glynn RJ, Christen WG, et al. Vitamins E and C in the prevention of prostate
+and total cancer in men: the Physicians' Health Study II randomized controlled trial.
+JAMA 2009;301(1):52-62. [PubMed Abstract]
+27. Fortmann SP, Burda BU, Senger CA, et al. Vitamin and mineral supplements in the
+primary prevention of cardiovascular disease and cancer: an updated systematic
+evidence review for the U.S. Preventive Services Task Force. Annals of Internal Medicine
+2013; 159(12):824-834. [PubMed Abstract]
+28. Lawenda BD, Kelly KM, Ladas EJ, et al. Should supplemental antioxidant administration
+be avoided during chemotherapy and radiation therapy? Journal of the National Cancer
+Institute 2008;100(11):773-783. [PubMed Abstract]
+29. Sayin VI, Ibrahim MX, Larsson E, et al. Antioxidants accelerate lung cancer progression
+in mice. Science Translational Medicine 2014; 6(221):221ra15. [PubMed Abstract]
+30. Le Gal K, Ibrahim MX, Wiel C, et al. Antioxidants can increase melanoma metastasis in
+mice. Science Translational Medicine 2015; 7(308):308re8. [PubMed Abstract]
+31. Piskounova E, Agathocleous M, Murphy MM, et al. Oxidative stress inhibits distant
+metastasis by human melanoma cells. Nature 2015; 527(7577):186-191. [PubMed
+Abstract]
+Related Resources
+Causes and Prevention
+Reviewed: February 6, 2017
+If you would like to reproduce some or all of this content, see Reuse of NCI Information for
+guidance about copyright and permissions. In the case of permitted digital reproduction, please
+credit the National Cancer Institute as the source and link to the original NCI product using the
+original product's title; e.g., “Antioxidants and Cancer Prevention was originally published by the
+National Cancer Institute.”
+Want to use this content on your website or other digital platform? Our syndication
+services page shows you how.
+
+[page 10]
+About
+About This Website
+en Español
+Reuse & Copyright
+Social Media
+Resources
+Contact Us
+Publications
+Dictionary of Cancer Terms
+Find a Clinical Trial
+Policies
+Accessibility
+FOIA
+Privacy & Security
+Disclaimers
+Vulnerability Disclosure
+Sign up for email
+updates
+Enter your email address
+Sign up
+National Cancer Institute
+at the National Institutes of Health
+Contact Us
+Live Chat
+1-800-4-CANCER
+NCIinfo@nih.gov
+Site Feedback
+Follow us
+U.S. Department of Health and Human Services
+National Institutes of Health
+National Cancer Institute
+USA.gov

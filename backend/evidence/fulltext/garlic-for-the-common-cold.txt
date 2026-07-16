@@ -1,0 +1,1483 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Garlic for the common cold (Review)
+ 
+ 
+Lissiman E, Bhasale AL, Cohen M
+ 
+ 
+Lissiman E, Bhasale AL, Cohen M. 
+Garlic for the common cold. 
+Cochrane Database of Systematic Reviews 2014, Issue 11. Art. No.: CD006206. 
+DOI: 10.1002/14651858.CD006206.pub4.
+ 
+ 
+www.cochranelibrary.com
+ 
+Garlic for the common cold (Review)
+ 
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+BACKGROUND..............................................................................................................................................................................................
+3
+OBJECTIVES..................................................................................................................................................................................................
+3
+METHODS.....................................................................................................................................................................................................
+3
+RESULTS........................................................................................................................................................................................................
+5
+Figure 1..................................................................................................................................................................................................
+6
+Figure 2..................................................................................................................................................................................................
+7
+DISCUSSION..................................................................................................................................................................................................
+8
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+9
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+9
+REFERENCES................................................................................................................................................................................................
+10
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+11
+APPENDICES.................................................................................................................................................................................................
+13
+FEEDBACK.....................................................................................................................................................................................................
+16
+WHAT'S NEW.................................................................................................................................................................................................
+17
+HISTORY........................................................................................................................................................................................................
+17
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+17
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+17
+INDEX TERMS...............................................................................................................................................................................................
+18
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Garlic for the common cold
+Elizabeth Lissiman1, Alice L Bhasale2, Marc Cohen3
+1Faculty of Medicine, Dentistry & Health Sciences, The University of Western Australia, Crawley, Australia. 2Australian Commission on
+Safety and Quality in Healthcare, Sydney, Australia. 3School of Health Sciences, RMIT University, Bundoora, Australia
+Contact: Elizabeth Lissiman, libby.lissiman@gmail.com.
+Editorial group: Cochrane Acute Respiratory Infections Group.
+Publication status and date: Edited (no change to conclusions), published in Issue 9, 2020.
+Citation: Lissiman E, Bhasale AL, Cohen M. Garlic for the common cold. Cochrane Database of Systematic Reviews 2014, Issue 11. Art. No.:
+CD006206. DOI: 10.1002/14651858.CD006206.pub4.
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Garlic is alleged to have antimicrobial and antiviral properties that relieve the common cold, among other beneficial eﬀects. There is
+widespread usage of garlic supplements. The common cold is associated with significant morbidity and economic consequences. On
+average, children have six to eight colds per year and adults have two to four.
+Objectives
+To determine whether garlic (Allium sativum) is eﬀective for the prevention or treatment of the common cold, when compared to placebo,
+no treatment or other treatments.
+Search methods
+We searched CENTRAL (2014, Issue 7), OLDMEDLINE (1950 to 1965), MEDLINE (January 1966 to July week 5, 2014), EMBASE (1974 to August
+2014) and AMED (1985 to August 2014).
+Selection criteria
+Randomised controlled trials of common cold prevention and treatment comparing garlic with placebo, no treatment or standard
+treatment.
+Data collection and analysis
+Two review authors independently reviewed and selected trials from searches, assessed and rated study quality and extracted relevant
+data.
+Main results
+In this updated review, we identified eight trials as potentially relevant from our searches. Again, only one trial met the inclusion criteria.
+This trial randomly assigned 146 participants to either an allicin-containing garlic capsule (dose unspecified) or a placebo (once daily) for
+12 weeks. The trial reported 24 occurrences of the common cold in the garlic intervention group compared with 65 in the placebo group
+(P < 0.001), resulting in fewer days of illness in the garlic group compared with the placebo group (111 versus 366). The number of days to
+recovery from an occurrence of the common cold was similar in both groups (4.63 versus 5.63). Only one trial met the inclusion criteria,
+therefore limited conclusions can be drawn. The trial relied on self reported episodes of the common cold but was of reasonable quality
+in terms of randomisation and allocation concealment. Adverse eﬀects included rash and odour.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Authors' conclusions
+There is insuﬀicient clinical trial evidence regarding the eﬀects of garlic in preventing or treating the common cold. A single trial suggested
+that garlic may prevent occurrences of the common cold but more studies are needed to validate this finding. Claims of eﬀectiveness
+appear to rely largely on poor-quality evidence.
+P L A I N   L A N G U A G E   S U M M A R Y
+Garlic for the common cold
+Background
+Garlic is popularly believed to be useful for the common cold. This belief is based on traditional use and some laboratory evidence that
+garlic has antibacterial and antiviral properties. On average, adults have two to four common colds per year.
+Study characteristics
+The evidence is current to the 7 August 2014. Of the eight studies identified, only one fulfilled the criteria for the review. This study assessed
+146 participants over a three-month period. Half the participants took a placebo capsule and half took a garlic capsule during this time.
+The participants then wrote in a diary when they had symptoms of a cold.
+Key results
+The included study found that people who took garlic every day for three months (instead of a placebo) had fewer colds. That is, over
+the three-month period, there were 24 occurrences of the common cold in the garlic group, compared to 65 in the placebo group. When
+participants experienced a cold, the length of illness was similar in both groups (4.63 versus 5.63 days).
+Quality of the evidence
+More participants in the garlic group (four) than the placebo group (one) noted a smell when burping, so it is possible that blinding of
+participants was not adequate. However, other potential biases were well controlled. The only included study is directly relevant to the
+review question. Although the trial is small, there were enough participants to provide precise, reliable results. There is no evidence that
+results were selectively reported. However, this was possible as the outcomes do not appear to have been decided in advance. Considering
+the financial incentive for supplement companies to produce positive trials, it is also possible that trials that showed no eﬀect of garlic
+were never published. Overall, the quality of the evidence is moderate.
+Side eﬀects
+Possible side eﬀects in this small trial included odour and a skin rash. More information is needed about the possible side eﬀects of garlic.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+The common cold is a heterogenous group of diseases caused
+by numerous viruses that belong to several diﬀerent families
+(Heikkinen 2003). The viruses include picornaviruses (notably,
+rhinoviruses and enteroviruses), coronaviruses, adenoviruses,
+parainfluenza viruses, influenza viruses, metapneumoviruses and
+respiratory syncytial viruses (Fendrick 2003). They all cause the
+common symptoms of nasal stuﬀiness and discharge, sneezing,
+sore throat and cough. Other symptoms may also include
+hoarseness, headache, malaise and lethargy (Heikkinen 2003). The
+transmission of these viruses occurs via contact with secretions
+or small- or large-particle aerosols (Heikkinen 2003). On average,
+children have six to eight and adults two to four colds per year
+(Heikkinen 2003).
+The total annual economic impact of the common cold is estimated
+to be USD 40 billion in the USA, including the financial impact
+of medical costs, days oﬀ work and the possibility of severe
+complications in at-risk groups (Fendrick 2003).
+Due to the many diﬀerent virus types, all with varying pathogenetic
+mechanisms, it is understandable that an eﬀective universal
+treatment for the common cold has not been developed (Heikkinen
+2003). Current treatments aim to relieve the symptoms of the
+common cold but Cochrane Reviews suggest that most commonly
+used treatments are of limited or uncertain eﬀectiveness (Hemilä
+2013; Karsch-Völk 2014; Singh 2013).
+Description of the intervention
+Garlic (Allium sativum) has been traditionally used for both culinary
+and medicinal purposes (Rivlin 2001). Garlic remedies include raw
+garlic and commercial preparations such as powders, oil and aged
+extracts (Ruddock 2005; Staba 2001).
+The exact usage of garlic for the common cold probably varies
+worldwide. A cross-sectional population study conducted in
+Australia in 2007 found that 10.7% of participants used garlic;
+29.8% of these for cold, flu or fever (Zhang 2008). In data from
+the USA in 2002, 3.76% of the population used garlic supplements
+(Barnes 2004). However, like other usage surveys, this study did not
+report the indication for use (Barnes 2004; Harris 2000; MacLennan
+2006). Since many manufacturers of garlic supplements claim their
+products boost the immune system and assist in the prevention
+and treatment of the common cold, it is reasonable to assume
+that garlic supplements are commonly used by consumers for
+this purpose. The prevalence of herbal medicine use seems to
+be relatively consistent between Western countries (Harris 2000;
+MacLennan 2006).
+How the intervention might work
+Garlic is alleged to have antimicrobial, antifungal and antiviral
+properties (Ankri 1999; Ruddock 2005; Weber 1992). It is
+purported to lower cholesterol and triglyceride levels, reduce blood
+pressure, slow the development of atherosclerosis and act as an
+anticoagulant (Kyo 2001; NCCAM 2006; Tapsell 2006). Other studies
+have reported anti-carcinogenic and immunomodulatory eﬀects
+(Kyo 2001).
+The mechanism of action of garlic as an antimicrobial and antiviral
+agent is unknown. However, its sulphur-containing derivatives may
+exert an eﬀect (Naganawa 1996; Weber 1992). Alternatively, the
+eﬀects of garlic may be due to ajoene, a derivative of allicin
+which displays antiplatelet and antimicrobial activities in vitro
+(Naganawa 1996; Ruddock 2005; Weber 1992). When raw garlic is
+crushed, allicin is produced (Naganawa 1996; Weber 1992). Allicin
+has demonstrated antibacterial properties in vitro (Cavallito 1944),
+but some studies suggest it is an unstable compound that is not
+detected in the circulation afer ingestion (Naganawa 1996). Fresh
+garlic is estimated to contain approximately 4.38 to 4.65 mg of
+allicin per gram of garlic; thus for one fresh clove of garlic, weighing
+approximately 4 g, there is approximately 17.52 to 18.60 mg of
+allicin (Ruddock 2005; Staba 2001; WHO 1999). It is important
+to recognise that commercial garlic preparations may contain
+diﬀerent garlic-derived compounds according to the process used
+to formulate the product (Miller 2000; Ruddock 2005; Staba 2001;
+Weber 1992), and that there may be substantial diﬀerences in the
+release of allicin from diﬀerent preparations (Lawson 2001). There
+may, therefore, be diﬀerences in the eﬀects between preparations
+and this should be taken into account when evaluating studies of
+eﬀectiveness. In vitro studies do not indicate clinical eﬀicacy.
+Why it is important to do this review
+Systematic reviews of garlic for lowering cholesterol and
+minimising hypertension have been conducted (AHRQ 2000; Silagy
+1994; Tapsell 2006). However, prior to this Cochrane Review,
+no systematic review of garlic for the common cold had been
+conducted.
+O B J E C T I V E S
+To determine whether garlic (Allium sativum) is eﬀective for the
+prevention or treatment of the common cold, when compared to
+placebo, no treatment or other treatments.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomised controlled trials (RCTs) comparing garlic with placebo,
+no treatment or standard treatment for the common cold.
+Types of participants
+Trials eligible for inclusion were those involving adults or children
+(0 to 17 years) who had no other acute illnesses or severe chronic
+condition. In terms of common cold prevention, 'cases' were those
+who developed a common cold during the course of the study.
+For treatment trials, participants were required to have a common
+cold or non-specific viral upper respiratory tract infection (URTI).
+Symptoms that were used to identify the common cold could
+include coryza, sore throat, rhinitis, headache and general malaise.
+We excluded studies of influenza or those in which the illness
+definition included myalgia and fever greater than 38 °C, as these
+are common distinguishing features of influenza.
+Types of interventions
+Trials of garlic in any medicinal formulation were included.
+However, we only assessed trials where garlic was the single active
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ingredient. Garlic extracts were acceptable but not trials where raw,
+unprocessed garlic was the intervention.
+Types of outcome measures
+Primary outcomes
+For prevention trials, the outcome of interest was the number of
+occurrences of the common cold.
+For treatment trials, the primary outcome of interest was the
+duration of symptoms of the common cold.
+Secondary outcomes
+Secondary outcomes included the duration of symptoms of
+the common cold (number of days), the number of days
+'challenged' (where participants reported an occasional sneeze or
+felt that a cold was coming on) and the number of days to recovery.
+We considered reported adverse eﬀects.
+Search methods for identification of studies
+Electronic searches
+For this 2014 update we searched the Cochrane Central Register
+of Controlled Trials (CENTRAL) (2014, Issue 7) (accessed 7 August
+2014), which includes the Cochrane Acute Respiratory Infections
+Group Specialised Register, MEDLINE (October 2011 to July week
+5, 2014), MEDLINE in-process and other non-indexed citations
+(searched 6 July 2014), EMBASE (December 2011 to August 2014)
+and AMED (2011 to 2014). Details of the previous search are in
+Appendix 1.
+We used the search terms described in Appendix 1 to search
+MEDLINE and CENTRAL. We did not use a filter to identify
+randomised trials in MEDLINE as there were too few results. We
+adapted the search terms to search EMBASE (Appendix 2) and AMED
+(Appendix 3). There were no language or publication restrictions.
+Searching other resources
+We searched the following trials registries: World Health
+Organization (WHO) International Clinical Trials Registry Platform
+(ICTRP) and ClinicalTrials.gov (searched 8 August 2014). We
+handsearched the references of all identified studies. Sarah
+Thorning (ARI Group Trials Search Co-ordinator) and two review
+authors (AB, EL) carried out the search. We also contacted the
+manufacturers of garlic supplements, experts in the field and the
+Cochrane Complementary Medicines Field.
+Data collection and analysis
+Selection of studies
+Two review authors (AB, EL) independently reviewed and selected
+trials from searches, assessed and rated study quality and extracted
+relevant data. We resolved disagreements through discussion and
+consensus. We contacted trial authors to request missing data or to
+clarify methods whenever possible.
+Data extraction and management
+We extracted data using a standardised form. Information included:
+•
+age and gender of participant;
+•
+number of participants;
+•
+whether analysis was by intention-to-treat (ITT);
+•
+randomisation method;
+•
+method of blinding;
+•
+blinding of outcome assessment;
+•
+smoking or non-smoking status;
+•
+pre-existing chronic conditions;
+•
+exclusion criteria;
+•
+diagnostic criteria;
+•
+treatment setting;
+•
+duration of treatment;
+•
+outcomes;
+•
+duration of illness;
+•
+functioning (for example, time to return to normal activity);
+•
+severity of illness;
+•
+occurrence of illness (prevention trials);
+•
+adverse eﬀects; and
+•
+other medicines being used, including those with potential drug
+interactions.
+Assessment of risk of bias in included studies
+As with any systematic review, trials of poor quality may
+overestimate the treatment eﬀect. We assessed the following
+aspects of trial quality:
+•
+quality of randomisation;
+•
+quality of blinding;
+•
+quality of allocation concealment;
+•
+presence of selective reporting;
+•
+presence of incomplete outcome data; and
+•
+analysis by intention-to-treat (ITT).
+Specification of the dose and standardisation of the garlic extract
+are important in order to generalise but should not aﬀect quality.
+We did not conduct a sensitivity analysis as only one study met our
+inclusion criteria.
+The authors independently assessed 'Risk of bias' using the tool
+available in Review Manager 5.3 (RevMan 2014), recommended by
+Cochrane Handbook for Systematic Reviews of Interventions (Higgins
+2011). There were no disagreements in assessments.
+Measures of treatment eﬀect
+We reported the results as continuous data in days of common cold
+experienced. We did not conduct a meta-analysis as there was only
+one trial.
+Unit of analysis issues
+There were no included studies that utilised non-standard designs.
+Dealing with missing data
+There were no missing data to deal with.
+Assessment of heterogeneity
+Heterogeneity was not an issue as only one study was included.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Assessment of reporting biases
+Reporting bias is possible. It was not possible to use a funnel plot
+to investigate this as there was only one included study.
+Data synthesis
+We did not conduct a meta-analysis as only one study met our
+inclusion criteria. There were insuﬀicient data to conduct a meta-
+analysis of adverse eﬀects and these were collected using diﬀerent
+methods. We considered adverse eﬀects reported in both included
+and excluded trials.
+Subgroup analysis and investigation of heterogeneity
+We did not conduct subgroup analyses as there was only one
+included study.
+Sensitivity analysis
+The exclusion of studies from the review was clearly objective
+and non-contentious. In addition, only one trial was included.
+Therefore, a sensitivity analysis was not required.
+Summary of findings and assessment of the certainty of the
+evidence
+R E S U L T S
+Description of studies
+Results of the search
+In our first publication of this review, Lissiman 2009, we searched
+the following electronic databases: the Cochrane Central Register
+of Controlled Trials (CENTRAL) (2009, Issue 1), which includes
+the Cochrane Acute Respiratory Infections Group Specialised
+Register: 0 search results; OLDMEDLINE (1950 to 1965) and MEDLINE
+(January 1966 to March Week 3, 2009): 27 search results; EMBASE
+(1974 to March 2009): 10 search results; and AMED (1985 to March
+2009): two search results.
+In the 2012 update, Lissiman 2012, we searched the following
+electronic databases: CENTRAL (2011, Issue 4): one result; MEDLINE
+(Ovid) (1 February 2009 to November week 3 2011): six results;
+EMBASE (1 March 2009 to December 2011): 31 results; AMED from
+2009 to December 2011: 0 results. We excluded one new trial in this
+update (Yakoot 2011).
+In this 2014 update, we searched the following electronic
+databases: CENTRAL (2014, Issue 7): three results; MEDLINE (Ovid)
+(October 2011 to July week 5, 2014): three results; MEDLINE in-
+process and other non-indexed citations (searched 6 July 2014):
+one result; EMBASE (December 2011 to August 2014): two results;
+AMED (2011 to 2014): 0 results; clinical trials registries WHO ICTRP
+and Clinicaltrials.gov (searched 8 August 2014): 0 results. We
+excluded two new trials in this updates (Nantz 2012; Polanco-Rojas
+2013).
+Included studies
+Of the eight trials identified as potentially relevant from our
+searches, we eventually excluded seven. However, we included
+information about adverse eﬀects described in these studies as
+additional anecdotal reports.
+Josling 2001 randomly assigned 146 participants to either garlic
+(one  allicin-containing garlic  capsule (dose unspecified)  per day
+with the main meal) or a placebo, for 12 weeks. Participants
+kept a diary and the primary outcome measure was the number
+of occurrences of the common cold measured by participants'
+self rating. Other outcomes included the cold duration (number
+of days), the number of days 'challenged' (where participants
+reported an occasional sneeze or felt that a cold was coming on)
+and the number of days to recovery.
+Excluded studies
+Andrianova 2003 (Russian) was a randomised controlled trial (RCT)
+comparing Allicor (slow-release garlic tablets) to benzimidazole or
+placebo for treating acute respiratory disease (ARD) in children.
+The definition of ARD included influenza, thus excluding it from our
+review. The trial was conducted in two stages; the first stage was
+a five-month, open non-RCT, which investigated the tolerability of
+Allicor and its eﬀects on ARD morbidity; the second stage was a five-
+month, double-blind RCT, which assessed eﬀects on morbidity. In
+the first stage, 172 children aged 7 to 16 years were given Allicor
+and were compared to 468 controls; there was no diﬀerence in the
+prevalence of gastrointestinal side eﬀects between the groups. In
+the second stage, 42 children aged 10 to 12 years were treated with
+Allicor, compared to 41 placebo-treated children. Allicor reduced
+ARD morbidity 1.7-fold compared to placebo.
+Rafinski 1974 (Polish) assessed the clinical course of recurrent
+upper respiratory tract infections (URTI) in 49 children aged 2 to 15
+years, following treatment with Alliofil, a coated garlic tablet. We
+excluded this study because there was no comparison group and
+it was a non-randomised controlled trial. Before treatment, swabs
+were taken from the patients and sensitivity tests were conducted
+for Alliofil and several major antibiotics (penicillin, streptomycin,
+terramycin, erythromycin, aureomycin, tetracycline, neomycin and
+sulphonamides). From the 49 cases of recurrent URTI, bacteria were
+sensitive to the tested antibiotics in only nine children. The authors
+report that the bacterial species isolated from the remaining 40
+children were sensitive to Alliofil.
+Ushirotake 2004 (Japanese) was not a RCT and was thus excluded.
+The study assessed the number of occurrences of the common
+cold and the severity of symptoms in 272 volunteer participants at
+drugstores. One hundred and thirteen had been taking Kyoleopin
+(containing aged garlic extract) for more than one year, 41 had
+been taking Leopin-5 (containing aged garlic extract) and 118
+had not been taking either. As the study was not randomised or
+blinded, there is a high risk of bias. Of interest, this study has been
+used to support claims by a nutritional supplement company that
+garlic is eﬀective in preventing the common cold and decreasing
+the severity of symptoms. This emphasises the need for careful
+consideration before accepting claims of scientific evidence.
+Hiltunen 2007 compared a cellulose nasal spray with a combination
+cellulose and garlic extract nasal spray to prevent airborne
+respiratory infections, including cold-like symptoms. We excluded
+the study because the study outcome did not meet the definition
+of the common cold defined in our protocol. Our protocol required
+that studies include either a placebo control group or a standard
+treatment group for comparison. This study did not meet this
+criterion as the cellulose could not be considered a standard
+treatment or a placebo.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Yakoot 2011 assessed the eﬀicacy of a multiherbal formula
+(including garlic) in the treatment of the common cold. We excluded
+this RCT for two reasons. Firstly, garlic was combined with several
+other active ingredients. Secondly, the trial included participants
+with myalgia and fever, which did not meet our inclusion criteria.
+Nantz 2012 is a RCT that compared aged garlic extract (AGE) powder
+(four capsules: 2.56 g per day) to placebo capsules for cold and
+influenza symptoms. As documented symptoms included myalgia
+and fever we excluded this trial from our review. We contacted
+the authors to assess whether we could sub-analyse the data by
+excluding the participants with influenza. However, unfortunately
+this was not possible. The primary outcome of the trial focused
+on measurement of immune cell proliferation. On analysis of the
+secondary outcomes of cold and flu symptoms, the incidence of
+people who experienced at least one episode of a cold or influenza
+during the time period was not statistically diﬀerent (28 of 56
+people in the placebo group, and 26 of 56 in the AGE group) (P =
+0.848). However, the group consuming the AGE powder appeared
+to have reduced severity of symptoms.
+The total number of symptoms reported during the study was lower
+in the AGE group (584 versus 737, or 21% fewer) (P < 0.001). Per
+episode of illness, this finding was not significant (11.9 in the AGE
+group versus 14.0 in the placebo group) (P = 0.536).
+Participants were asked to report whether or not they had a
+decrease in desire or ability to carry out their normal routine
+(decrease in activity or DIA). The total number of days of DIA during
+the study was significantly diﬀerent between groups: 53 in the AGE
+group versus 126 in the placebo group, or 58% fewer (P < 0.001).
+A significant diﬀerence was also noted per episode of illness (61%
+fewer days of DIA in the AGE group, P < 0.001).
+Polanco-Rojas 2013 evaluated the eﬀect of garlic drops on children
+with an acute respiratory illness. We excluded the study as it was
+not a RCT. That is, participants were selected for the treatment or
+placebo group based on their clinical symptoms. Symptom scores
+were compared within the same group from day three to five, not
+between the control and treatment groups.
+Risk of bias in included studies
+We conducted the assessment of study quality according to the
+Cochrane Handbook for Systematic Reviews of Interventions (Higgins
+2011). The included trial was of reasonable quality (Josling 2001).
+The trial author reported (in correspondence) that the study was
+analysed by intention-to-treat (ITT); that is, participant results were
+analysed according to the treatment group to which they were
+randomised, regardless of whether they completed the study or
+changed treatment. Not analysing by ITT can aﬀect the validity of
+results.
+The overall risk of bias is presented graphically in Figure 1 and
+summarised in Figure 2.
+ 
+Figure 1.   'Risk of bias' graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding (performance bias and detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+0%
+25%
+50%
+75%
+100%
+Low risk of bias
+Unclear risk of bias
+High risk of bias
+ 
+ 
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   'Risk of bias' summary: review authors' judgements about each risk of bias item for each included study.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding (performance bias and detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+Josling 2001
++
++
+-
++
+?
++
+ 
+Allocation
+Participants were matched for age, sex and previous use of garlic,
+then randomised to the active or placebo group with the use
+of a random number generator. Adequate methods of allocation
+concealment were used; the trial author reported that the research
+co-ordinator was given plain white bottles marked A or B and these
+were provided to the patient according to the randomisation codes.
+Blinding
+The research co-ordinator was blinded for the duration of the
+trial. As the outcomes were self reported and participants were
+recruited through advertising, poor blinding of participants may
+have biased outcome reporting. Reasonable measures were taken
+to blind participants to the intervention; the investigators reported
+using foil wrapping to prevent the active treatment from being
+identified by its smell. However, four of the participants in the active
+group and one in placebo group noticed a 'smell' when burping. The
+trial author was responsible for breaking the randomisation codes
+at the end of the trial afer all diaries had been returned.
+Incomplete outcome data
+Four participants withdrew from the study; three from the active
+group and one from the placebo group. Criteria for participant
+inclusion and exclusion were not reported.
+Selective reporting
+There was no evidence of selective reporting of outcomes.
+However, the statistical analysis and primary outcomes do not
+appear to have been decided in advance. The analysis used may
+therefore have been chosen post-hoc to maximise the chances of
+finding a statistically significant result.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Other potential sources of bias
+The trial author reported he had no conflict of interest at the time
+of the study.
+Eﬀects of interventions
+The included trial reported 24 occurrences of the common cold
+in the garlic intervention group compared with 65 in the placebo
+group (P < 0.001). There were fewer days of illness in the garlic group
+compared with the placebo group (111 versus 366). A cold could
+be defined as 'feeling low and beginning to exhibit symptoms' or
+'full cold symptoms' (headache, sneezing, runny nose, tiredness).
+Statistical significance was not reported for the number of days
+to recovery from an occurrence of the common cold (4.63 versus
+5.63) but these appear similar. The trial authors reported that
+16 participants taking placebo had more than one full-blown
+cold compared to two participants taking garlic, but no statistical
+analysis was reported. Adverse eﬀects included rash and odour.
+D I S C U S S I O N
+Evidence
+Garlic may prevent occurrences of the common cold. The published
+evidence for this is positive but limited, as it comes from one
+relatively small trial with subjective outcome measures.
+Only one trial that met the selection criteria could be identified
+(Josling 2001), limiting the conclusions that can be drawn. The trial
+reported significant diﬀerences in eﬀect between the placebo and
+intervention groups. Adverse eﬀects reported were relatively minor
+(smell and skin rash). It is not certain whether the single case of gout
+reported could be reasonably attributed to the garlic.
+While the results suggest that garlic may have an eﬀect on
+preventing the common cold, the subjective nature of the outcome
+measure means that this result is somewhat uncertain. The
+outcome of having a cold was not confirmed by any objective
+observation and may be unreliable. Further, a five-point categorical
+scale was collapsed for analysis; hence a cold was defined as a score
+of either 2 - 'feeling low and beginning to exhibit symptoms' or 1 -
+'full cold symptoms' (headache, sneezing, runny nose, tiredness).
+The trial authors do not state whether this analysis was defined in
+advance and it is possible this was done to increase the likelihood of
+achieving a statistically significant result, since 'full cold symptoms'
+would seem to be the clearest definition of a cold. Inclusion and
+exclusion criteria were not reported, nor were diﬀerences in co-
+morbidity or concurrent illnesses. These factors reduce the ability
+to generalise from this trial to other situations and may have
+introduced bias into the results.
+No trial was identified that looked at whether treating symptoms of
+the cold with garlic reduces their severity or duration. However, in
+the included study the number of days to recover from a cold was
+similar in both groups.
+Adverse eﬀects
+Josling 2001 reported that one participant allocated to receive the
+garlic capsule withdrew due to development of gout and another
+due to pruritic rash below the knees, which faded afer the garlic
+capsule was discontinued. Four participants in the intervention
+group and one in the placebo group noticed a 'smell' when burping.
+Adverse eﬀects reported in excluded studies were also considered,
+acknowledging that any adverse events reported could not be
+attributed to garlic, because of weaknesses in randomisation or the
+lack of a control group. In the Andrianova 2003 trial, there were no
+gastrointestinal side eﬀects observed but it is unknown whether
+there were any other adverse eﬀects. Rafinski 1974 reported that
+no side eﬀects were observed and Yakoot 2011 reported that
+the frequency of side eﬀects did not diﬀer significantly between
+intervention and placebo groups (no data reported). In Nantz 2012,
+there was no diﬀerence in the incidence of reported adverse eﬀects
+(one person reported gastrointestinal side eﬀects in each group).
+It is not known whether Ushirotake 2004 or Polanco-Rojas 2013
+reported adverse eﬀects.
+The safety of consuming small quantities of raw garlic is evident in
+its worldwide use as a culinary spice (WHO 1999). Adverse events
+associated with garlic have been reported in non-randomised
+studies, randomised trials in other conditions and in case reports.
+A review of other adverse eﬀects reported in the literature included
+bad breath and body odour and allergic reactions, manifesting in
+minor respiratory or skin symptoms (AHRQ 2000; WHO 1999). There
+is a potential for high-dose garlic to interact with antithrombotic
+drugs (for example, warfarin), increasing the risk of bleeding, but
+the few reported case studies are inconclusive (AHRQ 2000; Fugh-
+Berman 2000; WHO 1999).
+Summary of main results
+The trial reported fewer occurrences of the common cold in people
+who took the garlic for 12 weeks (24) compared with the placebo
+group (65) (P < 0.001). Statistical significance was not reported for
+the number of days to recovery from an occurrence of the common
+cold (4.63 versus 5.63).
+While this single small trial had a positive finding, there was
+insuﬀicient evidence to confirm an eﬀect of garlic on the common
+cold. No significant harms were reported.
+Overall completeness and applicability of evidence
+The one included trial addressed the objectives of the review.
+However, the small size of the trial limits the ability of this
+review to address the review question adequately. We identified no
+treatment trials.
+Quality of the evidence
+We included only one small trial. This trial also had several
+methodological limitations, including in blinding (high risk) and
+selective reporting (unclear risk). Therefore, the available evidence
+does not allow any robust conclusions to be drawn.
+Potential biases in the review process
+We conducted thorough searches of the literature, including of
+several large databases and the references of relevant studies.
+As few results were obtained, the searches were not limited to
+randomised controlled trials (RCTs). However, it is possible that
+not all relevant data were obtained, if published only in abstract
+format or in another language. The decisions to include and exclude
+studies were clearly objective and non-contentious.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Agreements and disagreements with other studies or
+reviews
+There are no other systematic reviews assessing the eﬀicacy of
+garlic for the common cold.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+There is no conclusive evidence to recommend garlic supplements
+as a preventative or treatment option for the common cold.
+A single, small trial was found suggesting garlic might reduce
+the incidence of the common cold if taken continuously as a
+daily prophylactic (preventive treatment) but the results require
+validation. There is currently no evidence to help decide whether
+treating common colds with garlic will reduce symptom severity or
+days of illness. Anecdotally, adverse events reported include odour
+and minor skin or respiratory irritation. The frequency of adverse
+eﬀects could not be determined from the evidence available.
+Implications for research
+Further research is needed to provide conclusive evidence of
+the eﬀicacy of garlic for the common cold. Large, double-blind
+randomised controlled trials should be conducted. Outcomes
+should be measured objectively, according to pre-defined criteria,
+in a format that allows comparison.
+A C K N O W L E D G E M E N T S
+We would like to thank Liz Dooley (ARI Group Managing Editor),
+Ruth Foxlee (former ARI Group Trials Search Co-ordinator) and
+Sarah Thorning (current ARI Group Trials Search Co-ordinator) for
+their guidance and support. The authors also wish to thank the
+following people for commenting on the draf protocol: Claire
+Allen,  Leonard Bielory, Theresa Capriotti, Rick Shoemaker and
+Antonio Cunha and on the draf review: Max Pittler, Yuri Clement,
+Margarita Corry, Mark Jones and Paul Little. Peter Josling, Abed
+Burgos Arias and Susan Percival assisted the review authors
+by providing additional information about their studies. Finally,
+we wish to thank Oleg Borisenko for his help with translating
+Russian language articles and Ludovic Reveiz and Elaine Beller for
+their expertise in translating the Spanish trial.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Josling 2001 {published data only}
+Josling P. Preventing the common cold with a garlic
+supplement: a double-blind, placebo-controlled survey.
+Advances in Therapy 2001;18(4):189-93.
+ 
+References to studies excluded from this review
+Andrianova 2003 {published data only}
+Andrianova IV, Sobenin IA, Sereda EV, Borodina LI,
+Studenikin MI. Eﬀect of long-acting garlic tablets "Allicor" on
+the incidence of acute respiratory viral infections in children.
+Terapevticheskii Arkhiv 2003;75(3):53-6.
+Hiltunen 2007 {published data only}
+Hiltunen R, Josling PD, James MH. Preventing airborne
+infection with an intranasal cellulose powder formulation
+(Nasaleze travel). Advances in Therapy 2007;24(5):1146-53.
+Nantz 2012 {published data only}
+Nantz MP, Rowe CA, Muller CE, Creasy RA, Stanilka JM,
+Percival SS. Supplementation with aged garlic extract improves
+both NK and γδ-T cell function and reduces the severity
+of cold and flu symptoms: a randomized, double-blind,
+placebo-controlled nutrition intervention. Clinical Nutrition
+2012;31(3):337-44.
+Polanco-Rojas 2013 {published data only}
+Polanco-Rojas AD, Burgos-Arias AN. Qualitative study of
+the eﬀect on consumption of the mother tincture of Allium
+sativum (garlic) in the lysozyme concentration and total
+protein in children under 6 years old with acute respiratory
+infection in the Hualqui Medic's oﬀice, VIII Region of Chile.
+Latinoamericano y del Caribe de Plantas Medicinales y
+Aromáticas 2013;12(3):294-301.
+Rafinski 1974 {published data only}
+Rafinski T, Alkiewicz J, Wrocinski T, Jezowa L. Clinical studies
+on the use of garlic extract Alliofil in pediatrics. Polski Tygodnik
+Lekarski 1974;29(37):1595-7.
+Ushirotake 2004 {published data only}
+Ushirotake T, Ushirotake A, Suzuki M, Shimizu A, Shiratori T,
+Uematsu K et al. Epidemiological investigation for common cold
+preventive eﬀect of Kyoleopin and Leopin Five. Clinical Drug and
+Pharmacology 2004;20(7):785-93.
+Yakoot 2011 {published data only}
+Yakoot M, Salem A. Eﬀicacy and safety of a multiherbal formula
+with vitamin C and zinc (Immumax) in the management of
+the common cold. International Journal of General Medicine
+2011;4:45-51.
+ 
+Additional references
+AHRQ 2000
+Agency for Healthcare Research and Quality. Garlic: eﬀects on
+cardiovascular risks and disease, protective eﬀects against
+cancer, and clinical adverse eﬀects. Evidence report/technology
+assessment: Number 20. In: AHRQ Publication No. 01-E022
+(http://www.ahrq.gov/clinic/epcsums/garlicsum.htm).
+Rockville, MD: Agency for Healthcare Research and Quality, 2000
+(accessed 6 June 2006).
+Ankri 1999
+Ankri S, Mirelman D. Antimicrobial properties of allicin from
+garlic. Microbes and Infection 1999;1:125-9.
+Barnes 2004
+Barnes PM, Powell-Griner E, McFann K, Nahin RL.
+Complementary and alternative medicine use among adults:
+United States, 2002. Advance Data 2004;343:1-19.
+Cavallito 1944
+Cavallito CJ, Bailey JH. Allicin, the antibacterial principle
+of allium sativum. I. isolation, physical properties and
+antibacterial action. Journal of the American Chemical Society
+1944;66:1950-1.
+Fendrick 2003
+Fendrick AM, Monto AS, Nightengale B, Sarnes M. The economic
+burden of non-influenza-related viral respiratory tract
+infection in the United States. Archives of Internal Medicine
+2003;163:487-94.
+Fugh-Berman 2000
+Fugh-Berman A. Herb-drug interactions. Lancet 2000;355:134-8.
+Harris 2000
+Harris P, Rees R. The prevalence of complementary and
+alternative medicine use among the general population: a
+systematic review of the literature. Complementary Therapies in
+Medicine 2000;8:88-96.
+Heikkinen 2003
+Heikkinen T, Järvinen A. The common cold. Lancet
+2003;361:51-9.
+Hemilä 2013
+Hemilä H, Chalker E. Vitamin C for preventing and
+treating the common cold. Cochrane Database of
+Systematic Reviews 2013, Issue 1. Art. No: CD000980. [DOI:
+10.1002/14651858.CD000980.pub4]
+Higgins 2011
+Higgins JPT, Green S (editors). Cochrane Handbook for
+Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. The Cochrane Collaboration, 2011. Available from
+www.cochrane-handbook.org.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Karsch-Völk 2014
+Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-
+Woelkart K, Linde K. Echinacea for preventing and
+treating the common cold. Cochrane Database of
+Systematic Reviews 2014, Issue 2. Art. No: CD000530. [DOI:
+10.1002/14651858.CD000530.pub3]
+Kyo 2001
+Kyo E, Uda N, Kasuga S, Itakura Y. Immunomodulatory eﬀects
+of aged garlic extract. Journal of Nutrition 2001;131(Suppl
+3):1075-9.
+Lawson 2001
+Lawson LD, Wang ZJ, Papadimitriou D. Allicin release under
+simulated gastrointestinal conditions from garlic powder
+tablets employed in clinical trials on serum cholesterol. Planta
+Medica 2001;67(1):13-8.
+MacLennan 2006
+MacLennan A, Myers S, Taylor A. The continuing use of
+complementary and alternative medicine in South Australia:
+costs and beliefs in 2004. Medical Journal of Australia
+2006;184:27-31.
+Miller 2000
+Miller LG, Hume A, Harris IM, Jackson EA, Kanmaz TJ, Cauﬀield
+JS et al. White paper on herbal products. Pharmacotherapy
+2000;20(7):877-91.
+Naganawa 1996
+Naganawa R, Iwata N, Ishikawa K, Fukuda H, Fujino T, Suzuki A.
+Inhibition of microbial growth by ajoene, a sulfur-containing
+compound derived from garlic. Applied and Environmental
+Microbiology 1996;62(11):4238-42.
+NCCAM 2006
+National Center for Complementary and Alternative Medicine.
+Garlic: herbs at a glance. http://nccam.nih.gov/health/garlic/
+2006 (accessed 7 June 2006).
+RevMan 2014 [Computer program]
+Review Manager (RevMan). Version 5.3. Copenhagen: The
+Nordic Cochrane Centre, The Cochrane Collaboration, 2014.
+Rivlin 2001
+Rivlin RS. Historical perspective on the use of garlic. Journal of
+Nutrition 2001;131(Suppl 3):951-4.
+Ruddock 2005
+Ruddock PS, Liao M, Foster BC, Lawson L, Arnason JT, Dillon JA
+et al. Garlic natural health products exhibit variable constituent
+levels and antimicrobial activity against Neisseria gonorrhoeae,
+Staphylococcus aureus and Enterococcus faecalis. Phytotherapy
+Research 2005;19:327-34.
+Silagy 1994
+Silagy CA, Neil HA. A meta-analysis of the eﬀect of garlic on
+blood pressure. Journal of Hypertension 1994;12:463-8.
+Singh 2013
+Singh M, Singh M. Heated, humidified air for the common cold.
+Cochrane Database of Systematic Reviews 2013, Issue 6. Art. No:
+CD001728. [DOI: 10.1002/14651858.CD001728.pub5]
+Staba 2001
+Staba EJ, Lash L, Staba JE. A commentary on the eﬀects of garlic
+extraction and formulation on product composition. Journal of
+Nutrition 2001;131(Suppl 3):1118-9.
+Tapsell 2006
+Tapsell LC, Hemphill I, Cobiac L, Patch CS, Sullivan DR, Fenech M
+et al. Health benefits of herbs and spices: the past, the present,
+the future. Medical Journal of Australia 2006;185(Suppl 4):4-24.
+Weber 1992
+Weber ND, Anderson DO, North JA, Murray BK, Lawson LD,
+Hughes BG. In vitro virucidal eﬀects of Allium sativum (garlic)
+extract and compounds. Planta Medica 1992;58(5):417-23.
+WHO 1999
+World Health Organization and International Conference of
+Drug Regulatory Authorities. WHO Monographs on Selected
+Medicinal Plants. World Health Organization, 1999.
+Zhang 2008
+Zhang AL, Story DF, Lin V, Vitetta L, Xue CC. A population
+survey on the use of 24 common medicinal herbs in Australia.
+Pharmacoepidemiology and Drug Safety 2008;17:1006-13.
+ 
+References to other published versions of this review
+Lissiman 2009
+Lissiman E, Bhasale AL, Cohen M. Garlic for the common cold.
+Cochrane Database of Systematic Reviews 2009, Issue 3. Art. No:
+CD006206. [DOI: 10.1002/14651858.CD006206.pub2]
+Lissiman 2012
+Lissiman E, Bhasale AL, Cohen M. Garlic for the common cold.
+Cochrane Database of Systematic Reviews 2012, Issue 3. Art. No:
+CD006206. [DOI: 10.1002/14651858.CD006206.pub3]
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Study characteristics
+Josling 2001 
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Methods
+Participants randomly assigned to intervention and control groups, matched for age, sex and previous
+use of a garlic supplement.
+Participants
+146 participants, recruited voluntarily via newspaper advertisements.
+Interventions
+1 allicin-containing garlic capsule (dose unspecified) capsule per day with the main meal; or placebo
+Outcomes
+Primary outcome: number of occurrences of the common cold in 3-month period.
+Secondary outcomes: cold duration (number of days), the number of days 'challenged' and the number
+of days to recovery.
+Notes
+We contacted the study author to query how well garlic could be blinded to participants because of its
+strong smell. He replied that the tablets used had no odour with daily use. Asked how the groups were
+matched if they were randomly allocated, he replied that patients were "matched with a standard pro-
+tocol rejecting same sex volunteers after the maximum number was reached. Age was included in the
+admission protocol so volunteers over 70 were rejected as were those under 20 years old." We took this
+to mean that the total sample recruited was balanced according to age, sex and previous garlic use and
+then randomly allocated.
+Although the study author reported that he had no conflict of interest, we note that he was employed
+by a garlic supplement company at the time of the study.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+A random number generator assigned volunteers to the active or placebo
+group
+Allocation concealment
+(selection bias)
+Low risk
+Randomisation codes were kept secure and were not broken until all the di-
+aries had been returned
+Blinding (performance
+bias and detection bias)
+All outcomes
+High risk
+5 participants (4 active, 1 placebo) noticed a 'smell' when burping. This sug-
+gests that blinding of participants may not have been adequate
+Incomplete outcome data
+(attrition bias)
+All outcomes
+Low risk
+4 participants withdrew from the study: 3 from the active group, 1 from the
+placebo group
+Selective reporting (re-
+porting bias)
+Unclear risk
+There was no evidence of selective reporting of outcomes. However, the sta-
+tistical analysis and primary outcomes do not appear to have been decided in
+advance
+Other bias
+Low risk
+—
+Josling 2001  (Continued)
+Exclusion criteria and basis for selection not stated, which may introduce bias and reduces generalisability. Co-morbidity and concurrent
+illnesses or medications were not reported.
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Andrianova 2003
+Randomisation method not defined; illness definition did not meet pre-specified criteria (included
+influenza).
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study
+Reason for exclusion
+Hiltunen 2007
+Outcome did not meet pre-defined criteria of common cold. The comparator (intranasal cellulose
+powder) did not meet the criteria for either placebo or standard treatment.
+Nantz 2012
+Randomised controlled trial. Illness definition did not meet pre-specified criteria (included influen-
+za)
+Polanco-Rojas 2013
+Observational study. Not randomised or placebo-controlled.
+Rafinski 1974
+Observational study. Not randomised or placebo-controlled; illness definition did not meet pre-
+specified criteria (that is, recurrent upper respiratory tract infections).
+Ushirotake 2004
+Retrospective study. Not randomised or placebo-controlled.
+Yakoot 2011
+Randomised controlled trial. Intervention did not meet inclusion criteria (garlic not the single ac-
+tive ingredient) and illness definition did not meet inclusion criteria (participants with myalgia and
+fever were included).
+ 
+ 
+A P P E N D I C E S
+Appendix 1. Previous search strategy
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2011, Issue 4), part of The Cochrane Library,
+www.thecochranelibrary.com (accessed 9 December 2011), which includes the Cochrane Acute Respiratory Infections Group Specialised
+Register, MEDLINE (February 2009 to November week 3, 2011), EMBASE (March 2009 to December 2011) and AMED (March 2009 to December
+2011).
+Previously we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 1), which includes
+the Cochrane Acute Respiratory Infections Group Specialised Register, OLDMEDLINE (1950 to 1965), MEDLINE (January 1966 to March Week
+3, 2009), EMBASE (1974 to March 2009) and AMED (1985 to March 2009).
+The following search terms were used to search MEDLINE. These terms were modified to search CENTRAL, EMBASE and AMED as required.
+MEDLINE (OVID)
+1 exp Garlic/
+2 garlic.mp.
+3 exp Allium/
+4 allium.mp.
+5 allicor.mp.
+6 allicin.mp.
+7 or/1-6
+8 exp Common Cold/
+9 common cold$.mp.
+10 coryza.mp.
+11 acute nasopharyngitis.mp.
+12 exp Rhinovirus/
+13 rhinovirus infection$.mp.
+14 exp Adenoviridae/
+15 adenovirus$.mp.
+16 exp Respiratory Syncytial Viruses/
+17 exp Respiratory Syncytial Virus Infections/
+18 (respiratory syncytial virus$ or RSV).mp.
+19 exp Coronavirus/
+20 exp Coronavirus Infections/
+21 coronavirus$.mp.
+22 exp Respiratory Tract Infections/
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+23 respiratory tract infection$.mp.
+24 respiratory infection$.mp.
+25 or/8-24
+26 7 and 25
+EMBASE.com
+#1.  'garlic'/exp AND [embase]/lim
+#2.  garlic:ti,ab AND [embase]/lim  
+#3.  'allicin'/exp AND [embase]/lim   
+#4.  (allium:ti,ab OR allicor:ti,ab OR allicin:ti,ab) AND [embase]/lim   
+#5.  #1 OR #2 OR #3 OR #4       
+#6.  'common cold'/exp AND [embase]/lim  
+#7.  'common cold':ti,ab OR 'common colds':ti,ab AND [embase]/lim   
+#8.  coryza:ti,ab AND [embase]/lim 
+#9.  'acute nasopharyngitis':ti,ab AND [embase]/lim    
+#10. 'rhinovirus'/exp AND [embase]/lim    
+#11. 'rhinovirus infection':ti,ab OR 'rhinovirus infections':ti,ab AND [embase]/lim   
+#12. 'adenovirus'/exp AND [embase]/lim   
+#13. adenovirus*:ti,ab AND [embase]/lim  
+#14. 'respiratory syncytial pneumovirus'/exp AND [embase]/lim   
+#15. 'respiratory syncytial virus':ti,ab OR 'respiratory syncytial viruses':ti,ab OR rsv:ti,ab AND [embase]/lim 
+#16. 'coronavirus'/exp AND [embase]/lim     
+#17. coronavirus*:ti,ab AND [embase]/lim  
+#18. 'respiratory tract infection'/exp AND [embase]/lim 
+#19. 'respiratory tract infections':ti,ab OR 'respiratory tract infection':ti,ab AND [embase]/lim 
+#20. 'respiratory infections':ti,ab OR 'respiratory infection':ti,ab AND [embase]/lim   
+#21. #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 
+#22. #5 AND #21 
+AMED (Ovid) search strategy
+1  allium sativum/
+2  (garlic or allium or allicor or allicin).mp. [mp=abstract, heading words, title]
+3  1 or 2
+4  common cold/
+5  common cold*.mp.
+6  coryza.mp.
+7  acute nasopharyngitis.mp.
+8  rhinovirus.mp.
+9  adenovirus*.mp.
+10 respiratory syncytial virus*.mp.
+11 rsv.mp.
+12 coronavirus*.mp.
+13 exp respiratory tract infections/
+14 respiratory tract infection*.mp.
+15 respiratory infection*.mp.
+16 or/4-15
+17 3 and 16
+Appendix 2. Embase.com search strategy
+#20. #14 AND #19
+#19. #15 OR #16 OR #17 OR #18
+#18. allium*:ab,ti OR allicor*:ab,ti OR allicin*:ab,ti
+#17. 'allicin'/de
+#16. garlic*:ab,ti
+#15. 'garlic'/exp OR 'garlic extract'/de OR 'garlic oil'/de
+#14. #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13
+#13. 'upper respiratory tract infection':ab,ti OR 'upper respiratory infection':ab,ti
+#12. 'upper respiratory tract infection'/de OR 'viral upper respiratory tract infection'/de OR 'nose infection'/de
+#11. (coronavir* NEAR/2 infect*):ab,ti
+#10. 'coronavirus infection'/de OR 'coronavirus'/de
+#9. 'respiratory syncytial virus':ab,ti OR 'respiratory syncytial viruses':ab,ti OR rsv:ab,ti
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+#8. 'respiratory syncytial pneumovirus'/de OR 'respiratory syncytial virus infection'/de
+#7. (adenovir* NEAR/2 infect*):ab,ti
+#6. 'human adenovirus infection'/de OR 'adenovirus infection'/de
+#5. (infect* NEAR/2 rhinovir*):ab,ti
+#4. 'human rhinovirus'/de OR 'rhinovirus infection'/de
+#3. ((nasopharyngit* OR rhinopharyngit*) NEAR/2 acute):ab,ti
+#2. 'common cold':ab,ti OR 'common colds':ab,ti OR coryza:ab,ti
+#1. 'common cold'/exp
+Appendix 3. AMED search strategy
+1 common cold/
+2 common cold*.tw.
+3 coryza.tw.
+4 ((nasopharyngit* or rhinopharyngit*) adj3 acute).tw.
+5 rhinovir*.tw.
+6 adenovir*.tw.
+7 (respiratory syncytial virus* or rsv).tw.
+8 coronavir*.tw.
+9 exp respiratory tract infections/
+10 (respiratory tract infection* or respiratory infect*).tw.
+11 or/1-10
+12 exp allium/ or allium sativum/
+13 allium*.tw.
+14 garlic*.tw.
+15 allicor*.tw.
+16 allicin*.tw.
+17 or/12-16
+18 11 and 17
+Appendix 4. MEDLINE (Ovid) search strategy
+MEDLINE (OVID)
+1 Common Cold/
+2 common cold*.tw.
+3 coryza.tw.
+4 (acute adj2 (nasopharyngit* or rhinopharyngit*)).tw.
+5 Rhinovirus/
+6 (rhinovir* adj2 infect*).tw.
+7 adenoviridae/ or adenoviruses, human/
+8 Adenovirus Infections, Human/
+9 respiratory syncytial viruses/ or respiratory syncytial virus, human/
+10 Respiratory Syncytial Virus Infections/
+11 (respiratory syncytial virus* or rsv).tw.
+12 coronavirus/ or coronavirus 229e, human/ or coronavirus nl63, human/ or coronavirus oc43, human/
+13 Coronavirus Infections/
+14 coronavir*.tw.
+15 exp Respiratory Tract Infections/
+16 (respiratory tract infection* or respiratory infection*).tw.
+17 or/1-16
+18 Garlic/
+19 garlic*.tw.
+20 exp Allium/
+21 (allium* or allicor* or allicin*).tw.
+22 or/18-21
+23 17 and 22
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+F E E D B A C K
+Garlic and the common cold, 10 July 2009
+Summary
+The plain language summary is erratic and therefore misleading as it states that "...(on average individuals taking garlic had colds lasting
+1.52 days while those taking placebo had colds lasting 5.01 days)..."
+In the review it is, more correctly, calculated that "..the number of days to recovery was similar in both groups (4.63 vs. 5.63 days).."
+The plain language text is probably to be quoted in the common press, journalists being not-so-thorough readers.
+Frans Nuijten
+Submitter agrees with default conflict of interest statement:
+I certify that I have no aﬀiliations with or involvement in any organization or entity with a financial interest in the subject matter of my
+feedback.
+Reply
+Dear Frans Nuijten,
+Many thanks for your perceptive and helpful comments. We agree that the reporting of results in the Plain Language Summary is confusing
+and will clarify this in our next update.
+As you recognised:
+The total number of days of illness in the garlic group was 111, compared to 366 in the placebo group. However when participants
+experienced a cold, the length of illness was similar in both groups (4.63 vs 5.63). The trial authors also reported 'average days of
+illness' (total number of days of illness / number of colds): 1.52 vs 5.01 days. This significant diﬀerence is evidently derived from including
+participants with 0 days of illness (i.e. no cold), of which there were more in the garlic group (number of colds 24 vs 65). This is misleading;
+the more relevant result is the number of days of illness when a cold is present (4.63 vs 5.63).
+Many thanks
+Contributors
+Elizabeth Lissiman
+Alice Bhasale
+Marc Cohen
+Garlic for the common cold, 2 August 2015
+Summary
+In the abstract of the review it states 'The number of days to recovery from an occurrence of the common cold was similar in both groups
+(4.63 versus 5.63).'
+however, in the abstract of the text itself (Advances in Therapy) it states 'The placebo group, in contrast, recorded significantly more days
+challenged virally (366 vs 111,P < .05) and a significantly longer duration of symptoms (5.01 vs 1.52 days,P < .001)'
+Stephanie Stacey
+I agree with the conflict of interest statement below:
+I certify that I have no aﬀiliations with or involvement in any organization or entity with a financial interest in the subject matter of my
+feedback.
+Reply
+Thank-you for your comments, Stephanie Stacey. The Cochrane review looked at prevention and treatment as separate outcomes. The
+Josling study (published in Advances in Therapy) looked at a number of diﬀerent measures of outcome, including the number of days of
+cold symptoms in total. In Josling's study, 73 participants were each randomly allocated to either the placebo group or the garlic group.
+The placebo group experienced a greater number of colds (65) compared to the garlic group (24). Because the placebo group experienced
+more colds altogether, they were, on average, virally challenged for a greater number of days (366 days of infection / 73 people = 5.01),
+so the total number of days of cold symptoms was greater in this group. In contrast, the garlic group were, on average, unwell for fewer
+total days (111 days of infection / 73 people = 1.52). This study suggested that the garlic supplement may help to prevent a common cold.
+However, if the participant did contract a common cold, the number of days to recovery was similar (4.63 in the garlic group vs. 5.63 in the
+placebo group). Hence garlic appears to be ineﬀective for treating a common cold.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Contributors
+Elizabeth Lissiman
+Alice Bhasale
+W H A T ' S   N E W
+ 
+Date
+Event
+Description
+10 August 2020
+Amended
+Active intervention description changed to "allicin-containing
+garlic capsule (dose unspecified)". Previous correspondence
+with the study author was not clear enough to confirm the exact
+product or dose that was used. We have been unable to clarify
+this in recent times. 
+Added Note to the 'Characteristics of included studies' table re-
+garding the study author's employment. We have recently been
+made aware that he was employed by a garlic supplement com-
+pany at the time of conducting the study.
+ 
+H I S T O R Y
+Protocol first published: Issue 4, 2006
+Review first published: Issue 3, 2009
+ 
+Date
+Event
+Description
+13 August 2015
+Feedback has been incorporated
+Feedback comment and reply added to the review.
+7 August 2014
+New citation required but conclusions
+have not changed
+Our conclusions remain unchanged.
+7 August 2014
+New search has been performed
+Searches updated. No new trials were included and two trials
+were excluded (Nantz 2012; Polanco-Rojas 2013).
+9 December 2011
+New search has been performed
+Searches updated. No new trials were included and one trial was
+excluded (Yakoot 2011).
+9 December 2011
+New citation required but conclusions
+have not changed
+The conclusions of our review remain unchanged.
+26 July 2009
+Feedback has been incorporated
+Clarification in Plain language summary, Results (Summary) and
+Results (Main document).
+9 July 2008
+Amended
+Converted to new review format.
+ 
+C O N T R I B U T I O N S   O F   A U T H O R S
+Alice Bhasale (AB) and Elizabeth Lissiman (EL) were responsible for searching for studies, data extraction and analysis and writing and
+editing the review.
+Marc Cohen (MC) provided expert advice and guidance on the final drafs of the review.
+D E C L A R A T I O N S   O F   I N T E R E S T
+Elizabeth Lissiman: none known.
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Alice Bhasale: support was received for professional development to learn Cochrane methodology, but not to conduct this particular
+review.
+Marc Cohen: none known.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Antiviral Agents  [adverse eﬀects]  [*therapeutic use];  Common Cold  [*drug therapy]  [prevention & control];  Disulfides;  Exanthema
+ [chemically induced];  Garlic  [adverse eﬀects];  Humans;  Odorants;  Phytotherapy  [adverse eﬀects]  [*methods];  Plant Extracts
+ [adverse eﬀects]  [*therapeutic use];  Randomized Controlled Trials as Topic;  Sulfinic Acids  [*therapeutic use]
+Garlic for the common cold (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18

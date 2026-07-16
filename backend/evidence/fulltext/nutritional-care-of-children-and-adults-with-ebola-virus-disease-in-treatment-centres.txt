@@ -1,0 +1,121 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Nutritional care of
+children and adults
+with Ebola virus
+disease in treatment
+centres
+Intervention | Last updated: 9 August 2023
+Ebola virus disease (EVD), formerly known as Ebola haemorrhagic fever, is an acute
+infection caused by the Ebola virus. EVD starts with a flu-like syndrome, fever and
+profound weakness which may initially appear 2 to 21 days after exposure to the virus.
+Symptoms of EVD, including a lack of appetite, sore throat, and difficulty in swallowing
+and breathing, have a direct or indirect impact on nutrition. Vomiting, along with
+
+[page 2]
+diarrhoea, causes additional nutritional stress through rapid loss of electrolytes,
+protein, other essential nutrients and fluid.
+EVD patients may have varied nutritional priorities, depending on the stage of the
+illness and the individual patient’s underlying nutritional status. It is unclear whether
+preceding nutritional status contributes directly to the outcome of the disease.
+Currently, it is unknown whether nutritional support contributes to patients’ survival.
+The Ebola virus is present in breast milk and cases of infants of breastfeeding mothers
+contracting EVD have been noted. However, the transmission mechanism (whether via
+pregnancy and delivery, breast milk or the close contact with the mother with Ebola,
+which might include contact with other body fluids) is not clear.
+The 2014 WHO interim guideline lays out some basic principles of optimal nutritional
+care for adults and paediatric patients during treatment and convalescence in Ebola
+treatment units, community care centres or other centres where Ebola patients are
+receiving care and support. Further guidance on breastfeeding can be found in the
+2016 pocket guide.
+WHO Recommendations
+Breastfeeding
+Breastfeeding should be stopped if acute EVD is suspected or confirmed in lactating
+women or in a breastfeeding child. The child should be separated from the
+breastfeeding woman and provided a breastmilk substitute as needed.
+Children without confirmed Ebola virus (EBOV) infection who are exposed to breastmilk
+of women with confirmed EVD should be considered contacts. The child should stop
+breastfeeding, be given a breastmilk substitute as needed, and undergo close
+monitoring for signs and symptoms of EVD for 21 days. Post-exposure prophylaxis for
+EVD can be considered for children exposed to breastmilk of women infected with EBOV
+on a case-by-case basis and in accordance with existing research protocols.
+If a breastfeeding woman and her child are both diagnosed with EVD, breastfeeding
+should be discontinued, the pair should be separated, and appropriate breastmilk
+substitutes provided. However, if the child is under six months of age and no safe and
+appropriate breastmilk substitutes are available, or the child cannot be adequately
+cared for, then the option to not separate and continue breastfeeding may be
+considered.
+A woman who has recovered from EVD, cleared viremia and wants to continue
+breastfeeding should wait until after two consecutive negative EBOV breastmilk tests by
+RT-PCR, separated by 24 hours. During this time, the child should be given a breastmilk
+substitute.
+
+[page 3]
+Provision of food
+Until further evidence is available, patients should be provided with a minimum of the
+recommended daily allowance for each nutrient.
+During convalescence, patients should be encouraged to eat as much as they can.
+General management, diet and feeding of children and adults with Ebola virus
+disease
+Patients should be provided with food if they are conscious and can swallow.
+The nutritional needs and approach to nutritional care in any individual will be
+determined by the patient’s preceding nutritional status, severity of illness and age.
+Learn More 
+Guidelines and guidance documents
+Guidelines for the management of pregnant and breastfeeding women
+in the context of Ebola virus disease
+Clinical management of patients with viral haemorrhagic fever: A
+pocket guide for front-line health workers
+Interim guideline: nutritional care of children and adults with Ebola
+virus disease in treatment centres: key recommendations
+GRC-approved guidelines
+Other guidance documents
+
+[page 4]
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+Pocket book of hospital care for children: Second edition
+Communicable diseases and severe food shortage
+Infant feeding in the context of Ebola: updated guidance (external link)
+Evidence
+Systematic reviews used to develop the guidelines
+Additional supporting reviews
+(for Guideline: Updates on the management of severe acute malnutrition in infants and children)
+The effectiveness of interventions to treat severe acute malnutrition in young children: a
+systematic review
+Picot J, Hartwell D , Harris P, Mendes D, Clegg AJ, and Takeda A. Health Technology Assessment. 2012;
+Vol.16:No.19(for Guideline: Updates on the management of severe acute malnutrition in infants and
+children).
+
+[page 5]
+WHO interim guidelines/guidance are
+developed during health emergencies,
+based on currently available evidence;
+however, it may not go through the
+GRC process, given the urgency with
+which the guidance is needed
+Learn More 
+Category 2 intervention
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+Privacy policy
+© 2026 WHO

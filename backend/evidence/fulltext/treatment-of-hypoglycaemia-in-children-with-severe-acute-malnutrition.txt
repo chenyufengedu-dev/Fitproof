@@ -1,0 +1,112 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Treatment of
+hypoglycaemia in
+children with severe
+acute malnutrition
+Intervention | Last updated: 9 August 2023
+In children who are 6–59 months of age, severe acute malnutrition is defined by a very
+low weight-for-height/weight-for-length, or clinical signs of bilateral pitting oedema, or
+a very low mid-upper arm circumference. Severe acute malnutrition affects an
+estimated 19 million children under 5 years of age worldwide and is estimated to
+account for approximately 400,000 child deaths each year.
+All severely malnourished children are at risk of developing hypoglycaemia – or low
+blood sugar – which can rapidly lead to death if not treated. Hypoglycaemia may be
+
+[page 2]
+caused by a serious systemic infection or can occur when a malnourished child has not
+been fed for 4–6 hours.
+The treatment or prevention of hypoglycaemia and hypothermia should be included in
+the initial treatment a severely malnourished child receives when first admitted to
+hospital.
+WHO Recommendations
+All severely malnourished children are at risk of hypoglycaemia and, immediately on
+admission, should be given a feed, or glucose or sucrose solution.
+If the child is conscious and able to drink, glucose or sucrose should be given orally or
+by nasogastric tube followed by small and frequent feedings with F-75 therapeutic milk.
+If the child is unconscious, glucose should be given intravenously, or glucose or sucrose
+by nasogastric tube. When the child regains consciousness, small and frequent feedings
+with F-75 therapeutic milk should be started.
+All malnourished children with suspected hypoglycaemia should also be treated with
+broad-spectrum antimicrobials for serious systemic infection.
+Learn More 
+Guidelines and guidance documents
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+Pocket book of hospital care for children: Second edition
+GRC-approved guidelines
+Other guidance documents
+
+[page 3]
+Management of severe malnutrition: a manual for physicians and other
+senior health workers
+Evidence
+No systematic reviews identified
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+The analyses listed below were conducted to assess the overall cost-effectiveness of
+inpatient and/or outpatient management of SAM, of which the intervention listed on
+this webpage is a component. The analyses do not assess the cost-effectiveness of this
+specific intervention alone.
+Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat
+severe acute malnutrition in Ethiopia
+Tekeste A, Wondafrash M, Azene G, Deribe K.<br>\r\nCost Eff Resour Alloc. 2012; 10:4.
+Cost effectiveness of a community based prevention and treatment of acute malnutrition
+programme in Mumbai slums, India
+Goudet S, Jayaraman A, Chanani S, Osrin D, Devleesschauwer B, Bogin B, et al.<br>\r\nPLoS One. 2018;
+13(11):e0205688.\r\n
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K.<br>\r\nHealth Policy Plan. 1998; 13(3):249-62.\r\n
+Costs, cost-effectiveness and financial sustainability of community-based management of
+acute malnutrition in northern Nigeria
+Frankel S, Roland M, Makinen M.<br>\r\nWashington DC: Results for Development Institute; 2015.\r\n
+Economic Cost of Community-Based Management of Severe Acute Malnutrition in a Rural
+District in Ghana
+
+[page 4]
+Abdul-Latif A-M C, Nonvignon J.<br>\r\nHealth. 2014; 6: 886-899.\r\n
+Cost-effectiveness of the community-based management of severe acute malnutrition by
+community health workers in southern Bangladesh
+Puett C, Sadler K, Alderman H, Coates J, Fiedler JL, Myatt M.<br>\r\nHealth Policy Plan. 2013; 28(4):386-99.
+Cost-effectiveness of community-based management of acute malnutrition in Malawi
+Wilford R, Golden K, Walker DG.<br>\r\nHealth Policy Plan. 2012; 27(2):127-37.\r\n
+Cost effectiveness of community-based therapeutic care for children with severe acute
+malnutrition in Zambia: decision tree model
+Bachmann MO.<br>\r\nCost Eff Resour Alloc. 2009 Jan; 7:2.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is a component of
+managing children with SAM, which is
+an Essential Nutrition Action targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+
+[page 5]
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+Privacy policy
+© 2026 WHO

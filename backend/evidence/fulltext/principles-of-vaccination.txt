@@ -1,0 +1,169 @@
+
+
+[page 1]
+Chapter 1: Principles of Vaccination
+AT A GLANCE
+Chapter author: A. Patricia Wodi, MD and Valerie Morelli, BA
+Summary: This chapter discusses general concepts and principles of vaccination and immunity. Note: The 14th edition of the “Pink Book”
+was published August 2021. Vaccine-specific recommendations may be outdated.
+Immunology and Vaccine-Preventable Diseases
+To understand how vaccines work and the foundation of recommendations for their use, it is helpful to understand the basic function of the
+human immune system. The following description is simplified; many excellent immunology textbooks provide additional detail.
+Immunity is the ability of the human body to tolerate the presence of material indigenous to the body and to eliminate foreign substances. This
+discriminatory ability to eliminate foreign substances is performed by a complex system of interacting cells called the immune system. Since
+most organisms (e.g., bacteria, viruses, and fungi) are identified as foreign, the ability to identify and eliminate these substances provides
+protection from infectious diseases. Immunity is generally specific to a single organism or group of closely related organisms.
+The immune system develops a defense against antigens, which are substances that can stimulate the immune system. This defense is known as
+the immune response and usually involves the production of:
+Protein molecules (immunoglobulins or antibodies, the major component of humoral immunity) by B-lymphocytes (B-cells)
+Specific cells, including T-lymphocytes (also known as cell-mediated immunity)
+The most effective immune responses are generally produced in response to antigens present in a live organism. However, an antigen does not
+necessarily have to be present in a live organism to produce an immune response. Some antigens, such as hepatitis B surface antigen, are easily
+recognized by the immune system and produce adequate protection even if they are not carried on the live hepatitis B virus. Other materials are
+less effective antigens, and the immune response they produce may not provide good protection.
+Types of Immunity
+There are two basic mechanisms for acquiring immunity: passive and active.
+Passive immunity is protection by antibody or antitoxin produced by one animal or human and transferred to another. Passive immunity
+provides immediate protection against infection, but that protection is temporary. The antibodies will degrade during a period of weeks to
+months, and the recipient will no longer be protected.
+The most common form of passive immunity is that which an infant receives from the mother. Antibodies, specifically the class of
+antibody referred to as IgG, are transported across the placenta, primarily during the last 1 to 2 months of pregnancy. As a result, a full-
+term infant will have the same type of antibodies as the mother. These antibodies can protect the infant from certain diseases within the
+first few months after birth. Maternal antibodies provide better protection from some diseases (e.g., measles, rubella, tetanus) than from
+others (e.g., polio, pertussis).
+Passive immunity can also be acquired through the transfusion of blood products. Some blood products (e.g., washed or reconstituted red
+blood cells) contain a relatively small amount of antibody, while some (e.g., intravenous immune globulin and plasma products) contain a
+Expand All
+
+Passive Immunity
+
+For Health Care Providers
+MAR. 22, 2024
+Epidemiology and Prevention of Vaccine-Preventable Diseases
+
+[page 2]
+large amount.
+In addition to blood products used for transfusion, there are three other major sources of antibody used in human medicine. These are
+homologous pooled human antibody, homologous human hyperimmune globulin, and heterologous hyperimmune serum.
+Homologous pooled human antibody, also known as immune globulin, is produced by combining the antibody fraction, specifically the
+class of antibody referred to as IgG, from the blood of thousands of adult donors. Because it comes from many different donors, it contains
+antibody to many different antigens. It is used primarily for prophylaxis for hepatitis A and measles, and treatment of certain congenital
+immunoglobulin deficiencies.
+Homologous human hyperimmune globulins are antibody products that contain high titers of antibody targeting more specific antigens.
+These products are made from donated human plasma with high levels of the antibody of interest. Since hyperimmune globulins are from
+humans, they are primarily polyclonal, containing many types of antibodies in lesser quantities. Hyperimmune globulins are used for
+postexposure prophylaxis for several diseases, including hepatitis B, rabies, tetanus, and varicella.
+Heterologous hyperimmune serum, also known as antitoxin, is produced in animals, usually horses, and contains antibodies against only
+one antigen. In the United States, antitoxins are available for the treatment of botulism and diphtheria. These products can cause serum
+sickness, an immune reaction to the horse protein.
+Immune globulin products from human sources are primarily polyclonal; they contain many kinds of antibodies. Monoclonal antibody
+products have many applications, including the diagnosis of certain types of cancer (colorectal, prostate, ovarian, breast), treatment of
+cancer (B-cell chronic lymphocytic leukemia, non-Hodgkin lymphoma), prevention of transplant rejection, and treatment of autoimmune
+(Crohn's disease, rheumatoid arthritis) and infectious diseases.
+While certain antibody products, such as immune globulins, interfere with the immune response to live-virus vaccines, monoclonal
+antibody products do not because they are directed against one antigen or a closely related group of antigens. A monoclonal antibody
+product, palivizumab (Synagis), is available for the prevention of respiratory syncytial virus (RSV) infection. Since Synagis only contains
+RSV antibody, it will not interfere with the response to a live vaccine.
+Active immunity is protection produced by a person's own immune system. The immune system is stimulated by an antigen to produce
+antibody-mediated and cell-mediated immunity. Unlike passive immunity, which is temporary, active immunity usually lasts for many
+years, often for a lifetime.
+One way to acquire active immunity is to survive infection with the disease-causing form of the organism. In general, once persons recover
+from infectious diseases, they will have lifelong immunity to that disease (there are exceptions, e.g., malaria). The persistence of
+protection for many years after the infection is known as immunologic memory. Following exposure of the immune system to an antigen,
+certain memory B-cells continue to circulate in the blood and reside in the bone marrow for many years. Upon re-exposure to the antigen,
+these memory cells begin to replicate and produce antibody rapidly to reestablish protection.
+Another way to produce active immunity is by vaccination. Vaccines contain antigens that stimulate the immune system to produce an
+immune response that is often similar to that produced by the natural infection. With vaccination, however, the recipient is not subjected
+to the disease and its potential complications.
+Many factors may influence the immune response to vaccination. These include the presence of maternal antibody, the nature and dose of
+antigen, the route of administration, and the presence of an adjuvant (e.g., aluminum-containing material added to improve
+immunogenicity of the vaccine). Host factors, such as age, nutrition, genetics, and coexisting disease, may also affect the immune
+response. The more similar a vaccine is to the disease-causing form of the organism, the better the immune response to the vaccine.
+Classification of Vaccines
+There are two basic types of vaccines:
+1. Live, attenuated, and
+2. Inactivated. Their characteristics are different and determine how each type is used.
+Live vaccines are derived from "wild" viruses or bacteria. These wild viruses or bacteria are attenuated (weakened) in a laboratory, usually
+by repeated culturing. For example, the measles virus used as a vaccine today was isolated from a child with measles disease in 1954.
+Almost 10 years of serial passage using tissue culture media were required to transform the wild virus into the attenuated vaccine virus.
+Active Immunity
+
+Expand All
+
+Live, Attenuated Vaccines
+
+
+[page 3]
+To produce an immune response, live, attenuated vaccines must replicate in the vaccinated person. A relatively small dose of administered
+virus or bacteria replicates in the body and creates enough of the organism to stimulate an immune response.
+Although live, attenuated vaccines replicate, they usually do not cause disease such as that caused by the wild form of the organism.
+When a live, attenuated vaccine does cause disease, it is usually much milder than the natural disease and is considered an adverse
+reaction to the vaccine.
+The immune response to a live, attenuated vaccine is virtually identical to that produced by a natural infection because the immune
+system does not differentiate between an infection with a weakened vaccine virus and an infection with a wild virus. Injected live,
+attenuated vaccines produce immunity in most recipients with one dose. However, a small percentage of recipients do not respond to the
+first dose of an injected live, attenuated vaccine (such as measles, mumps, and rubella [MMR]) and a second dose is recommended to
+provide an extremely high level of immunity in the population. Orally administered live, attenuated vaccines require more than one dose
+to produce immunity.
+A live, attenuated vaccine may cause severe or fatal infections as a result of uncontrolled replication of the vaccine virus or bacteria.
+However, this only occurs in persons with a weakened immune system (e.g., from leukemia, treatment with certain drugs, or human
+immunodeficiency virus [HIV] infection).
+A live, attenuated vaccine virus could theoretically revert to its original pathogenic form. This is known to happen only with live (oral)
+polio vaccine, which is no longer available in the United States.
+Active immunity from a live, attenuated vaccine may not develop because of interference with the vaccine virus by circulating antibody.
+Antibody from any source (e.g., transplacental transfer to infants, transfusion of blood products) can interfere with replication of the
+vaccine organism and lead to poor response or no response to the vaccine (also known as vaccine failure).
+Live, attenuated vaccines are fragile and can be damaged or destroyed by heat and light. They must be stored and handled carefully. The
+live, attenuated viral vaccines currently available and routinely recommended in the United States are MMR, varicella, rotavirus, and
+influenza (intranasal). Other non-routinely recommended live vaccines include adenovirus vaccine (used by the military), typhoid vaccine
+(Ty21a), and Bacille Calmette-Guerin (BCG). BCG is not used as a vaccine in the United States, but as a treatment for bladder cancer.
+Inactivated vaccines are not live and cannot replicate. These vaccines cannot cause disease, even in an immunodeficient person.
+Inactivated antigens are less affected by circulating antibody than are live antigens, so they may be given when antibody is present in the
+blood (e.g., in infancy or following receipt of antibody-containing blood products).
+The immunity provided by inactivated vaccines is generally not as long-lasting as that obtained from live, attenuated vaccines. Multiple
+doses over time are needed to obtain ongoing immunity. In general, the first dose does not produce protective immunity, but "primes" the
+immune system. A protective immune response develops after the second or third dose. Unlike live vaccines, which produce an immune
+response that closely resembles natural infection, the immune response to an inactivated vaccine is mostly antibody production. Little or
+no cellular immunity results. Antibody titers against inactivated antigens diminish with time. As a result, some inactivated vaccines may
+require periodic supplemental doses to increase, or "boost," antibody titers.
+Inactivated vaccines include whole-cell inactivated vaccines (e.g., polio, hepatitis A, and rabies vaccines), subunit vaccines (e.g., influenza
+and pneumococcal vaccines), toxoids (e.g., diphtheria and tetanus toxoid), and recombinant vaccines (e.g., hepatitis B, human
+papillomavirus [HPV], and influenza [Flublok brand]).
+Whole-cell inactivated vaccines contain bacteria or viruses that have been killed through a physical or chemical process. Whole-cell
+inactivated viral vaccines against polio, hepatitis A, and rabies are available in the United States. A vaccine made from whole killed
+pertussis (whooping cough) bacteria is available outside the United States.
+Subunit vaccines contain a portion of the bacteria or virus. The portion of the organism selected is the part needed to produce a protective
+immune response. Antigens in subunit vaccines can be protein, polysaccharide, or a combination of polysaccharide and protein molecule
+(i.e., conjugate vaccine).
+Conjugate subunit vaccines (e.g., Haemophilus influenzae type b and pneumococcal conjugate vaccines) are produced by chemically
+attaching a polysaccharide from the surface of bacteria to a protein molecule through a process called conjugation. Conjugating a
+polysaccharide antigen to a protein molecule produces long-lasting protective immunity to the polysaccharide antigen.
+The immune response to a pure polysaccharide vaccine is typically T-cell-independent, which means these vaccines can stimulate B-cells
+without the assistance of T-helper cells. T-cell-independent antigens, including polysaccharide vaccines, are not consistently
+immunogenic in children younger than age 2 years, probably because of immaturity of the immune system. Attaching the polysaccharide
+antigen to a protein makes it possible to prevent bacterial infections in populations where a polysaccharide vaccine is not effective or
+provides only temporary protection.
+Toxoid vaccines are made using inactivated toxins produced by bacteria. These protein-based toxins are inactivated using heat, chemicals,
+or other methods. Some bacteria (e.g., tetanus, diphtheria) cause disease by producing toxins. The ability of the immune system to
+recognize and eliminate these toxins provides protection from the disease.
+Inactivated Vaccines
+
+
+[page 4]
+Recombinant vaccines are produced by recombinant DNA technology. Recombinant DNA technology enables the combination of DNA
+from two or more sources. Hepatitis B, human papillomavirus (HPV), and influenza (Flublok brand) vaccines are produced by insertion of a
+segment of the respective viral gene into the gene of a yeast cell or virus. The modified yeast cell or virus produces pure hepatitis B
+surface antigen, HPV capsid protein, or influenza hemagglutinin when it grows. Serogroup B meningococcal vaccines are proteins and
+outer membrane vesicles generated by recombinant technology.
+Acknowledgements
+The editors would like to acknowledge Jennifer Hamborsky, Andrew Kroger, Ginger Redmon, and Skip Wolfe for their contributions to this
+chapter.
+Selected References
+American Academy of Pediatrics. Active and passive immunization. In: Kimberlin D, Brady M, Jackson M, et al., eds. Red Book: 2018 Report of the
+Committee on Infectious Diseases. 31st ed. Itasca, IL: American Academy of Pediatrics;2018:13–64.
+Plotkin S. Correlates of vaccine-induced immunity. Clin Infect Dis 2008;47:401–9.
+Plotkin S. Vaccines, vaccination, and vaccinology. J Infect Dis 2003;187:1347–59.
+Siegrist C. Vaccine immunology. In: Plotkin S, Orenstein W, Offit P, et al., eds. Plotkin's Vaccines. 7th ed. Elsevier;2018:16–34.
+SOURCES
+CONTENT SOURCE:
+National Center for Immunization and Respiratory Diseases (NCIRD); Immunization Services Division

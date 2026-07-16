@@ -1,0 +1,128 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Therapeutic feeding of
+children 6–59 months
+of age with severe
+acute malnutrition and
+acute or persistent
+diarrhoea
+Intervention | Last updated: 9 August 2023
+In children who are 6–59 months of age, severe acute malnutrition is defined by a very
+low weight-for-height/weight-for-length, or clinical signs of bilateral pitting oedema, or
+a very low mid-upper arm circumference. Severe acute malnutrition affects an
+estimated 19 million children under 5 years of age worldwide and is estimated to
+account for approximately 400,000 child deaths each year.
+
+[page 2]
+Diarrhoea is common in malnourished children and can result in decreased absorption
+of nutrients and significant water loss which can lead to dehydration, shock and
+ultimately death. Both acute and persistent (i.e. three or more loose or watery stools in
+a day, for more than 14 days) diarrhoea can worsen the harmful effects of severe acute
+malnutrition if left untreated. Episodes of prolonged diarrhoea are also associated with
+increased morbidity and mortality from other diseases, adverse neurodevelopment and
+stunting.
+Although treatment and prevention of dehydration are essential, care of severely
+malnourished children must focus on the most effective and safest therapeutic feeding
+approach to resolve diarrhoea while meeting their nutritional needs.
+WHO Recommendations
+Children who are 6–59 months of age with severe acute malnutrition who present with
+either acute or persistent diarrhoea, can be given ready-to-use therapeutic food in the
+same way as children without diarrhoea, whether they are being managed as inpatients
+or outpatients.
+Because ready-to-use therapeutic food does not contain water, children should also be
+offered safe drinking water to drink at will. Breastfeeding should be continued and
+offered ad libitum.
+Learn More 
+Guidelines and guidance documents
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+Pocket book of hospital care for children: Second edition
+GRC-approved guidelines
+
+[page 3]
+Joint statement on the community-based management of severe acute
+malnutrition
+The treatment of diarrhoea
+Management of severe malnutrition: a manual for physicians and other
+senior health workers
+Other guidance documents
+Evidence
+Systematic reviews used to develop the guidelines
+The effectiveness of interventions to treat severe acute malnutrition in young children: a
+systematic review
+Picot J, Hartwell D , Harris P, Mendes D, Clegg AJ, and Takeda A. Health Technology Assessment. 2012;
+Vol.16:No.19(for Guideline: Updates on the management of severe acute malnutrition in infants and
+children).
+Systematic review of the care of children with diarrhoea in the community-based
+management of severe acute malnutrition
+Manary M, Iannotti L, Trehan I, Weisz A. Geneva: World Health Organization; 2012.
+
+[page 4]
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+The analyses listed below were conducted to assess the overall cost-effectiveness of
+inpatient and/or outpatient management of SAM, of which the intervention listed on
+this webpage is a component. The analyses do not assess the cost-effectiveness of this
+specific intervention alone.
+Cost effectiveness of a community based prevention and treatment of acute malnutrition
+programme in Mumbai slums, India
+Goudet S, Jayaraman A, Chanani S, Osrin D, Devleesschauwer B, Bogin B, et al. PLoS One. 2018;
+13(11):e0205688.
+Economic Cost of Community-Based Management of Severe Acute Malnutrition in a Rural
+District in Ghana
+Abdul-Latif A-M C, Nonvignon J. Health. 2014; 6: 886-899.
+Cost-effectiveness of the community-based management of severe acute malnutrition by
+community health workers in southern Bangladesh
+Puett C, Sadler K, Alderman H, Coates J, Fiedler JL, Myatt M. Health Policy Plan. 2013; 28(4):386-99.
+Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat
+severe acute malnutrition in Ethiopia
+Tekeste A, Wondafrash M, Azene G, Deribe K. Cost Eff Resour Alloc. 2012; 10:4.
+Cost-effectiveness of community-based management of acute malnutrition in Malawi
+Wilford R, Golden K, Walker DG. Health Policy Plan. 2012; 27(2):127-37.
+Costs, cost-effectiveness and financial sustainability of community-based management of
+acute malnutrition in northern Nigeria
+Frankel S, Roland M, Makinen M. Washington DC: Results for Development Institute; 2015.
+Cost effectiveness of community-based therapeutic care for children with severe acute
+malnutrition in Zambia: decision tree model
+Bachmann MO. Cost Eff Resour Alloc. 2009 Jan; 7:2.
+
+[page 5]
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K. Health Policy Plan. 1998; 13(3):249-62.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is a component of
+managing children with SAM, which is
+an Essential Nutrition Action targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+
+[page 6]
+Privacy policy
+© 2026 WHO

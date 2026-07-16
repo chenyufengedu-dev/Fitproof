@@ -1,0 +1,135 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Infant feeding for the
+prevention of mother-
+to-child transmission of
+HIV
+Intervention | Last updated: 9 August 2023
+Mother-to-child transmission of HIV is the primary mode of HIV infection in infants.
+Transmission can occur during pregnancy, birth, or through breastfeeding. Decisions on
+whether or not HIV-infected mothers should breastfeed their infants is generally based
+on comparing the risk of infants acquiring HIV through breastfeeding, with the
+increased risk of death from malnutrition, diarrhoea and pneumonia if the infants are
+not exclusively breastfed.
+
+[page 2]
+Accumulating evidence has shown that giving antiretroviral medicines to the mother or
+the infant can significantly reduce the risk of HIV transmission through breastfeeding.
+National health authorities can refer to this evidence when formulating a strategy on
+infant feeding.
+WHO Recommendations
+Mothers known to be HIV-infected should be provided with lifelong antiretroviral
+therapy or antiretroviral prophylaxis interventions to reduce HIV transmission through
+breastfeeding.
+National or sub-national health authorities should decide whether health services will
+principally counsel mothers known to be HIV-infected to either breastfeed and take
+antiretrovirals, or, avoid all breastfeeding.
+In settings where national health authorities are recommending breastfeeding for
+HIV-infected mothers:
+Mothers known to be HIV-infected (and whose infants are HIV uninfected or of
+unknown HIV status) should exclusively breastfeed their infants for the first 6 months of
+life, introducing appropriate complementary foods thereafter, and continue breast
+feeding.
+Mothers living with HIV should breastfeed for at least 12 months and may continue
+breastfeeding for up to 24 months or longer (similar to the general population) while
+being fully supported for ART adherence (see the WHO Consolidated guidelines on the
+use of antiretroviral drugs for treating and preventing HIV infection for interventions to
+optimize adherence).
+In settings where health services provide and support lifelong ART, including adherence
+counselling, and promote and support breastfeeding among women living with HIV, the
+duration of breastfeeding should not be restricted.
+Breastfeeding should then only stop once a nutritionally adequate and safe diet without
+breast milk can be provided.
+National and local health authorities should actively coordinate and implement services
+in health facilities and activities in workplaces, communities and homes to protect,
+promote and support breastfeeding among women living with HIV.
+Learn More 
+Guidelines and guidance documents
+
+[page 3]
+Guideline: updates on HIV and infant feeding
+Consolidated guidelines on the use of antiretroviral drugs for treating
+and preventing HIV infection (2013)
+WHO guidelines on HIV and infant feeding 2010: an updated framework
+for priority action
+GRC-approved guidelines
+Other guidance documents
+Evidence
+Systematic reviews used to develop the guidelines
+Postnatal HIV Transmission rates at age six and 12 months in infants of HIV-infected women
+on ART initiating breastfeeding: a systematic review of the literaturepdf, 908kb
+pdf, 908kb Chikhungu L, Bispo S, Newell ML. Geneva: World Health Organization; 2016.
+HIV-free survival at 12 – 24 months in breastfed infants of HIV-infected women on ART: a
+systematic reviewpdf, 949kb
+pdf, 949kb Chikhungu L, Bispo S, Newell ML. Geneva: World Health Organization; 2016.
+
+[page 4]
+A systematic review of HIV-free survival by feeding practices from birth to 18 months: Annex
+2pdf, 227kb
+pdf, 227kb Chetty T, Naidu KK, Newell ML. Geneva: World Health Organization; 2010.
+Individual evidence summaries of all studies included in the systematic review of HIV-free
+survival by infant feeding practices from birth to 18 – 24 months: Annex 5pdf, 803kb
+pdf, 803kb Chetty T, Naidu KK, Newell ML. Geneva: World Health Organization; 2009.
+An analysis of optimal breastfeeding durations for HIV-Exposed Infants: Assessing the impact
+of naternal ART use, infant mortality, and replacement feeding riskpdf, 1.02Mb
+pdf, 1.02Mb Mallampati D, MacLean R, Ciaranello A. Geneva: World Health Organization; 2016.
+Related Cochrane reviews
+Interventions for preventing late postnatal mother-to-child transmission of HIV
+Horvath T, Madi BC, Iuppa IM, Kennedy GE, Rutherford GW, Read JS. Cochrane Database of Systematic
+Reviews. 2009; Issue 1. Art. No.: CD006734.
+Summary of this review 
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+Cost-effectiveness analysis of infant feeding strategies to prevent mother-to-child
+transmission of HIV in South Africa
+Maredza M, Bertram MY, Saloojee H, Chersich MF, Tollman SM, Hofman KJ. Afr J AIDS Res. 2013; 12(3):151-
+60.
+The cost-effectiveness of different feeding patterns combined with prompt treatments for
+preventing mother-to-child HIV transmission in South Africa: estimates from simulation
+modeling
+Yu W, Li C, Fu X, Cui Z, Liu X, Fan L et al. PLoS One. 2014; 9(7):e102872.
+Scaling-up exclusive breastfeeding support programmes: the example of KwaZulu-Natal
+Desmond C, Bland RM, Boyce G, Coovadia HM, Coutsoudis A, Rollins N, Newell ML. PLoS One. 2008;
+3(6):e2454.
+
+[page 5]
+Prevention of Mother-To-Child Transmission of HIV: Cost-Effectiveness of Antiretroviral
+Regimens and Feeding Options in Rwanda
+Binagwaho A, Pegurri E, Drobac PC, Mugwaneza P, Stulac SN, Wagner CM et al. PLoS One. 2013;
+8(2):e54180.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is supported by
+Essential Nutrition Actions targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+
+[page 6]
+Privacy policy
+© 2026 WHO

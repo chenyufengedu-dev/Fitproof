@@ -1,0 +1,2659 @@
+
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+We included randomised controlled trials (RCTs) that compared
+higher with lower polyunsaturated fatty acid intakes and
+assessed eﬀects over at least 12 months (12 months' continuous
+involvement). We included trials reported as full text, those
+published as abstracts only, as trials registry entries and
+unpublished data. We did not include cross-over trials (unless
+we could use data from the first part of the cross-over only), as
+this design is inappropriate for outcomes such as cardiovascular
+disease events or mortality, but included cluster-randomised trials,
+as long as there were at least six clusters (to facilitate equivalence
+of the arms at baseline).
+Types of participants
+We included trials of adults (18 years of age and above). Included
+participants could be adults who were well, or with increased risk
+of cancer, those undergoing - or who had undergone - coronary
+artery bypass grafing or angioplasty, and those with current or
+previous cardiovascular disease, diabetes mellitus, rheumatoid
+arthritis, depression, cognitive impairment, or multiple sclerosis.
+We were interested in both primary and secondary prevention, so
+included people with or without a history of cardiovascular disease.
+We excluded participants who were pregnant or acutely ill,
+and defined acute illness as including people with diagnosed
+current cancer, undergoing heart or renal transplantation, with
+HIV or AIDS, on haemodialysis, with immunoglobulin A (IgA)
+glomerulonephritis, or any other renal problem except diabetic
+nephropathy. Our reasoning was to exclude people with conditions
+that may aﬀect the relationship between polyunsaturated fatty
+acids and cardiovascular disease events.
+Where trials included some adults and some people under 18 years
+of age, then we included the trial if at least 90% of participants were
+aged 18 years or over at baseline, or where outcomes for adults
+could be separated from those for younger people.
+Types of interventions
+Eligible trials compared higher with lower total polyunsaturated
+fatty acid (PUFA) intakes. The intervention had to be dietary
+supplementation, or a provided diet, or advice on diet. The advice,
+foodstuﬀs or supplements had to aim to increase or decrease total
+PUFA intake, or a dietary component high in total PUFA intake such
+as vegetable oil, or, if no clear aim was stated (but implied, such as
+aiming to provide a 'heart health', 'reduced fat' or 'Mediterranean'
+diet), then the intervention had to achieve an increase or decrease
+of at least 10% of the baseline total PUFA level.
+Supplementation had to be in oil or capsule form, or as foodstuﬀs
+provided, to be consumed by mouth (we excluded enteral and
+parenteral feeds, and enemas). Trials were included if they
+compared the eﬀect of this intervention with usual diet, no advice,
+no supplementation or placebo (as appropriate) or with a lower
+PUFA intake.
+We did not include trials if they included multiple risk factor
+intervention on lifestyle factors such as weight reduction, smoking
+or physical activity goals, or diﬀerential dietary interventions
+not involving dietary fats (such as advice to eat more fruit
+and vegetables, increase fibre, or take a vitamin supplement),
+except where that other intervention was a direct replacement for
+polyunsaturated fatty acids or the eﬀect of the fat intervention
+could be separated out from the other interventions. Where a
+single intervention that increased PUFA intake (such as increasing
+walnuts, sunflower oil or a margarine) included additional
+nutrients (they all do) we included it, regardless of what nutrients
+were displaced. We interpreted this consistently across the review.
+We made decisions on inclusion using the following decision tree:
+1. Include if the trial aimed to increase total PUFA regardless
+of dose (or aimed to increase a combination of omega-3 and
+omega-6). If not then assess point 2.
+2. Include if the trial provided within-trial intervention and control
+group total PUFA intake data, and the diﬀerence was 10% or
+more of the control group total PUFA intake OR the diﬀerence
+was 10% or more of baseline total PUFA intake or an assumed
+baseline intake of 6% of energy (6% E) from total PUFA. The
+assumed baseline intake of 6% E from total PUFA was an average
+from the trials for which there were data, so we included trials
+that provided 0.6% E or above (or ≥ 1.33 g/d) more or less total
+PUFA to the intervention arm compared to control. If not then
+assess point 3.
+3. Include if the trial provided within-trial intervention and control
+group total PUFA intake aims, and the diﬀerence was 10%
+or more of the control group total PUFA intake OR the
+diﬀerence was 10% or more of baseline total PUFA intake or an
+assumed baseline intake of 6% E from total PUFA. Where intake
+information came from trial aims we looked for corroboration
+that there was a higher total PUFA intake in one arm than
+the other, using information on control group supplements
+or advice, body fat markers of total PUFA or serum total
+cholesterol. Where a suggested higher intake of PUFA in one arm
+by trial aims was contradicted by biomarker or total cholesterol
+data (assuming lower total cholesterol with higher PUFA) we
+excluded. We included trials that provided an additional total
+PUFA of 0.6% E or more, or 1.33 g/d or more to the intervention
+arm compared to control (taking into account PUFA content of
+placebo and excluding if placebo content was unclear). If no
+inclusion from point 3 then we excluded the trial.
+We documented our reasoning over inclusion decisions in
+Characteristics of included studies (see 'Inclusion basis') and
+reasons for exclusion in Characteristics of excluded studies. We
+also ran sensitivity analyses on risk of bias from compliance (see
+Sensitivity analysis).
+Types of outcome measures
+Primary outcomes
+Primary outcomes were:
+1. all-cause mortality;
+2. coronary heart disease events: number of participants
+experiencing at least one myocardial infarction (fatal or non-
+fatal) or angina;
+3. stroke (number of participants experiencing an ischaemic and/
+or haemorrhagic stroke); and
+4. major adverse cardiac and cerebrovascular events (MACCEs,
+used where we could assess the numbers of participants
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+experiencing fatal or non-fatal myocardial infarction, unstable
+angina or stroke).
+Secondary outcomes
+Secondary outcomes were all systematically reviewed. If any trial
+fulfilled the other inclusion criteria and reported a secondary
+outcome (even if no primary outcomes were reported) we included
+it. Secondary outcomes included:
+1. cardiovascular mortality (deaths due to cardiovascular causes
+including myocardial infarction and stroke)
+2. cardiovascular events (all available data on number of
+participants experiencing any of fatal and non-fatal myocardial
+infarction, angina and/or stroke);
+3. coronary heart disease mortality;
+4. myocardial infarction;
+5. sudden cardiac death;
+6. atrial fibrillation (arrhythmias including atrial fibrillation,
+ventricular fibrillation and ventricular tachycardia);
+7. angina;
+8. heart failure;
+9. Peripheral arterial disease (PAD);
+10.revascularisation (participants experiencing angioplasty or
+coronary artery bypass grafing);
+11.measures of adiposity (including body weight, body mass index
+(BMI), waist circumference, percentage body fat);
+12.serum lipids (including total cholesterol, fasting triglycerides,
+high-density lipoprotein (HDL) and low density lipoprotein
+(LDL)).
+Tertiary outcomes
+Tertiary outcomes (not formally systematically reviewed) included:
+1. blood pressure (systolic and diastolic);
+2. quality-of-life measures (such as feelings of health and time oﬀ
+work);
+3. economic costs;
+4. serious adverse events (all serious adverse events presented
+were collated but cancers, inflammatory bowel disease,
+neurocognitive outcomes such as dementia, diabetes,
+functional outcomes and depression are not reported here);
+5. dropouts.
+We included trials where data on any primary or secondary
+outcome were available in published reports or based on contact
+with trial authors. We collated data on tertiary outcomes where
+they were present in included trials. Data on cancers (Hanson
+2017b), inflammatory bowel disease (Thorpe 2017), neurocognitive
+outcomes including dementia (Jimoh 2017), diabetes (Brown
+2017), bone and muscle outcomes (Abdelhamid 2017) and
+depression (Hanson 2017a) are reported fully and systematically
+in associated reviews within this series, rather than a subset being
+presented within this review.
+Where it was clear that no participants experienced a particular
+primary or secondary outcome (and the study had not collected
+data on other primary or secondary outcomes) we excluded the
+trial. For example, on exploration, a number of trial authors
+confirmed that no participants had died or experienced heart
+attacks in their trials; in the absence of other primary or secondary
+outcomes being recorded we excluded these from this review and
+noted them in the exclusion list. Their inclusion into the review
+would have swollen the size of the review without adding any useful
+data.
+Key outcomes
+When the WHO NUGAG Subgroup on Diet and Health requested this
+review they named the following as key outcomes to inform their
+planned dietary guidance:
+1. all-cause mortality;
+2. cardiovascular disease mortality;
+3. cardiovascular disease events
+4. coronary heart disease mortality
+5. coronary heart disease events
+6. stroke
+7. atrial fibrillation (arrhythmia)
+8. serum lipids including total cholesterol, fasting triglycerides,
+HDL and LDL; and
+9. measures of adiposity (body weight and BMI)
+We were not able make all of these primary outcomes. However,
+because WHO NUGAG Subgroup on Diet and Health will use
+these outcomes to underpin guidance, we carried out sensitivity
+analyses, subgroup analyses and GRADE assessment of quality of
+evidence for them, even when they were not primary outcomes. All
+of these outcomes were formally systematically reviewed.
+Search methods for identification of studies
+Electronic searches
+We searched the following electronic databases on 27 April 2017 to
+identify reports of relevant randomised controlled trials:
+•
+Cochrane Central Register of Controlled Trials (CENTRAL; 2017,
+Issue 4) in the Cochrane Library;
+•
+Epub Ahead of Print, In-Process & Other Non-Indexed Citations,
+MEDLINE Daily and MEDLINE (Ovid, 1946 to 27 April 2017);
+•
+Embase Classic and Embase (Ovid, 1947 to 27 April 2017).
+We adapted the search strategy for MEDLINE (Ovid) from the
+search strategy in Hooper 2018 and also used it to locate trials
+to update Hooper 2018. This complex strategy was adapted for
+use in the other databases (Appendix 1). We applied the Cochrane
+sensitivity and precision-maximising RCT filter to MEDLINE (Ovid),
+and for Embase, we applied terms recommended in the Cochrane
+Handbook for Systematic Reviews of Interventions (Lefebvre 2011).
+As we were also running searches for, updating and extending,
+another existing Cochrane Review of the eﬀects of omega-3 fats on
+health outcomes (Abdelhamid 2018), and there was a great deal of
+overlap between the searches, the omega-3 searches were also run
+to May 2017, using the same RCT filters (Appendix 2). The results
+of these searches were de-duplicated with the results from the
+searches for this review and all the titles and abstracts assessed
+as a single set. We created a dataset of RCTs that compared higher
+versus lower omega-6 fats, omega-3 fats or total PUFA in adults
+with a duration of at least 6 months. We used this dataset as the
+wider trial pool from which to select included trials for all the
+systematic reviews in this series (Abdelhamid 2016; Abdelhamid
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+2017; Abdelhamid 2018; Brown 2017; Hanson 2017a; Hanson 2017b;
+Jimoh 2017; Hooper 2018; Thorpe 2017).
+We searched two clinical trials registers, ClinicalTrials.gov
+(www.ClinicalTrials.gov) and the WHO International Clinical
+Trials Registry Platform (ICTRP, www.who.int/ictrp/en/) during
+September 2016 for registry entries for relevant completed and
+ongoing trials.
+Searching other resources
+We checked included trials of relevant systematic reviews, and
+wrote to authors of included studies for additional trials and trial
+data (including unpublished outcome data).
+We attempted to obtain full-text translations or evaluations of all
+relevant non-English articles. Where these were not available we
+translated papers ourselves using our existing language skills and
+language translation sofware.
+Data collection and analysis
+Selection of studies
+Two review authors independently screened titles and abstracts
+identified by the searches and coded them as 'retrieve' (eligible
+or potentially eligible/unclear) or 'do not retrieve'. All review
+authors carried out screening. All articles coded for retrieval by
+either reviewer were collected in full text. We retrieved full-text
+study reports/publications and two review authors independently
+screened the full text, assessed studies for inclusion, and identified
+and recorded reasons for exclusion of ineligible trials (LH and AA).
+We resolved any disagreement through discussion. Where a trial
+met our inclusion criteria with the exception that they did not
+report any relevant outcome, we wrote to the trial author to ask
+whether any relevant outcomes occurred. We excluded trials when
+no relevant primary or secondary outcome events had occurred
+and the trial had not collected any data on our primary or secondary
+continuous outcomes.
+We identified and collated multiple reports of the same trial (as
+each trial, rather than each report, was the unit of interest in the
+review). We recorded the selection process in suﬀicient detail to
+complete a PRISMA flow diagram and Characteristics of excluded
+studies table (Moher 2009).
+Data extraction and management
+We developed a draf data collection form for collating study
+characteristics and outcome data, then all review authors piloted
+the form on a single included trial to standardise data extraction
+and improve the data extraction form. All review authors took part
+in data extraction. Two review authors each extracted the following
+characteristics from included trials, independently in duplicate:
+1. bibliographic details;
+2. trial registration database and number;
+3. methods: trial design, total trial duration, details of any 'run
+in' period, number of study centres and location, trial setting,
+withdrawals, and trial dates;
+4. participants: number randomised in each arm, number
+analysed in each arm, mean age, age range, gender, health
+status, cardiovascular disease risk and a brief description of
+participants. We categorised baseline cardiovascular risk as
+primary prevention (participants not included on the basis
+of having existing cardiovascular disease) and secondary
+prevention (participants included on the basis of existing
+cardiovascular disease, such as angina or a previous stroke or
+myocardial infarction);
+5. interventions: intervention (including composition and dose
+of PUFA intake advised or supplement used), comparison,
+concomitant medications, and excluded medications;
+6. outcomes: primary, secondary and tertiary outcomes specified
+in trial registry, data on outcomes reported in publications and
+by contact with authors, time points reported. We assessed
+dichotomous outcomes at the latest point of available follow-up
+within the trial, while we assessed continuous outcomes at the
+latest point available in the trial (and afer at least 12 months);
+7. process data: intake data (mean and standard deviation (SD)
+of total PUFA, omega-3, omega-6, total fat, saturated fat,
+monounsaturated fat (MUFA), carbohydrate, protein, energy,
+alcohol and trans fat intake), biomarker data (erythrocyte,
+serum or adipose tissue fatty acid status data) and serum total
+cholesterol in intervention and control groups at latest point
+available during RCT;
+8. study funding and notable conflicts of interest of trial authors.
+We resolved disagreements between data extractions by consensus
+or by involving a third person (LH or AA). One review author (AA
+or LH) transferred data into the Review Manager 5 (RevMan 5) file
+(RevMan 2014). We double-checked that data had been entered
+correctly from the agreed data extraction by comparing the data
+presented in the systematic review with data extraction (AA, JB, TJB
+or LH).
+Assessment of risk of bias in included studies
+Two review authors independently assessed risk of bias for each
+trial, alongside data extraction, using the criteria outlined in
+the Cochrane Handbook for Systematic Reviews of Interventions
+(Higgins 2011a). All review authors carried out data extraction
+and assessment of risk of bias. We resolved disagreements by
+discussion or by involving another author (LH or AA). We assessed
+the risk of bias according to the following domains:
+1. random sequence generation (selection bias);
+2. allocation concealment (selection bias);
+3. blinding of participants and personnel (performance bias);
+4. blinding of outcome assessment (detection bias);
+5. incomplete outcome data (attrition bias);
+6. selective outcome reporting (reporting bias);
+7. attention bias (another aspect of performance bias, where
+the intervention or control groups receive more time and/or
+attention from trial or health personnel during the trial); and
+8. compliance (to be assessed as at low risk of bias regarding
+compliance, the higher PUFA arm had to demonstrate an
+increase in PUFA over control in a body biomarker (total PUFA
+had to be assessed by at least linoleic acid plus one or more
+further components of PUFA), or greater reduction in total
+cholesterol in the higher PUFA arm. Where lipid biomarker and
+total cholesterol contradicted each other we chose unclear.
+9. other risk of bias
+These are the domains of the Cochrane 'Risk of bias' tool, with the
+exceptions of attention bias and compliance, which were specific
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+to our review and added afer discussion with the WHO NUGAG
+Subgroup on Diet and Health. We followed recommendations
+in Higgins 2011a, recording funding data in the Characteristics
+of included studies but not using them as a separate issue for
+assessing risk of bias.
+We graded each potential source of bias as high, low or unclear
+risk and provided trial details, a quote from the trial report, or
+both, together with a justification for our judgment in the 'Risk
+of bias' tables. We assessed summary risk of bias for each trial.
+Where information on risk of bias related to unpublished data or
+correspondence with a trial author, we noted it in the 'Risk of
+bias' tables. Further details of how we interpreted the risk of bias
+elements across trials are found in Table 1.
+Summary risk of bias
+Schultz 1995 found that poorly concealed allocation was
+associated with a 40% greater eﬀect size and so randomisation
+and allocation concealment are core issues for all trials. Lack of
+blinding is associated with bias, though smaller levels of bias
+than lack of allocation concealment (Savovic 2012), especially in
+trials with objectively measured outcomes (Wood 2008). Most of
+our outcomes were objectively measured. Although we originally
+planned to assess summary risk of bias in the same way across
+all trials in this Cochrane Review, the omega-3 Cochrane Review
+and the omega-6 Cochrane Review (Abdelhamid 2016; Abdelhamid
+2018; Hooper 2018) we adopted a diﬀerent approach afer
+discussing the diﬀerent nature of supplement trials compared to
+dietary advice or food provision trials with the NUGAG Subgroup on
+Diet and Health.
+We considered a supplement or capsule-type trial to be at low
+summary risk of bias, where we judged randomisation, allocation
+concealment, blinding of participants and personnel, and blinding
+of outcome assessors adequate. We considered all other trials at
+moderate or high risk of bias (a single category).
+We considered a dietary-advice or all-food-provided-type trial to
+be at low summary risk of bias, where we judged randomisation,
+allocation concealment, and blinding of outcome assessors
+adequate. We considered all other trials at moderate or high risk of
+bias (a single category).
+Assessment of bias in conducting the systematic review
+We conducted this Cochrane Review according to the published
+Cochrane protocol and reported any deviations from it in the
+'Diﬀerences between protocol and review' section of the systematic
+review.
+Measures of treatment eﬀect
+We analysed dichotomous data as risk ratios (RRs) with 95%
+confidence intervals (CIs) and continuous data as mean diﬀerence
+(MD) with 95% CIs. We presented continuous data with a consistent
+direction of eﬀect (as a smaller reading is generally positive), with
+the exception of HDL, where an increase is positive.
+We used change data (change from baseline to latest point in trial
+in each arm) for continuous data where available with appropriate
+variance data. When change data were not available we used
+absolute data from the latest point in each trial arm, unless baseline
+data were too diﬀerent between arms. (We considered baseline
+data too diﬀerent to use when the change in both arms, from
+baseline to end data, was smaller than the baseline diﬀerence
+between arms). Where continuous data were too diﬀerent to use
+this we noted it in the outcome section of Characteristics of
+included studies but we did not add data to meta-analyses.
+We intended narrative description of skewed data reported as
+medians (without variance data or with interquartile ranges). We
+added these data to forest plots so that there could be visual
+comparison of findings (though we did not include these data in
+meta-analyses). We intended to use standardised mean diﬀerences
+(SMD) to combine data where included trials had used diﬀerent
+scales to measure the same factor (such as quality of life). We did
+not find any such data, so did not use SMD. We converted data on
+diﬀerent scales to the same scale, such as mg/dL and mmol/L for
+lipids.
+Unit of analysis issues
+Trials with multiple intervention groups
+Where trials included more than two arms we assessed all arms for
+inclusion. Where there were more than one intervention arm and a
+single control arm we combined dichotomous and continuous data
+for the intervention arms and compared them to the single control
+arm. This meant there were no problems with trial participants
+appearing more than once in any forest plot.
+Cluster-RCTs
+Where cluster-RCTs were included we planned to account for unit of
+analysis issues by data extracting a direct estimate of the required
+eﬀect measure (for example, a RR with its CI) from an analysis
+that accounted for the cluster design properly (for example, an
+analysis based on a ‘multilevel model’, a ‘variance components
+analysis’ or that used ‘generalised estimating equations (GEEs)’).
+Where these data were available we planned to use them in meta-
+analysis using the generic inverse-variance method (Deeks 2011).
+Where no such correct analysis of the cluster-randomised data
+were available, we planned to use approximate analyses using
+intra-cluster correlation co-eﬀicient (ICC) analysis as outlined in
+the Cochrane Handbook for Systematic Reviews of Interventions
+(Higgins 2011b, section 16.3.4). We did not identify any such cluster-
+randomised trials, so we did not need this methodology.
+Dealing with missing data
+We contacted (or attempted to contact) the authors of all
+potentially included RCTs to better assess inclusion. We contacted
+authors of all included trials that had randomised at least 100
+participants (and some smaller trials) to request available data on
+all of the trial outcomes relevant to our set of reviews and key
+information on risk of bias. Due to limited resources, we focused
+on contacting authors of larger trials, who we thought were most
+likely to provide substantial quantities of useful data. We sent an
+email and a posted letter to the corresponding author at the latest
+address we were able to obtain (tracking latest publications in
+Medline). Where data on at least one review outcome were available
+(and at least one person had experienced a relevant outcome), we
+included the RCT, and asked the authors to provide any additional
+data about trial methodology or risk of bias.
+Where papers reported continuous results as change from baseline
+we used these data, otherwise we used data at the latest point
+available. We did not impute change data.
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Assessment of heterogeneity
+We used the I2 statistic (Higgins 2003) to measure heterogeneity
+among the trials in each analysis. Where we identified substantial
+heterogeneity (assumed when I2 was greater than 50%, as 30% to
+60% represents moderate heterogeneity and we were allowing for
+the varied dietary interventions included as well as potential dose
+eﬀects) we reported it and explored possible causes by prespecified
+subgroup analysis.
+Assessment of reporting biases
+Where we were able to pool at least 10 trials, we created and
+examined a funnel plot to explore possible reporting biases for the
+primary outcomes (Sterne 2011).
+We noted where we were aware of missing data. This occurred
+where trial methods noted that an outcome had been measured
+but those data had not been presented or had been presented
+but not by trial arm, where continuous data were unbalanced at
+baseline, or presented as medians or as means but without variance
+information.
+Data synthesis
+We undertook meta-analyses only where we considered it to be
+meaningful, that is, where the treatments, participants and the
+underlying clinical question were similar enough for pooling to
+make sense. We carried out statistical analysis using RevMan
+5 (RevMan 2014). We used a random-eﬀects model, as dietary
+interventions are complex and somewhat heterogeneous by their
+nature (more so than most medical treatments), but we compared
+the results of random-eﬀects and fixed-eﬀect meta-analysis in
+sensitivity analyses. As the random-eﬀects model assigns more
+weight to smaller trials, it is more conservative and may lead
+to imprecise estimates of eﬀect. We also carried out sensitivity
+analyses to assess the eﬀects of methodological rigour (see
+Sensitivity analysis).
+'Summary of findings' table
+We created a 'Summary of findings' table for the primary outcomes:
+1. all-cause mortality;
+2. coronary heart disease events;
+3. stroke; and
+4. MACCEs.
+As WHO NUGAG Subgroup on Diet and Health required a specific set
+of key outcomes for their guidance, we created a second 'Summary
+of findings' table for the key outcomes not represented in the main
+'Summary of findings' table:
+1. cardiovascular mortality;
+2. cardiovascular events;
+3. coronary heart disease mortality;
+4. atrial fibrillation;
+5. measures of adiposity - body weight;
+6. measures of adiposity - BMI; and
+7. serum lipids (including total cholesterol, fasting triglycerides,
+HDL and LDL).
+We used the five GRADE considerations (trial limitations,
+consistency of eﬀect, imprecision, indirectness and publication
+bias) to assess the quality of a body of evidence as it related
+to the trials that contributed data to the meta-analyses for the
+prespecified outcomes. We used methods and recommendations
+described in Section 8.5 (Higgins 2011a) and Chapter 12
+(Schünemann 2011) of the Cochrane Handbook for Systematic
+Reviews of Interventions, and used GRADEpro GDT sofware
+(GRADEpro GDT 2015). We justified all decisions to downgrade the
+quality of trials using footnotes and made comments to aid reader's
+understanding of the review where necessary.
+Subgroup analysis and investigation of heterogeneity
+We explored the eﬀects of PUFA intake on primary outcomes and
+key outcomes by performing exploratory subgroup analyses on:
+1. total PUFA dose (and dose response: total PUFA dose < 1% E,
+1% E to < 2% E; 2% E to < 5% E and ≥ 5% E where dose is the
+diﬀerence in total PUFA intake between intervention and control
+arms);
+2. trial duration: trials with medium follow-up (12 to 23 months),
+medium to long follow-up (24 to 47 months), and long follow-up
+(48 months or more);
+3. baseline risk of cardiovascular disease (primary prevention, or
+secondary prevention);
+4. baseline total PUFA intake (< 6% E from total PUFA, 6% E to < 11%
+E, and ≥ 11% E from total PUFA);
+5. replacement of saturated fat, MUFA, carbohydrate and protein
+with total PUFA;
+6. participants' sex (> 70% of the control group were men, > 70% of
+the control group were women, and mixed men and women);
+7. participants' age (mean age in control group < 50 years, 50 to <
+65 years and ≥ 65 years);
+8. statin use (at least 50% of control group on statins versus fewer
+than 50% on statins); and
+9. intervention type (dietary advice, supplements (capsules),
+supplemental foods and all foods provided, or any combination)
+We also planned to subgroup by change in the omega-3/omega-6
+fat ratio (assessing whether the intervention primarily increased
+omega-3 fats (putting up the ratio) or omega-6 fats (lowering
+the ratio)). However, in almost no trials did we have information
+allowing us to calculate the omega-3/omega-6 fat ratio, so we did
+not carry out this subgrouping.
+The 6% E and 11% E cut-oﬀs for total PUFA were prespecified
+by WHO NUGAG Subgroup on Diet and Health, as their existing
+recommendations for PUFA intake were 6% E to 11% E in adults
+(WHO/FAO 2008).
+We have not discussed diﬀerential eﬀects of omega-3 and omega-6
+PUFAs in this review, as separate reviews address the eﬀects of
+omega-3 and omega-6 fats on cardiovascular disease in more detail
+(Hooper 2018; Abdelhamid 2018).
+We used the formal test for subgroup interactions in RevMan
+5 (RevMan 2014). These subgroupings were requested by WHO
+NUGAG Subgroup on Diet and Health to better help them
+understand the data. The danger of having so many subgroup
+analyses is that they may be over-interpreted, increasing the risk of
+a type one error.
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Meta-regression
+We planned meta-regression to further explore eﬀects of total
+PUFA dose (looking for evidence of dose response), baseline
+total PUFA intake and duration on dichotomous primary and
+secondary outcomes with at least seven included trials and
+for which subgrouping was undertaken. However baseline total
+PUFA intake was only clear in a handful of trials, so we did
+not run meta-regression by baseline PUFA intake. Random-eﬀects
+meta-regression (Berkley 1995) was performed using the STATA
+command metareg (Sharp 1998): log(e) relative risk versus [dose or
+primary/secondary prevention or type of intervention or risk of bias
+or duration], weighted by the standard error of the log(e) relative
+risk. Where there were no events in one arm we added 0.1 to the
+numbers for both groups (so a trial with 10 people experiencing
+stroke in one arm but none in the other arm would be entered as
+10.1 and 0.1).
+Sensitivity analysis
+We planned to carry out the following sensitivity analyses on all
+primary outcomes, and key outcomes:
+1. only including trials with a low risk of bias for allocation
+concealment;
+2. only including trials with a low risk of attention bias;
+3. only including trials with a low risk of bias from compliance;
+4. only including trials at low summary risk of bias;
+5. only including all trials up to 2010, plus trials post-2010 that were
+registered in a trials register (Roberts 2015, regardless of the date
+of registration);
+6. only including trials with no industry funding reported (trials
+with funding or support from partial bodies such as government
+boards to support specific foods or where funding was not
+mentioned were also excluded);
+7. only including trials with less than 10% diﬀerence in intake of
+trans fats between trial arms during the intervention;
+8. only including trials that randomised at least 100 participants;
+9. only including trials that randomised at least 250 participants;
+10.using fixed-eﬀect meta-analysis.
+Unfortunately almost no data on trans fats were available, so we did
+not carry out sensitivity analysis around trans fats.
+Reaching conclusions
+We based our conclusions only on findings from the quantitative or
+narrative synthesis of included trials for this review. Outcome data
+were interpreted as follows:
+1. Is there an eﬀect? (Options were ‘increased risk’, ‘decreased risk’,
+or ‘little or no eﬀect’). Our main outcome measures were RR and
+MD so we decided on existence of an eﬀect using RR. RR >8%
+(RR <0.92 or >1.08) for the highest quality evidence suggested
+increased or decreased risk (otherwise little or no eﬀect). The
+presence or not of an eﬀect was decided on the RR for the main
+analysis and sensitivity analyses.
+2. Quality of evidence was assessed using GRADE assessment
+(GRADE Working Group 2004) for key outcomes. We used the
+five GRADE considerations (risk of bias, consistency of eﬀect,
+imprecision, indirectness and publication bias) to assess the
+quality of the body of evidence as it related to the trials that
+contributed data to the meta-analyses for the prespecified
+outcomes. We used methods and recommendations described
+in Section 8.5 and Chapter 12 of the Cochrane Handbook
+for Systematic Reviews of Interventions (Higgins 2011), plus
+GRADEpro GDT sofware (GRADEpro GDT 2015). We justified all
+decisions to downgrade the quality of trials using footnotes and
+made comments to aid reader's understanding of the review.
+3. Where there was a suggested eﬀect the size of eﬀect was
+assessed using the MD, NNT or ARR.
+We avoided making recommendations for practice and our
+implications for research suggest priorities for future research and
+outline the remaining uncertainties in the area.
+R E S U L T S
+Description of studies
+Results of the search
+The electronic searches for the full set of reviews (populating the
+dataset of all trials that assessed eﬀects of higher versus lower
+omega-6, omega-3 or PUFA over at least 6 months) generated
+37,810 titles and abstracts, which we de-duplicated to 19,772 hits.
+We assessed these along with 53 studies previously included from
+Hooper 2018 and Abdelhamid 2018, to reassess for inclusion; 986
+potentially relevant trials registry entries; and 35 new references
+gained from systematic review reference lists. In total, we assessed
+20,846 titles and abstracts in duplicate to decide whether to retrieve
+full texts. We ultimately assessed 2155 full-text reports, of which
+226 were systematic reviews. Two review authors independently
+assessed the remaining 1929 papers for inclusion and grouped
+them into studies. Of these, we included 208 RCTs in a wider
+set of trials that underpinned the full set of reviews (this review
+and several others including Abdelhamid 2018; Abdelhamid 2017;
+Hooper 2018; Brown 2017; Hanson 2017a; Hanson 2017b; Jimoh
+2017; Thorpe 2017). This wider set of trials included RCTs of
+omega-3, omega-6 or total polyunsaturated fatty acids (PUFA)
+interventions with a duration of at least six months (Figure 1) and
+comprised 730 reports.
+ 
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram
+ 
+ 
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   (Continued)
+ 
+Of these 208 RCTs:
+•
+22 RCTs (26 documents) assessed eﬀects of PUFA over at least
+one year but were ongoing (without published outcome data);
+•
+137 RCTs (361 documents) did not assess eﬀects of a high
+enough dose of PUFA or had a duration of less than one year, so
+we excluded them; and
+•
+49 RCTs (183 documents) were eligible for inclusion in this
+review.
+Of these 49 RCTs, 48 were included in meta-analyses.
+Details of the flow of trials are in Figure 1.
+The 22 potential ongoing trials are described in the table of
+Characteristics of ongoing studies. These trials are very diﬀicult to
+assess for inclusion in terms of total PUFA dose until further details
+are published. We will formally assess these trials for inclusion
+when we update this review.
+Included studies
+The details of the methods, participants, intervention, comparison
+group, and outcome measures for each of the included trials are
+shown in the Characteristics of included studies table. Forty-nine
+trials, including 24,272 randomised participants, met the inclusion
+criteria. Trials ranged in size from 36 randomised participants
+(Rossing 1996) to 4997 randomised participants (PREDIMED 2013),
+with 15 trials randomising at least 250 participants (AlphaOmega -
+ALA; Bates 1989; DART fat 1989; EPIC-1 2008; EPIC-2 2008; EPOCH
+2011; FAAT - Leaf 2005; MRC 1968; NDHS Open 1st 1968; ORL 2013;
+PREDIMED 2013; Sydney Diet-Heart 1978; Veterans Admin 1969;
+WAHA - Ros 2016; WINS 2006).
+Twenty-two trials recruited mostly men (at least 70% men in the
+control group, Ahn 2016; AlphaOmega - ALA; DART fat 1989; DIPP-
+Tokudome 2015; Doi 2014; Dullaart 1992; FAAT - Leaf 2005; GLAMT
+1993; HARP- Sacks 1995; Kumar 2012; Ley 2004; Mendis 2001; MRC
+1968; NDHS Faribault 1968; NDHS Open 1st 1968; Nodari 2011 HF;
+Nye 1990; ORL 2013; Raitt 2005; Sydney Diet-Heart 1978; Veterans
+Admin 1969; Vijayakumar 2014), six trials recruited mostly women
+(at least 70% women in the control group, Bassey 2000-Post; Bassey
+2000-Pre; Dodin 2005; Proudman 2015; Simon 1997; WINS 2006), 16
+recruited similar numbers of men and women while five trials did
+not state the sex or participants (Bates 1977; EPOCH 2011; HERO-
+Tapsell 2009; McIllmurray 1987; Rose 1965).
+Almost half of the trials (24 trials) recruited participants with a
+mean age between 50 and 65 years, but 12 trials recruited younger
+participants (mean age < 50 years, Bassey 2000-Pre; Bates 1978;
+Bates 1989; Dullaart 1992; EPIC-1 2008; EPIC-2 2008; NDHS Faribault
+1968; NDHS Open 1st 1968; Puri 2005; Rossing 1996; Simon 1997;
+Sydney Diet-Heart 1978), eight trials recruited older participants
+(mean age 65 years or more, AlphaOmega - ALA; Doi 2014; FAAT -
+Leaf 2005; Kumar 2013; Nodari 2011 AF; PREDIMED 2013; Veterans
+Admin 1969; WAHA - Ros 2016), and five trials did not give a mean
+age or range that could be classified (Ahn 2016; Bates 1977; EPOCH
+2011; Houtsmuller 1979; Mendis 2001).
+Twenty trials were conducted in Europe (AlphaOmega - ALA; Bassey
+2000-Post; Bassey 2000-Pre; Bates 1977; Bates 1978; Bates 1989;
+Brox 2001; DART fat 1989; Dullaart 1992; GLAMT 1993; Houtsmuller
+1979; MARINA - Sanders 2011; McIllmurray 1987; MRC 1968; Nodari
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+2011 AF; Nodari 2011 HF; PREDIMED 2013; Rose 1965; Rossing 1996;
+WELCOME 2015), 10 in North America (Black 1994; Dodin 2005; FAAT
+- Leaf 2005; HARP- Sacks 1995; NDHS Faribault 1968; NDHS Open
+1st 1968; Raitt 2005; Simon 1997; Veterans Admin 1969; WINS 2006),
+seven in Asia (Ahn 2016; DIPP-Tokudome 2015; Doi 2014; Mendis
+2001; Mita 2007; ORL 2013; Vijayakumar 2014), eight in Australia or
+New Zealand (EPOCH 2011; HERO-Tapsell 2009; Kumar 2012; Kumar
+2013; Ley 2004; Nye 1990; Proudman 2015; Sydney Diet-Heart 1978),
+while four trials were conducted across several continents (EPIC-1
+2008; EPIC-2 2008; Puri 2005; WAHA - Ros 2016).
+The trials varied in the types of participants recruited and their level
+of cardiovascular risk. Most trials recruited participants without a
+personal history of cardiovascular disease (primary prevention),
+but 16 recruited participants with existing cardiovascular disease
+of some sort (secondary prevention of cardiovascular disease, Ahn
+2016; AlphaOmega - ALA; DART fat 1989; Doi 2014; FAAT - Leaf 2005;
+HARP- Sacks 1995; Kumar 2012; Kumar 2013; MRC 1968; Nodari
+2011 AF; Nodari 2011 HF; Nye 1990; Raitt 2005; Rose 1965; Sydney
+Diet-Heart 1978; Vijayakumar 2014).
+Total PUFA dose (the diﬀerence in total PUFA between intervention
+and control arms) was between 0.6% E and less than 1% E for 13
+trials (Doi 2014; EPOCH 2011; FAAT - Leaf 2005; Kumar 2012; Kumar
+2013; Ley 2004; MARINA - Sanders 2011; Mita 2007; Nodari 2011 AF;
+Nodari 2011 HF; ORL 2013; Puri 2005; Raitt 2005), 1% E to less than
+2% E total PUFA in 17 trials (Ahn 2016; AlphaOmega - ALA; Bassey
+2000-Post; Bassey 2000-Pre; Bates 1977; Bates 1978; Bates 1989;
+Brox 2001; DIPP-Tokudome 2015; Dodin 2005; EPIC-1 2008; EPIC-2
+2008; Nye 1990; PREDIMED 2013; Proudman 2015; WELCOME 2015;
+WINS 2006), 2% E to less than 5% E in eight trials (Black 1994; DART
+fat 1989; Dullaart 1992; GLAMT 1993; HARP- Sacks 1995; McIllmurray
+1987; Mendis 2001; Rossing 1996), and at least 5% E from total
+PUFA in 11 trials (HERO-Tapsell 2009; Houtsmuller 1979; MRC 1968;
+NDHS Faribault 1968; NDHS Open 1st 1968; Rose 1965; Simon 1997;
+Sydney Diet-Heart 1978; Veterans Admin 1969; Vijayakumar 2014;
+WAHA - Ros 2016).
+Increases in total PUFA were delivered to participants in various
+ways. Most trials gave supplemental capsules or foods taken as
+supplements (supplemental oil drunk with meals in Rose 1965,
+seal or cod liver oil drunk in Brox 2001 and flax seed incorporated
+into foods in Dodin 2005), while eight trials gave dietary advice
+resulting in increased PUFA (Black 1994; DART fat 1989; Dullaart
+1992; Houtsmuller 1979; Ley 2004; Simon 1997; Sydney Diet-Heart
+1978; WINS 2006), eight trials gave supplemental foods such as
+margarines or nuts (AlphaOmega - ALA; HERO-Tapsell 2009; NDHS
+Faribault 1968; NDHS Open 1st 1968; PREDIMED 2013; Veterans
+Admin 1969; Vijayakumar 2014; WAHA - Ros 2016), and three trials
+used a combination of methods (DIPP-Tokudome 2015; Mendis
+2001; MRC 1968).
+Baseline total PUFA intake was unclear in most trials, but where
+information was provided it ranged from 3.9% E (NDHS Open 1st
+1968) to 8% E (Black 1994) in control groups. Seven trials had
+baseline total PUFA intake less than 6% E (Dodin 2005; HERO-
+Tapsell 2009; Ley 2004; NDHS Faribault 1968; NDHS Open 1st 1968;
+Veterans Admin 1969; WINS 2006), while nine had baselines of at
+least 6% E PUFA (Black 1994; DART fat 1989; DIPP-Tokudome 2015;
+Dullaart 1992; MARINA - Sanders 2011; PREDIMED 2013; Simon
+1997; Sydney Diet-Heart 1978; WAHA - Ros 2016). PUFA replaced
+saturated fat at least partially in nine trials (DART fat 1989; Dullaart
+1992; HARP- Sacks 1995; MRC 1968; NDHS Faribault 1968; NDHS
+Open 1st 1968; Sydney Diet-Heart 1978; Veterans Admin 1969;
+Vijayakumar 2014), replaced monounsaturated fats in 21 trials
+(AlphaOmega - ALA; Bates 1977; Bates 1978; Bates 1989; EPOCH
+2011; FAAT - Leaf 2005; HARP- Sacks 1995; MARINA - Sanders 2011;
+NDHS Faribault 1968; NDHS Open 1st 1968; Nodari 2011 AF; Nodari
+2011 HF; Nye 1990; PREDIMED 2013; Proudman 2015; Raitt 2005;
+Rose 1965; Rossing 1996; Sydney Diet-Heart 1978; Veterans Admin
+1969; WELCOME 2015), replaced carbohydrate in 11 trials (Black
+1994; DIPP-Tokudome 2015; Dodin 2005; Houtsmuller 1979; Ley
+2004; MARINA - Sanders 2011; Mendis 2001; Rose 1965; Simon 1997;
+WAHA - Ros 2016; WINS 2006), and replaced protein at least partially
+in four trials (HERO-Tapsell 2009; Ley 2004; MRC 1968; WAHA - Ros
+2016). In some trials PUFA replaced several dietary components,
+in others there was one main replacement, but replacements were
+unclear for 14 trials (Ahn 2016; Bassey 2000-Post; Bassey 2000-Pre;
+Brox 2001; Doi 2014; GLAMT 1993; Kumar 2012; Kumar 2013; EPIC-1
+2008; EPIC-2 2008; McIllmurray 1987; Mita 2007; ORL 2013; Puri
+2005).
+In most trials fewer than 50% of participants in the control group
+were taking statins (assumed in trials published before 1994 when
+the 4S Trial 1994 was published showing overall benefits from
+statins in higher-risk populations and statin use began to rise, and
+in populations not at particular cardiovascular disease risk), but in
+seven trials at least 50% of participants were taking statins (Ahn
+2016; AlphaOmega - ALA; Doi 2014; HERO-Tapsell 2009; Kumar 2013;
+Vijayakumar 2014; WELCOME 2015), and three trials were unclear
+(FAAT - Leaf 2005; Ley 2004; WAHA - Ros 2016).
+The duration of the intervention was one to less than two years
+in most trials, but was two to less than four years in 16 trials
+(AlphaOmega - ALA; Bates 1977; Bates 1978; Bates 1989; Black 1994;
+DART fat 1989; DIPP-Tokudome 2015; Dullaart 1992; HARP- Sacks
+1995; McIllmurray 1987; Mita 2007; Raitt 2005; Rose 1965; Simon
+1997; Vijayakumar 2014; WAHA - Ros 2016), and four years or more in
+duration in six trials (Houtsmuller 1979; MRC 1968; PREDIMED 2013;
+Sydney Diet-Heart 1978; Veterans Admin 1969; WINS 2006).
+Included trials were published over half a century between the
+1960s (Rose 1965; MRC 1968; NDHS Faribault 1968; NDHS Open 1st
+1968; Veterans Admin 1969) and the 2010s (Ahn 2016; AlphaOmega
+- ALA; DIPP-Tokudome 2015; Doi 2014; EPOCH 2011; Kumar 2012;
+Kumar 2013; MARINA - Sanders 2011; Nodari 2011 AF; Nodari 2011
+HF; ORL 2013; PREDIMED 2013; Proudman 2015; Vijayakumar 2014;
+WAHA - Ros 2016; WELCOME 2015), with some trials published in
+each decade.
+Funding sources were reported and appeared to be purely from
+national or charitable agencies in 17 trials (Ahn 2016; Black 1994;
+Brox 2001; DIPP-Tokudome 2015; Dullaart 1992; FAAT - Leaf 2005;
+Houtsmuller 1979; Ley 2004; MARINA - Sanders 2011; Mendis 2001;
+MRC 1968; NDHS Faribault 1968; NDHS Open 1st 1968; Nodari 2011
+AF; Sydney Diet-Heart 1978; Vijayakumar 2014; WINS 2006). Seven
+trials appeared to be directly funded by industrial sources (Bassey
+2000-Post; Bassey 2000-Pre; EPIC-1 2008; EPIC-2 2008; GLAMT 1993;
+ORL 2013; Puri 2005), two funded by bodies set up to promote
+specific foods (HERO-Tapsell 2009; WAHA - Ros 2016), 16 trials
+funded by some governmental or charity sources with additional
+funding or support from commercial sources (AlphaOmega -
+ALA; Bates 1977; Bates 1978; Bates 1989; DART fat 1989; EPOCH
+2011; HARP- Sacks 1995; Kumar 2012; Nye 1990; PREDIMED 2013;
+Proudman 2015; Raitt 2005; Rossing 1996; Simon 1997; Veterans
+Admin 1969; WELCOME 2015), two trials that included authors on
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+industry honoraria (Doi 2014; Nodari 2011 HF), and five trials where
+funding was not reported (Dodin 2005; Kumar 2013; McIllmurray
+1987; Mita 2007; Rose 1965).
+Most included trials had a single intervention arm and a single
+control arm, but some trials were more complex.
+1. Bates 1977 had four arms, two intervention arms each had their
+own control arm, so were dealt with as separate trials. Both were
+included, as deaths appear to have occurred, but it is no longer
+clear how many or which arms they occurred in.
+2. Bates 1978 also had two intervention arms each with their
+own control arm, but comparison C versus D did not have any
+relevant outcome data so we excluded it. We only included A
+versus B.
+3. Brox 2001 had two intervention arms and one control arm. For
+all outcomes, we combined the two intervention groups and
+compared to the single control group.
+4. DART fat 1989 was a factorial trial, but we have included only
+one of the three factorial interventions in this review, so all
+participants have been included only once.
+5. MARINA - Sanders 2011 had three intervention arms of diﬀerent
+doses and one control arm. Only one intervention arm was
+included in this review (D2) and compared to the control arm.
+6. NDHS Faribault 1968 and NDHS Open 1st 1968 each had three
+intervention arms and a single control. We combined data for
+the three arms and compared them to the single control arm in
+each trial.
+7. Nye 1990 had three arms, but one was irrelevant to this review
+so not included.
+8. ORL 2013 had three arms, but we only included two arms (higher
+vs lower dose omega-3)
+9. PREDIMED 2013 had three arms, a Mediterranean diet with nuts,
+a Mediterranean diet with olive oil and a low-fat arm. For this
+review we compared the Mediterranean diet with nuts (high
+PUFA) with the Mediterranean diet with olive oil (low PUFA)
+as these two arms were very similar but with diﬀerent PUFA
+intakes. For many outcomes data were reported in publications
+by trial centre (or combination of trial centres), so we checked
+for overlap of participants then reported the outcome centre by
+centre where we were sure that no participants were included
+more than once.
+Excluded studies
+We have presented details and reasons for exclusion of the trials
+that most closely missed the inclusion criteria in the Characteristics
+of excluded studies table.
+Risk of bias in included studies
+Our assessment of risk of bias of included trials is summarised in
+Figure 2 and detailed by trial in Figure 3. We assessed eleven of
+the 49 included trials as being at low summary risk of bias; eight
+trials as being at low risk of bias from randomisation, allocation
+concealment, performance and detection biases (AlphaOmega
+- ALA; EPOCH 2011; MARINA - Sanders 2011; NDHS Faribault
+1968; NDHS Open 1st 1968; Proudman 2015; Puri 2005; WELCOME
+2015), and three trials, which were dietary advice or provision
+trials, as being at low risk of bias from randomisation, allocation
+concealment and detection bias (Ley 2004; Sydney Diet-Heart 1978;
+WINS 2006). We assessed the remaining 37 trials as being at
+moderate or high risk of bias.
+ 
+Figure 2.   Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included trials
+ 
+ 
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Risk of bias summary: review authors' judgements about each risk of bias item for each included trial
+ 
+ 
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   (Continued)
+ 
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation
+Randomisation was adequate in 36 of the 49 trials, not well
+described in 12 trials and at high risk in one trial (PREDIMED
+2013). Allocation concealment was appropriate in 22 included
+trials, unclear in 26, and at high risk of bias in one (PREDIMED 2013).
+Twenty-two trials were at low risk of selection bias, with low risk
+of bias from both randomisation and allocation concealment (see
+Figure 3).
+Blinding
+Blinding of participants and personnel appeared at low risk of bias
+for 17 trials, unclear for 13 and at high risk of bias for the remaining
+19 trials. Blinding of outcome assessors was at low risk of bias in
+26 trials, unclear in 18 and at high risk of bias in five trials. Eleven
+trials were well blinded, at low risk of bias from both blinding of
+participants, personnel and outcome assessors.
+Incomplete outcome data
+Twenty-nine trials appeared to be at low risk of attrition bias, 11
+were at high risk and the remainder unclear.
+Selective reporting
+We found five trials that had a trials registry entry or protocol
+published before data collection was completed, and reported all
+outcomes suggested in the entry or protocol. Thirty-three were
+unclear, generally because no trials registry entry or protocol was
+identified, or because they were published afer the end of data
+collection. We found 11 trials were at high risk of selective reporting,
+as at least one outcome suggested in the trials registry entry or
+protocol was not reported in full.
+We attempted to access additional outcome data as well as
+methodological data from most included trials. We established
+contact with most trial authors, and received data on outcomes that
+had not been fully published from many (noted in Characteristics
+of included studies for relevant trials), although some trial authors
+were unable to provide additional information or repeated phrases
+from their published papers. We tried to contact, but did not receive
+any reply from, authors of 10 trials (Ahn 2016; Doi 2014; GLAMT
+1993; Houtsmuller 1979; Kumar 2012; Kumar 2013; Mendis 2001;
+Nodari 2011 AF; ORL 2013; Raitt 2005). We did not attempt to
+contact authors of some of the oldest trials, as the trials were
+conducted in the 1960s and their authors were unlikely to be
+accessible (NDHS Faribault 1968; NDHS Open 1st 1968; Rose 1965;
+Veterans Admin 1969), although we had made contact with the
+retired statistician of another older trial when including that trial
+in an earlier systematic review (MRC 1968). We did not attempt to
+contact authors of five trials (Bassey 2000-Post; Bassey 2000-Pre;
+HERO-Tapsell 2009; Mita 2007; Nye 1990).
+Other potential sources of bias
+We assessed attention bias, where intervention participants
+appeared to receive more time or attention from health
+professionals than those in the control group. Thirty-six trials
+appeared to be at low risk of attention bias, eight were at high risk,
+and the remaining five were unclear.
+We assessed compliance, to ensure that PUFA truly appeared to
+have been higher in one arm than the other, by looking for evidence
+of changes or diﬀerences in a body biomarker (total PUFA had to
+be assessed by at least linoleic acid (LA) plus one or more further
+components of PUFA), or greater reduction in total cholesterol in
+the higher PUFA arm. Where lipid biomarker and total cholesterol
+contradicted each other we chose unclear. We found that 17
+trials demonstrated appropriate compliance, 10 suggested poor
+compliance while 22 trials were unclear.
+Four trials were found to be at high risk from other potential bias.
+Ahn 2016 was unclear about whether the control arm received
+a placebo or not, and some SDs appeared to be incorrectly
+reported. When we looked for additional data on Houtsmuller
+1979 we found that concerns had been raised over potential
+research fraud of the first author in later trials (assessing eﬀects
+of diet on cancer). While no concerns were found about the
+included research we felt that this did potentially reflect a risk
+of fraud in the included trial. In Kumar 2013, 21 of the 39
+participants randomised to the intervention were inexplicably
+crossed over to the control condition at six months, so that 12-
+month outcomes were only reported for 17 of the 39 randomised
+participants. The main publication of PREDIMED 2013 was retracted
+and republished in 2018 due to randomisation and allocation
+concealment problems not mentioned in the initial publication that
+resulted in a distribution of baseline variables inconsistent with
+randomisation (Carlisle 2017).
+We found McIllmurray 1987 and Mendis 2001 to be at unclear risk of
+other bias, as neither described their control group interventions.
+The remaining trials were considered to be at low risk of other
+potential bias.
+Eﬀects of interventions
+See: Summary of findings for the main comparison Higher
+polyunsaturated fatty acid (PUFA) compared to lower PUFA for
+cardiovascular disease - primary outcomes; Summary of findings
+2 Higher polyunsaturated fatty acid (PUFA) compared to lower
+PUFA for cardiovascular disease - additional key outcomes
+Primary outcomes
+For 'Summary of findings' table on primary outcomes see Summary
+of findings for the main comparison.
+All-cause mortality
+PUFA intake probably has little or no eﬀect on all-cause mortality
+(moderate-quality evidence).
+Twenty-four trials including 19,290 participants reported at least
+one death and could be added to the meta-analysis. There was
+no clear eﬀect of more PUFA compared to less PUFA intake on all-
+cause mortality (RR 0.98, 95% CI 0.89 to 1.07, I2 = 0%, 1443 deaths;
+Analysis 1.1). This lack of eﬀect did not diﬀer in fixed-eﬀect analysis
+(RR 0.98, 95% CI 0.89 to 1.07; Analysis 1.3), or sensitivity analysis
+restricting to trials at low risk of bias for allocation concealment (RR
+1.03, 95% CI 0.87 to 1.22), low risk of attention bias (RR 0.96, 95%
+CI 0.87 to 1.07), compliance bias (RR 1.01, 95% CI 0.89 to 1.14), low
+summary risk of bias (RR 1.04, 95% CI 0.87 to 1.26), trials registry or
+pre-2010 publication (RR 0.99, 95% CI 0.90 to 1.08), trials without
+any industry funding (RR 1.09, 95% CI 0.84 to 1.42), that randomised
+at least 100 participants (RR 0.98, 95% CI 0.89 to 1.08) or at least 250
+participants (RR 1.00, 95% CI 0.91 to 1.10; Analysis 1.2). The funnel
+plot did not suggest any publication bias, though we are aware of
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+two trials with deaths that we were not able to add to the analyses
+(Bates 1977; Simon 1997).
+Subgrouping did not suggest diﬀerential eﬀects by total PUFA
+dose (Analysis 1.4), duration (Analysis 1.5), primary or secondary
+prevention (Analysis 1.6), baseline PUFA intake (Analysis 1.7),
+dietary component displaced by the increase in PUFA (Analysis 1.8),
+participant sex (Analysis 1.9), participant age (Analysis 1.10), statin
+use (Analysis 1.11), or type of intervention (Analysis 1.12). There
+was no suggestion of important eﬀects in any of the four trials each
+taking more than 10% of the weight in meta-analysis (AlphaOmega
+- ALA; DART fat 1989; PREDIMED 2013; Veterans Admin 1969).
+Meta-regression did not suggest any relationships between total
+PUFA dose (P = 0.94) or trial duration (P = 0.81) and all-cause
+mortality. We did not run meta-regression of baseline PUFA dose
+and all-cause mortality as few trials provided this information.
+We downgraded the GRADE evidence level for imprecision as the
+95% CI included important benefits (moderate-quality evidence),
+Summary of findings for the main comparison.
+Coronary heart disease events
+PUFA intake probably reduces risk of coronary heart disease events
+slightly (NNT 53, moderate-quality evidence).
+Fifeen trials including 10,076 participants were included and
+1351 participants reported at least one coronary heart disease
+event. Meta-analysis suggested that higher PUFA intake resulted
+in 13% fewer participants having coronary heart disease events
+(RR 0.87, 95% CI 0.72 to 1.06, I2 = 45%; Analysis 1.13). None of
+the four trials that carried at least 10% of the weight of the meta-
+analyses suggested statistically significant eﬀects in their own right
+(AlphaOmega - ALA; DART fat 1989; MRC 1968; Veterans Admin
+1969). The funnel plot did not suggest any serious publication bias
+(not shown).
+Sensitivity analyses using fixed-eﬀects analysis suggested a 10%
+reduction in risk of coronary heart disease with increased PUFA
+(RR 0.90, 95% CI 0.82 to 0.99; Analysis 1.15), but other sensitivity
+analyses suggested varying results both sides of no eﬀect (RR 1.00).
+These included restricting to trials at low risk of bias for allocation
+concealment (RR 1.14, 95% CI 0.73 to 1.78), low risk of attention
+bias (RR 0.86, 95% CI 0.72 to 1.02), compliance bias (RR 0.87, 95%
+CI 0.65 to 1.17), low summary risk of bias (RR 1.18, 95% CI 0.76 to
+1.81), trials registry or pre-2010 publication (RR 0.87, 95% CI 0.72
+to 1.06), trials without any industry funding (RR 0.72, 95% CI 0.31
+to 1.63), that randomised at least 100 participants (RR 0.87, 95% CI
+0.70 to 1.08) or at least 250 participants (RR 0.94, 95% CI 0.82 to 1.09;
+Analysis 1.14).
+Subgrouping by PUFA dose and trial duration did not suggest
+important diﬀerences between subgroups, or dose or duration
+eﬀects. There were only six events in trials with doses of less than
+1% E (Analysis 1.16) and 21 events in trials of less than two years
+(Analysis 1.17). Meta-regression did not suggest any relationship
+between PUFA dose (P = 0.69) or trial duration (P = 0.51) and
+coronary heart disease events.
+Subgrouping did not suggest diﬀerential eﬀects by primary or
+secondary prevention (P = 0.12; Analysis 1.18), baseline PUFA
+intake (Analysis 1.19), replacement of saturated fat or MUFA with
+PUFA (Analysis 1.20), age (Analysis 1.22), statin use or intervention
+type (Analysis 1.23; Analysis 1.24). Most coronary heart disease
+events occurred in trials of men, there is insuﬀicient information to
+understand eﬀects in other subgroups, though rather surprisingly
+there was a significant diﬀerence between subgroups of men and
+women combined and trials of mostly men or mostly women
+(Analysis 1.21).
+We downgraded the GRADE evidence level for imprecision and risk
+of bias combined (as despite over 10,000 participants the 95%
+confidence intervals included harm from increasing PUFA as well
+as benefit). PUFA intake probably reduces risk of coronary heart
+disease events, from 14.2% to 12.3% in the study populations, NNT
+53 (moderate-quality evidence), Summary of findings for the main
+comparison.
+Stroke
+PUFA intake may very slightly reduce risk of stroke (NNT 1000, low-
+quality evidence). However, the 95% confidence intervals include
+important harms as well as benefit.
+Eleven trials including 14,742 participants of whom 166
+experienced at least one fatal or non-fatal stroke. Meta-analysis
+suggested some reduction in risk of stroke with increased PUFA, but
+confidence intervals were wide (RR 0.91, 95% CI 0.58 to 1.44, I2 =
+24%; Analysis 1.25). The funnel plot did not suggest any small study
+bias (not shown).
+This suggestion of benefit from PUFA was also seen in the fixed-
+eﬀect sensitivity analysis (RR 0.82, 95% CI 0.61 to 1.11, Analysis
+1.27). While sensitivity analyses retaining only trials at low risk of
+bias from allocation concealment, attention and low summary risk
+of bias all suggested reduced stroke risk with increased PUFA, as
+did those on trials registers or pre-2010, and trials of at least 100
+participants, this was not the case for sensitivity analyses of trials
+at low risk of bias from compliance (RR 1.36, 95% CI 0.45 to 4.11, I2 =
+56%), trials without industry funding or of at least 250 participants
+(RR 0.98, 95% CI 0.60 to 1.60, I2 = 33%), Analysis 1.26.
+Subgrouping did not suggest greater eﬀects with higher doses of
+PUFA (Analysis 1.28), or longer duration (Analysis 1.29), without
+significant diﬀerences between subgroups. Meta-regression did not
+suggest relationships between PUFA dose and stroke (P = 0.69), but
+there was limited non-statistically significant suggestion of greater
+benefit in longer trials (P = 0.11).
+There were no significant diﬀerences between subgroups by
+primary or secondary prevention (P = 0.20; Analysis 1.30),
+baseline PUFA dose (Analysis 1.31), sex (Analysis 1.33), statin use
+(Analysis 1.35), fatal or non-fatal stroke (Analysis 1.37), replacement
+(Analysis 1.32), or intervention type (Analysis 1.36). There were
+diﬀerences when subgrouping was by age (Analysis 1.34), but
+greater protection at older age was balanced by harm in mid-life
+- a confusing picture. Where data on ischaemic or haemorrhagic
+stroke could be separated out, both subgroups suggested harm
+from increased PUFA, while data on combined ischaemic and
+haemorrhagic events suggested benefit from increased PUFA, again
+a non-intuitive pattern (Analysis 1.38).
+We downgraded the GRADE quality assessment twice for
+imprecision (even though over 14,000 participants were included
+only 166 people experienced stroke so we were underpowered to
+assess eﬀects). PUFA intake may reduce risk of stroke, from 1.2%
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+to 1.1% in the study populations, NNT 1000 (low-quality evidence),
+but harms are not ruled out, Summary of findings for the main
+comparison.
+Major adverse cardiac and cardiovascular events (MACCEs)
+Eﬀects of PUFA on risk of MACCEs are unclear as data are of very low
+quality.
+Two trials recruited 1879 participants, and 817 people experienced
+at least one MACCE. The trials suggested a 16% decrease in MACCE
+risk with increased PUFA, but were highly heterogeneous (RR 0.84,
+95% CI 0.59 to 1.20, I2 = 79%; Analysis 1.39). With only two included
+trials assessment of small study bias was not possible, and fixed-
+eﬀect analysis also suggested some benefit of PUFA (RR 0.92, 95%
+CI 0.82 to 1.04, I2 = 79%; Analysis 1.41). Most sensitivity analyses
+preserved the suggested reduction of risk of MACCEs with increased
+PUFA but no trials were at low summary risk of bias and none were
+at low risk of bias from allocation concealment (Analysis 1.40).
+With only two trials, subgrouping was generally uninformative
+(Analysis 1.42; Analysis 1.43; Analysis 1.44; Analysis 1.45; Analysis
+1.46; Analysis 1.47; Analysis 1.48; Analysis 1.49; Analysis 1.50).
+Whenever the two trials were in separate subgroups there was a
+statistically significant diﬀerence between subgroups. We did not
+attempt meta-regression.
+We downgraded GRADE assessment for risk of bias, inconsistency
+and imprecision. Eﬀects of PUFA on risk of MACCEs was unclear
+as data are of very low quality, Summary of findings for the main
+comparison.
+Secondary outcomes
+We formally systematically reviews secondary outcomes, in that
+we included all relevant trials that collected data on any of these
+outcomes. Summary of findings 2 displays GRADE assessments for
+the key outcomes not included in this review's primary outcomes.
+Cardiovascular mortality
+Increasing PUFA intake may have little or no eﬀect on
+cardiovascular mortality (low-quality evidence).
+Sixteen trials randomising 15,107 participants of whom 729 died
+of cardiovascular causes were included. Meta-analysis suggested
+little eﬀect of PUFA intake on cardiovascular disease deaths (RR
+1.02, 95% CI 0.82 to 1.26, I2 = 31%; Analysis 2.1). Sensitivity analyses
+suggested small non-significant benefits (limiting to trials at low
+risk of bias for attention) or non-significant harms (limiting to
+trials at low risk of bias for allocation concealment, compliance,
+summary risk of bias, trials registry entry or pre-2010, no industry
+funding, and larger trials; Analysis 2.2), and fixed-eﬀect analysis
+suggested no eﬀect (RR 1.01, 95% CI 0.88 to 1.16; Analysis 2.3). The
+funnel plot suggested that one or two smaller trials with RRs greater
+than 1.00 might be missing - replacing these would tend to raise the
+RR, suggesting slight harm.
+Subgrouping by PUFA dose suggested no statistically significant
+subgroup diﬀerences (Analysis 2.4). Meta-regression did not
+suggest any relationship with dose (P = 0.54). Subgrouping by
+duration showed no important diﬀerences between subgroups (P =
+0.72; Analysis 2.5). Meta-regression on duration was not statistically
+significant (P = 0.11).
+Subgrouping by primary or secondary prevention, replacement,
+sex, statin use, and intervention type did not explain any of
+the heterogeneity and subgroups did not diﬀer significantly
+(Analysis 2.6; Analysis 2.8; Analysis 2.9; Analysis 2.11; Analysis
+2.12). Subgrouping by baseline PUFA intake included six trials and
+suggested benefit of increasing PUFA intake in groups with baseline
+total PUFA intake less than 6% E (RR 0.71, 95% CI 0.52 to 0.97, I2
+= 0%, 141 cardiovascular disease deaths), but harm in groups with
+higher baseline PUFA intake (RR 1.32, 95% CI 1.07 to 1.62, I2 = 0%,
+326 cardiovascular disease deaths), removing heterogeneity and
+suggesting a statistically significant test for subgroup diﬀerences (P
+= 0.003; Analysis 2.7). Subgrouping by participant age also reduced
+heterogeneity and suggested significant subgroup diﬀerences (P =
+0.02; Analysis 2.10), suggesting harm from additional PUFA in adults
+aged under 50 years, more modest harm in those aged 50 to 65
+years, and benefit in those aged at least 65 years. These data could
+suggest greater utility of increasing total PUFA when baseline intake
+is low, and in older adults, but given the small number of trials
+caution is appropriate.
+We downgraded the GRADE assessment twice for imprecision (as
+important benefits and harms were included in the 95% confidence
+intervals). Increasing PUFA intake may have little or no eﬀect on
+cardiovascular mortality (low-quality evidence).
+Cardiovascular events
+Increasing PUFA intake probably reduces risk of cardiovascular
+events a little (NNT 59, moderate-quality evidence).
+Twenty trials randomising 17,799 participants reported at least one
+cardiovascular event in 2442 participants. Meta-analysis suggested
+that increasing total PUFA intake reduced the risk of cardiovascular
+disease events by 11%, with little heterogeneity (RR 0.89, 95% CI
+0.79 to 1.01, I2 = 30%; Analysis 2.13), as did fixed-eﬀect analysis
+(RR 0.92, 95% CI 0.86 to 0.98; Analysis 2.15). Sensitivity analyses
+limiting to trials with low risk of bias from attention bias, trials
+registry entry or pre-2010, trials with at least 100 or at least 250
+participants all retained suggestion of benefit from increased PUFA,
+while sensitivity analyses for allocation concealment, compliance,
+and industry funding suggested no important eﬀects, and limiting
+to studies with low summary risk of bias suggested increased risk
+(Analysis 2.14). The funnel plot did not suggest small study bias (not
+shown).
+Subgrouping by PUFA dose and trial duration did not show
+statistically significant diﬀerences between subgroups (P = 0.17 and
+0.18 respectively; Analysis 2.16; Analysis 2.17). Meta-regression did
+not suggest relationships between cardiovascular disease events
+and PUFA dose (P = 0.78) or trial duration (P = 0.70).
+Subgrouping by primary or secondary prevention, baseline PUFA
+dose, replacement, sex, statin use, and intervention type did not
+reduce heterogeneity and did not suggest significant diﬀerences
+between subgroups (Analysis 2.18; Analysis 2.19; Analysis 2.20;
+Analysis 2.21; Analysis 2.23; Analysis 2.24). Subgrouping by
+participant age suggested harm in younger participants (RR 1.66,
+95% CI 1.05 to 2.61, I2 = 0%), but benefit in middle-aged and older
+participants (RR 0.86, 95% CI 0.78 to 0.96, I2 = 0%), with statistically
+significant diﬀerences between subgroups (P = 0.03; Analysis 2.22).
+We downgraded the GRADE assessment for risk of bias (as
+sensitivity analyses suggested benefit, no eﬀect and some harm
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+from increased PUFA). Increasing PUFA intake probably reduces risk
+of cardiovascular events from 14.6% to 13.0% in study populations,
+NNT 63 (moderate-quality evidence).
+Coronary heart disease mortality
+Increasing PUFA intake may reduce risk of coronary heart disease
+death by a small amount (NNT 200, low-quality evidence).
+Nine trials randomised 8810 participants of whom 556 died of
+coronary heart disease. Meta-analysis suggested that increasing
+PUFA intake reduced risk of coronary heart disease death, without
+heterogeneity (RR 0.91, 95% CI 0.78 to 1.06, I2 = 0%; Analysis
+2.25). Results from the fixed-eﬀect analysis were very similar (RR
+0.90, 95% CI 0.77 to 1.05, I2 = 0%; Analysis 2.27). Although nine
+trials provided data, of the 556 deaths, 340 occurred in DART
+fat 1989, which carried 65% of the weight of the meta-analysis,
+and 138 occurred in AlphaOmega - ALA, which carried 23% of
+the weight. Results of all the sensitivity analyses were similar, all
+suggesting modest protection from increased PUFA (Analysis 2.26),
+although no subgroups were statistically significant. The funnel
+plot suggested that some small trials with RR over 1.0 may be
+missing, and if these trials were added back in they would tend to
+raise the RR towards 1.0 (Figure 4).
+ 
+Figure 4.   Funnel plot of comparison 2. Higher PUFA vs lower PUFA - dichotomous secondary outcomes, outcome:
+2.25 CORONARY HEART DISEASE (CHD) MORTALITY
+ 
+Subgrouping by dose and duration did not suggest subgroup
+diﬀerences (P = 0.92 and 0.90 respectively), though there was
+a counter-intuitive suggestion that lower doses and shorter
+durations produced greater benefits (Analysis 2.28; Analysis 2.29).
+Meta-regression did not suggest strong relationships between PUFA
+dose (P = 0.62) or trial duration (P = 0.71) and risk of coronary heart
+disease death.
+Subgrouping by primary or secondary cardiovascular disease
+prevention, baseline PUFA dose, replacement, sex, age, statin use,
+or intervention type did not suggest important diﬀerences between
+subgroups (Analysis 2.30; Analysis 2.31; Analysis 2.32; Analysis 2.33;
+Analysis 2.34; Analysis 2.35; Analysis 2.36).
+We downgraded the GRADE assessment for imprecision and
+publication bias. Increasing PUFA intake may reduce risk of
+coronary heart disease death a little from 6.6% to 6.1% in the study
+populations, NNT 200 (low-quality evidence).
+Myocardial infarction
+Increasing PUFA may reduce risk of myocardial infarction.
+Fifeen trials randomising 15,609 participants recorded 880
+myocardial infarctions. Meta-analysis suggested that increasing
+PUFA reduced the risk of myocardial infarction by 12% without
+heterogeneity (RR 0.88, 95% CI 0.78 to 0.99, I2 = 0%; Analysis 2.37).
+We did not plan to carry out sensitivity analyses, subgroup analyses
+or meta-regression for this outcome.
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Sudden cardiac death
+The eﬀect of increasing PUFA on sudden cardiac death is unclear.
+Five trials recruited 1731 participants of whom 69 experienced
+sudden cardiac death. Meta-analysis suggested some benefit from
+increasing PUFA (RR 0.80, 95% CI 0.50 to 1.29, I2 = 0%; Analysis 2.38),
+but the eﬀect was not statistically significant, and did not exclude
+important harms. There were insuﬀicient trials to assess the funnel
+plot. We did not plan to carry out sensitivity analyses, subgroup
+analyses or meta-regression for this outcome.
+Atrial fibrillation
+The eﬀect of increasing PUFA intake on atrial fibrillation is unclear
+as the evidence is of very low quality.
+Eleven trials recruited 11,692 participants of whom 811
+experienced new or recurrent atrial fibrillation. Meta-analysis
+suggested that increasing PUFA reduced the risk of atrial fibrillation
+by 13% with substantial heterogeneity (RR 0.87, 95% CI 0.72
+to 1.06, I2 = 57%, Analysis 2.39). Fixed-eﬀect analysis suggested
+marginal statistical significance (RR 0.87, 95% CI 0.72 to 1.06,
+I2 = 57%; Analysis 2.39). Sensitivity analyses generally suggested
+a non-significant protective eﬀect of the trials at lower risk of
+bias, but trials without industry funding and those at low risk
+from allocation concealment suggested a statistically significant
+reduction(Analysis 2.40). No trials were at low risk of bias from
+compliance problems.
+Subgrouping by new or recurrent atrial fibrillation suggested no
+important diﬀerences between subgroups (P = 0.31; Analysis 2.39).
+Subgrouping by PUFA dose did not suggest important diﬀerences
+between subgroups (Analysis 2.42), but subgrouping by duration
+suggested greater protection in shorter trials (P = 0.001; Analysis
+2.43). Meta-regression suggested that there was no relationship
+between PUFA dose and atrial fibrillation (P = 0.91), but there was
+a marginally significant relationship between duration and risk of
+atrial fibrillation (with benefit in shorter trials and harm in longer
+trials, P = 0.056).
+Subgrouping suggested no important eﬀects by replacement, sex,
+age, intervention type or statin use (no subgroup diﬀerences;
+Analysis 2.46; Analysis 2.47; Analysis 2.48; Analysis 2.49; Analysis
+2.50). Subgrouping suggested that PUFA was harmful in primary
+prevention (RR 1.33, 95% CI 0.99 to 1.79, I2 = 0%) and beneficial
+in secondary prevention of cardiovascular disease (RR 0.80, 95%
+CI 0.67 to 0.96, I2 = 58%), with significant subgroup diﬀerences (P
+= 0.004; Analysis 2.44). Only one trial had a known baseline PUFA
+intake so subgrouping was unhelpful (Analysis 2.45).
+We downgraded the GRADE assessment for risk of bias,
+inconsistency and imprecision. The eﬀect of increasing PUFA intake
+on atrial fibrillation is unclear as the evidence is of very low quality.
+Angina
+The eﬀect of increasing PUFA intake on angina is unclear.
+Seven trials including 2070 participants reported 100 participants
+experiencing new or worsening angina. Meta-analysis suggested
+that increasing PUFA reduced risk of angina (RR 0.64, 95% CI 0.35
+to 1.16, I2 = 46%; Analysis 2.51). There were insuﬀicient trials to
+assess the funnel plot and we did not plan to carry out sensitivity
+analyses, subgroup analyses or meta-regression for this outcome.
+One included trial had adequate allocation concealment and none
+were at low summary risk of bias.
+Heart failure
+The eﬀect of increasing PUFA intake on heart failure is unclear.
+Seven trials including 25,257 participants reported 137 participants
+experiencing new or worsening heart failure. Meta-analysis
+suggested that increasing PUFA reduced risk of heart failure
+but results were heterogeneous and important harms were not
+excluded (RR 0.74, 95% CI 0.40 to 1.36, I2 = 54%; Analysis 2.52). There
+were insuﬀicient trials to assess the funnel plot and we did not
+plan to carry out sensitivity analyses, subgroup analyses or meta-
+regression for this outcome. Two included trials had adequate
+allocation concealment and one was at low summary risk of bias.
+Peripheral arterial disease
+Increasing PUFA intake may increase the risk of peripheral arterial
+disease.
+Four trials including 8937 participants reported 97 participants
+experiencing new or worsening peripheral arterial disease.
+Meta-analysis suggested that increasing PUFA increased risk
+of peripheral arterial disease but important benefits were not
+excluded (RR 1.20, 95% CI 0.81 to 1.77, I2 = 0%; Analysis 2.53). There
+were insuﬀicient trials to assess the funnel plot and we did not
+plan to carry out sensitivity analyses, subgroup analyses or meta-
+regression for this outcome. Two included trials had adequate
+allocation concealment and two were at low summary risk of bias.
+Revascularisation
+The eﬀect of increasing PUFA intake on revascularisation is unclear.
+Six trials including 1182 participants reported 46 participants
+undergoing revascularisation. Meta-analysis suggested that
+increasing PUFA reduced risk of revascularisation but important
+harms were not excluded (RR 0.70, 95% CI 0.40 to 1.24, I2 = 0%;
+Analysis 2.54). There were insuﬀicient trials to assess the funnel
+plot and we did not plan to carry out sensitivity analyses, subgroup
+analyses or meta-regression for this outcome. One included trial
+had adequate allocation concealment and one was at low summary
+risk of bias.
+Adiposity - body weight
+Higher PUFA intake probably results in greater weight gain
+(moderate-quality evidence).
+Twelve trials presenting 15 comparisons, of which 13 could be
+included in meta-analyses, included 7100 participants with data
+on body weight. Meta-analyses suggested that weight increased
+with increased PUFA intake, although trials were heterogeneous
+(MD 0.76 kg, 95% CI 0.34 to 1.19, I2 = 59%; Analysis 3.1). The funnel
+plot suggested that some trials with smaller weight increases
+or reductions in the increased PUFA group may be missing. If
+replaced, these trials would tend to reduce the weight increase
+in the higher PUFA participants. Two trials (both also suggesting
+increased weight in the higher PUFA arm) did not provide variance
+data so could not be included in the meta-analysis, though they are
+shown in the forest plot (Analysis 3.1). A further five trials collected
+data on weight but did not provide those data in a way that could be
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 36]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+included in meta-analysis (MARINA - Sanders 2011; NDHS Faribault
+1968; NDHS Open 1st 1968; Simon 1997; Vijayakumar 2014).
+The eﬀect was larger when we used fixed-eﬀect analysis (MD
+1.08 kg, 95% CI 0.96 to 1.21; Analysis 3.3). Sensitivity analyses
+all suggested increased body weight with increased PUFA intake
+(although not statistically significantly when we limited to trials at
+low risk of compliance bias, Analysis 3.2).
+Subgrouping by PUFA dose, duration, primary or secondary
+prevention, replacement, sex, age and statin use did not diﬀer
+significantly by subgroups (Analysis 3.4; Analysis 3.5; Analysis
+3.6; Analysis 3.8; Analysis 3.9; Analysis 3.10; Analysis 3.11). There
+were important diﬀerences between subgroups when grouping
+by baseline PUFA dose, with greater weight increases for those
+with lower baseline PUFA intake (Analysis 3.7). Subgrouping by
+intervention type suggested diﬀerences between subgroups (P
+= 0.01; Analysis 3.12), suggesting greater weight increases with
+increased PUFA intake by dietary advice (MD 2.37 kg, 95% CI 1.19 to
+3.55, I2 = 0%) than in trials of supplemental foods or diet provided
+(MD 0.71 kg, 95% CI 0.18 to 1.25, I2 = 73%), or in supplemental trials
+(MD 0.37 kg, 95% CI -0.18 to 0.91, I2 = 0%).
+We downgraded the GRADE assessment of evidence for publication
+bias, leading to a moderate quality of evidence. Higher PUFA intake
+probably results in greater weight gain.
+Adiposity - BMI
+Higher PUFA intake may lead to higher BMI (low-quality evidence).
+Eight trials reported 11 comparisons including 4798 participants
+with BMI reported. Meta-analysis suggested that increasing PUFA
+intake results in greater BMI, but eﬀects were heterogeneous (MD
+0.17 kg/m2, 95% CI -0.08 to 0.42, I2 = 80%, Analysis 3.13). Fixed-
+eﬀect analysis was statistically significant (MD 0.27 kg/m2, 95% CI
+0.20 to 0.35, I2 = 80%; Analysis 3.15). The funnel plot did not suggest
+any small study bias, and we are aware of two trials that assessed
+BMI but did not provide data that could be used in meta-analysis
+(Simon 1997; Vijayakumar 2014). Sensitivity analyses all confirmed
+slightly increased BMI with increased PUFA intake (Analysis 3.14).
+Subgrouping by PUFA dose, duration, primary or secondary
+prevention, baseline PUFA intake, replacement, sex, age, statin
+use and intervention type did not suggest important diﬀerences
+between subgroups (Analysis 3.16; Analysis 3.17; Analysis 3.18;
+Analysis 3.19; Analysis 3.20; Analysis 3.21; Analysis 3.22; Analysis
+3.23; Analysis 3.24), and did not reduce heterogeneity.
+We downgraded the GRADE assessment for inconsistency and
+imprecision, leading to low-quality evidence. Higher PUFA intake
+may lead to higher BMI.
+Adiposity - other measures
+Several trials reported waist circumference (1298 participants in
+two trials; Analysis 3.25), percentage body fat (309 participants in
+two trials; Analysis 3.26) and body fat in kg (214 participants in a
+single trial; Analysis 3.27). Meta-analyses on waist circumference
+and percentage body fat both suggested greater weight gain in
+those on higher PUFA intake, while the single trial with data on
+body fat in kg suggested no diﬀerence in body fat regardless of PUFA
+intake. We are aware of several trials that assessed adiposity but
+did not provide data in a format that could be included in meta-
+analysis. HERO-Tapsell 2009 and Simon 1997 assessed percentage
+of body fat, and WAHA - Ros 2016 assessed waist circumference
+(shown in the meta-analysis but without variance data).
+Lipids - serum total cholesterol
+Higher PUFA intake leads to lower total cholesterol (high-quality
+evidence).
+Twenty six trials, incorporating data from 8072 participants (and 28
+trial arms), provided data on serum total cholesterol. Meta-analysis
+suggested that increasing PUFA intake reduced total cholesterol,
+although data were heterogeneous (MD -0.12 mmol/L, 95% CI -0.23
+to -0.02, I2 = 79%; Analysis 3.28). The funnel plot was diﬀicult to
+interpret, but we were aware of one trial (MRC 1968) that provided
+total cholesterol data without variance information, so could not be
+included in meta-analysis. This trial also suggested reduced total
+cholesterol in the higher PUFA arm (Analysis 3.28). Total cholesterol
+data from five trials (Dullaart 1992; EPOCH 2011; ORL 2013; Veterans
+Admin 1969; WINS 2006) could not be included in meta-analysis, so
+are missing.
+Sensitivity analyses, including fixed-eﬀect analysis, all suggested
+greater total cholesterol reduction with higher PUFA intake,
+although some were not statistically significant (Analysis 3.29;
+Analysis 3.30).
+Subgrouping by PUFA dose and duration did not suggest important
+diﬀerences between subgroups (Analysis 3.31; Analysis 3.32). We
+did not plan to run meta-regressions for continuous outcomes.
+Subgrouping by primary or secondary prevention, baseline PUFA
+intake, replacement, age, sex, statin use and intervention type did
+not suggest important diﬀerences between subgroups (Analysis
+3.33; Analysis 3.34; Analysis 3.35; Analysis 3.36; Analysis 3.37;
+Analysis 3.38; Analysis 3.39).
+We did not downgrade the GRADE assessment of evidence. Higher
+PUFA intake leads to lower total cholesterol (high-quality evidence).
+Lipids - serum fasting triglyceride
+Higher PUFA intake probably leads to lower triglyceride levels
+(moderate-quality evidence).
+Twenty trials incorporating data from 3905 participants (and 22
+trial arms) provided data on serum triglycerides. Meta-analysis
+suggested that increasing PUFA intake reduced triglycerides,
+although data were heterogeneous (MD -0.12 mmol/L, 95% CI -0.20
+to -0.04, I2 = 50%; Analysis 3.40). The funnel plot did not suggest
+small study bias, but we are aware of a further eight trials that did
+not report triglycerides in a way that could be incorporated into
+meta-analysis (Ahn 2016; EPOCH 2011; NDHS Faribault 1968; NDHS
+Open 1st 1968; ORL 2013; Rossing 1996; WAHA - Ros 2016; WINS
+2006).
+Sensitivity analyses, including fixed-eﬀect analysis, all suggested
+greater triglyceride reduction with higher PUFA intake, although
+some were not statistically significant (Analysis 3.41; Analysis 3.42).
+Subgroup analyses did not suggest diﬀerential eﬀects by
+dose, duration, baseline PUFA intake, replacement, statin use,
+intervention type, primary or secondary prevention, sex, or age
+(Analysis 3.43; Analysis 3.44; Analysis 3.45; Analysis 3.46; Analysis
+3.47; Analysis 3.48; Analysis 3.49; Analysis 3.50).
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We downgraded the GRADE evidence once for inconsistency. Higher
+PUFA intake probably leads to lower triglyceride levels (moderate-
+quality evidence).
+Lipids - high density lipoprotein (HDL)
+Higher PUFA intake probably has no important eﬀects on HDL
+(moderate-quality evidence).
+Eighteen trials incorporating data from 4674 participants (and 20
+trial arms) provided data on HDL. Meta-analysis suggested that
+increasing PUFA intake had little or no eﬀect on HDL, without
+heterogeneity (MD -0.01 mmol/L, 95% CI -0.02 to 0.01, I2 = 0%;
+Analysis 3.52). The funnel plot suggested that some trials with lower
+HDL in the higher PUFA arms may be missing, and adding any such
+trials into the meta-analysis would tend to lead to lower HDL with
+higher PUFA. We are aware of five trials that measured HDL but did
+not report the data in a way that could be incorporated into meta-
+analysis (EPOCH 2011; ORL 2013; Rossing 1996; WAHA - Ros 2016;
+WINS 2006).
+Sensitivity analyses, including fixed-eﬀect analysis, all confirmed
+lack of an important eﬀect (Analysis 3.53; Analysis 3.54).
+Subgrouping did not suggest diﬀerential eﬀects of PUFA dose,
+duration, primary or secondary prevention, baseline PUFA intake,
+replacement, sex, age, statin use or intervention type (Analysis 3.55;
+Analysis 3.56; Analysis 3.57; Analysis 3.58; Analysis 3.59; Analysis
+3.60; Analysis 3.61; Analysis 3.62; Analysis 3.63).
+We downgraded the GRADE assessment for publication bias. Higher
+PUFA intake probably has no important eﬀects on HDL (moderate-
+quality evidence).
+Lipids - low density lipoprotein (LDL)
+Higher PUFA intake probably has no important eﬀects on LDL
+(moderate-quality evidence).
+Fifeen trials incorporating data from 3362 participants (and 17
+trial arms) provided data on LDL. Meta-analysis suggested that
+increasing PUFA intake had little or no eﬀect on LDL, without major
+heterogeneity (MD -0.01 mmol/L, 95% CI -0.09 to 0.06, I2 = 44%;
+Analysis 3.64). The funnel plot suggested that some trials with lower
+LDL associated with higher PUFA may be missing, adding such trials
+in would tend to suggest that increasing PUFA reduces LDL. We are
+aware of three trials that measured LDL but did not report it in a
+way that could be included in meta-analysis (Dullaart 1992; EPOCH
+2011; ORL 2013).
+Sensitivity analyses, including fixed-eﬀect analysis, all confirmed
+this lack of eﬀect (Analysis 3.65; Analysis 3.66).
+Subgrouping did not suggest diﬀerential eﬀects of PUFA dose,
+duration, primary or secondary prevention, baseline PUFA intake,
+replacement, sex, age, statin use or intervention type (Analysis 3.68;
+Analysis 3.69; Analysis 3.70; Analysis 3.71; Analysis 3.72; Analysis
+3.73; Analysis 3.74; Analysis 3.75).
+We downgraded the GRADE assessment for publication bias. Higher
+PUFA intake probably has no important eﬀects on LDL (moderate-
+quality evidence).
+Tertiary outcomes
+We did not formally systematically review tertiary outcomes. Where
+the included trials reported these outcomes, we collated and
+analysed them.
+Blood pressure, systolic and diastolic
+Nine trials reported systolic blood pressure from 7356 participants,
+and eight trials reported diastolic blood pressure from 7327
+participants. There was no suggestion of an eﬀect of increased
+PUFA on systolic (MD -0.47 mmHg, 95% CI -2.20 to 1.26, I2 = 47%;
+Analysis 4.1) or diastolic blood pressure (MD 0.24 mmHg, 95% CI
+-0.55 to 1.02, I2 = 31%; Analysis 4.2). There were insuﬀicient trials to
+assess the funnel plots, but we are aware of four trials that assessed
+blood pressure and did not report it fully (EPOCH 2011; MRC 1968;
+NDHS Open 1st 1968; Rossing 1996), though the data from MRC
+1968 are displayed in the forest plot. We did not plan to carry
+out sensitivity analyses, subgroup analyses or meta-regressions for
+these outcomes. Six of the trials in each analysis had low risk of
+bias from allocation concealment, and six were at low summary
+risk of bias. Lack of reporting of this commonly collected outcome
+may suggest publication bias, and the four trials with missing data
+would tend to confirm this.
+Quality of life
+One trial (Dodin 2005) assessed the eﬀect of their flaxseed
+intervention on quality of life, using the MENQOL scale. MENQOL
+assesses the impact of four domains (vasomotor, psychosocial,
+physical and sexual) of menopausal symptoms over the previous
+month with scores ranging from 0 (no impact, high quality of life) to
+32 (very poor quality of life in all domains). They found that over 12
+months the MENQOL score fell slightly in both groups (intervention
+group -0.23, SD 0.62, N = 85, control group -0.14, SD 0.58, N = 94).
+This suggested little eﬀect of the intervention on quality of life
+related to menopausal symptoms. We found no further data on
+quality of life in the included trials, though dropouts may provide
+some information on how willing to continue the interventions
+participants were.
+Economic costs
+We did not find any data on economic costs in the included trials.
+Serious adverse events
+Adverse events reported in one or two trials each included the
+following, with no clear eﬀects for any outcomes (Analysis 4.3).
+1. Pulmonary embolism (RR 2.15, 95% CI 0.48 to 9.57, I2 = 0%, 2
+trials, 2087 participants, 7 events)
+2. Mutliple sclerosis worsened or acute attack (RR 1.11, 95% CI 0.95
+to 1.30, I2 = 0%, 2 trials, 268 participants, 142 events)
+3. Bleeding (RR 0.80, 95% CI 0.34 to 1.85, I2 = 0%, 2 trials, 748
+participants, 21 events)
+4. Gastrointestinal hospitalisation (RR 1.75, 95% CI 0.53 to 5.79, 1
+trial, 200 participants, 11 events)
+5. Retinopathy diagnosis (RR 1.02, 95% CI 0.56 to 1.86, 1 trial, 2424
+participants, 42 events)
+Eﬀects of increased PUFA intake on dementia and neurocognitive
+outcomes (Jimoh 2017), type 2 diabetes and measures of glucose
+metabolism (Brown 2017), inflammatory bowel disease and
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+inflammatory markers (Thorpe 2017), cancers (Hanson 2017b),
+depression and anxiety (Hanson 2017a) and functional outcomes
+(Abdelhamid 2017) are systematically reviewed elsewhere, so we
+have not reported results of eﬀects seen in trials included in this
+review, as they are a potentially misleading subset. The systematic
+reviews on these health outcomes are not yet published, so we
+have provided references to their protocols so that the systematic
+reviews can be located.
+Eﬀects of increasing PUFA on pulmonary embolism and bleeding
+are unclear as the evidence is of very low quality.
+Dropouts
+Twenty-seven trials reported 1675 dropouts, suggesting that being
+in the higher or lower PUFA arm did not make much diﬀerence
+to the likelihood of dropping out (RR 0.99, 95% CI 0.87 to 1.13, I2
+= 41%; Analysis 4.4). This may suggest that increasing PUFA is an
+acceptable intervention.
+D I S C U S S I O N
+Summary of main results
+This Cochrane Review included 49 RCTs randomising 24,272
+participants, for one to eight years. We identified 22 potential
+ongoing trials. Total PUFA dose (the diﬀerence in total PUFA
+between intervention and control arms) was 0.6% E to less than 1%
+E for 13 trials, 1% E to less than 2% E in 17 trials, 2% E to less than
+5% E in eight trials, and 5% E or more from total PUFA in 11 trials.
+We assessed 11 of the 49 included trials as being at low summary
+risk of bias.
+Increasing PUFA intake probably has little or no eﬀect on all-cause
+mortality (risk changes from 7.8% to 7.6%, RR 0.98, 95% CI 0.89
+to 1.07, I2 = 0%, 1443 deaths, 24 trials, moderate-quality evidence,
+downgraded for imprecision). Increasing PUFA probably reduces
+the risk of coronary heart disease events (from 14.2% to 12.3%, RR
+0.87, 95% CI 0.72 to 1.06, I2 = 45%, 1351 people with coronary heart
+disease events, 15 trials, moderate quality evidence, downgraded
+for imprecision and risk of bias combined) and stroke (from 1.2%
+to 1.1%, RR 0.91, 95% CI 0.58 to 1.44, I2 = 24%, 166 strokes, 11
+trials, however the confindence intervals included important harm,
+low-quality evidence downgraded once for imprecision and once
+for risk of bias and imprecision combined). Eﬀects on MACCEs (RR
+0.84, 95% CI 0.59 to 1.20, I2 = 79%, 817 events, 2 trials) are unclear
+as evidence is of very low quality (downgraded for risk of bias,
+imprecision and inconsistency).
+For secondary outcomes we found that increasing PUFA intake
+probably reduces risk of cardiovascular disease events (from 14.6%
+to 13.0%, RR 0.89, 95% CI 0.79 to 1.01, I2 = 30%, 2442 events,
+21 trials, moderate-quality evidence). Increasing PUFA intake may
+slightly reduce risk of coronary heart disease death from 6.6% to
+6.1% (RR 0.91, 95% CI 0.78 to 1.06, I2 = 0%, 556 coronary heart
+disease deaths, 9 trials) and myocardial infarction (RR 0.88, 95%
+CI 0.78 to 0.99, I2 = 0%, 880 myocardial infarctions, 15 trials) but
+may increase the risk of peripheral arterial disease (RR 1.20, 95% CI
+0.81 to 1.77, I2 = 0%, 97 events, 4 trials) and have little or no eﬀect
+on cardiovascular mortality (4.8% to 4.9%, RR 1.02, 95% CI 0.82 to
+1.26, I2 = 31%, 729 cardiovascular disease deaths, 16 trials), all low-
+quality evidence. The eﬀect of increasing PUFA on sudden cardiac
+death, angina, atrial fibrillation, heart failure and revascularisation
+is unclear as the evidence is of very low quality.
+High-quality evidence suggests that increasing PUFA intake slightly
+reduces total serum cholesterol over at least one year (MD -0.12
+mmol/L, 95% CI -0.23 to -0.02, I2 = 79%, 8072 participants, 26 trials).
+Increasing PUFA intake probably causes some weight gain (MD 0.76
+kg, 95% CI 0.34 to 1.19, I2 = 59%, 7100 participants, 12 trials),
+decreases triglycerides (MD -0.12 mmol/L, 95% CI -0.20 to -0.04, I2
+= 50%, 3905 participants, 20 trials) and has little eﬀect on HDL (MD
+-0.01 mmol/L, 95% CI -0.02 to 0.01, I2 = 0%, 4674 participants, 18
+trials) or LDL (MD -0.01 mmol/L, 95% CI -0.09 to 0.06, I2 = 44%, 3362
+participants, 15 trials) (all moderate-quality evidence).
+There was limited information on blood pressure, quality of
+life, economic outcomes or adverse health eﬀects. Eﬀects of
+increasing PUFA on pulmonary embolism and bleeding are unclear
+as the evidence is of very low quality. Eﬀects of PUFA intake
+on other serious adverse health eﬀects (cancers, inflammatory
+bowel disease, depression or anxiety, neurocognitive outcomes,
+functional outcomes and diabetes) are systematically reviewed and
+reported elsewhere.
+We looked for dose and duration eﬀects using subgrouping and
+meta-regression, finding none except a duration eﬀect in atrial
+fibrillation, with protective eﬀects in shorter trials (up to two years),
+little or no eﬀect in trials of two to less than four years, and harm
+in longer trials (Analysis 2.43). We found no evidence of no linear
+dose eﬀects, though assessment of PUFA doses actually delivered
+by trials were diﬀicult to ascertain, ofen due to missing control
+information. Baseline PUFA intake (or PUFA intake in the control
+group as a proxy) were poorly reported, reducing our ability to see
+subgroup diﬀerences - there was a suggestion of greater benefit of
+PUFA with lower baseline PUFA intake for cardiovascular disease
+mortality, but not for other cardiovascular outcomes.
+There were no clear patterns of diﬀerential eﬀects across outcomes
+by primary or secondary prevention, replacement, sex, age, statin
+use or intervention type. Subgrouping did not suggest diﬀerences
+between eﬀects in primary or secondary prevention, except for
+atrial fibrillation, where increasing PUFA in primary prevention
+was harmful and increasing PUFA in secondary prevention was
+beneficial (Analysis 2.44). There were no diﬀerential eﬀects by
+replacement, sex or statin use. For cardiovascular disease mortality
+there was a suggestion of harm from increasing PUFA intake in
+younger adults, smaller levels of harm in middle-aged adults and
+benefit in those aged at least 65 years (Analysis 2.10). This pattern
+was repeated for cardiovascular disease events, except that some
+benefit was seen in the middle-aged group (Analysis 2.22), although
+this pattern was not seen for other outcomes. Dietary advice
+appeared to lead to greater increases in body weight and BMI
+(Analysis 3.12; Analysis 3.24), while dietary advice and supplements
+to increase PUFA appeared to reduce triglyceride to a greater extent
+than supplemental foods or diet provided (Analysis 3.51).
+Overall completeness and applicability of evidence
+Included trials randomised 24,272 participants over periods of at
+least a year. Participants were men and women aged from their 20s
+into their 80s but most trials recruited participants with a mean
+age of 50 to 65 years. Most coronary heart disease events occurred
+in these 'middle-aged' trials, but most deaths occurred in trials of
+older adults. Twenty-two trials included 70% or more men, and
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+many of these were exclusively in men, six included 70% or more
+women, and sixteen included a balanced proportion of men and
+women. Despite this, most coronary heart disease events (1289 of
+1351) and deaths (1134 of 1443) occurred in trials mainly of men,
+so while women are included it is not clear whether any eﬀects are
+generalisable to them. Similarly, while younger adults are included,
+most events occurred in older adults, which partly explains the
+lack of appearance of some trials of younger adults in many of the
+analyses on health events. We included these trials as they reported
+data on lipids or adiposity, or both, and sometimes one or two
+health events.
+Two included trials were from countries with developing
+economies (Mendis 2001 from Sri Lanka and Vijayakumar 2014
+from India) but while both provided lipid data, the only events
+were two deaths in Vijayakumar 2014. This means that the
+bulk of the information in this review is from countries with
+developed economies. Some trials were from areas with non-
+western dietary practices, including South Korea (Ahn 2016), Japan
+(DIPP-Tokudome 2015; Doi 2014; Mita 2007; ORL 2013), Sri Lanka
+(Mendis 2001), and India (Vijayakumar 2014), however ofen the
+dietary intakes of these populations at baseline and during the trial
+were not well described.
+Our data spring from trials conducted from the 1960s (MRC 1968;
+NDHS Faribault 1968; NDHS Open 1st 1968; Rose 1965; Veterans
+Admin 1969) to the present, and during this sixty year period
+cardiovascular disease incidence has altered. For example, in 2010
+one in four deaths worldwide was from ischaemic heart disease
+or stroke, up from one in five in 1990 (Lozano 2012). But this
+worldwide increase hides more complex trends, with diﬀerent rates
+and trends in diﬀerent parts of the world. Death rates from CHD
+in men aged 35 to 74 were 839/100,000 in Ukraine in 2000, but
+˜200/100,000 in the USA and UK, and only 54/100,000 in Japan.
+Rates in women were lower but followed the same trends by
+country (WHO 2004). In the UK as in most high-income countries
+age-standardised death rates from coronary heart disease in adults
+of all ages fell by 72% between 1979 and 2013, and stroke mortality
+fell by 71% over the same period (Bhatnagar 2016). Globally age-
+adjusted annual incidence of stroke in men and women of all ages
+has increased slightly from 1990 to 2010, but this masks falls in high-
+income countries and rises in low and middle-income countries
+(Feigin 2014; Carandang 2006). While we assess eﬀects using risk
+ratios in this review so that we can see relative eﬀects regardless
+of baseline incidence, baseline incidence aﬀects absolute eﬀects
+including numbers needed to treat. Our results suggest that we
+need to increase total PUFA intake in ˜53 people to prevent one
+person experiencing a CHD event, in ˜63 people to prevent a CVD
+event, and even more for CHD death and stroke. But in populations
+at greater risk NNTs will be lower (fewer people needing to increase
+their PUFA to prevent one person experiencing an event), and in
+lower risk populations NNTs will be higher. The greatest import of
+dietary increases in total PUFA intake is likely to be in low- and
+middle-income countries where rates of CVD are higher (and rising).
+Results relate to both primary and secondary prevention of
+cardiovascular disease. However, as would be expected, most
+events occurred in those with existing cardiovascular disease. For
+example, 1130 of 1443 deaths (78%) were in participants with
+cardiovascular disease at baseline (Analysis 1.6). Eﬀects in the
+secondary prevention group (risk barely altering from 11.7% in
+the lower PUFA arm to 11.5% (95% CI 10.1 to 13.1%) in the
+higher PUFA arm) were similar to those without cardiovascular
+disease at baseline (primary prevention, risk barely altering from
+3.4% in the lower PUFA arm to 3.3% (95% CI 2.7 to 4.1%) in
+the higher PUFA arm). For cardiovascular disease events 2013 of
+2435 people (83%) experiencing cardiovascular disease events had
+existing cardiovascular disease at baseline (Analysis 2.18). Risk of a
+cardiovascular disease event fell by 2.5% from 23.3% to 20.8% (95%
+CI 17.5% to 24.5%) in secondary prevention, and fell by 0.9% from
+5.8% to 4.9% (95% CI 4.2% to 5.9%) in primary prevention when
+increasing PUFA intake.
+We are aware of missing trials. We were unable to access data
+for AFORRD; NCT00309439; NCT00410020; Chandrakala 2010 or
+ACTRN12610000594022, which all appeared likely to be eligible.
+They were all registered before the end of 2010 or had planned
+finish dates up to the end of 2015, hence appear to be completed
+but unpublished (see Characteristics of ongoing studies). We are
+also aware of some missing data within included trials - for
+example there were deaths in Bates 1977 but they were reported
+combined with dropouts and the trial author no longer has the
+data, and two deaths in Simon 1997 not reported by intervention
+arm. Houtsmuller 1979 reported coronary heart disease events
+and mortality, but not all-cause deaths or cardiovascular disease
+events. Sixteen trials (Ahn 2016; Black 1994; Dullaart 1992; EPOCH
+2011; HERO-Tapsell 2009; MARINA - Sanders 2011; MRC 1968; NDHS
+Faribault 1968; NDHS Open 1st 1968; ORL 2013; Rossing 1996;
+Simon 1997; Veterans Admin 1969; Vijayakumar 2014; WAHA -
+Ros 2016; WINS 2006) reported at least one continuous outcome
+without variance data or without change data and with baseline
+data too diﬀerent to allow us to use end data (so we missed at least
+six sets of data on total cholesterol, eight on triglyceride, seven on
+body weight and four sets on blood pressure). On the other hand,
+we were provided the full dataset on events for DART fat 1989, so
+were able to include data for almost all of our outcomes, data for
+Sydney Diet-Heart 1978 were well reported in recent re-analyses
+and the trial authors kindly augmented these data, and outcome
+data in Veterans Admin 1969 were very well reported, so data are
+probably almost complete for these large trials. Authors of many
+other trials provided some additional data on outcomes and/or
+confirmed that no participants experienced specific outcomes.
+We identified 22 potential ongoing trials (Characteristics of ongoing
+studies), but these trials are very diﬀicult to assess for inclusion
+in terms of total PUFA dose, until further details are published.
+We will formally assess these trials for inclusion when we update
+this review. Two of these trials specifically include women,
+who are underrepresented in trials already included in this
+review (NCT01784042; NCT02295059). Other ongoing trials appear
+generally to be in both men and women, which will increase the
+proportion of data provided by women. Two trials appear to be
+planned for developing economies (India Chandrakala 2010 and
+China n-3 on plasma lipid), but the majority appear to be carried out
+in Europe, North America and Australia. It is not possible to assess
+whether any of these trials will document trans fat intake or status,
+or indeed intake or status of other key fats and nutrients. There is
+no suggestion that any of these trials are targeting participants with
+low baseline total PUFA intakes. Overall, they may begin to address
+information about women more thoroughly, but not deficiencies
+in the database of information on participants from lower-income
+countries, and they are not clearly of higher quality when it comes
+to assessment of dietary intakes and nutritional status before and
+during the trials.
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 40]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We all consume PUFA already (it is essential in our diets). It
+would be useful to understand whether increasing PUFA in people
+who eat very little has the same eﬀect as increasing PUFA
+in people already consuming large amounts. Unfortunately few
+trials assessed overall dietary intake of participants at baseline
+or through the trial. Only 16 of the 49 included trials provide
+information on baseline or control-arm PUFA intake (we used
+control-arm PUFA intake in lieu of baseline PUFA intake where
+no baseline intake was given and the control arm were on 'usual
+intake'). Of these 16 trials, participants in seven consumed less than
+6% E from PUFA and nine 6% E and above. Despite these limited
+data there is a pattern across the review that eﬀects in participants
+with less than 6% E PUFA intake at baseline are positive, but eﬀects
+in those with higher baseline PUFA intake are negative or neutral -
+though we do not see statistically significant diﬀerences between
+subgroups and data are very limited. The pattern is evident for
+coronary heart disease events (Analysis 1.19), stroke (Analysis 1.31),
+MACCEs (Analysis 1.45), cardiovascular disease mortality (Analysis
+2.7), and cardiovascular disease events (Analysis 2.19), but not in
+all-cause mortality where no eﬀects are seen in any group (Analysis
+1.7) or coronary heart disease mortality (Analysis 2.31), and we lack
+data for atrial fibrillation. This relationship needs to be checked in
+future trials, but suggests that increasing total PUFA intake to at
+least 6% E may be appropriate.
+Other subgrouping and meta-regression eﬀects that would tend
+to support true eﬀects of increasing total PUFA on some
+cardiovascular outcomes include seeing greater eﬀects with higher
+PUFA doses or with longer duration (for dichotomous outcomes).
+We consistently do not see dose or duration eﬀects within the
+review, and this weakens our findings of health eﬀects arising from
+increasing PUFA.
+Total PUFA is the sum of omega-3, omega-6 and some omega-9
+fats, which may have their own specific eﬀects on our outcomes.
+We have assessed specific eﬀects of omega-3 (Abdelhamid 2018)
+and omega-6 (Hooper 2018) in separate reviews, but this review
+aims to assess whether there is a group eﬀect of PUFAs. It would
+be useful to assess eﬀects of omega-3/omega-6 ratio in this review
+- but these data are not available. Similarly data on trans fats would
+be useful, as it is possible that some trials increased trans fats when
+providing PUFA (through use of partially hydrogenated fats). There
+is evidence that trans fats may be harmful (de Souza 2015), and so
+may confound our understanding of the PUFA trials. Unfortunately
+almost no information on trans fat intake was found, so we could
+not assess this issue.
+Despite systematic review evidence that omega-3 fats do not
+influence cardiovascular disease risk (Abdelhamid 2018) there is
+a theory that the ratio of omega-3 to omega-6 fats is important
+for cardiovascular health and body weight (Simopoulos 2016). We
+planned to subgroup by change in the omega-3/omega-6 fat ratio,
+assessing whether the intervention primarily increased omega-3
+fats (putting up the ratio) or omega-6 fats (lowering the ratio).
+However, only three trials (DIPP-Tokudome 2015; PREDIMED 2013;
+WAHA - Ros 2016) reported both omega-3 and omega-6 intakes
+(understanding supplemental intakes only would not be adequate).
+This means that we cannot use this review to assess health eﬀects
+of altering the omega-3/omega-6 ratio.
+There were no clear dose or duration eﬀects in the review.
+While we would expect that replacing saturated fat, MUFA or
+carbohydrate with PUFA would give diﬀerent health eﬀects, we
+do see greatest reduction in total cholesterol with replacement of
+saturated fat (Analysis 3.35), and greatest reduction of triglyceride
+with replacement of MUFA (Analysis 3.47). However, there are
+no statistically significant diﬀerences between subgroups for
+these outcomes or any other health outcomes. There are no
+clear replacement eﬀects. It is also surprising to see increased
+PUFA intake reducing total cholesterol and triglyceride (Analysis
+3.28; Analysis 3.40), with no change in LDL (Analysis 3.64).
+The Friedewald equation (Friedewald 1972) states that 'total
+cholesterol = LDL + HDL + triglyceride/2.19' (all components in
+mmol/L), so for the changes of total cholesterol and triglyceride
+we see, we would expect similar falls in LDL, but this is not seen.
+Reasons for this are not clear, but it is possible that changes in very
+low density lipoprotein (VLDL) added to triglyceride reductions and
+very small changes in HDL and LDL could add up to the overall total
+cholesterol reduction.
+Overall, included data are applicable, but not entirely complete.
+While further trials of increasing PUFA intake in women and
+in developing economies are needed, they should include
+participants with low PUFA intakes at baseline, as well as those
+with higher intakes. Dietary advice needs to ensure that trans fat
+intake is kept low as PUFA increases, and intakes of all fat fractions,
+including trans fat intakes should be assessed and checked using
+reliable biomarkers.
+Quality of the evidence
+GRADE assessment includes consideration of risk of bias,
+inconsistency, indirectness, publication bias and imprecision
+(Summary of findings for the main comparison and Summary of
+findings 2).
+We assessed risk of bias by assessing whether eﬀect sizes and
+directions altered when limited to trials at low risk of bias from
+allocation concealment, from attention bias, from compliance,
+trials at low summary risk of bias, with trials registry registration
+(or pre-2010), without industry funding, and that randomised
+at least 100 or 250 participants. Sensitivity analyses generally
+supported the primary analysis for all-cause mortality, coronary
+heart disease mortality, cardiovascular disease mortality, weight
+and lipid outcomes (Analysis 1.2; Analysis 2.2; Analysis 2.14;
+Analysis 2.26; Analysis 3.2; Analysis 3.14; Analysis 3.29; Analysis
+3.41; Analysis 3.53; Analysis 3.65), so we did not downgrade these
+for risk of bias. Either sensitivity analyses contradicted the primary
+analyses (for coronary heart disease events and stroke; Analysis
+1.14; Analysis 1.26) or there were no trials at low summary risk
+of bias, or low risk of compliance problems (MACCEs and atrial
+fibrillation; Analysis 1.40; Analysis 2.40), so we downgraded these
+outcomes for risk of bias.
+We judged imprecision by whether the 95% CI included the null,
+and whether it included important benefits and harms. Where both
+important benefits and harms were included within the confidence
+interval we downgraded twice, where it only included the null
+we downgraded once unless there was a very small overlap. We
+downgraded the evidence on all primary and some secondary
+outcomes for imprecision, suggesting that included trials may still
+be underpowered to determine eﬀectiveness on these outcomes.
+There was no evidence of under-powering for lipid outcomes.
+We judged inconsistency using the I2 statistic for each primary and
+secondary outcome. We considered an I2 statistic greater than 50%
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 41]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+to be a problem and led to us downgrading for inconsistency unless
+we found an element that explained that inconsistency (through
+subgrouping or meta-regression). We downgraded the primary
+outcome, MACCEs for inconsistency, and also secondary outcomes,
+atrial fibrillation, BMI and triglyceride.
+We judged indirectness according to whether data on an outcome
+related to both women and men, those with and without
+cardiovascular disease at baseline, and whether low- and middle-
+income, and high-income countries were represented. While
+indirectness is important, we suspect that the mechanisms of
+action of PUFA are similar in all these populations so we did not
+downgrade for indirectness.
+We judged publication bias according to whether there was any
+suggestion of publication or small study bias in the funnel plot,
+or where we knew that data were missing that diﬀered from the
+summary assessment. We downgraded the secondary outcomes,
+coronary heart disease mortality, body weight, HDL and LDL for
+publication bias.
+Trial funding can be an important indicator of study bias but is
+not included in 'Risk of bias' assessment. Sixteen trials reported
+funding sources, which appeared to be purely from national or
+charitable agencies, seven trials appeared to be directly funded by
+industrial sources, two funded by bodies set up to promote specific
+foods, 16 by some governmental or charity sources with additional
+funding or support from commercial sources, two trials included
+authors on industry honoraria, and five trials did not report funding.
+Trial pre-registration or early publication of a trial protocol is
+helpful in understanding potential biases in data presentation
+(including outcome selection bias). We ran sensitivity analyses
+assessing whether trials that were pre-registered or had a
+published protocol suggested diﬀerent eﬀects than trials without
+such documentation. We found trials registry entries for most
+included trials published afer 2010. Making datasets of all
+outcomes available via trials registers would also help systematic
+reviewers to gather all appropriate data, and minimise publication
+bias.
+Applying the GRADE criteria suggests that we have high-quality
+evidence on eﬀects of PUFA on serum total cholesterol (not
+downgraded), moderate-quality evidence on all-cause mortality,
+coronary heart disease events, cardiovascular disease events, body
+weight, triglyceride, HDL and LDL (each downgraded once), and
+low-quality evidence for stroke, cardiovascular disease mortality,
+coronary heart disease mortality and BMI (each downgraded twice).
+All other evidence was of very low quality. Reasons for grading, and
+statements of findings based on these levels of evidence are found
+in Summary of findings for the main comparison and Summary of
+findings 2.
+Potential biases in the review process
+We conducted a large number of sensitivity analyses and subgroup
+analyses for each primary outcome, as well as some secondary
+outcomes (key outcomes). The danger in these is that subgroups
+may be spuriously statistically significant, but we used them to
+check the stability of our primary analyses, as well as to try to
+explain heterogeneity, assessing for dose eﬀects, duration eﬀects
+and diﬀerential eﬀects by what PUFA replaces in the diet. We have
+tried not to over-interpret any of these analyses.
+We only considered trials with interventions or follow-up periods
+of 12 months or more, making the review relevant for public health
+interventions. We considered including shorter trials, but were
+concerned that if we found no eﬀect then this might be due to
+including trials too short to reflect health eﬀects of increasing
+or decreasing PUFA intake. The decision on duration depended
+on assumed mechanism of action of PUFA. If we assumed a
+cholesterol-led atherosclerotic mechanism then we could justify
+deciding only to include trials of at least two years' duration.
+However another mechanism discussed for omega-3 and omega-6
+fats includes inflammation - likely to work more quickly than
+atherosclerosis, so allowing six months for equilibration of body
+tissues with the new dietary intake, and a further six months
+to allow for reflection of this new status in health outcomes,
+appears most appropriate to us. We ran subgroup analyses to
+assess whether trial duration made an important diﬀerence to
+our primary outcomes. We did not find any suggestion of greater
+eﬀects in longer trials (those of at least four years) compared to
+shorter trials (one to less than two years, or two to less than
+four years) for all-cause mortality (Analysis 1.5), coronary heart
+disease events (Analysis 1.17), or stroke (Analysis 1.29). Only two
+trials provided data on MACCEs, but these two trials did suggest a
+protective eﬀect in the longer trial (Analysis 1.43). Meta-regression
+did not suggest duration eﬀects for any primary outcome. Similarly
+there were no duration eﬀects in subgrouping or meta-regression
+for cardiovascular disease mortality (Analysis 2.5), cardiovascular
+disease events (Analysis 2.17), or coronary heart disease mortality
+(Analysis 2.29), though visual inspection tended to suggest greater
+protection in the shortest trials, despite them reporting few events.
+There was a suggestion of a duration eﬀect for atrial fibrillation, but
+the suggestion was for greater eﬀect in shorter trials, and no eﬀect
+in longer trials (Analysis 2.43). Conversely participants taking more
+PUFA gained more weight and their BMI rose more in longer trials
+(Analysis 3.5; Analysis 3.17).
+Our inclusion criteria could potentially cause some bias. Few trials
+directly aimed to assess eﬀects of increasing PUFA with usual or
+lower PUFA intake, so included trials are a combination of trials
+that aimed to increase PUFA, trials that aimed to increase omega-3
+or omega-6 fats and resulted in an increase of at least 10% of
+baseline PUFA intake, and trials that aimed to reduce total fat intake
+and resulted in a decrease of at least 10% of baseline PUFA intake
+(while not aiming to alter dietary components other than fat or
+replacements for the change in PUFA). This allowed assessment
+of eﬀects of altering PUFA intake, but we had to exclude trials
+that may have been relevant but did not report aims for or eﬀects
+on total PUFA, so we may be missing other trials that would be
+relevant to this review. It is also possible that we included trials that
+aimed to increase or decrease total PUFA but did not achieve the
+planned changes in PUFA intake. To help guard against this we also
+conducted sensitivity analyses around compliance, removing trials
+where we did not have biomarker confirmation of a diﬀerence in
+PUFA status between trial arms.
+Even though we excluded clearly multifactorial trials, when we alter
+one dietary component, other components inevitably alter too.
+For example, when PUFA intake is increased we need to reduce
+energy intake elsewhere, so saturated fat or carbohydrate intake
+may fall to compensate. The danger is that we may see a health
+eﬀect from increasing PUFA that is actually due to a reduction in
+saturated fat. However, in this review some trials that increased
+PUFA reduced saturated fat, and in other trials PUFA and saturated
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 42]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+fat were both reduced in the intervention arm. Regardless of which
+arm the trial considered to be the intervention arm we compared
+the arm with higher PUFA against the arm with lower PUFA to look
+for consistent eﬀects of higher PUFA intake. Because saturated fat
+(and other dietary components) sometimes moved with PUFA and
+sometimes moved in the opposite direction the only consistent
+diﬀerence between arms was in PUFA intake. This means that
+health eﬀects noted are unlikely to be spurious eﬀects of other
+dietary components. Combining higher versus lower PUFA intake
+across diﬀerent types of trials may balance out eﬀects of other
+dietary (fat and non-fat) components while providing power to
+assess health eﬀects of changing PUFA.
+Agreements and disagreements with other studies or
+reviews
+We recently published a Cochrane Review of long-term RCTs that
+assessed eﬀects of reducing saturated fats, replacing them with
+a variety of other energy sources (Hooper 2015a). This review
+found no eﬀect of reducing saturated fats on all-cause mortality or
+cardiovascular disease mortality, but the evidence suggested that
+reducing saturated fats reduced the risk of cardiovascular disease
+events (RR 0.83, 95% CI 0.72 to 0.96, I2 = 65%, including 4377 events
+in over 53,000 randomised participants). Subgrouping, assessing
+whether the saturated fats were being replaced by PUFA, MUFA,
+carbohydrate and/or protein found that there were no statistically
+significant eﬀects in these subgroups except where saturated fat
+was being replaced by PUFA (RR 0.73, 95% CI 0.58 to 0.92, I2 = 69%,
+884 events in over 3000 participants). Hooper 2015a confirmed
+results expected from the Friedewald equation (Friedewald 1972).
+The trials included in the saturated fat review and this one are
+distinct due to rather diﬀerent inclusion criteria (for example, the
+saturated fat review only included trials of at least two years
+duration, and included trials with dietary interventions decreasing
+saturated fat plus altering other dietary variables). The implications
+of the reviews are similar - Hooper 2015a suggests that reducing
+saturated fat and replacement by polyunsaturated fats reduces
+the risk of cardiovascular disease events, while this review also
+suggests that increasing PUFA may reduce the risk of cardiovascular
+disease events, as well as coronary heart disease mortality (as
+well as reducing total cholesterol and triglyceride). However, this
+current review also suggests that increasing PUFA intake also leads
+to slight weight gain.
+Two previous systematic reviews of RCTs assessed eﬀects of PUFA
+replacing saturated fat: Ramsden 2010 and Mozaﬀarian 2010.
+Ramsden 2010 included seven trials that compared increasing
+mixed omega-3 and omega-6 PUFA or omega-6 alone and replacing
+dietary saturated fat with usual dietary intake. Their data suggested
+no eﬀect on all-cause mortality (RR 0.99, 95% CI 0.89 to 1.11),
+but likely reductions in coronary heart disease mortality (RR
+0.91, 95% CI 0.74 to 1.10), and myocardial infarction and cardiac
+death combined (RR 0.85, 95% CI 0.73 to 0.99). These are similar
+results to this review (no eﬀect on all-cause mortality, reductions
+in coronary heart disease mortality and myocardial infarction).
+Ramsden 2010 included fewer trials than this review, four trials
+that we included (MRC 1968; Rose 1965; Sydney Diet-Heart 1978;
+Veterans Admin 1969), and three we excluded. We excluded two
+for being multifactorial (Oslo Diet-Heart 1966; STARS 1992) and
+one for having inconsistent enrolment so that many participants
+were included for less than 12 months continuously (Minnesota
+Coronary 1989). The other systematic review, Mozaﬀarian 2010,
+also included seven trials replacing saturated fat with PUFA, three
+that we included (DART fat 1989; MRC 1968; Veterans Admin 1969),
+and four that we excluded. One we excluded due to lack of
+randomisation (Finnish Mental Hosp 1972), one for inconsistent
+enrolment (Minnesota Coronary 1989), and two because the
+intervention was multifactorial (Oslo Diet-Heart 1966; STARS 1992).
+Mozaﬀarian 2010 found that increasing PUFA by replacing saturated
+fat reduced coronary heart disease events by 19% (RR 0.81, 95% CI
+0.70 to 0.95), unlike this review, where we found that the evidence
+was of very low quality, so could not assess eﬀects on this outcome.
+Recent observational data of more than 30,000 adults aged over
+30 years from the National Health and Nutrition Examination
+Survey (NHANES) was not entirely consistent with our results. They
+suggested that the tertile of adults with highest PUFA intake were
+at lowest risk of all-cause mortality (HR 0.94, 95% CI 0.90 to 0.98
+compared to the tertile with lowest intake) and cardiovascular
+disease mortality (HR 0.93, 95% CI 0.89 to 0.97), when adjusted for
+ethnicity, BMI, alcohol intake, smoking, education, physical activity,
+fibre intake and blood pressure (Ricci 2018).
+The suggestion of weight gain with increased PUFA intake reflects
+data from other systematic reviews that reducing dietary fat
+(including PUFAs) appears to result in lower weight in adults.
+As weight gain may increase cardiovascular risk, this may work
+against more positive lowering of total cholesterol and triglycerides
+when assessing overall eﬀects of increasing PUFA on cardiovascular
+disease (Hooper 2015b).
+We interpreted the total cholesterol and weight results using QRisk
+2-2017 (QRISK 2-2017). In a Pakistani non-smoking male aged 64
+years without existing cardiovascular disease or diabetes, height
+173 cm, weighing 81 kg with systolic blood pressure of 145 mmHg
+and total cholesterol 5.46 mmol/L, HDL 1.31 (total cholesterol/
+HDL 4.17) at baseline (typical values for the trials in this review)
+their 10-year QRISK 2-2017 score would be 23.5%. A reduction
+of total cholesterol by 0.12 mmol/L, HDL by 0.01 mmol/L and
+weight rise of 0.76 kg reduces the QRISK 2-2017 score to 23.2%.
+QRISK 2-2017 suggests that in 1000 people with the same risk
+factors, 235 are likely to have a heart attack or stroke within the
+next 10 years at baseline, falling to 232 having a heart attack or
+stroke following increased PUFA intake. Three people of the 1000
+would be prevented from experiencing a heart attack or stroke by
+the increased PUFA. This is a smaller eﬀect than the estimated
+reduction from 58 per 1000 to 49 (95% CI 42 to 59) per 1000
+predicted for primary prevention of cardiovascular disease events
+within this review (Summary of findings 2).
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+Increasing polyunsaturated fatty acid (PUFA) intake probably
+makes little or no diﬀerence (neither benefit nor harm) to all-cause
+mortality and probably slightly reduces the risk of coronary heart
+disease events and cardiovascular disease events (all moderate-
+quality evidence). Increased PUFA intake may slightly reduce risk of
+coronary heart disease mortality and stroke (although for stroke the
+confidence intervals include important harm), but may have little
+or no eﬀect on cardiovascular disease mortality (all low-quality
+evidence). Increasing PUFA does reduce total cholesterol, probably
+reduces triglyceride, probably has little or no eﬀect on high-density
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+
+[page 43]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+lipoprotein (HDL) or low-density lipoprotein (LDL) and probably
+increases body weight.
+This suggests that increasing PUFA intake may have beneficial
+eﬀects on risk of cardiovascular disease events, coronary heart
+disease mortality, coronary heart disease events and stroke.
+The mechanism may be via reduction of total cholesterol and
+triglyceride. However increasing PUFA will probably lead to slight
+body weight increase.
+Implications for research
+Further trials assessing cardiovascular eﬀects of increasing PUFA
+intake in women and people living in developing economies are
+needed. Given the low power for assessing eﬀects by baseline PUFA,
+more research in populations with a low baseline intake of less
+than 6% E is needed to understand whether there is greater benefit
+from increasing PUFA intake in these groups. Further trials should
+include participants with low PUFA intakes at baseline, as well as
+those with higher intakes. Dietary advice needs to ensure that trans
+fat intake is kept low as PUFA increases. Intake and status of all fat
+fractions, including trans fat, should be assessed and checked using
+reliable biomarkers.
+A C K N O W L E D G E M E N T S
+Thank you, to all of the authors of primary trials who
+kindly provided us with the best set of data available,
+including: D Kromhout, Wageningen University (AlphaOmega - ALA;
+AlphaOmega - EPA+DHA); HS Black, Veterans Aﬀairs Medical Center
+(Black 1994); J Brox, University hospital of North Norway (Brox
+2001); ML Burr, University of Wales and A Ness, University of Bristol
+(DART fat 1989); S Tokudome, National Institue of Health and
+Nutrition, Japan (DIPP-Tokudome 2015); S Dodin, Universite Laval
+(Dodin 2005); RPF Dullaart, University of Groningen, Netherlands
+(Dullaart 1992); D Schoenfeld, Harvard Medical School (FAAT - Leaf
+2005); London, P Metcalf, University of Auckland, New Zeland (Ley
+2004); T Sanders, King's College, London, UK (MARINA - Sanders
+2011); T Sheldon, University of York, UK (MRC 1968); M James, Royal
+Adelaide Hospital, Australia (Proudman 2015); MS Simon, Wayne
+State University, Simon 1997; C Ramsden, National Institutes of
+Health, USA, D Zamora, University of North Carolina and Boonseng
+Leelarthaepin, retired (Sydney Diet-Heart 1978); M Vijayakumar,
+Amrita Institute of Medical Sciences, India (Vijayakumar 2014); J
+Sabaté, Loma Linda University, California (WAHA - Ros 2016); E
+Scorletti, University of Southampton, UK (WELCOME 2015).
+Thanks also to the authors who replied but were not able to provide
+further details or confirmed no relevant outcomes, including: D
+Bates, Royal Victoria Infirmary, Newcastle on Tyne, R Dworkin,
+University of Rochester, UK, (Bates 1977; Bates 1978; Bates 1989);
+MB McIllmurray, Cancer Care, UK (McIllmurray 1987); B Puri,
+Imperial College London (Puri 2005); M Raitt, Oregon Health &
+Science University, USA (Raitt 2005); DP Rose, American Health
+Foundation (WINS 2006).
+Thank you to Juan-Pablo Casas for discussions on the protocol,
+and to all Cochrane Heart staﬀ and editors for fast and helpful
+comments and support. Thank you also to the World Health
+Organization for commissioning and funding the review.
+This review was carried out by the Polyunsaturated Fats and
+Health (PUFAH) Group, and written by the authors on behalf of the
+PUFAH group. The Polyunsaturated Fats and Health (PUFAH) group
+includes Asmaa Abdelhamid1, Zoya Ahmed1, Sarah MA Ajabnoor1,6,
+Fai K AlAbdulghafoor1, Lena Al-Khudairy2, Priti Biswas3, Julii
+Suzanne Brainard1, Charlene Bridges4, Tracey J Brown1, Katherine
+HO Deane3, Daisy H Donaldson1, Sarah Hanson3, Oluseyi F Jimoh1,
+Nicole Martin4, Katie Maas1, Helen J Moore5, Alex T O’Brien1, Karen
+Rees2, Ruksana Sivakaran1, Fujian Song1, Carolyn D Summerbell5,,
+Gabrielle C Thorpe3, Xia Wang1 , Ailsa Welch1, Lauren Winstanley1,
+Helen V Worthington7 and Lee Hooper1
+(1Norwich Medical School, University of East Anglia, 2Warwick
+Medical School, University of Warwick, 3School of Health Sciences,
+University of East Anglia, 4Cochrane Heart, University College
+London, 5Durham University, 6Clinical Nutrition Department,
+Faculty of Applied Medical Sciences, King Abdulaziz University, KSA,
+7School of Dentistry, University of Manchester).
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 44]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Ahn 2016 {published data only (unpublished sought but not used)}
+Ahn J, Park SK, Park TS, Kim JH, Yun E, Kim SP, et al. Eﬀect
+of n-3 polyunsaturated fatty acids on regression of coronary
+atherosclerosis in statin treated patients undergoing
+percutaneous coronary intervention. Korean Circulation Journal
+2016;46(4):481-9. [PUBMED: 27482256]
+AlphaOmega - ALA {published and unpublished data}
+Brouwer IA, Geleijnse JM, Klaasen VM, Smit LA, Giltay EJ,
+De Goede J, et al. Eﬀect of alpha linolenic acid supplementation
+on serum prostate specific antigen (PSA): results from the Alpha
+Omega Trial. PloS One 2013;8(12):e81519.
+Eussen SR, Geleijnse JM, Giltay EJ, Rompelberg CJ,
+Klungel OH, Kromhout D. Eﬀects of n-3 fatty acids on major
+cardiovascular events in statin users and non-users with a
+history of myocardial infarction. European Heart Journal
+2012;33(13):1582-8.
+Geleijnse J, Giltay E, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2011;1:S512.
+Geleijnse JM, Giltay EJ, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized, double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2012;8(4):278-87.
+Geleijnse JM, Giltay EJ, Schouten EG, De Goede J, Oude
+Griep LM, Teitsma-Jansen AM, et al. Eﬀect of low doses of n-3
+fatty acids on cardiovascular diseases in 4,837 post-myocardial
+infarction patients: design and baseline characteristics of the
+Alpha Omega Trial. American Heart Journal 2010;159(4):539-46.
+[DOI: 10/1016/j.ahj.2009.12.033]
+Giltay EJ, Geleijnse JM, Heijboer AC, De Goede J, Oude
+Griep LM, Blankenstein MA, et al. No eﬀects of n-3 fatty acid
+supplementation on serum total testosterone levels in older
+men: the Alpha Omega Trial. International Journal of Andrology
+2012;35(5):680-7.
+Giltay EJ, Geleijnse JM, Kromhout D. Eﬀects of n-3 fatty acids
+on depressive symptoms and dispositional optimism afer
+myocardial infarction. American Journal of Clinical Nutrition
+2011;94(6):1442-50.
+Hoogeveen E, Gemen E, Geleijnse M, Kusters R, Kromhout D,
+Giltay E. Eﬀects of n-3 fatty acids on decline of kidney function
+afer myocardial infarction: Alpha Omega Trial. Nephrology,
+Dialysis, Transplantation 2012;27:ii64.
+Hoogeveen EK, Geleijnse JM, Kromhout D, Giltay EJ. No eﬀect
+of n-3 fatty acids on high-sensitivity C-reactive protein afer
+myocardial infarction: the Alpha Omega Trial. European Journal
+of Preventive Cardiology 2014;21(11):1429-36.
+Hoogeveen EK, Geleijnse JM, Kromhout D, Stijnen T, Gemen EF,
+Kusters R, et al. Eﬀect of omega-3 fatty acids on kidney
+function afer myocardial infarction: the Alpha Omega Trial.
+Clinical Journal of The American Society of Nephrology: CJASN
+2014;9(10):1676-83.
+Kromhout D, Geleijnse JM, De Goede J, Oude Griep LM,
+Mulder BJ, De Boer MJ, et al. N-3 fatty acids, ventricular
+arrhythmia-related events, and fatal myocardial infarction in
+postmyocardial infarction patients with diabetes. Diabetes Care
+2011;34(12):2515-20.
+*  Kromhout D, Giltay EJ, Geleijnse JM. N-3 fatty acids and
+cardiovascular events afer myocardial infarction. New England
+Journal of Medicine 2010;363(18):2015-26.
+NCT00127452. Alpha Omega Trial: study of omega-3 fatty
+acids and coronary mortality. clinicaltrials.gov/ct2/show/
+NCT00127452 (first posted 5 August 2005).
+Bassey 2000-Post {published data only}
+Bassey EJ, Littlewood JJ, Rothwell MC, Pye DW. Lack of eﬀect
+of supplementation with essential fatty acids on bone mineral
+density in healthy pre- and postmenopausal women: two
+randomized controlled trials of Efacal v. calcium alone. British
+Journal of Nutrition 2000;83(6):629-35. [PUBMED: 10911771]
+Bassey 2000-Pre {published data only}
+Bassey EJ, Littlewood JJ, Rothwell MC, Pye DW. Lack of eﬀect
+of supplementation with essential fatty acids on bone mineral
+density in healthy pre- and postmenopausal women: two
+randomized controlled trials of Efacal v. calcium alone. British
+Journal of Nutrition 2000;83(6):629-35. [PUBMED: 10911771]
+Bates 1977 {published data only (unpublished sought but not
+used)}
+*  Bates D, Fawcett PR, Shaw DA, Weightman D. Trial of
+polyunsaturated fatty acids in non-relapsing multiple sclerosis.
+British Medical Journal 1977;2(6092):932-3.
+Dworkin RH, Bates D, Millar JH, Paty DW. Linoleic acid and
+multiple sclerosis: a reanalysis of three double-blind trials.
+Neurology 1984;34(11):1441-5.
+Bates 1978 {published data only (unpublished sought but not
+used)}
+*  Bates D, Fawcett PR, Shaw DA, Weightman D. Polyunsaturated
+fatty acids in treatment of acute remitting multiple sclerosis.
+British Medical Journal 1978;2(6149):1390-1.
+Dworkin RH, Bates D, Millar JH, Paty DW. Linoleic acid and
+multiple sclerosis: a reanalysis of three double-blind trials.
+Neurology 1984;34(11):1441-5.
+Bates 1989 {published data only (unpublished sought but not
+used)}
+Bates D, Cartlidge NE, French JM, Jackson MJ, Nightingale S,
+Shaw DA, et al. A double-blind controlled trial of long chain
+n-3 polyunsaturated fatty acids in the treatment of multiple
+sclerosis. Journal of Neurology, Neurosurgery & Psychiatry
+1989;52(1):18-22.
+Polyunsaturated fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36

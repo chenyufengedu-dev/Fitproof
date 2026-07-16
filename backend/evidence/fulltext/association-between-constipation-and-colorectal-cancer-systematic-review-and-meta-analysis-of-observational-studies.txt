@@ -1,0 +1,1359 @@
+
+
+[page 1]
+nature publishing group
+1
+© 2013 by the American College of Gastroenterology 
+The American Journal of GASTROENTEROLOGY
+REVIEW
+ CLINICAL AND SYSTEMATIC REVIEWS 
+ INTRODUCTION 
+ Symptoms attributable to the lower gastrointestinal (GI) tract 
+are common in the community ( 1 – 5 ). Most of these, such as 
+chronic idiopathic constipation and irritable bowel syndrome, 
+are functional in nature. It is oft en assumed, despite their relaps-
+ing and remitting natural history and adverse impact on health-
+related quality of life ( 6,7 ), that these functional disorders run a 
+benign course, and do not aff ect mortality. Data from two large 
+longitudinal studies, with a considerable length of follow-up, 
+suggest that this is the case for most of these conditions ( 8,9 ), 
+but in one of these studies the presence of chronic constipation 
+at baseline appeared to be associated with a reduced likelihood 
+of survival ( 8 ). 
+ Th e reasons for any reduction in survival in chronic constipation 
+are unclear. Th e condition may be associated with the development 
+of some organic anorectal and colonic pathologies, including rectal 
+prolapse, hemorrhoids, anal fi ssure, and diverticular disease, per-
+haps due to straining and an increase in colonic transit time ( 10 ). 
+Th is delay in colonic transit has also been proposed, by some, as a 
+potential etiological mechanism in the development of colorectal 
+cancer (CRC) ( 11 ), due to prolongation of contact between carcin-
+ogens in the stool, such as bile acids ( 12 ), and the colonic mucosa. 
+ Association Between Constipation and Colorectal 
+Cancer: Systematic Review and Meta-Analysis of 
+Observational Studies 
+ Andrew M.  Power ,  BChD, MBChB, MFDS 1 ,  Nicholas J.  Talley ,  MD, PhD 2 and  Alexander C.  Ford ,  MBChB, MD, FRCP 1 , 3 
+ OBJECTIVES: 
+ Constipation is common in the community, and may affect survival adversely. An association 
+between constipation and development of colorectal cancer (CRC) could be one possible explanation. 
+We performed a systematic review and meta-analysis examining this issue. 
+ METHODS: 
+ We searched MEDLINE, EMBASE, and EMBASE Classic (through July 2012). Eligible studies 
+were cross-sectional surveys, cohort studies, or case – control studies reporting the association 
+between constipation and CRC. For cross-sectional surveys and cohort studies, we recorded number 
+of subjects with CRC according to the constipation status, and for case – control studies, number of 
+subjects with constipation according to CRC status were recorded . Study quality was assessed 
+according to published criteria. Data were pooled using a random effects model, and the association 
+between CRC and constipation was summarized using an odds ratio (OR) with a 95 % conﬁ dence 
+interval (CI). 
+ RESULTS: 
+ The search strategy identiﬁ ed 2,282 citations, of which 28 were eligible. In eight cross-sectional 
+surveys, presence of constipation as the primary indication for colonoscopy was associated with a 
+lower prevalence of CRC (OR  =  0.56; 95 % CI 0.36 – 0.89). There was a trend toward a reduction in 
+odds of CRC in constipation in three cohort studies (OR  =  0.80; 95 % CI 0.61 – 1.04). The prevalence 
+of constipation in CRC was signiﬁ cantly higher than in controls without CRC in 17 case – control 
+studies (OR  =  1.68; 95 % CI 1.29 – 2.18), but with signiﬁ cant heterogeneity, and possible 
+publication bias.  
+ CONCLUSIONS:  Prospective cross-sectional surveys and cohort studies demonstrate no increase in prevalence of 
+CRC in patients or individuals with constipation. The signiﬁ cant association observed in case – control 
+studies may relate to recall bias. 
+ Am J Gastroenterol advance online publication, 12 March 2013;  doi: 10.1038/ajg.2013.52 
+ 1 Leeds Gastroenterology Institute, St. James ’ s University Hospital ,  Leeds ,  UK ;  2 Faculty of Health, University of Newcastle ,  New South Wales , Newcastle,  Australia ; 
+ 3 Leeds Institute of Molecular Medicine, University of Leeds ,  Leeds ,  UK .   Correspondence:  Alexander C. Ford, MBchB, MD, FRCP ,  Leeds Gastroenterology 
+Institute , St. James ’ s University Hospital, Room 125, 4th Floor, Bexley Wing,  Beckett Street ,  Leeds  LS9 7TF,  UK . E-mail:  alexf12399@yahoo.com 
+ Received 18 September 2012; accepted 19 January 2013
+
+[page 2]
+The American Journal of GASTROENTEROLOGY 
+VOLUME 104 | XXX 2013   www.amjgastro.com
+2
+REVIEW
+ Power  et al. 
+ If this theory were correct, it may contribute to an excess in mor-
+tality in individuals with constipation, compared with those with-
+out such symptoms. A meta-analysis of nine case – control studies 
+( 13 ), published in 1993, suggested that this was the case, with a 
+pooled odds ratio (OR) for CRC in subjects with constipation of 
+1.48. However, subsequent studies have not all replicated such an 
+association ( 14 – 16 ), and there have been much data published in 
+the intervening 20 years. We have, therefore, conducted a system-
+atic review and meta-analysis of all available observational studies 
+examining this issue. We hypothesized that CRC is not causally 
+linked to chronic constipation. 
+ METHODS 
+ Search strategy and study selection 
+ We performed a literature search using MEDLINE (1946 to July 
+2012), EMBASE, and EMBASE CLASSIC (1947 to July 2012) to 
+identify cross-sectional surveys, cohort studies, or case – control 
+studies that examined the association between constipation and 
+CRC in adults (aged 16 years and over). In order to be eligible, 
+studies had to recruit at least 50 participants, and defi ne constipa-
+tion using a symptom questionnaire, Rome I, II, or III criteria, 
+or self-report at interview. Th e diagnosis of CRC could be made 
+using lower GI endoscopy, barium enema, or computed tomogra-
+phy colonography in cross-sectional surveys, and cancer registry 
+data or medical records in cohort and case – control studies. Th ese 
+eligibility criteria, which were defi ned prospectively, are provided 
+in  Box 1 . 
+ Th e medical literature was searched using the following terms: 
+colon cancer, rectal cancer, colorectal cancer, bowel cancer, colon 
+adj5 cancer, rectal adj5 cancer, colorectal adj5 cancer, bowel adj5 
+cancer, colon adj5 carcinoma, rectal adj5 carcinoma, colorectal adj5 
+carcinoma, bowel adj5 carcinoma, colon adj5 adenocarcinoma, 
+rectal adj5 adenocarcinoma, colorectal adj5 adenocarcinoma, or 
+bowel adj5 adenocarcinoma. Th ese were combined using the set 
+operator AND with studies identifi ed with the terms: constipation, 
+functional constipation, idiopathic constipation, chronic constipa-
+tion, or slow transit. 
+ Th ere were no language restrictions. All abstracts yielded by the 
+search were then screened for potential suitability, and those that 
+appeared relevant were retrieved and examined in more detail. 
+We performed a recursive search using the bibliographies of all 
+obtained articles. We translated foreign language articles, where 
+required. Eligibility assessment was performed independently by 
+two investigators, using pre-designed eligibility forms, with all 
+disagreements resolved by consensus. 
+ Data extraction 
+ Data were extracted independently by two investigators on to a 
+Microsoft  Excel spreadsheet (XP professional edition; Microsoft , 
+Redmond, WA), again with any discrepancies resolved by con-
+sensus. Th e following data were collected for all studies: year 
+conducted, country, number of centers (where applicable), study 
+setting, type of study design, method of symptom data collection, 
+method used to confi rm the presence or absence of CRC, criteria 
+used to defi ne constipation, total number of subjects providing 
+complete data, the number of subjects with constipation, and the 
+number of subjects with CRC. 
+ For cross-sectional surveys, where all participants were patients 
+reporting lower GI symptoms, we recorded the number of sub-
+jects with CRC among those with constipation as the primary 
+indication for colonoscopy, compared with the number of subjects 
+with CRC among those whose primary indication was for other 
+lower GI symptoms. Several of these studies included patients 
+who required endoscopic visualization of abnormalities detected 
+at barium enema, or who were asymptomatic but undergoing fol-
+low-up or surveillance for previous colorectal carcinoma, polyps, 
+or infl ammatory bowel disease. Th ese groups of patients were 
+always excluded from our analyses, as they were not relevant to 
+the clinical question we were addressing. We assessed quality of 
+the identifi ed cross-sectional surveys according to the QUADAS-2 
+tool, as we were using them as diagnostic studies ( 17 ). Th is does 
+not give an overall quality score, but rather assesses the risk of bias 
+of individual studies according to various domains. We deemed 
+high quality studies to be ones that were at low risk of bias across 
+six or more of these seven domains. 
+ For cohort studies we recorded the number of subjects with CRC 
+among those with or without constipation, and for case – control 
+studies the number of subjects with constipation among cases with 
+and controls without CRC. For cohort and case – control studies we 
+assessed study quality using the Newcastle-Ottawa scale ( 18 ), with 
+a total possible score of 9, higher scores indicating higher quality 
+studies. 
+ Data synthesis and statistical analysis 
+ Th e degree of agreement between the two investigators, in terms 
+of judging study eligibility, was measured using the Kappa statistic. 
+For cross-sectional surveys the proportion of individuals with and 
+without constipation as the primary indication for colonoscopy 
+who were found to have CRC in each study were compared using 
+an OR, with a 95 % confi dence interval (CI). For cohort studies, 
+the proportion of individuals with and without constipation who 
+were found to have CRC were compared using an OR, with a 95 % 
+CI. For case – control studies the proportion of individuals with 
+ Box 1. Eligibility Criteria 
+ Cross-sectional surveys, cohort studies, or case – control studies 
+ Adults (aged  ≥ 16 years). 
+ Presence of constipation recorded at study inclusion 
+(using a symptom questionnaire, Rome I, II, or III criteria, 
+or self-reported). 
+ Diagnosis of CRC recorded (after lower GI investigation 
+(using lower GI endoscopy, barium enema, or CT colonography) 
+in cross-sectional surveys, or cancer registry data or medical 
+records in cohort studies or case – control studies). 
+ Prevalence of CRC reported according to constipation symptom 
+status in cross-sectional surveys and cohort studies. 
+ Prevalence of constipation reported according to CRC status in 
+case – control studies. 
+ Sample size of  ≥ 50 participants.
+
+[page 3]
+© 2013 by the American College of Gastroenterology 
+The American Journal of GASTROENTEROLOGY
+3
+REVIEW
+ Constipation and Colorectal Cancer 
+constipation status, and the odds of constipation according to 
+the presence or absence of CRC. StatsDirect version 2.7.2 (Stats-
+Direct, Sale, Cheshire, England) was used to generate Forest plots 
+of pooled ORs with 95 % CIs. Evidence of publication bias was 
+assessed for, by applying Egger ’ s test to funnel plots ( 21 ), where a 
+suffi  cient number of studies were available ( 22 ). 
+ RESULTS 
+ Th e search strategy yielded 2,282 citations ( Figure 1 ), of which 
+87 potentially relevant articles were retrieved and assessed in 
+more detail. Of these, 28 met our eligibility criteria and were 
+included. Agreement between reviewers was excellent (Kappa 
+statistic  =  0.77). Th ere were eight cross-sectional surveys ( 23 – 30 ), 
+three cohort studies ( 31 – 33 ), and 17 case – control studies eligible 
+for inclusion. ( 14,16,34 – 48 ) Detailed characteristics of cross-sec-
+tional surveys, cohort studies, and case – control studies, including 
+study quality, are provided in  Tables 1, 2, and 3 respectively. Gen-
+der data were reported by six of the case – control studies ( 16,34 –
+ 36,38,40 ), but only one of the cohort studies ( 32 ), and none of the 
+cross-sectional surveys. 
+ Prevalence of CRC in patients presenting with constipation 
+in cross-sectional surveys 
+ Th e eight cross-sectional surveys contained a total of 8,866 patients 
+undergoing colonic investigation for lower GI symptoms ( 23 – 30 ). 
+Symptoms were recorded before investigation in all studies. Five 
+studies used a questionnaire ( 25 – 29 ), with symptoms recorded 
+by the patient in three studies ( 27 – 29 ), and by a physician in the 
+remaining two studies ( 25,26 ). In the other three studies constipa-
+tion status was defi ned according to self-report ( 23,24,30 ). Th ree 
+of the studies were higher quality according to the QUADAS-2 
+tool ( Table 1 ) ( 26,27,30 ). 
+ In total, 1,497 (16.9 % ) patients underwent colonoscopy for 
+constipation as the primary indication, and 585 (6.6 % ) patients 
+were found to have CRC aft er investigation. Th ere were 78 (5.2 % ) 
+of 1,497 patients with constipation as the primary indication for 
+colonoscopy who were found to have CRC, compared with 507 
+(6.9 % ) of 7,369 without constipation as the primary indication. 
+Th e pooled OR for CRC in participants with constipation as the 
+primary indication, compared with those without, was 0.56 (95 % 
+CI 0.36 to 0.89), with no signifi cant heterogeneity detected between 
+studies ( I 2  =  34.1 % ,  P  =  0.16) ( Figure 2 ). Th ere were too few studies 
+to assess for publication bias. 
+ When only the three higher quality studies, containing a total 
+of 3,931 patients, were included in the analysis, the OR for CRC 
+in patients with constipation as the primary indication for colon-
+oscopy was 0.57 (95 % CI 0.42 to 0.79), with no signifi cant hetero-
+geneity detected between studies ( I 2  =  0 % ,  P  =  0.56). When data 
+from the fi ve lower quality studies were pooled, the OR in patients 
+with constipation as the primary indication for colonoscopy, vs. 
+those without, was no longer statistically signifi cant (0.57; 95 % CI 
+0.25 to 1.31), but with signifi cant heterogeneity between studies 
+( I 2  =  58.0 % ,  P  =  0.05). Th is diff erence in ORs was not statistically 
+signifi cant (Cochran  Q  =  0,  P  =  0.99). 
+and without CRC who reported constipation were compared, 
+again using an OR and a 95 % CI. If there were no individuals with 
+or without constipation who were found to have CRC in a single 
+study, 0.5 was added to all four cells for the purposes of the analy-
+sis, as ORs cannot be calculated from zero values. 
+ Heterogeneity between studies was assessed using the  I 2 statistic 
+with a cutoff  of 50 % ( 19) , and the  χ 2 -test with a  P value 
+  <  0.10, used to defi ne a statistically signifi cant degree of heteroge-
+neity. We planned to conduct sensitivity analyses, where suffi  cient 
+studies existed, according to study quality, geographical region, 
+criteria used to defi ne constipation, and whether case – control 
+studies tried to minimize recall bias by asking participants to only 
+report symptoms that had been present for several years before the 
+diagnosis of CRC, and to ignore any recent change in bowel habit. 
+We also performed a subgroup analysis of the association between 
+constipation and CRC according to gender, where individual stud-
+ies reported these data. We compared the individual ORs between 
+these subgroups using the Cochran Q statistic. 
+ Data were pooled using a random eff ects model ( 20 ), to give 
+a more conservative estimate of the odds of CRC according to 
+Studies identified in literature
+search (n = 2282)
+Excluded (title and abstract revealed not
+appropriate) (n = 2195)
+Excluded (n = 59) because:
+Case series = 13
+Review article = 12
+Prevalence of CRC according to
+constipation status not reported = 8
+Retrospective surveys = 7
+Systematic review = 6
+Diagnosis of CRC not reported = 5
+Prevalence of constipation not
+reported = 3
+Prevalence of colonic adenoma
+only = 2
+Data not extractable = 2
+Case report = 1
+Studies retrieved for evaluation
+(n = 87)
+Studies reporting association
+between constipation and
+colorectal carcinoma
+(n = 28)
+8 Cross-sectional
+surveys
+3 Cohort studies
+17 Case–control studies
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+ Figure 1 .  Flow diagram of assessment of studies identiﬁ ed in the system-
+atic review and meta-analysis.
+
+[page 4]
+The American Journal of GASTROENTEROLOGY 
+VOLUME 104 | XXX 2013   www.amjgastro.com
+4
+REVIEW
+ Power  et al. 
+ Only two studies reported the duration of constipation ( 24,28 ), 
+and in one this was   >  3 months ( 24 ), and in the other within the 
+last 3 months ( 28 ). Excluding the latter study from the meta-analy-
+sis in a subgroup analysis, due to the relatively short-time frame 
+of constipation, altered the pooled OR slightly (0.53; 95 % CI 0.40 
+to 0.71), but this diff erence in ORs was not statistically signifi cant 
+(Cochran  Q  =  0.04,  P  =  0.84). 
+ Prevalence of CRC in individuals with constipation at baseline 
+in cohort studies 
+ Th ere were a total of 189,038 participants in the three cohort 
+studies ( 31 – 33 ), and constipation status was recorded at entry into 
+the cohort in all three studies. Presence of CRC was confi rmed 
+using cancer registry data in two studies, ( 32,33 ) and medical 
+records of participants in the third ( 31 ). Constipation was defi ned 
+as less than one stool per day in all three studies. Two of the studies 
+scored 6 on the Newcastle-Ottawa scale ( 31,32 ), and the third 
+study scored 5 ( Table 2 ) ( 33 ). 
+ Th ere were 46,068 (24.4 % ) individuals with constipation at study 
+entry, and 1,511 (0.8 % ) subjects developed CRC during follow-up. 
+Among those with constipation at baseline, 302 (0.7 % ) developed 
+CRC, compared with 1,209 (0.85 % ) of 142,970 without constipa-
+tion. Th e pooled OR for CRC in participants with constipation, 
+compared with those without, was lower at 0.80 but this diff erence 
+was not statistically signifi cant (95 % CI 0.61 to 1.04), and there 
+was signifi cant heterogeneity detected between studies ( I 2  =  74.8 % , 
+ P  =  0.02). Th ere were too few studies to assess for evidence of pub-
+lication bias, or to perform detailed sensitivity analyses according 
+to the study characteristics. 
+ However, as all three studies recorded stool frequency in 
+some detail, we were able to conduct a sensitivity analysis using 
+a frequency of one stool every 3 days to defi ne the presence of 
+ Table 1 .  Characteristics of included cross-sectional surveys 
+ Study 
+ Country 
+ Setting and 
+number of 
+centers 
+ Method of collection 
+of constipation 
+symptom data 
+ Consecutive 
+patients 
+ Blinding 
+ Number with 
+constipation 
+( % with CRC) 
+ Number without 
+constipation 
+( % with CRC) 
+ Risk of 
+bias 
+ Tate and Royle ( 30 ) 
+ UK 
+ Tertiary (1) 
+ Self-report 
+ Not reported 
+ No 
+ 16 (0) 
+ 114 (12.3) 
+ Low 
+ de Bossett  et al. ( 26 ) 
+ Switzerland 
+ Secondary (5) 
+ Physician-completed 
+questionnaire 
+ Yes 
+ No 
+ 73 (1.4) 
+ 734 (5.2) 
+ Low 
+ Selvachandran  et al. 
+( 29 ) 
+ UK 
+ Secondary (1) 
+ Patient-completed 
+questionnaire 
+ Not reported 
+ No 
+ 290 (1.4) 
+ 1,978 (4.6) 
+ Unclear 
+ Panzuto  et al. ( 28 ) 
+ Italy 
+ Primary (159) 
+ Patient-completed 
+questionnaire 
+ Yes 
+ No 
+ 134 (15.7) 
+ 146 (13.7) 
+ Unclear 
+ Bersani  et al. ( 25 ) 
+ Italy 
+ Secondary (1) 
+ Physician-completed 
+questionnaire 
+ Yes 
+ Yes 
+ 201 (1.5) 
+ 1,101 (5.7) 
+ Unclear 
+ Adler  et al. ( 23 ) 
+ Germany 
+ Secondary (39) 
+ Self-report 
+ Yes 
+ No 
+ 55 (0) 
+ 550 (1.8) 
+ Unclear 
+ Bafandeh  et al. ( 24 ) 
+ Iran 
+ Tertiary (1) 
+ Self-report 
+ Yes 
+ No 
+ 48 (4.2) 
+ 432 (3.2) 
+ Unclear 
+ Huang  et al. ( 27 ) 
+ China 
+ Tertiary (1) 
+ Patient-completed 
+questionnaire 
+ Not reported 
+ No 
+ 680 (6.9) 
+ 2,314 (11.1) 
+ Low 
+ CRC, colorectal cancer. 
+ Table 2 .  Characteristics of included cohort studies 
+ Study 
+ Country 
+ Sample 
+used 
+ Method used 
+to ascertain 
+CRC status 
+ Method of 
+collection of 
+constipation 
+symptom 
+data 
+ Stool frequency 
+used to deﬁ ne 
+constipation 
+ Duration of 
+follow-up 
+(years) 
+ Number with 
+constipation 
+( % with CRC) 
+ Number without 
+constipation 
+( % with CRC) 
+ Quality 
+score 
+ Dukas  et al. ( 31 ) 
+ USA 
+ Nurses 
+ Review of 
+medical 
+records 
+ Questionnaire 
+  <  1 Bowel 
+movement 
+per day 
+ 12 
+ 22,684 (0.65) 
+ 61,755 (0.75) 
+ 6 
+ Kojima  et al. ( 32 ) 
+ Japan 
+ General 
+population 
+ Cancer 
+registry data 
+ Questionnaire 
+  <  1 Bowel 
+movement 
+per day 
+ 6 – 9 
+ 14,115 (0.7) 
+ 48,814 (1.1) 
+ 6 
+ Watanabe  et al. 
+( 33 ) 
+ Japan 
+ General 
+population 
+ Cancer 
+registry data 
+ Questionnaire 
+  <  1 Bowel 
+movement 
+per day 
+ 7 
+ 9,269 (0.6) 
+ 32,401 (0.6) 
+ 5 
+ CRC, colorectal cancer.
+
+[page 5]
+© 2013 by the American College of Gastroenterology 
+The American Journal of GASTROENTEROLOGY
+5
+REVIEW
+ Constipation and Colorectal Cancer 
+ Table 3 .  Characteristics of included case-control studies 
+ Study 
+ Country 
+ Setting and 
+number of 
+centers 
+ Source of 
+controls 
+ Method 
+used to 
+ascertain 
+CRC status 
+ Method of 
+collection of 
+constipation 
+symptom data 
+ Threshold 
+used to 
+deﬁ ne 
+constipation 
+ Onset of 
+constipation 
+ Number with 
+CRC ( % with 
+constipation) 
+ Number 
+without CRC 
+( % with 
+constipation) 
+ Quality 
+score 
+ Higginson 
+( 34 ) 
+ USA 
+ Secondary 
+care (7) 
+ Hospital 
+patients 
+ Medical 
+records 
+ Interview 
+ Occurring 
+more than 
+weekly 
+  >  2 Years 
+before 
+diagnosis 
+ 340 (20.0) 
+ 1,020 (16.7) 
+ 3 
+ Wynder and 
+Shigematsu 
+( 35 ) 
+ USA 
+ Secondary 
+care (4) 
+ Hospital 
+patients 
+ Medical 
+records 
+ Interview 
+ Mild or more 
+ 1 – 10 Years 
+before 
+diagnosis 
+ 793 (34.7) 
+ 407 (25.3) 
+ 2 
+ Wynder 
+ et al. ( 36 ) 
+ Japan 
+ Tertiary care (2)  Hospital 
+patients 
+ Medical 
+records 
+ Interview 
+ Occurring 
+sometimes or 
+more often 
+ 2 – 5 Years 
+before 
+diagnosis 
+ 157 (24.2) 
+ 307 (16.6) 
+ 2 
+ Haenszel 
+ et al. ( 37 ) 
+ Hawaii 
+ Secondary care 
+(3) 
+ Hospital 
+patients 
+ Medical 
+records 
+ Interview 
+ Not reported 
+ Not reported 
+ 179 (6.1) 
+ 357 (2.5) 
+ 2 
+ Jain 
+ et al. ( 38 ) 
+ Canada 
+ General 
+population and 
+secondary 
+care (19) 
+ General 
+population 
+ Cancer 
+registry 
+data and 
+medical 
+records 
+ Interview 
+ Not reported 
+ Not reported 
+ 542 (54.8) 
+ 542 (45.8) 
+ 4 
+ Nakamura 
+ et al. ( 39 ) 
+ USA 
+ Tertiary care (1)  Hospital 
+patients 
+and 
+spouses 
+ Cancer 
+registry 
+data 
+ Interview 
+ Mild or more 
+  >  5 Years 
+before 
+diagnosis 
+ 100 (30.0) 
+ 151 (31.8) 
+ 3 
+ Kune 
+ et al. ( 40 ) 
+ Australia  General 
+population 
+(N / A) a 
+ General 
+population 
+ Medical 
+records 
+ Interview 
+ Not reported 
+ Before 
+diagnosis 
+ 685 (31.4) 
+ 723 (26.4) 
+ 3 
+ Kotake 
+ et al. ( 41 ) 
+ Japan 
+ Tertiary care 
+(10) 
+ Hospital 
+patients 
+ Medical 
+records 
+ Questionnaire 
+ No bowel 
+movement 
+for 3 days or 
+more 
+ Not reported 
+ 363 (29.5) 
+ 363 (19.6) 
+ 2 
+ Yang 
+ et al. ( 42 ) 
+ China 
+ Secondary care 
+(Multiple) 
+ General 
+population 
+ Medical 
+records 
+ Medical 
+records 
+ Not reported 
+  >  3 Years 
+before 
+diagnosis 
+ 1,328 (14.9) 
+ 1,451 (9.1) 
+ 1 
+ Jacobs and 
+White ( 16 ) 
+ USA 
+ General 
+population 
+(N / A) a 
+ General 
+population 
+ Cancer 
+registry 
+data 
+ Interview 
+ Occurring 
+more than 
+never 
+ Over last 
+10 years 
+ 424 (44.1) 
+ 414 (33.8) 
+ 5 
+ Nascimbeni 
+ et al. ( 43 ) 
+ Italy 
+ Tertiary care (1)  Hospital 
+patients 
+ Medical 
+records 
+ Questionnaire 
+ Rome I 
+criteria 
+ For at least 
+3 years 
+ 55 (30.9) 
+ 96 (18.8) 
+ 3 
+ Roberts 
+ et al. ( 44 ) 
+ USA 
+ General 
+population 
+(N / A) a 
+ General 
+population 
+ Cancer 
+registry 
+data 
+ Interview 
+  <  3 stools 
+per week 
+ Not reported 
+ 643 (7.3) 
+ 1,048 (2.9) 
+ 3 
+ Hamilton 
+ et al. ( 45 ) 
+ UK 
+ General 
+population (21) 
+ General 
+population 
+ Cancer 
+registry 
+data 
+ Medical 
+records 
+ Not reported 
+ Not reported 
+ 349 (26.1) 
+ 1,744 (14.8) 
+ 6 
+ Hamilton 
+ et al. ( 46 ) 
+ UK 
+ Primary 
+care (317) 
+ Primary 
+care 
+patients 
+ Medical 
+records 
+ Medical 
+records 
+ Not reported 
+ Not reported 
+ 5,477 (27.0) 
+ 38,314 
+(10.6) 
+ 3 
+ Promthet 
+ et al. ( 47 ) 
+ Thailand  Secondary 
+care (2) 
+ Hospital 
+patients 
+ Medical 
+records 
+ Interview 
+ Occurring 
+occasionally 
+or more 
+ 1 Year 
+before diag-
+nosis 
+ 130 (59.2) 
+ 130 (28.5) 
+ 3 
+ Simons 
+ et al. ( 14 ) 
+ Holland 
+ General 
+population 
+(N / A) a 
+ General 
+population 
+ Cancer 
+registry 
+data 
+ Questionnaire 
+ Occurring 
+sometimes or 
+more often 
+ Not reported 
+ 1,207 (9.9) 
+ 1,753 (12.1) 
+ 3 
+ Tashiro 
+ et al. ( 48 ) 
+ Japan 
+ Secondary 
+care (8) 
+ General 
+population 
+ Medical 
+records 
+ Interview 
+ Not reported 
+ 1 Year 
+before diag-
+nosis 
+ 212 (21.7) 
+ 790 (16.5) 
+ 5 
+ CRC, colorectal cancer. 
+ a Not applicable: population-based case – control study.
+
+[page 6]
+The American Journal of GASTROENTEROLOGY 
+VOLUME 104 | XXX 2013   www.amjgastro.com
+6
+REVIEW
+ Power  et al. 
+ constipation. Using this threshold, 10,035 (5.3 % ) subjects had 
+constipation at study entry, of whom 69 (0.7 % ) developed CRC, 
+compared with 1,442 (0.8 % ) of 179,003 without constipation. Th e 
+pooled OR increased slightly (0.90; 95 % CI 0.70 to 1.15), but the 
+heterogeneity previously observed disappeared altogether ( I 2  =  0 % , 
+ P  =  0.59). Th is diff erence in ORs was not statistically signifi cant 
+(Cochran  Q  =  0.40,  P  =  0.53). 
+ Prevalence of constipation in patients with CRC in 
+case – control studies 
+ Th e 17 case – control studies included a total of 62,594 subjects 
+( 14,16,34 – 48 ) 12,984 (20.7 % ) of whom were cases with CRC and 
+49,610 controls without. Presence of CRC was confi rmed using the 
+medical records of participants in 11 studies ( 34 – 37,40 – 43,46 – 48 ), 
+cancer registry data in fi ve studies ( 14,16,39,44,45 ) and a combina-
+tion of both in the remaining study ( 38 ). Only four studies scored 
+4 or more on the Newcastle-Ottawa scale ( Table 3 ) ( 16,38,45,48 ). 
+ Th ere were a total of 9,199 (14.7 % ) participants who were classi-
+fi ed as having constipation. In total, 3,300 (25.4 % ) of 12,984 cases 
+with CRC reported constipation, compared with 5,899 (11.9 % ) of 
+49,610 controls without CRC. Th e pooled OR for constipation in 
+cases with CRC was 1.68 (95 % CI 1.29 to 2.18), but with signifi cant 
+heterogeneity between studies ( I 2  =  93.8 % ,  P   <  0.001) ( Figure 3 ). 
+Th ere was evidence of funnel plot asymmetry (Egger test,  P  =  0.005), 
+or other small study eff ects, with a lack of smaller studies show-
+ing no diff erence in odds of constipation in cases with CRC com-
+pared with controls without. When data from the six studies that 
+reported the association between CRC and constipation according 
+to gender were pooled, the OR for constipation in males with CRC 
+was 1.58 (95 % CI 1.34 to 1.87), compared with 1.25 (95 % CI 1.04 
+to 1.52) in females with CRC. Th is diff erence in ORs approached 
+statistical signifi cance (Cochran  Q  =  3.31,  P  =  0.07). 
+ When only the four studies that scored four or more on the 
+Newcastle-Ottawa scale were included in the analysis ( 16,38,45,48 ), 
+the signifi cant association between constipation and CRC persisted 
+(OR 1.60; 95 % CI 1.35 to 1.89), with no heterogeneity between 
+studies ( I 2  =  29.1 % ,  P  =  0.24). In the 13 lower quality studies, the 
+pooled OR was similar (1.71; 95 % CI 1.23 to 2.39), but hetero-
+geneity between studies remained ( I 2  =  94.7 % ,  P   <  0.001). Th is dif-
+ference in ORs was not statistically signifi cant (Cochran  Q  =  0.12, 
+ P  =  0.73). 
+ Th ere were 11 studies conducted in Western populations 
+( 14,16,34,35,38 – 40,43 – 46 ), and six studies that recruited cases 
+and controls from Eastern populations ( 36,37,41,42,47,48 ). 
+When only Western studies were included in the analysis the OR 
+was 1.56 (95 % CI 1.09 to 2.22), and the heterogeneity observed 
+persisted ( I 2  =  95.8 % ,  P   <  0.001). When data from Eastern stud-
+ies were pooled the OR was 1.80 (95 % CI 1.55 to 2.10), but the 
+observed heterogeneity was only borderline statistically signifi cant 
+( I 2  =  48.6 % ,  P  =  0.08). Again, this diff erence in ORs was not statisti-
+cally signifi cant (Cochran  Q  =  0.53,  P  =  0.47). 
+ Nine studies stated specifi cally that they asked participants to 
+only report symptoms that had been present for several years 
+before the diagnosis of CRC, and to ignore any recent change in 
+bowel habit ( 16,34 – 36,39,42,43,47,48 ). In these studies the pooled 
+OR for constipation in CRC was 1.59 (95 % CI 1.32 to 1.90), 
+again with borderline signifi cant heterogeneity between studies 
+( I 2  =  54.0 % ,  P  =  0.03). In the eight studies that did not report this 
+information ( 14,37,38,40,41,44 – 46 ), the pooled OR was higher 
+(1.76; 95 % CI 1.14 to 2.72), with signifi cant heterogeneity between 
+studies ( I 2  =  96.4 % ,  P   <  0.001). Once again, this diff erence in ORs 
+was not statistically signifi cant (Cochran  Q  =  0.18,  P  =  0.67). 
+ DISCUSSION 
+ Th is systematic review and meta-analysis has assembled data 
+from all identifi ed published observational studies examining 
+the  association between constipation and CRC in adults. In eight 
+Odds ratio meta-analysis plot (random effects)
+0.001
+0.01
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Huang et al., 2010
+0.594 (0.421, 0.825)
+Bafandeh et al., 2008
+1.298 (0.139, 5.930)
+Adler et al.,  2007
+0.464 (0.000, 3.959)
+Bersani et al., 2005
+0.250 (0.050, 0.777)
+Panzuto et al., 2003
+1.171 (0.571, 2.406)
+Selvachandran et al., 2002
+0.290 (0.077, 0.778)
+de bossett et al., 2002
+0.254 (0.006, 1.556)
+Tate and Royle, 1988
+0.210 (0.000, 1.841)
+Combined (random)
+0.563 (0.358, 0.885)
+Odds ratio (95% Confidence interval)
+ Figure 2 .  Odds ratio for colorectal cancer in patients with constipation vs. patients without in cross-sectional surveys.
+
+[page 7]
+© 2013 by the American College of Gastroenterology 
+The American Journal of GASTROENTEROLOGY
+7
+REVIEW
+ Constipation and Colorectal Cancer 
+ discrepancies resolved by consensus. Th e quality of each study was 
+assessed according to published criteria ( 17,18 ). Data were pooled 
+using a random eff ects model, in order to give a more conserva-
+tive estimate of the odds of CRC according to constipation status 
+in cross-sectional surveys and cohort studies, and the odds of 
+constipation according to the presence or absence of CRC in case –
+ control studies. Th ere was no signifi cant heterogeneity observed 
+when the results of cross-sectional surveys were combined, but 
+heterogeneity was observed among cohort studies and case-con-
+trol studies. However, the use of sensitivity analyses allowed us to 
+explore potential reasons for the observed heterogeneity, and in 
+some cases this disappeared. Where possible, we also assessed for 
+evidence of publication bias, or other small study eff ects, by testing 
+funnel plots for obvious asymmetry. 
+ As with any systematic review and meta-analysis, limitations 
+include the quality of the eligible studies, as well as the reporting 
+of data within them. Th e majority of the cross-sectional surveys 
+identifi ed, while large in several cases, were of lower quality when 
+assessed using the QUADAS-2 tool. However, when only low-risk 
+of bias studies were considered in the analysis the summary esti-
+mate was identical to that for unclear risk of bias studies. While the 
+cohort studies were of higher quality, with all scoring 5 or more 
+of a possible 9 on the Newcastle-Ottawa scale, the case – control 
+studies we identifi ed scored poorly, with only four of the seventeen 
+case – control studies scoring over 4. It should be remembered that 
+there is no recommended threshold in use to defi ne higher quality 
+studies, but the consistently low scores among case – control studies 
+cross-sectional surveys, the presence of constipation as the pri-
+mary indication for colonoscopy was associated with a signifi -
+cantly lower prevalence of CRC, with a 44 % reduction in odds 
+of CRC among patients with constipation according to either 
+self-report or a questionnaire, and no signifi cant heterogeneity 
+detected between studies. Th e data from the three cohort stud-
+ies demonstrated a non-signifi cant trend towards a lower OR 
+for development of CRC in individuals reporting constipation at 
+baseline, defi ned as less than one stool per day, with signifi cant 
+heterogeneity detected between studies. Th is heterogeneity disap-
+peared altogether when the defi nition of constipation was changed 
+to a frequency of one stool every 3 days. In contrast, when data 
+were pooled from the 17 case – control studies, the prevalence of 
+constipation in patients with CRC was signifi cantly higher than 
+in controls without CRC, but again with signifi cant heterogene-
+ity detected between studies, and possible publication bias. When 
+sensitivity analyses were conducted, the OR for constipation in 
+CRC remained signifi cantly higher in all analyses, and heteroge-
+neity was reduced when only high quality studies or those con-
+ducted in the East were considered. 
+ Th ere are several strengths of this study. We carried out a com-
+prehensive and contemporaneous literature search that identifi ed 
+suffi  cient studies to allow the pooling of data from over 250,000 
+recruited subjects. Th is was augmented by hand-searching of the 
+bibliographies of retrieved articles, and one foreign language paper 
+was translated. Th e judging of study eligibility and data extrac-
+tion were carried out independently by two investigators, with 
+Odds ratio meta-analysis plot (random effects)
+0.5
+1
+2
+5
+10
+Tashiro et al., 2011
+1.41 (0.94, 2.08)
+Simons et al., 2010
+0.80 (0.62, 1.01)
+Promthet et al., 2010
+3.65 (2.11, 6.34)
+Hamilton et al., 2009
+3.12 (2.92, 3.34)
+Hamilton et al., 2005
+2.03 (1.53, 2.69)
+Roberts et al., 2003
+2.68 (1.64, 4.43)
+Nascimbeni et al., 2002
+1.94 (0.83, 4.48)
+Jacobs and White, 1998
+1.54 (1.16, 2.06)
+Yang et al., 1995
+1.75 (1.38, 2.23)
+Kotake et al., 1995
+1.72 (1.20, 2.46)
+Kune et al., 1988
+1.27 (1.00, 1.62)
+Nakamura et al., 1984
+0.92 (0.51, 1.64)
+Jain et al., 1980
+1.44 (1.12, 1.84)
+Haenszel et al., 1973
+2.53 (0.93, 7.04)
+Wynder et al., 1967b
+1.60 (0.97, 2.64)
+Wynder and Shigemastu, 1967a
+1.57 (1.19, 2.07)
+Higginson, 1966
+1.25 (0.90, 1.72)
+Combined (random)
+1.68 (1.29, 2.18)
+Odds ratio (95% Confidence interval)
+ Figure 3 .  Odds ratio for constipation in cases with colorectal cancer vs. controls without in case – control studies.
+
+[page 8]
+The American Journal of GASTROENTEROLOGY 
+VOLUME 104 | XXX 2013   www.amjgastro.com
+8
+REVIEW
+ Power  et al. 
+is of concern. Th ere was also considerable heterogeneity between 
+case – control studies in many of the analyses conducted. Th e rea-
+sons for this remain speculative, but may relate to variations in the 
+defi nition of constipation used, methods of acquiring data, demo-
+graphic characteristics of recruited individuals, which were not 
+reported in the majority of studies, or cultural diff erences. 
+ Th e distinction between chronic and acute / new-onset constipation 
+is very important, as this could be the manifestation of mechanical 
+bowel obstruction resulting from CRC. We sought out this infor-
+mation for each study and described it where reported. Nine of the 
+case – control studies specifi cally stated that they asked participants to 
+ignore any recent change in bowel habit ( 16,34 – 36,39,42,43,47,48 ), 
+allowing us to pool data in a subgroup analysis according to this study 
+characteristic, but none of the cohort studies reported this informa-
+tion. Th is is probably less relevant for the cohort studies, as they were 
+prospective, and followed up individuals who reported constipation 
+at baseline for a long duration (anywhere from 6 to   >  10 years), in 
+order to detect new cases of CRC. For the cross-sectional surveys 
+only two studies reported the duration of constipation ( 24,28 ), and 
+in one this was   >  3 months ( 24 ), and in the other constipation had 
+occurred within the last 3 months ( 28 ), precluding any meaningful 
+pooling of data according to symptom duration. 
+ A fi nal limitation is that we calculated ORs using raw data 
+reported by the studies, rather than pooling adjusted ORs as 
+reported by the individual studies, which would have been adjusted 
+for some potential underlying diff erences between study partici-
+pants. However, as the majority of studies were not conducted with 
+the primary aim of studying the relationship between constipation 
+and CRC, very few reported adjusted summary statistics, and those 
+that did failed to use ORs in all cases, meaning that pooling of these 
+data would not have been possible. As a result of this, there may be 
+residual confounding issues that explain our fi ndings. For instance 
+it may be that patients with constipation are more likely to undergo 
+colonoscopy, and this is the reason for the negative association 
+between constipation and CRC seen in cross-sectional surveys. 
+However, given that the comparator in these studies was patients 
+with other lower GI symptoms, rather than asymptomatic healthy 
+individuals we feel this explanation is unlikely. In fact, the largest 
+of the cross-sectional surveys that showed a signifi cant negative 
+association between constipation and CRC, and which accounted 
+for 60 % of the weight of the meta-analysis, specifi cally stated that 
+patients were undergoing colonoscopy for the fi rst time ( 27 ). 
+ Th ere have been several previous systematic reviews examining 
+the association between lower GI symptoms and CRC ( 13,49 – 53 ), 
+although none of these have reported exclusively on constipation 
+alone as a possible risk factor for CRC, and one did not study this 
+issue at all ( 49 ). Th e earliest of these, published by Sonnenberg and 
+Muller ( 13 ) in 1993, identifi ed nine case – control studies reporting 
+on the prevalence of constipation in patients with CRC, and 
+demonstrated a signifi cant association between the two, with 
+an OR of similar magnitude to the one we observed. In 2003, 
+Chen  et al. ( 53 ) also examined this issue , but restricted their analy-
+sis to four case – control studies conducted in China. Th e pooled 
+OR was 2.23 in this study, higher than that observed in either the 
+present study or that by Sonnenberg  et al. ( 13 ). 
+ More recently, Jellema  et al. ( 52 ) summarized data from 47 stud-
+ies that reported the accuracy of lower GI symptoms, blood tests, 
+and fecal occult blood testing in predicting CRC in primary or sec-
+ondary care . Th ere were only four studies identifi ed that reported 
+on the diagnostic accuracy of constipation, and sensitivity ranged 
+from 0 % to 51 % , and specifi city from 53 % to 90 % . Th e authors 
+concluded that the diagnostic performance of constipation in pre-
+dicting CRC was poor. In a meta-analysis of observational studies 
+that examined the diagnostic accuracy of lower GI symptoms only 
+( 50 ), constipation was not associated with the presence of CRC, 
+with a positive likelihood ratio of 1.1, although the number of stud-
+ies providing data for this analysis was not reported. Finally, Astin 
+ et al. ( 51 ) performed a systematic review of studies conducted in 
+primary care, identifying only three that reported on the associa-
+tion between constipation and CRC , with positive and negative 
+likelihood ratios of 1.74 and 0.84 respectively. 
+ In our systematic review and meta-analysis we were deliberately 
+inclusive, and analyzed data from cross-sectional surveys, cohort 
+studies, or case – control studies conducted in the general popula-
+tion and primary, secondary, or tertiary care. When data from the 
+cohort studies were pooled, the presence of constipation at base-
+line was not associated with the development of CRC aft er 6 to 12 
+years of follow-up. Th e fi nding that constipation was commoner 
+in cases with CRC, compared with controls without, is in keeping 
+with the two aforementioned meta-analyses of case – control stud-
+ies ( 13,53 ). It has been postulated that this signifi cant association is 
+due to reverse causation, because CRC leads to the development of 
+constipation, precipitating presentation to a physician ( 10 ). How-
+ever, data from the cross-sectional surveys we identifi ed indicate 
+that this is not the case, with the presence of constipation as the 
+primary indication for colonoscopy being negatively associated 
+with an ultimate diagnosis of CRC following complete lower GI 
+investigation. 
+ We would, therefore, propose that the signifi cant association 
+observed in case – control studies relates to a combination of poor 
+study quality, publication bias, and recall bias among participants. 
+Only 9 of the 17 provided information about the duration of symp-
+toms relative to when the diagnosis of CRC was made, and the OR 
+was slightly lower when data from these studies were pooled. Our 
+results, therefore, suggest that constipation alone does not warrant 
+lower GI investigation unless other alarm symptoms or signs are 
+present, although these also perform poorly in predicting a diagno-
+sis of CRC ( 49 ). Despite the fact that constipation is not recognized 
+as an alarm feature, according to current guidelines for the detec-
+tion of suspected cancer ( 54 ), physicians continue to refer con-
+stipated patients for lower GI examination to rule out CRC as an 
+underlying cause. Hopefully the data from this systematic review 
+and meta-analysis will lead to an alteration in such behavior. 
+ In conclusion, data from this systematic review and meta-analy-
+sis demonstrate that in cohort studies constipation is not associ-
+ated with the development of CRC. In addition, when patients 
+are colonoscoped with constipation as the primary indication, 
+a diagnosis of CRC is less likely than in patients being colono-
+scoped for other lower GI symptoms as the primary indication. 
+Th e association between constipation and CRC observed in
+
+[page 9]
+© 2013 by the American College of Gastroenterology 
+The American Journal of GASTROENTEROLOGY
+9
+REVIEW
+ Constipation and Colorectal Cancer 
+and subsequent risk for colorectal cancer: Th e Japan public health 
+center-based prospective study .  Ann Epidemiol  2006 ; 16 : 888 – 94 . 
+ 16 .  Jacobs  EJ ,  White  E .  Constipation, laxative use, and colon cancer among 
+middle-aged adults .  Epidemiology  1998 ; 9 : 385 – 91 . 
+ 17 .  Whiting  PF ,  Rutjes  AW ,  Westwood  ME  et al.  QUADAS-2: a revised tool 
+for the quality assessment of diagnostic accuracy studies .  Ann Intern Med 
+ 2011 ; 155 : 529 – 36 . 
+ 18 .  Wells  GA ,  Shea  B ,  O ’ Connell  D  et al.  Th e Newcastle-Ottawa Scale (NOS) 
+for assessing the quality of nonrandomised studies in meta-analyses.  http://
+www ohrica/programs/clinical_epidemiology/oxford htm Accessed 24th 
+May 2012–2009 . 
+ 19 .  Higgins  JPT ,  Th ompson  SG ,  Deeks  JJ  et al.  Measuring inconsistency in 
+meta-analyses .  Br Med J  2003 ; 327 : 557 – 60 . 
+ 20 .  DerSimonian  R ,  Laird  N .  Meta-analysis in clinical trials .  Control Clin Trials 
+ 1986 ; 7 : 177 – 88 . 
+ 21 .  Egger  M ,  Davey-Smith  G ,  Schneider  M  et al.  Bias in meta-analysis detected 
+by a simple, graphical test .  Br Med J  1997 ; 315 : 629 – 34 . 
+ 22 .  Sterne  JA ,  Sutton  AJ ,  Ioannidis  JP  et al.  Recommendations for examining 
+and interpreting funnel plot asymmetry in meta-analyses of randomised 
+controlled trials .  Br Med J  2011 ; 343 : d4002 . 
+ 23 .  Adler  A ,  Roll  S ,  Marowski  B  et al.  Appropriateness of colonoscopy in the 
+era of colorectal cancer screening: a prospective, multicenter study in a 
+private-practice setting (Berlin Colonoscopy Project 1, BECOP 1) .  
+ Dis Colon Rectum  2007 ; 50 : 1628 – 38 . 
+ 24 .  Bafandeh  Y ,  Khoshbaten  M ,  Eft ekhar Sadat  AT  et al.  Clinical predictors 
+of colorectal polyps and carcinoma in a low prevalence region: results of a 
+colonoscopy based study .  World J Gastroenterol  2008 ; 14 : 1534 – 8 . 
+ 25 .  Bersani  G ,  Rossi  A ,  Ricci  G  et al.  Do ASGE guidelines for the appropriate 
+use of colonoscopy enhance the probability of fi nding relevant pathologies 
+in an open access service?  Dig Liver Dis  2005 ; 37 : 609 – 14 . 
+ 26 .  de Bosset  V ,  Froehlich  F ,  Rey  J - P  et al.  Do explicit appropriateness criteria 
+enhance the diagnostic yield of colonoscopy?  Endoscopy  2002 ; 34 : 360 – 8 . 
+ 27 .  Huang  L ,  Wang  X ,  Gong  W  et al.  Th e comparison of the clinical manifes-
+tations and risk factors of colorectal cancer and adenomas: results from 
+a colonoscopy-based study in southern Chinese .  Int J Colorectal Dis 
+ 2010 ; 25 : 1343 – 51 . 
+ 28 .  Panzuto  F ,  Chiriatti  A ,  Bevilacqua  S  et al.  Symptom-based approach to 
+colorectal cancer: Survey of primary care physicians in Italy .  Dig Liver Dis 
+ 2003 ; 35 : 869 – 75 . 
+ 29 .  Selvachandran  SN ,  Hodder  RJ ,  Ballal  MS  et al.  Prediction of colorectal 
+cancer by a patient consultation questionnaire and scoring system: 
+a prospective study .  Lancet  2002 ; 360 : 278 – 83 . 
+ 30 .  Tate  JJT ,  Royle  GT .  Open access colonoscopy for suspected colonic 
+neoplasia .  Gut  1988 ; 29 : 1322 – 5 . 
+ 31 .  Dukas  L ,  Willet  WC ,  Colditz  GA  et al.  Prospective study of bowel 
+movement, laxative use, and risk of colorectal cancer among women . 
+ Am J Epidemiol  2000 ; 151 : 958 – 64 . 
+ 32 .  Kojima  M ,  Wakai  K ,  Tokudome  S  et al.  Bowel movement frequency and 
+risk of colorectal cancer in a large cohort study of Japanese men and 
+women .  Br J Cancer  2004 ; 90 : 1397 – 401 . 
+ 33 .  Watanabe  T ,  Nayaka  N ,  Kurashima  K  et al.  Constipation, laxative use 
+and risk of colorectal cancer: Th e Miyagi Cohort Study .  Eur J Cancer 
+ 2004 ; 40 : 2109 – 15 . 
+ 34 .  Higginson  J .  Etiological factors in gastrointestinal cancer in man .  J Natl 
+Cancer Inst  1966 ; 37 : 527 – 45 . 
+ 35 .  Wynder  EL ,  Shigematsu  T .  Environmental factors of cancer of the colon 
+and rectum .  Cancer  1967 ; 20 : 1520 – 61 . 
+ 36 .  Wynder  EL ,  Kajitani  T ,  Ishikawa  S  et al.  Environmental factors of cancer 
+of the colon and rectum. II. Japanese epidemiological data .  Cancer 
+ 1969 ; 23 : 1210 – 20 . 
+ 37 .  Haenszel  W ,  Berg  JW ,  Segi  M  et al.  Large-bowel cancer in Hawaiian 
+Japanese .  J Natl Cancer Inst  1973 ; 51 : 1765 – 79 . 
+ 38 .  Jain  M ,  Cook  GM ,  Davis  FG  et al.  A case-control study of diet and 
+colo-rectal cancer .  Int J Cancer  1980 ; 26 : 757 – 68 . 
+ 39 .  Nakamura  GJ ,  Schneiderman  LJ ,  Klauber  MR .  Colorectal cancer and bowel 
+habits .  Cancer  1984 ; 54 : 1475 – 7 . 
+ 40 .  Kune  GA ,  Kune  S ,  Field  B  et al.  Th e role of chronic constipation, 
+diarrhea, and laxative use in the etiology of large-bowel cancer. 
+Data from the Melbourne Colorectal Cancer Study .  Dis Colon Rectum 
+ 1988 ; 31 : 507 – 12 . 
+ 41 .  Kotake  K ,  Koyama  Y ,  Nasu  J  et al.  Relation of family history of cancer and 
+environmental factors to the risk of colorectal cancer: a case-control study . 
+ Jpn J Clin Oncol  1995 ; 25 : 195 – 202 . 
+case – control studies is likely to be due to a combination of poor 
+study quality and recall bias among participants. Th e use of inva-
+sive lower GI investigations to exclude CRC in patients presenting 
+with constipation, in the absence of other alarm features, should be 
+discouraged. 
+ CONFLICT OF INTEREST 
+ Guarantor of the article : Alexander C. Ford, MBChB, MD, FRCP. 
+ Specifi c author contributions: N.J.T. and A.C.F.: conceived and 
+draft ed the study. A.M.P. and A.C.F.: collected all data. A.C.F.: ana-
+lyzed and interpreted the data. A.C.F. and A.M.P.: draft ed the man-
+uscript. All authors commented on draft s of the paper. All authors 
+have approved the fi nal draft  of the manuscript. 
+ Financial support: Dr Ford ’ s time was reimbursed by an investiga-
+tor-initiated grant from Almirall. Almirall had no input into the 
+study conduct or design. 
+ Potential competing interests : None. 
+ ACKNOWLEDGMENTS 
+ We thank Dr Cathy Yuhong Yuan for assisting us with the transla-
+tion of foreign language articles. 
+ REFERENCES 
+ 1 .  Drossman  DA ,  Li  Z ,  Andruzzi  E  et al.  U.S. householder survey of func-
+tional gastrointestinal disorders. Prevalence, sociodemography, and health 
+impact .  Dig Dis Sci  1993 ; 38 : 1569 – 80 . 
+ 2 .  Ford  AC ,  Forman  D ,  Bailey  AG  et al.  Irritable bowel syndrome: a 10-year 
+natural history of symptoms, and factors that infl uence consultation 
+behavior .  Am J Gastroenterol  2008 ; 103 : 1229 – 39 . 
+ 3 .  Lovell  RM ,  Ford  AC .  Global prevalence of, and risk factors for, irritable 
+bowel syndrome: a meta-analysis .  Clin Gastroenterol Hepatol  2012 ; 10 : 
+ 712 – 21 . 
+ 4 .  Suares  NC ,  Ford  AC .  Prevalence of, and risk factors for, chronic idiopathic 
+constipation in the community: Systematic review and meta-analysis .  
+ Am J Gastroenterol  2011 ; 106 : 1582 – 91 . 
+ 5 .  Talley  NJ ,  Zinsmeister  AR ,  Van Dyke  C  et al.  Epidemiology of colonic 
+symptoms and the irritable bowel syndrome .  Gastroenterology  1991 ; 101 :
+ 927 – 34 . 
+ 6 .  Drossman  DA ,  Whitehead  WE ,  Toner  BB  et al.  What determines severity 
+amongst patients with painful functional bowel disorders?  Am J 
+Gastroenterol  2000 ; 95 : 974 – 80 . 
+ 7 .  Wald  A ,  Scarpignato  C ,  Kamm  MA  et al.  Th e burden of chronic 
+constipation on quality of life: results of a multinational survey .  Aliment 
+Pharmacol Th er  2007 ; 26 : 227 – 36 . 
+ 8 .  Chang  JY ,  Locke  III  GR ,  McNally  MA  et al.  Impact of functional 
+gastrointestinal disorders on survival in the community .  Am J 
+Gastroenterol  2010 ; 105 : 822 – 32 . 
+ 9 .  Ford  AC ,  Forman  D ,  Bailey  AG  et al.  Eff ect of dyspepsia on survival: a 
+longitudinal 10-year follow-up study .  Am J Gastroenterol  2012 ; 107 : 912 – 21 . 
+ 10 .  Talley  NJ ,  Lasch  KL ,  Baum  CL .  A gap in our understanding: chronic 
+constipation and its comorbid conditions .  Clin Gastroenterol Hepatol 
+ 2009 ; 7 : 9 – 19 . 
+ 11 .  Burkitt  DP .  Epidemiology of cancer of the colon and rectum .  Cancer 
+ 1971 ; 28 : 3 – 13 . 
+ 12 .  Narisawa  T ,  Magadia  NE ,  Weisburger  JH  et al.  Promoting eff ect of bile acids 
+on colon carcinogenesis aft er intrarectal instillation of N-methyl-N ’ -
+nitro-N-nitrosoguanidine in rats .  J Natl Cancer Inst  1974 ; 53 : 1093 – 7 . 
+ 13 .  Sonnenberg  A ,  Muller  AD .  Constipation and cathartics as risk factors of 
+colorectal cancer: a meta-analysis .  Pharmacology  1993 ; 47  (suppl 1) : 
+ 224 – 33 . 
+ 14 .  Simons  CC ,  Schouten  LJ ,  Weijenberg  MP  et al.  Bowel movement and 
+constipation frequencies and the risk of colorectal cancer among men 
+in the Netherlands Cohort Study on diet and cancer .  Am J Epidemiol 
+ 2010 ; 172 : 1404 – 14 . 
+ 15 .  Otani  T ,  Iwasaki  M ,  Inoue  M ,   et al.  For the Japan Public Health 
+Center-based Prospective Study Group .  Bowel movement, state of stool,
+
+[page 10]
+The American Journal of GASTROENTEROLOGY 
+VOLUME 104 | XXX 2013   www.amjgastro.com
+10
+REVIEW
+ Power  et al. 
+ 42 .  Yang  G ,  Zhang  X - L ,  Zheng  S .  Th e role of common symptoms in screening 
+of large bowel cancer. A population-based case-control study in Shanghai . 
+ Chin J Clin Oncol  1995 ; 22 : 403 – 7 . 
+ 43 .  Nascimbeni  R ,  Donato  F ,  Ghirardi  M  et al.  Constipation, anthranoid 
+laxatives, melanosis coli, and colon cancer: a risk assessment using aberrant 
+crypt foci .  Cancer Epidemiol Biomarkers Prev  2002 ; 11 : 753 – 7 . 
+ 44 .  Roberts  MC ,  Millikan  RC ,  Galanko  JA  et al.  Constipation, laxative use, 
+and colon cancer in a North Carolina population .  Am J Gastroenterol 
+ 2003 ; 98 : 857 – 64 . 
+ 45 .  Hamilton  W ,  Round  A ,  Sharp  D  et al.  Clinical features of colorectal cancer 
+before diagnosis: a population-based case-control study .  Br J Cancer 
+ 2005 ; 93 : 399 – 405 . 
+ 46 .  Hamilton  W ,  Lancashire  R ,  Sharp  D  et al.  Th e risk of colorectal cancer with 
+symptoms at diff erent ages and between the sexes: a case-control study . 
+ BMC Med  2009 ; 7 : 17 . 
+ 47 .  Promthet  SS ,  Pientong  C ,  Ekalaksananan  T  et al.  Risk factors for 
+colon cancer in Northeastern Th ailand: Interaction of MTHFR codon 
+677 and 1298 genotypes with environmental factors .  J Epidemiol 
+ 2010 ; 20 : 329 – 38 . 
+ 48 .  Tashiro  N ,  Budhathoki  S ,  Ohnaka  K  et al.  Constipation and colorectal 
+cancer risk: the Fukuoka Colorectal Cancer Study .  Asian Pac J Cancer Prev 
+ 2011 ; 12 : 2025 – 30 . 
+ 49 .  Ford  AC ,  Veldhuyzen Van Zanten  SJO ,  Rodgers  CC  et al.  Diagnostic utility 
+of alarm features for colorectal cancer: systematic review and meta-analysis . 
+ Gut  2008 ; 57 : 1545 – 53 . 
+ 50 .  Adelstein  B - A ,  Macaskill  P ,  Chan  SF  et al.  Most bowel symptoms do not 
+indicate colorectal cancer and polyps: a systematic review .  BMC 
+Gastroenterol  2011 ; 11 : 65 . 
+ 51 .  Astin  M ,  Griffi  n  T ,  Neal  RD  et al.  Th e diagnostic value of symptoms for 
+colorectal cancer in primary care: a systematic review .  Br J Gen Pract 
+ 2011 ; 61 : e231 – 43 . 
+ 52 .  Jellema  P ,  van der Windt  DAWM ,  Bruinvels  DJ  et al.  Value of symptoms 
+and additional diagnostic tests for colorectal cancer in primary care: 
+systematic review and meta-analysis .  Br Med J  2010 ; 340 : c1269 . 
+ 53 .  Chen  K ,  Qiu  J - L ,  Zhang  Y  et al.  Meta-analysis of risk factors for colorectal 
+cancer .  World J Gastroenterol  2003 ; 9 : 1598 – 600 . 
+ 54 .  Referral guidelines for suspected cancer in adults and children.  www nice 
+org uk/nicemedia/pdf/CG027fullguideline pdf 2007 .

@@ -1,0 +1,1736 @@
+
+
+[page 1]
+REVIEW
+Impact of Meal Frequency on Anthropometric
+Outcomes: A Systematic Review and Network
+Meta-Analysis of Randomized Controlled Trials
+Lukas Schwingshackl,1 Kai Nitschke,1 Jasmin Zähringer,1 Karin Bischoﬀ,1 Szimonetta Lohner,2 Gabriel Torbahn,3
+Sabrina Schlesinger,4 Christine Schmucker,1 and Joerg J Meerpohl1,5
+1Institute for Evidence in Medicine, Medical Center–University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany; 2Cochrane Hungary,
+Clinical Center of the University of Pécs, Medical School, University of Pécs, Pécs, Hungary; 3Institute for Biomedicine of Aging, Friedrich-Alexander-Universität
+Erlangen-Nürnberg, Nürnberg, Germany; 4Institute for Biometrics and Epidemiology, German Diabetes Center (DDZ), Leibniz Center for Diabetes Research at
+Heinrich Heine University Düsseldorf, Düsseldorf, Germany; and 5Cochrane Germany, Cochrane Germany Foundation, Freiburg, Germany
+ABSTRACT
+The relation between meal frequency and measures of obesity is inconclusive. Therefore, this systematic review and network meta-analysis (NMA)
+set out to compare the isocaloric eﬀects of diﬀerent meal frequencies on anthropometric outcomes and energy intake (EI). A systematic literature
+search was conducted in 3 electronic databases (Medline, Cochrane Library, Web of Science; search date, 11 March 2019). Randomized controlled
+trials (RCTs) were included with ≥2 wk intervention duration comparing any 2 of the eligible isocaloric meal frequencies (i.e., 1 to ≥8 meals/d).
+Random-eﬀects NMA was performed for 4 outcomes [body weight (BW), waist circumference (WC), fat mass (FM), and EI], and surface under the
+cumulative ranking curve (SUCRA) was estimated using a frequentist approach (P-score: value is between 0 and 1). Twenty-two RCTs with 647
+participants were included. Our results suggest that 2 meals/d probably slightly reduces BW compared with 3 meals/d [mean diﬀerence (MD):
+−1.02 kg; 95% CI: −1.70, −0.35 kg) or 6 meals/d (MD: −1.29 kg; 95% CI: −1.74, −0.84 kg; moderate certainty of evidence). We are uncertain whether
+1 or 2 meals/d reduces BW compared with ≥8 meals/d (MD1 meal/d vs. ≥8 meals/d: −2.25 kg; 95% CI: −5.13, 0.63 kg; MD2 meals/d vs. ≥8 meals/d: −1.32 kg;
+95% CI: −2.19, −0.45 kg) and whether 1 meal/d probably reduces FM compared with 3 meals/d (MD: −1.84 kg; 95% CI: −3.72, 0.05 kg; very low
+certainty of evidence). Two meals per day compared with 6 meals/d probably reduce WC (MD: −3.77 cm; 95% CI: −4.68, −2.86 cm; moderate
+certainty of evidence). One meal per day was ranked as the best frequency for reducing BW (P-score: 0.81), followed by 2 meals/d (P-score: 0.74),
+whereas 2 meals/d performed best for WC (P-score: 0.96). EI was not aﬀected by meal frequency. In conclusion, our ﬁndings indicate that there is
+little robust evidence that reducing meal frequency is beneﬁcial. Adv Nutr 2020;11:1108–1122.
+Keywords: network meta-analysis, meal frequency, snacking, obesity, weight loss
+Introduction
+Across the globe, dietary habits include the consumption of
+foods (snacking) and calorie-containing beverages between
+main meals (1). It has been hypothesized that eating small,
+The authors reported no funding received for this work. SL participated in this project during
+her research stay at the Institute for Evidence in Medicine, University of Freiburg, supported by
+the Alexander von Humboldt Foundation, Germany.
+Author disclosures: LS is a member of the Editorial Board of Advances in Nutrition. The other
+authors report no conflicts of interest.
+Supplemental Appendixes 1 and 2, Supplemental Figures 1–35, and Supplemental Tables 1–3
+are available from the “Supplementary data”link in the online posting of the article and from
+the same link in the online table of contents at https://academic.oup.com/advances.
+Address correspondence to LS (e-mail: schwingshackl@ifem.uni-freiburg.de).
+Abbreviations used: BW, body weight; EI, energy intake; GRADE, Grading of Recommendations
+Assessment, Development, and Evaluation; MD, mean difference; NMA, network meta-analysis;
+RCT, randomized controlled trial; RoB, risk of bias; T2D, type 2 diabetes; WC, waist
+circumference.
+frequent meals instead of few larger meals enhances fat
+loss and helps to achieve better weight maintenance (2).
+A number of observational studies provided support for
+this hypothesis, with an inverse relation noted between
+the frequency of eating and obesity (3, 4). For example in
+the Malmö Diet and Cancer Study, lower meal frequencies
+(≤3 meals/d) were associated with a higher risk of (ab-
+dominal) obesity compared with a higher meal frequency
+(≥6 meals/d) (4). These findings are in line with a meta-
+analysis of randomized controlled trials (RCTs), indicating
+that a higher meal frequency was effective in reducing fat
+mass (5). Controversially, another prospective cohort study
+indicated that increasing the number of eating occasions
+beyond 3 meals/d is associated with a higher risk for weight
+gain (6). Similarly, a recent pairwise meta-analysis of 13 RCTs
+1108
+Copyright C⃝The Author(s) on behalf of the American Society for Nutrition 2020. Adv Nutr 2020;11:1108–1122; doi: https://doi.org/10.1093/advances/nmaa056.
+
+[page 2]
+suggested that lowering meal frequency through skipping
+breakfast and thereby prolonging fasting times may help to
+reduce weight in adults (7).
+Given these contradictions, it is also still unclear whether
+an increased meal frequency through snacking between
+main meals influences anthropometric outcomes. Generally,
+there are healthy (e.g., fruit, salads, or nuts) and unhealthy
+(e.g., sweets or crisps) snacks that have a different effect
+on health and anthropometric outcomes as well (1). Yet,
+no consensus on the relation between meal frequency—by
+spreading main meals over more eating occasions or through
+healthy snacking—and obesity has been reached (8).
+Compared with the above-described pairwise meta-
+analyses, the methodological approach of network meta-
+analysis (NMA) offers the possibility to combine direct
+(i.e., from trials comparing 2 meal frequency interventions
+directly: e.g., 3 meals/d vs. 6 meals/d) and indirect (i.e.,
+from a connected root via ≥1 intermediate comparators)
+evidence in a network of trials. To the best of our knowledge,
+no NMA has been conducted to date that simultaneously
+compared the isocaloric effects of different meal frequencies
+on anthropometric outcomes and energy intake. Therefore,
+the aim of the present research project was to investigate the
+impact of different meal frequencies, combine the direct and
+indirect evidence, and rank the different dietary approaches
+for effects on anthropometric outcomes (body weight, waist
+circumference, fat mass) and energy intake using NMA
+methodology.
+Methods
+This NMA was registered in PROSPERO (International
+Prospective Register of Systematic Reviews; www.crd.york.
+ac.uk/prospero/index.asp, identifier CRD42019138572) and
+is being reported in adherence to PRISMA (Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses)
+standards for reporting NMAs (9, 10).
+Search strategy
+The systematic literature search was performed in the
+electronic databases Medline (Supplemental Appendix 1),
+Web of Science, and the Cochrane Central Register of
+Controlled Trials (CENTRAL) up until 11 March 2019, with
+no restriction of language and calendar date. Furthermore,
+the reference lists from eligible studies were screened
+to identify additional relevant research. Screening and
+study selection were conducted by 2 authors independently
+(LS, KB).
+Selection of studies
+Studies were included in the NMA if they met the following
+criteria:
+1) RCTs (with a parallel or crossover design) examining
+≥2 dietary meal frequency interventions per day: 1
+meal/d vs. 2 vs. 3 vs. 4 vs. 5 vs. 6 vs. 7 vs. ≥8.
+2) Isocaloric comparison (11):
+i) If the amount of energy intake was exchanged with an
+equal amount of energy intake for the different meal
+frequency interventions within a trial.
+a) Hypo vs. hypocaloric energy intake within a trial
+b) Eucaloric vs. eucaloric energy intake within a trial
+ii) If the RCT involved overfeeding, such that excess
+energy was supplied, resulting in a positive energy
+balance, then the comparison was still considered
+isocaloric as long as the comparator was matched for
+the excess energy, resulting in the same positive energy
+balance.
+a) Hyper vs. hypercaloric energy intake within a trial
+3) Minimum duration of the intervention: ≥2 wk, in line
+with a recent meta-analysis on breakfast skipping (7).
+4) Participants with a mean age ≥18 y.
+The following studies were excluded:
+1) RCTs of acute (single meal) postprandial effects only.
+2) RCTs with critically ill and hospitalized patients, patients
+undergoing bariatric surgery, patients with eating disor-
+ders.
+3) RCTs based solely on liquid/formula diets, meal replace-
+ment interventions, or dietary supplements.
+4) Co-intervention (e.g., drugs, supplements, diet, or physi-
+cal activity) not applied in all intervention arms.
+Data extraction
+For included studies, 2 reviewers independently (KB, JZ)
+extracted the following characteristics to a piloted data
+extraction form: name of first author, year of publica-
+tion, study origin (country), study design (RCT: paral-
+lel or crossover, including duration of washout period),
+comparison of meal frequency type, sample size, disease
+status (i.e., healthy, obese, type 2 diabetic, hypercholes-
+terolemia), mean age, mean BMI, presence of type 2
+diabetes (T2D; %), gender, duration of intervention (weeks),
+specification of the type of isocaloric comparison within
+an RCT (i.e., hypocaloric, eucaloric, hypercaloric), provi-
+sion of food (yes/no), meals consumed in research center
+(yes/no), energy intake and macronutrient composition,
+outcomes extracted for the present NMA, and dietary
+adherence.
+The preferred outcome data were change scores adjusted
+for baseline measurements with corresponding SDs, followed
+by postintervention values and change scores not adjusted for
+baseline measurements, as reported previously (12).
+Risk-of-bias assessment
+Risk of bias (RoB) was assessed by 2 authors indepen-
+dently (SL, GT) according to the methods described in the
+Cochrane Handbook for Systematic Reviews of Interventions
+(13). The following domains were considered: selection bias
+(random-sequence generation and allocation concealment),
+performance bias (blinding of participants and personnel),
+detection bias (blinding of outcome assessment), attrition
+bias (incomplete outcome data), reporting bias (selective
+Network meta-analysis and meal frequency
+1109
+
+[page 3]
+reporting), and other bias (carryover effect in crossover RCTs
+and potential conflict of interest).
+Data synthesis
+Statistical analysis.
+Available direct comparisons between dietary interventions
+were illustrated using a network plot (14) for the following
+outcomes: body weight (kilograms), waist circumference
+(centimeters), fat mass (kilograms), and energy intake
+(kilocalories per day). Of note, in NMAs the size of the nodes
+is proportional to the sample size of each dietary intervention
+and the thickness of the lines proportional to the number of
+studies available.
+Afterwards, the direct and indirect treatment effects
+across the RCTs were pooled, and weighted mean differences
+(MDs) for the outcome measures were calculated.
+We performed NMAs in a contrast-based framework
+using the R package netmeta, version 6.6–6 (15). Treatments
+were ranked by P-scores, which are a frequentist version of
+the surface under the cumulative ranking curve (SUCRA)
+(16, 17). P-scores are values between 0 and 1, where a value
+of 1 means that a treatment ranks always best and a value of
+0 means that a treatment ranks always worst.
+Assessment of intransitivity.
+To evaluate the assumption of transitivity (18), we compared
+the similarity of the included populations and study settings
+in terms of age, BMI, disease status, and study length for the
+available direct comparisons.
+Assessment of inconsistency.
+The effect estimate for each comparison was split into the
+contribution of direct and indirect evidence to see whether
+they differed and, therefore, we were able to assess potential
+inconsistency. We created a net heat plot by applying a
+full treatment-design interaction model (19). This model
+separates effects within and between different designs (19).
+A design is defined as the subset of treatments that are
+compared in a trial.
+Secondary analyses and sensitivity analyses.
+We planned a priori to conduct secondary analyses for
+gender, study duration (<6 vs. ≥6 mo), anthropometric
+status (e.g., lean vs. overweight vs. obese), provision of food
+(yes/no), meal consumed in research center (yes/no), energy
+intake (hypo- vs. eucaloric), breakfast skipping (yes/no), and
+by excluding RCTs rated for high RoB.
+Dissemination bias.
+To evaluate dissemination bias, a comparison-adjusted fun-
+nel plot (20) was created for each direct pairwise com-
+parison, and Egger’s linear regression test for funnel plot
+asymmetry was conducted to investigate small study effects
+(21).
+Grading of recommendations assessment,
+development, and evaluation (certainty of the
+evidence)
+We followed the Grading of Recommendations Assessment,
+Development, and Evaluation (GRADE) approach to rate the
+certainty of evidence derived from NMA. For all outcomes,
+2 authors independently (LS, CS) rated the certainty of
+evidence in each of the direct, indirect, and network estimates
+(22). Direct estimates were evaluated with the following
+GRADE criteria: RoB, indirectness, inconsistency, and pub-
+lication bias. As suggested recently by the GRADE working
+group, consideration of imprecision is not necessary when
+rating the direct and indirect estimates to inform the rating of
+NMA estimates (22). The indirect estimate assessments were
+based on the direct estimate certainty and were rated down
+if intransitivity was judged as serious (i.e., disease status).
+The NMA certainty estimates were based on the direct and
+indirect estimates certainty (specifically, the higher certainty
+between direct and indirect was chosen as the certainty
+of the NMA estimate), and rated down if incoherence or
+imprecision were present (22). Overall, GRADE specifies
+4levels of certainty of evidence: high, moderate, low, and very
+low.
+Results
+Out of 1202 records identified by the literature searches, 42
+records were assessed as full texts (Figure 1, Supplemental
+Appendix 2). Finally, 22 RCTs with a total of 647 participants
+published between 1971 and 2018 were included in the
+systematic review and NMA (23–44).
+Eight RCTs were conducted in the United States (23,
+25, 29, 32, 40–42, 44); 3 in New Zealand (26–28); 2 each
+in the Netherlands (36, 43), Canada (31, 34), and Greece
+(38, 39); and 1 each in France (24), Sweden (30), Japan
+(33), Czech Republic (35), and United Kingdom (37). The
+study duration ranged from 2 to 52 wk; the mean age
+of the participants ranged from 20 to 70 y, their BMI
+(kg/m2) ranged from 20.9 to 38.4. In 10 RCTs, the mean
+BMI of the included participants was ≥30 (23, 24, 29–
+31, 36, 39, 41, 43, 44), while in 5 RCTs (23, 24, 30, 31,
+41) only participants with a BMI ≥30 were included and
+3 RCTs included participants with T2D or impaired glucose
+tolerance, respectively (28, 35, 39). The study sample of
+5 RCTs was described as healthy with no major diseases
+(26, 33, 36, 37, 42). The most common type of frequency
+comparison was 3 vs. 6 meals/d, assessed in 9 RCTs, followed
+by 2 vs. 6 meals/d and 3 vs. 9 meals/d evaluated in 3 RCTs,
+respectively. In 13 RCTs the intervention of different meal
+frequencies aimed to reduce body weight (prescription of a
+hypocaloric diet) (23–25, 29–33, 35, 36, 41, 43, 44). Nine
+of the 22 included RCTs (41%) provided information on
+the macronutrient distribution: the ranges were 15–35%
+for protein, 20–40% for fat, and 40–60% for carbohydrates
+(23, 25, 29, 32, 33, 35, 41, 42, 44). Eleven RCTs provided
+information on caloric intake, but not macronutrient distri-
+bution for single meals (26–28, 30, 34, 37–40, 43). Study and
+1110
+Schwingshackl et al.
+
+[page 4]
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+FIGURE 1
+Flow diagram showing study selection process.
+participant characteristics are summarized in Tables 1 and 2,
+respectively.
+RoB
+The results of the RoB assessment are provided in Supple-
+mental Figure 1. No study was judged to have a low risk
+of selection bias. No RCT adequately performed blinding of
+participants and personnel; no RCT was judged as low RoB
+for blinding of outcome assessment; however, 13 RCTs (59%)
+were judged as low RoB for incomplete data outcome (24, 25,
+27, 29, 31, 32, 34–39, 41). Twenty RCTs (91%) were judged
+to have a low RoB for selective reporting (23–39, 41–43), and
+6 RCTs (26%) showed a low risk of other bias (Supplemental
+Figure 1) (23, 25, 29–31, 34). Overall, 15 RCTs (68%) were
+rated as high RoB for ≥1 domain (23–30, 33, 35, 36, 38, 39,
+42, 44).
+Figure 2 shows the network diagrams for body weight
+(Figure 2A), waist circumference (Figure 2B), fat mass
+(Figure 2C), and energy intake (Figure 2D).
+Body weight
+We are uncertain whether 1 meal/d (MD: −2.25 kg; 95%
+CI: −5.13, 0.63 kg) or 2 meals/d (MD: −1.32 kg; 95%
+CI: −2.19, −0.45 kg) reduce body weight compared with
+≥8 meals/d (very low certainty of evidence) (Figure 3A).
+Moreover, our results suggest that 2 meals/d probably slightly
+reduces body weight compared with 3 meals/d (MD: −1.02
+kg; 95% CI: −1.70, −0.35 kg) or 6 meals/d (MD: −1.29 kg;
+95% CI: −1.74, −0.84 kg; moderate certainty of evidence)
+(Supplemental Figure 2). No effects were observed when 3,
+4, or 6 meals/d were compared with ≥8 meals/d.
+Waist circumference
+Two meals per day probably improve waist circumference
+compared with 6 meals/d (MD: −3.77 cm; 95% CI: −4.68,
+−2.86 cm; moderate certainty of evidence) (Figure 3B),
+whereas no effects were detected comparing 3 vs. 6 meals/d
+(MD: −0.71 cm; 95% CI: −4.69, 3.26 cm; low certainty of
+evidence).
+Network meta-analysis and meal frequency
+1111
+
+[page 5]
+TABLE 1
+Study characteristics of the included RCTs1
+Author, year, reference
+Study origin
+(country)
+Study design
+(RCT: parallel
+or crossover)
+Study
+length, wk
+Washout
+(length)
+Comparison of
+types of meal
+frequency
+Sample
+size, n
+Primary disease
+status
+Mean age, y
+Mean BMI,
+kg/m2
+T2D, %
+Female, %
+Alencar et al., 2015 (23)
+USA
+RCT, crossover
+2
+2 wk
+6 vs. 2
+11
+Obesity
+52
+39.1
+0
+100
+Antoine et al., 1984 (24)
+France
+RCT, crossover
+2
+None
+6 vs. 3
+10
+Obesity
+40.9
+31.8
+NR
+100
+Arciero et al., 2013 (25)
+USA
+RCT, parallel
+4
+—
+6 vs. 3
+30
+Overweight or obesity
+46
+29.9
+0
+86
+Arnold et al., 1993 (26)
+New Zealand
+RCT, crossover
+2
+1–7 d
+9 vs. 3
+19
+Healthy
+32.1
+23.1
+0
+50
+Arnold et al., 1994 (27)
+New Zealand
+RCT, crossover
+4
+None
+9 vs. 3
+16
+Hypercholesterolemia
+49.9
+26.5
+0
+31
+Arnold et al., 1997 (28)
+New Zealand
+RCT, crossover
+4
+None
+9 vs. 3
+13
+T2D, impaired glucose
+tolerance
+46–70 (range)
+29.9
+85
+69
+Bachman and Raynor,
+2012 (29)
+USA
+RCT, parallel
+24
+—
+7–9 vs. 3
+51
+Overweight or obesity
+51
+35.5
+0
+58
+Berteus Forslund et al.,
+2008 (30)
+Sweden
+RCT, parallel
+52
+—
+6 vs. 3
+140
+Obesity
+39.5
+38.4
+0
+74
+Cameron et al., 2010 (31)
+Canada
+RCT, parallel
+8
+—
+6 vs. 3
+18
+Obesity
+35.5
+36
+0
+50
+Finkelstein and Fryer,
+1971 (32)
+USA
+RCT, parallel
+9
+—
+6 vs. 3
+8
+Overweight
+20–22
+26.9
+0
+100
+Iwao et al., 1996 (33)
+Japan
+RCT, parallel
+2
+—
+6 vs. 2
+12
+Healthy
+20
+20.9
+0
+NR
+Jenkins et al., 1995 (34)
+Canada
+RCT, crossover
+2
+3 wk
+17 vs. 3
+7
+Normal weight and
+overweight
+39.6
+NR
+0
+0
+Kahleova et al., 2014 (35)
+Czech Republic
+RCT, crossover
+12
+None
+6 vs. 2
+54
+T2D
+59.4
+32.6
+100
+46
+Koopman et al., 2014 (36)
+Netherlands
+RCT, parallel
+6
+—
+6 vs. 3
+36
+Healthy
+22
+22.5
+0
+0
+Murphy et al., 1996 (37)
+UK
+RCT, crossover
+2
+3 wk
+12 vs. 2
+11
+Healthy
+22
+23.6
+0
+100
+Papakonstantinou et al.,
+2016 (38)
+Greece
+RCT, crossover
+12
+None
+6 vs. 3
+45
+PCOS
+27
+27
+0
+100
+Papakonstantinou et al.,
+2018 (39)
+Greece
+RCT, crossover
+12
+None
+6 vs. 3
+53
+Impaired glucose
+tolerance or T2D
+49.3
+32.4
+26
+53
+Perrigue et al., 2017 (40)
+USA
+RCT, crossover
+3
+2 wk
+8 vs. 3
+15
+Healthy and obesity
+27.1
+23.7
+0
+67
+Schlundt et al., 1992 (41)
+USA
+RCT, parallel
+12
+—
+3 vs. 2
+52
+Obesity
+18–55 (range)
+30.6
+0
+100
+Stote et al., 2007 (42)
+USA
+RCT, crossover
+8
+11 wk
+3 vs. 1
+21
+Healthy
+45
+23.4
+0
+67
+Verboeket-van de Venne
+and Westerterp, 1993
+(43)
+Netherlands
+RCT, parallel
+4
+—
+4 vs. 2
+14
+Overweight and
+obesity
+46.1
+30.2
+NR
+100
+Young et al., 1971 (44)
+USA
+RCT, crossover
+5
+None
+6 vs. 3 vs. 1
+11
+Overweight and
+obesity
+22.2
+33.5
+NR
+0
+1NR, not reported; PCOS, polycystic ovary syndrome; RCT, randomized controlled trial; T2D, type 2 diabetes.
+1112
+Schwingshackl et al.
+
+[page 6]
+TABLE 2
+Specific study characteristics of the included randomized controlled trials1
+Author, year, reference
+Speciﬁcation of the intervention
+arms (meals/d)
+Speciﬁcation of the intervention
+arms (meals/d)
+Provision of food
+Meals consumed
+in research
+center
+Energy intake
+during/after
+intervention, kcal/d
+Adherence (method)
+Alencar et al., 2015 (23)
+6 meals/d:
+Hypocaloric, 1200 kcal/d with
+∼75 g/d of protein. Daily
+participant dietary macronutrients
+averaged per day 52%
+carbohydrates, 27% protein, and
+21% fat, every 2 to 3 h.
+2 meals/d:
+Hypocaloric, 1200 kcal/d with
+∼75 g/d of protein. Daily
+participant dietary macronutrients
+averaged per day 52%
+carbohydrates, 27% protein, and
+21% fat, every 5 to 6 h.
+Yes
+No
+NR
+Assessed but not
+reported (reported
+during weekly
+meetings)
+Antoine et al., 1984 (24)
+6 meals/d:
+Hypocaloric, 1200 kcal/d (feeding
+study)
+3 meals/d:
+Hypocaloric 1200 kcal/d (feeding
+study)
+Yes
+Yes
+NR
+Assessed but not
+reported (supervision
+during meals in clinic)
+Arciero et al., 2013 (25)
+6 meals/d:
+Eucaloric (28 d), hypocaloric (28 d);
+35% protein, 45% carbohydrates, and
+20% fat/d
+3 meals/d:
+Eucaloric (28 d), hypocaloric (28 d);
+35% protein, 45% carbohydrates, and
+20% fat/d
+Partly
+No
+6 meals/d: 1541;
+3 meals/d: 1559
+Assessed but not
+reported (monitored
+through daily
+subject-researcher
+contact)
+Arnold et al., 1993 (26)
+9 meals/d:
+Eucaloric; daily energy allowance was
+divided into early morning 8.3%,
+breakfast 8.3%, midmorning 8.3%,
+lunch 8.3%, midafternoon 8.3%,
+late afternoon 8.3%, dinner 16.6%,
+midevening 16.6%, and late
+evening 16.6%. Guidelines about
+how to allocate food into the meal
+or snack category were given and
+the nine meals were spaced
+between 1 and 2 h apart
+depending on the subject’s
+schedule.
+3 meals/d:
+Eucaloric; breakfast 25%, lunch 25%,
+dinner 50%, and a single small
+snack of 150 kcal to be consumed
+when desired
+No
+No
+9 meals/d: 1995;
+3 meals/d: 1934
+9 meals/d: 8.3;
+3 meals/d: 3.2 (3-d
+dietary records)
+Arnold et al., 1994 (27)
+9 meals/d:
+Eucaloric; daily energy allowance was
+divided into early morning 8.3%,
+breakfast 8.3%, midmorning 8.3%,
+lunch 8.3%, midafternoon 8.3%,
+late afternoon 8.3%, dinner 16.6%,
+midevening 16.6%, and late
+evening 16.6%. Guidelines about
+how to allocate food into the meal
+or snack category were given and
+the 9 meals were spaced between
+1 and 2 h apart depending on the
+subject’s schedule.
+3 meals/d:
+Eucaloric; breakfast 25%, lunch 25%,
+dinner 50%, and a single small
+snack of 150 kcal to be consumed
+when desired
+No
+No
+9 meals/d: 1972;
+3 meals/d: 1898
+9 meals/d: 7.9;
+3 meals/d: 3.1 (dietary
+records)
+(Continued)
+Network meta-analysis and meal frequency
+1113
+
+[page 7]
+TABLE 2
+(Continued)
+Author, year, reference
+Speciﬁcation of the intervention
+arms (meals/d)
+Speciﬁcation of the intervention
+arms (meals/d)
+Provision of food
+Meals consumed
+in research
+center
+Energy intake
+during/after
+intervention, kcal/d
+Adherence (method)
+Arnold et al., 1997 (28)
+9 meals/d:
+Eucaloric; daily energy allowance was
+divided into early morning 8.3%,
+breakfast 8.3%, midmorning 8.3%,
+lunch 8.3%, midafternoon 8.3%,
+late afternoon 8.3%, dinner 16.6%,
+midevening 16.6%, and late
+evening 16.6%. Guidelines about
+how to allocate food into the meal
+or snack category were given and
+the nine meals were spaced
+between 1 and 2 h apart
+depending on the subject’s
+schedule.
+3 meals/d:
+Eucaloric; breakfast 25%, lunch 25%,
+dinner 50%, and a single small
+snack of 150 kcal to be consumed
+when desired
+No
+No
+NR
+Assessed but not
+reported (regular
+contact between
+researchers and
+participants + dietary
+records)
+Bachman and Raynor,
+2012 (29)
+7–9 meals/d:
+Hypocaloric (1200–1500 kcal/d,
+<30 % from fat/d), consume at
+least 100 kcal every 2–3 h
+3 meals/d:
+Hypocaloric (1200–1500 kcal/d,
+<30% of kcal from fat/d)
+No
+No
+7–9 meals/d: 1314;
+3 meals/d: 1217
+Assessed but not
+reported (3-d food
+records)
+Berteus Forslund et al.,
+2008 (30)
+6 meals/d:
+Hypocaloric (from the estimated total
+energy expenditure 30% was
+subtracted to get the prescribed
+energy intake). The minimum
+energy level prescribed was
+1400 kcal/d. The prescribed energy
+level was divided into 3 meals and
+3 snacks, daily energy intake was
+divided in breakfast 20%, lunch
+25%, dinner 25% and 3 snacks,
+each snack 10% of daily energy;
+breakfast 20% + lunch 25% +
+dinner 25% + 3×10% = 100%.
+3 meals/d:
+Hypocaloric (from the estimated total
+energy expenditure 30% was
+subtracted to get the prescribed
+energy intake. The minimum
+energy level prescribed was
+1400 kcal/d). Recommended
+energy intake in the group of 3
+meals was divided in breakfast,
+30% of daily energy intake, lunch
+35%, and dinner 35% and no
+snacks with the exception of
+limited fruit intake and calorie-free
+drinks.
+No
+No
+6 meals/d: 2150;
+3 meals/d: 2098
+Assessed but not
+reported
+(questionnaires,
+telephone interviews)
+Cameron et al., 2010 (31)
+6 meals/d:
+Hypocaloric: −700 kcal/d
+3 meals/d:
+Hypocaloric: −700 kcal/d
+No
+No
+NR
+Data not collected
+Finkelstein and Fryer,
+1971 (32)
+6 meals/d:
+Hypocaloric (period 1: 1700 kcal/d;
+period 2: 1400 kcal/d). All meals
+containing similar amounts of
+protein, carbohydrate, and fat.
+3 meals/d:
+Hypocaloric (period 1: 1700 kcal/d;
+period 2: 1400 kcal/d). All meals
+containing similar amounts of
+protein, carbohydrate, and fat.
+Yes
+Partly
+NR
+Data not collected
+(Continued)
+1114
+Schwingshackl et al.
+
+[page 8]
+TABLE 2
+(Continued)
+Author, year, reference
+Speciﬁcation of the intervention
+arms (meals/d)
+Speciﬁcation of the intervention
+arms (meals/d)
+Provision of food
+Meals consumed
+in research
+center
+Energy intake
+during/after
+intervention, kcal/d
+Adherence (method)
+Iwao et al., 1996 (33)
+6 meals/d:
+Hypocaloric (1200 kcal/d), intervals of
+2 h, daily percentages of
+carbohydrates, protein and lipids in
+total sources of energy were 60%,
+20%, and 20%
+2 meals/d:
+Hypocaloric (1200 kcal/d), intervals of
+12 h, daily percentages of
+carbohydrates, protein, and lipids
+in total sources of energy were
+60%, 20%, and 20%
+Yes
+No
+NR
+Data not collected
+Jenkins et al., 1995 (34)
+17 meals/d:
+Eucaloric (2730 kcal/d).
+Equal macronutrient and caloric
+content per meal.
+3 meals/d:
+Eucaloric (2730 kcal/d).
+Daily energy distribution: 30%
+breakfast, 30% lunch, and 40%
+dinner; 33% fat, 15% protein, and
+52% carbohydrate.
+Yes
+Partly (for the
+17-meals/d
+intervention: at
+least 1
+portion/d was
+eaten in the
+study kitchen;
+for 3-meals/d
+intervention: at
+least 1 meal/d
+was eaten in the
+study kitchen)
+NR
+Assessed but not
+reported (food diary)
+Kahleova et al., 2014 (35)
+6 meals/d:
+Hypocaloric, energy requirements
+were based on the formula:
+(resting energy expenditure × 1.5)
+−500 kcal.
+Macronutrient distribution per day:
+50–55% carbohydrates, 20–25%
+protein, and <30% from fat.
+2 meals/d:
+Hypocaloric, energy requirements
+were based on the formula:
+(resting energy expenditure × 1.5)
+– 500 kcal.
+Macronutrient distribution per day:
+50–55% carbohydrates, 20–25%
+protein, and <30% from fat.
+Partly (for one-half
+of the
+participants,
+equally in both
+groups)
+No
+6 meals/d: −380;
+2 meals/d: −420
+Assessed but not
+reported (dietary
+records)
+Koopman et al., 2014 (36)
+6 meals/d:
+Hypercaloric (40% caloric surplus on
+top of the ad libitum
+weight-maintaining diet)
+3 meals/d:
+Hypercaloric (40% caloric surplus on
+top of the ad libitum
+weight-maintaining diet)
+Partly (additional
+meal, liquid
+meal)
+No
+6 meals/d: 3614;
+2 meals/d: 3474
+Assessed but not
+reported (diet
+monitoring)
+Murphy et al., 1996 (37)
+12 meals/d:
+Eucaloric, ∼2000 kcal/d, with a daily
+average 40% fat, 20% protein, and
+40% carbohydrate; meals were
+eaten at hourly intervals from
+8 h to 20 h.
+2 meals/d:
+Eucaloric, ∼2000 kcal/d, with a daily
+average 40% fat, 20% protein, and
+40% carbohydrate; meals were
+split into 2 meals/d to be eaten at
+12 h and 19:30 h.
+No
+No
+12 meals/d: 2020;
+2 meals/d: 2082
+2 meals: 90%;
+12 meals: 78%
+Papakonstantinou et al.,
+2016 (38)
+6 meals/d:
+Eucaloric, weight-maintenance diet;
+daily distribution: 40%
+carbohydrates, 25% protein, and
+35% fat
+3 meals/d:
+Eucaloric, weight-maintenance diet;
+daily distribution: 40%
+carbohydrates, 25% protein, and
+35% fat
+No
+No
+6 meals/d: 1916;
+3 meals/d: 1859
+Assessed but not
+reported (food
+records)
+(Continued)
+Network meta-analysis and meal frequency
+1115
+
+[page 9]
+TABLE 2
+(Continued)
+Author, year, reference
+Speciﬁcation of the intervention
+arms (meals/d)
+Speciﬁcation of the intervention
+arms (meals/d)
+Provision of food
+Meals consumed
+in research
+center
+Energy intake
+during/after
+intervention, kcal/d
+Adherence (method)
+Papakonstantinou et al.,
+2018 (39)
+6 meals/d:
+Eucaloric, weight-maintenance diet;
+daily distribution: 40%
+carbohydrates, 25% protein, and
+35% fat
+3 meals/d:
+Eucaloric, weight-maintenance diet;
+daily distribution: 40%
+carbohydrates, 25% protein, and
+35% fat
+No
+No
+6 meals/d: 2081;
+3 meals/d: 1917
+Adherence to
+Mediterranean diet
+score: 32.1 from 55
+Perrigue et al., 2017 (40)
+8 meals/d:
+Eucaloric (providing all energy as
+evenly spaced eating occasions
+per day)
+3 meals/d:
+Eucaloric (providing all energy as
+evenly spaced eating occasions
+per day)
+No
+No
+NR
+8 meals: 100%;
+3 meals: 96%
+Schlundt et al., 1992 (41)
+3 meals/d:
+Breakfast; hypocaloric 1200 kcal/d.
+Daily distribution: 55% of energy from
+carbohydrates, 15–20% from
+protein, and 25–30% from fats.
+2 meals/d:
+No breakfast; hypocaloric 1200 kcal/d.
+Daily distribution: 55% of energy from
+carbohydrates, 15–20% from
+protein, and 25–30% from fats.
+No
+No
+NR
+Whole study group: 71%
+Stote et al., 2007 (42)
+3 meals/d:
+Eucaloric (weight maintenance). Daily
+macronutrient distribution: 50%
+carbohydrates, 15% protein, 35%
+fats.
+1 meal/d:
+Eucaloric (weight maintenance;
+minimum fast of 20 h/d). Daily
+macronutrient distribution: 50%
+carbohydrates, 15% protein, 35%
+fats.
+Yes
+Partly (only dinner
+in study center)
+3 meals/d: 2429;
+1 meals/d: 2364
+Assessed but not
+reported (daily
+questionnaires)
+Verboeket-van de Venne
+and Westerterp, 1993
+(43)
+4 meals/d:
+Hypocaloric, 1000 kcal/d; 300 kcal/d
+breakfast, 300 kcal/d lunch (with
+option of 100 kcal/d snack), 400
+kcal/d dinner (with option 100
+kcal/d snack)
+2 meals/d:
+Hypocaloric, 1000 kcal/d, no
+breakfast, 400 kcal lunch,
+600 kcal dinner.
+No
+No
+4 meals/d: 1018;
+2 meals/d: 1090
+Data not collected
+Young et al., 1971 (44)
+6 meals/d:
+Hypocaloric, 1800 kcal/d. Daily
+macronutrient distribution:
+115 g protein, 104 g carbohydrates,
+103 g fat.
+3 meals/d:
+Hypocaloric, 1800 kcal/d. Daily
+macronutrient distribution:
+115 g protein, 104 g carbohydrates,
+103 g fat.
+1 meal/d:
+Hypocaloric, 1800 kcal/d. Daily
+macronutrient distribution:
+115 g protein, 104 g carbohydrates,
+103 g fat.
+Yes
+No
+NR
+Data not collected
+1NR, not reported.
+1116
+Schwingshackl et al.
+
+[page 10]
+FIGURE 2
+Network diagrams for body weight (A), waist circumference (B), fat mass (C), and energy intake (D). The size of the nodes is
+proportional to the total number of participants allocated to the intervention and the thickness of the lines proportional to the number of
+studies evaluating each direct comparison. Moreover, the total number of participants for each comparison is displayed (e.g., the
+body-weight comparison of 3 meals/d and 6 meals/d included 7 studies with a total of 251 participants). The number of multiarm studies
+for the interventions are indicated by the shade of gray of the background (white for none). s, studies.
+Fat mass
+Neither 1, 2, 3, 4, nor 6 meals/d were more effective in reduc-
+ing fat mass compared with ≥8 meals/d (Figure 3C). We are
+uncertain whether 1 meal/d is more effective than 3 meals/d
+in reducing fat mass (MD: −1.84 kg; 95% CI: −3.72,
+0.05 kg; very low certainty of evidence) (Supplemental
+Figure 3).
+Energy intake
+No significant differences were observed comparing the
+different meal frequencies on energy intake (mainly very low
+certainty of evidence) (Figure 3D, Supplemental Figure 4).
+Table 3 and Supplemental Tables 1–3 show the certainty
+of evidence assessment for the direct evidence, indirect
+evidence, and network estimates for all outcomes.
+P-score and rankings
+One meal per day was ranked as the best treatment for
+body weight (P-score: 0.81), followed by 2 meals/d (P: 0.74),
+whereas 2 meals/d performed best for waist circumference
+(P: 0.96). Rankings for fat mass and energy intake were
+inconclusive since none of the different meal frequencies
+investigated were “superior” when compared with each other
+(Figure 3).
+Inconsistency
+The net heat plots are shown in Supplemental Figures 5–
+7. No relevant inconsistency between designs was observed
+for body weight and fat mass. Due to the low number of
+comparisons available for the outcome waist circumference,
+it was not possible to investigate inconsistency.
+Network meta-analysis and meal frequency
+1117
+
+[page 11]
+FIGURE 3
+Summary eﬀect estimates of diﬀerent dietary approaches on body weight (A), waist circumference (B), fat mass (C), and
+energy intake (D). “≥8”Meals (if available) is deﬁned as the reference treatment. P-scores are deﬁned, such that they are between 0 and 1,
+where 0 means that a treatment is always worst and 1 means that a treatment is always best compared with the other treatments in the
+network. For example, 2 meals/d (P-score: 0.96) was ranked best to improve waist circumference, followed by 3 meals/d (0.35), and
+6 meals/d (0.18). MD, mean diﬀerence.
+1118
+Schwingshackl et al.
+
+[page 12]
+TABLE 3
+GRADE evaluation for body weight (kg) and all comparisons1
+Direct evidence
+Indirect evidence
+Network meta-analysis
+Comparison
+(meals/d)
+No. of
+studies
+MD
+(95% CI)
+Certainty of
+evidence
+MD
+(95% CI)
+Certainty of
+evidence
+MD
+(95% CI)
+Certainty of
+evidence
+1 vs. 2
+0
+—
+—
+−0.93 (−3.80, 1.94)
+⊕⊕⃝⃝2
+−0.93 (−3.80, 1.94)
+⊕⃝⃝⃝3
+1 vs. 3
+2
+−3.35 (−6.60, −0.09)
+⊕⊕⊕⃝4
+2.28 (−3.40, 7.96)
+⊕⊕⃝⃝
+−1.95 (−4.78, 0.87)
+⊕⊕⃝⃝3,5,6
+1 vs. 4
+0
+—
+—
+−0.33 (−12.39, 11.73)
+⊕⊕⃝⃝2
+−0.33 (−12.39, 11.73)
+⊕⃝⃝⃝3 (↓↓)
+1 vs. 6
+1
+0.01 (−3.94, 3.96)
+⊕⊕⊕⃝4
+−4.61 (−8.68, −0.53)
+⊕⊕⃝⃝2
+−2.22 (−5.06, 0.61)
+⊕⊕⃝⃝3,5,6
+1 vs. ≥8
+0
+—
+—
+−2.25 (−5.13, 0.63)
+⊕⊕⃝⃝2
+−2.25 (−5.13, 0.63)
+⊕⃝⃝⃝3
+2 vs. 3
+1
+−1.13 (−3.36, 1.10)
+⊕⊕⊕⊕
+−1.01 (−1.72, −0.31)
+⊕⊕⊕⃝2
+−1.02 (−1.70, −0.35)
+⊕⊕⊕⃝
+2 vs. 4
+1
+0.60 (−11.11, 12.31)
+⊕⊕⊕⊕
+—
+—
+0.60 (−11.11, 12.31)
+⊕⊕⃝⃝3 (↓↓)
+2 vs. 6
+3
+−1.29 (−1.75, −0.83)
+⊕⊕⊕⃝4
+−1.41 (−3.70, 0.89)
+⊕⊕⊕⃝2
+−1.29 (−1.74, −0.84)
+⊕⊕⊕⃝5
+2 vs. ≥8
+0
+—
+—
+−1.32 (−2.19, −0.45)
+⊕⊕⃝⃝2
+−1.32 (−2.19, −0.45)
+⊕⃝⃝⃝3
+3 vs. 4
+0
+—
+—
+1.62 (−10.11, 13.35)
+⊕⊕⃝⃝2
+1.62 (−10.11, 13.35)
+⊕⃝⃝⃝3 (↓↓)
+3 vs. 6
+7
+−0.28 (−0.81, 0.26)
+⊕⊕⊕⃝4
+−0.18 (−2.44, 2.09)
+⊕⊕⊕⃝2
+−0.27 (−0.79, 0.25)
+⊕⊕⊕⃝5
+3 vs. ≥8
+5
+−0.30(−0.85, 0.26)
+⊕⊕⊕⊕
+—
+—
+−0.30(−0.85, 0.26)
+⊕⊕⊕⃝7
+4 vs. 6
+0
+—
+—
+−1.89 (−13.61, 9.83)
+⊕⊕⃝⃝2
+−1.89 (−13.61, 9.83)
+⊕⃝⃝⃝3 (↓↓)
+4 vs. ≥8
+0
+—
+—
+−1.92 (−13.66, 9.82)
+⊕⊕⃝⃝2
+−1.92 (−13.66, 9.82)
+⊕⃝⃝⃝3 (↓↓)
+6 vs. ≥8
+0
+—
+—
+−0.02 (−0.78, 0.74)
+⊕⊕⃝⃝2
+−0.02 (−0.78, 0.74)
+⊕⊕⃝⃝
+1Direct estimates were evaluated with the following GRADE criteria: risk of bias, indirectness, inconsistency, and publication bias. As suggested recently by the GRADE working
+group, consideration of imprecision is not necessary when rating the direct and indirect estimates to inform the rating of NMA estimates. GRADE, Grading of Recommendations
+Assessment, Development, and Evaluation; MD, mean diﬀerence; NMA, network meta-analysis; ⊕⊕⊕⊕, high; ⊕⊕⊕, moderate; ⊕⊕⃝⃝, low; ⊕⃝⃝⃝, very low; ↓↓,
+downgraded twice due to very serious imprecision.
+2Downgraded due to intransitivity (i.e., patients with obesity and healthy participants included).
+3Downgraded due to imprecision (95% CI overlaps important beneﬁt: −2 kg; or important harm: +2 kg).
+4Downgraded due to risk of bias (≥1 RCT with high risk of bias).
+5Direct evidence contributing more to the NMA estimate (>50%).
+6Not downgraded due to incoherence (dominant estimate similar to network estimate).
+7Downgraded due to imprecision (sample size: <400).
+Secondary and sensitivity analysis
+In sensitivity analyses including only patients with obesity,
+both 1 and 2 meals/d were slightly more effective than
+6 meals/d (effect ranged between −1.31 and −2.31 kg)
+in reducing body weight. Considering only overweight
+participants, no further effects of different meal frequencies
+were observed (Supplemental Figures 8–9).
+Sensitivity analyses for provision of food (yes/no), meals
+consumed in research center (yes/no), energy intake (hypo-
+vs. eucaloric), and breakfast skipping (yes/no) indicated no
+influence on the primary analysis (Supplemental Figures
+10–31).
+Due to the low number of studies it was not possible to
+conduct the additional a priori planned sensitivity analyses
+for gender differences (e.g., 3 RCTs including men only),
+study length (e.g., only 2 RCTs with an intervention duration
+≥6 mo), and by excluding high RoB RCTs, since ∼70% of the
+included studies were rated as high RoB.
+Dietary adherence
+Dietary adherence was only reported in 6 RCTs (22%)
+(26, 27, 37, 39–41), however assessed but not reported in
+11 of the included RCTs through regular interviews and
+questionnaires (see Table 2). Especially where food was
+provided or even served in research facilities, adherence was
+considered as good. Moreover, as shown above, no significant
+differences were observed comparing the different meal
+frequencies on energy intake, which indicated substantial
+adherence.
+Dissemination biasm
+For none of the outcomes, the funnel plots appeared obvi-
+ously asymmetric, and the Egger’s test showed no evidence
+for small study effects (Supplemental Figures 32–35).
+Discussion
+This is the first NMA to evaluate the isocaloric effects
+of different meal frequencies on anthropometric outcomes
+(body weight, waist circumference, and fat mass) and energy
+intake in 647 participants.
+In summary, a lower eating frequency (2 meals/d) seems
+to reduce body weight and waist circumference as compared
+with 6 meals/d in the short term. We are uncertain whether
+1 or 2 meals/d reduce body weight compared with ≥8
+meals/d, and whether 1 meal/d may reduce fat mass com-
+pared with 3 meals/d as the certainty of the evidence has been
+assessed as very low. No significant effects were observed for
+energy intake. Generally, for most of the comparisons, the
+present NMA yielded no important effects and the certainty
+of evidence was mainly rated as low or very low.
+Comparison with other systematic reviews and possible
+mechanisms
+Contrary to our findings, in a recent pairwise meta-analysis
+of 15 RCTs, ≥5 meals/d resulted in greater loss of fat mass
+(by −1.25 kg) than did 1–2 meals/d (5). However, these
+findings were highly driven by 1 RCT, and in a sensitivity
+analysis the observed effect became nonsignificant. For the
+outcome body weight, no significant effects were observed
+comparing 1–2 meals/d vs. 3–4 meals/d or vs. ≥5 meals/d.
+Network meta-analysis and meal frequency
+1119
+
+[page 13]
+The authors concluded from their findings a potential
+benefit of increased meal frequencies for enhancing body
+composition (5). In addition, observational studies reported
+an inverse association between the frequency of eating and
+BMI; however, underreporting of energy intake and eating
+frequency could be an important bias for this observation
+(45, 46). In contrast, our findings are more in line with
+a recent pairwise meta-analysis of RCTs, which examined
+weight change and energy intake in adults consuming or
+skipping breakfast and therefore reducing meal frequency
+(7). The meta-analysis found no evidence to support the
+notion that breakfast consumption (i.e., a higher meal
+frequency) promotes weight loss or that a lower meal
+frequency leads to weight gain (7). Moreover, the lower meal
+frequency group had a higher daily energy intake (∼250
+kcal/d) compared with the higher meal frequency group (7).
+Specifically in this meta-analysis, consumption of breakfast
+was associated with a clinically nonrelevant body weight
+increase of 0.5 kg (time frame up to 16 wk). Of note, all
+included RCTs in this systematic review were considered
+as high RoB. Discordance between studies could be driven
+by mixing isocaloric and nonisocaloric comparisons in the
+recent meta-analysis of RCTs (i.e., breakfast consumption
+leads to higher energy intake and therefore weight gain) (7).
+More than 20 y ago, Bellisle et al. (45) claimed that the reason
+for weight loss is not to be found in the frequency of meals
+but in general hypocaloric energy intake. To avoid this bias,
+we included only isocaloric comparisons in our NMA.
+However, dietary adherence was not reported in all
+RCTs, but no differences were observed for energy intake
+comparing the different meal frequencies. Thus, if energy
+intake was similar between the comparison groups, the
+question arises if other mechanisms could explain these
+observations. There is no consensus yet, and we can only
+speculate about the mechanisms. The meal frequency could
+have different effects on metabolic rates, including energy
+expenditure and carbohydrate and fat oxidation (35, 42).
+In addition, in combination with timing of the meal (e.g.,
+skipping of late-night meals), the frequency could have an
+influence on satiety hormones (ghrelin and leptin), circa-
+dian rhythms, and a beneficial effect on oxidative damage
+(47).
+Relevance of our ﬁndings
+Research has shown that, in adults with overweight and
+obesity, a reduction in body weight of 5–10% of initial
+body weight was associated with improvements in health
+risk factors (48). In our NMA, weight loss was not of
+sufficient magnitude to likely be associated with clinical
+benefits following lower meal frequencies compared with
+higher meal frequencies (−0.30 to −2.31 kg) in patients with
+obesity. However 2 meals/d reduced waist circumference by
+∼4 cm compared with 6 meals/d. This effect is considered
+clinically relevant, since evidence from observational studies
+has shown, that a 1-cm increase in waist circumference is
+associated with a 2% increased risk of cardiovascular disease
+(49). Again, the role of the length of fasting periods has
+to be taken into consideration as longer fasting periods are
+inversely associated with fat-free mass (50).
+Implications
+In a recent scoping review, nearly 50 countries and 7 orga-
+nization were identified that referred to snacking between
+main meals (i.e., higher meal frequencies) (1). Most of
+them established quantitative recommendations most often
+related to frequency of meals (i.e., snacking throughout
+the day), often with a special focus on children. Of all
+of the recommendations, only 2 suggested avoidance of
+small meals between main meals. The findings of our NMA
+have important implications with respect to the prevailing
+recommendation that eating small, frequent meals is helpful
+for optimizing weight management in the general (adult)
+population. Increasing meal frequency is often promoted as
+a beneficial strategy for anthropometric outcomes (2). The
+results of our NMA do not support these recommendations,
+but rather point to a slight contrary effect. Our findings are
+more in line with a recent statement by the American Heart
+Association, where the authors concluded that altering meal
+frequency under eucaloric conditions may not be effective for
+decreasing body weight (51).
+Strength and limitations
+Our systematic review and NMA has several strengths and
+limitations that need to be considered. Among the strengths
+are the application of the NMA methodology, the a priori–
+deposited protocol, the comprehensive search strategy, RoB
+assessment, sensitivity analyses, and the GRADE certainty of
+evidence judgment.
+Limitations of the current NMA include the absence of
+long-term RCTs (>52 wk); therefore, we were not able to
+provide data on the persistence of observed effects. Overall,
+only 2 out of 22 RCTs (9%) had a study duration >12 wk.
+Moreover, the certainty of evidence was rated as mainly low
+or very low. This was mainly driven by RoB and imprecision:
+overall, 15 RCTs (68%) were rated with a high RoB for
+≥1 domain. Imprecision was driven by the low sample sizes
+of the various study arms; hence, the studies and also the
+meta-analyses may have lacked power to detect differences
+within or between groups. Due to the low number of RCTs,
+it was not possible to conduct several a priori–planned
+sensitivity analyses. Adherence was assessed and reported in
+only 6 RCTs. Moreover, only very few studies implemented a
+controlled-feeding protocol.
+Conclusions
+In conclusion, our findings indicate that there is little robust
+evidence that reduced meal frequency is a beneficial strategy
+for anthropometric outcomes. In addition, no significant
+effects were observed for energy intake. The currently
+available evidence is of low certainty and does not support
+current recommendations for increased meal frequencies.
+The findings should be, however, interpreted with cau-
+tion. Further high-quality RCTs are needed to substantiate
+1120
+Schwingshackl et al.
+
+[page 14]
+whether individuals seeking to lose weight should skip or
+consume meals.
+Acknowledgments
+All authors substantially contributed to the concept, data
+collection and analysis, or preparation of the manuscript, and
+read and approved the final manuscript.
+References
+1. Potter M, Vlassopoulos A, Lehmann U. Snacking recommendations
+worldwide: a scoping review. Adv Nutr 2018;9(2):86–98.
+2. Louis-Sylvestre J, Lluch A, Neant F, Blundell JE. Highlighting the
+positive impact of increasing feeding frequency on metabolism and
+weight management. Forum Nutr 2003;56:126–8.
+3. Ma Y, Bertone ER, Stanek EJ, 3rd, Reed GW, Hebert JR, Cohen
+NL, Merriam PA, Ockene IS. Association between eating patterns
+and obesity in a free-living US adult population. Am J Epidemiol
+2003;158(1):85–92.
+4. Holmback I, Ericson U, Gullberg B, Wirfalt E. A high eating frequency
+is associated with an overall healthy lifestyle in middle-aged men and
+women and reduced likelihood of general and central obesity in men.
+Br J Nutr 2010;104(7):1065–73.
+5. Schoenfeld BJ, Aragon AA, Krieger JW. Effects of meal frequency
+on weight loss and body composition: a meta-analysis. Nutr Rev
+2015;73(2):69–82.
+6. van der Heijden AA, Hu FB, Rimm EB, van Dam RM. A prospective
+study of breakfast consumption and weight gain among U.S. men.
+Obesity 2007;15(10):2463–9.
+7. Sievert K, Hussain SM, Page MJ, Wang Y, Hughes HJ, Malek M,
+Cicuttini FM. Effect of breakfast on weight and energy intake: systematic
+review and meta-analysis of randomised controlled trials. BMJ (Clin Res
+Ed) 2019;364:l42.
+8. Hess JM, Jonnalagadda SS, Slavin JL. What is a snack, why do we snack,
+and how can we choose better snacks? a review of the definitions of
+snacking, motivations to snack, contributions to dietary intake, and
+recommendations for improvement. Adv Nutr 2016;7(3):466–75.
+9. Hutton B, Salanti G, Caldwell DM, Chaimani A, Schmid CH, Cameron
+C, Ioannidis JP, Straus S, Thorlund K, Jansen JP, et al. The PRISMA
+extension statement for reporting of systematic reviews incorporating
+network meta-analyses of health care interventions: checklist and
+explanations. Ann Intern Med 2015;162(11):777–84.
+10. Chaimani A, Caldwell DM, Li T, Higgins JPT, Salanti G. Additional
+considerations are required when preparing a protocol for a systematic
+review with multiple interventions. J Clin Epidemiol 2017;83:65–74.
+11. Schwingshackl L, Neuenschwander M, Hoffmann G, Buyken AE,
+Schlesinger S. Dietary sugars and cardiometabolic risk factors: a
+network meta-analysis on isocaloric substitution interventions. Am J
+Clin Nutr 2019;111(1):187–96.
+12. Schwingshackl L, Krause M, Schmucker C, Hoffmann G, Rucker G,
+Meerpohl JJ. Impact of different types of olive oil on cardiovascular
+risk factors: a systematic review and network meta-analysis. Nutr Metab
+Cardiovasc Dis 2019;29(10):1030–9.
+13. Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD,
+Savovic J, Schulz KF, Weeks L, Sterne JA. The Cochrane Collaboration’s
+tool for assessing risk of bias in randomised trials. BMJ (Clin Res Ed)
+2011;343:d5928.
+14. Chaimani A, Higgins JP, Mavridis D, Spyridonos P, Salanti G.
+Graphical tools for network meta-analysis in STATA. PLoS One
+2013;8(10):e76654.
+15. Rücker G, Krahn U, König J, Efthimiou O, Schwarzer G. netmeta:
+network meta-analysis using frequentist methods. R package version
+1.1-0. 2019 [Internet]. [Accessed 2019 Nov 22]. Available from: https:
+//CRAN.R-project.org/package = netmeta.
+16. Salanti G, Ades AE, Ioannidis JP. Graphical methods and numerical
+summaries for presenting results from multiple-treatment meta-
+analysis: an overview and tutorial. J Clin Epidemiol 2011;64(2):163–71.
+17. Rücker G, Schwarzer G. Ranking treatments in frequentist network
+meta-analysis works without resampling methods. BMC Med Res
+Methodol 2015;15:58.
+18. Schwingshackl L, Schwarzer G, Rucker G, Meerpohl JJ. Perspective:
+network meta-analysis reaches nutrition research: current status,
+scientific concepts, and future directions. Adv Nutr 2019;10(5):
+739–54.
+19. Krahn U, Binder H, Konig J. A graphical tool for locating inconsistency
+in network meta-analyses. BMC Med Res Methodol 2013;13:35.
+20. Chaimani A, Salanti G. Using network meta-analysis to evaluate the
+existence of small-study effects in a network of interventions. Res Syn
+Meth 2012;3(2):161–76.
+21. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-
+analysis detected by a simple, graphical test. BMJ (Clin Res Ed)
+1997;315(7109):629–34.
+22. Brignardello-Petersen R, Bonner A, Alexander PE, Siemieniuk RA,
+Furukawa TA, Rochwerg B, Hazlewood GS, Alhazzani W, Mustafa
+RA, Murad MH, et al. Advances in the GRADE approach to rate the
+certainty in estimates from a network meta-analysis. J Clin Epidemiol
+2018;93:36–44.
+23. Alencar MK, Beam JR, McCormick JJ, White AC, Salgado RM, Kravitz
+LR, Mermier CM, Gibson AL, Conn CA, Kolkmeyer D, et al. Increased
+meal frequency attenuates fat-free mass losses and some markers of
+health status with a portion-controlled weight loss diet. Nutr Res
+2015;35(5):375–83.
+24. Antoine JM, Rohr R, Gagey MJ, Bleyer RE, Debry G. Feeding frequency
+and nitrogen balance in weight-reducing obese women. Hum Nutr Clin
+Nutr 1984;38(1):31–8.
+25. Arciero PJ, Ormsbee MJ, Gentile CL, Nindl BC, Brestoff JR, Ruby
+M. Increased protein intake and meal frequency reduces abdominal
+fat during energy balance and energy deficit. Obesity (Silver Spring)
+2013;21(7):1357–66.
+26. Arnold LM, Ball MJ, Duncan AW, Mann J. Effect of isoenergetic intake
+of three or nine meals on plasma lipoproteins and glucose metabolism.
+Am J Clin Nutr 1993;57(3):446–51.
+27. Arnold L, Ball M, Mann J. Metabolic effects of alterations in
+meal frequency in hypercholesterolaemic individuals. Atherosclerosis
+1994;108(2):167–74.
+28. Arnold L, Mann JI, Ball MJ. Metabolic effects of alterations in meal
+frequency in type 2 diabetes. Diabetes Care 1997;20(11):1651–4.
+29. Bachman JL, Raynor HA. Effects of manipulating eating frequency
+during a behavioral weight loss intervention: a pilot randomized
+controlled trial. Obesity (Silver Spring) 2012;20(5):985–92.
+30. Berteus Forslund H, Klingstrom S, Hagberg H, Londahl M, Torgerson
+JS, Lindroos AK. Should snacks be recommended in obesity treatment?
+A 1-year randomized clinical trial. Eur J Clin Nutr 2008;62(11):1308–
+17.
+31. Cameron JD, Cyr MJ, Doucet E. Increased meal frequency does not
+promote greater weight loss in subjects who were prescribed an 8-week
+equi-energetic energy-restricted diet. Br J Nutr 2010;103(8):1098–101.
+32. Finkelstein B, Fryer BA. Meal frequency and weight reduction of young
+women. Am J Clin Nutr 1971;24(4):465–8.
+33. Iwao S, Mori K, Sato Y. Effects of meal frequency on body composition
+during weight control in boxers. Scand J Med Sci Sports 1996;6(5):265–
+72.
+34. Jenkins DJ, Khan A, Jenkins AL, Illingworth R, Pappu AS, Wolever TM,
+Vuksan V, Buckley G, Rao AV, Cunnane SC, et al. Effect of nibbling
+versus gorging on cardiovascular risk factors: serum uric acid and blood
+lipids. Metabolism 1995;44(4):549–55.
+35. Kahleova H, Belinova L, Malinska H, Oliyarnyk O, Trnovska J, Skop V,
+Kazdova L, Dezortova M, Hajek M, Tura A, et al. Eating two larger meals
+a day (breakfast and lunch) is more effective than six smaller meals in a
+reduced-energy regimen for patients with type 2 diabetes: a randomised
+crossover study. Diabetologia 2014;57(8):1552–60.
+36. Koopman KE, Caan MW, Nederveen AJ, Pels A, Ackermans MT,
+Fliers E, la Fleur SE, Serlie MJ. Hypercaloric diets with increased
+meal frequency, but not meal size, increase intrahepatic triglycerides:
+a randomized controlled trial. Hepatology 2014;60(2):545–53.
+Network meta-analysis and meal frequency
+1121
+
+[page 15]
+37. Murphy MC, Chapman C, Lovegrove JA, Isherwood SG, Morgan
+LM, Wright JW, Williams CM. Meal frequency; does it determine
+postprandial lipaemia? Eur J Clin Nutr 1996;50(8):491–7.
+38. Papakonstantinou E, Kechribari I, Mitrou P, Trakakis E, Vassiliadi
+D, Georgousopoulou E, Zampelas A, Kontogianni MD, Dimitriadis
+G. Effect of meal frequency on glucose and insulin levels in women
+with polycystic ovary syndrome: a randomised trial. Eur J Clin Nutr
+2016;70(5):588–94.
+39. Papakonstantinou E, Kontogianni MD, Mitrou P, Magriplis E, Vassiliadi
+D, Nomikos T, Lambadiari V, Georgousopoulou E, Dimitriadis G.
+Effects of 6 vs. 3 eucaloric meal patterns on glycaemic control and satiety
+in people with impaired glucose tolerance or overt type 2 diabetes: a
+randomized trial. Diabetes Metab 2018;44(3):226–34.
+40. Perrigue MM, Drewnowski A, Wang CY, Song X, Kratz M, Neuhouser
+ML. Randomized trial testing the effects of eating frequency on two
+hormonal biomarkers of metabolism and energy balance. Nutr Cancer
+2017;69(1):56–63.
+41. Schlundt DG, Hill JO, Sbrocco T, Pope-Cordle J, Sharp T. The role of
+breakfast in the treatment of obesity: a randomized clinical trial. Am J
+Clin Nutr 1992;55(3):645–51.
+42. Stote KS, Baer DJ, Spears K, Paul DR, Harris GK, Rumpler WV, Strycula
+P, Najjar SS, Ferrucci L, Ingram DK, et al. A controlled trial of reduced
+meal frequency without caloric restriction in healthy, normal-weight,
+middle-aged adults. Am J Clin Nutr 2007;85(4):981–8.
+43. Verboeket-van de Venne WP, Westerterp KR. Frequency of feeding,
+weight reduction and energy metabolism. Int J Obes Relat Metab Disord
+1993;17(1):31–6.
+44. Young CM, Scanlan SS, Topping CM, Simko V, Lutwak L. Frequency
+of feeding, weight reduction, and body composition. J Am Diet Assoc
+1971;59(5):466–72.
+45. Bellisle F, McDevitt R, Prentice AM. Meal frequency and energy
+balance. Br J Nutr 1997;77(Suppl 1):S57–70.
+46. Canuto R, da Silva Garcez A, Kac G, de Lira PIC, Olinto MTA.
+Eating frequency and weight and body composition: a systematic
+review of observational studies. Public Health Nutr 2017;20(12):
+2079–95.
+47. Paoli A, Tinsley G, Bianco A, Moro T. The influence of meal frequency
+and timing on health in humans: the role of fasting. Nutrients
+2019;11(4):719.
+48. Yumuk V, Tsigos C, Fried M, Schindler K, Busetto L, Micic D, Toplak
+H. European guidelines for obesity management in adults. Obes Facts
+2015;8(6):402–24.
+49. de Koning L, Merchant AT, Pogue J, Anand SS. Waist circumference
+and waist-to-hip ratio as predictors of cardiovascular events: meta-
+regression analysis of prospective studies. Eur Heart J 2007;28(7):
+850–6.
+50. Pellegrini M, Cioffi I, Evangelista A, Ponzo V, Goitre I, Ciccone G,
+Ghigo E, Bo S. Effects of time-restricted feeding on body weight and
+metabolism: a systematic review and meta-analysis. Rev Endocr Metab
+Disord 2020;21(1):17–33.
+51. St-Onge MP, Ard J, Baskin ML, Chiuve SE, Johnson HM, Kris-Etherton
+P, Varady K. Meal timing and frequency: implications for cardiovascular
+disease prevention: a scientific statement from the American Heart
+Association. Circulation 2017;135(9):e96–121.
+1122
+Schwingshackl et al.

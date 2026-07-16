@@ -1,0 +1,131 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Transition feeding of
+children 6–59 months
+of age with severe
+acute malnutrition
+Intervention | Last updated: 9 August 2023
+In children who are 6–59 months of age, severe acute malnutrition is defined by a very
+low weight-for-height/weight-for-length, or clinical signs of bilateral pitting oedema, or
+a very low mid-upper arm circumference. Severe acute malnutrition affects an
+estimated 19 million children under 5 years of age worldwide and is estimated to
+account for approximately 400,000 child deaths each year.
+Severely malnourished children requiring inpatient care have medical complications
+and are generally unable to tolerate usual levels of certain nutrients such as proteins,
+
+[page 2]
+initial stabilization when life-threatening complications are treated
+nutritional rehabilitation when catch-up growth occurs
+fats and sodium. Thus, standard inpatient management of severe acute malnutrition
+involves two phases:
+F-75, a low-protein milk-based formula diet, is given as the therapeutic food in the
+stabilization phase, followed by a gradual transition over two days or so (transition
+phase) to F-100, a milk formula with higher protein and energy content, in the
+rehabilitation phase. Ready-to-use therapeutic food (RUTF) has replaced liquid F-100 in
+the rehabilitation phase in a variety of settings where severe acute malnutrition is
+treated. Most RUTFs are lipid-based pastes combining milk powder, electrolytes and
+micronutrients and offer the malnourished child the same nutrient intake as F-100, with
+the addition of iron.
+Many treatment settings currently implement a transition phase of feeding, during
+which, the amount of the rehabilitation diet, namely F-100 or RUTF, is introduced in
+carefully restricted amounts for several days, until ad libitum feeding is introduced.
+However, the optimal approach to transition phase feeding is unclear from practice.
+WHO Recommendations
+For children who are 6–59 months of age with severe acute malnutrition in inpatient
+settings where RUTF is provided as the therapeutic food in the rehabilitation phase
+(following F-75 in the stabilization phase), WHO recommends that once children are
+stabilized, have appetite and reduced oedema and are therefore ready to move into the
+rehabilitation phase, they should transition from F-75 to RUTF over 2–3 days, as
+tolerated.
+The recommended energy intake during this period is 100–135 kcal/kg/day. The optimal
+approach for achieving this is not known and may depend on the number and skills of
+staff available to supervise feeding and monitor the children during rehabilitation.
+Learn More 
+Guidelines and guidance documents
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+GRC-approved guidelines
+
+[page 3]
+Pocket book of hospital care for children: Second edition
+Joint statement on the community-based management of severe acute
+malnutrition
+The treatment of diarrhoea
+Management of severe malnutrition: a manual for physicians and other
+senior health workers
+Other guidance documents
+Evidence
+Systematic reviews used to develop the guidelines
+Systematic review of transition phase feeding of children with severe acute malnutrition as
+inpatients
+
+[page 4]
+Manary M, Trehan I, Weisz A. Geneva: World Health Organization; 2012.
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+The analyses listed below were conducted to assess the overall cost-effectiveness of
+inpatient and/or outpatient management of SAM, of which the intervention listed on
+this webpage is a component. The analyses do not assess the cost-effectiveness of this
+specific intervention alone.
+Cost-effectiveness of the community-based management of severe acute malnutrition by
+community health workers in southern Bangladesh
+Puett C, Sadler K, Alderman H, Coates J, Fiedler JL, Myatt M. Health Policy Plan. 2013; 28(4):386-99.
+Economic Cost of Community-Based Management of Severe Acute Malnutrition in a Rural
+District in Ghana
+Abdul-Latif A-M C, Nonvignon J. Health. 2014; 6: 886-899.
+Cost-effectiveness of community-based management of acute malnutrition in Malawi
+Wilford R, Golden K, Walker DG. Health Policy Plan. 2012; 27(2):127-37.
+Costs, cost-effectiveness and financial sustainability of community-based management of
+acute malnutrition in northern Nigeria
+Frankel S, Roland M, Makinen M. Washington DC: Results for Development Institute; 2015.
+Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat
+severe acute malnutrition in Ethiopia
+Tekeste A, Wondafrash M, Azene G, Deribe K. Cost Eff Resour Alloc. 2012; 10:4.
+Cost effectiveness of a community based prevention and treatment of acute malnutrition
+programme in Mumbai slums, India
+Goudet S, Jayaraman A, Chanani S, Osrin D, Devleesschauwer B, Bogin B, et al. PLoS One. 2018;
+13(11):e0205688.
+Cost effectiveness of community-based therapeutic care for children with severe acute
+malnutrition in Zambia: decision tree model
+
+[page 5]
+Bachmann MO. Cost Eff Resour Alloc. 2009 Jan; 7:2.
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K. Health Policy Plan. 1998; 13(3):249-62.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is a component of
+managing children with SAM, which is
+an Essential Nutrition Action targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+
+[page 6]
+Report misconduct
+Privacy policy
+© 2026 WHO

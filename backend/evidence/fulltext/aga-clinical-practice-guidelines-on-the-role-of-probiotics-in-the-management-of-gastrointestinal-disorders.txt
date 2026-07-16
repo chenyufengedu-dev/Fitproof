@@ -1,0 +1,1184 @@
+
+
+[page 1]
+CLINICAL PRACTICE GUIDELINES
+AGA Clinical Practice Guidelines on the Role of Probiotics in the
+Management of Gastrointestinal Disorders
+Grace L. Su,1,2 Cynthia W. Ko,3 Premysl Bercik,4 Yngve Falck-Ytter,5,6 Shahnaz Sultan,7
+Adam V. Weizman,8 and Rebecca L. Morgan9
+1Division of Gastroenterology and Hepatology, University of Michigan, Ann Arbor, Michigan; 2Gastroenterology Section,
+Veterans Administration Ann Arbor Healthcare System, Ann Arbor, Michigan; 3Division of Gastroenterology, University of
+Washington Medical School, Seattle, Washington; 4Division of Gastroenterology, McMaster University, Hamilton, Ontario,
+Canada; 5Division of Gastroenterology, Case Western Reserve University, Cleveland, Ohio;
+6Louis Stokes Veterans Affairs Medical Center, Cleveland, Ohio; 7Division of Gastroenterology, University of Minnesota,
+Minneapolis, Minnesota; 8Division of Gastroenterology, Mount Sinai Hospital, Department of Medicine, University of Toronto,
+Toronto, Ontario, Canada; and 9Department of Health Research Methods, Evidence and Impact, McMaster University,
+Hamilton, Ontario, Canada
+T
+his document presents the ofﬁcial recommendations
+of the American Gastroenterological Association
+(AGA) on the role of probiotics in the management of
+gastrointestinal disorders. The guideline was developed by
+the AGA Institute’s Clinical Guidelines Committee and
+approved by the AGA Governing Board. It is accompanied by
+a technical review that provides a detailed synthesis of the
+evidence from which these recommendations were formu-
+lated.1 To get a better understanding of these guidelines, we
+recommend reading the accompanying technical review.
+Development of this guideline and the accompanying tech-
+nical review was fully funded by the AGA Institute without
+additional outside funding. Members of the Guideline Panel
+and Technical Review Panel were selected by the AGA
+Governing Board in consultation with the Clinical Guidelines
+Committee with careful consideration of all Institute of
+Medicine recommendations for clinical guideline develop-
+ment. A patient representative was also included in the
+development and review process and had no recommended
+changes. The guideline and accompanying technical review
+underwent independent peer review, and a 30-day open
+public comment period; all comments were collated by the
+AGA staff and were reviewed and carefully considered by
+the Guideline Panel and Technical Review teams, respec-
+tively. Changes were incorporated in revised documents and
+where changes were not accepted, a thoughtful response
+document was created. In accordance with the Clinical
+Guidelines Committee policies, all clinical guidelines are
+reviewed annually at the AGA Clinical Guideline Committee
+meeting for new information. The next update for these
+guidelines is anticipated in 3 years from publication (2023).
+Within the last 20 years, there has been increasing
+recognition and interest in the role of the gut microbiome in
+gastrointestinal health.2 Deﬁned by the Food and Agricul-
+ture Organization of the United Nations and the World
+Health Organization as “live microorganisms which when
+administered in adequate amounts confer a health beneﬁt
+on the host,”3 probiotics hold the promise of an effective
+way to alter the microbiome for our beneﬁt. Enthusiasm and
+popularity within the community for probiotics has led to a
+multibillion-dollar industry worldwide.4 Because probiotics
+are not considered drugs in the United States or Europe, the
+regulatory status is not the same as would normally
+accompany a pharmaceutical product. The industry is
+largely unregulated and marketing of product is often
+geared directly at consumers without providing direct and
+consistent proof of effectiveness.5,6 This has led to wide-
+spread use of probiotics with confusing evidence for clinical
+efﬁcacy.7 It is estimated that 3.9 million American adults
+used some form of probiotics or prebiotics (nutrients that
+promote growth or beneﬁcial functions of beneﬁcial mi-
+crobes)8 in 2015, an amount that is 4 times that in 2007.9,10
+Given widespread use and often biased sources of infor-
+mation, it is essential that clinicians have objective guidance
+for their patients about the appropriate use of and in-
+dications for probiotics.
+Although there has been a substantial number of studies
+examining probiotics in various gastrointestinal diseases,
+the studies have been extremely varied, including differ-
+ences in the strain of microbes used, dose, and route of
+administration, as well as the research methodology,
+including differences in the reporting of end points and
+outcomes.5 Furthermore, most of the studies with probiotics
+involved a relatively small number of patients compared to
+trials
+investigating
+the
+effects
+of
+pharmacological
+in-
+terventions. Conclusions drawn from meta-analyses or
+systematic reviews can be misleading if different studies
+with different patient populations, different reported end
+points and outcomes, or different strains or combinations of
+probiotics are grouped together inappropriately.7 Within
+species, different strains can have widely different activities
+and biologic effects. Many immunologic, neurologic, and
+biochemical effects of gut microbiota are likely to not only
+Abbreviations used in this paper: AGA, American Gastroenterological
+Association; CI, conﬁdence interval; GRADE, Grading of Recommenda-
+tions Assessment, Development and Evaluation; IBS, irritable bowel syn-
+drome; MD, mean difference; NEC, necrotizing enterocolitis; OR, odds
+ratio; RCT, randomized controlled trial; RR, relative risk.
+Most current article
+© 2020 by the AGA Institute
+0016-5085/$36.00
+https://doi.org/10.1053/j.gastro.2020.05.059
+Gastroenterology 2020;159:697–705
+AGA SECTION
+
+[page 2]
+be strain-speciﬁc, but also dose-speciﬁc.6 Furthermore,
+combinations of different microbial strains may also have
+widely different activities, as some microbial activities are
+dependent on interactions between different strains. In
+developing this guideline, we have examined the evidence
+presented in the accompanying technical review with these
+constraints in mind. We prioritized Clostridioides difﬁcile–
+associated diseases, inﬂammatory bowel disease, irritable
+bowel syndrome, infectious gastroenteritis, and necrotizing
+enterocolitis (NEC) because these were conditions for which
+probiotics were commonly considered. We focused on
+patient-important outcomes, such as induction and main-
+tenance of disease, treatment of disease, prevention of
+sepsis, and all-cause mortality.
+This guideline was developed utilizing a process out-
+lined previously.11 Brieﬂy, the AGA process for developing
+clinical practice guidelines follows the Grading of Recom-
+mendations
+Assessment,
+Development
+and
+Evaluation
+(GRADE) approach11 and best practices as outlined by the
+National Academy of Science (formerly Institute of Medi-
+cine).12 A priori, the Guideline Panel and methodologist
+identiﬁed and formulated clinically relevant questions about
+the use of probiotic formulations for the prevention and
+treatment of gastrointestinal diseases (not prebiotic use).
+Each research question identiﬁed the population, interven-
+tion, comparison, and patient-important outcomes. The
+Technical Review Panel initially reviewed and assessed
+relevant systematic reviews that addressed the clinical
+questions, updating high-quality systematic reviews through
+December 2018 to inform the recommendations when
+possible.1 For situations in which there was either no recent
+systematic review available or the recent systematic review
+was not deemed high quality, the Technical Review Panel
+conducted the systematic review de novo. The ﬁndings from
+each systematic review were assessed using the GRADE
+approach and presented in an evidence proﬁle. The Guide-
+line Panel and the authors of the technical review met face
+to face on May 9, 2019 to discuss the ﬁndings from the
+technical review. After this meeting, the Guideline Panel
+independently formulated guideline recommendations; the
+Technical Review Panel was not involved in the formulating
+or ﬁnalizing of recommendations. Although the quality of
+evidence (Table 1) was a key factor in determining the
+strength of the recommendations (Table 2), the Panel also
+considered the balance between the beneﬁts and harms of
+the interventions, as well as patients’ values and prefer-
+ences, resource use (ie, cost), health equity, acceptability,
+and feasibility (the Evidence to Decision Framework). The
+recommendations, certainty of evidence, and strength of
+recommendations are summarized in Table 3. The guideline
+and
+technical
+review
+went
+through
+a
+30-day
+public
+comment period between February 16, 2020 and March 17,
+2020. AGA staff collated the comments, the Guideline Panel
+deliberated in their response and, when appropriate,
+modiﬁed the document text. We hope to provide clinicians
+with clear guidance regarding the appropriate use of spe-
+ciﬁc probiotics in the context of speciﬁc gastrointestinal
+diseases. The target audience for this guideline includes
+health care providers, dietitians, and patients. The guide-
+lines include recommendations for speciﬁc populations,
+including adults, children, and neonates.
+In addition, we were not able to assess the viability of
+each formulation reported in the studies, as this information
+was not routinely available. We recognize that different
+Table 1.Quality of Evidence
+Quality
+Description
+High
+We are very conﬁdent that the true effect lies close
+to that of the estimate of the effect.
+Moderate
+We are moderately conﬁdent in the effect estimate.
+The true effect is likely to be close to the
+estimate of the effect, but there is a possibility
+that it is substantially different.
+Low
+Our conﬁdence in the effect estimate is limited. The
+true effect may be substantially different from
+the estimate of the effect.
+Very Low
+We have very little conﬁdence in the effect
+estimate. The true effect is likely to be
+substantially different from the estimate of
+effect
+Table 2.Strength of Recommendation
+Strength of
+recommendation
+For the patient
+For the clinician
+Strong
+Most individuals in this situation would want the
+recommended course of action and only a small
+proportion would not.
+Most individuals should receive the recommended
+course of action. Formal decision aids are not
+likely to be needed to help individuals make
+decisions consistent with their values and
+preferences.
+Conditional
+The majority of individuals in this situation would
+want the suggested course of action, but many
+would not.
+Different choices will be appropriate for different
+patients. Decision aids may be useful in helping
+individuals in making decisions consistent with
+their values and preferences. Clinicians should
+expect to spend more time with patients when
+working towards a decision.
+698
+Su et al
+Gastroenterology Vol. 159, No. 2
+AGA SECTION
+
+[page 3]
+manufacturers use different processes, which may affect the
+actual content of the probiotic utilized, but this is not within
+the scope of this guideline and therefore we provided the
+granular data regarding each strain as speciﬁed in the
+published reports. When the information was available, we
+considered the strain speciﬁcity when evaluating outcomes.
+In patients with Clostridioides difﬁcile infection, we
+recommend the use of probiotics only in the context
+of a clinical trial. No recommendation, knowledge gap,
+The AGA makes no recommendations for the use of
+probiotics in the treatment of C difﬁcile infection. Inci-
+dence of C difﬁcile infection is rising and is responsible
+for almost half a million infections in the United States
+in 2011,13 with recurrence rates of up to 19.9%, and
+leading
+to
+29,000
+deaths.
+Fecal
+microbiota
+trans-
+plantation is highly effective in treating recurrent C
+difﬁcile infection,14 but the data supporting the use of
+probiotics in initial or recurrent C difﬁcile infection are
+less convincing.
+Table 3.Summary of recommendationsa
+Recommendations
+Strength of recommendation
+Quality of evidence
+1. In patients with C difﬁcile infection, we recommend the use of
+probiotics only in the context of a clinical trial.
+No recommendation
+Knowledge gap
+2. In adults and children on antibiotic treatment, we suggest the use
+of S boulardii; or the 2-strain combination of L acidophilus
+CL1285 and L casei LBC80R; or the 3-strain combination of L
+acidophilus, L delbrueckii subsp bulgaricus, and B biﬁdum; or the
+4-strain combination of L acidophilus, L delbrueckii subsp
+bulgaricus, B biﬁdum, and S salivarius subsp thermophilus over
+no or other probiotics for prevention of C difﬁcile infection.
+Comment: Patients who place a high value on the
+potential harms (particularly those with severe illnesses) or a
+high value on avoiding the associated cost and a low
+value on the small risk of C difﬁcile development (particularly
+in the outpatient setting), would reasonably select no
+probiotics.
+Conditional
+Low
+3. In adults and children with Crohn’s disease, we recommend the
+use of probiotics only in the context of a clinical trial.
+No recommendation
+Knowledge gap
+4. In adults and children with ulcerative colitis, we recommend the
+use of probiotics only in the context of a clinical trial.
+No recommendation
+Knowledge gap
+5. In adults and children with pouchitis, we suggest the 8-strain
+combination of L paracasei subsp paracasei, L plantarum,
+L acidophilus, L delbrueckii subsp bulgaricus, B longum subsp
+longum, B breve, B longum subsp infantis, and S salivarius subsp
+thermophilus over no or other probiotics.
+Comment: Patients for whom the feasibility and cost of using
+this combination of bacterial strain is problematic may
+reasonably select no probiotics.
+Conditional
+Very low
+6. In symptomatic children and adults with irritable bowel syndrome,
+we recommend the use of probiotics only in the context of a
+clinical trial.
+No recommendations
+Knowledge gap
+7. In children with acute infectious gastroenteritis, we suggest
+against the use of probiotics.
+Conditional
+Moderate
+8. In preterm (less than 37 weeks gestational age), low-birth-weight
+infants, we suggest using a combination of Lactobacillus spp and
+Biﬁdobacterium spp (L rhamnosus ATCC 53103 and B longum
+subsp infantis; or L casei and B breve; or L rhamnosus, L
+acidophilus, L casei, B longum subsp infantis, B biﬁdum, and B
+longum subsp longum; or L acidophilus and B longum subsp
+infantis; or L acidophilus and B biﬁdum; or L rhamnosus ATCC
+53103 and B longum Reuter ATCC BAA-999; or L acidophilus, B
+biﬁdum, B animalis subsp lactis, and B longum subsp longum), or
+B animalis subsp lactis (including DSM 15954), or L reuteri (DSM
+17938 or ATCC 55730), or L rhamnosus (ATCC 53103 or ATC
+A07FA or LCR 35) for prevention of NEC over no and other
+probiotics.
+Conditional
+Moderate/high
+aPlease see the accompanying technical review for the supporting evidence.1
+August 2020
+AGA Clinical Practice Guidelines on Probiotics and Gastrointestinal Disorders
+699
+AGA SECTION
+
+[page 4]
+The technical review identiﬁed 5 placebo-controlled
+randomized controlled trials (RCTs) evaluating probiotics
+as adjunct treatment with antibiotics, testing 4 different
+probiotic formulations. The patient populations across
+studies differed, including patients with an initial C difﬁcile
+infection, recurrent infection, or both. Probiotics or placebo
+was administered together with metronidazole or vanco-
+mycin at low dose or high doses. Due to these variations in
+the study design, as well as in clinical outcomes, data were
+deemed too heterogeneous to be pooled in the analysis. All 5
+published studies contained uncertain or high risk of bias
+regarding blinding of outcome assessment and selective
+reporting.
+The probiotic formulations studied included Saccharo-
+myces boulardii, Lactobacillus plantarum 299v, Lactobacillus
+rhamnosus ATCC 53103, and the 4-strain combination of
+Lactobacillus acidophilus ATCC 700396, Lactobacillus para-
+casei subsp paracasei ATCC 335, Biﬁdobacterium animalis
+subsp lactis ATCC SD5220 and B animalis subsp lactis ATCC
+SD5219. The largest study, involving 134 patients, reported
+that S boulardii may have a beneﬁcial effect on cessation
+(relative risk [RR], 1.33; 95% conﬁdence interval [CI], 1.02–
+1.74) and recurrence of diarrhea (RR, 0.59; 95% CI, 0.35–
+0.98), but the quality of evidence was low. The smaller trials
+with L plantarum 299v or the 4-strain combination sug-
+gested that these probiotics also may have beneﬁcial effects
+on diarrhea but the evidence was very uncertain, while the
+administration of L rhamnosus ATCC 53103 resulted in
+increased recurrence of C difﬁcile infection compared to
+placebo (RR, 2.63; 95% CI, 0.35–19.85). The overall cer-
+tainty of evidence across all critical outcomes for probiotics
+used as adjunctive treatment for C difﬁcile infection was low.
+Furthermore, the technical review identiﬁed a potential risk
+of publication bias due to multiple registered trials that
+were not linked to a published report. While currently
+available data suggest that some probiotics might be bene-
+ﬁcial in treatment of C difﬁcile, further studies with stan-
+dardized study design and larger number of patients are
+needed to deﬁne those probiotics, as well as to identify
+which
+patient
+populations
+may
+beneﬁt
+from
+this
+intervention.
+In adults and children on antibiotic treatment, we
+suggest
+the
+use of
+S
+boulardii;
+or
+the
+2-strain
+combination
+of
+L
+acidophilus
+CL1285
+and
+Lactobacillus
+casei
+LBC80R;
+or
+the
+3-strain
+combination
+of
+L
+acidophilus,
+Lactobacillus
+delbrueckii subsp bulgaricus, and Biﬁdobacterium
+biﬁdum; or the 4-strain combination of L acidophilus,
+L
+delbrueckii
+subsp
+bulgaricus,
+B
+biﬁdum,
+and
+Streptococcus salivarius subsp thermophilus over no
+or
+other
+probiotics
+for
+prevention
+of
+C
+difﬁcile
+infection.
+Conditional recommendation, low quality of evidence.
+Comment: Patients who place a high value on the
+potential harms (particularly those with severe illnesses)
+or a high value on avoiding the associated cost and a
+low value on the small risk of C difﬁcile development
+(particularly in the outpatient setting), would reasonably
+select no probiotics.
+The AGA suggests the use of certain strains and strain
+combination of probiotics in the prevention of C difﬁcile
+infection. Although there is a large body of literature
+studying the role of probiotics in preventing antibiotic-
+associated C difﬁcile infection, the studies are very hetero-
+geneous. The technical review identiﬁed 39 studies that
+were previously evaluated by Cochrane review published in
+2017.15 A total of 9955 patients were included but the
+populations studied were extremely varied, including pedi-
+atric, adult, and elderly patients—utilizing a variety of
+antibiotic regimens in both inpatient and outpatient set-
+tings—who have very different risks for the development of
+C difﬁcile infection. The Cochrane review found that pro-
+biotics reduced the overall risk of C difﬁcile infection vs
+placebo (RR, 0.40; 95% CI, 0.30–0.52); however, the bene-
+ﬁcial effect was driven by the population of patients with
+high risk of developing C difﬁcile infection, with no signiﬁ-
+cant effects observed in patients with low or baseline risk.
+The technical review did not identify any new RCTs
+between the 2017 Cochrane review and November 2018
+and thus assessed the certainty of evidence from these 39
+trials.1 The overall certainty of the evidence was down-
+graded from Moderate to Low due to unclear or high risk of
+bias in most of the trials across all domains for all outcomes
+assessed. Several studies were published as abstracts only
+or referenced unpublished data. Publication bias was
+considered, as a large number of registered trial protocols
+on this topic were not associated with subsequent peer-
+reviewed publications.
+Subgroup analyses of individual probiotic strains or
+strain combinations that may have an effect compared with
+placebo found that the risk of C difﬁcile infection develop-
+ment was reduced by S boulardii (RR, 0.41; 95% CI, 0.22–
+0.79); the 2-species combination of L acidophilus CL1285
+and L casei LBC80R (RR, 0.22; 95% CI, 0.11–0.42); the 3-
+strain combination of L acidophilus, L delbrueckii subsp
+bulgaricus, and B biﬁdum (RR, 0.35; 95% CI, 0.15–0.85); as
+well as the 4-strain combination of L acidophilus, L del-
+brueckii subsp bulgaricus, B biﬁdum, and S salivarius subsp
+thermophilus (RR, 0.28; 95% CI, 0.11–0.67), with the overall
+quality of the evidence rated as Low. It should be pointed
+out that beneﬁcial effect of probiotics was seen mainly in
+patients with very high risk of developing C difﬁcile infection
+(>15% baseline risk) and that the analysis of most studies
+had a wide CI that includes the potential for some beneﬁt, as
+well as for some harm. Thus, patients who place a high value
+on avoiding associated ﬁnancial cost or potential harms
+(especially those immunocompromised patients) and who
+have low risk of developing C difﬁcile infection (mainly
+outpatients in the community) may choose not to use any
+probiotics.
+In adults and children with Crohn’s disease, the AGA
+recommends use of probiotics only in the context of
+a clinical trial. No recommendation, knowledge gap.
+The AGA recommends use of probiotics on only in the
+context of a clinical trial for adults and children with Crohn’s
+700
+Su et al
+Gastroenterology Vol. 159, No. 2
+AGA SECTION
+
+[page 5]
+disease. Alterations in the gut microbiome in patients with
+Crohn’s disease are being explored increasingly, and interest
+in microbiota-based therapies, such as probiotics and fecal
+microbiota transplantation, is growing. However, studies of
+probiotics for induction or maintenance of remission in
+Crohn’s disease have been limited by small sample sizes,
+heterogeneity in patient populations, heterogeneity in study
+design, and differences in the probiotic formulations tested.
+The technical review searched for studies of both in-
+duction and maintenance of remission in Crohn’s disease in
+adults and children. Only 1 study of 11 subjects was iden-
+tiﬁed for induction of remission in either adults or children.
+This study found no evidence of beneﬁt for L rhamnosus
+ATCC 53103 compared to placebo for induction of remission
+(odds ratio [OR], 0.80; 95% CI, 0.04–17.20), with CI that
+were wide and thus did not exclude the potential for beneﬁt
+or harm.
+Eleven studies of probiotics for maintenance of remis-
+sion in adults and children with Crohn’s disease were
+identiﬁed. The identiﬁed studies were heterogeneous in
+inclusion criteria, the probiotic studied, and study design.
+The probiotic formulations studied included Escherichia coli
+Nissle 1917; S boulardii; L rhamnosus ATCC 53103; Lacto-
+bacillus johnsonii NCC 533; and an 8-strain probiotic com-
+bination of L paracasei subsp paracasei, L plantarum, L
+acidophilus, L delbrueckii subsp bulgaricus, Biﬁdobacterium
+longum subsp longum, Biﬁdobacterium breve, Biﬁdobacte-
+rium longum subsp infantis, and S salivarius subsp thermo-
+philus.
+In
+addition,
+the
+studies
+differed
+on
+whether
+remission was induced by medical or surgical therapy, and
+only 1 study enrolled children. Lastly, some of the studies
+used mesalamine as the comparator, or allowed co-therapy
+with mesalamine in the probiotic arm. There was no overall
+evidence of beneﬁt from any of the probiotic therapies
+studied for maintenance of remission.
+The overall quality of the evidence was rated as low for
+induction of remission and maintenance of remission. Given
+the overall small study samples, as well as heterogeneity in
+patient populations, probiotic strains studied, and study
+design, it is unclear whether there is potential for speciﬁc
+probiotic strains to be beneﬁcial for either induction or
+maintenance of remission in Crohn’s disease. Further
+studies are needed to deﬁne speciﬁc populations of patients
+with Crohn’s disease who might beneﬁt from probiotics, as
+well as the most effective probiotic strains.
+In adults and children with ulcerative colitis, the AGA
+recommends
+the
+use
+of
+probiotics
+only
+in
+the
+context
+of
+a
+clinical
+trial.
+No
+recommendation,
+knowledge gap.
+The AGA recommends the use of probiotics in adults and
+children with ulcerative colitis only in the context of a
+clinical trial. As with Crohn’s disease, interest in microbiota-
+based therapies for ulcerative colitis is growing. However,
+available evidence is limited because of heterogeneity in
+study design, patient populations, and the speciﬁc probiotics
+that have been studied.
+The technical review identiﬁed 11 studies on the use of
+probiotics for induction of remission in adults and children
+with ulcerative colitis. The probiotic formulations under
+evaluation included the 3-strain combination of B breve
+Yakult, B biﬁdum Yakult, and L acidophilus; B longum Reuter
+ATCC BAA-999; E coli Nissle 1917; Lactobacillus reuteri
+ATCC 55730; and the 8-strain combination of L paracasei
+subsp paracasei, L plantarum, L acidophilus, L delbrueckii
+subsp bulgaricus, B longum subsp longum, B breve, B longum
+subsp infantis, and S salivarius subsp thermophilus. The
+comparators varied among studies, and in some studies
+included mesalamine.
+Four studies compared the 8-strain probiotic combina-
+tion to mesalamine or balsalazide for induction of remission,
+suggesting potential for beneﬁt but with very low certainty
+of the evidence (RR, 1.72; 95% CI, 0.78–3.32). Two studies
+examined the effectiveness of oral E coli Nissle 1917
+compared to mesalamine for this indication, again with
+uncertain beneﬁt (RR, 0.86; 95% CI, 0.49–1.49). One of
+these studies also allowed adjunctive treatment with ste-
+roids and gentamicin, while the other allowed co-therapy
+with topical prednisolone. One study of rectally adminis-
+tered E coli Nissle 1917 did not show any clear evidence of
+beneﬁt compared to placebo. Rectally administered L reuteri
+ATCC 55730 was tested in children, with suggestion of an
+increased clinical response rate compared to placebo (RR,
+1.83; 95% CI, 1.14–2.92). Other probiotics were tested in
+single studies only, with no demonstrated beneﬁt for in-
+duction of remission.
+The technical review identiﬁed 6 studies of probiotics
+for maintenance of remission in ulcerative colitis. Two
+studies of E coli Nissle 1917 and 1 study of L rhamnosus
+ATCC 53103 (RR, 0.82; 95% CI, 0.60–1.11) did not show
+clear beneﬁt of the probiotic compared to mesalamine for
+maintenance of remission. In addition, compared to placebo,
+the 2-strain combination of L acidophilus LA-5 and B ani-
+malis subsp lactis Bb12; the 2-strain combination of B breve
+Yakult and L acidophilus; and the 3-strain combination of
+Enterococcus faecalis T-111, Clostridium butyricum TO-A,
+and Bacillus mesentericus TO-A did not show any evidence
+of beneﬁt for this indication, although these formulations
+were tested in single studies only.
+The overall quality of evidence for probiotics for in-
+duction or maintenance of remission in ulcerative colitis
+was rated as low. Available evidence is limited by small
+sample sizes, differences in patient populations, variability
+in study design, and heterogeneity in the probiotic formu-
+lations used. The most extensively tested formulation was
+the 8-strain combination of L paracasei subsp paracasei, L
+plantarum, L acidophilus, L delbrueckii subsp bulgaricus, B
+longum subsp longum, B breve, B longum subsp infantis, and
+S salivarius subsp thermophilus for induction of remission,
+although even here the available studies were limited by
+potential for bias and pooled results did not show evidence
+of beneﬁt. Further research is needed to identify speciﬁc
+August 2020
+AGA Clinical Practice Guidelines on Probiotics and Gastrointestinal Disorders
+701
+AGA SECTION
+
+[page 6]
+patient populations that might beneﬁt most from treatment
+with probiotics and to deﬁne the most effective probiotic
+formulations.
+In
+adults
+and
+children
+with
+pouchitis,
+the
+AGA
+suggests the use of the 8-strain combination of L
+paracasei
+subsp
+paracasei,
+L
+plantarum,
+L
+acidophilus,
+L
+delbrueckii
+subsp
+bulgaricus,
+B
+longum subsp longum, B breve, B longum subsp
+infantis, and S salivarius subsp thermophilus over no
+or other probiotics.
+Conditional recommendation,
+very low
+quality of
+evidence.
+Comment: Patients for whom the feasibility and cost of
+using this combination of bacterial strain is problematic
+may reasonably select no probiotics.
+The AGA suggests the use of the 8-strain combination of
+L paracasei subsp paracasei, L plantarum, L acidophilus, L
+delbrueckii subsp bulgaricus, B longum subsp longum, B
+breve, B longum subsp infantis, and S salivarius subsp ther-
+mophilus over no or other probiotics in patients with pou-
+chitis. Pouchitis is a frequent post-surgical complication
+after total proctocolectomy and ileal pouch–anal anasto-
+mosis for ulcerative colitis, and a role for the gut microbiota
+has been suggested in its pathogenesis. The possibility of
+microbiota-directed therapy for this condition has been
+suggested.
+The technical review identiﬁed 7 studies of probiotics
+for treatment or prevention of pouchitis in adult patients
+with an ileal pouch–anastomosis for management of ulcer-
+ative colitis. The 8-strain probiotic formulation for mainte-
+nance of remission in chronic pouchitis was tested in 2
+studies including a total of 76 patients, with a potential
+beneﬁt in the proportion of patients who maintained
+remission at 12 months compared to placebo (RR, 20.24;
+95% CI, 4.28–95.81, low certainty of evidence). Two addi-
+tional studies suggested a beneﬁt of the same 8-strain
+combination for prevention of an initial episode of acute
+pouchitis, but with very low certainty of evidence (RR for no
+episodes of pouchitis, 1.29; 95% CI, 1.03–1.61). Single trials
+of L rhamnosus ATCC 53103, B longum Reuter ATCC BAA-
+999, and C butyricum CBM 588 did not show clear evi-
+dence of beneﬁt for treatment or prevention of pouchitis,
+although samples sizes were extremely small in all available
+studies.
+The overall quality of evidence was rated as very low
+due to risk of bias, small sample sizes, and heterogeneity in
+the patient populations and interventions tested. The ma-
+jority of evidence came from studies of the 8-strain pro-
+biotic combination of L paracasei subsp paracasei, L
+plantarum, L acidophilus, L delbrueckii subsp bulgaricus, B
+longum subsp longum, B breve, B longum subsp infantis, and
+S salivarius subsp thermophilus. Other probiotic formula-
+tions need further testing for this indication. It also unclear
+whether these results would apply to children or to patients
+who underwent an ileal pouch–anal anastomosis for con-
+ditions other than chronic ulcerative colitis, such as familial
+adenomatous polyposis.
+In symptomatic children and adults with irritable
+bowel
+syndrome,
+we
+recommend
+the
+use
+of
+probiotics only in the context of a clinical trial. No
+recommendations, knowledge gap.
+The AGA makes no recommendations for the use of
+probiotics in children and adults with irritable bowel syn-
+drome (IBS). While there are many studies examining this
+question, they are marked by signiﬁcant heterogeneity in
+study design, outcome, and probiotics used.
+The technical review found a total of 76 RCTs that used
+44 different probiotic strains or combinations of strains.1
+For the majority of studies that reported a beneﬁt, the
+data were derived from a single RCT. Only 2 formulations (S
+boulardii and the 8-strain combination) had more than 1
+RCT that measured the same outcome, allowing for com-
+bined analysis. Three studies tested S boulardii in 232 adults
+with IBS and while the studies used different outcome
+measures, all reported an abdominal pain score that was not
+different between those treated with S boulardii and those
+treated with placebo. Two RCTs tested the 8-strain combi-
+nation (L paracasei subsp paracasei, L plantarum, L aci-
+dophilus, L delbrueckii subsp bulgaricus, B longum subsp
+longum, B breve, B longum subsp infantis, and S salivarius
+subsp thermophilus) in 73 adults with IBS and abdominal
+pain and although this demonstrated a decrease in the
+abdominal pain score using the visual analog scale (mean
+decrease, 3.78; 95% CI, 4.93–2.62), the overall sample size
+was small and there was unclear risk of selection, reporting,
+and detection bias. In addition, the patients enrolled were of
+variable IBS subtypes.
+In the remainder of the studies, the majority of the single
+RCTs using different probiotic and probiotic combinations
+of variable duration reported some beneﬁt, but the sample
+sizes were all relatively small and had signiﬁcant differences
+in study subjects and designs. The overall quality of evi-
+dence was very low. There was also signiﬁcant concern for
+publication bias, as the Technical Review team found
+numerous
+registered
+protocols
+that
+yielded
+no
+peer-
+reviewed publications or results that were publicly avail-
+able. Although there has been signiﬁcant interest and po-
+tential for the use of probiotics in IBS, further studies are
+needed to clarify this important question.
+In children with acute infectious gastroenteritis, we
+suggest against the use of probiotics.
+Conditional recommendation, moderate quality of
+evidence.
+The AGA suggests against the use of probiotics in children
+with acute infectious gastroenteritis in the United States and
+Canada. The majority of the data supporting the use of pro-
+biotics in children with acute infectious gastroenteritis were
+from studies performed outside of United States and Canada,
+while 2 high-quality studies performed in the United States
+and Canada did not show any beneﬁt.
+702
+Su et al
+Gastroenterology Vol. 159, No. 2
+AGA SECTION
+
+[page 7]
+The technical review identiﬁed 89 studies, 58 were included
+in a Cochrane Review published in 2010 and 31 additional
+studies were published after 2010. Most of the studies that
+showed a beneﬁt of probiotics were published in India, Italy,
+Poland, Turkey, and Pakistan and had 1 or more concerns
+regarding risk of bias.1 Of the 89 studies, 58 reported duration of
+diarrhea as an outcome. Combining these 58 studies that utilized
+various strains of probiotics, the mean duration of diarrhea was
+reduced by 21.91 hours (95% CI, 16.17–27.64 hours), but the
+level of evidence was low. The most commonly studied probiotic
+was S boulardii, which was utilized in 21 RCTs. Only 9 studies
+reported on the mean duration of diarrhea, which was reduced
+by 28.9 hours (95% CI, 16.78–41.03 hours), but the level of
+evidence was very low. The second most commonly used strain
+was L rhamnosus ATCC 53103, which was evaluated in 19 RCTs.
+Of these 19 RCTs, 14 studies reported mean duration of diarrhea
+as an outcome, which was reduced by 23.13 hours (95% CI,
+12.33–33.94 hours).
+While some strains of bacteria improved diarrhea duration
+in children, few of the studies were performed in North America
+until 2 recent multicenter, randomized, double-blind, placebo-
+controlled trials conducted by the Pediatric Emergency Care
+Applied Research Network and the Pediatric Emergency
+Research Canada. These studies enrolled 943 and 827 children
+from 10 and 6 emergency departments in the United States and
+Canada, respectively. The US study used L rhamnosus ATCC
+53103 and the Canadian study used a combination of L rham-
+nosus R0011 and Lactobacillus helveticus R0052 for 5 days.
+Neither showed any beneﬁt in the occurrence of moderate-to-
+severe gastroenteritis between placebo and probiotics groups.
+Two additional studies in the United States and Canada using
+the same strains of bacteria conﬁrmed the lack of beneﬁt. Given
+likely differences in host genetics, diet, sanitation, and endemic
+enteropathogens between North America and the other global
+regions, as well as different causes of acute infectious gastro-
+enteritis in children, we do not feel that the studies conducted in
+other regions can be generalized to the population served by the
+AGA and thus suggest against the use of probiotics for acute
+infectious gastroenteritis in children.
+In preterm (less than 37 weeks gestational age), low-
+birth-weight infants, we suggest using a combination
+of Lactobacillus spp and Biﬁdobacterium spp (L
+rhamnosus
+ATCC
+53103
+and
+B
+longum
+subsp
+infantis; or L casei and B breve; or L rhamnosus, L
+acidophilus, L casei, B longum subsp infantis, B
+biﬁdum,
+and
+B
+longum
+subsp
+longum;
+or
+L
+acidophilus
+and
+B
+longum
+subsp
+infantis;
+or
+L
+acidophilus and B biﬁdum; or L rhamnosus ATCC
+53103 and B longum Reuter ATCC BAA-999; or L
+acidophilus, B biﬁdum, B animalis subsp lactis, and
+B longum subsp longum), or B animalis subsp lactis
+(including DSM 15954), or L reuteri (DSM 17938 or
+ATCC 55730), or L rhamnosus (ATCC 53103 or ATC
+A07FA or LCR 35) over no and other probiotics.
+Conditional recommendation, moderate/high quality
+of evidence.
+The AGA suggests the use of certain probiotic strain or
+strain combination for the prevention of NEC in preterm
+infants less than 37 weeks gestational age and low birth
+weight. Preterm birth is common, affecting 10% of new-
+borns in the United States and 15 million pregnancies
+worldwide each year. Premature infants have increased risk
+of mortality and multiple morbidities, including NEC. NEC is
+the most important gastrointestinal emergency among
+preterm neonates, characterized by mucosal or even deeper
+intestinal necrosis of the bowel with common long-term
+sequelae, including short bowel syndrome and impaired
+neurodevelopment. Microbiota differs in infants with NEC
+compared to healthy infants providing a rationale for
+microbiota-oriented treatments.
+The technical review presented results from a recent
+systematic review and network meta-analysis that assessed
+the role of probiotics in the prevention of mortality and
+morbidity
+in
+preterm
+infants.16
+In
+total,
+63
+studies
+comparing single- and multiple-strain probiotics to placebo
+in patients with severe NEC were included and multiple
+outcomes, such as all-cause mortality, severe NEC (stage II
+or greater), culture-proven sepsis, and duration of hospi-
+talization were assessed.
+Combinations of Lactobacillus spp and Biﬁdobacterium
+spp (L rhamnosus ATCC 53103 and B longum subsp infantis;
+or L casei and B breve; or L rhamnosus, L acidophilus, L casei,
+B longum subsp infantis, B biﬁdum, and B longum subsp
+longum; or L acidophilus and B longum subsp infantis; or L
+acidophilus and B biﬁdum; or L rhamnosus ATCC 53103 and
+B longum Reuter ATCC BAA-999; or L acidophilus, B biﬁdum,
+B animalis subsp lactis, and B longum subsp longum; or B
+animalis subsp lactis [including DSM 15954], or L reuteri
+[DSM 17938 or ATCC 55730], or L rhamnosus [ATCC 53103
+or ATC A07FA or LCR 35]) reduced all-cause mortality
+compared to placebo (OR, 0.56, 95% CI, 0.39–0.80), while
+severe NEC was reduced by combinations of Lactobacillus
+spp and Biﬁdobacterium spp (L rhamnosus ATCC 53103 and
+B longum subsp infantis; or L casei and B breve; or L
+rhamnosus, L acidophilus, L casei, B longum subsp infantis, B
+biﬁdum, and B longum subsp longum; or L acidophilus and B
+longum subsp infantis; or L acidophilus and B biﬁdum; or L
+rhamnosus ATCC 53103 and B longum Reuter ATCC BAA-
+999; or L acidophilus, B biﬁdum, B animalis subsp lactis,
+and B longum subsp longum; OR, 0.35; 95% CI, 0.20–0.59), B
+animalis subsp lactis (including strain DSM 15954; OR, 0.31;
+95% CI, 0.13–0.74), L reuteri (DSM 17938 or ATCC 55730;
+OR, 0.55; 95% CI, 0.34–0.91), or L rhamnosus (ATCC 53103
+or ATC A07FA or LCR 35; OR, 0.44; 95% CI, 0.21–0.90), all
+supported by moderate- or high-quality evidence.
+There was low to very low quality of evidence to support
+beneﬁcial effects of combinations of Lactobacillus spp, Biﬁ-
+dobacterium spp, and Enterococcus spp (L acidophilus, B
+longum subsp longum, and E faecalis; or L gasseri PTA-5845,
+B longum subsp infantis PTA-5843, and E faecium PTA-
+5844; or L acidophilus, B longum subsp longum, and E fae-
+cium; or L acidophilus, B longum subsp infantis, and E fae-
+calis (OR, 0.28; 95% CI, 0.16–0.49), combinations of
+Biﬁdobacterium spp and S salivarius subsp thermophilus (B
+longum subsp infantis, B biﬁdum, and S salivarius subsp
+thermophilus; or B longum subsp infantis DSM 33361, B
+animalis subsp lactis DSM 15954, and S salivarius subsp
+August 2020
+AGA Clinical Practice Guidelines on Probiotics and Gastrointestinal Disorders
+703
+AGA SECTION
+
+[page 8]
+thermophilus TH-4) (OR, 0.38; 95% CI, 0.19–0.75) or a B
+subtilis and E faecium (OR, 0.23; 95% CI, 0.08–0.63) in se-
+vere NEC reduction compared to placebo.
+Combinations of Lactobacillus spp, Biﬁdobacterium spp,
+and S boulardii (L rhamnosus, L acidophilus, B longum subsp
+longum, and S boulardii; or L acidophilus, B biﬁdum, and S
+boulardii) reduced days to reach full enteral feeds (mean
+difference [MD], –3.30; 95% CI, –5.91 to –0.69), supported
+by moderate- or high-quality evidence. Similar effects,
+although based on low or very low quality of evidence, were
+shown with combinations of Lactobacillus spp and Biﬁdo-
+bacterium spp (L casei and B breve; or L rhamnosus, L aci-
+dophilus, L casei, B longum subsp infantis, B biﬁdum, and B
+longum subsp longum; or L acidophilus and B biﬁdum; or L
+acidophilus, B biﬁdum, B animalis subsp lactis, and B longum
+subsp longum; MD, –2.15; 95% CI, –3.78 to –0.51), or with L
+reuteri (DSM 17938 or ATCC 55730 (MD, –2.62; 95% CI,
+–4.53 to –0.71). Finally, B animalis subsp lactis and L reuteri
+(DSM 17938 or ATCC 55730) signiﬁcantly shortened hos-
+pitalization based on moderate- or high-quality evidence
+(MD, –13.00; 95% CI, –22.71 to –3.29 and MD, –7.89; 95%
+CI, –11.60 to –4.17, respectively).
+Discussion
+The gut microbiome plays an important role in
+gastrointestinal health and disease and probiotics repre-
+sent a promising modality for therapeutic intervention. As
+outlined in the accompanying technical review,1 the cur-
+rent evidence suggests that the use of certain probiotic
+strains or probiotic strain combinations may prevent C
+difﬁcile infections for adults and children on antibiotic
+treatment. However, the quality of evidence was low and
+the reporting of potential harms was not always consis-
+tent. Thus, for patients who place a high value on avoid-
+ance of potential harms, particularly those with severe
+illnesses or immunosuppression, it would be reasonable to
+select not to use probiotics. While there was evidence for
+probiotics in the prevention of C difﬁcile, the technical
+review found signiﬁcant knowledge gap in the use of
+probiotics in treatment of C difﬁcile and recommend this
+as an area for further study. Similar knowledge gaps exist
+in the use of probiotics in irritable bowel syndrome and
+inﬂammatory bowel disease (Crohn’s disease and ulcera-
+tive colitis). In the subset of patients with pouchitis, cur-
+rent evidence supports the use of the 8-strain combination
+(L paracasei subsp paracasei, L plantarum, L acidophilus, L
+delbrueckii subsp bulgaricus, B longum subsp longum, B
+breve, B longum subsp infantis, and S salivarius subsp
+thermophilus) if feasibility of obtaining the combination is
+not a barrier. In preterm infants less than 37 weeks
+gestational age, the probiotic strains B animalis subsp
+lactis or L reuteri (DSM 17938 or ATCC 55730) or L
+rhamnosus (ATCC 53103 or ATC A07FA or LCR 35) or
+combination of Lactobacillus spp and Biﬁdobacterium spp
+(L rhamnosus ATCC 53103 and B longum subsp infantis; or
+L casei and B breve; or L rhamnosus, L acidophilus, L casei,
+B longum subsp infantis, B biﬁdum, and B longum subsp
+longum; or L acidophilus and B longum subsp infantis; or L
+acidophilus and B biﬁdum; or L rhamnosus ATCC 53103
+and B longum Reuter ATCC BAA-999; or L acidophilus, B
+biﬁdum, B animalis subsp lactis, and B longum subsp lon-
+gum) may prevent the development of NEC. For children
+with acute gastroenteritis in North America, however, the
+current evidence does not support the use of probiotics.
+While other society guidelines17–19 have previously rec-
+ommended the use of probiotics in this population, these
+guidelines were developed prior to the publication of two
+large multi-center studies from North America, which
+became available after their recommendations were made.
+This is an area that will require further study and rec-
+ommendations evolve as more direct high-quality data
+become available.
+We identiﬁed that signiﬁcant knowledge gaps exist in
+this very promising and important area of research due to
+the signiﬁcant heterogeneity between studies and vari-
+ability in the probiotic strains studied. The lack of
+consistent harms reporting makes it difﬁcult to assess true
+harms. The lack of product manufacturing details pro-
+hibits true comparisons and decreases the feasibility of
+obtaining certain products by patients. Future high-quality
+studies are urgently needed that address these pitfalls.
+These guidelines will undergo a review and consideration
+for an update within 3–5 years or earlier if practice-
+changing evidence becomes available.
+References
+1. Preidis GA, Weizman AV, Kashyap PC, et al. AGA
+Technical Review on the Role of Probiotics in the Man-
+agement of Gastrointestinal Disorders. Gastroenterology
+2020;159:724–754.
+2. Sanders ME, Merenstein DJ, Reid G, et al. Probiotics and
+prebiotics in intestinal health and disease: from biology
+to the clinic. Nat Rev Gastroenterol Hepatol 2019;
+16:605–616.
+3. Food and Agricultural Organization of the United Nations
+(FAO)/World Health Organization (WHO). Health and
+Nutritional Properties of Probiotics in Food including
+Powder Milk with Live Lactic Acid Bacteria. Report of a
+Joint FAO/WHO Expert Consultation on Evaluation of
+Health and Nutritional Properties of Probiotics in Food
+Including Powder Milk with Live Lactic Acid Bacteria;
+Cordoba, Argentina; October 1–5, 2001.
+4. Sniffen JC, McFarland LV, Evans CT, et al. Choosing an
+appropriate
+probiotic
+product
+for
+your
+patient:
+An
+evidence-based practical guide. PLoS One 2018;13:
+e0209205.
+5. Caselli M, Cassol F, Calo G, et al. Actual concept of
+"probiotics": is it more functional to science or business?
+World J Gastroenterol 2013;19:1527–1540.
+6. de Simone C. The unregulated probiotic market. Clin
+Gastroenterol Hepatol 2019;17:809–817.
+7. Suez J, Zmora N, Segal E, et al. The pros, cons, and
+many
+unknowns
+of
+probiotics.
+Nat
+Med
+2019;25:
+716–729.
+704
+Su et al
+Gastroenterology Vol. 159, No. 2
+AGA SECTION
+
+[page 9]
+8. Bindels LB, Delzenne NM, Cani PD, et al. Towards a
+more comprehensive concept for prebiotics. Nat Rev
+Gastroenterol Hepatol 2015;12:303–310.
+9. Parker EA, Roy T, D’Adamo CR, et al. Probiotics and
+gastrointestinalconditions:anoverviewofevidencefromthe
+Cochrane Collaboration. Nutrition 2018;45:125–134 e11.
+10. Clarke TC, Black LI, Stussman BJ, et al. Trends in the
+use of complementary health approaches among adults:
+United States, 2002–2012. Natl Health Stat Report 2015
+Feb 10;(79):1–16.
+11. Sultan S, Falck-Ytter Y, Inadomi JM. The AGA Institute
+process for developing clinical practice guidelines part
+one: grading the evidence. Clin Gastroenterol Hepatol
+2013;11:329–332.
+12. Graham R, Mancher M, Dianne W, et al. Clinical Practice
+Guidelines We Can Trust. Washington, DC: National
+Academies Press, 2011.
+13. Lessa FC, Mu Y, Bamberg WM, et al. Burden of Clos-
+tridium difﬁcile infection in the United States. N Engl J
+Med 2015;372:825–834.
+14. Vaughn BP, Rank KM, Khoruts A. Fecal microbiota
+transplantation: current status in treatment of GI and liver
+disease. Clin Gastroenterol Hepatol 2019;17:353–361.
+15. Goldenberg JZ, Yap C, Lytvyn L, et al. Probiotics for the
+prevention of Clostridium difﬁcile-associated diarrhea in
+adults and children. Cochrane Database Syst Rev 2017;
+12:CD006095.
+16. Morgan RL, Preidis GA, Kashyap PC, et al. Probiotics
+reduce mortality and morbidity in preterm, low-birth-
+weight infants: a systematic review and network meta-
+analysis of randomized trials. Gastroenterology 2020;
+159:467–480.
+17. Guarino A, Ashkenazi S, Gendrel D, et al. European So-
+ciety for Pediatric Gastroenterology, Hepatology, and
+Nutrition/European Society for Pediatric Infectious Dis-
+eases evidence-based guidelines for the management of
+acute gastroenteritis in children in Europe: update 2014.
+J Pediatr Gastroenterol Nutr 2014;59:132–152.
+18. Szajewska H, Guarino A, Hojsak I, et al. Use of probiotics
+for management of acute gastroenteritis: a position
+paper by the ESPGHAN Working Group for Probiotics
+and Prebiotics. J Pediatr Gastroenterol Nutr 2014;
+58:531–539.
+19. Shane AL, Mody RK, Crump JA, et al. 2017 Infectious
+Diseases Society of America Clinical Practice Guidelines
+for the Diagnosis and Management of Infectious Diar-
+rhea. Clin Infect Dis 2017;65:1963–1973.
+Correspondence
+Address correspondence to: Chair, The AGA Clinical Guidelines Committee,
+American Gastroenterological Association, National Ofﬁce, 4930 Del Ray
+Avenue, Bethesda, Maryland 20814. e-mail: clinicalpractice@gastro.org. fax:
+301-654-5920.
+Acknowledgments
+The Clinical Guidelines Committee included: Shahnaz Sultan, MD, MHSc,
+AGAF, Chair; Karen Chachu, MD, PhD; Lukejohn Day, MD, AGAF; Benjamin
+Lebwohl, MD, AGAF; Thiruvengadam Muniraj, MD, PhD, MRCP; Amit Patel,
+MD; Anne F. Peery, MD; Raj Shah, MD; Harminder Singh, MD; Siddharth
+Singh, MD; Stuart J. Spechler, MD, AGAF; Grace L. Su, MD, AGAF; Aaron P.
+Thrift, BSc, PhD; Jennifer M. Weiss, MD, MS, AGAF; and Adam V. Weizman,
+MD.
+The Guideline Panel included: Grace L. Su (Chair): Division of Gastroenterology
+and
+Hepatology,
+University
+of
+Michigan,
+Ann
+Arbor,
+Michigan
+and
+Gastroenterology Section, Veterans Administration Ann Arbor Healthcare
+System,
+Ann
+Arbor,
+Michigan;
+Cynthia
+W.
+Ko
+(Member):
+Division
+of
+Gastroenterology, University of Washington Medical School, Seattle, WA;
+Premysl Bercik (Member): Division of Gastroenterology, McMaster University,
+Hamilton, Ontario, Canada.
+The
+Technical
+Review
+Panel
+included:
+Rebecca
+L.
+Morgan
+(GRADE
+Methodologist): Department of Health Research Methods, Evidence and
+Impact, McMaster University, Hamilton, Ontario, Canada; Adam V. Weizman
+(Methodologist Trainee): Division of Gastroenterology, Mount Sinai Hospital,
+Department of Medicine, University of Toronto, Toronto, Ontario, Canada;
+Purna Kashyap (Content Expert): Department of Internal Medicine, Mayo
+Clinic,
+Rochester,
+Minnesota;
+Geoffrey
+A.
+Preidis
+(Content
+Expert):
+Department of Pediatrics, Baylor College of Medicine, Houston, Texas.
+Conﬂicts of interest
+These authors disclose the following: Premysl Bercik received ﬁnancial
+support/remuneration from Nestex, Allergan Canada, IM HealthScience, and
+LUPIN Pharma Canada. Adam V. Weizman received ﬁnancial support/
+renumeration from AbbVie, Janssen Pharmaceutica, Takeda Pharmaceutical
+Company, and Ferring Pharmaceuticals. The remaining authors disclose no
+conﬂicts. All members were required to complete disclosure statement.
+These
+statements
+are
+maintained
+at
+the
+American
+Gastroenterological
+Association Institute headquarters in Bethesda, Maryland and pertinent
+disclosures are published with the report.
+August 2020
+AGA Clinical Practice Guidelines on Probiotics and Gastrointestinal Disorders
+705
+AGA SECTION

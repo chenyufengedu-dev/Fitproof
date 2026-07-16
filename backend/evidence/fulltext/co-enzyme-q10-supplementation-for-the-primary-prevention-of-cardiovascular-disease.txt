@@ -1,0 +1,3129 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Co-enzyme Q10 supplementation for the primary prevention of
+cardiovascular disease (Review)
+ 
+ 
+Flowers N, Hartley L, Todkill D, Stranges S, Rees K
+ 
+ 
+Flowers N, Hartley L, Todkill D, Stranges S, Rees K. 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease. 
+Cochrane Database of Systematic Reviews 2014, Issue 12. Art. No.: CD010405. 
+DOI: 10.1002/14651858.CD010405.pub2.
+ 
+ 
+www.cochranelibrary.com
+ 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+ 
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+BACKGROUND..............................................................................................................................................................................................
+3
+OBJECTIVES..................................................................................................................................................................................................
+4
+METHODS.....................................................................................................................................................................................................
+4
+RESULTS........................................................................................................................................................................................................
+6
+Figure 1..................................................................................................................................................................................................
+7
+Figure 2..................................................................................................................................................................................................
+9
+Figure 3..................................................................................................................................................................................................
+10
+DISCUSSION..................................................................................................................................................................................................
+12
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+13
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+13
+REFERENCES................................................................................................................................................................................................
+14
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+18
+DATA AND ANALYSES....................................................................................................................................................................................
+30
+Analysis 1.1. Comparison 1 CoQ10, Outcome 1 Systolic blood pressure..........................................................................................
+31
+Analysis 1.2. Comparison 1 CoQ10, Outcome 2 Diastolic blood pressure.........................................................................................
+31
+Analysis 1.3. Comparison 1 CoQ10, Outcome 3 Total cholesterol.....................................................................................................
+31
+Analysis 1.4. Comparison 1 CoQ10, Outcome 4 HDL-cholesterol.......................................................................................................
+32
+Analysis 1.5. Comparison 1 CoQ10, Outcome 5 Triglycerides............................................................................................................
+32
+ADDITIONAL TABLES....................................................................................................................................................................................
+32
+APPENDICES.................................................................................................................................................................................................
+33
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+37
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+37
+SOURCES OF SUPPORT...............................................................................................................................................................................
+37
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+37
+INDEX TERMS...............................................................................................................................................................................................
+37
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Co-enzyme Q10 supplementation for the primary prevention of
+cardiovascular disease
+Nadine Flowers1, Louise Hartley1, Daniel Todkill1, Saverio Stranges1, Karen Rees1
+1Division of Health Sciences, Warwick Medical School, University of Warwick, Coventry, UK
+Contact: Karen Rees, Division of Health Sciences, Warwick Medical School, University of Warwick, Coventry, CV4 7AL, UK.
+Karen.Rees@warwick.ac.uk, rees_karen@yahoo.co.uk.
+Editorial group: Cochrane Heart Group.
+Publication status and date: New, published in Issue 12, 2014.
+Citation:  Flowers N, Hartley L, Todkill D, Stranges S, Rees K. Co-enzyme Q10 supplementation for the primary
+prevention of cardiovascular disease. Cochrane Database of Systematic Reviews 2014, Issue 12. Art. No.: CD010405. DOI:
+10.1002/14651858.CD010405.pub2.
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Cardiovascular disease (CVD) remains the number one cause of death and disability worldwide and public health interventions focus on
+modifiable risk factors, such as diet. Coenzyme Q10 (CoQ10) is an antioxidant that is naturally synthesised by the body and can also be
+taken as a dietary supplement. Studies have shown that a CoQ10 deficiency is associated with cardiovascular disease.
+Objectives
+To determine the eﬀects of coenzyme Q10 supplementation as a single ingredient for the primary prevention of CVD.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2013, Issue 11); MEDLINE (Ovid, 1946 to November week 3 2013);
+EMBASE (Ovid, 1947 to 27 November 2013) and other relevant resources on 2 December 2013. We applied no language restrictions.
+Selection criteria
+Randomised controlled trials (RCTs) lasting at least three months involving healthy adults or those at high risk of CVD but without
+a diagnosis of CVD. Trials investigated the supplementation of CoQ10 alone as a single supplement. The comparison group was no
+intervention or placebo. The outcomes of interest were CVD clinical events and major CVD risk factors, adverse eﬀects and costs. We
+excluded any trials involving multifactorial lifestyle interventions to avoid confounding.
+Data collection and analysis
+Two authors independently selected trials for inclusion, abstracted data and assessed the risk of bias.We contacted authors for additional
+information where necessary.
+Main results
+We identified six RCTs with a total of 218 participants randomised, one trial awaiting classification and five ongoing trials. All trials
+were conducted in participants at high risk of CVD, two trials examined CoQ10 supplementation alone and four examined CoQ10
+supplementation in patients on statin therapy; we analysed these separately. All six trials were small-scale, recruiting between 20 and 52
+participants; one trial was at high risk of bias for incomplete outcome data and one for selective reporting; all studies were unclear in the
+method of allocation and therefore for selection bias. The dose of CoQ10 varied between 100 mg/day and 200 mg/day and the duration
+of the interventions was similar at around three months.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+No studies reported mortality or non-fatal cardiovascular events. None of the included studies provided data on adverse events.
+Two trials examined the eﬀect of CoQ10 on blood pressure. For systolic blood pressure we did not perform a meta-analysis due to significant
+heterogeneity. In one trial CoQ10 supplementation had no eﬀect on systolic blood pressure (mean diﬀerence (MD) -1.90 mmHg, 95%
+confidence interval (CI) -13.17 to 9.37, 51 patients randomised). In the other trial there was a statistically significant reduction in systolic
+blood pressure (MD -15.00 mmHg, 95% CI -19.06 to -10.94, 20 patients randomised). For diastolic blood pressure we performed a random-
+eﬀects meta-analysis, which showed no evidence of eﬀect of CoQ10 supplementation when these two small trials were pooled (MD -1.62
+mmHg, 95% CI -5.2 to 1.96).
+One trial (51 patients randomised) looked at the eﬀect of CoQ10 on lipid levels. The trial showed no evidence of eﬀect of CoQ10
+supplementation on total cholesterol (MD 0.30 mmol/L, 95% CI -0.10 to 0.70), high-density lipoprotein (HDL)-cholesterol (MD 0.02 mmol/
+L, 95% CI -0.13 to 0.17) or triglycerides (MD 0.05 mmol/L, 95% CI -0.42 to 0.52).
+Of the four trials that investigated CoQ10 supplementation in patients on statin therapy, three of them showed that simultaneous
+administration of CoQ10 did not significantly influence lipid levels or systolic blood pressure levels between the two groups. The fourth
+trial showed a significant increase in the change in total and low-density lipoprotein (LDL)-cholesterol at three months across the four
+arms of the trial (α-tocopherol, CoQ10, CoQ10 + α-tocopherol and placebo), however the way in which the data were presented meant that
+we were unable to determine if there was any significant diﬀerence between the CoQ10 only and placebo arms. In contrast, there was no
+significant diﬀerence in the change in HDL-cholesterol and triglycerides afer three months between the four arms of the trial.
+Authors' conclusions
+There are very few studies to date examining CoQ10 for the primary prevention of CVD. The results from the ongoing studies will add to
+the evidence base. Due to the small number of underpowered trials contributing to the analyses, the results presented should be treated
+with caution and further high quality trials with longer-term follow-up are needed to determine the eﬀects on cardiovascular events.
+P L A I N   L A N G U A G E   S U M M A R Y
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease
+Cardiovascular disease (CVD) is the result of complications of the heart and blood vessels and is a worldwide healthcare burden. However,
+it is thought that CVD risk can be lowered by changing a number of modifiable risk factors, such as diet. Dietary supplements have received
+a great deal of attention for the prevention of CVD. One such supplement is coenzyme Q10 (CoQ10), which is an antioxidant. Deficiencies in
+CoQ10 have been associated with CVD. This review therefore assessed the eﬀectiveness of CoQ10 supplementation for CVD prevention. We
+included trials administering CoQ10 as a single supplement in healthy adults or those at high risk of CVD (but without a diagnosis of CVD)
+and measuring cardiovascular events or major CVD risk factors, such as blood pressure and lipid levels. We found six completed randomised
+controlled trials with a total of 218 participants randomised. All were conducted in participants at high risk of CVD. Two examined CoQ10
+supplementation alone and four examined CoQ10 supplementation in patients on statin therapy. The trials were small and short-term,
+none measured cardiovascular events or adverse events, and we regarded two of the six trials as being at high risk of bias. Very few small
+trials contributed to the analyses and no conclusions can be drawn at this time. We also identified five ongoing trials and the results from
+these will add to the evidence base in due course. More longer-term trials are needed to determine the eﬀect of CoQ10 on cardiovascular
+events.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+Cardiovascular disease (CVD) remains the number one cause
+of death and disability worldwide (WHO 2012). The burden of
+disease will increase with an aging population and increasing
+levels of obesity and sedentary lifestyles. CVDs are the result of
+complications in the heart and blood vessels (WHO 2012), and
+include cerebrovascular disease, coronary heart disease (CHD) and
+peripheral arterial disease (PAD). Around 29.6% of total global
+deaths can be attributed to CVD (WHO 2003), and it is estimated that
+17 million deaths per year are caused by CVD (Mackay 2004).
+One of the main mechanisms thought to cause CVD is
+atherosclerosis, where the arteries become clogged by plaques or
+atheromas (NHS 2010). Atherosclerosis can cause CVD when the
+arteries are completely blocked by a blood clot or when blood flow
+is restricted by a narrowed artery limiting the amount of blood
+and oxygen that can be delivered to organs or tissue (BHF 2012).
+Whilst arteries may naturally become harder and narrower with
+age, this process may be accelerated by factors such as smoking,
+high cholesterol, high blood pressure, obesity, a sedentary lifestyle
+and ethnicity (NHS 2010).
+Prevention of CVD by targeting modifiable factors remains a key
+public health priority. Diet plays a major role in the aetiology of
+many chronic diseases including CVD, thereby contributing to a
+significant geographical variability in morbidity and mortality rates
+across diﬀerent countries and populations worldwide (WHO/FAO
+2002). A number of dietary factors have been found to be associated
+with CVD risk, such as a low consumption of fruit and vegetables
+(Begg 2007), a high intake of saturated fat and a high consumption
+of salt (He 2011; Siri-Tarino 2010). These factors are important since
+they can be modified in order to lower CVD risk making them a
+prime target for interventions aimed at primary prevention and
+management of CVD.
+Description of the intervention
+The intervention examined in this review is co-enzyme Q10 (CoQ10)
+supplementation as a single ingredient. CoQ10 or ubiquinone is
+an important intracellular antioxidant naturally synthesised in the
+body. It is also available as a non-prescription nutritional dietary
+supplement. CoQ10 plays a vital role in energy (ATP) production in
+the body by acting as an electron carrier in mitochondria and as a
+co-enzyme for mitochondrial enzymes (Langsjoen 1985; Niklowitz
+2007).
+Studies have shown that a CoQ10 deficiency is associated with
+cardiovascular disease (Kumar 2009; Niklowitz 2007); however, it
+is uncertain whether a CoQ10 deficiency is the cause or the eﬀect
+of disease, especially in observational studies (Niklowitz 2007).
+Patients with ischaemic heart disease and dilated cardiomyopathy
+have been found to have significantly lower levels of CoQ10
+compared to healthy controls (Langsjoen 1990). In addition, the
+concentrations of CoQ10 in blood and myocardial tissue decline
+with increasing severity of heart disease (Littarru 1972). CoQ10
+deficiency has also been observed in patients with hypertension;
+enzymatic deficiency of CoQ10 has been reported in 39% of
+hypertensive patients compared with only 6% of healthy controls
+(Kumar 2009).
+Much of the research on CoQ10 is related to the secondary
+prevention of CVD and results of clinical trials support the use
+of CoQ10 in the treatment of congestive heart failure (Hofman-
+Bang 1995; Morisco 1993). In other trials, CoQ10 has been used in
+combination with other micronutrients (Alehagen 2013). In primary
+prevention, a meta-analysis of observational studies and clinical
+trials (12 studies, total of 362 patients) has shown that CoQ10
+supplementation reduces blood pressure (Rosenfeldt 2007). The
+12 studies consisted of three randomised controlled trials (RCTs),
+one cross-over study and eight open-label observational studies.
+Dose of CoQ10 ranged between 34 and 225 mg/day and duration
+of individual studies from one to 56 weeks. CoQ10 reduced systolic
+blood pressure by between 11 to 17 mmHg and reduced diastolic
+blood pressure by between 8 to 10 mmHg. This meta-analysis
+also concluded that CoQ10 appears to be generally safe with no
+significant adverse eﬀects. A recent Cochrane systematic review of
+RCTs in participants with primary hypertension confirmed these
+findings (Ho 2009). Dose of CoQ10 ranged from 100 to 120 mg/
+day. The meta-analysis found that systolic blood pressure was
+reduced by 11 mmHg and the diastolic blood pressure was lowered
+by 7 mmHg compared to placebo, however, due to the possible
+unreliability of some of the included studies, the authors concluded
+that it is still uncertain if CoQ10 could be a useful in the treatment
+of hypertension (Ho 2009).
+A CoQ10 deficiency occurs with age; however, certain drugs
+can cause depletion of CoQ10 levels, particularly hydroxy-
+methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors, or
+statins. Statins are prescribed to reduce cholesterol levels and
+work by inhibiting HMG-CoA reductase and the mevalonate
+metabolic pathway (Folkers 1990). Mevalonate is used to synthesise
+cholesterol as well as CoQ10 (Schaars 2008), therefore, when
+statin drugs lower cholesterol levels they simultaneously lower
+CoQ10 levels. Statins are known to block CoQ10 biosynthesis and
+reduce serum concentrations of CoQ10 by up to 40% (Kumar 2009).
+Furthermore, statin use is ofen associated with a variety of muscle-
+related symptoms or myopathies. Research has suggested that
+CoQ10 supplementation may decrease muscle pain associated
+with statin treatment (Caso 2007).
+How the intervention might work
+Considering the key role of CoQ10 in cellular energy production,
+and the high energy requirements of cardiac cells, CoQ10 has a
+potential role in the prevention and treatment of heart ailments by
+improving cardiac bioenergetics (Kumar 2009).
+Dietary supplementation with CoQ10 results in increased levels
+of ubiquinol-10 (the reduced form of CoQ10) within circulating
+lipoproteins. In its reduced form the CoQ10 molecule acts as
+a powerful intracellular antioxidant due to its ability to hold
+electrons rather loosely, and will quite easily give up one or
+both electrons. The antioxidant and free radical scavenger eﬀects
+of CoQ10 can therefore help to prevent lipid peroxidation and
+thus the progression of atherosclerosis (Kumar 2009; Mohr 1992).
+Furthermore, CoQ10 has also been found to modulate the amount
+of ß-integrin levels on the surface of blood monocytes, strongly
+suggesting that the anti-atherogenic eﬀects of CoQ10 are mediated
+by other mechanisms beside its antioxidant properties (Turunen
+2002).
+There are also a number of ways that CoQ10 could act favourably
+to reduce blood pressure. CoQ10 could act directly on vascular
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+endothelium and decrease total peripheral resistance by acting
+as an antagonist of vascular superoxide, by either scavenging
+it, or suppressing its synthesis (McCarty 1999). Further to this,
+a recent meta-analysis has associated CoQ10 supplementation
+with a significant improvement in arterial endothelial function in
+patients with and without CVD (Gao 2012). CoQ10's antioxidant
+properties may also result in the quenching of free radicals
+that cause inactivation of endothelium-derived relaxing factor or
+fibrosis of arteriolar smooth muscle, or both (Ignarro 1989). In
+addition, CoQ10 has been found to decrease blood viscosity and
+improve blood flow to cardiac muscle in patients with ischaemic
+heart disease; therefore it may reduce blood pressure (Kato 1990).
+Why it is important to do this review
+Most systematic reviews and meta-analyses have looked at CoQ10
+for the secondary prevention of cardiovascular diseases (Kendler
+2006; Sander 2006; Shekelle 2003; Soja 1997), and those that
+focus on primary prevention have only looked at the eﬀect of
+CoQ10 on hypertension (Ho 2009; Rosenfeldt 2003; Rosenfeldt
+2007). Furthermore, a recent Cochrane review has looked at
+the eﬀicacy of a number of cardioprotective agents (including
+CoQ10) in preventing heart damage in cancer patients treated with
+anthracyclines (van Dalen 2011). The outcomes assessed in that
+review include clinical and subclinical heart failure, quality of life
+and adverse eﬀects, however, only one trial was identified using
+CoQ10 and it does not meet the selection criteria outlined in the
+current review.
+This review is important because it looks at a broader range
+of outcomes including mortality, CVD events, changes in blood
+pressure and lipid levels, type 2 diabetes as a major risk factor
+for CVD, adverse eﬀects, quality of life and costs. This review
+summarises the best available current evidence from RCTs of
+the eﬀectiveness of CoQ10 supplementation for the primary
+prevention of CVD.
+O B J E C T I V E S
+To determine the eﬀects of coenzyme Q10 supplementation as a
+single ingredient for the primary prevention of CVD.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+All randomised controlled trials (RCTs).
+Types of participants
+Adults, aged 18 and over from the general population, and
+adults at high risk of CVD. This review focused on the eﬀects
+of CoQ10 supplementation on participants in primary prevention
+trials. We excluded those in secondary prevention trials, i.e.
+those who have experienced a previous myocardial infarction
+(MI), stroke, revascularisation procedure (coronary artery bypass
+grafing (CABG) or percutaneous transluminal coronary angioplasty
+(PTCA)) and those with angina or with angiographically defined
+CHD.
+Types of interventions
+The intervention was CoQ10 supplementation alone. We placed no
+limit on the amount of CoQ10 taken. We have stratified the results
+by those also taking statins. We only considered trials where the
+comparison group was placebo or no intervention. We intended
+to stratify by dose of CoQ10, however, there was an insuﬀicient
+number of trials so this was not possible.
+Types of outcome measures
+Primary outcomes
+1. Cardiovascular mortality
+2. All-cause mortality
+3. Non-fatal endpoints such as MI, CABG, PTCA, angina or
+angiographically defined CHD, stroke, carotid endarterectomy,
+PAD
+Secondary outcomes
+1. Changes in blood pressure (systolic and diastolic blood
+pressure) and blood lipids (total cholesterol, high-density
+lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL)
+cholesterol, triglycerides)
+2. Occurrence of type 2 diabetes as a major CVD risk factor
+3. Quality of life
+4. Adverse eﬀects
+5. Costs
+We intended to focus on follow-up periods of six months or more as
+these are most relevant for public health interventions. However,
+we also considered trials with a minimum follow-up of three
+months where these were lacking.
+Search methods for identification of studies
+Electronic searches
+We searched the following electronic databases, without language
+restrictions, on 2 December 2013:
+•
+CENTRAL (2013, Issue 11);
+•
+MEDLINE (OVID, 1946 to November week 3 2013);
+•
+EMBASE Classic + EMBASE (OVID, 1947 to 27 November 2013);
+•
+Web of Science (Thomson Reuters, 1970 to 2 December 2013);
+•
+Health Technology Assessment (HTA) Database (Issue 4 of 4,
+2013) on The Cochrane Library;
+•
+Database of Abstracts of Reviews of Eﬀects (DARE) (Issue 4 of 4,
+2013) on The Cochrane Library;
+•
+NHS Economic Evaluation Database (NEED) (Issue 4 of 4, 2013)
+on The Cochrane Library.
+We used medical subject headings (MeSH) or equivalent and text
+word terms. We used the Cochrane sensitivity-maximising RCT
+filter (Lefebvre 2011). We designed searches in accordance with
+the Cochrane Heart Group methods and guidance. The search
+strategies are shown in Appendix 1.
+Searching other resources
+We also checked reference lists of reviews and retrieved articles for
+additional studies.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We 
+searched 
+the 
+metaRegister 
+of 
+controlled 
+trials
+(mRCT) 
+(www.controlled-trials.com/mrct), 
+ClinicalTrials.gov
+(www.clinicaltrials.gov/) and the World Health Organization (WHO)
+International Clinical Trials Registry Platform (ICTRP) search
+portal (apps.who.int/trialsearch/) for ongoing trials (search date
+22 July 2013) and Google Scholar for additional studies. We
+also searched OpenGrey to identify any relevant grey literature
+(www.opengrey.eu/). The search strategies are shown in Appendix
+2.
+We contacted authors where necessary for any additional
+information.
+Data collection and analysis
+Selection of studies
+From the searches, two authors (NF, DT) reviewed the title
+and abstract of each paper and retrieved potentially relevant
+references. Two authors (NF, DT or LH) then independently selected
+studies to be included in the review by using predetermined
+inclusion criteria. In all cases authors resolved disagreements
+about study inclusion by consensus and consulted a third author
+(KR/LH) if disagreements persisted.
+Data extraction and management
+Two authors (NF, LH) independently extracted data using a pre-
+standardised data extraction form. We contacted chief investigators
+to provide additional relevant information where necessary. We
+extracted details of the study design, participant characteristics,
+study setting, intervention (including duration and dose) and
+outcome data (including details of outcome assessment, adverse
+eﬀects and methodological quality (randomisation, blinding
+and attrition)) from each included study. Authors resolved any
+disagreements about extracted data by consensus and consulted a
+third author (KR) if disagreements persisted.
+Assessment of risk of bias in included studies
+We assessed risk of bias by examining the quality of the random
+sequence generation and allocation concealment, description of
+drop-outs and withdrawals (including analysis by intention-to-
+treat), blinding (participants, personnel and outcome assessment)
+and selective outcome reporting (Higgins 2011). We categorised
+risk of bias as 'low', 'unclear' or 'high'. Two authors (NF, LH)
+independently assessed the risk of bias in included studies.
+Measures of treatment eﬀect
+We processed data in accordance with the Cochrane Handbook for
+Systematic Reviews of Interventions (Higgins 2011). For continuous
+outcomes we compared net changes (i.e. intervention group minus
+control group diﬀerences) and calculated a mean diﬀerence (MD)
+and 95% CI for each study.
+Unit of analysis issues
+Studies with multiple intervention groups
+We included studies reporting multiple comparison groups in this
+review. Where this was the case, we used the data for the control
+group for each intervention group comparison and reduced the
+weight assigned to the control group by dividing the control group
+N by the number of intervention groups. However, we found no
+studies with more than one intervention group in this current
+review.
+Cluster-randomised trials
+We included cluster-randomised trials in this review by using the
+unit of randomisation (cluster) as the number of observations.
+Where necessary, we utilised individual level means and standard
+deviations adjusted for clustering together with the number
+of clusters in the denominator, in order to weight the trials
+appropriately. However, we found no cluster-randomised trials in
+this current review.
+Cross-over trials
+We included cross-over trials in this review by using data only from
+the first half as a parallel-group design. We only considered risk
+factor changes (i.e. blood pressure, lipid levels) before patients
+crossed over to the other therapy and where the duration was a
+minimum of three months before cross-over occurred. However,
+we found no cross-over randomised controlled trials in this current
+review.
+Dealing with missing data
+We contacted the authors of studies that met our inclusion criteria if
+missing data were unclear or if data had not been fully reported. We
+captured missing data in the data extraction form and reported this
+in the 'Risk of bias' tables. If a trial collected an outcome measure
+at more than one time point, we used the longest period of follow-
+up where there was also 20% or less loss to follow-up.
+Assessment of heterogeneity
+For each outcome, we conducted tests of heterogeneity using
+the Chi2 test of heterogeneity and the I2 statistic. Where there
+was no heterogeneity we performed a fixed-eﬀect meta-analysis.
+If substantial heterogeneity was detected (50% or greater), we
+looked for possible explanations for this (e.g. participants and
+intervention). If the source of heterogeneity could not be explained,
+we considered the following options: provide a narrative overview
+and not aggregate the studies at all or use a random-eﬀects model
+with appropriate cautious interpretation.
+Assessment of reporting biases
+There were insuﬀicient trials included in the review to date to
+examine the eﬀects of publication bias using funnel plots (Sterne
+2011).
+Data synthesis
+We carried out statistical analysis using The Cochrane
+Collaboration's statistical sofware, Review Manager 2012. We
+entered continuous data as the change in means and standard
+deviations from baseline to follow-up measurements. We were only
+able to combine the results of two trials statistically.
+Subgroup analysis and investigation of heterogeneity
+We stratified results by those taking statins. It was our intention
+to stratify studies by 'dose' of CoQ10 intake and duration of the
+intervention but there were insuﬀicient trials that met the inclusion
+criteria to do this.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Sensitivity analysis
+There were insuﬀicient trials to carry out sensitivity analyses
+excluding studies at high risk of bias.
+R E S U L T S
+Description of studies
+Results of the search
+The searches generated 1348 hits afer duplicates were removed.
+Screening of titles and abstracts identified 96 papers to go forward
+for formal inclusion and exclusion. Of these, six RCTs met the
+inclusion criteria. We also identified five ongoing trials from trial
+registers and there is one trial (five papers) awaiting classification.
+Details of the flow of studies through the review are shown in the
+PRISMA flow diagram in Figure 1.
+ 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram.
+ 
+ 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   (Continued)
+ 
+Included studies
+Details of the methods, participants, intervention, comparison
+group and outcome measures for each of the studies included in
+the review are shown in the Characteristics of included studies.
+We included six trials, with 218 participants randomised. Five trials
+recruited male and female participants (184 randomised). The
+remaining trial did not specify the gender of participants (Bargossi
+1994). Two trials (69 participants randomised) were conducted
+in Japan (Mabuchi 2007; Yamagami 1986). The remaining studies
+were conducted in Seoul, Republic of Korea (Lee 2011), Finland
+(Kaikkonen 2000), Italy (Bargossi 1994), and New Zealand (Young
+2007).
+The duration of the intervention and follow-up periods were similar
+for all trials. More specifically, for three of the trials, intervention
+and follow-up period was defined as 12 weeks (Lee 2011; Yamagami
+1986; Young 2007); three months (Kaikkonen 2000); and 90 days
+(Bargossi 1994). For the remaining trial, the intervention period
+was 12 weeks but follow-up was at 16 weeks (four weeks afer
+withdrawal of CoQ10 intervention) (Mabuchi 2007).
+The dose of CoQ10 supplementation that was used varied from
+100 to 200 mg/day and for four of the trials, participants were
+also taking statin therapy (Bargossi 1994; Kaikkonen 2000; Mabuchi
+2007; Young 2007).
+Baseline CoQ10 status varied by country, being lowest in Seoul,
+Republic of Korea (630 to 650 µg/L) and highest in Italy (10,800 µg/
+L to 12,000 µg/L). The country of recruitment, baseline plasma/
+serum CoQ10 level, dose of CoQ10 supplementation and duration
+of the intervention for each study are shown in Table 1.
+All six trials recruited participants that were at high risk of CVD.
+For example, four of the trials recruited hypercholesteraemic
+participants (Bargossi 1994; Kaikkonen 2000; Mabuchi 2007; Young
+2007), one trial recruited participants with hypertension (Yamagami
+1986), and the remaining trial recruited obese participants (body
+mass index (BMI) ≥ 25 kg/m2) (Lee 2011).
+Details of the trial awaiting assessment are presented in the
+Characteristics of studies awaiting classification table. We are
+awaiting a response for requests for missing data from the author.
+We identified five ongoing trials from trial registers. Details of these
+trials are provided in the Characteristics of ongoing studies table.
+Two of these trials have been completed but are not yet published.
+The first of these looked at CoQ10 supplementation (100 mg orally,
+once daily for three months) or placebo (100 mg, once daily for
+three months) in participants with hypertension and the outcome
+was blood pressure (Mozaﬀari 2011). The second investigated
+the eﬀect of dietary supplementation with coenzyme Q10 (100
+mg taken orally, twice daily for three months) on endothelial
+function (Young 2008). Participants were males with the metabolic
+syndrome who are concurrently on statin treatment. Outcomes
+were markers of cardiovascular risk, systolic and diastolic blood
+pressure and quality of life. The manuscript is currently being
+written for publication.
+Of the remaining three trials, one of them examined the eﬀects of
+CoQ10 supplementation (100 mg three times a day, or 300 mg three
+times a day) or matching placebo for 3.5-month periods (Golomb
+2009). The participants were Gulf War Veterans with chronic health
+problems and the outcome measured was quality of life (subjective
+health; syndrome defining symptoms (fatigue, muscle pain, muscle
+strength; and cognition)). No anticipated end date was provided for
+this trial. We contacted the author for further information but no
+response was received.
+Another ongoing trial is examining CoQ10 supplementation (100
+mg sof gel capsule twice a day for three months) or placebo
+tablets (containing 100 mg of soy oil twice a day for three
+months) in participants with the metabolic syndrome (Usefzadeh
+2012). Outcomes include total cholesterol, HDL-cholesterol, LDL-
+cholesterol, blood pressure and triglycerides. The recruitment
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+status is complete but no anticipated end date was provided for
+this trial. We contacted the author for further information but no
+response was received.
+The final ongoing trial investigates CoQ10 (100 mg twice daily)
+or placebo (twice daily) for 12 weeks in inadequately treated
+hypertensive patients with the metabolic syndrome and the
+outcomes are systolic and diastolic blood pressure (Molyneux
+2008). The recruitment status is closed and follow-up is complete.
+We contacted the author for further information but no response
+was received.
+Excluded studies
+Details and reasons for exclusion for the studies that most closely
+missed the inclusion criteria are presented in the Characteristics
+of excluded studies. The reason for exclusion for the majority
+of studies was their short duration (less than three months).
+Other reasons for exclusion were that no outcomes of interest
+were measured, participants were not healthy, the control was
+not no intervention/placebo, or use of CoQ10 supplementation in
+combination with other micronutrients.
+Short-term studies
+As stated above, the reason for exclusion for the majority of
+studies was that they were short-term (less than three months
+follow-up). We focused on six months or more follow-up (or three
+months where these were lacking) as we were interested in the
+sustained eﬀects of CoQ10, which are most relevant for public
+health interventions.
+Risk of bias in included studies
+Details are provided for each of the included studies in the 'Risk of
+bias' tables in Characteristics of included studies and summaries
+are provided in Figure 2 and Figure 3.
+ 
+Figure 2.   'Risk of bias' graph: authors' judgements about each risk of bias item presented as percentages across all
+included studies.
+ 
+ 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   'Risk of bias' summary: authors' judgements about each risk of bias item for each included study.
+ 
+Allocation
+In all six trials, the methods of random sequence generation and
+allocation concealment were not stated and so we regarded them
+as being at unclear risk of bias.
+Blinding
+Five of the six trials stated they were 'double-blind' (participants
+and personnel were blinded to treatment allocation) and we
+regarded them as low risk of bias, while one trial did not state if it
+had used blinding (Bargossi 1994). In all six trials no details were
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+provided as to whether outcome assessors were blinded and so we
+regarded them as being at unclear risk of bias.
+Incomplete outcome data
+We judged one of the trials as high risk as 30% of participants
+were lost to follow-up overall and no intention-to-treat analysis
+was carried out (Lee 2011). We judged one study as low risk as
+all participants completed the trial (Mabuchi 2007). We judged
+all the remaining four trials as unclear risk of bias as insuﬀicient
+information was provided; three of these trials provided no
+information on loss to follow-up (Kaikkonen 2000; Yamagami 1986;
+Young 2007), and the remaining study provided some loss to follow-
+up information but it was unclear which arm these participants
+were from (Bargossi 1994).
+Selective reporting
+We judged one of the trials as high risk as outcome data for LDL-
+cholesterol, HDL-cholesterol and triglycerides were not reported
+fully (Bargossi 1994). We judged one study as unclear as there was
+insuﬀicient information to judge selective reporting (Yamagami
+1986). We judged all the remaining four trials at low risk of bias as all
+pre-specified outcomes were reported (Kaikkonen 2000; Lee 2011;
+Mabuchi 2007; Young 2007).
+Other potential sources of bias
+For all six trials, there was insuﬀicient information to judge the risk
+of bias from other potential sources and so we regarded them as
+being at unclear risk of bias
+Eﬀects of interventions
+Primary outcomes
+Cardiovascular and all-cause mortality and non-fatal
+cardiovascular events
+None of the included studies provided data for any of our primary
+outcomes, including cardiovascular and all-cause mortality and
+non-fatal cardiovascular events.
+Secondary outcomes
+Cardiovascular risk factors
+CoQ10 only intervention without concurrent use of statins
+Two trials examined the eﬀect of CoQ10 on blood pressure (Lee
+2011; Yamagami 1986). For systolic blood pressure (SBP), we found
+significant heterogeneity (I2 = 78%) between the trials and so
+we did not perform a meta-analysis (Analysis 1.1). In one of the
+trials (Lee 2011), CoQ10 supplementation had no eﬀect on systolic
+blood pressure (mean diﬀerence (MD) -1.90 mmHg, 95% confidence
+interval (CI) -13.17 to 9.37). In the other trial (Yamagami 1986), there
+was a statistically significant reduction in systolic blood pressure
+(MD -15.00 mmHg, 95% CI -19.06 to -10.94).
+For diastolic blood pressure (DBP) we observed moderate
+heterogeneity between the studies (I2 = 35%) so we performed a
+random-eﬀects meta-analysis. There was no evidence of eﬀect of
+CoQ10 supplementation in the pooled analysis of these two trials
+(71 participants randomised, MD -1.62 mmHg, 95% CI -5.20 to 1.96)
+(Analysis 1.2).
+Only one trial looked at the eﬀect of CoQ10 on lipids (total
+cholesterol, HDL-cholesterol and triglycerides) (Lee 2011). The trial
+showed no evidence of eﬀect of CoQ10 supplementation on total
+cholesterol (MD 0.30 mmol/L, 95% CI -0.10 to 0.70), HDL-cholesterol
+(MD 0.02 mmol/L, 95% CI -0.13 to 0.17) or triglycerides (MD 0.05
+mmol/L, 95% CI -0.42 to 0.52).
+None of the trials reported type 2 diabetes as an outcome as a major
+risk factor for cardiovascular disease (CVD).
+CoQ10 supplementation in patients on statin therapy
+Four trials looked at the eﬀects of CoQ10 supplementation in
+patients on statin therapy and we have analysed these separately.
+These studies met our inclusion criteria as the outcomes were
+lipid levels (total cholesterol, LDL-cholesterol, HDL-cholesterol and
+triglycerides), but we have not meta-analysed them and have
+described them narratively below for completeness as these trials
+are not contributory to the question posed of the eﬀects of CoQ10
+on lipid levels, as statin therapy is designed to reduce lipid levels.
+In addition, for three of the trials the main focus was on statin
+tolerance and statin-associated myalgia (Young 2007), to evaluate
+whether statins modify blood levels of CoQ10 (Bargossi 1994), to
+assess whether there is an interaction between CoQ10 and vitamin
+E (in a combined supplementation) in the antioxidative eﬀiciency
+and in the change of plasma concentrations, and whether CoQ10
+would increase the antioxidative resistance of atherogenic plasma
+lipoproteins (Kaikkonen 2000).
+In one of these trials (Young 2007), there was no significant
+diﬀerence in the change in lipid levels between the groups of
+patients treated with simvastatin alone (increasing dose from 10 to
+40 mg/day), or simvastatin (increasing dose from 10 to 40 mg/day)
+plus CoQ10 (200 mg/day) for 12 weeks. Total cholesterol: (CoQ10
++ simvastatin (median, interquartile range): -1.5 mmol/L (-2.4 to
+-0.7); simvastatin alone (median, interquartile range): -1.6 mmol/L
+(-2.4 to -0.9); P value = 0.57)). LDL-cholesterol: (CoQ10 + simvastatin
+(median, interquartile range): -1.7 mmol/L (-2.4 to -1.0); simvastatin
+alone (median, interquartile range): -1.3 mmol/L (-2.1 to -0.9);
+P value = 0.53)). HDL-cholesterol: (CoQ10 + simvastatin (median,
+interquartile range): 0.01 mmol/L (-0.08 to 0.15); simvastatin alone
+(median, interquartile range): -0.02 mmol/L (-0.09 to 0.15); P value
+= 0.65). Triglycerides (CoQ10 + simvastatin (median, interquartile
+range): -0.4 mmol/L (-0.6 to 0.3); simvastatin alone (median,
+interquartile range): -0.3 mmol/L (-0.6 to 0.03); P value = 0.90).
+A similar trial looked at groups of patients treated with simvastatin
+alone (20 mg/day), or simvastatin (20 mg/day) plus CoQ10 (100 mg/
+day) for three months (Bargossi 1994). The complete outcome data
+were not available, however, the author stated that simultaneous
+administration of CoQ10 did not significantly influence total
+cholesterol, LDL-cholesterol, HDL-cholesterol, triglycerides or
+systolic blood pressure levels between the two groups.
+One trial looked at groups of patients treated with atorvastatin
+(10 mg/day), or atorvastatin (10 mg/day) plus CoQ10 (100 mg/day)
+for 12 weeks. Treatment with atorvastatin plus CoQ10 decreased
+mean (± standard deviation (SD)) total cholesterol by 30% (repeated
+measurement ANOVA, P value < 0.0001), while in the atorvastatin
+only group by 36% (P value < 0.0001) at study week 12, and
+there were no significant diﬀerences between the two groups.
+LDL-cholesterol levels in the atorvastatin plus CoQ10 group and
+the atorvastatin only groups decreased by 43% and by 49% at
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+study week 12, respectively (P value = 0.0001 in both groups), and
+there were no diﬀerences between the groups. The HDL-cholesterol
+levels increased in the atorvastatin plus CoQ10 group but not in the
+atorvastatin only groups (repeated measurement ANOVA, P value
+= 0.0033 and P value = 0.0583, respectively), but there were no
+significant diﬀerences between the groups. The serum triglyceride
+levels decreased significantly in both groups, but there were no
+significant diﬀerences between the groups (Mabuchi 2007).
+The final study was a four-arm trial (α-tocopherol, CoQ10, CoQ10 +
+α-tocopherol, and placebo) with patients on statin therapy (statin
+and dose not stated) (Kaikkonen 2000). We were interested in
+the CoQ10 and placebo arms only. Afer three months of CoQ10
+supplementation (200 mg/day), mean changes (± standard error
+(SE)) in lipid levels were as follows: total cholesterol (CoQ10: 0.33
+mmol/L ± 0.14; placebo: -0.43 mmol/L ± 0.19); LDL-cholesterol
+(CoQ10: 0.12 mmol/L ± 0.12; placebo: -0.45 mmol/L ± 0.15); HDL-
+cholesterol (CoQ10: 0.21 mmol/L ± 0.04; placebo: 0.09 mmol/L ±
+0.06) and triglycerides (CoQ10: -0.30 mmol/L ± 0.14; placebo: -0.54
+mmol/L ± 0.22). The trial showed a significant increase in total
+and LDL-cholesterol at three months across the four arms of the
+trial, however, the way in which the data were presented meant
+that we were unable to determine if there was any significant
+diﬀerence between the CoQ10 and placebo arms only. In contrast,
+there was no significant diﬀerence in the change in HDL-cholesterol
+and triglycerides afer three months between the four arms of the
+trial.
+Quality of life
+None of the included studies provided data on quality of life.
+Adverse events
+None of the included studies provided data on adverse events.
+Costs
+None of the included studies provided data on costs.
+D I S C U S S I O N
+Summary of main results
+We identified six trials that randomised 218 participants in studies
+of three or more months duration from the 1348 papers screened.
+Four of these studies included patients on statin therapy and we
+analysed these separately.
+None of the trials measured clinical events or mortality as they were
+small, short-term and conducted in relatively healthy participants.
+Only two trials where patients were not on statin therapy
+contributed to the main analysis. There was a reduction in systolic
+blood pressure in one of the two trials, with no evidence of eﬀect
+in the other, and no evidence of eﬀect on diastolic blood pressure
+in the pooled analysis of both trials. Only one trial examined the
+eﬀects of coenzyme Q10 (CoQ10) on lipid levels and found no
+evidence of eﬀect of CoQ10 supplementation on total cholesterol,
+high-density lipoprotein (HDL)-cholesterol or triglycerides.
+Of the four trials that investigated CoQ10 supplementation in
+patients on statin therapy, three of them showed that simultaneous
+administration of CoQ10 did not significantly influence lipid levels
+or systolic blood pressure levels between the two groups. The
+fourth trial showed a significant increase in the change in total and
+low-density lipoprotein (LDL)-cholesterol at three months across
+the four arms of the trial, however, the way in which the data were
+presented meant that we were unable to determine if there was any
+significant diﬀerence between the CoQ10 and placebo arms only. In
+contrast, there was no significant diﬀerence in the change in HDL-
+cholesterol and triglycerides afer three months between the four
+arms of this trial.
+None of the studies investigated our other secondary outcomes,
+adverse eﬀects, quality of life or costs.
+Overall completeness and applicability of evidence
+This review included adult participants who were at varying levels
+of cardiovascular disease (CVD) risk and included both free-living
+men and women. None of the six included studies examined our
+primary outcomes as trials were small, relatively short-term and
+participants were predominantly healthy. We were also not able to
+examine the eﬀects of 'dose' or duration of CoQ10 supplementation
+due to the limited number of included trials.
+The eﬀectiveness of CoQ10 could not be rigorously assessed as
+only two small trials including patients without statin therapy (71
+participants) examined cardiovascular risk factors at three months
+(Lee 2011; Yamagami 1986).
+The remaining four trials included patients on statin therapy. Whilst
+these trials met our inclusion criteria, their outcomes were lipid
+levels, which are aﬀected by statin therapy alone. We analysed
+these trials separately and they did not contribute to our main
+findings.
+The five ongoing trials will add to the evidence base.
+Quality of the evidence
+The studies included in this review were at some risk of bias and,
+as such, the results should be treated with caution. In all six of
+the included trials the methods of random sequence generation
+and allocation concealment were not stated. Five of the six studies
+stated that they were double-blind and in one trial, blinding of
+participants and personnel was not stated. Risk of bias related to
+incomplete outcome data was unclear in four studies, low in one
+study and high in one study. We considered bias due to selective
+outcome reporting to be low in four studies, high in one study
+and unclear in one study. For all studies there was insuﬀicient
+information to judge the risk of other biases.
+In addition, small study bias is a risk in this review as most trials
+were very small and there were also inconsistencies between trials.
+We were unable to examine the eﬀects of publication bias in funnel
+plots due to the limited number of included studies. However, small
+studies are ofen less methodologically robust, more likely to be
+conducted in selected populations and have been shown to report
+larger beneficial eﬀects than larger trials (Nüesch 2010; Sterne 2000;
+Sterne 2001). The results of the review need to be interpreted with
+this in mind.
+Potential biases in the review process
+We conducted a comprehensive search across major databases for
+interventions involving CoQ10. We also screened systematic review
+reference lists and contacted authors when necessary. Two authors
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+independently carried out all screening, inclusion and exclusion
+and data abstraction.
+Our decision to restrict this review to interventions only
+investigating CoQ10 as a single supplement avoided the
+potential confounding eﬀects of other nutritional and behavioural
+interventions on our outcomes, e.g. those involving additional
+micronutrient supplements, diﬀerent dietary interventions or
+interventions that focused on weight loss or exercise. However, this
+limited the number of trials eligible for inclusion. In addition, the
+small number of trials on which this review is based, limitations in
+reporting methodological quality, an unclear risk of bias in most
+trials and few or no data for primary or secondary outcomes mean
+that caution should be used when interpreting the results of this
+review.
+Agreements and disagreements with other studies or
+reviews
+There are three systematic reviews and meta-analyses that focus
+on the eﬀect of CoQ10 on hypertension (Ho 2009; Rosenfeldt
+2003; Rosenfeldt 2007). One review concluded that CoQ10 has the
+potential in hypertensive patients to lower systolic blood pressure
+by up to 17 mmHg and diastolic blood pressure by up to 10 mmHg
+(Rosenfeldt 2007). The most recent meta-analysis concluded it was
+uncertain whether or not CoQ10 reduces blood pressure in the long-
+term management of primary hypertension due to the possible
+unreliability of some of the included studies (Ho 2009). Our review
+produced few data with which to compare to previous studies
+and no conclusions can be drawn at present. Finally, a significant
+reduction in cardiovascular mortality has been observed in a recent
+trial using a combined CoQ10-selenium supplementation, over
+a five-year follow-up, in a group of elderly Swedish individuals
+(Alehagen 2013). However, the eﬀects seen could be due to either
+CoQ10, selenium or a combination of the two micronutrients.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+Six trials met the inclusion criteria for our review and none reported
+our primary outcomes. Furthermore, only two trials were included
+with patients not on statin therapy, and just one of these small
+trials found a significant reduction in systolic blood pressure. The
+review found no evidence of eﬀect of coenzyme Q10 (CoQ10)
+supplementation on reducing lipid levels in the one small trial
+reporting this. Due to the small number of trials included, with
+a small number of participants randomised, short follow-up and
+trials at some risk of bias, the results should be treated with caution.
+High quality trials are needed to examine the eﬀects of CoQ10
+supplementation on cardiovascular risk factors and events over
+a longer period of time. Given the very limited evidence to date,
+this review does not make any recommendations about changing
+practice.
+Implications for research
+There is a lack of randomised controlled trials looking at the
+eﬀects of CoQ10 supplementation for the primary prevention of
+cardiovascular disease. The completion of the five ongoing trials
+will add to the evidence base. We found no trials reporting our
+primary outcome, cardiovascular disease events, or the secondary
+outcomes adverse eﬀects, health-related quality of life or costs.
+A C K N O W L E D G E M E N T S
+We are grateful to Nicole Martin for conducting the searches for
+this review. We would like to acknowledge Dr Jo Young and Dr
+Hassan Mozaﬀari-Khosravi for providing additional data and/or
+information on their trials (Mozaﬀari 2011; Young 2008; Young
+2007). We would also like to acknowledge Dr Noriko Cable, Dr
+Mariana Dyakova, Dr Thomas Hamborg and Dr William Tigbe for
+their help with translating articles.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Bargossi 1994 {published data only}
+Bargossi AM, Grossi G, Fiorella PL, Gaddi A, Di Giuliol R,
+Battino M. Exogenous CoQ10 supplementation prevents
+plasma ubiquinone reduction induced by HMG-CoA reductase
+inhibitors. Molecular Aspects of Medicine 1994;15 Suppl:s187-93.
+Kaikkonen 2000 {published data only}
+Kaikkonen J, Nyyssonen K, Tomasi A, Iannone A, Tuomainen TP,
+Porkkala-Sarataho E, et al. Antioxidative eﬀicacy of parallel
+and combined supplementation with coenzyme Q10 and
+d-α-tocopherol in mildly hypercholesterolemic subjects: a
+randomised placebo-controlled clinical study. Free Radical
+Research 2000;33:329-40.
+Lee 2011 {published data only}
+Lee YJ, Cho WJ, Kim JK, Lee DC. Eﬀects of coenzyme Q10 on
+arterial stiﬀness, metabolic parameters, and fatigue in obese
+subjects: a double-blind randomised controlled study. Journal
+of Medicinal Food 2011;14(4):386-90.
+Mabuchi 2007 {published data only}
+Mabuchi H, Nohara A, Kobayashi J, Kawashiri M, Katsuda S,
+Inazu A, et al. Eﬀects of CoQ10 supplementation on plasma
+lipoprotein lipid, CoQ10 and liver and muscle enzyme levels
+in hypercholesterolemic patients treated with atorvastatin: a
+randomized double-blind study. Atherosclerosis 2007;195:e182–
+9.
+Yamagami 1986 {published data only}
+Yamagami T, Takagi M, Akagami H, Kubo H, Toyama S,
+Okamoto T, et al. Eﬀect of coenzyme Q10 on essential
+hypertension, a double blind controlled study. Biomedical
+and Clinical Aspects of Coenzyme Q10: Proceedings of the
+Fifh International Symposium on the Biomedical and Clinical
+Aspects of Coenzyme Q10. 1986; Vol. 5:337-43.
+Young 2007 {published data only}
+Young JM, Florkowski CM, Molyneux SL, McEwan RG,
+Frampton CM, Georgeb PM, et al. Eﬀect of coenzyme Q10
+supplementation on simvastatin-induced myalgia. American
+Journal of Cardiology 2007;100:1400–3.
+ 
+References to studies excluded from this review
+Bonetti 2000 {published data only}
+Bonetti A, Solito F, Carmosino G, Bargossi AM, Fiorella PL. Eﬀect
+of ubidecarenone oral treatment on aerobic power in middle-
+aged trained subjects. Journal of Sports Medicine & Physical
+Fitness 2000;40(1):51-7.
+Bookstaver 2012 {published data only}
+Bookstaver DA, Burkhalter NA, Hatzigeorgiou C. Eﬀect of
+coenzyme Q10 supplementation on statin-induced myalgias.
+American Journal of Cardiology 2012;110(4):526-9.
+Burke 2001 {published data only}
+Burke BE, Neuenschwander R, Olson RD. Randomized,
+double-blind, placebo-controlled trial of coenzyme Q10 in
+isolated systolic hypertension. Southern Medical Journal
+2001;94(11):1112-7.
+Caso 2007 {published data only}
+Caso G, Kelly P, McNurlan MA, Lawson WE. Eﬀect of coenzyme
+q10 on myopathic symptoms in patients treated with statins.
+American Journal of Cardiology 2007;99(10):1409-12.
+Cooke 2008 {published data only}
+Cooke M, Iosia M, Buford T, Shelmadine B, Hudson G,
+Kerksick C, et al. Eﬀects of acute and 14-day coenzyme Q10
+supplementation on exercise performance in both trained and
+untrained individuals. Journal of the International Society of
+Sports Nutrition 2008;5:8.
+Delgado-Casado 2011 {published data only}
+Delgado-Casado N, Yubero-Serrano EM, Perez-Martinez P,
+Tasset-Cuevas I, Santos-Gonzalez M, Delgado-Lista J, et al. The
+supplementation of coenzyme Q10 to a Mediterranean diet
+improves antioxidant systems and reduces cellular oxidation in
+elderly subjects. Atherosclerosis Supplements 2010;11(2):91.
+Digiesi 1990 {published data only}
+Digiesi V, Cantini F, Brodbeck B. Eﬀect of coenzyme Q10 on
+essential arterial hypertension. Current Therapeutic Research -
+Clinical and Experimental 1990;47(5):841-5.
+Gokbel 2010 {published data only}
+Gokbel H, Gergerlioglu HS, Okudan N, Gul I, Buyukbas S,
+Belviranli M. Eﬀects of coenzyme Q10 supplementation on
+plasma adiponectin, interleukin-6, and tumor necrosis factor-
+alpha levels in men. Journal of Medicinal Food 2010;13(1):216-8.
+Gul 2011 {published data only}
+Gul I, Gokbel H, Belviranli M, Okudan N, Buyukbas S, Basarali K.
+Oxidative stress and antioxidant defense in plasma afer
+repeated bouts of supramaximal exercise: the eﬀect of
+coenzyme Q10. Journal of Sports Medicine and Physical Fitness
+2011;51(2):305-12.
+Kaikkonen 1997 {published data only}
+Kaikkonen J, Nyyssonen K, Porkkala-Sarataho E, Poulsen HE,
+Metsa-Ketela T, Hayn M, et al. Eﬀect of oral coenzyme q10
+supplementation on the oxidation resistance of human VLDL
++LDL fraction: absorption and antioxidative properties of oil
+and granule-based preparations. Free Radical Biology and
+Medicine 1997;22(7):1195-202.
+Kelly 2005 {published data only}
+Kelly P, Vasu S, Getato M, McNurlan M, Lawson WE. Coenzyme
+Q10 improves myopathic pain in statin treated patients
+(abstract). Journal of the American College of Cardiology
+2005;45:3A.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Kuettner 2005 {published data only}
+Kuettner A, Pieper A, Koch J, Enzmann F, Schroeder S. Influence
+of coenzyme Q10 and cerivastatin on the flow-mediated
+vasodilation of the brachial artery: results of the ENDOTACT
+study. International Journal of Cardiology 2005;98(3):413-9.
+Malm 1997 {published data only}
+Malm C, Svensson M, Ekblom B, Sjodin B. Eﬀects of
+ubiquinone-10 supplementation and high intensity training
+on physical performance in humans. Acta Physiologica
+Scandinavica 1997;161(3):379-84.
+Nuku 2007 {published data only}
+Nuku K, Matsuoka Y, Yamagishi T, Miyawaki H, Sato K. Safety
+assessment of PureSorb-Q40 in healthy subjects and serum
+coenzyme Q10 level in excessive dosing. Journal of Nutritional
+Science & Vitaminology 2007;53(3):198-206.
+Nukui 2008 {published data only}
+Nukui K, Yamagishi T, Miyawaki H, Kettawan A, Okamoto T,
+Belardinelli R, et al. Blood CoQ10 levels and safety profile afer
+single-dose or chronic administration of PureSorb-Q40: animal
+and human studies. BioFactors 2008;32(1-4):209-19.
+Ostman 2012 {published data only}
+Ostman B, Sjodin A, Michaelsson K, Byberg L. Coenzyme Q10
+supplementation and exercise-induced oxidative stress in
+humans. Nutrition 2012;28(4):403-17.
+Raitakari 2000 {published data only}
+Raitakari OT, McCredie RJ, Witting P, Griﬀiths KA, Letters J,
+Sullivan D, et al. Coenzyme Q improves LDL resistance to ex
+vivo oxidation but does not enhance endothelial function in
+hypercholesterolemic young adults. Free Radical Biology &
+Medicine 2000;28(7):1100-5.
+Shah 2007 {published data only}
+Shah SA, Sander S, Cios D, Lipeika J, Kluger J, White CM.
+Electrocardiographic and hemodynamic eﬀects of coenzyme
+Q10 in healthy individuals: a double-blind, randomized
+controlled trial. Annals of Pharmacotherapy 2007;41(3):420-5.
+Shojaei 2011 {published data only}
+Shojaei M, Djalali M, Khatami M, Siassi F, Eshraghian M.
+Eﬀects of carnitine and coenzyme Q10 on lipid profile and
+serum levels of lipoprotein(a) in maintenance hemodialysis
+patients on statin therapy. Iranian Journal of Kidney Diseases
+2011;5(2):114-8.
+Svensson 1995 {published data only}
+Svensson M, Malm C, Tonkonogi M, Ekblom B, Sjodin B,
+Sahlin K. Eﬀect of Q10 supplementation on tissue Q10
+levels and adenine nucleotide catabolism during high-
+intensity exercise. International Journal of Sport Nutrition
+1999;9(2):166-80.
+Weston 1997 {published data only}
+Weston SB, Zhou S, Weatherby RP, Robson SJ. Does exogenous
+coenzyme Q10 aﬀect aerobic capacity in endurance athletes?.
+International Journal of Sport Nutrition 1997;7(3):197-206.
+Ylikoski 1997 {published data only}
+Ylikoski T, Piirainen J, Hanninen O, Penttinen J. The eﬀect of
+coenzyme Q10 on the exercise performance of cross-country
+skiers. Molecular Aspects of Medicine 1997;18 Suppl:s283-90.
+Young 2012 {published data only}
+Young JM, Florkowski CM, Molyneux SL, McEwan RG,
+Frampton CM, Nicholls MG, et al. A randomized, double-blind,
+placebo-controlled crossover study of coenzyme Q10 therapy in
+hypertensive patients with the metabolic syndrome. American
+Journal of Hypertension 2012;25(2):261-70.
+Zheng 2008 {published data only}
+Zheng A, Moritani T. Influence of CoQ10 on autonomic nervous
+activity and energy metabolism during exercise in healthy
+subjects. Journal of Nutritional Science & Vitaminology
+2008;54(4):286-90.
+Zita 2003 {published data only}
+Zita C, Overvad K, Mortensen SA, Sindberg CD, Moesgaard S,
+Hunter DA. Serum coenzyme Q(10) concentrations in healthy
+men supplemented with 30 mg or 100 mg coenzyme Q(10)
+for two months in a randomised controlled study. BioFactors
+2003;18(1-4):185-93.
+ 
+References to studies awaiting assessment
+Fedacko 2013 {published data only}
+*  Fedacko J, Pella D, Fedackova P, Hänninen O, Tuomainen P,
+Jarcuska P, et al. Coenzyme Q10 and selenium in statin-
+associated myopathy treatment. Canadian Journal of
+Physiology and Pharmacology 2013;91:165-70.
+Fedacko J, Pella D, Rybar R, Fedackova P, Dudova D. Coenzyme
+Q10 and selenium in statin-associated myopathy treatment.
+Results of randomized double-blind clinical study. European
+Heart Journal 2009;30:234.
+Fedacko J, Pella D, Rybar R, Fedackova P, Jarcuska P, Vargova V.
+Influence of Coenzyme Q10 on lef ventricular diastolic function
+in statin treated patients. 14th World Congress on Clinical
+Nutrition and 5th International Congress on Cardiovascular
+Diseases. 40128 Bologna: Medimond S R L, 2009.
+Fedacko J, Pella D, Rybar R, Fedackova P, Mechirova V.
+Coenzyme Q10 and selenium supplementation in patients
+with statin-associated myopathy. Atherosclerosis Supplements
+2009;10:2.
+Fedacko J, Pella D, Rybar R, Lopuchovsky T, Tuomainen P,
+Merkovska L, et al. The role of selenium supplementation on
+top of coenzyme Q10 in statins treated patients with possible
+diastolic dysfunction of lef ventricular. European Heart Journal
+2012;33:613.
+ 
+References to ongoing studies
+Golomb 2009 {unpublished data only}
+Golomb BA. Q10 for Gulf War Veterans (GULF). NCT01011348:
+http://clinicaltrials.gov/show/NCT01011348(accessed 22 July
+2013).
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Molyneux 2008 {unpublished data only}
+Molyneux S. A double-blind, randomised, placebo
+controlled, 12-week cross-over study to assess the eﬀect
+of Coenzyme Q10 treatment on 24hr mean ambulatory
+systolic and diastolic blood pressure in inadequately
+treated hypertensive patients with the metabolic syndrome.
+ACTRN12611000241932: http://apps.who.int/trialsearch/
+trial.aspx?trialid=ACTRN12611000241932 (accessed 22 July
+2013).
+Mozaﬀari 2011 {unpublished data only}
+Mozaﬀari H, Mohammadi Zarchi SM. The study of coenzyme
+Q10 supplementation on blood pressure, inflammation
+factors and adiponectin in hypertensive patients.
+IRCT201103086002N1: http://apps.who.int/trialsearch/
+trial.aspx?trialid=IRCT201103086002N1 (accessed 22 July 2013).
+Usefzadeh 2012 {unpublished data only}
+Usefzadeh G, Najarzadeh A. Eﬀect of coenzyme Q10
+Supplementation on Metabolic Syndrome Parameters,
+lipid peroxidation, hs-CRP and homocysteine in patients
+with metabolic syndrome. IRCT2012101311092N2:
+http://apps.who.int/trialsearch/trial.aspx?
+trialid=IRCT2012101311092N2 (accessed 22 July 2013).
+Young 2008 {unpublished data only}
+Young J. Randomised, double blind, placebo controlled, cross
+over study to investigate the eﬀect of dietary supplementation
+with coenzyme Q10 on endothelial function in males with the
+metabolic syndrome who are concurrently on statin treatment.
+ACTRN12609000232235: http://apps.who.int/trialsearch/
+trial.aspx?trialid=ACTRN12609000232235 (accessed 22 July
+2013).
+ 
+Additional references
+Alehagen 2013
+Alehagen U, Johansson P, Björnstedt M, Rosén A, Dahlström U.
+Cardiovascular mortality and N-terminal-proBNP reduced afer
+combined selenium and coenzyme Q10 supplementation: a 5-
+year prospective randomized double-blind placebo-controlled
+trial among elderly Swedish citizens. International Journal of
+Cardiology 2013;167:1860-6.
+Begg 2007
+Begg S, Vos T, Barker B, Stevenson C, Stanley L, Lopez A. The
+Burden of Disease and Injury in Australia 2003. Canberra:
+Australian Institute of Health and Welfare, 2007. [Cat. no. PHE
+82]
+BHF 2012
+British Heart Foundation. Cardiovascular Disease. 2012. http://
+www.bhf.org.uk/heart-health/conditions/cardiovascular-
+disease.aspx (accessed April 2012).
+Caso 2007
+Caso G, Kelly P, McNurlan MA, Lawson WE. Eﬀect of coenzyme
+q10 on myopathic symptoms in patients treated with statins.
+American Journal of Cardiology 2007;99(10):1409-12.
+Folkers 1990
+Folkers K, Langsjoen P, Willis R, Richardson P, Xia LJ, Ye CQ, et al.
+Lovastatin decreases coenzyme Q levels in humans. Proceedings
+of the National Academy of Sciences of the United States of
+America 1990;87:8931-4.
+Gao 2012
+Gao L, Mao Q, Cao J, Wang Y, Zhou X, Fan L. Eﬀects of coenzyme
+Q10 on vascular endothelial function in humans: a meta-
+analysis of randomized controlled trials. Atherosclerosis
+2012;221(2):311-6.
+He 2011
+He F, Burnier M, MacGregor G. Nutrition in cardiovascular
+disease: salt in hypertension and heart failure. European Heart
+Journal 2011;32:3073-80.
+Higgins 2011
+Higgins JPT, Green S (editors). Cochrane Handbook for
+Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. The Cochrane Collaboration, 2011. Available from
+www.cochrane-handbook.org.
+Ho 2009
+Ho MJ, Bellusci A, Wright JM. Blood pressure lowering
+eﬀicacy of coenzyme Q10 for primary hypertension.
+Cochrane Database of Systematic Reviews 2009, Issue 4. [DOI:
+10.1002/14651858.CD007435.pub2]
+Hofman-Bang 1995
+Hofman-Bang C, Rehnquist N, Swedberg K, Wiklund I, Astrom H.
+Coenzyme Q10 as an adjunctive in the treatment of chronic
+congestive heart failure. The Q10 study group. Journal of
+Cardiac Failure 1995;1:101-7.
+Ignarro 1989
+Ignarro LJ. Biological actions and properties of endothelium-
+derived nitric oxide formed and released from artery and vein.
+Circulation Research 1989;65:1-21.
+Kato 1990
+Kato T, Yoneda S. Reduction in blood viscosity by treatment
+with coenzyme Q10 in patients with ischemic heart disease.
+International Journal of Clinical Pharmacology, Therapy and
+Toxicology 1990;28(3):123-6.
+Kendler 2006
+Kendler BS. Supplemental conditionally essential nutrients
+in cardiovascular disease therapy. Journal of Cardiovascular
+Nursing 2006;21(1):9-16.
+Kumar 2009
+Kumar A, Kaur H, Devi P, Mohan V. Role of coenzyme Q10
+(CoQ10) in cardiac disease, hypertension and Meniere-like
+syndrome. Pharmacology and Therapeutics 2009;124(3):259-68.
+Langsjoen 1985
+Langsjoen PH, Vadhanavikit S, Folkers K. Response of patients
+in classes III and IV of cardiomyopathy to therapy in a blind
+and crossover trial with coenzyme Q10. Proceedings of the
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+National Academy of Sciences of the United States of America
+1985;82:4240-4.
+Langsjoen 1990
+Langsjoen PH. A six-year clinical study of therapy of
+cardiomyopathy with coenzyme Q10. International Journal of
+Tissue Reactions 1990;12(3):169-71.
+Lefebvre 2011
+Lefebvre C, Manheimer E, Glanville J. Chapter 6: Searching for
+studies. In: Higgins JPT, Green S (editors). Cochrane Handbook
+for Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011], The Cochrane Collaboration, 2011. Available from
+www.cochrane-handbook.org.
+Littarru 1972
+Littarru GP, Ho L, Folkers K. Deficiency of coenzyme Q10 in
+human heart disease. Part I. International Journal for Vitamin
+and Nutrition Research 1972;42:291-305.
+Mackay 2004
+Mackay J, Manesh GA. The Atlas of Heart Disease and Stroke.
+Geneva: World Health Organization, 2004.
+McCarty 1999
+McCarty MF. Coenzyme Q versus hypertension: does CoQ
+decrease endothelial superoxide generation?. Medical
+Hypotheses 1999;53(4):300-4.
+Mohr 1992
+Mohr D, Bowry VW, Stocker R. Dietary supplementation with
+coenzyme Q10 results in increased levels of ubiquinol-10 within
+circulating lipoproteins and increased resistance of human
+low-density lipoprotein to the initiation of lipid peroxidation.
+Biochimica et Biophysica Acta 1992;1126(3):247-54.
+Morisco 1993
+Morisco C, Trimarco B, Condorelli M. Eﬀect of coenzyme Q10
+therapy in patients with congestive heart failure: a long-
+term, multicentre randomised study. The Clinical Investigator
+1993;71(8 Suppl):S134-6.
+NHS 2010
+National Health Service. Atherosclerosis. 2010. http://
+www.nhs.uk/conditions/Atherosclerosis/Pages/
+Introduction.aspx#commentCountLink (accessed April 2012).
+Niklowitz 2007
+Niklowitz P, Sonnenschein A, Janetzky B, Andler W, Menke T.
+Enrichment of coenzyme Q10 in plasma and blood cells:
+defense against oxidative damage. International Journal of
+Biological Sciences 2007;3(4):257-62.
+Nüesch 2010
+Nüesch E, Trelle S, Reichenbach S, Rutjes AW, Tschannen B,
+Altman DG, et al. Small study eﬀects in meta-analyses
+of osteoarthritis trials: meta-epidemiological study. BMJ
+2010;341:c3515.
+Review Manager 2012 [Computer program]
+The Nordic Cochrane Centre, The Cochrane Collaboration.
+Review Manager (RevMan). Version 5.2. Copenhagen: The
+Nordic Cochrane Centre, The Cochrane Collaboration, 2012.
+Rosenfeldt 2003
+Rosenfeldt F, Hilton D, Pepe S, Krum H. Systematic review of
+eﬀect of coenzyme Q10 in physical exercise, hypertension and
+heart failure. Biofactors 2003;18(1-4):91-100.
+Rosenfeldt 2007
+Rosenfeldt FL, Haas SJ, Krum H, Hadj A, Ng K, Leong J-Y, et
+al. Coenzyme Q10 in the treatment of hypertension: a meta-
+analysis of the clinical trials. Journal of Human Hypertension
+2007;21:297-306.
+Sander 2006
+Sander S, Coleman CI, Patel AA, Kluger J, White CM. The impact
+of coenzyme Q10 on systolic function in patients with chronic
+heart failure. Journal of Cardiac Failure 2006;12(6):464-72.
+Schaars 2008
+Schaars CF, Stalenhoef AF. Eﬀects of ubiquinone (coenzyme
+Q10) on myopathy in statin users. Current Opinion in Lipidology
+2008;19:553-7.
+Shekelle 2003
+Shekelle P, Morton S, Hardy ML. Eﬀect of supplemental
+antioxidants vitamin C, vitamin E, and coenzyme Q10 for the
+prevention and treatment of cardiovascular disease. Evidence
+Report/Technology Assessment (Summary) 2003;83:1-3.
+Siri-Tarino 2010
+Siri-Tarino P, Sun Q, Hu F, Krauss R. Saturated fat, carbohydrate,
+and cardiovascular disease. American Journal of Clinical
+Nutrition 2010;91:502-9.
+Soja 1997
+Soja AM, Mortensen SA. Treatment of congestive heart failure
+with coenzyme Q10 illuminated by meta-analyses of clinical
+trials. Molecular Aspects of Medicine 1997;18 Suppl:S159-68.
+Sterne 2000
+Sterne JA, Gavaghan D, Egger M. Publication and related bias in
+meta-analysis: power of statistical tests and prevalence in the
+literature. Journal of Clinical Epidemiology 2000;53:1119-29.
+Sterne 2001
+Sterne JA, Egger M, Smith GD. Systematic reviews in health care:
+investigating and dealing with publication and other biases in
+meta analysis. BMJ 2001;323:101-5.
+Sterne 2011
+Sterne JAC, Egger M, Moher D. Chapter 10: Addressing reporting
+biases. In: Higgins JPT, Green S (editors). Cochrane Handbook
+for Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. The Cochrane Collaboration, 2011. Available from
+www.cochrane-handbook.org.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Turunen 2002
+Turunen M, Wehlin L, Sjoberg M, Lundahl J, Dallner G, Brismar K,
+et al. Beta2-Integrin and lipid modifications indicate a non-
+antioxidant mechanism for the anti-atherogenic eﬀect of
+dietary coenzyme Q10. Biochemical and Biophysical Research
+Communications 2002;296:255-60.
+van Dalen 2011
+van Dalen EC, Caron HN, Dickinson HO, Kremer LCM.
+Cardioprotective interventions for cancer patients receiving
+anthracyclines. Cochrane Database of Systematic Reviews 2011,
+Issue 6. [DOI: 10.1002/14651858.CD003917.pub4]
+WHO 2003
+World Health Organization. The World Health Report 2003:
+Shaping the Future. http://www.who.int/whr/2003/en/
+(accessed April 2012).
+WHO 2012
+World Health Organization. Cardiovascular diseases (CVDs).
+Fact Sheet Number 317. September 2012. http://www.who.int/
+mediacentre/factsheets/fs317/en/index.html (accessed April
+2012).
+WHO/FAO 2002
+Joint WHO/FAO Expert Consultation. Diet, nutrition and the
+prevention of chronic diseases: report of a joint WHO/FAO
+expert consultation. 2002. WHO technical report series; 916.
+http://www.who.int/dietphysicalactivity/publications/trs916/
+en/ (accessed April 2012).
+ 
+* Indicates the major publication for the study
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+RCT cross-over design (analysed as parallel group, using data only from the first 3 months of interven-
+tion before patients crossed over to the other therapy)
+Participants
+34 outpatients with primary hypercholesterolaemia (LDL-cholesterol > 190 mg/dl, triglycerides < 200
+mg/dl, 5 ° percentile < HDL-cholesterol < 95 ° percentile of a reference population recruited in Italy
+Interventions
+After a drug-free controlled diet period participants were randomly allocated to 2 treatment groups:
+Intervention (statin + CoQ10): simvastatin (20 mg/day) plus CoQ10 (100 mg/day) for 3 months
+Control (statin): simvastatin (20 mg/day) for 3 months
+After this first 3-month (90-day) phase the 2 groups were crossed over
+Outcomes
+Blood pressure, total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides
+Notes
+Age, sex and ethnicity of participants were not specified. Number of participants randomised to each
+arm was not specified. Outcome data were not fully reported. We could not find any contact details for
+the authors of this paper
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+Not stated
+Blinding of outcome as-
+sessment (detection bias) 
+Unclear risk
+Not stated
+Bargossi 1994 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Insufficient information to judge
+Selective reporting (re-
+porting bias)
+High risk
+Outcomes for LDL-cholesterol, HDL-cholesterol and triglycerides are not re-
+ported
+Other bias
+Unclear risk
+Insufficient information to judge
+Bargossi 1994  (Continued)
+ 
+ 
+Methods
+RCT of parallel-group design
+Participants
+40 participants (11 men and 29 postmenopausal women, 60.7 ± 5.7 years) with mild hypercholestero-
+laemia (5.90 ± 0.96 mmol/L) taking a regular HMG-CoA reductase inhibitor treatment were recruited
+from newspaper advertisements from Eastern Finland in Spring 1997. BMI of participants was 26.9 ± 3.6
+kg/m2
+Exclusion criteria: regular intake of antioxidants, any drug with antioxidative properties, acetyl-salicylic
+acid or other investigational products within the last month, malabsorption, treatment with oral oe-
+strogen, use of anticoagulants, manifest insulin diabetes, cancer or other severe diseases that could
+cause difficulties in the participation
+Participants were recruited to 4 arms: α-tocopherol, CoQ10, CoQ10 + α-tocopherol and placebo
+Interventions
+Intervention (CoQ10): 10 participants were randomised. Oil-based CoQ10 (2 x 100 mg daily) for 3
+months. All capsules contained soybean oil. Participants were advised to take capsules in the morning
+and evening with meals (2 capsules in the morning and 2 in the evening) and to maintain their statin
+treatment, smoking and normal exercise and dietary habits during the study
+Control (placebo): 10 participants were randomised. Placebo capsules contained soybean oil. Partici-
+pants were advised to take placebo capsules in the morning and evening with meals (2 capsules in the
+morning and 2 in the evening) and to maintain their statin treatment, smoking and normal exercise and
+dietary habits during the study
+Outcomes
+Total cholesterol, LDL-cholesterol, HDL-cholesterol, triglycerides
+Notes
+4-arm trial (α-tocopherol, CoQ10, CoQ10 + α-tocopherol and placebo). We used the CoQ10 and placebo
+arms only. Age and sex were not specified in each arm of the study
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+States "double-blind"
+Kaikkonen 2000 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Not stated
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Insufficient information to judge
+Selective reporting (re-
+porting bias)
+Low risk
+All outcomes reported
+Other bias
+Unclear risk
+Insufficient information to judge
+Kaikkonen 2000  (Continued)
+ 
+ 
+Methods
+RCT of parallel-group design
+Participants
+50 obese adults of either sex, greater than 20 years of age, and whose BMI was greater than 25 kg/m2
+were recruited by advertisement in Seoul, Republic of Korea
+Exclusion criteria: taking vitamins or antioxidants, taking lipid-lowering drugs such as statins or fenofi-
+brates, uncontrolled hypertension (SBP ≥ 160 mmHg or DBP ≥ 100 mmHg), uncontrolled diabetes mel-
+litus with a fasting blood sugar ≥ 150 mg/dL, hyperlipidaemia (triglycerides ≥ 400mg/dL or total choles-
+terol ≥ 250 mg/dL), or a history of cardiovascular disease
+Interventions
+Intervention (CoQ10): 26 participants (11 men and 15 women, mean age 42.7 ± 11.3 years) were given a
+200 mg coenzyme Q10 pill once a day for 12 weeks
+Control (placebo): 25 participants (10 men and 15 women, mean age 42.5 ± 11.2 years) were given a
+placebo pill once a day for 12 weeks
+Outcomes
+Systolic blood pressure, diastolic blood pressure, total cholesterol, HDL-cholesterol, triglycerides
+Notes
+—
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+States "double-blind"
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Not stated
+Incomplete outcome data
+(attrition bias) 
+High risk
+30% lost to follow-up overall
+Lee 2011 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Selective reporting (re-
+porting bias)
+Low risk
+All outcomes stated were reported
+Other bias
+Unclear risk
+Report states "the strict exclusion criteria were meant to reduce confounding
+factors but may have resulted in a relatively healthy study population that at-
+tenuated the favourable effects of CoQ10." Also states, "the small sample size
+may have resulted in a Type II error"
+Lee 2011  (Continued)
+ 
+ 
+Methods
+RCT of parallel-group design
+Participants
+49 Japanese, hypercholesteraemic (above 220 mg/dL) patients of either sex
+Exclusion criteria: pregnant or lactating women; women of childbearing potential; patients with famil-
+ial hypercholesterolaemia; patients taking other lipid-lowering drugs such as fibrates or bile acid-bind-
+ing resins and other drugs known to affect statin metabolism, such as fibrates, cyclosporine, tamoxifen,
+corticosteroids, macrolide antibiotics and others; patients taking antioxidants such as ascorbic acid
+and tocopherol
+Interventions
+After a 4-week dietary lead-in period (less than 300 mg/day of low cholesterol diet), patients were ran-
+domised as follows:
+Intervention (statin + CoQ10): 24 participants (6 men and 18 women, mean age 61 ± 8 years) took ator-
+vastatin (10 mg/day) for 16 weeks plus CoQ10 (100 mg/day) for 12 weeks
+Control (statin + placebo): 25 participants (8 men and 17 women, mean age 60 ± 8 years) took atorvas-
+tatin (10 mg/day) for 16 weeks plus placebo for 12 weeks
+Patients were instructed not to change their dietary and smoking habits throughout the study
+Outcomes
+Serum total cholesterol, LDL-cholesterol, HDL-cholesterol, triglycerides
+Notes
+Nobody could discriminate the sof capsule of placebo containing only safflower oil from the CoQ10
+capsule by appearance, odour and taste
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+States "double-blind"
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Not stated
+Mabuchi 2007 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All participants completed the trial
+Selective reporting (re-
+porting bias)
+Low risk
+All outcomes stated were reported
+Other bias
+Unclear risk
+Plasma triglyceride levels in the placebo arm were slightly higher than those in
+the CoQ10 arm at baseline
+Mabuchi 2007  (Continued)
+ 
+ 
+Methods
+RCT of parallel-group design
+Participants
+52 patients of either sex, with essential hypertension whose blood pressure was higher than 150/90
+mmHg were selected at random from the outpatient clinic of The Center for Adult Diseases, Osaka,
+Japan. 20 patients (8 men, 12 women, mean age 60 years) with low CoQ level and low SDH-Q reductase
+activity were randomised
+Patients receiving conventional therapy for hypertension such as thiazide, beta-blocker or vasodilators
+were allowed to enter the study. In the CoQ10 arm, 2 participants were taking thiazide, 3 were taking
+beta-blockers, 2 were taking a combination of both of these medications and 3 had no therapy. In the
+control (placebo) group, 2 participants were taking thiazide, 4 were taking beta-blockers, 1 was taking
+a combination of both of these medications, 1 was taking alpha-blockers and 2 had no therapy. Thera-
+py was continued during the trial period without any change
+Exclusion criteria: serious complications such as angina pectoris, myocardial infarction or cerebral vas-
+cular diseases were not included
+Interventions
+Each patient entered a lead-in period of at least 4 weeks, during which their symptoms and blood pres-
+sure were stable. The intervention group (4 men, 6 women; mean age 59.5 ± 2.6 years) received 3 cap-
+sules daily. Each capsule contained 33.3 mg CoQ10. The control group (4 men, 6 women; mean age 61.3
+± 3.3 years) received 3 capsules daily of inactive placebo
+Outcomes
+Systolic blood pressure, diastolic blood pressure
+Notes
+—
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+States "double-blind"
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Not stated
+Yamagami 1986 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Insufficient information to judge
+Selective reporting (re-
+porting bias)
+Unclear risk
+Insufficient information to judge
+Other bias
+Unclear risk
+Insufficient information to judge
+Yamagami 1986  (Continued)
+ 
+ 
+Methods
+RCT of parallel-group design
+Participants
+44 patients (22 male, 22 female) with previous statin-related myalgia, recruited from New Zealand
+Exclusion criteria: acute myocardial infarction or cerebral vascular accident within 3 months, ala-
+nine aminotransferase or aspartate aminotransferase > 3 times the upper level of normal, calculated
+glomerular filtration rate 45 ml/min, decompensated heart failure, warfarin treatment and antioxidant
+vitamin supplementation
+Interventions
+Before randomisation, patients underwent a 2-week washout of coenzyme Q10 supplements and lipid-
+modifying therapies, except for ezetimibe (n = 4)
+The intervention group (12 men, 10 women; mean age 59 ± 2 years) received CoQ10 capsules (200 mg/
+day) for 12 weeks in combination with upward dose titration of simvastatin from 10 mg/day, doubling
+every 4 weeks if tolerated to a maximum of 40 mg/day. The control group (10 men, 12 women; mean
+age 59 ± 2 years) received placebo for 12 weeks in combination with upward dose titration of simvas-
+tatin from 10 mg/day, doubling every 4 weeks if tolerated to a maximum of 40 mg/day
+Outcomes
+Total cholesterol, LDL-cholesterol, HDL-cholesterol, triglycerides
+Notes
+—
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Not stated
+Allocation concealment
+(selection bias)
+Unclear risk
+Not stated
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+States double-blind
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Not stated
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Insufficient information to judge
+Young 2007 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Selective reporting (re-
+porting bias)
+Low risk
+All outcomes stated were reported
+Other bias
+Unclear risk
+Insufficient information to judge
+Young 2007  (Continued)
+BMI: body mass index
+DBP: diastolic blood pressure
+HMG-CoA: hydroxy-methylglutaryl-coenzyme A
+RCT: randomised controlled trial
+SBP: systolic blood pressure
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Bonetti 2000
+No outcomes of interest measured
+Bookstaver 2012
+Participants not healthy (29% had CHD and 45% had diabetes)
+Burke 2001
+Not a suitable intervention or control (both include vitamin E)
+Caso 2007
+Not a suitable control group (vitamin E supplementation)
+Cooke 2008
+Short-term trial (follow-up period was 2 weeks)
+Delgado-Casado 2011
+Not a suitable intervention (CoQ10 was combined with a Mediterranean diet)
+Digiesi 1990
+Short-term trial (follow-up period was 10 weeks)
+Gokbel 2010
+No outcomes of interest measured
+Gul 2011
+No outcomes of interest measured
+Kaikkonen 1997
+Short-term trial (follow-up period was 2 months)
+Kelly 2005
+Not a suitable control group (vitamin E supplementation). Short-term trial (follow-up period was 30
+days)
+Kuettner 2005
+Participants not healthy (56% with CAD)
+Malm 1997
+No outcomes of interest measured
+Nuku 2007
+Short-term trial (follow-up period was 4 weeks)
+Nukui 2008
+Short-term trial (follow-up period was 4 weeks)
+Ostman 2012
+No outcomes of interest measured
+Raitakari 2000
+Short-term trial (follow-up period was 4 weeks)
+Shah 2007
+Short-term trial (follow-up period was 8 hours)
+Shojaei 2011
+Participants not healthy (haemodialysis patients)
+Svensson 1995
+Short-term trial (follow-up period was 20 days)
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study
+Reason for exclusion
+Weston 1997
+Short-term trial (follow-up period was 4 weeks)
+Ylikoski 1997
+No outcomes of interest measured
+Young 2012
+Participants not healthy (53% with diabetes and 30% with CVD)
+Zheng 2008
+No outcomes of interest measured
+Zita 2003
+No outcomes of interest measured
+CHD: coronary heart disease
+CoQ10: co-enzyme Q10
+CVD: cardiovascular disease
+ 
+Characteristics of studies awaiting assessment [ordered by study ID]
+ 
+Methods
+RCT of parallel-group design
+Participants
+60 patients with statin-associated myopathy
+Interventions
+Randomisation 1: 200 mg CoQ10 daily or the corresponding placebo
+Randomisation 2: 200 µg selenium daily or the corresponding placebo
+4 subgroups were studied:
+(1) Group Q10Se, 200 mg of CoQ10 (active) + 200 µg of selenium (active) (daily)
+(2) Group Q10SePla, 200 mg CoQ10 (active) + selenium placebo (daily)
+(3) Group Q10PlaSe, CoQ10 placebo + 200 µg selenium (active) (daily)
+(4) Group Q10PlaSePla, CoQ10 placebo and selenium placebo
+Outcomes
+Total cholesterol, LDL-cholesterol, HDL-cholesterol, triglycerides, systolic blood pressure, diastolic
+blood pressure
+Notes
+Contacted author and received response but still waiting for specific data
+Fedacko 2013 
+CAD: coronary artery disease
+CoQ10: co-enzyme Q10
+ 
+Characteristics of ongoing studies [ordered by study ID]
+ 
+Trial name or title
+Q10 for Gulf War Veterans
+Methods
+Randomised, double-blind (participant, investigator, outcomes assessor), placebo-controlled,
+cross-over study
+Participants
+46 Gulf War veterans with chronic health problems (Gulf War Illness). Minimum age: 18 years. maxi-
+mum age: n/a. Gender: both
+Inclusion criteria:
+- Deployed to the Middle East for any period between August 1990 and July 1991
+Golomb 2009 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+- Adherence to CDC criteria for Gulf War illness: chronic symptoms, for at least 6 months, first aris-
+ing after Gulf deployment, in at least 2 of the 3 areas of fatigue, musculoskeletal and mood/cogni-
+tion
+- Adherence to Kansas criteria for Gulf War illness. To aid specificity, these criteria are more in-
+volved than CDC criteria. Veterans are asked about symptoms in several general categories (e.g.
+respiratory, gastrointestinal, neuropsychological, sleep disturbances, pain), as well as symptoms
+(e.g. fatigue, headache) for which no single category is apparent. Gulf War illness criteria symptoms
+must have persisted or recurred in the year prior to interview and first have been a problem for re-
+spondents in 1990 or later.
+- Willing to agree to defer initiating other over the counter medications until after completion of
+study participation
+- Willing to defer participation in other clinical trials until after completion of study participation
+- If female of childbearing potential, willing to be on 2 forms of birth control during study participa-
+tion
+ 
+Exclusion criteria:
+- Any factor that might compromise participation for the full duration of the study
+- Known active cancer (except non-melanoma skin cancer), neurodegenerative disease, or HIV
+- Active medical problems distinct from Gulf War symptomatology that confer a significant proba-
+bility of hospitalisation, medication change or change in clinical state during the course of partici-
+pation
+- Use of coumadin
+- Use of Q10-containing products, including lotions, toothpastes or supplements in the prior 2
+months
+- Current use of drugs known to be mitochondrial toxins: amiodarone, protease inhibitors, fluoro-
+quinoline ("floxin") antibiotics
+- Nursing or pregnant women
+Interventions
+Coenzyme Q10 at 100 mg 3 times a day or 300 mg 3 times a day or matching placebo for 3.5-month
+periods
+Outcomes
+Quality of life (subjective health; syndrome defining symptoms (fatigue, muscle pain, muscle
+strength; and cognition))
+Starting date
+Date of first enrolment: July 2008
+Contact information
+Beatrice A Golomb, MD, PhD, Principal Investigator
+University of California
+San Diego
+La Jolla
+California
+92093
+Notes
+This study is ongoing, but not recruiting participants
+Emailed to find out further information (http://gulfstudy.ucsd.edu/Contact_Us.htm) but no re-
+sponse received
+Golomb 2009  (Continued)
+ 
+ 
+Trial name or title
+A double-blind, randomised, placebo-controlled, 12-week, cross-over study to assess the effect of
+coenzyme Q10 treatment on 24-hour mean ambulatory systolic and diastolic blood pressure in in-
+adequately treated hypertensive patients with the metabolic syndrome
+Methods
+Randomised, controlled, cross-over trial
+Molyneux 2008 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Participants
+Age minimum: 25 years
+Age maximum: 75 years
+Gender: both males and females
+Inclusion criteria: hypertension (average sitting systolic BP of > 139 mmHg or > 129/80 if patient has
+type 2 diabetes) and stabilised on antihypertensives for at least 1 month. The metabolic syndrome
+Exclusion criteria: uncontrolled hypertension. Cerebrovascular accident within 12 months prior.
+Taking warfarin treatment or antioxidant vitamin supplements
+Interventions
+Coenzyme Q10 (100 mg twice daily) or placebo (twice daily) for 12 weeks via oral capsule, followed
+by a 4-week washout period, then 12 weeks of the alternate 'treatment'
+Outcomes
+Systolic and diastolic blood pressure
+Starting date
+Date of first enrolment: December 2008
+Contact information
+Name: Sarah Molyneux
+Address: Canterbury Health Laboratories Biochemistry Unit, P.O. Box 151, Christchurch, 8140, New
+Zealand
+Telephone: +64 3 3641594
+Email: sarah.molyneux@cdhb.govt.nz
+Notes
+Recruitment status: Closed. Follow-up complete
+Contacted Sarah Molyneux for information but no response received
+Molyneux 2008  (Continued)
+ 
+ 
+Trial name or title
+The study of coenzyme Q10 supplementation on blood pressure, inflammation factors and
+adiponectin in hypertensive patients
+Methods
+Randomisation: randomised. Blinding: double-blind. Placebo: used. Assignment: parallel
+Participants
+Age minimum: 35
+Age maximum: 55
+Gender: both male and female
+Inclusion criteria: willingness to co-operate in the project and complete a written informed con-
+sent, diagnosis of hypertensive patients based on diagnostic criteria and clinical examination by a
+physician, no pregnant or breastfeeding women, the absence of any autoimmune disorders, car-
+diovascular or renal diseases, lack of nutritional supplements during the past 6 months
+Exclusion criteria: diabetes mellitus type 1 or type 2, the history of disease such as myocardial in-
+farction, cardiac dysfunction, cardiac arrhythmia, angina and kidney disease, autoimmune dis-
+eases like MS, rheumatism, etc., BMI > 40, factors causing secondary hypertension, supplementa-
+tion of vitamin, mineral or other nutritional supplements, alcohol or drug use, incidence of severe
+side effects, non-compliance with study protocol
+Interventions
+Coenzyme Q10, 100 mg orally, once daily for 3 months
+Placebo, 100 mg, once daily for 3 months
+Outcomes
+Hypertension. Time point: at baseline, and 6 and 12 weeks after baseline assessment. Method of
+measurement: Measured by standard mercury blood pressure measuring device sitting
+Mozaﬀari 2011 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Starting date
+Date of first enrolment: March 2011
+Contact information
+Name: Dr Hassan Mozaffari
+Address: 3rd floor, Central Building of Shahid Sadughi University of Medical Sciences and Health
+Services, Shahid Bahonar Sq. Yazd, Islamic Republic of Iran
+Telephone: +00 98 3517249333
+Email: mozaffari.kh@gmail.com
+Affiliation: Shahid Sadughi University of Medical Sciences and Health Services
+Name: Seied Mohammad Mohammadi Zarchi
+Address: Shahid Sadughi University of Medical Sciences and Health Services,Yazd Diabetes Re-
+search Center Yazd, Islamic Republic of Iran
+Telephone: 00989123468307
+Email: drc@ssu.ac.ir
+Affiliation: Shahid Sadughi University of Medical Sciences and Health Services
+Notes
+Target sample size: 72. Recruitment status: complete
+Contacted Dr Hassan Mozaffari and Seied Mohammad Mohammadi Zarchi. Response was received
+from Dr Hassan Mozaffari to say the trial was done but they are unable to write the article. Dr Has-
+san Mozaffari was contacted again to find out further information on who is responsible for writing
+the article/reasons why they are unable to write the article
+Mozaﬀari 2011  (Continued)
+ 
+ 
+Trial name or title
+Effect of Q10 in the treatment of metabolic syndrome
+Methods
+Randomisation: randomised. Blinding: double-blind. Placebo: used. Assignment: parallel
+Participants
+Inclusion criteria:
+1. Having the metabolic syndrome according to the NCEP ATP III definition:
+Having at least 3 of the following conditions:
+a) Abdominal obesity (waist circumference = 102 cm in men and = 88 cm in women)
+b) High blood pressure (systolic blood pressure = 130 mmHg and/or diastolic blood pressure = 85
+mmHg)
+c) Low HDL-cholesterol (< 40 mg/dl in men and < 50 mg/dl in women)
+d) TG = 150 mg/dl
+e) FBS = 100 mg/ dl
+2. Being the age limit from 35 to 55 years
+3. Patients with hypertension treated with antihypertensive drugs in the past 3 months (which has
+not changed and changes in drug therapy not occurring during the study period)
+4. Patients with diabetes whose treatment in the past 6 weeks has not changed (changes in drug
+therapy not occurring during the study period)
+5. Consent to participate in the study
+Exclusion criteria:
+1. Statin use in the last month
+2. History of cardiovascular disease in the past 3 months
+3. Having an active infection
+4. Risk of renal failure
+5. Liver disease (viral hepatitis, treatments for liver disease)
+Usefzadeh 2012 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+6. Alcohol consumption
+7. Pregnancy or taking contraceptive drugs
+8. History of hospitalisation in the past 2 months
+9. Consumption of nutritional supplements such as vitamins, trace elements, antioxidants
+Exclusion criteria:
+Age minimum: 35
+Age maximum: 55
+Gender: both male and female
+Interventions
+Intervention group: Q10, 100 mg sof gel capsule twice a day for 3 months
+Placebo group: placebo tablets containing 100 mg of soy oil twice a day for 3 months
+Outcomes
+Primary:
+HDL-cholesterol, blood pressure, TG (at the beginning of the study and 3 months after intervention)
+Secondary:
+LDL-cholesterol, total cholesterol (at the beginning of the study and 3 months after intervention)
+Starting date
+Date of first enrolment: October 2012
+Contact information
+Name: Dr Gholamreza Usefzadeh
+Address: Shariati Ave, Kerman, Islamic Republic of Iran
+Telephone: +00 98 3412459003
+Email: uousefzadeh@kmu.ac.ir
+Affiliation: Kerman Physiology Research Center
+Name: Dr Azadeh Najarzadeh
+Address: Bahonar Sq Yazd, Islamic Republic of Iran
+Telephone: +00 98 3516238505
+Email: azmm1383@yahoo.com
+Affiliation: Shahid Sadoghi University of Medical Sciences
+Notes
+Recruitment status complete
+Contacted Dr Gholamreza Usefzadeh and Dr Azadeh Najarzadeh for further information but no re-
+sponse was received
+Usefzadeh 2012  (Continued)
+ 
+ 
+Trial name or title
+Randomised, double-blind, placebo-controlled, cross-over study to investigate the effect of dietary
+supplementation with coenzyme Q10 on endothelial function in males with the metabolic syn-
+drome who are concurrently on statin treatment
+Methods
+Randomised, controlled, cross-over trial
+Participants
+Age minimum: 35 years
+Age maximum: 65 years
+Gender: males
+Young 2008 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Inclusion criteria:
+Waist circumference >= 94 cm
+Triglycerides >= 1.7 mmol/L or specific therapy for triglycerides
+Systolic blood pressure >= 130 mmHg or diastolic blood pressure >= 85 mmHg or treatment for hy-
+pertension
+Statin naive or treatment with <= 40mg/day simvastatin or equivalent
+Exclusion criteria:
+Pre-treatment low-density lipoprotein (LDL)-cholesterol < 1.5 mmol/L or > 6.5 mmol/L
+Pre-treatment triglycerides > 5 mmol/L
+History of cardiovascular event or intervention within the 6 months prior to screening
+Type 1 diabetes mellitus
+Type 2 diabetes mellitus requiring oral antidiabetic agents or insulin
+Current smoker
+Treatment with fibrates or other lipid-modifying agents other than statin therapy
+Interventions
+Coenzyme Q10 dietary supplement is a tablet (100 mg) to be taken orally, twice daily for 3 months.
+There is a 1-month washout period between intervention and control or vice versa depending on
+treatment allocation
+Outcomes
+Markers of cardiovascular risk measured from blood tests
+Quality of life
+Systolic and diastolic blood pressure
+Starting date
+Date of first enrolment: October 2008
+Contact information
+Name: Jo Young
+Address: Lipid and Diabetes Research Group First Floor, Hagley Hostel Christchurch Hospital, Pri-
+vate Bag 4710, Christchurch 8140, New Zealand
+Telephone: +64 3 364 1186
+Email: joanna.young@cdhb.govt.nz
+Notes
+Contacted Jo Young for further information. Received response to say the trial was completed and
+they are currently writing the manuscript for publication
+Young 2008  (Continued)
+NCEP ATP III: National Cholesterol Education Program Adult Treatment Panel III
+BMI: body mass index
+BP: blood pressure
+CDC: Centers for Disease Control and Prevention
+MS: multiple sclerosis
+TG: Triglycerides
+ 
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Comparison 1.   CoQ10
+Outcome or subgroup
+title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Systolic blood pressure
+2
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Totals not selected
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or subgroup
+title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+2 Diastolic blood pres-
+sure
+2
+71
+Mean Difference (IV, Random, 95% CI)
+-1.62 [-5.20, 1.96]
+3 Total cholesterol
+1
+51
+Mean Difference (IV, Fixed, 95% CI)
+0.30 [-0.10, 0.70]
+4 HDL-cholesterol
+1
+51
+Mean Difference (IV, Fixed, 95% CI)
+0.02 [-0.13, 0.17]
+5 Triglycerides
+1
+51
+Mean Difference (IV, Fixed, 95% CI)
+0.05 [-0.42, 0.52]
+ 
+ 
+Analysis 1.1.   Comparison 1 CoQ10, Outcome 1 Systolic blood pressure.
+Study or subgroup
+Experimental
+Control
+Mean Difference
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+Fixed, 95% CI
+Lee 2011
+26
+-0.8 (12.7)
+25
+1.1 (25.9)
+-1.9[-13.17,9.37]
+Yamagami 1986
+10
+-19 (3.8)
+10
+-4 (5.3)
+-15[-19.06,-10.94]
+Favours CoQ10
+20
+10
+-20
+-10
+0
+Favours control
+ 
+ 
+Analysis 1.2.   Comparison 1 CoQ10, Outcome 2 Diastolic blood pressure.
+Study or subgroup
+Experimental
+Control
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Lee 2011
+26
+-1.8 (8.6)
+25
+-2.6 (9.8)
+36.34%
+0.8[-4.26,5.86]
+Yamagami 1986
+10
+-6 (3.2)
+10
+-3 (4.1)
+63.66%
+-3[-6.23,0.23]
+ 
+ 
+Total ***
+36
+ 
+35
+ 
+100%
+-1.62[-5.2,1.96]
+Heterogeneity: Tau2=2.53; Chi2=1.54, df=1(P=0.21); I2=34.98%
+ 
+Test for overall effect: Z=0.89(P=0.38)
+ 
+Favours CoQ10
+20
+10
+-20
+-10
+0
+Favours control
+ 
+ 
+Analysis 1.3.   Comparison 1 CoQ10, Outcome 3 Total cholesterol.
+Study or subgroup
+Experimental
+Control
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Lee 2011
+26
+0.1 (0.7)
+25
+-0.2 (0.8)
+100%
+0.3[-0.1,0.7]
+ 
+ 
+Total ***
+26
+ 
+25
+ 
+100%
+0.3[-0.1,0.7]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.47(P=0.14)
+ 
+Favours CoQ10
+5
+2.5
+-5
+-2.5
+0
+Favours control
+ 
+ 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 1.4.   Comparison 1 CoQ10, Outcome 4 HDL-cholesterol.
+Study or subgroup
+Experimental
+Control
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Lee 2011
+26
+0 (0.3)
+25
+0 (0.2)
+100%
+0.02[-0.13,0.17]
+ 
+ 
+Total ***
+26
+ 
+25
+ 
+100%
+0.02[-0.13,0.17]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.28(P=0.78)
+ 
+Favours control
+1
+0.5
+-1
+-0.5
+0
+Favours CoQ10
+ 
+ 
+Analysis 1.5.   Comparison 1 CoQ10, Outcome 5 Triglycerides.
+Study or subgroup
+Experimental
+Control
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Lee 2011
+26
+0.1 (0.8)
+25
+0.1 (0.9)
+100%
+0.05[-0.42,0.52]
+ 
+ 
+Total ***
+26
+ 
+25
+ 
+100%
+0.05[-0.42,0.52]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.21(P=0.83)
+ 
+Favours CoQ10
+1
+0.5
+-1
+-0.5
+0
+Favours control
+ 
+ 
+A D D I T I O N A L   T A B L E S
+ 
+Study
+Country
+Baseline CoQ10 level
+Dose of
+CoQ10 level
+studied (mg/
+day)
+Statin thera-
+py
+Duration of
+CoQ10 inter-
+vention
+Bargossi 1994
+Italy
+Plasma
+1.20 mg/dL equivalent to 12,000 µg/L (inter-
+vention group)
+1.08 mg/dL equivalent to 10,800 µg/L (con-
+trol group)
+100
+Yes
+90 days
+Kaikkonen
+2000
+Finland
+Plasma
+0.83 ± 0.04 µmol/L equivalent to 716.57 ±
+34.53 µg/L (intervention group)
+1.07 ± 0.10 µmol/L equivalent to 923.77 ±
+86.33 µg/L (control group)
+200
+Yes
+3 months
+Lee 2011
+Seoul, Repub-
+lic of Korea
+Serum
+0.63 ± 0.25 µg/ml equivalent to 630 ± 250 µg/
+L (intervention group)
+200
+No
+12 weeks
+Table 1.   Country, baseline CoQ10 levels and dose of CoQ10 supplementation 
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+0.65 ± 0.27 µg/ml equivalent to 650 ± 270 µg/
+L (control group)
+Mabuchi 2007
+Japan
+Plasma
+1.113 ± 0.444 µmol/L equivalent to 960.90 ±
+383.32 µg/L (intervention group)
+1.180 ± 0.282 µmol/L equivalent to 1018.74 ±
+243.46 µg/L (control group)
+100
+Yes
+12 weeks
+Yamagami
+1986
+Japan
+Serum
+0.704 ± 0.04 µg/ml equivalent to 704 ± 40µg/
+L (intervention group)
+0.626 ± 0.05 µg/ml equivalent to 626 ± 50 µg/
+L (control group)
+100
+No
+12 weeks
+Young 2007
+New Zealand
+Plasma
+1.3 (1.0 to 1.4) µmol/L equivalent to 1122.34
+± (863.34 to 1208.68) µg/L (intervention
+group)
+1.4 (1.1 to 1.8) µmol/L equivalent to 1208.68
+± (949.67 to 1554.01) µg/L (control group)
+200
+Yes
+12 weeks
+Table 1.   Country, baseline CoQ10 levels and dose of CoQ10 supplementation  (Continued)
+Conversions:
+Mass (g) = No moles(n) x molecular mass (gmol-1)
+Molecular mass CoQ10 is 863.34 g
+ 
+ 
+A P P E N D I C E S
+Appendix 1. Search strategies November 2013
+CENTRAL, DARE, HTA, NEED on The Cochrane Library
+#1 MeSH descriptor: [Cardiovascular Diseases] explode all trees
+#2 cardio*
+#3 cardia*
+#4 heart*
+#5 coronary*
+#6 angina*
+#7 ventric*
+#8 myocard*
+#9 pericard*
+#10 isch?em*
+#11 emboli*
+#12 arrhythmi*
+#13 thrombo*
+#14 atrial next fibrillat*
+#15 tachycardi*
+#16 endocardi*
+#17 (sick next sinus)
+#18 MeSH descriptor: [Stroke] explode all trees
+#19 (stroke or stokes)
+#20 cerebrovasc*
+#21 cerebral next vascular
+#22 apoplexy
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 36]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+#23 (brain near/2 accident*)
+#24 ((brain* or cerebral or lacunar) near/2 infarct*)
+#25 MeSH descriptor: [Hypertension] explode all trees
+#26 hypertensi*
+#27 (peripheral next arter* next disease*)
+#28 ((high or increased or elevated) near/2 blood pressure)
+#29 MeSH descriptor: [Hyperlipidemias] explode all trees
+#30 hyperlipid*
+#31 hyperlip?emia*
+#32 hypercholesterol*
+#33 hypercholester?emia*
+#34 hyperlipoprotein?emia*
+#35 hypertriglycerid?emia*
+#36 MeSH descriptor: [Arteriosclerosis] explode all trees
+#37 MeSH descriptor: [Cholesterol] explode all trees
+#38 cholesterol
+#39 "coronary risk factor*"
+#40 MeSH descriptor: [Blood Pressure] this term only
+#41 "blood pressure"
+#42 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 or #20 or #21 or #22
+or #23 or #24 or #25 or #26 or #27 or #28 or #29 or #30 or #31 or #32 or #33 or #34 or #35 or #36 or #37 or #38 or #39 or #40 or #41
+#43 MeSH descriptor: [Ubiquinone] this term only
+#44 ubiquinone
+#45 ubiquinol-10
+#46 ubidecarenone
+#47 "Coenzyme Q"
+#48 "coenzyme Q10"
+#49 CoQ10
+#50 caomet
+#51 decorenone
+#52 mitocor
+#53 neuquinone
+#54 "quinone q 10"
+#55 ubimaior
+#56 ubiten
+#57 #43 or #44 or #45 or #46 or #47 or #48 or #49 or #50 or #51 or #52 or #53 or #54 or #55 or #56
+#58 #42 and #57
+MEDLINE OVID
+1. exp Cardiovascular Diseases/
+2. cardio*.tw.
+3. cardia*.tw.
+4. heart*.tw.
+5. coronary*.tw.
+6. angina*.tw.
+7. ventric*.tw.
+8. myocard*.tw.
+9. pericard*.tw.
+10. isch?em*.tw.
+11. emboli*.tw.
+12. arrhythmi*.tw.
+13. thrombo*.tw.
+14. atrial fibrillat*.tw.
+15. tachycardi*.tw.
+16. endocardi*.tw.
+17. (sick adj sinus).tw.
+18. exp Stroke/
+19. (stroke or stokes).tw.
+20. cerebrovasc*.tw.
+21. cerebral vascular.tw.
+22. apoplexy.tw.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+23. (brain adj2 accident*).tw.
+24. ((brain* or cerebral or lacunar) adj2 infarct*).tw.
+25. exp Hypertension/
+26. hypertensi*.tw.
+27. peripheral arter* disease*.tw.
+28. ((high or increased or elevated) adj2 blood pressure).tw.
+29. exp Hyperlipidemias/
+30. hyperlipid*.tw.
+31. hyperlip?emia*.tw.
+32. hypercholesterol*.tw.
+33. hypercholester?emia*.tw.
+34. hyperlipoprotein?emia*.tw.
+35. hypertriglycerid?emia*.tw.
+36. exp Arteriosclerosis/
+37. exp Cholesterol/
+38. cholesterol.tw.
+39. "coronary risk factor* ".tw.
+40. Blood Pressure/
+41. blood pressure.tw.
+42. or/1-41
+43. coenzyme Q10.tw.
+44. Ubiquinone/
+45. Ubiquinone.tw.
+46. Ubiquinol-10.tw.
+47. Ubidecarenone.tw.
+48. Coenzyme Q.tw.
+49. CoQ10.tw.
+50. caomet.tw.
+51. decorenone.tw.
+52. mitocor.tw.
+53. neuquinone.tw.
+54. quinone q 10.tw.
+55. ubimaior.tw.
+56. ubiten.tw.
+57. or/43-56
+58. 42 and 57
+59. randomized controlled trial.pt.
+60. controlled clinical trial.pt.
+61. randomized.ab.
+62. placebo.ab.
+63. drug therapy.fs.
+64. randomly.ab.
+65. trial.ab.
+66. groups.ab.
+67. 59 or 60 or 61 or 62 or 63 or 64 or 65 or 66
+68. exp animals/ not humans.sh.
+69. 67 not 68
+70. 58 and 69
+EMBASE OVID
+1. exp cardiovascular disease/
+2. cardio*.tw.
+3. cardia*.tw.
+4. heart*.tw.
+5. coronary*.tw.
+6. angina*.tw.
+7. ventric*.tw.
+8. myocard*.tw.
+9. pericard*.tw.
+10. isch?em*.tw.
+11. emboli*.tw.
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+12. arrhythmi*.tw.
+13. thrombo*.tw.
+14. atrial fibrillat*.tw.
+15. tachycardi*.tw.
+16. endocardi*.tw.
+17. (sick adj sinus).tw.
+18. exp cerebrovascular disease/
+19. (stroke or stokes).tw.
+20. cerebrovasc*.tw.
+21. cerebral vascular.tw.
+22. apoplexy.tw.
+23. (brain adj2 accident*).tw.
+24. ((brain* or cerebral or lacunar) adj2 infarct*).tw.
+25. exp hypertension/
+26. hypertensi*.tw.
+27. peripheral arter* disease*.tw.
+28. ((high or increased or elevated) adj2 blood pressure).tw.
+29. exp hyperlipidemia/
+30. hyperlipid*.tw.
+31. hyperlip?emia*.tw.
+32. hypercholesterol*.tw.
+33. hypercholester?emia*.tw.
+34. hyperlipoprotein?emia*.tw.
+35. hypertriglycerid?emia*.tw.
+36. exp Arteriosclerosis/
+37. exp Cholesterol/
+38. cholesterol.tw.
+39. "coronary risk factor*".tw.
+40. Blood Pressure/
+41. blood pressure.tw.
+42. or/1-41
+43. ubidecarenone/
+44. coenzyme Q10.tw.
+45. ubiquinone.tw.
+46. ubiquinol-10.tw.
+47. ubidecarenone.tw.
+48. Coenzyme Q.tw.
+49. CoQ10.tw.
+50. caomet.tw.
+51. decorenone.tw.
+52. mitocor.tw.
+53. neuquinone.tw.
+54. quinone q 10.tw.
+55. ubimaior.tw.
+56. ubiten.tw.
+57. or/43-56
+58. 42 and 57
+59. random$.tw.
+60. factorial$.tw.
+61. crossover$.tw.
+62. cross over$.tw.
+63. cross-over$.tw.
+64. placebo$.tw.
+65. (doubl$ adj blind$).tw.
+66. (singl$ adj blind$).tw.
+67. assign$.tw.
+68. allocat$.tw.
+69. volunteer$.tw.
+70. crossover procedure/
+71. double blind procedure/
+72. randomized controlled trial/
+73. single blind procedure/
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+74. 59 or 60 or 61 or 62 or 63 or 64 or 65 or 66 or 67 or 68 or 69 or 70 or 71 or 72 or 73
+75. (animal/ or nonhuman/) not human/
+76. 74 not 75
+77. 58 and 76
+78. limit 77 to embase
+Web of Science
+#15 #14 AND #13
+#14 TS=((random* or blind* or allocat* or assign* or trial* or placebo* or crossover* or cross-over*))
+#13 #12 AND #9
+#12 #11 OR #10
+#11 TS=(caomet or decorenone or mitocor or neuquinone or (quinone NEXT q NEXT 10) or ubimaior or ubiten)
+#10 TS=((coenzyme NEXT Q10) or Ubiquinone or Ubiquinol-10 or Ubidecarenone or (Coenzyme NEXT Q) or CoQ10)
+#9 #8 OR #7 OR #6 OR #5 OR #4 OR #3 OR #2 OR #1
+#8 TS=(arteriosclerosis or cholesterol or "coronary risk factor*" or "blood pressure")
+#7 TS=(hyperlipid* or hyperlip?emia* or hypercholesterol* or hypercholester?emia* or hyperlipoprotein?emia* or hypertriglycerid?emia*)
+#6 TS=(high near/2 "blood pressure" or increased near/2 "blood pressure" or elevated near/2 "blood pressure")
+#5 TS=(brain* near/2 infarct or cerebral near/2 infarct or lacunar near/2 infarct* or hypertensi* or "peripheral arter* disease*")
+#4 TS=("cerebral vascular" or apoplexy or brain near/2 accident*)
+#3 TS=("atrial fibrillat*" or tachycardi* or endocardi* or "sick sinus" or stroke or stokes or cerebrovasc*)
+#2 TS=(myocard* or pericard* or isch?em* or emboli* or arrhythmi* or thrombo*)
+#1 TS=(cardio* or cardia* or heart* or coronary* or angina* or ventric*)
+Appendix 2. Search strategies for trial registers
+metaRegister of controlled trials (mRCT), Clinical trials.gov, the WHO International Clinical Trials Registry platform (ICTRP)
+1. Coenzyme Q10
+C O N T R I B U T I O N S   O F   A U T H O R S
+All authors contributed to protocol development. NF and DT screened the titles and abstracts, and NF, DT and LH assessed the studies for
+formal inclusion and exclusion. NF and LH assessed methodological rigour and abstracted data. NF and KR conducted the analysis and
+wrote the review. All authors contributed to later drafs.
+D E C L A R A T I O N S   O F   I N T E R E S T
+None known.
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+Warwick Medical School, University of Warwick, UK.
+External sources
+•
+NIHR Cochrane Programme Grant, UK.
+D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W
+It was our intention to perform stratified analysis to examine the eﬀects of 'dose' and duration of CoQ10 supplementation but the review
+included an insuﬀicient number of trials to do this. We also intended to create funnel plots to assess publication bias. We will address these
+in future updates of this review when more evidence is available. We also defined what we considered to be significant heterogeneity in
+terms of the I2 statistic (50% or greater) afer the protocol was published.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Antioxidants  [*administration & dosage];  Cardiovascular Diseases  [blood]  [*prevention & control];  Cholesterol  [blood];  Humans;
+  Hydroxymethylglutaryl-CoA Reductase Inhibitors  [administration & dosage];  Lipids  [blood];  Primary Prevention  [*methods]; 
+Randomized Controlled Trials as Topic;  Ubiquinone  [administration & dosage]  [*analogs & derivatives]
+Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease (Review)
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37

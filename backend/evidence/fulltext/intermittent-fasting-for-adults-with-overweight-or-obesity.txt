@@ -1,0 +1,4578 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Intermittent fasting for adults with overweight or obesity (Review)  
+ 
+Garegnani LI, Oltra G, Ivaldi D, Burgos MA, Andrenacci PJ, Rico S, Boyd M, Radler D, Escobar
+Liquitay CM, Madrid E
+ 
+ 
+Garegnani LI, Oltra G, Ivaldi D, Burgos MA, Andrenacci PJ, Rico S, Boyd M, Radler D, Escobar Liquitay CM, Madrid E. 
+Intermittent fasting for adults with overweight or obesity. 
+Cochrane Database of Systematic Reviews 2026, Issue 2. Art. No.: CD015610. 
+DOI: 10.1002/14651858.CD015610.pub2.
+ 
+ 
+www.cochranelibrary.com
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+ 
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+3
+SUMMARY OF FINDINGS..............................................................................................................................................................................
+4
+BACKGROUND..............................................................................................................................................................................................
+8
+OBJECTIVES..................................................................................................................................................................................................
+9
+METHODS.....................................................................................................................................................................................................
+9
+RESULTS........................................................................................................................................................................................................
+14
+Figure 1..................................................................................................................................................................................................
+15
+Figure 2..................................................................................................................................................................................................
+18
+Figure 3..................................................................................................................................................................................................
+19
+Figure 4..................................................................................................................................................................................................
+19
+Figure 5..................................................................................................................................................................................................
+20
+Figure 6..................................................................................................................................................................................................
+21
+Figure 7..................................................................................................................................................................................................
+21
+Figure 8..................................................................................................................................................................................................
+22
+Figure 9..................................................................................................................................................................................................
+24
+Figure 10................................................................................................................................................................................................
+25
+Figure 11................................................................................................................................................................................................
+26
+Figure 12................................................................................................................................................................................................
+27
+DISCUSSION..................................................................................................................................................................................................
+27
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+29
+SUPPLEMENTARY MATERIALS.....................................................................................................................................................................
+29
+ADDITIONAL INFORMATION.........................................................................................................................................................................
+30
+REFERENCES................................................................................................................................................................................................
+31
+ADDITIONAL TABLES....................................................................................................................................................................................
+37
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Intermittent fasting for adults with overweight or obesity
+Luis I Garegnani1a, Gisela Oltra1, Diego Ivaldi1, Mariana Andrea Burgos1, Paola J Andrenacci2, Sabrina Rico3, Melinda Boyd4, Diane
+Radler5, Camila Micaela Escobar Liquitay1, Eva Madrid6,7
+1Research Department, Universidad Hospital Italiano de Buenos Aires, Buenos Aires, Argentina. 2Editorial Team, Cochrane Hepato-
+Biliary Group, Wheelwright, Argentina. 3Intensive Care Unit, Hospital Parmenio Piñero, Buenos Aires, Argentina. 4Department of
+Nutrition, Cedar Crest College, Allentown, PA, USA. 5Institute for Nutrition Interventions, Department of Clinical and Preventive Nutrition
+Sciences, School of Health Professions, Rutgers, The State University of New Jersey, New Jersey, USA. 6Cochrane Evidence Synthesis
+Unit Iberoamérica, Interdisciplinary Centre for Health Studies CIESAL, Universidad de Valparaíso, Viña del Mar, Chile. 7Institut de Recerca
+Sant Pau (IR SANT PAU), Barcelona, Spain
+aORCID iD: https://orcid.org/0000-0003-4605-9473
+Contact: Luis I Garegnani, luisgaregnani@gmail.com.
+Editorial group: Cochrane Central Editorial Service.
+Publication status and date: New, published in Issue 2, 2026.
+Citation: Garegnani LI, Oltra G, Ivaldi D, Burgos MA, Andrenacci PJ, Rico S, Boyd M, Radler D, Escobar Liquitay CM, Madrid E. Intermittent
+fasting for adults with overweight or obesity. Cochrane Database of Systematic Reviews 2026, Issue 2. Art. No.: CD015610. DOI:
+10.1002/14651858.CD015610.pub2.
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Rationale
+Weight loss remains the primary strategy for reducing health risks and societal consequences associated with overweight and obesity.
+The most common dietary interventions are calorie-restricted diets, including various permutations of energy restriction, macronutrients,
+foods, and dietary intake patterns, which achieve initial but ofen unsustained weight loss. Intermittent fasting involves eating patterns
+during which individuals take little or no energy for extended time periods, alternated with periods of normal food intake. The mechanism
+for weight loss is related to caloric restriction, increased fat metabolism, enhanced insulin sensitivity, and improved glucose metabolism.
+Intermittent fasting has been publicised in blogs and news articles but studies show inconsistent eﬀects on health, highlighting the
+uncertainty faced by physicians and people with overweight or obesity when considering intermittent fasting as a feasible approach for
+sustained weight loss.
+Objectives
+To evaluate the benefits and harms of intermittent fasting versus regular dietary advice, no intervention or waiting list for adults with
+overweight or obesity.
+Search methods
+We searched CENTRAL, MEDLINE (Ovid), and two trials registers up to 5 November 2024, as well as reference checking, citation searching
+and contact with study authors to identify additional studies.
+Eligibility criteria
+We included randomised controlled trials (RCTs) and cluster-RCTs that compared intermittent fasting (including time-restricted feeding,
+periodic fasting, alternate-day fasting, and modified alternate-day fasting) with regular dietary advice, no intervention or waiting list in
+men and women with overweight or obesity, with or without associated comorbid conditions. The minimum duration of the intervention
+was four weeks, and the minimum duration of follow-up was six months. We excluded cross-over and quasi-RCTs.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcomes
+Our outcomes were weight loss, quality of life, participant satisfaction, diabetes status, and adverse events. We considered outcomes
+measured up to and including 12 months afer randomisation as short-term, and longer than 12 months as long-term.
+Risk of bias
+We used the Cochrane risk of bias tool (RoB 2) and the RoB2 extension for cluster-RCTs.
+Synthesis methods
+We synthesised results for each outcome using meta-analysis where possible, using random-eﬀects models to calculate risk ratios (RR)
+and 95% confidence intervals (CI) for dichotomous outcomes, and mean diﬀerences (MD) or standardised mean diﬀerences (SMD) for
+continuous outcomes. Where this was not possible due to the nature of the data, we would have synthesised results using narrative
+synthesis, including the summary of eﬀect estimates. We used GRADE to assess the certainty of evidence for each outcome.
+Included studies
+We included 22 studies with 1995 participants. All studies were conducted in an outpatient setting in North America, Australia, China,
+Denmark, Germany, Norway, and Brazil and were published between 2016 and 2024.
+Synthesis of results
+Compared to regular dietary advice, intermittent fasting may result in little to no diﬀerence in percentage from baseline weight loss
+(MD −0.33, 95% CI −0.92 to 0.26; 21 studies, 1430 participants; low-certainty evidence due to risk of bias). Intermittent fasting may have
+little to no eﬀect on achieving a 5% reduction in body weight, but the evidence is very uncertain (RR 0.98, 95% CI 0.82 to 1.18; 4 studies,
+472 participants; very low-certainty evidence due to risk of bias and imprecision). Intermittent fasting may result in little to no diﬀerence
+in quality of life (SMD 0.11, 95% CI −0.27 to 0.49; 3 studies, 106 participants; low-certainty evidence due to risk of bias and imprecision).
+Intermittent fasting may have little to no eﬀect on adverse events but the evidence is very uncertain (RR 1.45, 95% CI 0.64 to 3.28; 7 studies,
+619 participants; very low-certainty evidence due to risk of bias, inconsistency and imprecision).
+Compared to no intervention or waiting list, intermittent fasting likely results in little to no diﬀerence in percentage weight loss from
+baseline (MD −3.42, 95% CI −4.95 to −1.90; 6 studies, 427 participants; moderate-certainty evidence due to risk of bias). Intermittent
+fasting may result in little to no diﬀerence in quality of life, but the evidence is very uncertain (MD 3.49, 95% CI −49.35 to 56.33, 1 study,
+60 participants; very low-certainty evidence due to extreme concerns about imprecision). Intermittent fasting may result in little to no
+diﬀerence in adverse events, but the evidence is very uncertain (RR 1.84, 95% CI 0.88 to 3.85; 2 studies, 189 participants; very low-certainty
+evidence due to risk of bias and imprecision).
+None of the included studies reported participant satisfaction, diabetes status or overall measure of comorbidity.
+Authors' conclusions
+Compared to regular dietary advice, intermittent fasting may result in little to no diﬀerence in weight loss or quality of life. Intermittent
+fasting may result in little to no diﬀerence in adverse events, but the evidence is very uncertain. These approaches did not diﬀer in achieving
+weight loss, producing no clinically meaningful changes in most of the outcomes considered in this review. Compared to no intervention
+or waiting list, intermittent fasting likely results in little to no diﬀerence in weight loss and may result in little to no diﬀerence in quality of
+life or adverse events, but the evidence is very uncertain.
+Physicians and patients may need to evaluate willingness and readiness to implement intermittent fasting as a treatment strategy, based
+on individual practicality and sustainability.
+The included studies focused on short-term eﬀects of the intervention (up to 12 months), limiting the applicability of the evidence in this
+review to inform decision-making for longer durations. It would be beneficial for future studies to extend follow-up periods beyond 12
+months to build a stronger evidence base for the long-term eﬀects.
+Further research is needed to address the eﬀect of intermittent fasting on several outcomes, including participant satisfaction, diabetes
+status and overall measures of comorbidities. These studies must consider diﬀerent populations where obesity and overweight have
+diﬀerent burdens, like those from low- and middle-income countries and high-income countries, men or women separately, and diﬀerent
+body mass index categories.
+Funding
+This Cochrane review had no dedicated funding.
+Registration
+Protocol (2023): doi.org/10.1002/14651858.CD015610
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+P L A I N   L A N G U A G E   S U M M A R Y
+Intermittent fasting, traditional dietary advice or no treatment: which works better to help adults living with overweight or obesity
+lose weight?
+Key messages
+•
+Compared to traditional dietary advice (like restricting calories or eating diﬀerent types of foods), intermittent fasting may make little to
+no diﬀerence to weight loss and quality of life in adults living with overweight or obesity. We are less sure about the results for unwanted
+events.
+•
+Compared to no advice or being on a waiting list, intermittent fasting likely makes little to no diﬀerence to weight loss. We are less sure
+about the evidence for quality of life, and unwanted events (such as fatigue, headache and feeling sick).
+•
+None of the included studies reported people's satisfaction with intermittent fasting, their diabetes status or overall measures of other
+health problems. We need further research to investigate them.
+What is obesity and how could intermittent fasting help?
+Obesity is a serious medical condition characterised by high body fat, which can cause weight-related complications and may lead to
+serious illness (like type 2 diabetes) and death. Worldwide obesity levels are growing, increasing the burden on healthcare systems.
+Weight loss remains the best way to reduce health risks and eﬀects on society associated with overweight and obesity. Traditional dietary
+advice includes reducing calories, and changing eating habits to eat healthier foods or diﬀerent amounts of protein, carbohydrate and fat.
+Intermittent fasting is a relatively new approach to weight loss. It involves periods where people eat little or no food (fasting), followed
+by periods when they eat normally. There are diﬀerent types of intermittent fasting, such as eating only during a set time each day (time-
+restricted feeding), fasting on certain days of the week (periodic fasting), or alternating between days of eating normally and days of
+eating very little (alternate-day fasting). Intermittent fasting may improve overall health through helpful changes to some body functions,
+however, it may lead to unwanted events, such as fatigue, headache or nausea.
+What did we want to find out?
+We wanted to find out if intermittent fasting was more eﬀective for weight loss for adults living with overweight and obesity than traditional
+dietary advice. We also wanted to know its eﬀects on people's quality of life, diabetes status, and blood fat measurements, and whether
+people experienced unwanted eﬀects.
+What did we do?
+We searched for studies in people over 18 years of age, living with overweight or obesity, who were chosen at random to do intermittent
+fasting, or to receive traditional dietary advice, no treatment or be on a waiting list. (People on a waiting list are scheduled to receive
+treatment but do not start it right away; researchers compare them to people who started the treatment immediately). We included studies
+in people with and without obesity-related illness, such as diabetes or kidney disease.
+What did we find?
+We found 22 studies with 1995 people who were treated at home or in the community. Studies took place in Europe, North America, China,
+Australia, and South America.
+Compared to traditional dietary advice, intermittent fasting may result in little to no diﬀerence in weight loss, measured as change from
+starting weight (21 studies, 1430 people) and quality of life (three studies, 106 people). We are not sure about its eﬀect on achieving a 5%
+reduction in body weight (4 studies, 472 people) or on unwanted events (7 studies, 619 people).
+Compared to no intervention or waiting list, intermittent fasting likely makes little to no diﬀerence to weight loss (6 studies, 427 people).
+We are not sure about its eﬀect on quality of life (1 study, 60 people) or unwanted events (2 studies, 189 people).
+None of the included studies reported people's satisfaction with intermittent fasting, diabetes status or overall measures of other health
+problems.
+What are the limitations of evidence?
+We are moderately confident in the results for weight loss when comparing intermittent fasting with no treatment. However, our confidence
+is low to very low for our other points of interest because most included studies did not use the most robust methods, they included few
+people, and reported results that were inconclusive.
+How up-to-date is this review?
+The evidence is up to date to 5 November 2024.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+S U M M A R Y   O F   F I N D I N G S
+ 
+Summary of findings 1.   Intermittent fasting compared to regular dietary advice for adults with overweight or obesity
+Intermittent fasting versus regular dietary advice
+Patient or population: adults with overweight or obesity
+Settings: outpatient care in Australia, Brazil, China, Denmark, Germany, North America, and Norway
+Intervention: intermittent fasting
+Comparison: regular dietary advice
+Anticipated absolute effects* (95%
+CI)
+Outcomes
+№ of partici-
+pants
+(studies)
+Certainty of the
+evidence
+(GRADE)
+Relative effect
+(95% CI)
+Risk with regu-
+lar dietary ad-
+vice
+Risk with inter-
+mittent fasting
+Comments
+Weight loss
+Assessed with: % change
+from baseline
+Follow-up: range 6
+months to 12 months
+1430
+(21 RCTs)
+⨁⨁◯◯
+Lowa
+—
+Weight loss
+ranged from
+−10.56% to
+−0.69% of base-
+line weight
+MD 0.33 % low-
+er
+(0.92 lower to
+0.26 higher)
+Intermittent fasting may result in little to no
+difference in weight loss.
+Weight loss (categorical)
+Assessed with: % of partic-
+ipants losing 5% of body
+weight
+Follow-up: range 6
+months to 12 months
+472
+(4 RCTs)
+⨁◯◯◯
+Very lowa,b
+RR 0.98
+(0.82 to 1.18)
+408 per 1000
+399 per 1000
+(334 to 481)
+Intermittent fasting may have little to no ef-
+fect on achieving a 5% reduction in body
+weight, but the evidence is very uncertain.
+Quality of life
+Assessed with: AQoL-8D
+SF-36 and RAND-36
+Scale from: 0 to 100 (high-
+er scores indicate better
+quality of life)
+Follow-up: range 6
+months to 12 months
+106
+(3 RCTs)
+⨁⨁◯◯
+Lowc,d
+—
+Mean QoL
+ranged from
+66.46 points in
+the AQoL-8D
+scale to 80
+points in the
+RAND-36 scale
+SMD 0.11 SD
+higher
+(0.27 lower to
+0.49 higher)
+Intermittent fasting may result in little to no
+difference in quality of life. This corresponds
+to an MD of 0.13 (95% CI −0.31 to 0.57) in the
+SF-36 general physical health domain, an MD
+of 0.12 (95% CI −0.31 to 0.57) in the RAND-36
+items general physical health domain, and
+an MD of 0.12 (95% CI −0.30 to 0.54) in the
+AQoL-8D.
+Adverse events
+Assessed with: rate of par-
+ticipants with any adverse
+event
+619
+(7 RCTs)
+⨁◯◯◯
+Very lowa,d,e
+RR 1.45
+(0.64 to 3.28)
+279 per 1000
+404 per 1000
+(178 to 915)
+Intermittent fasting may have little to no ef-
+fect on adverse events, but the evidence is
+very uncertain. This analysis included two
+studies that reported no adverse events, for
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 7]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+Follow-up: range 6
+months to 12 months
+which the outcome was not estimable. Re-
+ported adverse events in the remaining stud-
+ies included nausea, headache, dizziness,
+hunger, constipation, dyspepsia, cold intoler-
+ance, irritability, insomnia and impaired con-
+centration.
+Participants' satisfac-
+tion
+None of the included studies reported this outcome under this comparison.
+Diabetes status
+None of the included studies reported this outcome under this comparison.
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and
+its 95% CI).
+AQoL-8D: Assessment of Quality of Life - 8D; CI: confidence interval; MD: mean difference; QoL: quality of life; RCT: randomised controlled trial; RR: risk ratio; SF-36: Short-
+Form Health Survey; SMD: standardised mean difference
+GRADE Working Group grades of evidence
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is
+substantially different.
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
+aDowngraded two levels due to risk of bias. We found an overall high risk of bias in most included studies reporting this outcome, with serious limitations in one or more criteria.
+bDowngraded one level due to imprecision. We found a low number of participants and events, and 95% CI including both benefits and harms.
+cDowngraded one level due to risk of bias. We found an overall high risk of bias in one included study and some concerns in the remaining studies reporting this outcome.
+dDowngraded one level due to imprecision. The 95% CI includes both benefits and harms.
+eDowngraded one level due to inconsistency. We found substantial heterogeneity in the eﬀect estimates of the included studies.
+ 
+ 
+Summary of findings 2.   Intermittent fasting compared to no intervention or waiting list for adults with overweight or obesity
+Intermittent fasting compared to no intervention or waiting list
+Patient or population: adults with overweight or obesity
+Settings: outpatient care in Australia, Germany, and the USA
+Intervention: intermittent fasting
+Comparison: no intervention or waiting list
+Outcomes
+№ of partici-
+pants
+(studies)
+Certainty of the
+evidence
+(GRADE)
+Relative effect
+(95% CI)
+Anticipated absolute effects* (95%
+CI)
+Comments
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 8]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+Risk with no in-
+tervention or
+waiting list
+Risk with in-
+termittent
+fasting
+Weight loss
+Assessed with: % change from
+baseline
+Follow-up: range 6 months to
+12 months
+427
+(6 RCTs)
+⨁⨁⨁◯
+Moderatea
+—
+Weight loss
+ranged from
+−2.79% to
+1.11% of base-
+line weight
+MD 3.42% low-
+er
+(4.95 lower to
+1.90 lower)
+Intermittent fasting likely results in little
+to no difference in weight loss.
+Weight loss (categorical)
+Assessed with: % of partici-
+pants losing 5% of body weight
+None of the included studies reported this outcome under this comparison.
+Quality of life
+Assessed with: SF-36
+Scale from: 0 to 100 (higher
+scores indicate better quality of
+life)
+Follow-up: 12 months
+60
+(1 RCT)
+⨁◯◯◯
+Very lowb
+—
+Mean QoL was
+65.04
+MD 3.49 points
+higher
+(49.35 lower to
+56.33 higher)
+Intermittent fasting may result in little
+to no difference in the general physical
+health domain of quality of life, but the
+evidence is very uncertain.
+Adverse events
+Assessed with: rate of partici-
+pants with any adverse event
+Follow-up: range 6 months to
+12 months
+189
+(2 RCTs)
+⨁◯◯◯
+Very lowc,d
+RR 1.84
+(0.88 to 3.85)
+99 per 1000
+181 per 1000
+(87 to 380)
+Intermittent fasting may have little to
+no effect on adverse events, but the evi-
+dence is very uncertain. This analysis in-
+cluded one study that reported no ad-
+verse events, for which the outcome was
+not estimable. Reported adverse events
+in the other study included back pain,
+flu, nausea, headache, dizziness, diar-
+rhoea, and constipation.
+Participants' satisfaction
+None of the included studies reported this outcome under this comparison.
+Diabetes status
+None of the included studies reported this outcome under this comparison.
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and
+its 95% CI).
+CI: confidence interval; MD: mean difference; QoL: quality of life: RCT: randomised controlled trial; RR: risk ratio; SF-36: short-form health survey
+GRADE Working Group grades of evidence
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is
+substantially different.
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 9]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
+aDowngraded one level due to risk of bias. We found an overall high risk of bias in most included studies, with serious limitations in one criterion or some limitations in multiple
+criteria.
+bDowngraded three levels due to extreme imprecision. The sample size was small. The 95% CI includes considerable harm, no eﬀect, and large benefit.
+cDowngraded two levels due to high risk of bias in several domains in the included studies.
+dDowngraded one level due to imprecision. The 95% CI includes both benefits and harms.
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+Obesity is a serious medical condition characterised by excess
+adiposity, which is a source of extensive morbidity and mortality,
+due to several weight-related complications that may impair health
+[1]. It is a significant public health problem in modern society that
+has become a leading cause of death in high-income countries
+(HICs) [2, 3, 4]. Between 1980 and 2013, the prevalence of obesity
+or overweight increased by 27.5% for adults and by 47.1% for
+children worldwide, with a total of 2.1 billion individuals living
+with overweight or obesity [5]. According to the World Health
+Organization (WHO), obesity has tripled globally since 1975 [6],
+with overweight and obesity levels across low- and middle-income
+countries (LMICs) approaching those found in HICs, especially
+in the Middle East and North Africa, and in Latin America and
+the Caribbean [7]. In HICs, obesity prevalence is highest among
+those experiencing poverty, while overweight is prevalent across
+all wealth groups. In contrast, the prevalence of obesity and
+overweight in LMICs is higher among wealthier individuals than
+those experiencing poverty [8]. Higher overweight rates are seen in
+women compared with men, in urban compared with rural settings,
+and in older people compared with younger people, although the
+urban-rural overweight diﬀerential is shrinking in many countries
+[9]. A recent body mass index (BMI) analysis in the USA predicted
+that by 2030, one in two adults will live with obesity [10].
+Obesity is considered a risk factor for cardiovascular disease, type
+2 diabetes, and cancer [11]. This leads to an average increase
+in annual healthcare costs of 36% and medication costs of 77%
+compared with a person of average weight [5], and imposes a
+large economic burden on the individual, families, and nations [12].
+Besides excess healthcare expenditure, obesity also imposes costs
+due to lost productivity and foregone economic growth, due to lost
+work days, lower productivity at work, mortality, and permanent
+disability. In 2014, the global economic impact of obesity was
+estimated to be US Dollars (USD) 2.0 trillion, or 2.8% of global gross
+domestic product [12].
+Multiple factors influence the development of obesity, including
+individual, social, environmental, and macro-level determinants
+[13]. Individual determinants include biological, psychological,
+and behavioural factors, such as metabolic disorders, excessive
+calorie consumption, physical inactivity, and psychological factors
+[14]. Social determinants include cultural and economic factors.
+Environmental determinants may consist of (but are not limited
+to) the lack of or barriers to accessing healthy foods and safe
+walking areas within the neighbourhood. Macro-level determinants
+relate to the influence of the media, access to health care, and
+government policies [13]. The diagnostic evaluation for obesity
+involves both an anthropometric component, such as BMI and
+waist circumference, and a clinical component that constitutes an
+assessment of the risk, presence, and severity of weight-related
+complications, indicating increased fat mass and the degree to
+which the excess adiposity is adversely aﬀecting the health of the
+individual [1].
+Epidemiologic studies define overweight and obesity using BMI
+(weight (kg)/height2 (m)) to stratify obesity-related health risks at a
+population level. An adult with overweight is operationally defined
+as having a BMI between 25 kg/m2 and 29.9 kg/m2. An adult with
+obesity is defined as having a BMI exceeding 30 kg/m2, which is
+further subclassified into class 1 obesity (BMI 30 kg/m2 to 34.9
+kg/m2), class 2 obesity (BMI 35 kg/m2 to 39.9 kg/m2), and class 3
+obesity (BMI ≥ 40 kg/m2 [15]). While BMI is widely used, it is not
+a reliable indicator of obesity at the individual level, particularly
+when comparing diﬀerent ethnic groups [16]. The treatment of
+overweight and obesity involves weight management to reduce
+health risks. This includes the promotion of weight loss, weight
+maintenance, and prevention of weight regain, along with physical
+activity, behavioural therapy, pharmacotherapy, surgery, and the
+prevention and treatment of potential comorbidity [17].
+Description of the intervention and how it might work
+Intermittent fasting involves eating patterns during which
+individuals take little or no energy for extended time periods
+alternated with periods of normal food intake [18, 19]. This may
+imply consuming the entire daily caloric intake in a specific time
+window, for example, eight hours, or it may mean eating one day
+and completely fasting the next day [20]. During the fasting period,
+consuming calories frequently varies from 0% to 35% of regular
+caloric needs [3]. Food consumption on non-fasting days can be
+unrestricted, limited to a specific diet, or oriented to achieve a
+specific caloric intake of up to 125% of regular caloric needs [20].
+Intermittent fasting can be administered alone or as part of a
+programme with multiple interventions (such as physical activity,
+behavioural therapy, etc.) [21, 22].
+There are several diﬀerent types of intermittent fasting [23].
+•
+Time-restricted feeding: focuses on the duration of the fasting
+and eating windows within a 24-hour period; daily food intake is
+restricted to a certain time window (usually ≤ 10 hours), and the
+overnight fast is extended to at least 14 hours.
+•
+Periodic fasting: fasting one to two days a week, with
+unrestricted consumption of food on the remaining five to six
+days [20].
+•
+Alternate-day fasting: a regimen of 24 hours of fasting on
+alternate days, with modified fasting or a restricted calorie
+intake on fasting days and regular eating on non-fasting days
+[24].
+•
+Modified alternate-day fasting: a degree of calorie restriction
+or modified fasting during fasting periods, such as the 5:2 diet,
+during which drastic energy restriction is imposed for two days
+a week, and food consumption is unrestricted for the remaining
+five days. Modified alternate-day fasting has two key elements:
+◦food restriction is applied on alternate days (nominally 24
+hours, although practically more varied to accommodate
+sleep); and
+◦any energy allowed during the fast is provided in a single
+meal, ensuring a tangible extension of the typical overnight
+fast [24].
+Physicians’ training in intermittent fasting is essential to provide
+adequate information, ongoing communication, support, and
+potential co-interventions [25, 26].
+Modifying diet and meal frequency by several fasting patterns may
+represent a new paradigm in today's medical approaches [27].
+Intermittent fasting may lead to various physiological beneficial
+eﬀects, such as weight loss, improved insulin sensitivity, reduced
+inflammation, increased cell repair, improved cardiovascular
+and cognitive health, changes in hormone production, and
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+enhanced immune system functionality [25, 28]. However, the exact
+mechanisms for these eﬀects are poorly understood [29].
+The mechanism for weight loss is related to caloric restriction,
+increased fat metabolism, enhanced insulin sensitivity, and
+improved glucose metabolism. Glucose and fatty acids are
+essential sources of energy for metabolism. Glucose is used for fuel
+afer meals, and fat is stored as triglycerides. During fasting periods,
+triglycerides are broken down into fatty acids and glycerol, which
+are then converted to ketone bodies by the liver, which provides
+a significant source of energy for many tissues during fasting, and
+promotes fat loss [25], which may lead to positive changes in body
+composition [30]. Ketone bodies may contribute to the epigenetic
+control of gene expression, DNA repair, and genome stability [31],
+leading to cell restoration, which may positively aﬀect cognition
+and survival. Intermittent fasting also restores a catabolic process
+that recycles nutrients in starvation, and maintains cellular energy
+homeostasis, enhancing the immune system's functionality [32].
+Other proposed mechanisms of action are related to changes in
+endogenous circadian clocks, which regulate the production of
+metabolites and hormones, such as cortisol, insulin, and glucagon,
+which in turn, aﬀect body weight and composition [33]. These
+changes may also positively aﬀect the diversity of the intestinal
+microbiome [34]. In animal models, this promotes the browning of
+white adipose tissue, increases thermogenesis, and may contribute
+to weight loss [29]. Diﬀerent types of fasting can have varying
+impacts on weight loss due to diﬀerences in how they aﬀect calorie
+intake and metabolic processes, as longer fasting periods may not
+necessarily be superior and could even encourage more fat storage
+than other fasting approaches [35].
+Adverse eﬀects of the intervention
+Potential risks of intermittent fasting include dehydration,
+hypoglycaemia (low blood sugar), fatigue, weakness, dizziness,
+hypotension (low blood pressure), insomnia, nausea, headache
+or migraines, presyncope or syncope (feeling faint or fainting),
+dyspepsia (indigestion), malnutrition, and excessive hunger.
+Overeating is an expected consequence, although studies show
+that participants maintain a regulation of intake afer the fasting
+period [36]. Special considerations are needed in people with
+mental illness or undiagnosed eating disorders [37]. A dietitian
+or nutritionist should be consulted to ensure that the nutritional
+needs of the person are being met.
+Why it is important to do this review
+As overweight and obesity rates increase, weight loss remains
+the primary strategy for reducing health risks and societal
+consequences associated with overweight and obesity [38]. Both
+observational studies and controlled trials have reported that a 5%
+weight loss produces clinically significant improvements in obesity-
+associated conditions [39]. Several clinical practice guidelines and
+scientific societies state that current research on intermittent
+fasting is limited, and recommend oﬀering a comprehensive
+lifestyle intervention that combines behavioural, dietary, and
+physical activity components as foundational elements of any
+weight management intervention [15, 39, 40].
+Intermittent fasting involves eating patterns during which
+individuals take little or no energy for extended time periods
+alternated with periods of normal food intake [41]. Therefore, it
+becomes necessary to search for eﬀective interventions that people
+can follow in the long term, and which provide permanent or
+sustained weight loss [42].
+Over recent years, intermittent fasting has been publicised in
+blogs and news articles [28]. Studies show inconsistent eﬀects on
+health, highlighting the uncertainty faced by physicians and people
+with overweight or obesity when considering intermittent fasting
+as a feasible approach for sustained weight loss [27]. Although
+a recent Cochrane review addressed the eﬀects of intermittent
+fasting in preventing and reducing the risk of cardiovascular
+disease, most included studies recruited participants without
+overweight or obesity, limiting their findings for this population
+[23]. Other non-Cochrane systematic reviews have assessed the
+eﬀect of intermittent fasting in specific populations, such as people
+with diabetes and multiple sclerosis. They focused on surrogate
+outcomes, such as fasting insulin or systolic blood pressure, instead
+of primary clinical outcomes, such as quality of life or participants'
+satisfaction [3, 43]. The methodological limitations raise concerns
+about the generalisability and applicability of their findings in
+people with overweight and obesity.
+O B J E C T I V E S
+To evaluate the benefits and harms of intermittent fasting versus
+regular dietary advice, no intervention or waiting list for adults with
+overweight or obesity.
+M E T H O D S
+We followed the Methodological Expectations for Cochrane
+Intervention Reviews (MECIR) when conducting the review [44] and
+the Preferred Reporting Items of Systematic Reviews and Meta-
+Analyses (PRISMA) 2020 for the reporting [45].
+We based parts of the Methods, as well as Supplementary material
+1 of this Cochrane review, on a standard template established by
+the Cochrane Metabolic and Endocrine Disorders Group.
+Diﬀerences between protocol and review
+We reformulated the objectives to 'To evaluate the benefits and
+harms of intermittent fasting versus regular dietary advice, no
+intervention or waiting list for adults with overweight or obesity' as
+suggested by the Managing Editor [46].
+We deleted 'placebo' from the possible comparisons, as this
+comparison is very unlikely to be found in trials, and we found no
+studies using placebo as a comparator [46].
+We simplified the definition of adverse events to 'Adverse events:
+defined as the number of participants experiencing adverse
+outcomes that occur during or afer the intervention, such as
+fatigue, headache and nausea, or otherwise as defined by the
+trial authors' to better match the reported adverse events in the
+included studies [46].
+We incorporated the subgroup analyses of gender and
+country income into the Equity-related assessment section. We
+incorporated additional detail in Supplementary material 9.
+We incorporated additional information on Consumer involvement
+in Supplementary material 10.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We prioritised weight loss reported as the percentage change
+from baseline. We transformed the available data to this unit
+for the analyses when not available or reported in kg of weight
+loss, to maximise the use of available information and enhance
+interpretability.
+We prioritised the short-term time point for the summary of
+findings tables, as most included studies had 6 to 12 months of
+follow-up, and only one study had data for long-term follow-up (>
+12 months; Teong 2023 [47, 48, 49, 50, 51]).
+Criteria for considering studies for this review
+Types of studies
+We included randomised controlled trials (RCTs) and cluster-RCTs).
+Following guidelines in Chapter 23 of the Cochrane Handbook
+for Systematic Reviews of Interventions, we excluded cross-over
+trials because they may have a potential withdrawal, rebound,
+or carry-over eﬀect during or afer the washout period [52].
+We also excluded quasi-RCTs (any quantitative study that uses
+inappropriate strategies of allocating units to intervention groups).
+We included studies reported as full text, those published as an
+abstract only, and unpublished data where it was possible to
+establish their eligibility for inclusion when data were limited.
+Types of participants
+We included trials including participants aged 18 years or older
+with overweight or obesity, with or without associated comorbid
+conditions such as diabetes, kidney disease, fatty liver disease, etc.
+If we identified studies in which only a subset of participants was
+relevant to this review, we included these studies if data were
+available separately for the relevant subset or if more than 80% of
+participants met the inclusion criteria.
+Diagnostic criteria for overweight and obesity
+We used BMI as the anthropometric measurement for diagnosing
+obesity and overweight. BMI provides the most used population-
+level measure of overweight and obesity, as it is the same for both
+sexes and for all adult ages [6]. We used these cutoﬀ points [1, 15]:
+•
+overweight (BMI 25 kg/m2 to 29.9 kg/m2);
+•
+obesity (BMI ≥ 30 kg/m2).
+If the included studies used diﬀerent cutoﬀ points to diagnose
+overweight and obesity, we used the classification defined by the
+study authors.
+Types of interventions
+We included trials that compared intermittent fasting alone or as
+part of a programme with multiple interventions (such as physical
+activity, behavioural therapy, etc.) with no intervention, waiting list
+or other dietary interventions, for example, the Mediterranean diet,
+as specified by the study authors. To establish a fair comparison, we
+included co-interventions, such as exercise, provided they were not
+part of the randomised treatment and were comparable in both the
+intervention and comparator groups. If a study included multiple
+arms, we included any arm that met the inclusion criteria for this
+review.
+We planned to investigate the following comparisons of
+intervention versus control or comparator.
+Intervention
+•
+Intermittent fasting
+Diﬀerent types of intermittent fasting methods and details are
+described in Description of the intervention and how it might work.
+We excluded studies that report religious fasts, as their aim is not
+weight loss or improvement of metabolic variables [53].
+Comparators
+•
+Regular dietary advice: as defined by the study authors. This
+could include an eating plan emphasising fruit, vegetables,
+whole grains, seafood, caloric restriction, or any specific dietary
+advice for weight loss.
+•
+No intervention or waiting list
+Minimum duration of intervention
+The minimum duration of the intervention was four weeks, which
+is the shortest time frame described for dietary interventions [42,
+54, 55].
+Minimum duration of follow-up
+The minimum duration of follow-up was six months, which is the
+time point at which weight loss tends to plateau [38, 42, 54, 55].
+Outcome measures
+We did not exclude a study if it failed to report more than one
+of our primary or secondary outcome measures of interest. We
+only excluded studies if none of our outcomes of interest were
+measured, and provided there was evidence to support this,
+for example, contact with study authors, access to the original
+protocol, etc. When studies reported multiple outcome measures,
+we prioritised the most reported scale among the included studies.
+We prioritised weight loss reported as percentage change from
+baseline. We transformed the available data to this unit for
+the analyses when not available or reported in kg of weight
+loss, to maximise the use of available information and enhance
+interpretability.
+Critical outcomes
+•
+Weight loss
+•
+Quality of life
+•
+Adverse events
+Important outcomes
+•
+Participant satisfaction
+•
+Diabetes status
+•
+Changes in lipid profile
+•
+Overall measure of comorbidity
+Method of outcome measurement
+•
+Weight loss: defined as a continuous outcome, such as the
+percentage of baseline weight lost, number of kg lost, or both; or
+as a categorical outcome, such as the proportion of participants
+achieving a 5% weight loss from baseline [56]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+Quality of life: evaluated by a validated instrument, such as
+the Short-Form Health Survey (SF-36), the 12-item Short-Form
+Health Survey (SF-12) or EuroQol-5D [56, 57]
+•
+Adverse events: defined as the number of participants who
+experienced adverse outcomes that occurred during or afer
+the intervention, such as fatigue, headache and nausea, or
+otherwise as defined by the study authors [56]
+•
+Participant satisfaction: assessed by the mean Outcomes and
+Experiences Questionnaire (OEQ) score, adapted to suit weight-
+management services, or mean National Health Service Friends
+and Family Test (NHSFFT) score [56]
+•
+Diabetes status: the percentage of participants with incident
+type 2 diabetes mellitus (based on self-report, electronic health
+records, or blood tests, such as a change in glycosylated
+haemoglobin levels or fasting glucose [56])
+•
+Change in lipid profile: the mean change from baseline for total
+cholesterol levels, high-density lipoprotein (HDL) levels, and
+triglycerides of participants, obtained via blood test [56]
+•
+Overall measure of comorbidity: assessed with a validated
+tool that assesses the burden of comorbidity, such as the
+Edmonton Obesity Staging System (EOSS) score [56], the
+Charlson Comorbidity Index [56], the Elixhauser Comorbidity
+Index [58], or any other tool reported by study authors
+Timing of outcome measurement
+We considered outcomes measured up to and including 12 months
+afer randomisation as short-term, and those measured at more
+than 12 months as long-term. When multiple results were reported
+for each outcome, we included the longest follow-up in each
+category.
+Minimally important diﬀerence
+The minimal clinically important diﬀerence (MCID) may not have
+been available for all outcomes considered, but we stated it when
+available. We considered an absolute change of 5% in body weight
+as MCID [39, 59, 60]. For quality of life, we considered a mean change
+of 0.03 points on the EuroQol-5D, and 5 points on the SF-12 as MCID
+[61, 62].
+Search methods for identification of studies
+Electronic searches
+We searched the following sources from the inception of each
+database to 5 November 2024; we placed no restrictions on the
+language of publication:
+•
+Cochrane Central Register of Controlled Trials (CENTRAL; 2024,
+Issue 11) via the Cochrane Library;
+•
+MEDLINE Ovid; MEDLINE ALL (1946 to 5 November 2024);
+•
+ClinicalTrials.gov (www.clinicaltrials.gov);
+•
+World Health Organization International Clinical Trials Registry
+Platform (ICTRP; www.who.int/trialsearch).
+We did not include Embase in our search, as RCTs indexed in
+Embase are now prospectively added to CENTRAL via a highly
+sensitive screening process [63]. For detailed search strategies,
+see Supplementary material 1. We combined the MEDLINE search
+with the Cochrane Highly Sensitive Search Strategy for randomised
+trials: sensitivity and precision-maximising version [64].
+Searching other resources
+We attempted to identify other potentially eligible studies or
+ancillary publications by searching the reference lists of included
+studies and systematic reviews, meta-analyses, and health
+technology assessment reports identified during our searches. We
+contacted experts in the field to identify additional unpublished
+materials. We also contacted the authors of the included studies
+to request additional information on the retrieved studies and
+establish whether we may have missed further studies. We
+searched for errata or retractions of the included studies.
+Data collection and analysis
+Selection of studies
+Two review authors (from LG, GO, DI, MAB, PA, SR, MB and DR)
+independently screened the abstract, title, or both, of every record
+retrieved by the literature searches. We obtained the full text
+of all potentially relevant records. We resolved disagreements
+through consensus or by recourse to a third review author (EM).
+If we did not resolve a disagreement, we categorised the study
+as 'awaiting classification' and contacted the study authors for
+clarification. We presented a PRISMA flow diagram to show the
+study selection process [45]. We listed all articles excluded afer
+full-text assessment in a 'Characteristics of excluded studies' table
+and provided the reasons for exclusion [45]. We used Covidence
+sofware for study selection [65].
+Data extraction and management
+For studies that fulfilled our inclusion criteria, two review authors
+(from LG, GO, DI, MAB, PA, SR, MB and DR) independently extracted
+key information on participants, interventions, comparators and
+outcomes, using a data collection form that was piloted ahead of
+time on at least one study in the review. We extracted the following
+data from the reports.
+•
+Methods
+◦Study design
+•
+Participants
+◦Inclusion and exclusion criteria
+◦Participant details, baseline demographics (number of male
+participants, mean age, age range, gender, diagnosis criteria,
+BMI, severity of the condition, dyslipidaemia, diabetes
+mellitus, inclusion criteria and exclusion criteria)
+◦The number of participants by study and by study arm
+•
+Interventions and comparisons, according to the Template for
+Intervention Description and Replication (TIDieR) checklist [66,
+67]
+◦Name of the intervention
+◦Why: rationale, theory or goal of the elements essential to the
+intervention
+◦What: physical or informational materials used in the
+intervention; procedures, activities, or processes used in the
+intervention
+◦Who provided: expertise, background and specific training
+given
+◦How: describe modes of delivery
+◦Where: describe the location where the intervention
+occurred, including infrastructure and features
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+◦When/how much: the number of times the intervention was
+delivered over a period of time
+◦Tailoring: describe if personalisation or adaptations were
+planned
+◦Modifications: during the course of the study
+◦How well: measurements of adherence or fidelity
+•
+Outcomes
+◦Definitions of relevant outcomes, method and timing of
+outcome measurement, as well as any relevant subgroups to
+the review
+•
+Study dates (start date to end date; we reported if dates were not
+available
+•
+Study settings and country, language of publication, and study
+identifier
+•
+Study funding sources
+•
+Declarations of interest by study authors
+We reported these data in the 'Characteristics of included studies'
+table in Supplementary material 2.
+We contacted all authors of the included studies to enquire whether
+they were willing to answer questions regarding their studies. We
+documented these communications. We sought relevant missing
+information on the study from the primary study authors if
+required.
+Dealing with duplicate and companion publications
+In the event of duplicate publications, companion documents, or
+multiple reports of a primary study, we maximised the information
+yield by collating all available data, and we used the most complete
+data set, aggregated across all known publications. We listed
+duplicate publications, companion documents, multiple reports
+of a primary study, and trial documents of included trials (such
+as trials registry information) as secondary references under the
+study ID of the included study. We also listed duplicate publications,
+companion documents, multiple reports of a study, and trial
+documents of excluded trials (such as trials registry information) as
+secondary references under the study ID of the excluded study.
+Data from clinical trials registers
+If data from included studies were available as study results in
+clinical trials registers, such as ClinicalTrials.gov or similar sources,
+we used this information in its entirety and extracted the data. If
+there was also a full study publication, we collated and critically
+appraised all available data. If the published and unpublished data
+did not match, we asked the study authors for clarification; if we
+received no response we presented the discrepancies in the full
+review report. If an included study was labelled as completed in a
+clinical trials register but no additional information (study results,
+publication, or both) was available, we added this study to the
+'Characteristics of studies awaiting classification' table.
+Risk of bias assessment in included studies
+Two review authors (from LG, GO, DI, MAB, PA, SR, MB, and DR)
+independently assessed the risk of bias for the results of the
+primary outcomes (those included in the Summary of findings
+tables, see below) in each study, using the Cochrane risk of bias
+tool (RoB 2) [68]. We resolved disagreements by consensus or by
+consulting a third review author (EM). If adequate information was
+unavailable from the publications, trial protocols, clinical study
+reports, or other sources, we contacted the study authors for
+more details on the risk of bias items. We assessed the risk of
+bias according to the following domains, focusing on the eﬀect of
+assignment to the intervention at baseline:
+•
+the randomisation process;
+•
+deviations from intended interventions;
+•
+missing outcome data;
+•
+measurement of the outcome;
+•
+selection of the reported results.
+We collectively used the answers to signalling questions and
+supporting information to reach a domain-level judgement of
+low risk, some concerns, or high risk of bias. These domain-level
+judgements informed our overall risk of bias judgement for a single
+outcome result as:
+•
+low risk, if we judged all domains as low risk;
+•
+some concerns, if we judged one or more domains as giving
+some concerns; or
+•
+high risk, if we judged one or more domains as high risk, or if four
+domains gave us some concerns.
+We provided a quote from the study report, together with a
+justification for our judgement, in the risk of bias table. We
+summarised the risk of bias judgements across diﬀerent studies
+and domains for each outcome described. When judging the bias
+due to deviations from intended interventions, we focused the
+analyses on the eﬀect of assignment to intervention [68]. We aimed
+to source trials registries, protocols, and analysis plans to assess
+selective reporting. Where information on the risk of bias related to
+unpublished data or correspondence with a study author, we noted
+it in the risk of bias table.
+When considering treatment eﬀects, we considered the risk of bias
+for the studies that contributed to that outcome. We constructed
+summary assessments of the risk of bias for each important
+outcome (across domains) within and across studies [68].
+We used the RoB 2 Excel tool to manage the data supporting the
+answers to the signalling questions and risk of bias judgements
+(available at www.riskofbias.info/). All these data are publicly
+available, as supplementary material, in a public repository (visit
+https://osf.io/9mxq5/; DOI 10.17605/OSF.IO/9MXQ5).
+For cluster-RCTs, we used the RoB 2 tool, plus a specific
+domain for cluster-RCTs from the archived version of the tool
+(Domain 1b. Bias arising from the timing of identification and
+recruitment of participants; available at www.riskofbias.info), with
+its corresponding signalling questions, following the guidance in
+the Cochrane Handbook, Section 23.1.2 and Table 23.1.a [52].
+Measures of treatment eﬀect
+We expressed dichotomous data as a risk ratio (RR) with 95%
+confidence intervals (CIs). For continuous outcomes measured on
+the same scale, for example, weight loss in kg, we estimated
+the intervention eﬀect using the mean diﬀerence (MD) with
+95% CIs. When data were pooled from studies that used
+diﬀerent instruments to measure the same outcome, we calculated
+standardised mean diﬀerences (SMDs) with 95% CIs. We entered
+data presented as a scale with a consistent direction of eﬀect,
+and multiplied the SMD by a standard deviation (SD) that is
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+representative of the pooled studies, for example, the SD from a
+well-known scale used by several of the studies included in the
+analysis on which the result was based.
+Unit of analysis issues
+We considered the level at which randomisation occurred and
+multiple observations for the same outcome. If more than one
+comparison from the same study was eligible for inclusion in
+the same meta-analysis, we either combined groups to create a
+single pair-wise comparison, or appropriately reduced the sample
+size so that the same participants did not contribute data to the
+meta-analysis more than once (splitting the shared group into
+two or more groups). Although the latter approach oﬀers some
+solutions for adjusting the precision of the comparison, it does not
+account for correlation arising from the inclusion of the same set of
+participants in multiple comparisons [52].
+We re-analysed cluster-RCTs that had not appropriately adjusted
+for the potential clustering of participants within clusters in their
+analyses. We inflated the variance of intervention eﬀects using a
+design eﬀect. Calculating a design eﬀect involves the estimation
+of an intracluster correlation coeﬀicient (ICC), specified in Chapter
+23 of the Cochrane Handbook [52]. We obtained estimates of ICCs
+by contacting study authors or by imputing ICC values, using
+either estimates from other included studies that reported ICCs
+or external estimates from empirical research. We examined the
+impact of clustering by performing sensitivity analyses.
+Dealing with missing data
+If possible, we obtained missing data from the authors of the
+included studies. We carefully evaluated important numerical
+data, such as screened, randomly assigned participants, and
+intention-to-treat, as-treated, and per-protocol populations in our
+risk of bias assessments. For this, we investigated attrition rates,
+such as dropouts, losses to follow-up, and withdrawals, and
+critically appraised issues concerning missing data and the use
+of imputation methods, for example, the last observation carried
+forward. For our primary analyses, we conducted available case
+analyses, considering these issues when assessing the risk of bias
+and the certainty of the evidence.
+For studies where the outcome's SD was unavailable at follow-up,
+or we could not recreate it, we standardised by the mean of the
+pooled baseline SD from studies that reported this information.
+Reporting bias assessment
+If we included 10 studies or more per comparison and outcome,
+we used funnel plots to assess small-study eﬀects. Several
+explanations may account for funnel plot asymmetry, including
+true heterogeneity of eﬀect with respect to study size, poor
+methodological design (and hence small-study bias), and selective
+non-reporting [69]. Therefore, we interpreted the results carefully
+[70].
+Synthesis methods
+We undertook a meta-analysis only if we judged the participants,
+interventions, comparisons, and outcomes to be suﬀiciently
+similar to ensure a clinically meaningful result. Unless good
+evidence showed homogeneous eﬀects across studies of diﬀerent
+methodological quality, we primarily summarised data using a
+random-eﬀects model [71]. We interpreted random-eﬀects meta-
+analyses with due consideration for the whole distribution of
+eﬀects, and presented a confidence interval. We performed
+statistical analyses according to the statistical guidelines presented
+in the Cochrane Handbook [72]. When meta-analysis was not
+possible, we conducted alternative forms of synthesis, including
+the summary of eﬀect estimates, the combination of P values, and
+vote counting, based on the direction of eﬀects, as described in
+Chapter 12 of the Cochrane Handbook [73].
+In the event of substantial clinical or methodological heterogeneity,
+we did not report study results as the pooled eﬀect estimate in a
+meta-analysis.
+We visually examined the variability in point estimates and the
+overlap in confidence intervals. We used the I2 statistic to estimate
+the degree of heterogeneity present among the trials in each
+analysis. If we identified substantial unexplained heterogeneity, we
+reported it, and explored possible causes by prespecified subgroup
+analysis. We used this rough guide to interpretation, outlined in
+Chapter 10 of the Cochrane Handbook [72]:
+•
+0% to 40%: might not be important;
+•
+30% to 60%: may represent moderate heterogeneity;
+•
+50% to 90%: may represent substantial heterogeneity;
+•
+75% to 100%: considerable heterogeneity.
+We avoided using absolute cutoﬀ values but interpreted the I2
+statistic in relation to:
+•
+the size and direction of eﬀects; and
+•
+the strength of evidence for heterogeneity, for example, P value
+from the Chi2 test or CI for the I2 statistic.
+Investigation of heterogeneity and subgroup analysis
+We expected the following characteristics to introduce clinical
+heterogeneity, and we planned to carry out subgroup analyses for
+them, including an investigation of interactions [74].
+•
+LMICs versus HICs, based on the World Bank classification
+(available at the World Bank website)
+•
+Men versus women, considering studies conducted in one
+gender exclusively or with over 80% of participants representing
+a specific gender to establish the subgroups.
+•
+Overweight versus obesity
+•
+Diﬀerent types of intermittent fasting
+•
+Delivery of the interventions: intermittent fasting alone versus
+intermittent fasting as a component of a programme with
+multiple interventions
+We used the formal test for subgroup interactions in Review
+Manager (RevMan) [75], acknowledging its limitations due to its
+observational nature and low power to detect diﬀerences with
+fewer than 10 studies per category [72].
+Equity-related assessment
+We 
+investigated 
+equity-related 
+characteristics 
+using 
+the
+PROGRESS-Plus framework [76], and following the guidance in
+Chapter 16 of the Cochrane Handbook, by assessing the eﬀects of
+the intervention and exploring the potential diﬀerences between
+LMICs versus HICs [77]. Additionally, we explored the diﬀerent
+eﬀects of the intervention on men and women. We based
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+these analyses on the diﬀerent distributions and incidences of
+obesity and overweight according to country incomes [7, 8],
+and gender [9] (see Investigation of heterogeneity and subgroup
+analysis). Supplementary material 9 describes the equity-related
+characteristics of participants that led to the interpretation of the
+results.
+Sensitivity analysis
+We planned to perform sensitivity analyses to explore the influence
+of the following factors (when applicable) on eﬀect sizes.
+•
+Restricting the analysis to studies at an overall low risk of bias
+•
+Restricting the analysis to published studies (if there were any
+unpublished studies)
+•
+Excluding studies with cluster randomisation
+Certainty of the evidence assessment
+We presented the overall certainty of the evidence for each
+outcome specified below, according to the GRADE approach, which
+considers issues related to internal validity (overall risk of bias,
+inconsistency, imprecision, publication bias) and external validity
+(directness of results). Two review authors (from LG, GO, DI,
+MAB, PA, SR, MB, and DR) independently rated the certainty of
+the evidence for each outcome. We resolved any diﬀerences in
+assessment by discussion or by consulting a third review author
+(EM).
+We presented a summary of the evidence in the summary of
+findings tables, with:
+•
+key information about the best estimate of the magnitude of
+eﬀect, in relative terms and as absolute diﬀerences, for each
+relevant comparison of alternative management strategies;
+•
+the numbers of participants and studies addressing each
+important outcome; and
+•
+a rating of overall confidence in eﬀect estimates for each
+outcome.
+We created the summary of findings tables using the methods
+described in the Cochrane Handbook [78], RevMan [75], and
+GRADEpro GDT sofware [79].
+When meta-analysis was impossible, we presented the results
+in a narrative format in the summary of findings tables. We
+justified all decisions to downgrade the certainty of the evidence by
+using informative footnotes and GRADE guidelines for informative
+statements [80, 81].
+We created summary of findings tables for the following
+comparisons and outcomes:
+•
+Comparisons
+◦Intermittent fasting versus regular dietary advice
+◦Intermittent fasting versus no intervention or waiting list
+•
+Outcomes:
+◦Weight loss: reported as a categorical outcome, such as the
+proportion of participants achieving a 5% weight loss from
+baseline, or as a continuous outcome, using the percentage
+of baseline weight lost
+◦Quality of life
+◦Adverse events
+◦Participants' satisfaction
+◦Diabetes status
+Consumer involvement
+Consumers were not involved in this review. We included several
+nutrition specialists in the author team, among other medical
+doctors and allied professionals who participated in all the stages of
+the review process. More information is in Supplementary material
+10.
+R E S U L T S
+Description of studies
+For study details, see Supplementary material 2; Supplementary
+material 3; Supplementary material 4; Supplementary material 5.
+A complete record of all comparisons and analyses is available for
+this review in Supplementary material 7 and a full data package is
+available in Supplementary material 8.
+Results of the search
+The database searches identified 23,155 search results, of which
+18,376 records remained afer deduplication. We excluded 18,197
+afer the title and abstract screening. We sought the full texts of
+the remaining 179 records, eight of which were not retrieved. We
+excluded 76 records (representing 75 studies) (see Supplementary
+material 3). We classified 17 records (representing 16 studies) as
+awaiting classification (see Supplementary material 4) and found
+22 ongoing studies (with 28 reports) (see Supplementary material
+5). We finally included 22 studies with 50 reports. Our screening
+of the reference lists of the included publications did not reveal
+any additional RCTs. See the study flow diagram for a detailed
+description of the screening process (Figure 1)[82].
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram
+ 
+All studies were reported in English and published between
+2016 and 2024. Twenty studies were published as full papers
+(Bartholomew 2021 [83]; Catenacci 2016 [84]; Conley 2018 [85,
+86]; de Oliveira 2021 [87]; Dunn 2024 [88, 89]; Gray 2021 [90,
+91]; Headland 2019 [92, 93]; Lin 2023 [94, 95, 96, 97]; Liu 2022
+[98, 99]; Overland 2018 [100]; Parr 2024 [101]; Pavlou 2023 [102,
+103]; Quist 2024 [104, 105]; Schübel 2018 [106, 107]; Sundfør 2018
+[108]; Teong 2023; Thomas 2022 [109, 110]; Trepanowski 2017
+[111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121]; Wei 2023
+[122, 123, 124]; Yeary 2024 [125]). One study was published as a
+conference proceeding (Steele 2023 [126]), and another study was
+not published (NCT03342742 2017 [127]), but its data were available
+in the clinical trials register.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Included studies
+Table 1 is a summary of the included studies and syntheses. We
+included 22 studies with a total of 1995 participants (Bartholomew
+2021; Catenacci 2016; Conley 2018; de Oliveira 2021; Dunn 2024;
+Gray 2021; Headland 2019; Lin 2023; Liu 2022; NCT03342742 2017;
+Overland 2018; Parr 2024; Pavlou 2023; Quist 2024; Schübel 2018;
+Steele 2023; Sundfør 2018; Teong 2023; Thomas 2022; Trepanowski
+2017; Wei 2023; Yeary 2024). All included studies were RCTs; one
+was a cluster-RCT (Yeary 2024). The median sample size was
+90.68 participants (interquartile range 32.25 to 109.75). The largest
+sample size was 332 participants (Headland 2019), and the smallest
+was 10 participants (Overland 2018).
+All studies were conducted in an outpatient setting and published
+between 2016 and 2024. Three of the included studies were
+multicentre studies conducted in the USA (Bartholomew 2021,
+Yeary 2024), and Australia (Headland 2019), while 19 were single-
+centre studies conducted in North America (Catenacci 2016; Conley
+2018; Dunn 2024; Lin 2023; NCT03342742 2017; Pavlou 2023; Steele
+2023; Thomas 2022; Trepanowski 2017), Australia (Gray 2021;
+Overland 2018; Parr 2024; Teong 2023), China (Liu 2022; Wei 2023),
+Denmark (Quist 2024), Germany (Schübel 2018), Norway (Sundfør
+2018), and Brazil (de Oliveira 2021).
+We contacted the authors of five of the included studies for
+additional information, outcome data and clarifications regarding
+eligibility criteria (Conley 2018; Dunn 2024; de Oliveira 2021;
+Overland 2018; Trepanowski 2017). All of them provided the
+requested information.
+Participants
+All studies included adults aged 18 years or older. The age
+of the participants in the studies ranged from 18 to 80 years.
+Two studies included adults with autosomal dominant polycystic
+kidney disease (NCT03342742 2017; Steele 2023). One study
+included participants with type 1 diabetes (Overland 2018), two
+studies included adults previously diagnosed with type 2 diabetes
+(Parr 2024; Pavlou 2023), and another included individuals with
+prediabetes (Schübel 2018). One study focused on gestational
+diabetes during pregnancy (Gray 2021). One study included
+participants with non-alcoholic fatty liver disease (Wei 2023), while
+another study focused on participants with non-alcoholic cirrhosis
+(Dunn 2024). One study focused on individuals with high levels
+of low-density lipoprotein (LDL) (Bartholomew 2021), and one
+addressed social vulnerability (de Oliveira 2021).
+In seven of the 22 studies, the research focused exclusively on
+female participants (as an exclusive group or with more than 80%
+female population) (de Oliveira 2021; Gray 2021; Headland 2019;
+Lin 2023; Overland 2018; Thomas 2022; Trepanowski 2017). Only
+one study focused on male participants (as an exclusive group or
+with more than 80% male population) (Conley 2018), while the
+remaining studies included both men and women (Bartholomew
+2021; Catenacci 2016; Dunn 2024; Liu 2022; NCT03342742 2017; Parr
+2024; Pavlou 2023; Quist 2024; Schübel 2018; Steele 2023; Sundfør
+2018; Teong 2023; Wei 2023; Yeary 2024).
+Three of the included studies were conducted in LMICs (de Oliveira
+2021; Liu 2022; Wei 2023) and the rest in HICs (Bartholomew 2021;
+Catenacci 2016; Conley 2018; Dunn 2024; Gray 2021; Headland
+2019; Lin 2023; NCT03342742 2017; Overland 2018; Parr 2024;
+Pavlou 2023; Quist 2024; Schübel 2018; Steele 2023; Sundfør 2018;
+Teong 2023; Thomas 2022; Trepanowski 2017; Yeary 2024).
+Interventions
+Twenty-one studies compared intermittent fasting with regular
+dietary advice (Catenacci 2016; Conley 2018; Dunn 2024; de Oliveira
+2021; Gray 2021; Headland 2019; Lin 2023; Liu 2022; NCT03342742
+2017; Overland 2018; Parr 2024; Pavlou 2023; Quist 2024; Schübel
+2018; Steele 2023; Sundfør 2018; Teong 2023; Thomas 2022;
+Trepanowski 2017; Wei 2023; Yeary 2024), mainly in the form of
+caloric restriction. One study compared two types of intermittent
+fasting (modified alternate-day fasting and periodic fasting) with
+regular dietary advice (Headland 2019). Six studies compared
+intermittent fasting with no intervention (Bartholomew 2021; Lin
+2023; Pavlou 2023; Schübel 2018; Teong 2023; Trepanowski 2017).
+Across the two comparisons, there was an overlap of five studies
+that compared intermittent fasting with both regular dietary advice
+and with no intervention (Lin 2023; Pavlou 2023; Schübel 2018;
+Teong 2023; Trepanowski 2017).
+Ten studies used time-restricted feeding (de Oliveira 2021; Lin
+2023; Liu 2022; Parr 2024; Pavlou 2023; Quist 2024; Steele
+2023; Teong 2023; Thomas 2022; Wei 2023), four studies used
+alternate-day fasting (Catenacci 2016; Gray 2021; NCT03342742
+2017; Trepanowski 2017), seven studies used modified alternate-
+day fasting (Conley 2018; Dunn 2024; Headland 2019; Overland
+2018; Schübel 2018; Sundfør 2018; Yeary 2024), and two studies
+used periodic fasting (Bartholomew 2021; Headland 2019).
+In all included studies, registered dietitians or trained study
+staﬀ delivered intermittent-fasting protocols, most ofen through
+structured counselling (individual or small-group) plus written
+materials and periodic remote contacts. Two studies included
+provision of standardised meals to model the regimen, with
+all meals provided during the active phase (Catenacci 2016;
+Trepanowski 2017). Another study implemented counselling only,
+with scheduled check-ins by telephone or video communications
+led by registered dietitians (Lin 2023). These contacts taught
+participants how to implement the assigned fasting schedule,
+reinforced adherence, addressed practical barriers and guided the
+choice of healthy foods.
+Nine studies delivered intermittent fasting as a single intervention
+(Bartholomew 2021; NCT03342742 2017; Parr 2024; Quist 2024;
+Schübel 2018; Steele 2023; Thomas 2022; Wei 2023; Yeary 2024),
+while the remaining 13 studies included intermittent fasting as a
+component of a programme with multiple interventions. These
+multiple interventions included counselling sessions focused on
+the dietary plan (Conley 2018; de Oliveira 2021; Liu 2022), teaching
+healthy food choices (Lin 2023; Pavlou 2023; Trepanowski 2017),
+and cognitive-behavioural strategies to assist with weight control
+(Lin 2023; Sundfør 2018). Other studies included educational
+materials with sample meal plans and physical activity sessions
+through video call (Dunn 2024), advice to maintain usual physical
+activity (Catenacci 2016; Teong 2023), or to engage in at least 30
+minutes of physical activity on most days of the week (Gray 2021).
+One study combined the intervention with diabetes mellitus 1
+treatment modifications, adjusting insulin doses weekly (Overland
+2018).
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcomes
+All the included studies reported weight loss as a continuous
+outcome (Bartholomew 2021; Catenacci 2016; Conley 2018; Dunn
+2024; de Oliveira 2021; Gray 2021; Headland 2019; Lin 2023; Liu
+2022; NCT03342742 2017; Overland 2018; Parr 2024; Pavlou 2023;
+Quist 2024; Schübel 2018; Steele 2023; Sundfør 2018; Teong 2023;
+Thomas 2022; Trepanowski 2017; Wei 2023; Yeary 2024). Most of
+these studies reported weight loss as a percentage of baseline
+weight, while six reported weight loss in kg (Bartholomew 2021;
+Liu 2022; Parr 2024; Quist 2024; Sundfør 2018; Wei 2023), which we
+converted to the desired format for the analyses. The cluster-RCT
+by Yeary 2024 reported results for weight loss with an appropriate
+adjustment for potential clustering of participants, so we used the
+information as reported by the study authors in our analysis, and
+no re-analysis of the data was necessary. Four studies reported the
+rate of participants achieving a 5% weight loss from baseline (Gray
+2021; Liu 2022; Quist 2024; Sundfør 2018).
+Three studies reported quality of life. Conley 2018 used the
+Assessment of Quality of Life - 8D, NCT03342742 2017 used the
+RAND-36 survey, and Lin 2023 used the SF-36 survey and reported
+disaggregated values for vitality, bodily pain, mental health and
+general physical health domains with no total score available.
+Seven studies reported adverse events (Conley 2018; Liu 2022;
+NCT03342742 2017; Sundfør 2018; Teong 2023; Thomas 2022;
+Trepanowski 2017). Reported adverse events included nausea,
+headache, dizziness, hunger, constipation, diarrhoea, dyspepsia,
+cold intolerance, irritability, insomnia, impaired concentration,
+back pain and flu.
+Thirteen studies reported changes in lipid profiles using total
+cholesterol levels (Bartholomew 2021; Conley 2018; Dunn 2024;
+Headland 2019; Lin 2023; Liu 2022; Overland 2018; Parr 2024;
+Pavlou 2023; Schübel 2018; Sundfør 2018; Teong 2023; Wei 2023),
+14 studies reported changes in lipid profiles using HDL levels
+(Bartholomew 2021; Conley 2018; Dunn 2024; Headland 2019; Lin
+2023; Liu 2022; Overland 2018; Parr 2024; Pavlou 2023; Schübel
+2018; Sundfør 2018; Teong 2023; Trepanowski 2017; Wei 2023), and
+15 studies reported changes in lipid profiles using triglycerides
+levels (Bartholomew 2021; Catenacci 2016; Conley 2018; Dunn
+2024; Headland 2019; Lin 2023; Liu 2022; Overland 2018; Parr 2024;
+Pavlou 2023; Schübel 2018; Sundfør 2018; Teong 2023; Trepanowski
+2017; Wei 2023). Studies reporting changes in lipid profile used
+mmol/L or mg/dL as the unit of measure. We converted all data to
+mg/dL for the analyses using standard formulas (128).
+None of the included studies reported participant satisfaction,
+diabetes status, or overall measure of comorbidity.
+Funding sources
+Twenty studies reported funding sources (Bartholomew 2021;
+Catenacci 2016; Conley 2018; Dunn 2024; de Oliveira 2021; Gray
+2021; Headland 2019; Lin 2023; Liu 2022; NCT03342742 2017;
+Overland 2018; Parr 2024; Pavlou 2023; Quist 2024; Schübel 2018;
+Teong 2023; Thomas 2022; Trepanowski 2017; Wei 2023; Yeary
+2024). Several studies were supported by national health research
+agencies such as the National Institutes of Health (NIH), the
+National Health and Medical Research Council (NHMRC), and the
+National Natural Science Foundation of China. Others received
+grants from universities, hospital research foundations, and private
+organisations, including the Novo Nordisk Foundation and the
+Roswell Park Alliance Foundation. Two studies did not report their
+sources of funding (Steele 2023; Sundfør 2018).
+Conflicts of interest
+Twelve studies reported no conflict of interest (Catenacci 2016;
+Conley 2018; Dunn 2024; de Oliveira 2021; Headland 2019; Liu 2022;
+Overland 2018; Schübel 2018; Teong 2023; Thomas 2022; Wei 2023;
+Yeary 2024). Eight studies reported conflicts of interest related
+to grants or support from private companies for other research
+projects, stipend programmes and scholarships, employment by
+the funding sources, travel grants, writing fees for diﬀerent research
+not related to the included study and memberships of scientific
+societies related to weight management (Bartholomew 2021; Gray
+2021; Lin 2023; NCT03342742 2017; Parr 2024; Pavlou 2023; Quist
+2024; Trepanowski 2017). Two studies did not report their conflict
+of interest (Steele 2023; Sundfør 2018).
+Excluded studies
+We excluded 75 studies (with 76 reports). Supplementary material
+3 includes a detailed description of all reasons for exclusion.
+Common reasons for exclusion included selecting a follow-up time
+shorter than six months. Six studies did not consider any outcome
+of interest for this review. Five studies used non-randomised
+methods or cross-over designs. Three studies included head-to-
+head comparisons of diﬀerent intermittent fasting strategies. We
+excluded two studies due to a low proportion of participants with
+obesity or overweight.
+Ongoing studies
+We found 22 ongoing studies (with 28 reports). See additional
+information about these studies in the Supplementary material 5.
+Studies awaiting classification
+We classified 16 studies (with 17 reports) as awaiting classification,
+mainly due to limited information about the duration of the
+intervention and the duration of follow-up. We contacted the
+authors of the studies awaiting classification (when contact
+information was available) and received no response. See
+additional information about these studies in the Supplementary
+material 4.
+Risk of bias in included studies
+Risk of bias assessments for each outcome are located in the risk of
+bias table section within Supplementary material 6 and at the side
+of the forest plots. To access further detailed risk of bias assessment
+data, visit https://osf.io/9mxq5/ (DOI 10.17605/OSF.IO/9MXQ5).
+The overall risk of bias was similar across most outcomes, judged
+as 'high'.
+For weight loss, we judged most studies reporting this outcome at
+overall high risk of bias, except for Schübel 2018 and Yeary 2024,
+which we judged at overall low risk of bias. We judged de Oliveira
+2021, Lin 2023, Liu 2022, Parr 2024, and Sundfør 2018 at overall
+risk of bias of 'some concerns'. Most studies presented issues in
+risk of bias arising from the randomisation process, deviation from
+intended interventions and bias in the selection of the reported
+result.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Studies that reported weight loss as a categorical outcome were at
+overall high risk of bias due to issues in the selection of the reported
+results (Gray 2021; Liu 2022; Quist 2024; Sundfør 2018).
+Of the three studies that reported quality of life, we judged one
+at overall high risk of bias due to issues regarding deviations from
+intended interventions (NCT03342742 2017). We judged the other
+two studies at overall risk of bias of 'some concerns' due to issues
+in the randomisation process and deviations from the intended
+intervention (Conley 2018; Lin 2023).
+Most studies that reported adverse events were at overall high risk
+of bias (Conley 2018; NCT03342742 2017; Sundfør 2018; Teong 2023;
+Thomas 2022; Trepanowski 2017), except for Liu 2022, which was at
+overall risk of bias of 'some concerns'. The studies presented issues
+in almost all RoB 2 domains.
+Synthesis of results
+We summarised absolute and relative eﬀects for all critical
+and important outcomes with their GRADE ratings, signifying
+confidence in the eﬀect estimates in Summary of findings 1 and
+Summary of findings 2.
+1. Intermittent fasting versus regular dietary advice
+We included 21 studies with 1713 participants in this comparison.
+Critical outcomes
+Weight loss: continuous outcome
+Twenty-one studies with 1430 participants reported this outcome.
+Intermittent fasting may result in little to no diﬀerence in
+percentage from baseline weight loss (MD −0.33, 95% CI −0.92 to
+0.26; I2 = 0%; 21 studies, 1430 participants; low-certainty evidence;
+Figure 2). We assessed the evidence for this outcome as low
+certainty due to very serious concerns about risk of bias.
+ 
+Figure 2.   Forest plot for the outcome weight loss. Intermittent fasting versus regular dietary advice comparison
+Study or Subgroup
+Catenacci 2016
+Conley 2018
+de Oliveira 2021
+Dunn 2024
+Gray 2021
+Headland 2019
+Lin 2023
+Liu 2022
+NCT03342742 2017
+Overland 2018
+Parr 2024
+Pavlou 2023
+Quist 2024
+Schübel 2018
+Steele 2023
+Sundfør 2018
+Teong 2023
+Thomas 2022
+Trepanowski 2017
+Wei 2023
+Yeary 2024
+Total (Walda)
+Test for overall effect: Z = 1.10 (P = 0.27)
+Heterogeneity: Tau² (DLb, 95% CI) = 0.00 [0.00 , 1.23]; Chi² = 15.40, df = 20 (P = 0.75); I² = 0%
+MD
+-1.5
+-0.1
+-0.08
+-3.12
+-1.5
+1.747312
+0.44
+-1.88
+4.2
+-4
+-0.73
+-1.78
+-0.2
+0.41
+-0.1
+0.36
+0.98
+-0.5
+-0.1
+-0.93
+-0.5
+SE
+2.193171
+5.280152
+16.341535
+3.530009
+1.00035
+1.042773
+1.958315
+1.265337
+2.474598
+4.041886
+1.033494
+1.145804
+0.703738
+2.514708
+2.580267
+0.900501
+1.651836
+1.258216
+1.272792
+1.497802
+1.564118
+Intermittent fasting
+Total
+11
+12
+31
+7
+61
+93
+30
+69
+11
+5
+22
+23
+50
+49
+14
+54
+55
+43
+34
+45
+19
+738
+Regular dietary advice for weight loss
+Total
+10
+12
+27
+6
+60
+49
+30
+70
+11
+5
+21
+22
+50
+49
+15
+58
+54
+42
+35
+43
+23
+692
+Weight
+1.9%
+0.3%
+0.0%
+0.7%
+9.0%
+8.3%
+2.4%
+5.6%
+1.5%
+0.6%
+8.4%
+6.9%
+18.2%
+1.4%
+1.4%
+11.1%
+3.3%
+5.7%
+5.6%
+4.0%
+3.7%
+100.0%
+Mean Difference
+IV, Random, 95% CI [% from baseline]
+-1.50 [-5.80 , 2.80]
+-0.10 [-10.45 , 10.25]
+-0.08 [-32.11 , 31.95]
+-3.12 [-10.04 , 3.80]
+-1.50 [-3.46 , 0.46]
+1.75 [-0.30 , 3.79]
+0.44 [-3.40 , 4.28]
+-1.88 [-4.36 , 0.60]
+4.20 [-0.65 , 9.05]
+-4.00 [-11.92 , 3.92]
+-0.73 [-2.76 , 1.30]
+-1.78 [-4.03 , 0.47]
+-0.20 [-1.58 , 1.18]
+0.41 [-4.52 , 5.34]
+-0.10 [-5.16 , 4.96]
+0.36 [-1.40 , 2.12]
+0.98 [-2.26 , 4.22]
+-0.50 [-2.97 , 1.97]
+-0.10 [-2.59 , 2.39]
+-0.93 [-3.87 , 2.01]
+-0.50 [-3.57 , 2.57]
+-0.33 [-0.92 , 0.26]
+Mean Difference
+IV, Random, 95% CI [% from baseline]
+-10
+-5
+0
+5
+10
+Favours intermittent fasting
+Favours regular dietary advice
+Risk of Bias
+A
+−
++
++
+−
++
++
+?
++
+?
++
+?
+?
+?
++
+?
++
+−
+?
++
++
++
+B
+?
+?
+?
+−
+?
+?
+?
+?
+−
+−
++
+−
++
++
+−
+?
+?
++
++
++
++
+C
++
++
++
++
++
++
++
++
+−
++
+?
++
++
++
+−
++
++
++
++
+−
++
+D
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+E
+−
+−
++
++
+−
+−
++
++
+?
+−
+?
++
+−
++
+?
++
++
+−
+−
++
++
+F
+−
+−
+?
+−
+−
+−
+?
+?
+−
+−
+?
+−
+−
++
+−
+?
+−
+−
+−
+−
++
+Footnotes
+aCI calculated by Wald-type method.
+bTau² calculated by DerSimonian and Laird method.
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Weight loss: categorical outcome
+Four studies with 472 participants reported weight loss as a
+categorical outcome. Intermittent fasting may have little to no
+eﬀect on achieving a 5% reduction in body weight, but the evidence
+is very uncertain (RR 0.98, 95% CI 0.82 to 1.18; I2 = 0%; 4 studies, 472
+participants; very low-certainty evidence; Figure 3). We assessed
+the evidence for this outcome as very low certainty due to serious
+concerns about risk of bias and imprecision.
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Forest plot for the outcome weight loss (categorical). Intermittent fasting versus regular dietary advice
+comparison
+Study or Subgroup
+Gray 2021
+Liu 2022
+Quist 2024
+Sundfør 2018
+Total (Walda)
+Total events:
+Test for overall effect: Z = 0.17 (P = 0.86)
+Heterogeneity: Tau² (DLb) = 0.00; Chi² = 1.03, df = 3 (P = 0.79); I² = 0%
+Intermittent fasting
+Events
+13
+42
+6
+34
+95
+Total
+61
+69
+50
+54
+234
+Regular dietary advice for weight loss
+Events
+10
+42
+5
+40
+97
+Total
+60
+70
+50
+58
+238
+Weight
+6.0%
+45.5%
+2.6%
+45.9%
+100.0%
+Risk Ratio
+M-H, Random, 95% CI
+1.28 [0.61 , 2.69]
+1.01 [0.78 , 1.33]
+1.20 [0.39 , 3.68]
+0.91 [0.70 , 1.19]
+0.98 [0.82 , 1.18]
+Risk Ratio
+M-H, Random, 95% CI
+0.5
+0.7
+1
+1.5
+2
+Favours regular dietary advice
+Favours intermittent fasting
+Risk of Bias
+A
++
++
+?
++
+B
+?
+?
++
+?
+C
++
++
++
++
+D
++
++
++
++
+E
+−
+−
+−
+−
+F
+−
+−
+−
+−
+Footnotes
+aCI calculated by Wald-type method.
+bTau² calculated by DerSimonian and Laird method.
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Quality of life
+Three studies with 106 participants reported this outcome.
+Intermittent fasting may result in little to no diﬀerence in quality
+of life (SMD 0.11, 95% CI −0.27 to 0.49; I2 = 0%; 3 studies, 106
+participants; low-certainty evidence; Figure 4). This corresponds to
+an MD of 0.13 points (95% CI −0.31 to 0.57) in the SF-36 general
+physical health domain (scale range 0 to 100), an MD of 0.12 points
+(95% CI −0.31 to 0.57) in the RAND-36 general physical health
+domain (scale range 0 to 100) and an MD of 0.12 points (95% CI
+−0.30 to 0.54) in the AQoL-8D (scale range 0 to 100). We assessed the
+evidence for this outcome as low certainty due to concerns about
+risk of bias and imprecision.
+ 
+Figure 4.   Forest plot for the outcome quality of life. Intermittent fasting versus regular dietary advice comparison
+Study or Subgroup
+Conley 2018
+Lin 2023
+NCT03342742 2017
+Total (Walda)
+Test for overall effect: Z = 0.55 (P = 0.58)
+Heterogeneity: Tau² (DLb, 95% CI) = 0.00 [0.00 , 4.02]; Chi² = 1.27, df = 2 (P = 0.53); I² = 0%
+SMD
+-0.052837
+0.019304
+0.543934
+SE
+0.408334
+0.258205
+0.435901
+Intermittent fasting
+Total
+12
+30
+11
+53
+Regular dietary advice for weight loss
+Total
+12
+30
+11
+53
+Weight
+22.8%
+57.1%
+20.0%
+100.0%
+Std. Mean Difference
+IV, Random, 95% CI
+-0.05 [-0.85 , 0.75]
+0.02 [-0.49 , 0.53]
+0.54 [-0.31 , 1.40]
+0.11 [-0.27 , 0.49]
+Std. Mean Difference
+IV, Random, 95% CI
+-2
+-1
+0
+1
+2
+Favours regular dietary advice
+Favours intermittent fasting
+Risk of Bias
+A
++
+?
+?
+B
+?
+?
+−
+C
++
++
++
+D
++
++
++
+E
++
++
+?
+F
+?
+?
+−
+Footnotes
+aCI calculated by Wald-type method.
+bTau² calculated by DerSimonian and Laird method.
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Adverse events
+Seven studies with 619 participants reported this outcome.
+Intermittent fasting may have little to no eﬀect on adverse events,
+but the evidence is very uncertain (RR 1.45, 95% CI 0.64 to 3.28;
+I2 = 78%; 7 studies, 619 participants; very low-certainty evidence;
+Figure 5). We assessed the evidence for this outcome as very low
+certainty due to concerns about risk of bias, inconsistency, and
+imprecision.
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 5.   Forest plot for the outcome adverse events. Intermittent fasting versus regular dietary advice comparison
+Study or Subgroup
+Conley 2018
+Liu 2022
+NCT03342742 2017
+Sundfør 2018
+Teong 2023
+Thomas 2022
+Trepanowski 2017
+Total (HKSJa)
+Total events:
+Test for overall effect: T = 1.27, df = 4 (P = 0.27)
+Heterogeneity: Tau² (DLb, 95% CI) = 0.21 [0.03 , 6.73]; Chi² = 18.25, df = 4 (P = 0.001); I² = 78%
+Intermittent fasting
+Events
+4
+40
+13
+21
+27
+0
+0
+105
+Total
+12
+69
+13
+54
+84
+41
+34
+307
+Regular dietary advice for weight loss
+Events
+0
+48
+10
+6
+23
+0
+0
+87
+Total
+12
+70
+15
+58
+82
+40
+35
+312
+Weight
+2.8%
+29.0%
+26.8%
+16.8%
+24.6%
+100.0%
+Risk Ratio
+M-H, Random, 95% CI
+9.00 [0.54 , 150.81]
+0.85 [0.65 , 1.09]
+1.47 [1.02 , 2.12]
+3.76 [1.64 , 8.61]
+1.15 [0.72 , 1.83]
+Not estimable
+Not estimable
+1.45 [0.64 , 3.28]
+Risk Ratio
+M-H, Random, 95% CI
+0.01
+0.1
+1
+10
+100
+Favours intermittent fasting
+Favours regular dietary advice
+Risk of Bias
+A
++
++
+?
++
+−
+?
++
+B
+?
+?
+−
+?
+?
++
++
+C
++
++
++
++
++
++
++
+D
++
++
++
+?
+−
+−
+−
+E
+−
+?
+?
+−
+?
+?
+?
+F
+−
+?
+−
+−
+−
+−
+−
+Footnotes
+aCI calculated by Hartung-Knapp-Sidik-Jonkman (HKSJ) method.
+bTau² calculated by DerSimonian and Laird method.
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Important outcomes
+Participant satisfaction
+None of the included studies reported this outcome under this
+comparison.
+Diabetes status
+None of the included studies reported this outcome under this
+comparison.
+Changes in lipid profile
+•
+Total cholesterol: 12 studies with 899 participants reported this
+outcome. Intermittent fasting may have little to no eﬀect on total
+cholesterol measured in mg/dL (MD −1.26, 95% CI −5.20 to 2.68;
+I2 = 0%; 12 studies, 899 participants; Analysis 1.5).
+•
+High-density lipoprotein: 13 studies with 968 participants
+reported this outcome. Intermittent fasting may have little to no
+eﬀect on HDL measured in mg/dL (MD 1.71, 95% CI 0.65 to 2.77;
+I2 = 0%; 13 studies, 968 participants; Analysis 1.6).
+•
+Triglycerides: 14 studies with 989 participants reported this
+outcome. Intermittent fasting may have little to no eﬀect on
+triglycerides measured in mg/dL (MD −1.44, 95% CI −10.29 to
+7.40; I2 = 45%; 14 studies, 989 participants; Analysis 1.7).
+Overall measure of comorbidity
+None of the included studies reported this outcome under this
+comparison.
+2. Intermittent fasting versus no intervention or waiting list
+We included six studies with 448 participants in this comparison.
+Critical outcomes
+Weight loss: continuous outcome
+Six studies with 427 participants reported this outcome.
+Intermittent fasting likely results in little to no diﬀerence in weight
+loss, measured as change from baseline weight (MD −3.42, 95%
+CI −4.95 to −1.90; I2 = 27%; 6 studies, 427 participants; moderate-
+certainty evidence; Figure 6). We assessed the evidence for this
+outcome as moderate certainty due to concerns about risk of bias.
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 6.   Forest plot for the outcome weight loss. Intermittent fasting versus no intervention or waiting list
+comparison
+Study or Subgroup
+Bartholomew 2021
+Lin 2023
+Pavlou 2023
+Schübel 2018
+Teong 2023
+Trepanowski 2017
+Total (HKSJa)
+Test for overall effect: T = 5.76, df = 5 (P = 0.002)
+Heterogeneity: Tau² (DLb, 95% CI) = 0.61 [0.00 , 10.84]; Chi² = 6.86, df = 5 (P = 0.23); I² = 27%
+Intermittent fasting
+Mean [% from baseline]
+-1.65
+-3.76
+-4.28
+-4.56
+-4.25
+-4.6
+SD [% from baseline]
+4.55
+5.690855
+4.567188
+11.900661
+10.320419
+5.247856705360771
+Total
+38
+30
+23
+49
+55
+34
+229
+No intervention or waiting list
+Mean [% from baseline]
+0.2
+1.11
+-0.72
+-0.96
+-2.79
+0.3
+SD [% from baseline]
+3.46
+4.90083
+3.350992
+2.587211
+6.357033
+3.3406586176980126
+Total
+33
+30
+24
+52
+28
+31
+198
+Weight
+24.9%
+15.1%
+19.0%
+10.4%
+9.4%
+21.2%
+100.0%
+Mean Difference
+IV, Random, 95% CI [% from baseline]
+-1.85 [-3.72 , 0.02]
+-4.87 [-7.56 , -2.18]
+-3.56 [-5.86 , -1.26]
+-3.60 [-7.01 , -0.19]
+-1.46 [-5.06 , 2.14]
+-4.90 [-7.02 , -2.78]
+-3.42 [-4.95 , -1.90]
+Mean Difference
+IV, Random, 95% CI [% from baseline]
+-4
+-2
+0
+2
+4
+Favours intermittent fasting
+Favours no intervention or waiting list
+Risk of Bias
+A
+?
+?
+?
++
+−
++
+B
+−
+?
+−
++
+?
++
+C
++
++
++
++
++
++
+D
++
++
++
++
++
++
+E
+−
++
++
++
++
+−
+F
+−
+?
+−
++
+−
+−
+Footnotes
+aCI calculated by Hartung-Knapp-Sidik-Jonkman (HKSJ) method.
+bTau² calculated by DerSimonian and Laird method.
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+None of the included studies under this comparison reported
+weight loss as a categorical outcome.
+Quality of life
+One study with 60 participants reported this outcome, using the
+SF-36 (scale range 0 to 100). Intermittent fasting may result in
+little to no diﬀerence in the general physical health domain of
+quality of life, but the evidence is very uncertain (MD 3.49 points,
+95% CI −49.35 to 56.33; 1 study, 60 participants; very low-certainty
+evidence; Figure 7). We assessed the evidence for this outcome as
+very low certainty due to extreme concerns about imprecision.
+ 
+Figure 7.   Forest plot for the outcome quality of life. Intermittent fasting versus no intervention or waiting list
+comparison
+Study or Subgroup
+Lin 2023
+MD
+3.49
+SE
+26.957987
+Intermittent fasting
+Total
+30
+No intervention or waiting list
+Total
+30
+Mean Difference
+IV, Random, 95% CI
+3.49 [-49.35 , 56.33]
+Mean Difference
+IV, Random, 95% CI
+-100
+-50
+0
+50
+100
+Favours no intervention or waiting list
+Favours intermittent fasting
+Risk of Bias
+A
+?
+B
+?
+C
++
+D
++
+E
++
+F
+?
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Adverse events
+Two studies with 189 participants reported this outcome.
+Intermittent fasting may have little to no eﬀect on adverse events,
+but the evidence is very uncertain (RR 1.84, 95% CI 0.88 to 3.85; 2
+studies, 189 participants; very low-certainty evidence; Figure 8). We
+assessed the evidence for this outcome as very low certainty due to
+very serious concerns about risk of bias and imprecision.
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 8.   Forest plot for the outcome adverse events. Intermittent fasting versus no intervention or waiting list
+comparison
+Study or Subgroup
+Teong 2023
+Trepanowski 2017
+Total
+Total events:
+Test for overall effect: Z = 1.61 (P = 0.11)
+Heterogeneity: Not applicable
+Intermittent fasting
+Events
+27
+0
+27
+Total
+84
+34
+118
+No intervention or waiting list
+Events
+7
+0
+7
+Total
+40
+31
+71
+Weight
+100.0%
+100.0%
+Risk Ratio
+M-H, Random, 95% CI
+1.84 [0.88 , 3.85]
+Not estimable
+1.84 [0.88 , 3.85]
+Risk Ratio
+M-H, Random, 95% CI
+0.01
+0.1
+1
+10
+100
+Favours intermittent fasting
+Favours no intervention or waiting list
+Risk of Bias
+A
+−
++
+B
+?
++
+C
++
++
+D
+−
+−
+E
+?
+?
+F
+−
+−
+Risk of bias legend
+(A) Bias arising from the randomization process
+(B) Bias due to deviations from intended interventions
+(C) Bias due to missing outcome data
+(D) Bias in measurement of the outcome
+(E) Bias in selection of the reported result
+(F) Overall bias
+ 
+Important outcomes
+Participant satisfaction
+None of the included studies reported this outcome under this
+comparison.
+Diabetes status
+None of the included studies reported this outcome under this
+comparison.
+Changes in lipid profile
+•
+Total cholesterol: five studies with 383 participants reported
+this outcome. Intermittent fasting may have little to no eﬀect on
+total cholesterol measured in mg/dL (MD −4.23, 95% CI −11.27 to
+2.81; I2 = 0%; 5 studies, 383 participants; Analysis 6.4).
+•
+High-density lipoprotein: six studies with 448 participants
+reported this outcome. Intermittent fasting may increase HDL
+measured in mg/dL (MD 1.99, 95% CI 0.76 to 3.22; I2 = 0%; 6
+studies, 448 participants; Analysis 6.5).
+•
+Triglycerides: six studies with 448 participants reported this
+outcome. Intermittent fasting may have little to no eﬀect on
+triglycerides measured in mg/dL (MD −4.23, 95% CI −22.56 to
+14.11; I2 = 70%; Analysis 6.6).
+Overall measure of comorbidity
+None of the included studies reported this outcome under this
+comparison.
+Subgroup analyses
+Subgroup analyses are presented below for each comparison and
+for all outcomes for which they could be performed.
+Intermittent fasting versus regular dietary advice
+Weight loss
+We found no diﬀerences in the eﬀect of intermittent fasting
+on weight loss (measured as percentage from baseline weight)
+between LMICs and HICs, diﬀerent genders, diﬀerent types of
+intermittent fasting or delivery of the intervention, when compared
+to regular dietary advice (See Analysis 2.1; Analysis 3.1; Analysis 4.1;
+Analysis 5.1).
+We found no diﬀerences in achieving a 5% reduction in body weight
+between LMICs and HICs, or diﬀerent types of intermittent fasting,
+when compared to regular dietary advice (See Analysis 2.2; Analysis
+4.2).
+Quality of life
+We found no diﬀerences in the eﬀect of intermittent fasting on
+quality of life between diﬀerent types of intermittent fasting, when
+compared to regular dietary advice (See Analysis 4.3).
+Adverse events
+We found that intermittent fasting may result in a reduction in
+adverse events in LMICs (RR 0.85, 95% CI 0.65 to 1.09), compared to
+an increase in HICs (RR 1.78, 95% CI 1.02 to 3.12), when compared
+to regular dietary advice (test for subgroup diﬀerences: Chi2 = 5.67,
+df = 1 (P = 0.02), I2 = 82.4%; Analysis 2.3). We found that intermittent
+fasting may result in more adverse events in men (RR 9.00, 95%
+CI 0.54 to 150.81; Analysis 3.2) than in women. A test for subgroup
+diﬀerences was not possible for this subgroup analysis, given that
+the outcome for women was not estimable, as studies reported no
+adverse events for women.
+We found that modified alternate-day fasting (RR 4.03, 95% CI
+1.82 to 8.92) and alternate-day fasting (RR 1.47, 95% CI 1.02 to
+2.12) may increase adverse events, while time-restricted feeding
+may decrease adverse events (RR 0.93, 95% CI 0.70 to 1.24), when
+comparing intermittent fasting to regular dietary advice (test for
+subgroup diﬀerences: Chi2 = 13.14, df = 2 (P = 0.001), I2 = 84.8%;
+Analysis 4.4).
+We found no diﬀerences in the eﬀect of intermittent fasting on
+adverse events when administered alone or as a component of a
+programme with multiple interventions (See Analysis 5.3).
+The results from these analyses are limited due to their
+observational nature and low power to detect diﬀerences, as we
+included fewer than 10 studies per category.
+Changes in lipid profile
+We found no diﬀerences in the eﬀect of intermittent fasting on
+total cholesterol, HDL or triglycerides between LMICs and HICs,
+diﬀerent genders, diﬀerent types of intermittent fasting or delivery
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+of the intervention, when compared to regular dietary advice (see
+Analysis 2.4; Analysis 2.5; Analysis 2.6; Analysis 3.3; Analysis 3.4;
+Analysis 3.5; Analysis 4.5; Analysis 4.6; Analysis 4.7; Analysis 5.4;
+Analysis 5.5; Analysis 5.6).
+Intermittent fasting versus no intervention or waiting list
+Weight loss
+We found no diﬀerences in the eﬀect of intermittent fasting on
+weight loss between diﬀerent types of intermittent fasting or
+delivery of the intervention when compared to no intervention or
+waiting list (See Analysis 7.1; Analysis 8.1).
+The results from these analyses are limited due to their
+observational nature and low power to detect diﬀerences, as we
+included fewer than 10 studies per category.
+Adverse events
+We found that time-restricted feeding (RR 1.84, 95% CI 0.88 to
+3.85) may result in more adverse events compared to alternate-
+day fasting, modified alternate-day fasting and periodic fasting,
+when compared to no intervention or waiting list (Analysis
+7.2). A test for subgroup diﬀerences was not possible for this
+subgroup analysis, given that the outcomes for alternate-day
+fasting, modified alternate-day fasting and periodic fasting were
+not estimable, as studies reported no adverse events for these types
+of intermittent fasting. The results from this analysis are limited due
+to its observational nature and low power to detect diﬀerences, as
+we included fewer than 10 studies per category.
+Changes in lipid profile
+There were no diﬀerences in the eﬀect of intermittent fasting on
+total cholesterol and HDL between diﬀerent types of intermittent
+fasting, when compared to no intervention or waiting list (See
+Analysis 7.3; Analysis 7.4).
+We found that periodic fasting (MD –19.20, 95% CI −42.11 to 3.71)
+and time-restricted feeding (MD −11.78, 95% CI −24.10 to 0.54) may
+decrease triglyceride levels, alternate-day fasting may increase
+triglyceride levels (MD 24.40, 95% CI 6.10 to 42.70), and modified
+alternate-day fasting may have little to no eﬀect on triglyceride
+levels (MD 0.50, 95% CI −22.21 to 23.21), when compared to no
+intervention or waiting list (test for subgroup diﬀerences: Chi2 =
+12.57, df = 3 (P = 0.006), I2 = 76.1%; Analysis 7.5). The results from
+this analysis are limited due to its observational nature and low
+power to detect diﬀerences, as we included fewer than 10 studies
+per category.
+We found no diﬀerences in the eﬀect of intermittent fasting on total
+cholesterol, HDL and triglyceride levels between diﬀerent methods
+of delivering the intervention, when compared to no intervention
+or waiting list (See Analysis 8.2; Analysis 8.3; Analysis 8.4).
+Sensitivity analyses
+The sensitivity analyses below are presented per comparison, for
+the outcomes for which these were feasible. See a summary of the
+sensitivity analyses with their eﬀect estimates in Supplementary
+material 11.
+Intermittent fasting versus regular dietary advice
+Restricting the analysis to studies at overall low risk of bias
+•
+Weight loss: these results were robust when restricting the
+analysis to studies at overall low risk of bias. We found no
+diﬀerences in the eﬀect of intermittent fasting on weight loss
+compared to regular dietary advice when restricting the analysis
+to studies with an overall low risk of bias (MD −0.25, 95% CI −2.85
+to 2.36).
+Restricting the analysis to published studies
+•
+Weight loss: the results were robust when restricting the
+analysis to published studies. We found no diﬀerences in the
+eﬀect of intermittent fasting on weight loss compared to regular
+dietary advice when restricting the analysis to published studies
+(MD −0.40, 95% CI −0.99 to 0.19).
+•
+Quality of life: the results were robust when restricting the
+analysis to published studies. We found no diﬀerences in the
+eﬀect of intermittent fasting on quality of life compared to
+regular dietary advice when restricting the analysis to published
+studies (SMD −0.00, 95% CI −0.43 to 0.43).
+•
+Adverse events: the results were robust when restricting the
+analysis to published studies. We found no diﬀerences in the
+eﬀect of intermittent fasting on adverse events compared to
+regular dietary advice when restricting the analysis to published
+studies (RR 1.57, 95% CI 0.41 to 6.05).
+Excluding studies with cluster randomisation
+•
+Weight loss: the results were robust when excluding studies
+with cluster randomisation. We found no diﬀerences in the
+eﬀect of intermittent fasting on weight loss compared to
+regular dietary advice when excluding studies with cluster
+randomisation (MD −0.32, 95% CI −0.92 to 0.28).
+Intermittent fasting versus no intervention or waiting list
+Restricting the analysis to studies at overall low risk of bias
+•
+Weight loss: the results were robust when restricting the
+analysis to studies at overall low risk of bias. We found no
+diﬀerences in the eﬀect of intermittent fasting on weight loss
+compared to no intervention or waiting list when restricting the
+analysis to studies at overall low risk of bias (MD −3.60, 95% CI
+−7.01 to −0.19).
+Equity assessment
+See Supplementary material 9 for a detailed description of equity-
+related characteristics in the included studies. We investigated
+equity-related characteristics by assessing the eﬀects of the
+intervention, exploring the potential diﬀerences between LMICs
+and HICs. We found a greater prevalence of studies (n = 19, 86%)
+developed in HICs. See Analysis 2.1; Analysis 2.2; Analysis 2.3;
+Analysis 2.4; Analysis 2.5 and Analysis 2.6 for additional details.
+We also investigated equity-related characteristics by assessing the
+eﬀect of the intervention on diﬀerent genders. We found a greater
+prevalence of studies in mixed populations including both men
+and women, with no disaggregated data for each gender. Only
+seven studies (31.81%) included predominantly women, while only
+one study (4.55%) included predominantly men. See Analysis 3.1;
+Analysis 3.2; Analysis 3.3; Analysis 3.4 and Analysis 3.5 for additional
+details.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Reporting biases
+We created funnel plots to assess reporting bias for weight loss and
+changes in lipid profile (total cholesterol, HDL and triglycerides) in
+the intermittent fasting versus regular dietary advice comparison,
+as these were the only outcomes for which we were able to include
+more than 10 studies (see Figure 9; Figure 10; Figure 11 and Figure
+12). We found no serious asymmetries.
+ 
+Figure 9.   Funnel plot for the comparison intermittent fasting vs regular dietary advice: weight loss
+-10
+-5
+0
+5
+10
+MD [% from baseline]
+0
+4
+8
+12
+16
+20
+SE(MD [% from baseline])
+ 
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 10.   Funnel plot for the comparison intermittent fasting vs regular dietary advice: changes in lipid profile
+(total cholesterol)
+-10
+-5
+0
+5
+10
+MD [mg/dl]
+0
+50
+100
+150
+200
+SE(MD [mg/dl])
+ 
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 11.   Funnel plot for the comparison intermittent fasting vs regular dietary advice: changes in lipid profile
+(high-density lipoprotein)
+-10
+-5
+0
+5
+10
+MD [mg/dl]
+0
+50
+100
+150
+200
+SE(MD [mg/dl])
+ 
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 12.   Funnel plot for the comparison intermittent fasting vs regular dietary advice: changes in lipid profile
+(triglycerides)
+-10
+-5
+0
+5
+10
+MD [mg/dl]
+0
+50
+100
+150
+200
+SE(MD [mg/dl])
+ 
+D I S C U S S I O N
+Summary of main results
+We included 22 studies with a total of 1995 participants. The
+certainty of the evidence for most outcomes was low or very low,
+except for weight loss, when comparing intermittent fasting with
+no intervention or waiting list, which we assessed as moderate
+certainty. Intermittent fasting may result in little to no diﬀerence in
+weight loss (low-certainty evidence), quality of life (low-certainty
+evidence) or adverse events (very low-certainty evidence), when
+compared to regular dietary advice.
+Intermittent fasting likely results in little to no diﬀerence in weight
+loss when compared to no intervention or waiting list (moderate-
+certainty evidence). Intermittent fasting may result in little to no
+diﬀerence in the SF-36 general physical health domain of quality
+of life and may have little to no eﬀect on adverse events when
+compared to no intervention or waiting list, but the evidence is
+very uncertain (very low-certainty evidence). None of the included
+studies reported participant satisfaction, diabetes status or overall
+measure of comorbidity. See Summary of findings 1 and Summary
+of findings 2 for additional details.
+Limitations of the evidence included in the review
+A summary of the considerations that led to downgrading the
+certainty of the evidence in implementing the GRADE approach
+is available in Summary of findings 1 and Summary of findings
+2. Most included studies were at overall high risk of bias or
+'some concerns' for overall risk of bias. Imprecision in the
+eﬀect estimates was also a concern. For example, only four
+studies reported weight loss as a categorical outcome, with few
+participants and events. Quality of life was reported in only three
+studies, which used diﬀerent scales and considered diﬀerent time
+points. Other outcomes, such as adverse events, included studies
+reporting both benefits and harms. The certainty of the evidence
+was also influenced by considerable statistical heterogeneity in
+eﬀect estimates, particularly for adverse events, when comparing
+intermittent fasting with regular dietary advice, and changes in lipid
+profiles when comparing intermittent fasting with no intervention
+or waiting list. Nevertheless, the identified evidence was in line
+with all the components of the review question, although some
+planned subgroups and settings were less represented, which
+may aﬀect applicability. Nineteen of the included studies were
+conducted in HICs, while only three were conducted in upper-
+middle-income countries (de Oliveira 2021; Liu 2022; Wei 2023). No
+studies were conducted in low-income countries, which prevented
+us from analysing the eﬀect of the intervention in very low-resource
+settings. Only one study assessed the intervention in men (Conley
+2018), and eight studies exclusively in women. It would be desirable
+to have data disaggregated by sex to inform potential diﬀerences
+between women and men.
+None of the included studies assessed participants’ satisfaction
+with the dietary intervention, nor did they provide information on
+participants’ diabetes status. The absence of satisfaction outcomes
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+limits our ability to evaluate the acceptability and long-term
+feasibility of intermittent fasting. Similarly, the lack of reporting
+on diabetes status restricts our capacity to explore potential eﬀect
+modification in related overweight or obesity conditions, such as
+type 2 diabetes. These omissions represent important gaps in the
+current evidence base that should be addressed in future trials.
+Only 10 of the 22 included studies reported on adherence or
+compliance to the assigned intervention and dietary schedule
+(Bartholomew 2021; Dunn 2024; Parr 2024; Pavlou 2023; Quist 2024;
+Schübel 2018; Thomas 2022; Trepanowski 2017; Wei 2023; Yeary
+2024), mainly through patient self-reported adherence, dietary
+diaries, attendance at group meetings or nutritionist visits.
+All included studies concentrated on short-term eﬀects of the
+intervention, primarily up to 12 months, which restricts the
+applicability of the evidence in this review to inform decision-
+making for longer durations. It would be beneficial for future
+studies to extend follow-up periods beyond 12 months to build a
+stronger evidence base for the long-term eﬀects of the intervention.
+Most included studies implemented intermittent fasting as part
+of a programme that involved multiple interventions. These co-
+interventions ranged from physical activity plans to counselling
+sessions, aimed at helping participants with weight maintenance
+or making healthy food choices. Unfortunately, the additional
+programme components were insuﬀiciently or inadequately
+described, leading to uncertainties and concerns about their
+potential impact on trial outcomes.
+Limitations of the review processes
+We faced several diﬀiculties during the review process. First, the
+search strategy retrieved many reports indicating a significant
+workload for the review team. Nevertheless, we took all
+precautions possible to avoid diﬀerent interpretations in the
+selection process, and we kept conflicts as minimal as possible,
+implementing regular meetings and discussions to calibrate the
+team. Second, we included a large body of evidence and many
+studies with multiple reports that we carefully appraised to
+avoid double-counting. Data extraction from all the included
+studies would have been cumbersome, but we used the standard
+templates provided in the RevMan Knowledge Base, simplifying
+the task. Nevertheless, diversity in data reporting in the included
+studies required special attention, which we managed by
+discussing within the review team and double-checking the data
+several times. We also needed to transform the reported data into
+the same unit for the analyses of several outcomes (like weight loss
+and lipid profiles), prioritising one unit over others reported in the
+included studies, to maximise the use of available information and
+enhance interpretability using typical eﬀect estimates.
+Although we did not find large clinical heterogeneity in the included
+studies, we identified considerable statistical heterogeneity in
+some critical outcomes, like adverse events, or other important
+outcomes, like changes in lipid profile.
+We classified a substantial number of records as awaiting
+classification, due to insuﬀicient information in abstracts or
+uncertainties about the duration of the intervention or follow-
+up. This high number of records awaiting classification introduces
+uncertainties in the completeness of the evidence, and may alter
+the overall conclusions of the review if we find that these records
+contribute relevant data. This underscores the importance of
+ongoing eﬀorts to retrieve and classify these records, and the
+need for timely updates of the review as new evidence becomes
+available.
+Agreements and disagreements with other studies or
+reviews
+We found that intermittent fasting likely results in little to no
+diﬀerence in weight loss when compared to no intervention or
+waiting list, contrasting with the findings by Liu and colleagues,
+who analysed 17 studies on time-restricted feeding [129]. In a
+subgroup analysis by weight category (people with normal weight,
+people with overweight, and people with obesity), the authors
+reported that those in the overweight category lost more weight
+than those in the normal or obese categories.
+Additionally, the systematic review by Chen and colleagues
+included nine studies on time-restricted feeding in adults with
+overweight or obesity and reported greater weight loss in the
+intervention (time-restricted feeding) versus hypocaloric diet or
+unrestricted diet, with a greater proportion of weight loss in the
+studies with longer duration [130]. Moreover, the Cochrane review
+by Allaf in 2021 reported that intermittent fasting led to greater
+weight loss than unrestricted eating in the short term [23]. Notably,
+the authors reported weight change as a secondary outcome, did
+not limit the population to people with overweight or obesity, and
+the magnitude of weight change was not clinically relevant.
+Clinical practice guidelines recommend decreasing at least 5% of
+body weight to manifest risk reduction for other chronic diseases
+[59, 131, 132]. Most clinical practice guidelines for managing
+overweight and obesity do not recommend intermittent fasting
+[6, 15, 133], and only one mentions it as a possible approach
+[134], highlighting the limited evidence on the long-term eﬀects
+of this kind of intervention. Healthcare clinicians, specifically
+dietitian nutritionists, may be able to counsel patients and clients
+on strategies for weight management using a patient-centred,
+evidence-based approach to achieve optimal outcomes [135, 136].
+As such, we found little to no diﬀerence in weight loss outcomes
+between intermittent fasting and regular dietary advice, similar
+to the findings of Welton and colleagues, who reported little to
+no diﬀerence in weight outcomes in their analysis of 18 RCTs
+comparing intermittent fasting to calorie restriction, which may be
+one form of dietary advice for weight loss [41].
+We found little to no diﬀerence in the SF-36 general physical
+health domain of quality of life between intermittent fasting and no
+intervention or waiting list. These findings are similar to those of
+Teong and colleagues, who found no diﬀerences in quality of life
+between intermittent fasting and calorie restriction, although that
+study was limited to an eight-week follow-up [137]. Furthermore,
+it is important to highlight the types of intermittent fasting in
+terms of the number of consecutive days of restrictive eating
+and the duration of the regimen, which may not reflect clinically
+significant aspects of diet-related daily life among people living
+with overweight and obesity. This may also reflect the sustainability
+of implementing a time-restrictive eating pattern every day over the
+long term.
+We found little to no eﬀect on adverse events with intermittent
+fasting compared to no intervention or waiting list. These findings
+align with the safety of intermittent fasting reported in several
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+narrative reviews and opinion articles [138, 139, 140], which may
+aﬀect the implementation of intermittent fasting in the clinical
+setting.
+Regarding blood lipid profile, our analysis aligns with that of Chen
+and colleagues [130], but contrasts with that of Liu and colleagues
+[129]. It is possible that the additional research findings since the
+publication of the earlier review strengthen the conclusions by
+including more studies and, thus, a larger collective sample.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+When compared to regular dietary advice, intermittent fasting
+may result in no diﬀerence in weight loss, quality of life or
+adverse events. These approaches did not diﬀer in achieving weight
+loss, producing no clinically meaningful changes in most of the
+outcomes considered in this review.
+When compared to no intervention or waiting list, intermittent
+fasting likely results in little to no diﬀerence in weight loss.
+Intermittent fasting may result in little to no diﬀerence in the
+Short-form Health Survey (SF-36) general physical health domain
+of quality of life and adverse events. None of the included
+studies reported participant satisfaction, diabetes status or overall
+measure of comorbidity.
+Physicians and patients may need to evaluate willingness and
+readiness to implement intermittent fasting as a treatment
+strategy, based on individual practicality and sustainability.
+Equity-related implications for practice
+We are uncertain about the eﬀect of intermittent fasting in LMICs,
+as most of the included studies enrolled predominantly white
+populations and were conducted in HICs, which prevented us
+from analysing the eﬀect of the intervention in very low-resource
+settings and may limit the applicability of our findings in the
+clinical setting or for policy development. Some ongoing studies
+will help in filling this gap, as they are planned to be conducted in
+low and middle-income settings (CTRI/2022/02/040292 2022 [141];
+CTRI/2022/11/047684 2022 [142]; CTRI/2024/07/070430 2024 [143]).
+We are uncertain about the potential diﬀerent eﬀects of
+intermittent fasting in men and women, as only one study assessed
+the intervention in men (Conley 2018), and eight studies exclusively
+in women, which may aﬀect the applicability of intermittent fasting
+in diﬀerent genders. We found one ongoing study that will help
+fill this gap (NCT05629858 2022 [144]), as it is planned to include
+women with polycystic ovarian syndrome. Most ongoing studies
+will enrol mixed populations but may report disaggregated data for
+each gender.
+Implications for research
+Further research is needed to address the eﬀect of intermittent
+fasting on several outcomes, such as participant satisfaction,
+diabetes status and overall measure of comorbidities. Future
+research should also focus on loss of lean body mass as a
+potential relevant long-term outcome, which could be relevant
+for specific populations, such as those with eating disorders or
+sarcopenia. These studies must consider diﬀerent populations
+where obesity and overweight have diﬀerent burdens of disease,
+like those from LMICs and HICs, men or women separately, and
+diﬀerent body mass index categories; and report the results for
+all these relevant subgroups. These population characteristics
+would provide insights into contextual influences, such as cultural
+acceptability and access to food, that may modify the eﬀects
+of intermittent fasting. New studies need to assess various
+types of intermittent fasting and guarantee a long-term follow-
+up beyond 12 months to facilitate conclusions on durability
+and weight loss maintenance. These studies must also address
+several methodological limitations found in the included studies
+in this review, such as prospective registration or a detailed
+randomisation process to enhance transparency. Studies must
+provide an appropriate definition for all outcomes considered
+and must use valid tools for assessment in all the study groups,
+harmonising outcome measures to facilitate comparability across
+studies and strengthen the evidence base. Additionally, future
+research must define in advance the relevant time points for
+outcome assessment and report data for all the agreed time
+points when presenting their results, using adequate reporting
+guidelines for randomised controlled trials. It is essential for
+studies to evaluate dietary adherence or compliance since this is a
+crucial aspect of dietary interventions. Understanding adherence
+can help clarify the intervention's eﬀects when followed properly
+and identify any potential signs of intolerance as adverse
+eﬀects. Additionally, assessing adherence will help determine the
+intervention's feasibility and applicability in real-world settings.
+Studies must also assess the nutritional adequacy of the fasting
+approach, especially addressing the diﬀerent types of intermittent
+fasting that may aﬀect its feasibility in the real world.
+Equity-related implications for research
+New research assessing the eﬀect of intermittent fasting in adults
+with overweight or obesity needs to determine the potential
+diﬀerences the intervention may have in diﬀerent genders,
+reporting disaggregated data for women and men. This research
+also needs to focus on the eﬀect of intermittent fasting in diﬀerent
+income scenarios, where the burden of disease and treatment
+resources are diﬀerent, and the potential impact of intermittent
+fasting may exacerbate any nutritional inadequacies.
+S U P P L E M E N T A R Y   M A T E R I A L S
+Supplementary materials are available with the online version of
+this article: 10.1002/14651858.CD015610.pub2.
+Supplementary material 1 Search strategies
+Supplementary material 2 Characteristics of included studies
+Supplementary material 3 Characteristics of excluded studies
+Supplementary material 4 Characteristics of studies awaiting
+classification
+Supplementary material 5 Characteristics of ongoing studies
+Supplementary material 6 Risk of bias
+Supplementary material 7 Analyses
+Supplementary material 8 Data package
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Supplementary material 9 Summary of the characteristics of
+participants we expected to see in the evidence and the actual
+participant characteristics extracted from the included studies
+Supplementary material 10 Consumer involvement
+Supplementary material 11 Sensitivity analyses summary
+A D D I T I O N A L   I N F O R M A T I O N
+Acknowledgements
+We thank Cristina Saldías for her contribution during the protocol
+stage. We also thank Marta Roque Figuls for her statistical advice
+during data extraction.
+Editorial and peer-reviewer contributions
+Cochrane Metabolic and Endocrine Disorders supported the
+authors in the development of this review.
+The following people conducted the editorial process for this
+article:
+•
+Sign-oﬀ Editor (final editorial decision): Brenda Bongaerts,
+Institute of General Practice, Medical Faculty of the Heinrich-
+Heine-University Düsseldorf, Düsseldorf, Germany;
+•
+Managing Editor (selected peer reviewers, provided editorial
+guidance to authors, edited the article): Jenny Bellorini,
+Cochrane Central Editorial Service;
+•
+Editorial Assistant (conducted editorial policy checks, selected
+peer reviewers, collated peer-reviewer comments and
+supported the editorial team): Cynthia Staﬀord, Cochrane
+Central Editorial Service;
+•
+Copy Editor (copy editing and production): Denise Mitchell,
+Cochrane Central Production Service;
+•
+Peer-reviewers (provided comments and recommended an
+editorial decision): Dr Melyssa Roy, University of Otago, Dunedin,
+New Zealand (clinical/content review); Jo-Ana Chase, Evidence
+Production and Methods Directorate (methods review); Jo
+Platt, Central Editorial Information Specialist (search review).
+Two additional peer reviewers provided clinical/content and
+patient and public peer review but chose not to be publicly
+acknowledged.
+Contributions of authors
+All review authors read and approved the final draf of the review.
+LG: Conceptualisation, methodology, data curation, formal
+analysis, investigation, visualisation, writing – original draf, writing
+– review & editing, supervision, project administration
+GO: Methodology, investigation, data curation, writing – review &
+editing
+DI: Methodology, investigation, data curation, writing – review &
+editing
+MAB: Investigation, data curation, writing – review & editing
+PA: Investigation, data curation, writing – review & editing
+SR: Investigation, data curation, writing – review & editing
+MB: Investigation, data curation, writing – original draf, writing –
+review & editing
+DR: Investigation, data curation, writing – original draf, writing –
+review & editing
+CE: Methodology, data curation, formal analyses (search
+strategies), writing – original draf, writing – review & editing
+EM: Conceptualisation, methodology, data curation, formal
+analysis, investigation, writing – original draf, writing – review &
+editing, supervision, project administration
+Declarations of interest
+LG: none known
+GO: none known
+DI: none known
+MAB: none known
+PA: is a member of the Cochrane Hepato-Biliary Editorial Team. She
+was not involved in the editorial process for this review.
+SR: none known
+MB: serves as an Editor-in-Chief for the Nutrition Care Manual of the
+Academy of Nutrition and Dietetics, an organisation of food and
+nutrition professionals that has a declared opinion or position on
+the topic.
+DR: none known
+CE: none known
+EM: none known
+Sources of support
+Internal sources
+•
+Universidad Hospital Italiano de Buenos Aires, Argentina
+In-kind support for the research team
+External sources
+•
+No sources of support provided
+Registration and protocol
+Protocol (2023): doi.org/10.1002/14651858.CD015610
+Data, code and other materials
+As part of the published Cochrane review, the following are made
+available for download for users of the Cochrane Library: full search
+strategies for each database; full citations of each unique report for
+all studies included, ongoing or awaiting classification, or excluded
+at the full-text screen, in the final review; study data, including
+study information, study arms, and study results or test data;
+consensus risk of bias assessments; and analysis data, including
+overall estimates and settings, subgroup estimates, and individual
+data rows. Analyses and data management were conducted using
+Cochrane’s authoring tool, Review Manager (RevMan). Templates
+for data extraction are available from the RevMan Knowledge Base.
+See Supplementary material 8 for additional details.
+History
+Protocol first published: Issue 9, 2023
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+1.  Garvey WT. Clinical definition of overweight and obesity. In:
+Gonzalez-Campoy J, Hurley D, Garvey W, editor(s). Bariatric
+Endocrinology. Switzerland: Springer, Cham, 2019. [DOI:
+10.1007/978-3-319-95655-8_7]
+2.  Fernandes M, Atallah AN, Soares BG, Humberto S,
+Guimarães S, Matos D, et al. Intragastric balloon for obesity.
+Cochrane Database of Systematic Reviews 2007, Issue 1. Art. No:
+CD004931. [DOI: 10.1002/14651858.CD004931.pub2]
+3.  Morales-Suarez-Varela M, Collado Sánchez E, Peraita-Costa I,
+Llopis-Morales A, Soriano JM. Intermittent fasting and the
+possible benefits in obesity, diabetes, and multiple sclerosis:
+a systematic review of randomized clinical trials. Nutrients
+2021;13(9):31792.
+4.  Williams EP, Mesidor M, Winters K, Dubbert PM, Wyatt SB.
+Overweight and obesity: prevalence, consequences, and causes
+of a growing public health problem. Current Obesity Reports
+2015;4(3):363-70.
+5.  Apovian CM. Obesity: definition, comorbidities, causes, and
+burden. American Journal of Managed Care 2016;22(7):s176-85.
+6.  Obesity and overweight. Available from www.who.int/news-
+room/fact-sheets/detail/obesity-and-overweight (accessed 12
+July 2023).
+7.  Popkin BM, Slining MM. New dynamics in global obesity
+facing low- and middle-income countries. Obesity Reviews
+2013;14(2):11-20.
+8.  Templin T, Cravo Oliveira Hashiguchi T, Thomson B,
+Dieleman J, Bendavid E. The overweight and obesity transition
+from the wealthy to the poor in low- and middle-income
+countries: a survey of household data from 103 countries. PLOS
+Medicine 2019;16(11):e1002968.
+9.  Ford ND, Patel SA, Narayan KM. Obesity in low- and middle-
+income countries: burden, drivers, and emerging challenges.
+Annual Review of Public Health 2017;38:145-64.
+10.  Ward ZJ, Bleich SN, Cradock AL, Barrett JL, Giles CM,
+Flax C, et al. Projected U.S. state-level prevalence of adult
+obesity and severe obesity. New England Journal of Medicine
+2019;381(25):2440-50.
+11.  Scully T, Ettela A, LeRoith D, Gallagher EJ. Obesity, type 2
+diabetes, and cancer risk. Frontiers in Oncology 2021;10:615375.
+12.  Tremmel M, Gerdtham UG, Nilsson PM, Saha S. Economic
+burden of obesity: a systematic literature review. International
+Journal of Environmental Research and Public Health
+2017;14(4):435.
+13.  Noriea AH, Patel FN, Werner DA, Peek ME. A narrative
+review of physician perspectives regarding the social and
+environmental determinants of obesity. Current Diabetes
+Reports 2018;18(5):24.
+14.  Pan XF, Wang L, Pan A. Epidemiology and determinants
+of obesity in China. Lancet. Diabetes and Endocrinology
+2021;9(6):373-92. [DOI: 10.1016/s2213-8587(21)00045-0]
+15.  Wharton S, Lau DC, Vallis M, Sharma AM, Biertho L,
+Campbell-Scherer D, et al. Obesity in adults: a clinical
+practice guideline. Canadian Medical Association Journal
+2020;192(31):E875-91. [DOI: 10.1503/cmaj.191707]
+16.  Wu Y, Li D, Vermund SH. Advantages and limitations of the
+body mass index (BMI) to assess adult obesity. International
+Journal of Environmental Research and Public Health
+2024;21(6):757. [DOI: 10.3390/ijerph21060757]
+17.  Yumuk V, Tsigos C, Fried M, Schindler K, Busetto L, Micic D,
+et al. European Guidelines for obesity management in adults.
+Obesity Facts 2015;8(6):402-24. [DOI: 10.1159/000442721]
+18.  Correia JM, Santos I, Pezarat-Correia P, Minderico C,
+Mendonca GV. Eﬀects of intermittent fasting on specific exercise
+performance outcomes: a systematic review including meta-
+analysis. Nutrients 2020;12(5):1390.
+19.  Mattson MP, Longo VD, Harvie M. Impact of intermittent
+fasting on health and disease processes. Ageing Research
+Reviews 2017;39:46-58.
+20.  Anton SD, Moehl K, Donahoo WT, Marosi K, Lee SA, Mainous
+AG 3rd, et al. Flipping the metabolic switch: understanding and
+applying the health benefits of fasting. Obesity 2018;26(2):254–
+68.
+21.  Gabel K, Hamm A, Czyzewski O, Sanchez Perez J, Fought-
+Boudaia A, Motl RW, et al. A narrative review of intermittent
+fasting with exercise. Journal of the Academy of Nutrition and
+Dietetics 2025;125(2):153–71. [DOI: 10.1016/j.jand.2024.05.015]
+22.  Kalam F, James DL, Li YR, Coleman MF, Kiesel VA, Cespedes
+Feliciano EM, et al. Intermittent fasting interventions to leverage
+metabolic and circadian mechanisms for cancer treatment
+and supportive care outcomes. Journal of the National
+Cancer Institute. Monographs 2023;61:84-103. [DOI: 10.1093/
+jncimonographs/lgad008]
+23.  Allaf M, Elghazaly H, Mohamed OG, Fareen MF,
+Zaman S, Salmasi AM, et al. Intermittent fasting for the
+prevention of cardiovascular disease. Cochrane Database of
+Systematic Reviews 2021, Issue 1. Art. No: CD013496. [DOI:
+10.1002/14651858.CD013496.pub2]
+24.  Templeman I, Gonzalez JT, Thompson D, Betts JA. The role
+of intermittent fasting and meal timing in weight management
+and metabolic health. Proceedings of the Nutrition Society
+2020;79(1):76-87.
+25.  de Cabo R, Mattson MP. Eﬀects of intermittent fasting on
+health, aging, and disease. New England Journal of Medicine
+2019;381(26):2541–51.
+26.  Kang SH, Park YS, Ahn SH, Kim HH. Intermittent fasting:
+current evidence in clinical practice. Journal of Obesity &
+Metabolic Syndrome 2020;29(2):81–3.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+27.  Wilhelmi de Toledo F, Grundler F, Sirtori CR, Ruscica M.
+Unravelling the health eﬀects of fasting: a long road from
+obesity treatment to healthy life span increase and improved
+cognition. Annals of Medicine 2020;52(5):147–61.
+28.  Patterson RE, Sears DD. Metabolic eﬀects of intermittent
+fasting. Annual Review of Nutrition 2017;37:371-93.
+29.  Li G, Xie C, Lu S, Nichols RG, Tian Y, Li L, et al. Intermittent
+fasting promotes white adipose browning and decreases
+obesity by shaping the gut microbiota. Cell Metabolism
+2017;26(4):672-85.
+30.  Martin CK, Bhapkar M, Pittas AG, Pieper CF, Das SK,
+Williamson DA, et al. Eﬀect of calorie restriction on mood,
+quality of life, sleep, and sexual function in healthy nonobese
+adults: the CALERIE 2 randomized clinical trial. JAMA Internal
+Medicine 2016;176(6):743–52.
+31.  Di Francesco A, Di Germanio C, Bernier M, de Cabo R. A time
+to fast. Science 2018;362(6416):770–5.
+32.  Stockman MC, Thomas D, Burke J, Apovian CM. Intermittent
+fasting: is the wait worth the weight? Current Obesity Reports
+2018;7(2):172-85.
+33.  Jamshed H, Beyl RA, Della Manna DL, Yang ES, Ravussin E,
+Peterson CM. Early time-restricted feeding improves 24-hour
+glucose levels and aﬀects markers of the circadian clock, aging,
+and autophagy in humans. Nutrients 2019;11(6):1234.
+34.  Manoogian EN, Panda S. Circadian rhythms, time-
+restricted feeding, and healthy aging. Ageing Research Reviews
+2017;39:59-67.
+35.  Semnani-Azad Z, Khan TA, Chiavaroli L, Chen V, Bhatt HA,
+Chen A, et al. Intermittent fasting strategies and their eﬀects on
+body weight and other cardiometabolic risk factors: systematic
+review and network meta-analysis of randomised clinical trials.
+BMJ 2025;389:e082007. [DOI: 10.1136/bmj-2024-082007]
+36.  Klempel MC, Bhutani S, Fitzgibbon M, Freels S, Varady KA.
+Dietary and physical activity adaptations to alternate day
+modified fasting: implications for optimal weight loss. Nutrition
+Journal 2010;3(9):35.
+37.  Harding S. Intermittent fasting: clinical considerations.
+Journal for Nurse Practitioners 2021;17(5):545-8.
+38.  Williams RL, Wood LG, Collins CE, Callister R. Eﬀectiveness
+of weight loss interventions − is there a diﬀerence between
+men and women: a systematic review. Obesity Reviews
+2015;16(2):171-86.
+39.  Mayer SB, Graybill S, Raﬀa SD, Tracy C, Gaar E, Wisbach G, et
+al. Synopsis of the 2020 U.S. VA/DoD clinical practice guideline
+for the management of adult overweight and obesity. Military
+Medicine 2021;186(9-10):884-96.
+40.  Hall ME, Cohen JB, Ard JD, Egan BM, Hall JE, Lavie CJ,
+et al. Weight-loss strategies for prevention and treatment of
+hypertension: a scientific statement from the American Heart
+Association. Hypertension 2021;78(5):e38-e50. [DOI: 10.1161/
+HYP.0000000000000202]
+41.  Welton S, Minty R, O’Driscoll T, Willms H, Poirier D,
+Madden S, et al. Intermittent fasting and weight loss: systematic
+review. Canadian Family Physician: M ́edecin De Famille Canadien
+2020;66(2):117–25.
+42.  Chao AM, Quigley KM, Wadden TA. Dietary interventions
+for obesity: clinical and mechanistic findings. Journal of Clinical
+Investigation 2021;131(1):e140065.
+43.  Borgundvaag E, Mak J, Kramer CK. Metabolic impact of
+intermittent fasting in patients with type 2 diabetes mellitus:
+a systematic review and meta-analysis of interventional
+studies. Journal of Clinical Endocrinology and Metabolism
+2021;106(3):902-11. [DOI: 10.1210/clinem/dgaa926] [PMID:
+33319233]
+44.  Higgins JP, Lasserson T, Thomas J, Flemyng E, Churchill R.
+Methodological Expectations of Cochrane Intervention Reviews.
+Cochrane: London, Version August 2023.
+45.  Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoﬀmann TC,
+Mulrow CD, et al. The PRISMA 2020 statement: an updated
+guideline for reporting systematic reviews. BMJ 2021;372:n71.
+[DOI: 10.1136/bmj.n71] [PMID: 33782057]
+46.  Garegnani L, Oltra G, Saldías C, Escobar Liquitay CM,
+Madrid E. Intermittent fasting for adults with overweight or
+obesity. Cochrane Database of Systematic Reviews 2023, Issue 9.
+Art. No: CD015610. [DOI: 10.1002/14651858.CD015610]
+47.  Teong XT, Liu K, Vincent AD, Bensalem J, Liu B,
+Hattersley KJ, et al. Intermittent fasting plus early time-
+restricted eating versus calorie restriction and standard care
+in adults at risk of type 2 diabetes: a randomized controlled
+trial. Nature Medicine 2023;29(4):963–72. [DOI: 10.1038/
+s41591-023-02287-7]
+48.  Charrouf R, Liu K, Teong XT, Hutchison A, Leonie H.
+Intermittent fasting versus calorie restriction on blood
+pressure and the renin-angiotensin-aldosterone system: a
+secondary analysis of a randomised controlled trial in adults
+at elevated risk of developing type 2 diabetes. Obesity Reviews
+2022;23:e13503. [DOI: 10.1111/obr.13503]
+49.  Teong XT, Liu K, Hutchison AT, Liu B, Feinle-Bisset C,
+Wittert GA, et al. An update to the study protocol for a
+randomized controlled trial comparing daily calorie restriction
+versus intermittent fasting to improve glycaemia in individuals
+at increased risk of developing type 2 diabetes. Obesity
+Research & Clinical Practice 2021;15(3):306. [DOI: 10.1016/
+j.orcp.2021.04.009]
+50.  Teong XT, Liu K, Hutchison AT, Liu B, Feinle-Bisset C,
+Wittert GA, et al. Rationale and protocol for a randomized
+controlled trial comparing daily calorie restriction versus
+intermittent fasting to improve glycaemia in individuals
+at increased risk of developing type 2 diabetes. Obesity
+Research & Clinical Practice 2020;14(2):176– 83. [DOI: 10.1016/
+j.orcp.2020.01.005]
+51.  Liu K, Teong XT, Vincent AD, Wittert GA, Liu B, Larance M,
+et al. Eﬀects of intermittent fasting compared to daily calorie
+restriction on intermediary metabolism in humans. Obesity
+Reviews 2022;23:e13502. [DOI: 10.1111/obr.13502]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+52.  Higgins JP, Eldridge S, Li T. Chapter 23: Including variants
+on randomized trials [last updated October 2019]. In: Higgins
+JP, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, et
+al, editor(s). Cochrane Handbook for Systematic Reviews of
+Interventions Version 6.5. Cochrane, 2024. Available from
+https://www.cochrane.org/authors/handbooks-and-manuals/
+handbook/current/chapter-23.
+53.  Trepanowski JF, Bloomer RJ. The impact of religious fasting
+on human health. Nutrition Journal 2010;9:57.
+54.  Ahern AL, Wheeler GM, Aveyard P, Boyland EJ, Halford JC,
+Mander AP, et al. Extended and standard duration weight-
+loss programme referrals for adults in primary care (WRAP): a
+randomised controlled trial. Lancet 2017;389(10085):2214-25.
+55.  Wu H, Wylie-Rosett J, Qi Q. Dietary interventions for weight
+loss and maintenance: preference or genetic personalization?
+Current Nutrition Reports 2013;2:189–98.
+56.  Mackenzie RM, Ells LJ, Simpson SA, Logue J. Core outcome
+set for behavioural weight management interventions for adults
+with overweight and obesity: standardised reporting of lifestyle
+weight management interventions to aid evaluation (STAR-
+LITE). Obesity Reviews 2020;21(2):e12961.
+57.  Fermont JM, Blazeby JM, Rogers CA, Wordsworth S; on
+behalf of the By-Band-Sleeve Study Management Group.
+The EQ-5D-5L is a valid approach to measure health related
+quality of life in patients undergoing bariatric surgery. PLOS One
+2017;12(12):e0189190.
+58.  Austin SR, Wong YN, Uzzo RG, Beck JR, Egleston BL.
+Why summary comorbidity measures such as the Charlson
+Comorbidity Index and Elixhauser Score work. Medical Care
+2015;53(9):e65-72.
+59.  Jensen MD, Ryan DH, Apovian CM, Ard JD, Comuzzie AG,
+Donato KA, et al. 2013 AHA/ACC/TOS guideline for the
+management of overweight and obesity in adults: a report
+of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines and the Obesity
+Society. Circulation 2014;129(25 Suppl 2):S102-38. [DOI:
+10.1161/01.cir.0000437739.71477.ee]
+60.  Obesity: identification, assessment and management.
+Available at www.nice.org.uk/guidance/cg189 (accessed 12 July
+2023).
+61.  Rothberg AE. Weight loss ≥ 10% is required by the severely
+obese to achieve minimal clinically important diﬀerences
+in health-related quality of life. Evidence-based Medicine
+2015;20(2):69.
+62.  Warkentin LM, Majumdar SR, Johnson JA,
+Agborsangaya CB, Rueda-Clausen CF, Sharma AM, et al. Weight
+loss required by the severely obese to achieve clinically
+important diﬀerences in health-related quality of life: two-year
+prospective cohort study. BMC Medicine 2014;12:175.
+63.  Cochrane. Cochrane Central Register of Controlled Trials
+(CENTRAL). https://www.cochranelibrary.com/central/about-
+central (accessed before 6 January 2026).
+64.  Lefebvre C, Glanville J, Briscoe S, Featherstone R,
+Littlewood A, Metzendorf M-I, et al. Chapter 4: Searching for
+and selecting studies [last updated March 2025]. In: Higgins
+JP, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, et
+al, editor(s). Cochrane Handbook for Systematic Reviews of
+Interventions Version 6.5.1 Cochrane, 2025. Available from
+https://www.cochrane.org/authors/handbooks-and-manuals/
+handbook/current/chapter-04.
+65.  Covidence. Version accessed 10 December 2024.
+Melbourne, Australia: Veritas Health Innovation, 2024. Available
+at https://www.covidence.org.
+66.  Hoﬀmann TC, Glasziou PP, Boutron I, Milne R, Perera R,
+Moher D, et al. Better reporting of interventions: template for
+intervention description and replication (TIDieR) checklist and
+guide. BMJ 2014;348:g1687.
+67.  Hoﬀmann TC, Oxman AD, Ioannidis JP, Moher D,
+Lasserson TJ, Tovey DI, et al. Enhancing the usability of
+systematic reviews by improving the consideration and
+description of interventions. BMJ 2017;358:j2998.
+68.  Higgins JP, Savović J, Page MJ, Elbers RG, Sterne JA.
+Chapter 8: Assessing risk of bias in a randomized trial [last
+updated October 2019]. In: Higgins JP, Thomas J, Chandler J,
+Cumpston M, Li T, Page MJ, et al, editor(s). Cochrane Handbook
+for Systematic Reviews of Interventions Version 6.5. Cochrane,
+2024. Available from www.training.cochrane.org/handbook.
+69.  Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S,
+Smyth R, et al. The impact of outcome reporting bias in
+randomised controlled trials on a cohort of systematic reviews.
+BMJ 2010;340:c365. [DOI: 10.1136/bmj.c365]
+70.  Sterne JA, Sutton AJ, Ioannidis JP, Terrin N, Jones DR, Lau J,
+et al. Recommendations for examining and interpreting funnel
+plot asymmetry in meta-analyses of randomised controlled
+trials. BMJ 2011;343:d4002.
+71.  Wood L, Egger M, Gluud LL, Schulz KF, Jüni P, Altman DG,
+et al. Empirical evidence of bias in treatment eﬀect estimates
+in controlled trials with diﬀerent interventions and outcomes:
+meta-epidemiological study. BMJ 2008;336(7644):601-5.
+72.  Deeks JJ, Higgins JP, Altman DG, McKenzie JE, Veroniki AA,
+editor(s). Chapter 10: Analysing data and undertaking meta-
+analyses [last updated November 2024]. In: Higgins JP,
+Thomas J, Chandler J, Cumpston M, Li T, Page MJ, et al,
+editor(s). Cochrane Handbook for Systematic Reviews of
+Interventions Version 6.5. Cochrane, 2024. Available from
+https://www.cochrane.org/authors/handbooks-and-manuals/
+handbook/current/chapter-10.
+73.  McKenzie JE, Brennan SE. Chapter 12: Synthesizing and
+presenting findings using other methods [last updated October
+2019]. In: Higgins JP, Thomas J, Chandler J, Cumpston M, Li
+T, Page MJ, et al, editor(s). Cochrane Handbook for Systematic
+Reviews of Interventions Version 6.5. Cochrane, 2024. Available
+from https://www.cochrane.org/authors/handbooks-and-
+manuals/handbook/current/chapter-12.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 36]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+74.  Altman DG, Bland JM. Interaction revisited: the diﬀerence
+between two estimates. BMJ 2003;326(7382):219. [PMID:
+12543843]
+75.  Review Manager (RevMan). Version 8.10. The Cochrane
+Collaboration, 2024. Available at https://revman.cochrane.org.
+76.  O'Neill J, Tabish H, Welch V, Petticrew M, Pottie K, Clarke M,
+et al. Applying an equity lens to interventions: using PROGRESS
+ensures consideration of socially stratifying factors to
+illuminate inequities in health. Journal of Clinical Epidemiology
+2014;67(1):56-64.
+77.  Welch VA, Petkovic J, Jull J, Hartling L, Klassen T,
+Kristjansson E, et al. Chapter 16: Equity and specific populations
+[last updated October 2019]. In: Higgins JP, Thomas J, Chandler
+J, Cumpston M, Li T, Page MJ, et al, editor(s). Cochrane
+Handbook for Systematic Reviews of Interventions Version 6.5.
+Cochrane, 2024. Available from https://www.cochrane.org/
+authors/handbooks-and-manuals/handbook/current/
+chapter-16.
+78.  Schünemann HJ, Higgins JP, Vist GE, Glasziou P, Akl EA,
+Skoetz N, et al. Chapter 14: Completing ‘Summary of findings’
+tables and grading the certainty of the evidence [last updated
+August 2023]. In: Higgins JP, Thomas J, Chandler J, Cumpston
+M, Li T, Page MJ, et al, editor(s). Cochrane Handbook for
+Systematic Reviews of Interventions Version 6.5. Cochrane, 2024.
+Available from https://www.cochrane.org/authors/handbooks-
+and-manuals/handbook/current/chapter-14.
+79.  GRADEpro GDT. Version accessed 28 July 2024. Hamilton
+(ON): McMaster University (developed by Evidence Prime), 2024.
+Available at https://www.gradepro.org.
+80.  Santesso N, Carrasco-Labra A, Langendam M, Brignardello-
+Petersen R, Mustafa RA, Heus P, et al. Improving GRADE
+evidence tables Part 3: detailed guidance for explanatory
+footnotes supports creating and understanding GRADE certainty
+in the evidence judgments. Journal of Clinical Epidemiology
+2016;74:28-39. [DOI: 10.1016/j.jclinepi.2015.12.006] [PMID:
+26796947]
+81.  Santesso N, Glenton C, Dahm P, Garner P, Akl EA,
+Alper B, et al. GRADE guidelines 26: Informative statements
+to communicate the findings of systematic reviews of
+interventions. Journal of Clinical Epidemiology 2020;119:126-35.
+[DOI: 10.1016/j.jclinepi.2019.10.014] [PMID: 31711912]
+82.  Haddaway NR, Page MJ, Pritchard CC, McGuinness LA.
+PRISMA 2020: an R package and shiny app for producing
+PRISMA 2020-compliant flow diagrams, with interactivity for
+optimised digital transparency and open synthesis. Campbell
+Systematic Reviews 2022;18(2):e1230. [DOI: 10.1002/cl2.1230]
+83.  Bartholomew CL, Muhlestein JB, May HT, Le VT, Galenko O,
+Garrett KD, et al. Randomized controlled trial of once-per-week
+intermittent fasting for health improvement: the WONDERFUL
+trial. European Heart Journal Open 2021;1(2):oeab026. [DOI:
+10.1093/ehjopen/oeab026]
+84.  Catenacci VA, Pan Z, Ostendorf D, Brannon S, Gozansky WS,
+Mattson MP, et al. A randomized pilot study comparing zero-
+calorie alternate-day fasting to daily caloric restriction in
+adults with obesity. Obesity 2016;24(9):1874–83. [DOI: 10.1002/
+oby.21581]
+85.  Conley M, Le Fevre L, Haywood C, Proietto J. Is two days of
+intermittent energy restriction per week a feasible weight loss
+approach in obese males? A randomised pilot study. Nutrition &
+Dietetics 2018;75(1):65–72. [DOI: 10.1111/1747-0080.12372]
+86.  ACTRN12614000396628. Is two days of intermittent fasting
+per week a feasible weight loss approach in obese male war
+veterans? A pilot study. https://anzctr.org.au/Trial/Registration/
+TrialReview.aspx?id=366094 2014.
+87.  de Oliveira Maranhão Pureza IR, Da Silva AE Jr, Silva
+Praxedes DR, Lessa Vasconcelos LG, de Lima Macena M, Vieira
+de Melo IS, et al. Eﬀects of time-restricted feeding on body
+weight, body composition and vital signs in low-income women
+with obesity: a 12-month randomized clinical trial. Clinical
+Nutrition 2021;40(3):759–66. [DOI: 10.1016/j.clnu.2020.06.036]
+88.  Dunn W, Herrmann SD, Montgomery RN, Hastert M,
+Honas JJ, Rachman J, et al. Optimizing muscle preservation
+during weight loss in patients with cirrhosis: a pilot study
+comparing continuous energy restriction to alternate-day
+modified fasting for weight loss in patients with obesity and
+non-alcoholic cirrhosis of the liver. Obesity Science & Practice
+2024;10(5):e70016. [DOI: 10.1002/osp4.70016]
+89.  Dunn W, Steger F, Donnelly J, Rachman JC, Montgomery R,
+Herrman S. Optimistic trial: weight loss and body
+composition changes from alternate-day modified fasting
+and continuous lowcalorie diet: a feasibility trial in cirrhosis
+patients with obesity. In: Hepatology. 2023. [DOI: 10.1097/
+HEP.0000000000000580]
+90.  Gray KL, Clifon PM, Keogh JB. The eﬀect of intermittent
+energy restriction on weight loss and diabetes risk markers
+in women with a history of gestational diabetes: a 12-month
+randomized control trial. American Journal of Clinical Nutrition
+2021;114(2):794-803. [DOI: 10.1093/ajcn/nqab058] [PMID:
+33831950]
+91.  ACTRN12617001476325. The eﬀect of intermittent
+energy restriction (5: 2 diet) on weight loss and risk of type
+2 diabetes in women who have had gestational diabetes.
+https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?
+id=373824.
+92.  Headland M, Clifon P, Keogh J. Eﬀect of intermittent
+compared to continuous energy restriction on weight loss and
+weight maintenance afer 12 months in healthy overweight or
+obese adults. International Journal of Obesity 2019;43(10):2028–
+36. [DOI: 10.1038/s41366-018-0247-2]
+93.  Headland M, Clifon P, Keogh J. Intermittent compared
+to continuous energy restriction on weight loss and weight
+maintenance: eﬀects afer 12 months. In: Obesity Research &
+Clinical Practice. 2019. [DOI: 10.1016/j.orcp.2018.11.095]
+94.  Lin S, Cienfuegos S, Ezpeleta M, Gabel K, Pavlou V, Mulas A,
+et al. Time-restricted eating without calorie counting for weight
+loss in a racially diverse population : a randomized controlled
+trial. Annals of Internal Medicine 2023;176(7):885-95. [DOI:
+10.7326/M23-0052]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+95.  Lin S, Cienfuegos S, Ezpeleta M, Pavlou V, Chakos K,
+McStay M, et al. Eﬀect of time-restricted eating versus daily
+calorie restriction on mood and quality of life in adults with
+obesity. Nutrients 2023;15(20):4313. [DOI: 10.3390/nu15204313]
+96.  NCT04692532. Time restricted eating for weight
+management. https://clinicaltrials.gov/study/NCT04692532?
+term=AREA%5BBasicSearch%5D(hs%206%208%2012)&rank=7
+2021.
+97.  Lin S, Ezpeleta M, Cienfuegos S, Gabel K, Varady K, Mulas A,
+et al. Eﬀects of 8-hour time restricted eating for weight loss over
+12 months. In: 40th annual meeting of the Obesity Society at
+Obesityweek. Vol. 30. 2022. [DOI: 10.1002/oby.23625]
+98.  Liu D, Huang Y, Huang C, Yang S, Wei X, Zhang P, et
+al. Calorie restriction with or without time-restricted
+eating in weight loss. New England Journal of Medicine
+2022;386(16):1495–504. [DOI: 10.1056/NEJMoa2114833]
+99.  NCT03745612. Time restricted feeding on weight loss and
+cardio-protection (TREATY trial). https://clinicaltrials.gov/study/
+NCT03745612.
+100.  Overland J, Toth K, Gibson AA, Sainsbury A, Franklin J,
+Gauld A, et al. The safety and eﬀicacy of weight loss via
+intermittent fasting or standard daily energy restriction in
+adults with type 1 diabetes and overweight or obesity: a
+pilot study. Obesity Medicine 2018;12:13-7. [DOI: 10.1016/
+j.obmed.2018.11.001]
+101.  Parr EB, Radford BE, Hall RC, Steventon-Lorenzen N,
+Flint SA, Siviour Z, et al. Comparing the eﬀects of time-restricted
+eating on glycaemic control in people with type 2 diabetes
+with standard dietetic practice: a randomised controlled trial.
+Diabetes Research and Clinical Practice 2024;217:111893. [DOI:
+10.1016/j.diabres.2024.111893]
+102.  Pavlou V, Cienfuegos S, Lin S, Ezpeleta M, Ready K,
+Corapi S, et al. Eﬀect of time-restricted eating on weight loss
+in adults with type 2 diabetes: a randomized clinical trial.
+JAMA Network Open 2023;6(10):e2339337. [DOI: 10.1001/
+jamanetworkopen.2023.39337]
+103.  NCT05225337. Time restricted eating for the treatment of
+type 2 diabetes. https://clinicaltrials.gov/study/NCT05225337
+2022.
+104.  Quist JS, Pedersen HE, Jensen MM, Clemmensen KK,
+Bjerre N, Ekblond TS, et al. Eﬀects of 3 months of 10-h per-
+day time-restricted eating and 3 months of follow-up on
+bodyweight and cardiometabolic health in Danish individuals
+at high risk of type 2 diabetes: the RESET single-centre,
+parallel, superiority, open-label, randomised controlled trial.
+Lancet. Healthy Longevity 2024;5:S2666-7568. [DOI: 10.1016/
+S2666-7568(24)00028-X]
+105.  Quist JS, Jensen MM, Clemmensen KK, Pedersen H,
+Bjerre N, Størling J, et al. Protocol for a single-centre,
+parallel-group, randomised, controlled, superiority trial
+on the eﬀects of time-restricted eating on body weight,
+behaviour and metabolism in individuals at high risk of type
+2 diabetes: the REStricted Eating Time (RESET) s. BMJ Open
+2020;10(8):e037166. [DOI: 10.1136/bmjopen-2020-037166]
+106.  Schübel R, Nattenmüller J, Sookthai D, Nonnenmacher T,
+Graf ME, Riedl L, et al. Eﬀects of intermittent and continuous
+calorie restriction on body weight and metabolism over 50
+wk: a randomized controlled trial. American Journal of Clinical
+Nutrition 2018;108(5):933-45. [DOI: 10.1093/ajcn/nqy196]
+107.  Schubel R, Graf ME, Nattenmuller J, Nabers D, Sookthai D,
+Gruner LF, et al. The eﬀects of intermittent calorie restriction
+on metabolic health: rationale and study design of the HELENA
+Trial. Contemporary Clinical Trials 2016;51:28-33. [DOI: 10.1016/
+j.cct.2016.09.004]
+108.  Sundfør TM, Svendsen M, Tonstad S. Eﬀect of intermittent
+versus continuous energy restriction on weight loss,
+maintenance and cardiometabolic risk: a randomized 1-
+year trial. Nutrition, Metabolism, and Cardiovascular Diseases
+2018;28(7):698-706. [DOI: 10.1016/j.numecd.2018.03.009]
+109.  Thomas EA, Zaman A, Sloggett KJ, Steinke S, Grau L,
+Catenacci VA, et al. Early time-restricted eating compared
+with daily caloric restriction: a randomized trial in adults with
+obesity. Obesity 2022;30(5):1027-38. [DOI: 10.1002/oby.23420]
+110.  NCT03571048. Pilot study of time restricted feeding as a
+weight loss intervention. https://www.clinicaltrials.gov/study/
+NCT03571048 2018.
+111.  Trepanowski JF, Kroeger CM, Barnosky A, Klempel MC,
+Bhutani S, Hoddy KK, et al. Eﬀect of alternate-day fasting on
+weight loss, weight maintenance, and cardioprotection among
+metabolically healthy obese adults: a randomized clinical
+trial. JAMA Internal Medicine 2017;177(7):930–8. [DOI: 10.1001/
+jamainternmed.2017.0936]
+112.  Miranda ER, Varady K, Haus JM. Weight loss via alternate
+day fasting increases circulating endogenous secretory RAGE
+and is associated with markers of adipocyte health. FASEB
+Journal 2017;31(1):s1.
+113.  Trepanowski J, Kroeger C, Klempel M, Calvo Y, Varady K.
+Alternate day fasting versus daily calorie restriction for weight
+loss and cardio-protection. FASEB Journal 2014;28(1):s1.
+114.  Kroeger C, Trapanowski J, Klempel M, Bhutani S, Hoddy K,
+Varady K. Alternate day fasting is eﬀective for weight loss
+and weight maintenance in obese adults. FASEB Journal
+2014;28(1):s1.
+115.  Barnosky A, Kroeger CM, Trepanowski JF, Klempel MC,
+Bhutani S, Hoddy KK, et al. Eﬀect of alternate day fasting on
+markers of bone metabolism: an exploratory analysis of a 6-
+month randomized controlled trial. Nutrition and Healthy Aging
+2017;4(3):255–63. [DOI: 10.3233/NHA-170031]
+116.  Kroeger C, Trapanowski J, Barnosky A, Klempel M,
+Varady K. Eﬀect of 1 year of alternate day fasting versus
+daily calorie restriction on type 2 diabetes risk. FEBS Journal
+2015;29(1):S1.
+117.  Kalam F, Kroeger CM, Trepanowski JF, Gabel K,
+Song JH, Cienfuegos S, et al. Beverage intake during
+alternate-day fasting: relationship to energy intake and
+body weight. Nutrition and Health 2019;25(3):167–71. [DOI:
+10.1177/0260106019841452]
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+118.  Trepanowski JF, Kroeger CM, Barnosky A, Klempel M,
+Bhutani S, Hoddy KK, et al. Eﬀects of alternate-day fasting or
+daily calorie restriction on body composition, fat distribution,
+and circulating adipokines: secondary analysis of a randomized
+controlled trial. Clinical Nutrition 2018;37(6 Pt A):1871–78. [DOI:
+10.1016/j.clnu.2017.11.018]
+119.  NCT00960505. Alternate day fasting for weight loss, weight
+maintenance and cardio-protection. https://clinicaltrials.gov/
+study/NCT00960505 2009.
+120.  Varady KA, Gabel K. Dietary adherence and macronutrient
+intake during 12 months of alternate day fasting. FAASEB journal
+2017;31(1):S1.
+121.  Varady K. Alternate-day fasting. Menopause
+2016;23(12):1363-407. [DOI: 10.1097/GME.0000000000000783]
+122.  Wei X, Lin B, Huang Y, Yang S, Huang C, Shi L, et al. Eﬀects
+of time-restricted eating on nonalcoholic fatty liver disease:
+the TREATY-FLD randomized clinical trial. JAMA Network Open
+2023;6(3):e233513. [DOI: 10.1001/jamanetworkopen.2023.3513]
+123.  NCT03786523. Time restricted feeding on nonalcoholic
+fatty liver disease. https://clinicaltrials.gov/study/NCT03786523
+2018.
+124.  NCT04988230. Time restricted feeding on nonalcoholic
+fatty liver disease ( TREATY-FLD )：a 12-month follow-up study.
+https://clinicaltrials.gov/study/NCT04988230 2021.
+125.  Yeary KH, Johnson D, Harris N, Yu H, Saad-Harfouche FG,
+Dauphin C, et al. An intermittent fasting intervention for black
+adults can be feasibly implemented in black churches: a cluster
+randomized controlled pilot study. Journal of the Academy
+of Nutrition and Dietetics 2024;8:S2212-2672. [DOI: 10.1016/
+j.jand.2024.07.003]
+126.  Steele C, Coleman ER, George D, Farmer-Bailey H,
+Ramanathan S, Gregory A, et al. Time-restricted feeding
+and autosomal dominant polycystic kidney disease: a
+pilot, randomized clinical trial. Journal of the American
+Society of Nephrology: JASN 2023;34(11S):206. [DOI: 10.1681/
+ASN.20233411S1206c]
+127.  NCT03342742. Daily caloric restriction and intermittent
+fasting in overweight and obese adults with autosomal
+dominant polycystic kidney disease. https://clinicaltrials.gov/
+study/NCT03342742 2017.
+128.  Rugge B, Balshem H, Sehgal R, Relevo R, Gorman P,
+Helfand M. Screening and treatment of subclinical
+hypothyroidism or hyperthyroidism [Internet]. https://
+www.ncbi.nlm.nih.gov/books/NBK83505/.
+129.  Liu L, Chen W, Wu D, Hu F. Metabolic eﬀicacy of time-
+restricted eating in adults: a systematic review and meta-
+analysis of randomized controlled trials. Journal of Clinical
+Endocrinology and Metabolism 2022;107(12):3428-41. [DOI:
+10.1210/clinem/dgac570]
+130.  Chen W, Liu X, Bao L, Yang P, Zhou H. Health eﬀects
+of the time-restricted eating in adults with obesity: a
+systematic review and meta-analysis. Frontiers in Nutrition
+2023;10:1079250. [DOI: 10.3389/fnut.2023.1079250]
+131.  Cornier MA. A review of current guidelines for the
+treatment of obesity. American Journal of Managed Care
+2022;28 Suppl 15:S288-S296. [DOI: 10.37765/ajmc.2022.89292]
+132.  Garvey WT, Mechanick JI, Brett EM, Garber AJ, Hurley DL,
+Jastreboﬀ AM, et al. American Association of Clinical
+Endocrinologists and American College of Endocrinology
+comprehensive clinical practice guidelines for medical care of
+patients with obesity. Endocrine Practice 2016;22:1-203. [DOI:
+10.4158/ep161365.gl]
+133.  Clinical practice guidelines for the management
+of overweight and obesity in adults, adolescents and
+children in Australia. https://extranet.who.int/ncdccs/Data/
+AUS_D1bic_n57-obesity-guidelines-.pdf. Melbourne, National
+Health and Medical Research Council accessed 24 June 2024.
+134.  Kim KK, Haam JH, Kim BT, Kim EM, Park JH, Rhee SY, et
+al; on behalf of the Committee of Clinical Practice Guidelines
+Korean Society for the Study of Obesity (KSSO). Evaluation
+and treatment of obesity and Its comorbidities: 2022 update
+of Clinical Practice Guidelines for Obesity by the Korean
+Society for the Study of Obesity. Journal of Obesity & Metabolic
+Syndrome 2023;32(1):1-24. [DOI: 10.7570/jomes23016]
+135.  Brown J, Clarke C, Johnson Stoklossa C, Sievenpiper J.
+Canadian adult obesity clinical practice guidelines: medical
+nutrition therapy in obesity management. Available from:
+https://obesitycanada.ca/guidelines/nutrition. Accessed 24
+June 2024.
+136.  VA/DoD Clinical Practice Guidelines. Management of adult
+overweight and obesity. https://www.healthquality.va.gov/
+guidelines/cd/obesity/ (accessed 24 June 2024).
+137.  Teong XT, Hutchison AT, Liu B, Wittert GA, Lange K,
+Banks S, et al. Eight weeks of intermittent fasting versus calorie
+restriction does not alter eating behaviors, mood, sleep quality,
+quality of life and cognitive performance in women with
+overweight. Nutrition Research 2021;92:32-9. [DOI: 10.1016/
+j.nutres.2021.06.006]
+138.  Halpern B, Mendes TB. Intermittent fasting for obesity and
+related disorders: unveiling myths, facts, and presumptions.
+Archives of Endocrinology and Metabolism 2021;65(1):14-23.
+[DOI: 10.20945/2359-3997000000322]
+139.  Özyildirim C, Uçar A. An alternative approach to obesity
+treatment: intermittent fasting. Minerva Endocrinology
+2023;48(3):334-45. [DOI: 10.23736/S2724-6507.21.03596-X]
+140.  Varady KA, Cienfuegos S, Ezpeleta M, Gabel K.
+Cardiometabolic benefits of intermittent fasting. Annual
+Review of Nutrition 2021;41:333-61. [DOI: 10.1146/annurev-
+nutr-052020-041327]
+141.  CTRI/2022/02/040292. Intermittent fasting
+and weight loss. trialsearch.who.int/Trial2.aspx?
+TrialID=CTRI/2022/02/040292.
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+142.  CTRI/2022/11/047684. Improvement in liver disease
+activity in patients with non-alcoholic fatty liver disease
+(NAFLD) with lifestyle behavioral modification in form of
+hypocaloric diet consumed in pattern of intermittent fasting
+compared with no fasting. trialsearch.who.int/Trial2.aspx?
+TrialID=CTRI/2022/11/047684 2022.
+143.  Study on low-calorie vs. Intermittent fasting with
+lifestyle coaching for eﬀective weight management. https://
+trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2024/07/070430.
+144.  NCT05629858. Time restricted eating for the treatment of
+PCOS. clinicaltrials.gov/show/NCT05629858.
+ 
+A D D I T I O N A L   T A B L E S
+ 
+Study ID
+(Country)
+Study de-
+sign
+Population (sample
+size)
+Intervention
+Duration of
+the inter-
+vention
+Outcome domains with
+available data
+Time point
+of
+measure-
+ment
+Bartholomew
+2021
+(USA)
+RCT
+Men and women
+(n = 103)
+Periodic fasting
+6 months
+Weight loss
+Changes in lipid profile
+6 months
+Catenacci
+2016
+(USA)
+RCT
+Men and women
+(n = 29)
+Alternate-day
+fasting
+2 months
+Weight loss
+Changes in lipid profile
+8 months
+Conley 2018
+(USA)
+RCT
+Men
+(n = 24)
+Modified alter-
+nate-day fasting
+6 months
+Weight loss
+Quality of life
+Adverse events
+Changes in lipid profile
+6 months
+de Oliveira
+2021
+(Brazil)
+RCT
+Women
+(n = 58)
+Time-restricted
+feeding
+12 months
+Weight loss
+12 months
+Dunn 2024
+(USA)
+RCT
+Adults with non-alco-
+holic cirrhosis
+(n = 20)
+Modified alter-
+nate-day fasting
+6 months
+Weight loss
+Changes in lipid profile
+6 months
+Gray 2021
+(Australia)
+RCT
+Women with gestation-
+al diabetes
+(n = 121)
+Alternate-day
+fasting
+12 months
+Weight loss
+12 months
+Headland
+2019
+(Australia)
+RCT
+Men and women (> 80%
+women)
+(n = 332)
+Modified alter-
+nate-day fasting 
+Periodic fasting
+12 months
+Weight loss
+Changes in lipid profile
+12 months
+Lin 2023
+(USA)
+RCT
+Men and women (> 80%
+women)
+(n = 90)
+Time-restricted
+feeding
+12 months
+Weight loss
+Quality of life
+Adverse events
+Changes in lipid profile
+12 months
+Liu 2022
+(China)
+RCT
+Men and women
+(n = 139)
+Time-restricted
+feeding
+12 months
+Weight loss
+Adverse events
+Changes in lipid profile
+12 months
+Table 1.   Overview of included studies and syntheses 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37
+
+[page 40]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+NCT03342742
+2017
+(USA)
+RCT
+Men and women with
+Autosomal dominant
+polycystic kidney dis-
+ease
+(n = 28)
+Alternate-day
+fasting
+12 months
+Weight loss
+Quality of life Adverse
+events
+12 months
+Overland
+2018
+(Australia)
+RCT
+Men and women (> 80%
+women) with type 1 dia-
+betes
+(n = 10)
+Modified alter-
+nate-day fasting
+3 months
+Weight loss
+Changes in lipid profile
+9 months
+Parr 2024
+(Australia)
+RCT
+Men and women with
+type 2 diabetes 
+(n = 51)
+Time-restricted
+feeding
+6 months
+Weight loss
+Changes in lipid profile
+6 months
+Pavlou 2023
+(USA)
+RCT
+Men and women with
+type 2 diabetes
+(n = 75)
+Time-restricted
+feeding
+6 months
+Weight loss
+Changes in lipid profile
+6 months
+Quist 2024
+(Denmark)
+RCT
+Men and women
+(n = 100)
+Time-restricted
+feeding
+3 months
+Weight loss
+6 months
+Schübel
+2018
+(Germany)
+RCT
+Men and women with
+prediabetes
+(n = 150)
+Modified alter-
+nate-day fasting
+3 months
+Weight loss
+Changes in lipid profile
+12 months
+Steele 2023
+(USA)
+RCT
+Adults with autosomal
+dominant polycystic
+kidney disease
+(n = 29)
+Time-restricted
+feeding
+12 months
+Weight loss
+12 months
+Sundfør
+2018
+(Norway)
+RCT
+Men and women
+(n = 112)
+Modified alter-
+nate-day fasting
+12 months
+Weight loss
+Adverse events
+Changes in lipid profile
+12 months
+Teong 2023
+(Australia)
+RCT
+Men and women
+(n = 209)
+Time-restricted
+feeding
+6 months
+Weight loss
+Adverse events
+Changes in lipid profile
+18 months
+Thomas
+2022
+(USA)
+RCT
+Men and women (> 80%
+women)
+(n = 85)
+Time-restricted
+feeding
+10 months
+Weight loss
+Adverse events
+10 months
+Trepanowski
+2017
+(USA)
+RCT
+Men and women (> 80%
+women)
+(n = 100)
+Alternate-day
+fasting
+6 months
+Weight loss
+Changes in lipid profile
+12 months
+Wei 2023
+(China)
+RCT
+Men and women with
+non-alcoholic fatty liver
+disease
+(n = 88)
+Time-restricted
+feeding
+12 months
+Weight loss
+Adverse events
+Changes in lipid profile
+12 months
+Yeary 2024
+(USA)
+Cluster-RCT
+Men and women 
+(n = 42)
+Modified alter-
+nate-day fasting
+6 months
+Weight loss
+6 months
+Table 1.   Overview of included studies and syntheses  (Continued)
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38
+
+[page 41]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+RCT: randomised controlled trial
+ 
+Intermittent fasting for adults with overweight or obesity (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+39

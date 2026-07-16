@@ -1,0 +1,559 @@
+
+
+[page 1]
+Review Article
+Systemic Glutathione as a Skin-Whitening Agent in Adult
+I. B. S. Sitohang
+1 and S. Ninditya
+2
+1Division of Cosmetic Dermatology, Department of Dermatology and Venereology, Faculty of Medicine, Universitas Indonesia,
+Dr. Cipto Mangunkusumo Hospital, Jakarta, Indonesia
+2Faculty of Medicine, Universitas Indonesia, Jakarta, Indonesia
+Correspondence should be addressed to I. B. S. Sitohang; irma_bernadette@yahoo.com
+Received 18 December 2019; Accepted 1 April 2020; Published 24 April 2020
+Academic Editor: E. Helen Kemp
+Copyright © 2020 I. B. S. Sitohang and S. Ninditya. *is is an open access article distributed under the Creative Commons
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+Objectives. To compare the eﬃcacy and safety proﬁles of systemic glutathione as a skin-whitening agent in adults from
+several randomized controlled trials (RCTs). Methods. *is study is an evidence-based case report with literature search
+conducted on Clinical Key, Cochrane, Journal of the American Academy of Dermatology, Taylor and Francis Online,
+ScienceDirect, and PubMed databases. *ree relevant RCTs were extracted and assessed for validity, importance, and
+applicability. Results. From 3 included trials, one of the studies opposed glutathione as a skin-whitening agent. However, the
+other two showed signiﬁcant results only to some parts of the body or to certain age groups. As a skin-whitening agent,
+studies showed that glutathione yielded other cosmetic beneﬁts as it may improve skin elasticity and reduce skin wrinkles.
+Furthermore, glutathione was well tolerated in oral preparations, but not in parenteral preparations. Conclusions. Highest-
+evidence literatures showed that glutathione is not beneﬁcial enough as a skin-whitening agent as it was only eﬀective in
+some parts of the body and did not elicit long-lasting eﬀects. However, its safety proﬁles in oral preparations were well
+tolerated. More researches regarding the time needed for skin color to return to its original state following drug withdrawal
+need to be conducted as it is yet to be discovered.
+1. Introduction
+*e role of skin color in daily life is important, especially
+for women, as it may become one’s charm. Its socio-
+psychological signiﬁcance may exceed its biological
+function, even to the extent of causing cosmetic problems,
+resulting in lower quality of life and one’s self-esteem.
+White-skinned individuals tan their skin, while dark-
+skinned individuals seek various ways to brighten their
+skin. Skin-whitening cosmetics are high in demand
+throughout Asia [1, 2].
+Nowadays, skin-whitening agents, either in topical, oral,
+or intravenous preparations, are widely available in markets.
+Glutathione, one of the skin-whitening agents in cosmetic
+industries [1], is an antioxidant commonly found in the
+human body [2]. Reduced glutathione (GSH) yields several
+systemic eﬀects, including improvements of liver abnor-
+malities and diabetic complications, protection from viral
+infections, and antitumor activities [3]. Several in vitro
+experiments demonstrated that glutathione showed anti-
+melanogenic eﬀects; thus, it is associated with melanin
+production [2]. It is known that glutathione may promote
+pheomelanin synthesis, inhibit intracellular melanogenic
+enzymes, and demonstrate antioxidative as well as antiaging
+eﬀects [2, 3].
+Despite the facts that glutathione is widely available, the
+eﬃcacy and safety proﬁles of systemic glutathione have yet to
+be fully understood. *erefore, this systematic review aims
+to investigate the eﬃcacy of systemic glutathione as a skin-
+whitening agent in adults.
+2. Clinical Question
+Is systemic glutathione, as compared to placebo, eﬀective as
+a skin-whitening agent?
+Hindawi
+Dermatology Research and Practice
+Volume 2020, Article ID 8547960, 6 pages
+https://doi.org/10.1155/2020/8547960
+
+[page 2]
+3. Methods
+3.1. Search Strategy. In order to answer the clinical question,
+literature search on Clinical Key, Cochrane, Journal of the
+American Academy of Dermatology, Taylor and Francis
+Online, Pubmed, and ScienceDirect databases on June 3rd,
+2018, was conducted. Details on literature search are shown
+in Table 1.
+3.2. Study Selection. Inclusion criteria were set to cohort
+studies, RCTs, meta-analyses, and systematic reviews.
+Conversely, exclusion criteria were also set: (1) incompatible
+language (articles not in English), (2) animal study, and (3)
+publications prior to 2008. From 16 studies, title and abstract
+screening followed by deduplication of similar articles were
+done. At the end, 3 RCTs based on validity, importance, and
+applicability (VIA) were included. *e literature search
+strategy is shown in Figure 1.
+4. Critical Appraisal
+Critical appraisal of the RCTs is shown in Table 2.
+5. Results
+Based on literature search, three RCTs (Arjinpathana and
+Asawanonda, Zubair et al., and Weschawalit et al.) were
+included. *is evidence-based critical appraisal will inves-
+tigate the eﬃcacy of glutathione as a skin-whitening agent
+(Table 3).
+6. Discussion
+Glutathione, a small, water-soluble thiol-tripeptide with
+low-molecular weight, is made from three amino acids:
+glutamate, cysteine, and glycine [5]. Glutathione is com-
+monly found in two forms: reduced glutathione (GSH) and
+oxidized glutathione (GSSH). Its biological function serves
+as a potent antioxidant in human body [6].
+Melanin, a skin pigment, consists of blackish-brown
+eumelanin
+and
+reddish-yellow
+pheomelanin.
+Higher
+pheomelanin proportion will make skin brighter [7]. Hy-
+perpigmentation is caused by the exposure to ultraviolet
+radiation, resulting in the formation of reactive oxygen and
+nitrogen species between cells [8, 9]. Oral antioxidants will
+reduce melanogenesis by suppressing those free radicals
+[6].
+Glutathione may aﬀect skin pigmentation by inhib-
+iting tyrosinase activity during melanogenesis, either
+directly or indirectly. Direct inactivation is done by
+binding to the active site of enzymes containing copper
+ion, while indirect inactivation eliminates free radicals
+and peroxides in antioxidative manners. During mela-
+nogenesis, glutathione converts eumelanin to pheome-
+lanin and modulates depigmentation of melanocytotoxic
+agents [6].
+Literature search on search engines revealed scarce
+results regarding this topic. Furthermore, most of the ar-
+ticles on this topic were published in the last 6 years,
+emphasizing the fact that glutathione use as a skin-whit-
+ening agent is still rare and is yet to be researched ex-
+tensively on human skin.
+From three appraised RCTs, two out of three demon-
+strated the positive eﬀects of glutathione as a skin-whitening
+agent. However, Zubair et al. opposed this ﬁnding. *eo-
+retically, glutathione level in serum will be higher after
+intravenous administration, thus resulting in higher adverse
+eﬀects. Furthermore, long-term use of glutathione as a skin-
+whitening agent is not yet known [4].
+*e eﬀects of glutathione on Zubair et al.’s study was
+lower than in the other study. *is ﬁnding was suspected to
+arise from diﬀerent genetic backgrounds of study pop-
+ulation, degree of sun exposure, and/or diﬀerent measure-
+ment scales [4]. Hong et al. demonstrated that some of the
+GSH content was oxidized readily and removed from cir-
+culation with a half-time of 10 minutes following an in-
+travenous injection, and the remainder was split to three
+amino acid components [10].
+Arjinpathana and Asawanonda showed that glutathione
+is eﬀective in most sun-exposed areas of the body. *is
+ﬁnding corroborated the hypothesis that glutathione is ef-
+fective only to new melanogenesis and not to existing
+pigments. *is is slightly diﬀerent from Handog et al. who
+demonstrated that melanin index decreased signiﬁcantly in
+either sun-exposed or sun-protected areas of the body. GSH
+acts as an antimelanogenic agent by converting eumelanin to
+pheomelanin systemically, with or without sun exposure
+[11].
+Weschawalit et al. reported that both glutathione forms,
+GSH and GSSG, may improve skin elasticity in either sun-
+exposed or sun-protected areas. GSH is superior to placebo
+in reducing skin wrinkles, at least in some anatomical lo-
+cations. GSSG and GSH showed signiﬁcant eﬀects on
+melanin index only in some skin areas and certain age
+groups, especially in the sun-exposed area of the right
+forearm and the GSH group with age >40 years (p  0.031)
+[3].
+Campione et al. demonstrated that enzyme glutathi-
+one-s-transferase pi (GST-π), which is present in kera-
+tinocytes and melanocytes, has a protective role against
+tumor progression, speciﬁcally sun exposure-associated
+melanoma cells. *is report makes enzyme GST-π pos-
+sible to be used as an adjuvant marker of a chronically
+sun-damaged melanoma pathway [12]. A systematic re-
+view performed by Dulokthornsakul et al. also stated there
+was a trend that glutathione might lighten skin color at
+sun-exposed areas. However, its skin-whitening eﬀect was
+still inconclusive, with its inconsistent ﬁndings from
+several studies [13].
+*e limitations of oral clinical trials are evident since the
+ability of GSH as an intact molecule decreases as it passes
+through the gastrointestinal tract. To pass the intestinal tract,
+glutathione has to be broken down into three amino acid
+components prior to absorption. Several animal studies
+showed that intact glutathione molecules may be absorbed
+through the small intestine, thus increasing plasma gluta-
+thione level. *is would not be achieved if amino acid
+component is given in equivalent amount.
+2
+Dermatology Research and Practice
+ 3029, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2020/8547960 by National Institutes Of Health Malaysia, Wiley Online Library on [15/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 3]
+On the contrary, a study of 30 Filipino women with
+Fitzpatrick skin type IV or V used glutathione in oral
+mucosal preparations (lozenges). Handog et al. demon-
+strated that melanin index decreased signiﬁcantly either in
+sun-exposed or sun-protected areas. Nevertheless, subjective
+assessments only showed mild to moderate skin-whitening
+eﬀects [11].
+*ese ﬁndings are applicable to Indonesian populace. All
+appraised studies were conducted on individuals with
+similar characteristics (i.e., healthy women). *is is espe-
+cially true since women tend to long for brighter skin color
+than men. In addition, this will exclude any diﬀerent hor-
+monal eﬀects that may act as confounders. From risk-beneﬁt
+analysis,
+oral
+glutathione
+consumption
+shows
+skin-
+whitening eﬀects only in some areas. For cosmetic purposes,
+patients will have to bear their own costs as health insurances
+do not cover cosmetic expenses. Currently, systemic glu-
+tathione is yet to be legally distributed in Indonesia as its
+eﬃcacy and safety proﬁles are still unknown.
+Glutathione is not recommended for long-term use,
+especially if the patient shows noncompliance to main-
+tenance therapies, including protection from UV rays and
+sunscreen use. Despite the fact that the appraised meta-
+analysis is valid and evident, in addition with the fact that
+appraised studies were conducted in Asia (*ailand and
+Philippines), clinical trials regarding the use of systemic
+glutathione
+in
+Indonesian
+populace
+need
+to
+be
+conducted.
+Table 1: Literature search strategy.
+Database
+Key words
+Results Included
+Clinical Key
+Oral glutathione as skin whitening
+3
+1
+Cochrane
+Glutathione
+2
+0
+Journal of the American Academy of
+Dermatology
+Glutathione in Article title AND skin in Article title
+2
+1
+Taylor and Francis Online
+Glutathione as skin whitening
+1
+1
+PubMed
+(((glutathione [Title]) OR glutathion [Title]) AND skin whitening
+[Title])
+3
+1
+ScienceDirect
+TITLE-ABSTR-KEY (glutathione) and TITLE-ABSTR-KEY (skin
+whitening)
+5
+1
+“Glutathione”
+“Skin whitening” OR “skin
+bleaching”
+AND
+Clinical 
+key
+Cochrane
+J. Am . 
+Ac Derm.
+Taylor and 
+Francis 
+Online
+Science
+direct
+Pubmed
+Title and abstract screening
+3
+2
+2
+1
+3
+5
+Deduplication
+5
+Full-text articles included in this study
+1
+0
+1
+1
+1
+1
+3
+Exclusion criteria
+Non-English articles, 
+animal study, cohort study, 
+studies published prior to 
+2008
+Inclusion criteria
+RCT, meta-analysis, 
+systematic review
+Figure 1: Literature search strategy.
+Dermatology Research and Practice
+3
+ 3029, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2020/8547960 by National Institutes Of Health Malaysia, Wiley Online Library on [15/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 4]
+Table 2: Summary of critical appraisal of included RCTs.
+Author
+Validity
+Relevance
+Study
+design
+Subject
+size
+Randomization Intention to
+treat
+Blinding
+Equal
+treatment
+Similar baseline
+characteristics
+Domain Determinant
+Outcome
+measurements
+Level of
+evidence
+Arjinpathana and
+Asawanonda (2010) [1]
+RCT
+60
++
++
++
++
++
++
++
++
+2
+Zubair et al. (2016) [4]
+RCT
+32
+—
+—
+—
++
++
++
++
++
+2
+Weschawalit et al. (2017) [3]
+RCT
+60
++
++
++
++
++
++
++
++
+2
+4
+Dermatology Research and Practice
+ 3029, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2020/8547960 by National Institutes Of Health Malaysia, Wiley Online Library on [15/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 5]
+Table 3: Outcome of included trials.
+Author
+Objectives
+Results
+Summary
+Arjinpathana and
+Asawanonda [1]
+(2012)
+Comparison between baseline and
+posttreatment on melanin index
+measured by Mexameter (face, sun-
+exposed forearm, sun-protected arm)
+and VISIA™CR system (UV spots,
+evenness, and pores) for each group as
+well as between groups.
+Baseline vs posttreatment. (1)
+Melanin index in 6 areas decreased
+signiﬁcantly in glutathione groups.
+On the contrary, in placebo arm,
+melanin index increased in facial
+area and decreased in the other
+areas. (2) No signiﬁcant diﬀerence
+between baseline and post-
+treatment on VISIA analysis. *ere
+were signiﬁcant increases for right
+and left UV spot in placebo arm
+(p  0.006 and p  0.012,
+respectively).
+Comparison between glutathione
+and placebo.
+Melanin index in glutathione arm
+decreased signiﬁcantly compared to
+the control in all sun-exposed areas,
+especially right side of the face
+(p  0.021) and left forearm
+(p  0.036).
+UV spot in glutathione arm
+increased slightly. However,
+increased skin smoothness and
+decreased pore size were also
+observed in this group. Compared
+to placebo, these ﬁndings were not
+signiﬁcant.
+Glutathione was signiﬁcant in most
+of the sun-exposed areas.
+Zubair et al. [4]
+(2016)
+Changes in skin color were observed
+after 12 injections of glutathione as
+measured by Taylor hyperpigmentation
+scale in 2 sun-protected body areas: (1)
+medial arm under the axilla, and (2)
+lateral upper thigh.
+Six out of 16 (37.5%) subjects
+experienced signiﬁcant
+improvements in glutathione group
+and 3 (18.75%) subjects in placebo
+group.
+Nonetheless, within 6 months after
+the last glutathione injection,
+gradual skin color improvements
+disappeared, leaving only 1 (6.2%)
+out of 16 subjects with skin color
+improvements.
+Both groups (glutathione and
+placebo) did not demonstrate
+signiﬁcant diﬀerence in skin color
+(p  0.985 and p  0.998,
+respectively).
+*is study demonstrated poor
+outcomes of glutathione in terms of
+eﬃcacy as well as cost-eﬀectiveness.
+Weschawalit et al.
+[3] (2017)
+Changes in melanin index as measured
+by Mexameter in six body parts (sun-
+exposed and sun-protected).
+Other measured parameters including
+quantitative evaluation of UV spots,
+pores, and evenness measured by
+VISIA™CR system, TEWL
+(transepidermal water loss) by
+Tewameter® TM300, water content by
+Corneometer® CM825, skin elasticity
+by Cutometer MPA580®, and skin
+wrinkles by Visioscan®.
+On all subjects, melanin index and
+UV spot on all areas including the
+face and arm of GSSG and GSH
+groups tend to be lower than
+placebo group (p > 0.05).
+No signiﬁcant diﬀerence was
+observed between GSSG and GSH
+groups.
+Subgroup analysis of subjects aged
+>40 years who received GSH (N  7)
+showed lower melanin index than
+placebo arm (N  10, p  0.031).
+Melanin index on sun-exposed area
+of the left forearm in GSH group
+was lower than placebo (p  0.057).
+GSSG and GSH showed signiﬁcant
+eﬀects toward melanin index only
+in some areas of the skin and
+certain age groups, especially
+subjects with age >40 years on sun-
+exposed area of right forearm
+(p  0.031).
+GSH was eﬀective to reduce facial
+wrinkles at least in some anatomical
+locations, as compared to placebo.
+Both glutathione preparations
+increased skin elasticity either in
+sun-exposed or sun-protected
+areas.
+Dermatology Research and Practice
+5
+ 3029, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2020/8547960 by National Institutes Of Health Malaysia, Wiley Online Library on [15/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 6]
+7. Conclusion and Recommendations
+Based on evidence-based critical appraisal of three trials, the
+role of systemic glutathione is not eﬀective enough as a skin-
+whitening agent as it was only eﬀective in some areas.
+Furthermore, skin color will return to its original state
+following withdrawal of glutathione consumption; hence,
+long-term eﬀects are unsustainable. However, more re-
+searches need to be conducted in order to investigate how
+much time is needed for skin color to return to its original
+state following drug withdrawal.
+Conflicts of Interest
+*e authors declare no conﬂicts of interest in this study.
+References
+[1] N. Arjinpathana and P. Asawanonda, “Glutathione as an oral
+whitening agent: a randomized, double-blind, placebo-con-
+trolled study,” Journal of Dermatological Treatment, vol. 23,
+no. 10, pp. 1–6, 2010.
+[2] R. Kamakshi, “Fairness via formulations: a review of cosmetic
+skin-lightening ingredients,” Journal of Cosmetic Science,
+vol. 63, no. 1, pp. 43–54, 2011.
+[3] S.
+Weschawalit,
+S.
+*ongthip,
+P.
+Phutrakool,
+and
+P. Asawanonda, “Glutathione and its antiaging and anti-
+melanogenic eﬀects,” Clinical, Cosmetic and Investigational
+Dermatology, vol. 10, no. 10, pp. 147–153, 2017.
+[4] S. Zubair, S. Hafeez, and G. Mujtaba, “Eﬃcacy of intravenous
+glutathione vs. placebo for skin tone lightening,” -e Journal
+of Pakistan Association of Dermatologists, vol. 26, no. 23,
+pp. 177–181, 2016.
+[5] D. A. Dickinson and H. J. Forman, “Glutathione in defense
+and signaling: lessons from a small thiol,” Annals of the New
+York Academy of Sciences, vol. 973, no. 1, pp. 488–504, 2002.
+[6] S. Sonthalia, D. Daulatabad, and R. Sarkar, “Glutathione as a
+skin whitening agent: facts, myths, evidence and controver-
+sies,” Indian Journal of Dermatology, Venereology, and Lep-
+rology, vol. 82, no. 3, pp. 262–272, 2016.
+[7] J. J. Nordlund and R. Boissy, “*e biology of melanocytes,” in
+-e Biology of the Skin, R. K. Freinkel and D. T. Woodley, Eds.,
+pp. p113–30, CRC Press, New York, NY, USA, 2001.
+[8] F. Watanabe, E. Hashizume, G. P. Chan, and A. Kamimura,
+“Skin-whitening and skin-condition-improving eﬀects of
+topical oxidized glutathione: a double-blind and placebo-
+controlled clinical trial in healthy women,” Clinical, Cosmetic
+and Investigational Dermatology, vol. 267, pp. 267–274, 2014.
+[9] H. Masaki, “Role of antioxidants in the skin: anti-aging ef-
+fects,” Journal of Dermatological Science, vol. 58, no. 2,
+pp. 95–90, 2010.
+[10] S.-Y. Hong, H.-W. Gil, J.-O. Yang et al., “Pharmacokinetics of
+glutathione and its metabolites in normal subjects,” Journal of
+Korean Medical Science, vol. 20, no. 5, pp. 721–726, 2005.
+[11] E. B. Handog, M. S. L. Datuin, and I. A. Singzon, “An open-
+label, single-arm trial of the safety and eﬃcacy of a novel
+preparation of glutathione as a skin-lightening agent in Fil-
+ipino women,” International Journal of Dermatology, vol. 55,
+no. 2, pp. 153–157, 2016.
+[12] E. Campione, E. Medda, E. Patern`o et al., “Chronically sun-
+damaged melanomas express low levels of nuclear glutathi-
+one-S-transferase-π:
+an
+epidemiological
+and
+clinicopathological study in Italy,” Acta Dermato Venere-
+ologica, vol. 95, no. 1, pp. 40–44, 2015.
+[13] W. Dilokthornsakul, T. Dhippayom, and P. Dilokthornsakul,
+“*e clinical eﬀect of glutathione on skin color and other
+related skin conditions: a systematic review,” Journal of
+Cosmetic Dermatology, vol. 18, no. 3, pp. 1–10, 2019.
+6
+Dermatology Research and Practice
+ 3029, 2020, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2020/8547960 by National Institutes Of Health Malaysia, Wiley Online Library on [15/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

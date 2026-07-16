@@ -1,0 +1,130 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Identification of severe
+acute malnutrition
+requiring inpatient
+care in children 6–59
+months of age
+Intervention | Last updated: 9 August 2023
+In children who are 6–59 months of age, severe acute malnutrition is defined by a very
+low weight-for-height/weight-for-length, or clinical signs of bilateral pitting oedema, or
+a very low mid-upper arm circumference. Severe acute malnutrition affects an
+estimated 19 million children under 5 years of age worldwide and is estimated to
+account for approximately 400,000 child deaths each year.
+
+[page 2]
+While requiring nutritional intervention, not all severely malnourished children require
+hospitalization. With the development of ready-to-use therapeutic foods, treatment of
+severe acute malnutrition in children 6 – 59 months of age without medical
+complications and with good appetite is increasingly provided on an outpatient basis.
+Inpatient treatment of severely malnourished children can be costly and disruptive to
+families in settings with limited resources. Minimizing unnecessary hospitalization while
+ensuring that those children requiring inpatient treatment get the care they need
+represents the best use of resources. This can be achieved in part by establishing
+admission and discharge criteria based on careful consideration of medical condition.
+WHO Recommendations
+Children who are 6–59 months of age with severe acute malnutrition who have appetite
+(pass the appetite test) and are clinically well and alert should be treated as outpatients.
+Children who have medical complications, severe oedema (+++)*, or poor appetite (fail
+the appetite test) or present with one or more IMCI danger signs** should be treated
+as inpatients.
+Children who are 6–59 months of age with severe acute malnutrition who are admitted
+to hospital (inpatient care) can be transferred to outpatient care when their medical
+complications, including oedema, are resolving and they have good appetite, and are
+clinically well and alert.
+*severe oedema generalized to feet, legs, arms and face
+** unable to drink or breastfeed; vomits everything; has had convulsions (more than
+one or prolonged >15 min); lethargic or unconscious; convulsing now
+Learn More 
+Guidelines and guidance documents
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+GRC-approved guidelines
+Other guidance documents
+
+[page 3]
+Pocket book of hospital care for children: Second edition
+Caring for newborns and children in the community: package of
+resources
+WHO child growth standards and the identification of severe acute
+malnutrition in infants and children
+Joint statement on the community-based management of severe acute
+malnutrition
+Management of severe malnutrition: a manual for physicians and other
+senior health workers
+Evidence
+Systematic reviews used to develop the guidelines
+
+[page 4]
+Utilization of mid-upper arm circumference versus weight-for-height in nutritional
+rehabilitation programmes: a systematic review of evidence
+pdf, 653kb Roberfroid D, Hammami N, Lachat C, Prinzo ZW, Sibson V, Guesdon B, et al. Geneva: World
+Health Organization; 2013.
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+The analyses listed below were conducted to assess the overall cost-effectiveness of
+inpatient and/or outpatient management of SAM, of which the intervention listed on
+this webpage is a component. The analyses do not assess the cost-effectiveness of this
+specific intervention alone.
+Costs, cost-effectiveness and financial sustainability of community-based management of
+acute malnutrition in northern Nigeri
+Frankel S, Roland M, Makinen M.<br>\r\nWashington DC: Results for Development Institute; 2015.\r\n
+Cost effectiveness of a community based prevention and treatment of acute malnutrition
+programme in Mumbai slums, India
+Goudet S, Jayaraman A, Chanani S, Osrin D, Devleesschauwer B, Bogin B, et al.<br>\r\nPLoS One. 2018;
+13(11):e0205688.\r\n
+Cost-effectiveness of the community-based management of severe acute malnutrition by
+community health workers in southern Bangladesh
+Puett C, Sadler K, Alderman H, Coates J, Fiedler JL, Myatt M.<br>\r\nHealth Policy Plan. 2013; 28(4):386-99.
+Cost effectiveness of community-based therapeutic care for children with severe acute
+malnutrition in Zambia: decision tree model
+Bachmann MO.<br>\r\nCost Eff Resour Alloc. 2009 Jan; 7:2.
+Cost-effectiveness of community-based management of acute malnutrition in Malawi
+Wilford R, Golden K, Walker DG.<br>\r\nHealth Policy Plan. 2012; 27(2):127-37.\r\n
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K.<br>\r\nHealth Policy Plan. 1998; 13(3):249-62.\r\n
+
+[page 5]
+Economic Cost of Community-Based Management of Severe Acute Malnutrition in a Rural
+District in Ghana
+Abdul-Latif A-M C, Nonvignon J.<br>\r\nHealth. 2014; 6: 886-899.\r\n
+Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat
+severe acute malnutrition in Ethiopia
+Tekeste A, Wondafrash M, Azene G, Deribe K.<br>\r\nCost Eff Resour Alloc. 2012; 10:4.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is a component of
+managing children with SAM, which is
+an Essential Nutrition Action targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+
+[page 6]
+Newsletters
+Report misconduct
+Privacy policy
+© 2026 WHO

@@ -1,0 +1,1346 @@
+
+
+[page 1]
+Meta-analyses
+Folic acid supplementation for stroke prevention: A systematic review
+and meta-analysis of 21 randomized clinical trials worldwide
+Nan Zhang a, Ziyi Zhou b, Xiying Chi a, Fangfang Fan a, Shuqun Li c, Yun Song d,
+Yan Zhang a, Xianhui Qin e, Ningling Sun f, Xiaobin Wang g, Yong Huo a, Jianping Li a, *
+a Department of Cardiology, Peking University First Hospital, Beijing, China
+b Center for Single-Cell Omics, School of Public Health, Shanghai Jiao Tong University School of Medicine, Shanghai, China
+c Department of Clinical Nutrition, Beijing Shijitan Hospital, Capital Medical University, Beijing, China
+d Institute of Biomedicine, Anhui Medical University, Hefei, China
+e National Clinical Research Center for Kidney Disease, State Key Laboratory of Organ Failure Research, Division of Nephrology, Nanfang Hospital, Southern
+Medical University, Guangzhou, China
+f Department of Cardiology, Peking University People's Hospital, Beijing, China
+g Department of Population, Family and Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA
+a r t i c l e
+i n f o
+Article history:
+Received 23 March 2024
+Accepted 23 May 2024
+Keywords:
+Folic acid supplementation
+Stroke
+Grain fortiﬁcation
+Primary prevention
+s u m m a r y
+Background & aims: The AHA/ASA guidelines for primary stroke prevention are almost a decade old. The
+current recommendation regarding folic acid supplementation is based on only 8 clinical trials, and an
+additional 13 folate trials have been published since then. This meta-analysis aims to ﬁll in critical ev-
+idence gaps by comprehensively evaluating 21 published trials with particular attention given to iden-
+tifying the true inﬂuences through stratiﬁcation.
+Methods: PubMed, the Cochrane Central Register of Controlled Trials, and Embase were searched from
+inception to April 4, 2023. This study included all randomized controlled trials (RCTs) of folic acid with
+stroke as one of the reporting endpoints. Relative risks and 95% conﬁdence intervals were used to assess
+the association between folic acid supplementation and the risk of stroke in a random-effects model.
+Results: Results from the 21 pooled RCTs totaling 115,559 participants showed that folic acid supple-
+mentation signiﬁcantly reduced the risk of stroke by 10% (RR 0.90, 95%CI 0.83 to 0.98). Subgroup analyses
+showed that folic acid efﬁcacy was greater in areas without fortiﬁed grain or with partially-fortiﬁed grain
+(RR ¼ 0.83, 95% CI 0.75 to 0.93; RR ¼ 1.04 in areas with grain fortiﬁcation, P-interaction ¼ 0.003). In this
+group, folic acid supplementation was most efﬁcacious in those without a history of stroke or myocardial
+infarction (RR ¼ 0.77, 95% CI 0.68 to 0.86; RR ¼ 0.94 for participants with a history of stroke or
+myocardial infarction, P-interaction ¼ 0.008). The efﬁcacy of folic acid remained consistent regardless of
+baseline folate levels, folic acid dosage, baseline vitamin B12 levels, vitamin B12 dosage, homocysteine
+reduction, intervention duration, and whether folic acid was taken alone or in combination (all P-
+interaction>0.05). All 21 trials were free of attrition bias and reporting bias, and there was no signiﬁcant
+publication bias.
+Conclusions: This is by far the largest meta-analysis of RCTs regarding folic acid supplementation and
+stroke, demonstrating the overall beneﬁt of folic acid for stroke prevention. Grain fortiﬁcation and his-
+tory of stroke or myocardial infarction may be the most important inﬂuences on the efﬁcacy of folic acid
+for stroke prevention.
+© 2024 Elsevier Ltd and European Society for Clinical Nutrition and Metabolism. All rights are reserved,
+including those for text and data mining, AI training, and similar technologies.
+The efﬁcacy of folic acid for stroke prevention has been debated
+for almost 30 years. There is an urgent need to resolve the debate in
+light of the high population burden of stroke and its associated
+morbidity and mortality [1], as well as the growing evidence that
+folate is a simple, safe, and effective intervention for stroke pre-
+vention [2,3]. The AHA/ASA guidelines for the primary prevention
+of stroke are ten years old, and made the class IIb recommendation
+* Corresponding author. Department of Cardiology, Peking University First Hos-
+pital, No. 8 Xishiku St, Xicheng District, Beijing 100034, China.
+E-mail address: lijianping03455@pkufh.com (J. Li).
+Contents lists available at ScienceDirect
+Clinical Nutrition
+journal homepage: http://www.elsevier.com/locate/clnu
+https://doi.org/10.1016/j.clnu.2024.05.034
+0261-5614/© 2024 Elsevier Ltd and European Society for Clinical Nutrition and Metabolism. All rights are reserved, including those for text and data mining, AI training, and
+similar technologies.
+Clinical Nutrition 43 (2024) 1706e1716
+
+[page 2]
+on folic acid supplementation for stroke prevention (level of evi-
+dence B) [4]. The most recent high-quality meta-analysis of folic
+acid and stroke is seven years old [5], and there have been addi-
+tional folate trials published since then. In 2022, the US Preventive
+Services Task Force (USPSTF) concluded that the current evidence
+was insufﬁcient to assess the beneﬁts and harms of the use of
+multivitamin supplements, or single or paired nutrient supple-
+ments for the prevention of cardiovascular disease (Grade I state-
+ment) [6]. However, the USPSTF report treated cardiovascular
+disease as a single entity and ignored substantial evidence on folic
+acid supplementation in stroke prevention. There is increasing
+recognition that there are signiﬁcant differences in the efﬁcacy of
+folic acid supplementation for stroke vs myocardial infarction [3],
+or other types of cardiovascular disease, and between primary vs
+secondary prevention of stroke [7].
+Furthermore, according to the AHA/ASA stroke prevention
+guidelines, folic acid supplementation was found to be more
+effective in trials with treatment durations exceeding 3 years,
+where plasma homocysteine concentrations decreased by over
+20%, in regions without folic acid fortiﬁcation, and among partici-
+pants with no history of stroke [4]. Yet, these conclusions relied on
+data from just 8 trials, while an additional 13 large trials have been
+published in the decade following. Subsequent meta-analyses have
+introduced new perspectives, suggesting that combined supple-
+mentation with high-dose cyanocobalamin might be detrimental in
+patients with impaired renal function, potentially explaining the
+limited beneﬁts observed in previous trials [2,7]. While insightful,
+these studies have methodological limitations. Most clinical trials
+of high-dose cyanocobalamin supplementation in renal-impaired
+patients were conducted in grain-fortiﬁed areas. However, it is
+the presence or absence of folic acid fortiﬁcation, not the cyano-
+cobalamin dosage, that primarily drives the outcomes. Stratifying
+by key inﬂuential factors and then conducting subsequent explo-
+rations within each stratum may yield more reliable conclusions.
+Through methodical evaluation of all 21 trials available to date
+(N ¼ 115,559), this systematic review and meta-analysis aimed to
+ﬁll in critical evidence gaps and identify the true factors that affect
+the effectiveness of folic acid through comprehensive stratiﬁcation.
+Findings from this meta-analysis will provide high-quality, high-
+level evidence on the role of folic acid supplementation in stroke
+primary prevention. Such evidence is critically needed to resolve
+the long-standing controversy and to inform relevant clinical
+guidelines.
+1. Methods
+1.1. Search methods and resources
+We conducted a comprehensive and detailed literature search of
+PubMed, the Cochrane Central Register of Controlled Trials (CEN-
+TRAL) and Embase from inception to April 4, 2023, using the
+following terms: “stroke”, “cerebrovascular accident”, “cardiovas-
+cular
+disease”,
+“coronary
+disease”,
+“coronary
+thrombosis”,
+“myocardial ischemia”, “coronary stenosis”, “coronary restenosis”,
+“folic
+acid”,
+“multivitamins”,
+“5-methyltetrahydrofolate”
+and
+“folate”. Searches were restricted to human studies and random-
+ized controlled trials. There were no language restrictions. Manual
+searches of bibliographies of all relevant trials and review articles
+were also performed. Independent PubMed, CENTRAL and Embase
+searches were conducted by NZ and ZZ, using identical search
+methods. We also consulted with experts in the ﬁeld.
+1.2. Study selection
+The study inclusion criteria were as follows: (1) the study was a
+randomized, controlled clinical trial; (2) the number of stroke
+events occurring during the study period was reported in both the
+intervention and control groups and the total number of stroke
+events exceeded ten; (3) the study intervention included folic acid
+supplementation (with or without B vitamins and multivitamin
+supplementation); and (4) the duration of the study intervention
+was at least 6 months.
+Study selection was performed by a study team according to a
+standard protocol. The study team consisted of experts in clinical
+medicine, clinical trials, epidemiology, and statistics. A total of 2006
+reports were retrieved, and the relevant abstract content was
+independently reviewed by two investigators (NZ and ZZ). When
+discrepancies arose, a third investigator (XC) completed an inde-
+pendent
+assessment.
+Any
+discrepancies
+in
+judgments
+were
+resolved through joint discussion among the study team. The se-
+lection process has been summarized using a ﬂow diagram
+(Supplementary Fig. 1).
+1.3. Data extraction
+The entire data extraction process used pre-designed standard
+forms. According to standard protocol, all data were extracted
+independently in duplicate by two independent investigators (ZZ
+and NZ) and reviewed independently by a third investigator (XC).
+Discrepancies were resolved through discussion by the multidis-
+ciplinary research team that developed the standard protocol.
+The information extracted from each eligible trial included the
+following: study name if available, ﬁrst author's name, year of
+publication, study design (factorial, parallel, crossover, other), type
+of blinding (open, double blind), type of controls (placebo, usual
+care, untreated), study population, country of origin, grain fortiﬁ-
+cation status, total number of participants, total number of strokes
+in the treatment and control groups, intervention regimen, dura-
+tion of intervention, homocysteine concentration in the treatment
+and control groups (baseline and the last visit), mean age, per-
+centage male, and other baseline characteristics.
+Net reduction in homocysteine was calculated as the change in
+concentration of the intervention group minus the change in con-
+centration of the control group. For randomized controlled trials
+with a factorial design, all participants who received folic acid
+supplementation were compared with those in the placebo group,
+regardless of the intervention of other B vitamins [8,9]. For studies
+in which all participants were supplemented with different doses
+of folic acid, the group with the lowest dose of folic acid inter-
+vention was used as the control group [10e12]. Countries with folic
+acid grain fortiﬁcation policies included the United States, Canada,
+Australia and New Zealand. As Australia and New Zealand are
+countries with voluntary folic acid fortiﬁcation, in this meta-
+analysis, these areas were considered as areas with grain fortiﬁ-
+cation [13]. More than 85% of the participants in the FAVORIT study
+were from the United States and Canada, and in this meta-analysis,
+Abbreviations
+CENTRAL
+Cochrane Central Register of Controlled Trials
+CI
+conﬁdence interval
+MI
+myocardial infarction
+PRISMA
+Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses
+RCT
+randomized controlled trial
+RR
+Relative risk
+USPSTF
+US Preventive Services Task Force
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1707
+
+[page 3]
+these individuals were considered to be from grain-fortiﬁed re-
+gions [14].
+Some of the studies included in this meta-analysis used
+different units for reporting homocysteine (mg/L vs mmol/L). In
+order to standardize this variable, the units were converted and
+mmol/L was used consistently. Similarly, baseline folate levels were
+standardized to nmol/L, and baseline vitamin B12 levels were
+converted to pg/mL. The supplementation dosage of folic acid and
+vitamin B12 were converted to a uniform unit of mg/d.
+The corresponding author (JL) had full access to all data used for
+this study and is ultimately responsible for submission for
+publication.
+1.4. Methodological quality assessment
+Two investigators (ZZ and NZ) independently assessed the risk
+of bias for all randomized controlled trials, including selection bias,
+performance bias, detection bias, attrition bias, reporting bias, and
+other biases, as assessed by the Cochrane risk-of-bias algorithm
+[15,16]. Seven criteria were evaluated, with the bias risk for each
+rated as low, high, or unclear. Any discrepancies were resolved
+through discussion.
+1.5. Statistical analysis
+The outcome of interest was total stroke, including both
+ischemic and hemorrhagic types. We evaluated the overall effect of
+folic acid supplementation on stroke risk based on all data from all
+21 trials to date. Relative risk (RR) with 95% conﬁdence interval (CI)
+was used as a measure of the association between folic acid sup-
+plementation and risk of stroke. Although the results of the tests of
+heterogeneity for both the main and the stratiﬁed analyses were
+not signiﬁcant (with I2 less than 50%), after a group discussion, our
+ﬁnal conclusion was that the potential clinical heterogeneity across
+studies could not be ignored, and that it was more appropriate to
+choose a random-effects model [17]. All P values were from two-
+sided tests and results were considered statistically signiﬁcant at
+P < 0.05.
+We comprehensively reviewed studies on folic acid supple-
+mentation for stroke prevention, including clinical trials, meta-
+analyses, and reviews, and ultimately identiﬁed potential sources
+of clinical heterogeneity, including folic acid fortiﬁcation, primary
+vs secondary prevention, folic acid dosage, vitamin B12 dosage,
+baseline folic acid and vitamin B12 levels, duration of intervention
+and homocysteine lowering.
+Further stratiﬁed analyses were conducted by grain fortiﬁcation
+(yes vs no/partial); history of stroke or myocardial infarction (yes vs
+no); folic acid supplementation alone (yes vs no); baseline folate
+(<16.0 nmol/L vs 16.0 nmol/L); folic acid dosage (0.8 mg/d vs
+>0.8 mg/d); baseline vitamin B12 (<431.4 pg/mL vs >431.4 pg/mL);
+vitamin B12 dosage (<0.4 mg/d vs 0.4 mg/d); decrease in homo-
+cysteine concentration (<20% vs 20%) and duration of folic acid
+supplementation (36 months vs >36 months). Random-effects
+models were used in stratiﬁed analyses. Since the inclusion of tri-
+als of multivitamin supplementation could be a potential source of
+methodological
+heterogeneity,
+we
+effectively
+addressed
+this
+through sensitivity analyses.
+Heterogeneity was assessed through the Cochrane's Q test and
+inconsistency index (I2) with a signiﬁcance level set at 0.10.
+Sensitivity analyses were performed by removing each individual
+trial from the meta-analysis to evaluate the stability of the pooled
+RR. Publication bias was also assessed by the Begg's funnel plot and
+the Peters test, where an asymmetric funnel plot with P < 0.05
+indicated the possibility of publication bias. R software, version
+4.2.0 (http://www.R-project.org/), was used for all statistical
+analyses.
+1.6. Standard protocol approvals, registrations, and patient
+consents
+This meta-analysis follows the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA) statement [18].
+The protocol was registered with PROSPERO (CRD42022383737).
+2. Data availability
+Data are available by request.
+3. Results
+A total of 2006 reports were retrieved. After reviewing the ab-
+stracts, 1891 reports were excluded, including those that were not
+randomized controlled trials, those that had no cardiovascular
+disease endpoints, and those with no folic acid intervention. A total
+of 49 protocols and registration information were also excluded. Of
+the 66 studies evaluated in detail, 45 studies were excluded due to
+duplicate reporting (35), lack of data on stroke or cerebrovascular
+endpoints (6), and low numbers of stroke cases (4). Ultimately, a
+total of 21 clinical trials, including a total of 115,559 participants
+and 4129 stroke cases, were included in this meta-analysis
+(Supplementary Fig. 1).
+3.1. Basic characteristics of the included clinical trials
+Table 1 presents the baseline characteristics of the study par-
+ticipants, while Table 2 outlines the design characteristics of the
+included studies. The sample sizes of the clinical trials ranged from
+88 to 21,442 participants. Of the total 21 trials, 8 were conducted in
+or primarily in the United States and Canada [10,11,14,19e23],1 was
+conducted in Australia and New Zealand [13], 8 were conducted in
+European countries [8,9,12,24e28], 2 were conducted in China
+[29,30], and 2 were conducted in multiple countries and regions
+[31,32]. Of these, 9 studies were conducted in grain-fortiﬁed re-
+gions [10,11,13,14,19e23], 10 in regions with no grain fortiﬁcation
+[8,9,12,24e27,29,30,33], and 2 in regions with partial grain fortiﬁ-
+cation [31,32]. Most trials enrolled populations with pre-existing
+conditions, including stroke, end-stage renal disease, myocardial
+infarction (MI), and hypertension. The folic acid supplementation
+dosage in the trial intervention groups ranged from 0.4 mg to 40 mg
+per day, with durations ranging from 24 to 134.4 months. In trials
+with combined vitamin B12 supplementation, the vitamin B12
+dosage in the intervention group varied from 6 mg to 2 mg per day.
+3.2. Efﬁcacy of folic acid supplementation for stroke prevention
+Pooling the data from all 21 clinical trials revealed a signiﬁcant
+10% reduction in the risk of stroke with folic acid supplementation
+(RR 0.90, 95% CI 0.83 to 0.98; Fig. 1); the test for heterogeneity did
+not show signiﬁcant variation (P ¼ 0.100). A sensitivity analysis
+conﬁrmed that the results did not substantially alter even after
+excluding any single trial (Supplementary Fig. 2).
+3.3. Stratiﬁed analysis of the efﬁcacy of folic acid supplementation
+for stroke risk by history of stroke or mi in populations with different
+grain fortiﬁcation status
+In populations with grain fortiﬁcation, folic acid supplementa-
+tion did not reduce the risk of stroke (RR 1.04, 95% CI 0.94 to 1.14;
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1708
+
+[page 4]
+Fig. 2A), and these results remained consistent when stratiﬁed by
+history of stroke or MI.
+Folic acid supplementation signiﬁcantly reduced the risk of
+stroke in populations without grain fortiﬁcation or with partial
+grain fortiﬁcation (RR 0.83, 95% CI 0.75 to 0.93; Fig. 2B). Within this
+subgroup, for those without a history of stroke or MI, folic acid
+supplementation signiﬁcantly further reduced the risk of stroke (RR
+0.77, 95% CI 0.68 to 0.86; RR ¼ 0.94 for participants with a history of
+stroke or myocardial infarction, P-interaction ¼ 0.008; Fig. 2B).
+3.4. Stratiﬁed analysis in populations without a history of stroke or
+MI, and with no grain fortiﬁcation or with partial grain fortiﬁcation
+Stratiﬁed analysis indicated that the efﬁcacy of folic acid
+remained consistent regardless of baseline folate levels, folic acid
+dosage, baseline vitamin B12 levels, vitamin B12 dosage, homo-
+cysteine reduction, intervention duration, and whether folic acid
+was taken alone or in combination (all P-interaction>0.05; Table 3).
+3.5. Beneﬁciary populations of folic acid supplementation for stroke
+prevention based on available evidence
+Figure 3 illustrates the efﬁcacy of folic acid supplementation in
+various populations, based on the available evidence. The utiliza-
+tion of the color green signiﬁes populations that have experienced
+signiﬁcant beneﬁts from folic acid supplementation in the context
+of stroke prevention, while the color gray designates populations in
+which
+the
+efﬁcacy
+of
+folic
+acid
+supplementation
+remains
+indeterminate.
+3.6. Methodological quality assessment
+Of the 21 included trials, three trials did not report the speciﬁc
+method of random sequence generation and were assessed as un-
+certain risk of selection bias. Five trials did not describe the process
+of allocation concealment and were assessed as uncertain risk. Two
+trials were designed to be open-label and were assessed as high
+risk of performance bias. Seven trials were assessed as having an
+unclear risk of detection bias because it was unclear whether
+blinding was used in the outcome assessment. All 21 trials were
+free
+of
+attrition
+bias,
+reporting
+bias,
+and
+other
+biases
+(Supplementary Figs. 3 and 4).
+No signiﬁcant differences were found in the efﬁcacy of folic acid
+supplementation for stroke prevention when the results were
+stratiﬁed according to methodological quality (Supplementary
+Table 1).
+The Begg's funnel plot was symmetrical (Supplementary Fig. 5)
+and the results of the Peters test showed no signiﬁcant publication
+bias for the 21 trials included in this study (P ¼ 0.152). We also
+compared studies of large sample size to those of small sample size
+in order to further assess publication bias, and found that the re-
+sults remained consistent (Supplementary Table 2).
+4. Discussion
+This is by far the largest meta-analysis of folic acid supple-
+mentation for stroke prevention, based on 21 clinical trials with a
+total of 115,559 participants. The ﬁndings support the beneﬁt of
+folic acid supplementation for stroke prevention. Speciﬁcally, we
+validated the four risk factors mentioned in the AHA/ASA guide-
+lines and ultimately conﬁrmed that only folic acid fortiﬁcation
+status and history of stroke or myocardial infarction (MI) were the
+top two inﬂuences, with homocysteine reduction rate and inter-
+vention duration no longer being signiﬁcant. Of greater importance,
+after fully considering the contribution of the ﬁrst two factors
+(which had been overlooked in previous studies), the other inﬂu-
+encing factors identiﬁed by the previous guidelines and meta-
+analysis, no longer appear particularly important. Individuals
+without a history of stroke or MI in non-grain fortiﬁed areas
+maximized the beneﬁts of folic acid supplementation, experiencing
+a signiﬁcant 23% reduction in stroke risk. Below we discuss our
+Table 1
+Baseline characteristics of study participants in each of the randomized controlled trials included in this meta-analysis.
+Name of RCT
+Number of
+participants
+Age,
+years
+Male,
+%
+Pre-existent diseases
+Baseline folate,
+nmol/L
+Baseline vitamin
+B12, pg/mL
+Net reductionb in
+homocysteine, mmol/L
+Linxian, 1996 [30]
+3318
+54
+44%
+Esophageal dysplasia
+NR
+NR
+NR
+VISP, 2004 [10]
+3680
+66.3
+63%
+Stroke
+26.0a
+501.4a
+2.3
+Wrone, 2004 [11]
+510
+60.2
+50%
+ESRD
+47.4
+693.7
+3.6
+Liem, 2005 [24]
+593
+65.2
+78%
+CHD
+16.0
+393.0
+2.6
+HOPE2, 2006 [31]
+5522
+68.9
+72%
+CHD
+27.4
+431.4
+3.2
+NORVIT, 2006 [8]
+2815
+63.1
+74%
+MI
+11.5
+528.9
+3.8
+ASFAST, 2006 [13]
+315
+56
+68%
+ESRD
+NR
+NR
+4.7
+Righetti, 2006 [25]
+88
+64.5
+56%
+ESRD
+15.7
+487.0
+15.1
+HOST, 2007 [19]
+2056
+65.8
+98%
+ESRD
+35.4
+NR
+5.9
+WENBIT, 2008 [9]
+2319
+61.7
+79%
+CHD
+12.0a
+508.1a
+3.2
+WAFACS, 2008 [20]
+5442
+62.8
+0
+CHD
+NR
+NR
+1.6
+SEARCH, 2010 [26]
+12064
+64.2
+83%
+MI
+16.8
+388.0
+3.8
+Heinz, 2010 [12]
+650
+61
+58%
+ESRD
+14.1
+466.1
+8.6
+SU.FOL.OM3, 2010 [27]
+2501
+60.6
+79%
+MI, unstable angina,
+or stroke
+15.3
+365.3
+2.9
+VITATOPS, 2010 [32]
+8164
+62.6
+64%
+Stroke or TIA
+NR
+436.3
+4.0
+FAVORIT, 2011 [14]
+4110
+52
+63%
+ESRD
+NR
+NR
+4.4
+PHS II, 2012 [21]
+14641
+64.3
+100%
+CHD
+NR
+NR
+NR
+TACT, 2013 [22]
+1708
+65
+82%
+MI
+NR
+NR
+NR
+CSPPT, 2015 [29]
+20702
+60
+41%
+Hypertension
+18.4
+379.7
+1.1
+B-PROOF, 2015 [28]
+2919
+74.1
+50%
+e
+18.8
+361.2
+3.8
+COSMOS, 2022 [23]
+21442
+72.1
+41%
+e
+NR
+NR
+NR
+Abbreviations: RCT, randomized controlled trial; ESRD, end-stage renal disease; CHD, coronary heart disease; MI, myocardial infarction; TIA, transient ischemic attack; NR, not
+reported.
+a Value was estimated from a graph.
+b Net reduction indicates the reduction in the treatment group (preintervention minus postintervention) minus the reduction in the control group (preintervention minus
+postintervention).
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1709
+
+[page 5]
+Table 2
+Summary of study design characteristics in each of the randomized controlled trials included in this meta-analysis.
+Name of RCT
+Time period of
+enrollment
+Countries
+Grain
+fortiﬁcation
+Secondary
+prevention
+Folic acid dosage in
+intervention
+group
+Folic acid
+supplementation
+alone
+Vitamin B12
+dosage
+Intervention
+duration, months
+Control group
+VISP, 2004 [10]
+1984e1985
+China
+No
+No
+0.8 mg/d
+No
+0.018 mg/d
+72
+Placebo
+Wrone, 2004 [11]
+1997e2001
+USA, Canada,
+Scotland
+Yes
+Yes
+2.5 mg/d
+No
+0.4 mg/d
+24
+Folic acid 0.02 mg/d,
+vitamin B12 0.006 mg/
+d and vitamin B6
+0.2 mg/d
+Liem, 2005 [24]
+1998e1999
+USA
+Yes
+No
+5 mg/d or 15 mg/d
+No
+0.006 mg/d
+24
+Folic acid 1 mg/d,
+vitamin B12 0.006 mg/
+d and vitamin B6
+12.5 mg/d
+HOPE2, 2006 [31]
+1998e2001
+Netherlands
+No
+No
+0.5 mg/d
+Yes
+e
+42
+Usual care
+NORVIT, 2006 [8]
+2000
+13 countries
+Partial
+No
+2.5 mg/d
+No
+1 mg/d
+60
+Placebo
+ASFAST, 2006 [13]
+1998e2002
+Norway
+No
+Yes
+0.8 mg/d
+No
+0.4 mg/d
+36
+Placebo
+Righetti, 2006 [25]
+1998e2000
+Australia,
+New Zealand
+Yes
+No
+15 mg/d
+Yes
+e
+43.2
+Placebo
+HOST, 2007 [19]
+2001e2003
+Italy
+No
+No
+5 mg/d or 5 mg/every
+other day
+Yes
+e
+29
+Placebo
+WENBIT, 2008 [9]
+2001e2003
+USA
+Yes
+No
+40 mg/d
+No
+2 mg/d
+38.4
+Placebo
+WAFACS, 2008 [20]
+1999e2004
+Norway
+No
+No
+0.8 mg/d
+No
+0.4 mg/d
+38
+Placebo
+SEARCH, 2010 [26]
+1996e1998
+USA
+Yes
+No
+2.5 mg/d
+No
+1 mg/d
+87.6
+Placebo
+Heinz, 2010 [12]
+1998e2001
+UK
+No
+Yes
+2 mg/d
+No
+1 mg/d
+80.4
+Placebo
+SU.FOL.OM3, 2010 [27]
+2002e2006
+Germany
+No
+No
+5 mg/d; three
+times a week
+No
+0.05 mg/d; three
+times a week
+25.2
+Folic acid 0.2 mg/d,
+vitamin B12 0.004 mg/
+d and vitamin B6 1 mg/
+d; three times a week
+VITATOPS, 2010 [32]
+2003e2007
+France
+No
+Yes
+0.56 mg/da
+No
+0.02 mg/d
+56.4
+Placebo
+FAVORIT, 2011 [14]
+1998e2006
+20 countries
+Partial
+Yes
+2 mg/d
+No
+0.5 mg/d
+33.6
+Placebo
+PHS II, 2012 [21]
+2002e2007
+USA, Canada,
+Brazil
+Yes
+No
+5 mg/d
+No
+1 mg/d
+48
+Vitamin B12 0.002 mg/
+d and vitamin B6
+1.4 mg/d
+TACT, 2013 [22]
+1997e2001
+USA
+Yes
+No
+0.4 mg/d
+No
+0.025 mg/d
+134.4
+Placebo
+CSPPT, 2015 [29]
+2003e2010
+USA, Canada
+Yes
+Yes
+0.8 mg/d
+No
+0.1 mg/d
+31
+Placebo
+B-PROOF, 2015 [28]
+2008e2009
+China
+No
+No
+0.8 mg/d
+Yes
+e
+54
+Usual care
+COSMOS, 2022 [23]
+2008e2011
+Netherlands
+No
+No
+0.4 mg/d
+No
+0.5 mg/d
+24
+Usual care
+VISP, 2004 [10]
+2015e2018
+USA
+Yes
+No
+0.4 mg/d
+No
+0.025 mg/d
+43.2
+Placebo
+a Used 5-methyltetrahydrofolate.
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1710
+
+[page 6]
+ﬁndings in the context of existing literature and clinical and public
+health implications.
+In 1998, the United States and Canada implemented a manda-
+tory food fortiﬁcation program that added 140 ug of folic acid to
+every 100 g of grain [34]. This initiative signiﬁcantly increased
+circulating folate levels and reduced homocysteine concentrations
+in the population within two years, with the prevalence of high
+homocysteine concentrations dropping from 18.7% to 9.8% in
+middle-aged and older US adults [35]. The dramatic impact of
+mandatory folic acid grain fortiﬁcation policies may have weakened
+the statistical power of relevant clinical trials from the US and
+Canada [36,37]. The presence or absence of grain fortiﬁcation
+serves as a determinant of folate clinical trials. This study yielded
+consistent results: folic acid supplementation signiﬁcantly reduced
+stroke risk in trials conducted in regions without grain fortiﬁcation
+or with partial grain fortiﬁcation (RR: 0.83; 95% CI: 0.75 to 0.93). In
+contrast, no beneﬁt of folic acid was observed in trials conducted in
+grain fortiﬁed
+regions (RR:
+1.04;
+95%
+CI:
+0.94
+to 1.14;
+P-
+interaction ¼ 0.003). In populations that already have folic acid
+grain fortiﬁcation, folic acid supplementation should be targeted to
+subpopulations with low folic acid intake or metabolic folate
+insufﬁciency, as indicated by low blood folate levels or elevated
+homocysteine. As a key gene in folate metabolism, the MTHFR
+677C/T polymorphism has been associated with elevated homo-
+cysteine levels and an increased risk of stroke, particularly in
+populations with low folate levels [38]. Recent evidence suggests
+that, compared to the CC genotype, the TT genotype is associated
+with a higher risk of both ischemic and hemorrhagic stroke [39].
+Focusing on those populations with low folate, high homocysteine,
+and high stroke risk might be an important direction for future
+research.
+This present study also identiﬁed pre-existent diseases, partic-
+ularly stroke and MI, as a strong modiﬁer of folic acid efﬁcacy. We
+found that in areas without fortiﬁed grain or with partially-fortiﬁed
+Fig. 1. Forest plots on individual and pooled relative risks for stroke (folic acid supplementation vs control) in the 21 clinical trials included in this meta-analysis.
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1711
+
+[page 7]
+grain, folic acid supplementation further reduced the risk of stroke
+by
+23%
+for
+those
+without
+a
+history
+of
+stroke
+or
+MI
+(P-
+interaction ¼ 0.008). Our ﬁndings underscore the importance of
+distinguishing the role of folic acid in primary vs secondary pre-
+vention of stroke. We believe that for the secondary prevention
+population, standardized medication and follow-up are of para-
+mount importance [7], while nutrients can only serve as a sup-
+plementary measure and are unlikely to play a pivotal role. The
+VITATOPS trial also showed that the efﬁcacy of folic acid for stroke
+prevention varies signiﬁcantly with the severity of the condition:
+Fig. 2. Forest plots on individual and pooled relative risks for stroke by the study population's folic acid grain-fortiﬁcation status and further stratiﬁed by history of stroke or
+myocardial infarction. aStudies were grouped and analyzed according to grain-fortiﬁed areas (A) and areas without fortiﬁed grain or with partially-fortiﬁed grain (B).
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1712
+
+[page 8]
+folic acid supplementation did not beneﬁt patients with a history of
+ischemic stroke, but signiﬁcantly reduced the risk of stroke in pa-
+tients with a history of transient ischemic attack (RR: 0.72; 95% CI:
+0.54 to 0.96) [32]. Certainly, even in secondary prevention of stroke,
+folic acid supplementation may still show a lagged beneﬁt if the
+patients have clinical indication of folate insufﬁciency (low folate
+levels or elevated homocysteine levels).
+In recent years, several studies have concluded that high-dose
+cyanocobalamin supplementation in patients with renal impair-
+ment may lead to adverse effects, explaining the lack of signiﬁcant
+beneﬁts observed in previous clinical trials [2,40]. However, these
+trials of high-dose cyanocobalamin supplementation were con-
+ducted in regions with grain fortiﬁcation. We speculate that it is the
+presence or absence of folic acid fortiﬁcation, rather than the
+dosage of cyanocobalamin, that acts as the primary driving force. To
+validate our theory, we ﬁrst stratiﬁed the studies according to
+whether they were populations from grain-fortiﬁed regions or non-
+grain-fortiﬁed region. We found that in regions without grain
+fortiﬁcation, the efﬁcacy of folic acid supplementation for stroke
+primary prevention remained noteworthy even with the addition
+of high-dose cyanocobalamin supplementation. Indeed, for in-
+dividuals with low baseline vitamin B12 levels, including vegetar-
+ians, patients with severe gastrointestinal disorders, and elderly
+diabetic patients on long-term metformin use [33], it might be
+worth considering supplementing with the appropriate form and
+dose of vitamin B12 as a preventive measure against stroke [41].
+Unfortunately, drawing similar conclusions based on the available
+evidence is not feasible since baseline B12 levels in existing clinical
+trials fall within the normal range.
+In addition to grain fortiﬁcation, cardiovascular history, and
+cyanocobalamin dose, prior meta-analyses have proposed various
+factors that might impact the effectiveness of folic acid supple-
+mentation in stroke prevention, although these results have been
+inconsistent. These additional factors include the duration of the
+intervention, whether folic acid was supplemented alone or with
+other nutrients, the dose of folic acid supplementation, the per-
+centage decrease in homocysteine, as well as baseline levels of folic
+acid and vitamin B12 [40,42,43]. However, after a comprehensive
+stratiﬁed analysis, none of these factors appeared to have signiﬁ-
+cant importance (all P-interaction > 0.05). In comparison to the
+AHA/ASA stroke prevention guidelines [4], this study reafﬁrms that
+grain fortiﬁcation and a history of stroke or myocardial infarction
+are the top two determinants inﬂuencing the efﬁcacy of folic acid
+for stroke prevention. Intervention duration and percentage of
+homocysteine reduction no longer appear to be signiﬁcant ac-
+cording to the available evidence. Stratifying by key inﬂuential
+factors and conducting subsequent explorations within each stra-
+tum have enabled us to identify the true inﬂuences on folic acid
+efﬁcacy, thereby addressing a longstanding controversy.
+The AHA/ASA guidelines for the primary prevention of stroke,
+which have not been updated for a decade, suggested that folic acid
+might be considered for the prevention of stroke, but its effec-
+tiveness has not been well established (Class of recommendation:
+IIb; level of evidence: B) [4]. The guidelines were based on evidence
+from 8 clinical trials (16,841 individuals), and an additional 13
+clinical trials (98,718 individuals) have been published since then.
+In 2022, a US Preventive Services Task Force report concluded that
+the current evidence is insufﬁcient to assess the beneﬁts and harms
+of the use of multivitamin supplements, or single or paired nutrient
+supplements for the prevention of cardiovascular disease (Grade I
+statement) [6,44]. Cardiovascular disease was treated as a single
+entity, again ignoring the large body of evidence related to folic acid
+for stroke prevention. The evidence showed that folic acid sup-
+plementation did not signiﬁcantly impact the risk of coronary heart
+disease (RR: 1.04, 95% CI: 0.99 to 1.09) [5]. Similarly, another meta-
+analysis concluded that folic acid supplementation did not reduce
+the risk of myocardial infarction (RR: 1.24, 95% CI: 0.87 to 1.75) [45].
+The clear stroke beneﬁt of folic acid should not be confused with
+the relationship between folic acid and other cardiovascular out-
+comes. This meta-analysis, treating stroke as an independent
+endpoint and excluding the effects of other cardiovascular end-
+points, comprehensively reviewed all the evidence to date. We
+believe that we now have sufﬁcient evidence to recommend folic
+acid for primary prevention of stroke.
+Table 3
+Pooled relative risks of stroke among study participants without a history of stroke or myocardial infarction and living in areas with no grain fortiﬁcation or with partial-grain-
+fortiﬁcation and further stratiﬁed by possible effect modiﬁers.
+Folic acid group (Events/total)
+Control group (Events/total)
+RR (95%CI）
+P-interaction
+Overall
+512/18428
+653/17683
+0.77 (0.68, 0.86)
+Folic acid supplementation alone
+0.624
+Yes
+294/10685
+377/10698
+0.78 (0.68, 0.91)
+No
+218/7743
+276/6985
+0.74 (0.62, 0.88)
+Baseline folate, nmol/L
+0.659
+<16.0 (median)
+43/1904
+44/1153
+0.71 (0.46, 1.08)
+16.0
+447/14867
+574/14869
+0.78 (0.69, 0.88)
+Folic acid dosage, mg/d
+0.767
+0.8
+386/15306
+481/14545
+0.77 (0.68, 0.88)
+>0.8
+126/3122
+172/3138
+0.74 (0.59, 0.93)
+Baseline vitamin B12, pg/mL
+0.664
+<431.4 (median)
+336/12109
+427/12105
+0.79 (0.68, 0.91)
+431.4
+154/4662
+191/3917
+0.74 (0.66, 0.92)
+Vitamin B12 dosage, mg/d
+0.892
+<0.4a
+327/12669
+427/12682
+0.77 (0.67, 0.89)
+0.4
+185/5759
+226/5001
+0.76 (0.63, 0.92)
+Homocysteine loweringb
+0.587
+<20%
+282/10348
+355/10354
+0.79 (0.68, 0.93)
+20%
+208/6423
+263/5668
+0.74 (0.62, 0.89)
+Duration of intervention, months
+0.796
+36
+61/1825
+85/1832
+0.74 (0.53, 1.02)
+>36
+451/16603
+568/15851
+0.77 (0.68, 0.87)
+a Includes trials with vitamin B12 supplementation at dosages less than 0.4 mg/d and trials without vitamin B12 supplementation.
+b Homocysteine lowering indicates the ratio of homocysteine net reduction to baseline homocysteine. Net reduction indicates the reduction in the treatment group
+(preintervention minus postintervention) minus the reduction in the control group (preintervention minus postintervention).
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1713
+
+[page 9]
+Fig. 3. Beneﬁciary populations of folic acid supplementation for stroke prevention based on available evidence. A. Populations for Whom Folic Acid Therapy Demonstrates Clear
+Beneﬁtsb, B. Future Research Priorities. aReduction of stroke risk after folic acid supplementation in different populations, bGreen represents populations that would evidently
+beneﬁt from folic acid supplementation.
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1714
+
+[page 10]
+5. Limitations
+This study has some limitations. First, being a meta-analysis, it
+comes with inherent limitations, including aggregation, its retro-
+spective nature, and the inability to comprehensively collect and
+adjust for individual characteristics. Second, publication bias is a
+common concern in meta-analyses. We evaluated publication bias
+using funnel plots, which did not indicate any signiﬁcant bias.
+Third, the primary endpoint in many of the relevant clinical trials
+was primarily cardiovascular disease rather than stroke. Addition-
+ally, only three trials reported both ischemic and hemorrhagic
+stroke types, thus limiting our ability to explore the effects of folic
+acid supplementation on different stroke types. Fourth, in some
+trials, mean baseline folate and vitamin B12 levels were not re-
+ported, which could potentially introduce bias when stratifying by
+folate and vitamin B12. Finally, in an effort to gain a more
+comprehensive understanding of the factors affecting the efﬁcacy
+of folic acid, our study needed to include a broader spectrum of
+trials with larger sample sizes. Four trials using multiple nutrient
+supplements (including folic acid) were also included in this meta-
+analysis. However, after removing the four trials, the sensitivity
+analysis showed consistent results.
+6. Conclusions
+This is by far the largest meta-analysis of RCTs of folic acid
+supplementation in stroke prevention to date, demonstrating the
+overall beneﬁt of folic acid for stroke prevention and even greater
+beneﬁt among the subgroup without folic acid fortiﬁcation and
+without a history of stroke or myocardial infarction.
+Author contributions
+NZ, ZZ, XC, SL, YS, FF, YZ, XQ, NS, XW, YH, and JL participated in
+the study conception and design. NZ, ZZ, and XC took part in the
+acquisition of data. NZ, ZZ, SL and JL analyzed the data. NZ, ZZ, SL,
+XQ, XW, YH, and JL interpreted the data. NZ, ZZ, XC, SL, YS, XQ, FF,
+YZ, XW, NS, YH, and JL drafted and critically reviewed the manu-
+script for important intellectual content. All authors read and
+approved the ﬁnal version of the manuscript.
+Funding
+None.
+Conﬂict of interest
+All authors have completed the ICMJE uniform disclosure form
+at www.icmje.org/disclosure-of-interest/and declare: no support
+from any organization for the submitted work; no ﬁnancial re-
+lationships with any organizations that might have an interest in
+the submitted work in the previous three years; and no other re-
+lationships or activities that could appear to have inﬂuenced the
+submitted work.
+Acknowledgments
+We are grateful for the use of data from the 21 clinical trials.
+Thanks to Emmy J Graham for her help in proofreading the article
+and correcting grammatical and typographical errors.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.clnu.2024.05.034.
+References
+[1] Collaborators GBDS. Global, regional, and national burden of stroke and its risk
+factors, 1990e2019: a systematic analysis for the Global Burden of Disease
+Study 2019. Lancet Neurol 2021;20:795e820.
+[2] Spence JD, Yi Q, Hankey GJ. B vitamins in stroke prevention: time to recon-
+sider. Lancet Neurol 2017;16:750e60.
+[3] An P, Wan S, Luo Y, Luo J, Zhang X, Zhou S, et al. Micronutrient supplemen-
+tation to reduce cardiovascular risk. J Am Coll Cardiol 2022;80:2269e85.
+[4] Meschia JF, Bushnell C, Boden-Albala B, Braun LT, Bravata DM, Chaturvedi S,
+et al. Guidelines for the primary prevention of stroke: a statement for
+healthcare professionals from the American Heart Association/American
+Stroke Association. Stroke 2014;45:3754e832.
+[5] Li Y, Huang T, Zheng Y, Muka T, Troup J, Hu FB. Folic acid supplementation and
+the risk of cardiovascular diseases: a meta-analysis of randomized controlled
+trials. J Am Heart Assoc 2016;5.
+[6] Force USPST, Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D,
+et al. Vitamin, mineral, and multivitamin supplementation to prevent car-
+diovascular disease and cancer: US preventive services task force recom-
+mendation statement. JAMA 2022;327:2326e33.
+[7] Kleindorfer DO, Towﬁghi A, Chaturvedi S, Cockroft KM, Gutierrez J, Lombardi-
+Hill D, et al. Guideline for the prevention of stroke in patients with stroke and
+transient ischemic attack: a guideline from the American heart association/
+American stroke association. Stroke 2021;52:e364e467. 2021.
+[8] Bonaa KH, Njolstad I, Ueland PM, Schirmer H, Tverdal A, Steigen T, et al.
+Homocysteine lowering and cardiovascular events after acute myocardial
+infarction. N Engl J Med 2006;354:1578e88.
+[9] Ebbing M, Bleie O, Ueland PM, Nordrehaug JE, Nilsen DW, Vollset SE, et al.
+Mortality and cardiovascular events in patients treated with homocysteine-
+lowering B vitamins after coronary angiography: a randomized controlled
+trial. JAMA 2008;300:795e804.
+[10] Toole JF, Malinow MR, Chambless LE, Spence JD, Pettigrew LC, Howard VJ,
+et al. Lowering homocysteine in patients with ischemic stroke to prevent
+recurrent stroke, myocardial infarction, and death: the Vitamin Intervention
+for Stroke Prevention (VISP) randomized controlled trial. JAMA 2004;291:
+565e75.
+[11] Wrone EM, Hornberger JM, Zehnder JL, McCann LM, Coplon NS, Fortmann SP.
+Randomized trial of folic acid for prevention of cardiovascular events in end-
+stage renal disease. J Am Soc Nephrol 2004;15:420e6.
+[12] Heinz J, Kropf S, Domrose U, Westphal S, Borucki K, Luley C, et al. B vitamins
+and the risk of total mortality and cardiovascular disease in end-stage renal
+disease: results of a randomized controlled trial. Circulation 2010;121:
+1432e8.
+[13] Zoungas S, McGrath BP, Branley P, Kerr PG, Muske C, Wolfe R, et al. Cardio-
+vascular morbidity and mortality in the Atherosclerosis and Folic Acid Sup-
+plementation
+Trial
+(ASFAST)
+in
+chronic
+renal
+failure:
+a
+multicenter,
+randomized, controlled trial. J Am Coll Cardiol 2006;47:1108e16.
+[14] Bostom AG, Carpenter MA, Kusek JW, Levey AS, Hunsicker L, Pfeffer MA, et al.
+Homocysteine-lowering and cardiovascular disease outcomes in kidney
+transplant recipients: primary results from the Folic Acid for Vascular
+Outcome Reduction in Transplantation trial. Circulation 2011;123:1763e70.
+[15] Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, et al. The
+Cochrane Collaboration's tool for assessing risk of bias in randomised trials.
+BMJ 2011;343:d5928.
+[16] Sterne JAC, Savovic J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2:
+a revised tool for assessing risk of bias in randomised trials. BMJ 2019;366:
+l4898.
+[17] Borenstein M, Hedges LV, Higgins JP, Rothstein HR. A basic introduction to
+ﬁxed-effect and random-effects models for meta-analysis. Res Synth Methods
+2010;1:97e111.
+[18] Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al.
+The PRISMA 2020 statement: an updated guideline for reporting systematic
+reviews. BMJ 2021;372:n71.
+[19] Jamison RL, Hartigan P, Kaufman JS, Goldfarb DS, Warren SR, Guarino PD, et al.
+Effect of homocysteine lowering on mortality and vascular disease in
+advanced chronic kidney disease and end-stage renal disease: a randomized
+controlled trial. JAMA 2007;298:1163e70.
+[20] Albert CM, Cook NR, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, et al.
+Effect of folic acid and B vitamins on risk of cardiovascular events and total
+mortality among women at high risk for cardiovascular disease: a randomized
+trial. JAMA 2008;299:2027e36.
+[21] Sesso HD, Christen WG, Bubes V, Smith JP, MacFadyen J, Schvartz M, et al.
+Multivitamins in the prevention of cardiovascular disease in men: the Phy-
+sicians' Health Study II randomized controlled trial. JAMA 2012;308:1751e60.
+[22] Lamas GA, Boineau R, Goertz C, Mark DB, Rosenberg Y, Stylianou M, et al. Oral
+high-dose multivitamins and minerals after myocardial infarction: a ran-
+domized trial. Ann Intern Med 2013;159:797e805.
+[23] Sesso HD, Rist PM, Aragaki AK, Rautiainen S, Johnson LG, Friedenberg G, et al.
+Multivitamins in the prevention of cancer and cardiovascular disease: the
+COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized
+clinical trial. Am J Clin Nutr 2022;115:1501e10.
+[24] Liem
+A,
+Reynierse-Buitenwerf
+GH,
+Zwinderman
+AH,
+Jukema
+JW,
+van
+Veldhuisen DJ. Secondary prevention with folic acid: results of the goes
+extension study. Heart 2005;91:1213e4.
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1715
+
+[page 11]
+[25] Righetti M, Serbelloni P, Milani S, Ferrario G. Homocysteine-lowering vitamin
+B treatment decreases cardiovascular events in hemodialysis patients. Blood
+Purif 2006;24:379e86.
+[26] Study of the Effectiveness of Additional Reductions in Cholesterol and Ho-
+mocysteine (SEARCH) Collaborative Group, Armitage JM, Bowman L, Clarke RJ,
+Wallendszus K, Bulbulia R, et al. Effects of homocysteine-lowering with folic
+acid plus vitamin B12 vs placebo on mortality and major morbidity in
+myocardial
+infarction
+survivors:
+a
+randomized
+trial.
+JAMA
+2010;303:
+2486e94.
+[27] Galan P, Kesse-Guyot E, Czernichow S, Briancon S, Blacher J, Hercberg S, et al.
+Effects of B vitamins and omega 3 fatty acids on cardiovascular diseases: a
+randomised placebo controlled trial. BMJ 2010;341:c6273.
+[28] van Dijk SC, Enneman AW, Swart KM, van Wijngaarden JP, Ham AC, Brouwer-
+Brolsma EM, et al. Effects of 2-year vitamin B12 and folic acid supplementa-
+tion in hyperhomocysteinemic elderly on arterial stiffness and cardiovascular
+outcomes within the B-PROOF trial. J Hypertens 2015;33:1897e906. discus-
+sion 906.
+[29] Huo Y, Li J, Qin X, Huang Y, Wang X, Gottesman RF, et al. Efﬁcacy of folic acid
+therapy in primary prevention of stroke among adults with hypertension in
+China: the CSPPT randomized clinical trial. JAMA 2015;313:1325e35.
+[30] Mark SD, Wang W, Fraumeni JF, Li JY, Taylor PR, Wang GQ, et al. Lowered risks
+of hypertension and cerebrovascular disease after vitamin/mineral supple-
+mentation: the Linxian Nutrition Intervention Trial. Am J Epidemiol 1996;143:
+658e64.
+[31] Lonn E, Yusuf S, Arnold MJ, Sheridan P, Pogue J, Micks M, et al. Homocysteine
+lowering with folic acid and B vitamins in vascular disease. N Engl J Med
+2006;354:1567e77.
+[32] Group VTS. B vitamins in patients with recent transient ischaemic attack or
+stroke in the VITAmins TO Prevent Stroke (VITATOPS) trial: a randomised,
+double-blind, parallel, placebo-controlled trial. Lancet Neurol 2010;9:855e65.
+[33] Hunt A, Harrington D, Robinson S. Vitamin B12 deﬁciency. BMJ 2014;349:
+g5226.
+[34] Schorah CJ. Folic acid food fortiﬁcation to prevent neural tube defects. Lancet
+1998;351:834. author reply -5.
+[35] Jacques PF, Selhub J, Bostom AG, Wilson PW, Rosenberg IH. The effect of folic
+acid fortiﬁcation on plasma folate and total homocysteine concentrations.
+N Engl J Med 1999;340:1449e54.
+[36] Bostom AG, Selhub J, Jacques PF, Rosenberg IH. Power Shortage: clinical trials
+testing the “homocysteine hypothesis” against a background of folic acid-
+fortiﬁed cereal grain ﬂour. Ann Intern Med 2001;135:133e7.
+[37] Yang Q, Botto LD, Erickson JD, Berry RJ, Sambell C, Johansen H, et al.
+Improvement in stroke mortality in Canada and the United States, 1990 to
+2002. Circulation 2006;113:1335e43.
+[38] Holmes MV, Newcombe P, Hubacek JA, Sofat R, Ricketts SL, Cooper J, et al.
+Effect modiﬁcation by population dietary folate on the association between
+MTHFR genotype, homocysteine, and stroke risk: a meta-analysis of genetic
+studies and randomised trials. Lancet 2011;378:584e94.
+[39] Bennett DA, Parish S, Millwood IY, Guo Y, Chen Y, Turnbull I, et al. MTHFR and
+risk of stroke and heart disease in a low-folate population: a prospective study
+of 156 000 Chinese adults. Int J Epidemiol 2023;52:1862e9.
+[40] Hsu CY, Chiu SW, Hong KS, Saver JL, Wu YL, Lee JD, et al. Folic acid in stroke
+prevention in countries without mandatory folic acid food fortiﬁcation: a
+meta-analysis of randomized controlled trials. J Stroke 2018;20:99e109.
+[41] Qin X, Spence JD, Li J, Zhang Y, Li Y, Sun N, et al. Interaction of serum vitamin
+B(12) and folate with MTHFR genotypes on risk of ischemic stroke. Neurology
+2020;94:e1126e36.
+[42] Zhao M, Wu G, Li Y, Wang X, Hou FF, Xu X, et al. Meta-analysis of folic acid
+efﬁcacy trials in stroke prevention: insight into effect modiﬁers. Neurology
+2017;88:1830e8.
+[43] Wang X, Qin X, Demirtas H, Li J, Mao G, Huo Y, et al. Efﬁcacy of folic acid sup-
+plementation in stroke prevention: a meta-analysis. Lancet 2007;369:1876e82.
+[44] O'Connor EA, Evans CV, Ivlev I, Rushkin MC, Thomas RG, Martin A, et al.
+Vitamin and mineral supplements for the primary prevention of cardiovas-
+cular disease and cancer: updated evidence report and systematic review for
+the US preventive services task force. JAMA 2022;327:2334e47.
+[45] Jenkins DJA, Spence JD, Giovannucci EL, Kim YI, Josse RG, Vieth R, et al. Sup-
+plemental vitamins and minerals for cardiovascular disease prevention and
+treatment: JACC focus seminar. J Am Coll Cardiol 2021;77:423e36.
+N. Zhang, Z. Zhou, X. Chi et al.
+Clinical Nutrition 43 (2024) 1706e1716
+1716

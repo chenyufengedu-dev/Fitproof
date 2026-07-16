@@ -1,0 +1,2988 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea
+(Review)
+ 
+ 
+Gregorio GV, Dans LF, Silvestre MA
+ 
+ 
+Gregorio GV, Dans LF, Silvestre MA. 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea. 
+Cochrane Database of Systematic Reviews 2011, Issue 7. Art. No.: CD007296. 
+DOI: 10.1002/14651858.CD007296.pub2.
+ 
+ 
+www.cochranelibrary.com
+ 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+ 
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+BACKGROUND..............................................................................................................................................................................................
+3
+OBJECTIVES..................................................................................................................................................................................................
+3
+METHODS.....................................................................................................................................................................................................
+3
+RESULTS........................................................................................................................................................................................................
+5
+Figure 1..................................................................................................................................................................................................
+7
+Figure 2..................................................................................................................................................................................................
+8
+DISCUSSION..................................................................................................................................................................................................
+8
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+9
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+9
+REFERENCES................................................................................................................................................................................................
+10
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+12
+DATA AND ANALYSES....................................................................................................................................................................................
+24
+Analysis 1.1. Comparison 1 Early vs late refeeding, Outcome 1 Duration of diarrhea (hours).........................................................
+25
+Analysis 1.2. Comparison 1 Early vs late refeeding, Outcome 2 Total stool output during the first 24 hours afer start of
+rehydration, ml/kg................................................................................................................................................................................
+25
+Analysis 1.3. Comparison 1 Early vs late refeeding, Outcome 3 Total stool output during first 48 hours afer start of rehydration,
+ml/kg......................................................................................................................................................................................................
+26
+Analysis 1.4. Comparison 1 Early vs late refeeding, Outcome 4 Percentage weight gain at 24 hours..............................................
+26
+Analysis 1.5. Comparison 1 Early vs late refeeding, Outcome 5 Percentage weight gain at resolution of illness............................
+26
+Analysis 1.6. Comparison 1 Early vs late refeeding, Outcome 6 Unscheduled intravenous fluid therapy.......................................
+26
+Analysis 1.7. Comparison 1 Early vs late refeeding, Outcome 7 Cases of vomiting..........................................................................
+27
+Analysis 1.8. Comparison 1 Early vs late refeeding, Outcome 8 Adverse events: Development of persistent diarrhea...................
+27
+Analysis 1.9. Comparison 1 Early vs late refeeding, Outcome 9 Adverse events: Development of hyponatremaia........................
+28
+ADDITIONAL TABLES....................................................................................................................................................................................
+28
+HISTORY........................................................................................................................................................................................................
+29
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+29
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+30
+SOURCES OF SUPPORT...............................................................................................................................................................................
+30
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+30
+INDEX TERMS...............................................................................................................................................................................................
+30
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Early versus Delayed Refeeding for Children with Acute Diarrhoea
+Germana V Gregorio1, Leonila F Dans1, Maria Asuncion Silvestre1
+1Department of Pediatrics, University of the Philippines College of Medicine, Manila, Philippines
+Contact: Germana V Gregorio, Department of Pediatrics, University of the Philippines College of Medicine, Philippine General Hospital,
+Taf Avenue, Manila, National Capital Region, 1000, Philippines. germana1@hotmail.com.
+Editorial group: Cochrane Infectious Diseases Group.
+Publication status and date: Unchanged, published in Issue 5, 2019.
+Citation:  Gregorio GV, Dans LF, Silvestre MA. Early versus Delayed Refeeding for Children with Acute Diarrhoea. Cochrane Database of
+Systematic Reviews 2011, Issue 7. Art. No.: CD007296. DOI: 10.1002/14651858.CD007296.pub2.
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Acute diarrhoea is one of the principal causes of morbidity and mortality among children in low-income countries.  The cornerstone of
+treatment is oral rehydration therapy and dietary management.  However, there is a lack of data and studies on both the timing and type
+of feeding that should be adopted during the course of the illness.
+Objectives
+To compare the eﬀicacy and safety of early and late reintroduction of feeding in children with acute diarrhoea.
+Search methods
+In May 2011, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2011, Issue 1),
+MEDLINE, EMBASE, LILACS, and mRCT. We also contacted researchers and organizations, and searched reference lists.
+Selection criteria
+Randomized controlled trials of early versus late refeeding among children less than 10 years old with acute diarrhoea.  Early refeeding
+was defined as within 12 hours of start of rehydration and late refeeding was defined as more than 12 hours afer start of rehydration.
+Data collection and analysis
+Two authors independently assessed the search results and the risk of bias, and extracted data. We present risk ratios for dichotomous
+outcomes and mean diﬀerences for continuous outcomes. We combined the results of the trials using meta-analysis when heterogeneity
+was not substantial.
+Main results
+Twelve trials involving 1283 participants wereincluded; 1226 participants were used in the analysis (724 in the early refeeding group and
+502 in the late refeeding group). Nine trials described their allocation sequence, but only two used concealed allocation. One trial reported
+single-blinding but did not clearly identify the person who was blinded. Early refeeding meant intake during or immediately afer start of
+rehydration, while late refeeding meant intake only 20 hours to 48 hours afer start of rehydration. Significant heterogeneity was noted in
+the data for the duration of diarrhoea. There was no significant diﬀerence between the two refeeding groups in the number of participants
+who needed unscheduled intravenous fluids (six trials with 813 participants), who experienced episodes of vomiting (five trials with 466
+participants), and who developed persistent diarrhoea (four trials with 522 participants). The mean length of hospital stay was also similar
+(two trials with 246 participants).
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Authors' conclusions
+There was no evidence that early refeeding increases the risk of unscheduled intravenous fluid use, episodes of vomiting, and development
+of persistent diarrhoea. No conclusion could be made regarding the duration of diarrhoea.
+23 March 2018
+No update planned
+Research area no longer active
+This research area is no longer active.
+P L A I N   L A N G U A G E   S U M M A R Y
+Reintroducing a normal diet following acute diarrhoea
+Many children in developing countries die from acute diarrhoea. Although it is usually caused by infectious viruses or bacteria, the
+exact organism is rarely known, as it is impractical to test for the organism. Treating the diarrhoea is thus standard therapy, with the
+recommended policy of using oral rehydration therapy and dietary supplements. Because the gut can be damaged by the infection, many
+doctors recommend a period of fasting followed by gradual reintroduction of food, although the evidence for when exactly a “normal”
+diet should be reintroduced is lacking. The authors here looked at children who received ‘early’ refeeding (within 12 hours of the start of
+rehydration) or ‘late’ refeeding (afer 12 hours from the start of rehydration). The authors identified 12 trials that met their inclusion criteria,
+with a total of 1283 children under 5 years; of these, 1226 were used in the analysis (724 given early refeeding; 502 given late refeeding).
+There was no significant diﬀerence between the two refeeding groups in the number of participants who needed unscheduled intravenous
+fluids (813 participants, 6 trials), who experienced episodes of vomiting (466 participants, 5 trials), and who developed persistent diarrhoea
+i.e. greater than 14 days in duration (522 participants, 4 trials). The mean length of hospital stay was also similar (246 participants, 2
+trials).There is therefore no evidence to suggest that early refeeding increases the risk of complications afer acute diarrhoea such as the
+need for IV fluids, or increases the risk of developing persistent diarrhoea. Further studies are needed to fully examine other parameters
+such as duration of diarrhoea, and eﬀect on weight gain.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Acute diarrhoea remains one of the major causes of morbidity and
+preventable deaths among children, especially in the developing
+world (WHO/UNICEF 2004). A review of 27 prospective studies
+from 20 countries published between 1990 and 2000 estimated the
+incidence of diarrhoea at 3.2 episodes per child per year for children
+under five years of age (Kosek 2003). Although there was a declining
+trend, it was still estimated that diarrhoea claimed 1.4 million to 2.5
+million lives in 2000 (Kosek 2003). Acute diarrhoea is conventionally
+defined as increased frequency of defecation (three or more times
+in 24 hours) (WHO 1995) and faeces that are suﬀiciently liquid to
+take the shape of the container in which they are placed (Keusch
+2006). Persistent diarrhoea is defined as diarrhoea lasting for 14
+days or longer (WHO 1995).
+The most common causes of acute diarrhoea in children are
+infectious agents (viruses, bacteria, and parasites) (Podewils 2004).
+Most cases of acute diarrhoea in infants and young children
+have viral causes and are usually short-lived; antibiotics are
+not routinely prescribed for viral diarrhoea. Transmission may
+occur through faecal-oral routes (transmitted from the stool of
+one individual to the mouth of another), respiratory secretions,
+or fomites (inanimate objects such as kitchen utensils) (Keusch
+2006). Aetiologic diagnosis of acute diarrhoea is more important
+epidemiologically and from a public health perspective than
+for clinical management. Standard diagnostic tests, such as
+microbiological culture and microscopy, are not cost-eﬀective or
+practical for managing individual cases (Keusch 2006). Most cases
+of acute diarrhoea are managed clinically, especially in developing
+countries where resources are limited.
+Acute diarrhoea may be accompanied by nausea, vomiting,
+abdominal cramping, clinically significant systemic symptoms or
+malnutrition. Acute watery diarrhoea is rapidly dehydrating and
+can be life-threatening unless fluid therapy is instigated , especially
+for the very young. Prevention of complications among aﬀected
+children depends on an accurate assessment of the hydration
+status and timely instigation of appropriate oral rehydration
+therapy (ORT), and dietary and zinc supplements (WHO 1995; WHO/
+UNICEF 2004).
+Children used to be starved during and afer the diarrhoeic episode
+for fear of exacerbating the symptoms and worsening the course of
+the illness (WHO 1999). Although oral hydration therapy has been
+studied and recommended for the past 30 years, there is a lack
+of data and studies on the timing and type of feeding that should
+be adopted during the course of diarrhoea. Early refeeding has
+been recommended as part of the management of acute diarrhoea
+(Walker-Smith 1997). Non-clinical studies have shown that early
+refeeding may induce digestive enzymes, improve absorption of
+nutrients, enhance enterocyte regeneration, and promote recovery
+of the brush border disaccharidase (Hageman 1977; Hirshhorn
+1980; Isolauri 1989; Williamson 1978).
+Early studies showed that early refeeding has a significant
+nutritional advantage, especially among malnourished children
+(Brown 1988). Some cohort and non-blinded studies have shown
+that early refeeding has the potential to reduce stool frequency
+and volume, and hasten recovery (Chung 1948; Nanulescu
+1995; Sarker 1983). Controlled non-randomized studies assessing
+the reintroduction of milk formula at diﬀerent times and
+concentrations showed no significant diﬀerence in the duration of
+hospitalization (Rees 1979) or the duration of diarrhoea between
+the diﬀerent feeding regimens (Santosham 1991; Soeprapto 1979),
+although vomiting was more frequent among those who had higher
+concentrations of milk formula (Rees 1979).
+A meta-analysis of 29 randomized clinical trials compared the
+eﬀects of continuous feeding with lactose-containing versus
+lactose-free diets to young children suﬀering from acute diarrhoea
+(Brown 1994). There was a significantly higher treatment failure
+rate among those receiving lactose-containing diets: this was
+noted among patients with initial severe dehydration and in
+studies conducted before 1985. The authors thus concluded that
+routine dilution of milk and use of lactose-free milk formulas are
+unnecessary for mildly dehydrated cases, especially when ORT and
+early feeding (in addition to milk) are already part of the routine
+management. In a controlled clinical trial, a formula containing
+soy fiber improved the consistency of stools during diarrhoea, with
+no eﬀect on stool volume (Brown 1993). Adding soy to formula
+also decreased the duration of antibiotic-associated diarrhoea
+among older children (Burks 2001). Continued breastfeeding
+during diarrhoea was also found to cause a significant decrease
+in the volume and number of stools (Khin-Maung-U 1985). But
+despite these studies and the quoted clinical recommendations,
+nutritional management during diarrhoea still varies among health
+practitioners (Bezerra 1992; Chongban 2005; Santosham 1997).
+Since there is still uncertainty and incomplete information on the
+use of early refeeding in the management of acute diarrhoea in
+children, this review clarifies and reviewes the clinical evidence
+to support early refeeding. We define early refeeding as within
+12 hours from start of rehydration and define late refeeding as
+more than12 hours afer start of rehydration. The division between
+early and late refeeding was arbitrary but was guided by the
+authors' knowledge of the subject. This review only covers children,
+as the aetiologic distribution, clinical course and approach to
+management is diﬀerent for adults. The main outcomeswere
+clinically-relevant endpoints such as duration of diarrhoea, total
+stool output, percentage weight gain at resolution of illness,
+unscheduled use of intravenous fluids, and episodes of vomiting.
+These outcomes addressed the common concerns and doubts
+harbored by most health practitioners, mothers and caregivers with
+regard to early refeedings.
+O B J E C T I V E S
+To compare the eﬀicacy and safety of early and late reintroduction
+of feeding in children with acute diarrhoea.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomized controlled trials.
+Types of participants
+Children less than 10 years old with acute diarrhoea, including
+both breastfed and non-breastfed. Acute diarrhoea was defined
+as increased frequency of defecation (three or more times in 24
+hours) and faeces that are suﬀiciently liquid to take the shape of
+the container in which they are placed, with a duration of 14 days
+or less at the time of presentation.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Types of interventions
+Intervention: Early refeeding group
+Feeding was reintroduced within 12 hours from start of rehydration;
+continuous breastfeeding during rehydration was included in this
+group.
+Control: Late refeeding group
+Feeding was reintroduced more than 12 hours afer start of
+rehydration.
+Types of outcome measures
+Primary
+•
+Duration of diarrhoea (hours) from admission until cessation of
+diarrhoea.
+Secondary
+•
+Total stool output (ml/kg) during the first 24 hours and 48 hours
+afer start of rehydration.
+•
+Percentage weight gain 24 hours afer start of rehydration and at
+resolution of diarrhoea.
+•
+Unscheduled intravenous (IV) fluid therapy.
+•
+Cases of vomiting.
+Adverse events
+•
+All adverse events, including hyponatraemia (low sodium;
+serum sodium level ≤130 mmol/L), hypokalaemia (low
+potassium; serum potassium level ≤3 mol/L) (), and
+development of persistent diarrhoea.
+Search methods for identification of studies
+All relevant trials regardless of language or publication status
+(published, unpublished, in press, and ongoing).
+Databases
+We searched the following databases using the search terms
+and strategy described in Table 1: Cochrane Infectious Diseases
+Group Specialized Register (May 2011); Cochrane Central Register
+of Controlled Trials (CENTRAL), published in The Cochrane Library
+(2011, Issue 1); MEDLINE (1966 to May 2011; EMBASE (1974 to
+May 2011; and LILACS (1982 to May 2011). We also searched
+themetaRegister of Controlled Trials (mRCT) using 'diarrhoea',
+'refeeding', 'breastfeeding' and 'feeding' as search terms.
+Researchers and organizations
+To 
+help 
+identify 
+unpublished 
+and 
+ongoing 
+trials, 
+we
+searched 
+(May 
+2007 
+to 
+Dec 
+2009) 
+the 
+web 
+sites 
+of
+the 
+following 
+organizations: 
+World 
+Health 
+Organization
+(www.who.int); Child Health and Nutrition Research Initiative
+(CHNRI) (www.chnri.org); International Clinical Epidemiology
+Network (INCLEN) (www.inclen.org); USAID (www.usaid.gov);
+Asian 
+Development 
+Bank 
+(www.adb.org); 
+World 
+Bank
+(www.worldbank.org); and the International Centre for Diarrhoeal
+Disease Research, Bangladesh (ICDDR,B) (www.icddrb.org). We
+also questioned individual researchers working in the field of
+general paediatrics and gastroenterology, and the members of
+local and international societies for paediatric gastroenterology,
+hepatology and nutrition (such as the Philippine Society of
+Pediatric Gastroenterology and Nutrition and the Asia Pacific
+Society of Pediatric Gastroenterology, Hepatology and Nutrition),
+about whether they had conducted trials relating to feeding in
+acute diarrhoea.
+We checked the reference lists of all studies identified by the above
+methods.
+Data collection and analysis
+Trial selection
+The first two authors ( GV Gregorio and LF Dans) independently
+assessed the results of the literature search to determine the
+eligibility of the trials. We then retrieved the full reports of all trials
+considered by one or both authors to be potentially relevant, as
+well as trials with unclear treatment allocation. We used a standard
+eligibility form based on the inclusion criteria to independently
+assess the trials. We resolved disagreements through discussions
+or by consulting the third author (MAA Silvestre). If eligibility was
+unclear due to inadequate data, or if a multiple publication of
+the same trial was observed, we attempted to contact the trial
+authors for clarification. We appraised each of the trials to ensure
+that multiple publication was not an issue. We listed the excluded
+studies and the reasons for the exclusion.
+Assessment of risk of bias
+The 
+first 
+two 
+authors 
+( 
+GV 
+Gregorio 
+and 
+LF 
+Dans)
+independently assessed the risk of bias of each trial using
+six components: sequence generation; allocation concealment;
+blinding; incomplete outcome data; selective outcome reporting;
+and other biases. Using the methods described in the Cochrane
+Handbook for Systematic Reviews of Interventions, a judgment of
+yes, no or unclear to indicate a low, high, or unclear/unknown risk of
+bias, respectively, was used to describe each component. Although
+trial participants or care providers might be impossible to blind,
+we noted if other study personnel were blinded. The percentage of
+missing outcome data was reported in the risk of bias tables.
+We classified the trials as having a high or low risk of bias and
+included studies with a low risk of bias in a sensitivity analysis. A
+high risk was defined as trials with unclear sequence generation
+or allocation concealment, and trials where less than 90% of
+randomized participants completed the trial. Disagreements over
+the risk of bias assessment were resolved by a third author. A ‘risk
+of bias summary’ and ‘risk of bias graph; in addition to the risk of
+bias tables, were completed. .
+Data extraction and management
+The first two authors ( GV Gregorio and LF Dans) independently
+extracted data from the trials using pre-tested data extraction
+forms. We extracted the number of participants who were
+randomized and the number who were analyzed for all outcomes
+for each treatment arm in each trial to determine loss to follow-up,
+whether loss was comparable across treatments, and the type of
+analysis used. For continuous outcomes, we extracted arithmetic
+means and standard deviations for each treatment group and
+noted the number of participants in each group. In trials with
+multiple interventions (where two or more types of feeding were
+used as treatment groups), we pooled the means and standard
+deviations of the diﬀerent feeding groups across the treatment
+arms. We used as our unit of analysis the mean duration of
+diarrhoea in hours and the total stool output as ml/kg.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+For data that reported the outcome as a median, we extracted the
+ranges and presented the data in a separate table.
+For dichotomous outcomes, we recorded the number of
+participants experiencing the event and the number of participants
+in each treatment group. For trials with multiple treatment arms,
+we combined the numbers experiencing the outcome in two or
+more experimental interventions and also combined the total
+number of participants in the combined treatment arms, whenever
+appropriate. We then compared collectively with the identified
+control group.
+We resolved any disagreements over data extraction by referring
+to the trial report and through discussion, or, if that failed, by
+consulting with another author. Where data were insuﬀicient or
+missing, we attempted to contact the trial authors. LF Dans entered
+the data into Review Manager 5.
+Data analysis
+The first two authors (GV Gregorio and LF Dans) analyzed the data
+using Review Manager 5 and all results were presented with a 95%
+confidence interval (CI). We combined trials that compared early
+versus late feeding using meta-analysis. We analyzed data using
+an available case approach (i.e. all patients for whom an outcome
+was measured and reported are included in the analysis). We aimed
+to include all the originally randomized patients in the analysis,
+including protocol-violators
+We compared dichotomous data using risk ratio. The mean
+diﬀerence was used to combine continuous data summarized by
+arithmetic means and standard deviation.
+We checked for features of a normal distribution by calculating the
+ratio of the mean and standard deviation. If the ratio (mean/SD)
+was less than two, then it was likely that the data were skewed. We
+considered the skewed data in the primary analysis but excluded it
+in the sensitivity analysis.
+For continuous outcomes reported in medians and ranges, the
+results were reported in a table. Similarly, when the outcome was
+reported using a diﬀerent unit (e.g. ml/kg/patient or ml/patient
+rather than  ml/kg/day), the results were tabulated.
+Some of the data reported by the trials could not be used in
+the meta-analysis. One trial reported the duration of diarrhoea
+as a median instead of a mean (Hoghton 1996; Table 2); another
+compared the data of those who did not (considered a success) and
+did (considered a failure) require IV fluids (Shaikh 1991; Table 3).
+Subgroup analysis and investigation of heterogeneity
+We evaluated the presence of statistical heterogeneity among the
+interventions by inspecting the forest plot and by performing a Chi2
+test for heterogeneity using a P value of 0.10 to determine statistical
+significance. Also, we used a I2 value of >50% as an indication
+of moderate heterogeneity. If there was statistically-significant
+heterogeneity, we used the random-eﬀects model (DerSimonian
+and Laird method) to combine data, otherwise we applied a fixed-
+eﬀect model.
+We used subgroup analysis to investigate the eﬀect of age ,
+nutritional status (normal and mild malnutrition versus moderate
+and severe malnutrition), breastfeeding (breastfed and non-
+breastfed infants) and type of food reintroduced (diluted versus
+full-strength milk formula, lactose-free versus lactose-containing).
+When there was substantial statistical heterogeneity, we did not
+combine the trials in the meta-analysis.
+Sensitivity analysis  
+We planned to conduct a sensitivity analyses to assess the
+robustness of the meta-analysis by excluding trials with high risk of
+bias. The number of studies judged as having a high/low/unclear
+risk of bias were reported. Trials with skewed data were excluded
+from the analysis.
+Assessment of reporting bias
+A funnel plot was constructed to look for evidence of reporting bias
+R E S U L T S
+Description of studies
+See: Characteristics of included studies; Characteristics of excluded
+studies; Characteristics of studies awaiting classification.
+Results of the search
+We assessed the abstracts of 98 references uncovered in the
+primary search up until 27 May 2011 and retrieved the full papers
+for 22 potentially relevant trials. A total of 12 trials met the inclusion
+criteria (see Characteristics of included studies). Ten trials were
+excluded: five studies did not satisfy the definition of early or late
+refeeding used in this review (Armistead 1989; Chew 1993; Fox 1990;
+Haﬀejee 1990; Soeprapto 1979); three trials were unclear about
+when the refeeding started (Haque 1983; Hjelt 1989; Ransome
+1984); and two were not randomized controlled trials (Parker 1981;
+Nanulescu 1995).
+No additional or unpublished trials were identified from searching
+organization web sites or from questioning individual researchers.
+Included studies
+The 12 included trials enrolled a total of 1283 participants (757
+for early refeeding and 526 for late refeeding), all of whom were
+children. However, only 1226 were used in the final analysis (724
+for early refeeding and 502 for late refeeding) as some of the
+randomized patients were withdrawn or were considered as drop-
+outs. All available data up to the time of withdrawal were included.
+All trial reports were in English. All trials were published between
+1979 and 1997, and there were no multiple publications.
+Location
+The 12 trials were conducted in 16 diﬀerent countries (see details
+in Characteristics of included studies). There was one multicenter
+study involving 11 European countries (Sandhu 1997), including
+hospitals in the United Kingdom, Italy, Finland, the Netherlands,
+Croatia, Slovenia, Czechoslovakia, Belgium, Portugal, Poland, and
+Israel. Two trials each were conducted in the United Kingdom
+(Conway 1989; Rees 1979); the United States (Santosham 1985;
+Santosham 1991); Burma (Khin-Maung-U 1985, Khin-Maung-U
+1986); and Israel (Gazala 1988; Rees 1979); and one trial each in
+Egypt (Santosham 1990), Pakistan (Shaikh 1991), and Peru (Brown
+1988).
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Ten trials were conducted in a hospital setting, while two studies
+(Gazala 1988; Santosham 1991) enrolled patients from an out-
+patient clinic.
+Source of Funding
+Three trials were funded by milk companies (Santosham 1985;
+Santosham 1990; Santosham 1991); two trials were partially
+supported by the Department of Medical Research in Burma (Khin-
+Maung-U 1985; Khin-Maung-U 1986); two trials were supported
+by a grant from the US Agency for International Development
+(Brown 1988; Shaikh 1991), but one had additional support from
+the Diarrheal Disease Control Programme of the World Health
+Organization and the Nestle Milk Company (Brown 1988). Five trials
+did not state the source of funding (Conway 1989; Gazala 1988;
+Hoghton 1996; Rees 1979; Sandhu 1997), including the multicenter
+study (Sandhu 1997), which was conducted on behalf of the
+European Society of Paediatric Gastroenterology and Nutrition.
+Participants
+Diagnosis of diarrhoea
+All trials included children with acute diarrhoea of 14 days or less in
+duration. Six trials included children with diarrhoea of between five
+and seven days duration (Gazala 1988; Rees 1979; Hoghton 1996;
+Santosham 1985; Santosham 1990; Santosham 1991). Another four
+trials included children with diarrhoea of less than 72 hours in
+duration (Brown 1988; Khin-Maung-U 1985; Shaikh 1991).
+Age
+All trials included children less than five years old. In six trials, the
+children were less than two years old (Gazala 1988; Khin-Maung-U
+1985; Sandhu 1997; Santosham 1985; Santosham 1990; Santosham
+1991); in two trials, they were between three months and three
+years old(Brown 1988; Hoghton 1996); in three trials, they were
+between 1.5 months and four years old(Conway 1989; Rees 1979;
+Shaikh 1991); and in one trial they were between one and five years
+old (Khin-Maung-U 1986). Only two trials considered the nutritional
+status of the participants (Brown 1988; Shaikh 1991).
+Type and timing of feeding
+For those in the early refeeding group, the feeding consisted
+of either half- or full-strength cow's milk formula (four trials)
+(Brown 1988; Rees 1979; Santosham 1985; Santosham 1991);
+boiled rice or the child's usual diet (three trials) (Hoghton 1996;
+Khin-Maung-U 1986; Sandhu 1997); soy-based milk formula (two
+trials) (Santosham 1985; Santosham 1991); or breast milk or cow's
+milk formula (one trial) (Gazala 1988). One trial randomized the
+patients into either a soy- or rice-based formula or pre-cooked rice
+(Santosham 1990). Another trial allocated patients to receive either
+oral rehydration solution and breastfeeding during the rehydration
+phase or oral rehydration alone for 24 hours (Khin-Maung-U 1986).
+For those in the late refeeding group, feeding afer start of
+rehydration was allowed either afer 24 hours (seven trials)
+(Conway 1989; Gazala 1988; Khin-Maung-U 1985; Khin-Maung-U
+1986; Santosham 1990; Santosham 1991; Shaikh 1991); 48 hours
+(two trials) (Brown 1988; Santosham 1985); 20 hours (one trial)
+(Sandhu 1997); or between 24 and 48 hours (one trial) (Hoghton
+1996). One trial allowed feeding only afer the diarrhoea had
+stopped (Rees 1979).
+Duration of follow-up
+The patients were monitored either until resolution of diarrhoea
+(six trials) (Conway 1989; Hoghton 1996; Khin-Maung-U 1985, Khin-
+Maung-U 1986; Santosham 1990; Shaikh 1991); two weeks afer
+hospital discharge (five trials) (Brown 1988; Gazala 1988; Sandhu
+1997; Santosham 1985; Santosham 1991); or once full strength milk
+formula could be tolerated (one trial) (Rees 1979).
+Outcomes reported
+Most of the trials reported the overall mean duration of diarrhoea
+from admission to resolution (seven trials) (Conway 1989; Hoghton
+1996; Khin-Maung-U 1985; Khin-Maung-U 1986; Santosham 1990;
+Shaikh 1991) and the number who required unscheduled use of IV
+fluids (six trials) (Conway 1989; Hoghton 1996; Santosham 1985;
+Santosham 1990; Santosham 1991; Shaikh 1991). A few trials also
+reported the total stool output in the first 24 hours (three trials)
+(Brown 1988; Santosham 1985; Santosham 1991); oral intake in
+the form of ORS, formula or rice between 24 and 48 hours (six
+trials) (Khin-Maung-U 1985; Khin-Maung-U 1986; Santosham 1985;
+Santosham 1990; Santosham 1991; Shaikh 1991); mean percentage
+weight gain at the 24th hour afer start of rehydration (three
+trials) (Santosham 1985; Santosham 1991; Shaikh 1991) and at the
+resolution of diarrhoea (three trials) (Santosham 1985; Santosham
+1990; Santosham 1991); the number of participants with vomiting
+(four trials) (Conway 1989; Hoghton 1996; Rees 1979; Santosham
+1985; ); the development of persistent diarrhoea (four trials)
+(Conway 1989; Santosham 1985; Santosham 1990; Santosham
+1991); and the length of hospital stay (two trials) (Conway 1989;
+Rees 1979; ). Three trials monitored patients for development of
+hyponatraemia or hypokalaemia.
+Some of the data reported by the trials could not be used in the
+meta-analysis. For the duration of diarrhoea, one trial reported it
+as a median instead of a mean (Hoghton 1996; Table 2). For the
+mean total stool output in the first 24 hours, two trials reported it
+as either ml/kg/patient (Khin-Maung-U 1985) or ml/patient (Khin-
+Maung-U 1986) rather than ml/kg. Another compared data for the
+mean stool output of those who did (considered a failure) and did
+not (considered a success) require IV fluids (Table 3; Shaikh 1991).
+Risk of bias in included studies
+No trial reported appropriate procedures for all the components
+used to assess risk of bias (allocation concealment, generation
+of the allocation sequence, blinding of either the care providers,
+participants or outcome assessors, inclusion of all randomized
+participants, selective outcome reporting and other biases). No
+trial was identified as having selective outcome reporting or other
+biases.
+Allocation
+Nine trials had adequate allocation sequence, with either the use
+of random-number tables (eight trials) or coin toss (one trial)
+(Gazala 1988). Three trials were randomized but did not describe
+the allocation method (Conway 1989; Hoghton 1996; Rees 1979).
+Of the 12 included trials, ten had unclear allocation concealment.
+One trial used sealed envelopes (Brown 1988), while another
+assigned groups to treatment allocations by flipping a coin (Gazala
+1988).
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding
+Only one trial reported single-blinding, but it is unclear who was
+blinded (Hoghton 1996). The participants of all other trials were not
+blinded and it is unclear if the caregivers or outcome assessors were
+blinded.
+Incomplete outcome data
+The number of participants followed up was complete for five trials
+(Conway 1989; Khin-Maung-U 1985; Khin-Maung-U 1986; Rees 1979;
+Shaikh 1991); adequate (90% to 99%)for at least one outcome in five
+trials (Brown 1988; Hoghton 1996; Sandhu 1997; Santosham 1985;
+Santosham 1991); and 89% for two trials (Gazala 1988; Santosham
+1990).
+Eﬀects of interventions
+Duration of diarrhoea (hours) from admission until cessation of
+diarrhoea
+A shorter duration of diarrhoea was observed with early refeeding
+in two trials (Santosham 1985; Santosham 1991) and with late
+refeeding in one trial (Khin-Maung-U 1986), while for four trials the
+outcome was similar in both groups (Conway 1989; Gazala 1988;
+Khin-Maung-U 1985; Santosham 1990). Overall, the late refeeding
+group showed longer duration compared with the early refeeding
+group, although the mean diﬀerence was not significant (MD -6.90
+hrs, 95% CI -18.70 to 4.91; 685 participants, seven trials, Analysis
+1.1). Considerable heterogeneity among the limited number of
+trials was observed (Chi2 test, P=0.11, I2 = 82%). There were only
+two trials where the data were not skewed (Santosham 1990;
+Santosham 1991), but similar results were seen (Chi2 test, P = 0.04; I2
+= 77%). Subgroup analysis could not be done because of the limited
+number of trials.
+Total stool output (ml/kg) during the first 24 and 48 hours afer
+start of rehydration
+Three trials each reported the total stool output in the first 24 hours
+(Brown 1988; Santosham 1985; Santosham 1990) and 48 hours
+(Khin-Maung-U 1985; Santosham 1985; Santosham 1990) afer start
+of rehydration. One trial favoured early refeeding (Santosham
+1985) and another favoured late refeeding at both periods of
+observation (Santosham 1990). Less stool output was also shown
+on the 24th hour and the 48th hour with early and late refeeding,
+respectively (Khin-Maung-U 1985). All but one study (Khin-Maung-
+U 1985) showed skewed results.
+We used an I2 value of >50% as an indication of moderate
+heterogeneity. Overall, the comparison of the mean total stool in
+the first 24 hours and 48 hours (Analysis 1.2 and Analysis 1.3) afer
+start of rehydration showed significant heterogeneity: I2 of 85% and
+87%, respectively.
+Percentage weight gain at the 24th hour afer start of
+rehydration and at resolution of diarrhoea
+No diﬀerence was observed in the mean percentage weight gain
+at the 24th hour afer start of rehydration (Analysis 1.4) and at
+resolution of illness (Analysis 1.5) . Skewed data were observed for
+the results of the mean percentage weight gain at the 24th hour
+(Santosham 1985; Santosham 1991; Shaikh 1991) and at cessation
+of diarrhoea (Santosham 1985; Santosham 1990; Santosham 1991;
+Shaikh 1991).
+Unscheduled intravenous fluid therapy
+There was no significant diﬀerence in both groups in the number of
+participants who needed IV fluids (RR 0.87, 95% CI 0.48 to -1.59; 813
+participants, six trials, Analysis 1.6, Figure 1).
+ 
+Figure 1.   Figure 1. Forest plot of early versus late refeeding in the outcome of unscheduled use of intravenous fluids
+ 
+Cases of vomiting
+There was no significant diﬀerence between the two groups in the
+number of patients with episodes of vomiting (RR 1.16, 95% CI 0.72
+to 1.86; 456 participants, five trials, Analysis 1.7).
+Adverse events: development of persistent diarrhoea
+There was no significant diﬀerence in the number of patients who
+developed persistent diarrhoea (RR 0.57, 95% CI 0.18 to 1.85; 522
+participants, four trials, Analysis 1.8).
+Adverse events: development of hyponatraemia
+Three trials monitored sodium and potassium concentrations on
+admission and at diﬀerent intervals during the illness (Brown
+1988; Santosham 1985; Santosham 1990). No patient was reported
+to have developed hypokalaemia. Hyponatraemia (Analysis 1.9)
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+was reported in four patients: two in the early refeeding group
+(Santosham 1985) and one in the late refeeding group (Santosham
+1990), while another trial (Brown 1988) reported one patient who
+developed hyponatraemia but did not specify to which group they
+belonged.
+Publication bias
+We observed significant heterogeneity in the primary outcomes
+among the limited trials and therefore we decided to use a funnel
+plot for the secondary outcome, where the data were homogenous.
+We constructed a funnel plot of six trials to compare early and late
+refeeding and measure the outcome of unscheduled use of IV fluid
+(Figure 2). The funnel plot is symmetrical but the number of studies
+is limited and so we cannot conclude whether the results are free
+from publication biases for unscheduled IV fluids.
+ 
+Figure 2.   Figure 2. Funnel plot of early vs late refeeding on the number of unscheduled use of intravenous fluids
+ 
+D I S C U S S I O N
+The present meta-analysis did not provide evidence that early
+refeeding increases unscheduled use of IV fluids, episodes of
+vomiting, and development of persistent diarrhoea. The results
+support existing practice of early refeeding during or afer start of
+rehydration of patients.
+Up to the present time, some physicians still recommend variable
+periods of fasting during acute diarrhoea to allow 'bowel rest'
+followed by gradual reintroduction of food. The proponents of this
+practice contend that early refeeding may increase the stool output
+and lead to more complications, such as unscheduled use of IV
+fluids, episodes of vomiting, and persistent diarrhoea.
+Our results suggest that the number of patients who develop
+these complications are similar whether early or late refeeding
+is practiced. However, early refeeding is advocated in order to
+counteract the transient malabsorption of nutrients that can occur
+during an episode of acute diarrhoea. This may have a negative
+influence on growth and contribute to malnutrition, which may, in
+turn, predispose to persistent diarrhoea. It is for this reason that
+relevant outcomes in a study of this nature should include the
+duration of diarrhoeal disease, total stool output, and percentage
+weight gain at resolution of illness. However, these important
+outcomes could not be assessed in the present study because of
+skewed data or heterogeneity among the limited number of trials
+that reported this information. Heterogeneity in the treatment
+eﬀect may have been influenced by the way the outcomes were
+measured (methodological diversity). It was unclear in most of the
+trials whether the duration of diarrhoea was measured from the
+initial onset of the disease, before admission to the study, or only
+from admission up to the time of discharge. Ideally, measurement
+of stool output should be made by taking the diﬀerence in the
+weight of the diaper before and afer use. In some studies where
+both males and females were included, the urine output may have
+been inadvertently mixed with the stool, giving an erroneously high
+stool output. The diﬀerence in the type of milk (cow- or soy-based
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+milk) or food that was used to re-feed the patient might also have
+contributed to the heterogeneity of the diﬀerent trials.
+Since most of the studies were conducted more than 20 years ago,
+reporting of the methodology of the trials was incomplete. In the
+majority of the studies, it's unclear how the random allocation of
+patients to groups was concealed. It was also unclear if blinding was
+observed, although this was diﬀicult to implement because of the
+nature of the interventions. Overall, therefore, the quality of these
+studies was relatively diﬀicult to assess because of incomplete
+reporting.
+Whilst previous clinical practice guidelines imply that early
+refeeding is acceptable (Bezerra 1992; Chongban 2005; MMWR 2003;
+Murphy 1998; WHO/UNICEF 2004), this is the first systematic review
+conducted on this topic to synthesize the available evidence.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+The results of this systematic review summarize the available
+evidence on the timing of feeding during cases of acute diarrhoea in
+children. It reveals that there is little additional risk of unscheduled
+use of IV fluids, persistent diarrhoea, vomiting or longer hospital
+stays for children who were re-fed early.
+Implications for research
+Further studies are needed into whether the timing of refeeding has
+any eﬀect on the duration of diarrhoea, the total stool output, and
+weight gain in childhood acute diarrhoea.
+A C K N O W L E D G E M E N T S
+This document is an output of a project funded by the UK
+Department for International Development (DFID) for the benefit
+of developing countries. The views expressed are not necessarily
+those of DFID.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Brown 1988 {published data only}
+Brown KH, Gastanaduy AS, Saavedra JM, Lembcke J, Rivas D,
+Robertson AD, et al. Eﬀect of continued oral feeding on clinical
+and nutritional outcomes of acute diarrhoea in children. The
+Journal of Pediatrics 1988;112:191-200.
+Conway 1989 {published data only}
+Conway SP, Ireson A. Acute gastroenteritis in well nourished
+infants: comparison of four feeding regimens. Archives of
+Diseases of Childhood 1989;64:87-91.
+Gazala 1988 {published data only}
+Gazala E, Weitzman S, Weitzman Z, Gross J, Bearman J,
+Gorodischer R. Early vs late refeeding in acute infantile diarrhea.
+Israel Journal of Medical Science 1988;24:174-9.
+Hoghton 1996 {published data only}
+Hoghton MAR, Mittal NK, Sandhu BK, Mahdi G. Eﬀects of
+immediate modified feeding on infantile gastroenteritis. British
+Journal of General Practice 1996;46:173-5.
+Khin-Maung-U 1985 {published data only}
+Khin MU, Nyunt-Nyunt-Wai, Myo-Khin, Mu-Mu-Khin, Tin U,
+Thane-Toe. Eﬀect on clinical outcome of breast feeding during
+acute diarrhoea. British Medical Journal 1985;290:587-88.
+Khin-Maung-U 1986 {published data only}
+Khin-maung-u, Nyunt-nyunt-wai, Myo-khin, Mo-mo-khin,
+Tin-u, Thane-toe. Eﬀect of boiled-rice feeding in childhood
+cholera on clinical outcome. Human Nutrition: Clinical Nutrition
+1986;40C:249-54.
+Rees 1979 {published data only}
+Rees L, Brook CGD. Gradual reintroduction of full-strength milk
+afer acute gastroenteritis in children. Lancet 1979;1:770-1.
+Sandhu 1997 {published data only}
+Sandhu BK, Isolauri E, Walker-Smith JA, Banchini G, VanCaillie-
+Bertrand M, Dias J, et al. A multicentre study on behalf of the
+European Society of Paediatric Gastroenterology and Nutrition
+Working Group on acute diarrhoea: early feeding in childhood
+gastroenteritis. Journal of Pediatric Gastroenterology and
+Nutrition 1997;24:522-7.
+Santosham 1985 {published data only}
+Santosham M, Foster S, Reid R, Bertrando R, Yolken R, Burns B,
+et al. Role of soy-based, lactose-free formula during treatment
+of acute diarrhea. Pediatrics 1985;76:292-8.
+Santosham 1990 {published data only}
+Santosham M, Fayad IM, Hashem M, Goepp JG, Refat M,
+Sack RB. A comparison of rice-based oral rehydration solution
+and "early feeding" for the treatment of acute diarrhea in
+infants. Pediatrics 1990;116:868-75.
+Santosham 1991 {published data only}
+Santosham M, Greenough WB III. Oral rehydration therapy: a
+global perspective. Journal of Pediatrics 1991;llS(4):S44-S51.
+Shaikh 1991 {published data only}
+Shaikh S, Molla AM, Islam A, Billoo AG, Hendricks K, Stryder J.
+A traditional diet as part of oral rehydration therapy in severe
+acute diarrhoea in young children. Journal of Diarrhoeal Disease
+Research 1991;3:258-63.
+ 
+References to studies excluded from this review
+Armistead 1989 {published data only}
+Armistead J, Kelly D, Walker-Smith J. Evaluation of infant
+feeding in acute gastroenteritis. Journal of Pediatric
+Gastroenterology and Nutrition 1989;8:240-4.
+Chew 1993 {published data only}
+Chew F, Penna FJ, Peret Filho LA, Quan C, Lopes MC, Mota JAC,
+et al. Is dilution of cows’ milk formula necessary for dietary
+management of acute diarrhoea in infants age less than 6
+months?. Lancet 1993;341:194-7.
+Fox 1990 {published data only}
+Fox R, Leen CLS, Dunbar EM, Ellis ME, Mandal BK. Acute
+gastroenteritis in infants under 6 months old. Archives of Disease
+in Childhood 1990;65:936-8.
+Haﬀejee 1990 {published data only}
+Haﬀejee IE. Cow's milk-based formula, human milk, and soya
+feeds in acute infantila diarrhea: a therapeutic trial. Journal of
+Pediatric Gastroenterology and Nutrition 1990;10:193-8.
+Haque 1983 {published data only}
+Haque KN, Al-Frayh A, El-Rifai R. Is it necessary to regraduate
+milk afer acute gastroenteritis in children?. Tropical and
+Geographical Medicine 1983;35:369-73.
+Hjelt 1989 {published data only}
+Hjelt K, Paerregaard A, Petersen W, Christiansen L,
+Krasilnikoﬀ PA. Rapid versus gradual refeeding in acute
+gastroenteritis in childhood: energy intake and weight
+gain. Journal of Pediatric Gastroenterology and Nutrition
+1989;8:75-80.
+Nanulescu 1995 {published data only}
+Nanulescu M, Condor M, Popa M, Muregan M, Panfa P, Ionac S,
+et al. Early re-feeding in the management of acute diarrhoea in
+infants of 0-1 year of age. Acta Paediatrica 1995;84:1002-6.
+Parker 1981 {published data only}
+Parker P, Stroop S, Greene H. A controlled comparison of
+continuous versus intermittent feeding in the treatment
+of infants with intestinal disease. Journal of Pediatrics
+1991;99:360-4.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Ransome 1984 {published data only}
+Ransome OJ, Roode H. Early introduction of milk feeds in
+acute infantile gastro-enteritis. South African Medical Journal
+1984;65:127-8.
+Soeprapto 1979 {published data only}
+Soeprapto, Soenarto Y, Nelwan, Moenginah PA, Ismangoen.
+Feeding Children with Diarrhea. Journal of Tropical Pediatrics
+1979;25:97-100.
+ 
+Additional references
+Bezerra 1992
+Bezerra JA, Stathos TH, Duncan B, Gaines JA, Udall JN Jr.
+Treatment of infants with acute diarrhea: what's recommended
+and what's practiced. Pediatrics 1992;90 (1 Pt 1):1-4.
+Brown 1993
+Brown KH, Perez F, Peerson JM, Fadel J, Brunsgaard,
+Ostrom KM, et al. Eﬀect of dietary fiber (soy polysaccharide) on
+the severity, duration, and nutritional outcome of acute, watery
+diarrhea in children. Pediatrics 1993;92:241–7.
+Brown 1994
+Brown KH, Peerson JM, Fontaine O. Use of nonhuman milks in
+the dietary management of young children with acute diarrhea:
+a meta-analysis of cllnical trials. Pediatrics 1994;93:17-27.
+Burks 2001
+Burks AW, Vanderhoof JA, Mehra S, Ostrom KM, Baggs G.
+Randomized clinical trial of soy formula with and without
+added fiber in antibiotic-induced diarrhea. Journal of Pediatrics
+2001;139:578–82.
+Chongban 2005
+Chongbanyatcharoen P. Acute Diarrhea’s Recommendations on
+Oral Rehydration Therapy and Feeding. Journal of the Medical
+Association of Thailand 2005;88 (Suppl 1):S30-4.
+Chung 1948
+Chung AW, Viscorova B. The eﬀect of oral feeding versus early
+oral starvation on the course of infantile diarrhea. Journal of
+Pediatrics 1948;33:14-22.
+Hageman 1977
+Hageman RF, Strogand JJ. Fasting and refeeding: cell kinetic
+response of jejunum, ileum and colon. Cell Tissue Kinetics
+1977;10:3-14.
+Hirshhorn 1980
+Hirshhorn N. The treatment of acute diarrhea in children. An
+historical and physiological perspective. American Journal of
+Clinical Nutrition 1980;33:637-63.
+Isolauri 1989
+Isolauri E, Juntunen M, Wiren S, Vuorinen P, Koivula T. Intestinal
+permeability changes in acute gastroenteritis: eﬀects of clinical
+factors and nutritional management. Journal of Pediatric
+Gastroenterology and Nutrition 1989;8:466–73.
+Keusch 2006
+Keusch GT, Fontaine O, Bhargava A, Boschi-Pinto C, Bhutta ZA,
+Gotuzzo E, et al. Chapter 16. Diarrheal Diseases. Disease Control
+Priorities in Developing Countries (2nd Edition).. Oxford
+University Press , World Bank ISBN: 0-8213-6179-1, 2006.
+Kosek 2003
+Kosek M, Bern C, Guerrant RL. The global burden of diarrhoeal
+disease, as estimated from studies published between 1992 and
+2000. Bulletin of the World Health Organization 2003;81:197-204.
+MMWR 2003
+King CK, Glass R, Bresee JS, Duggan C. Centers for Disease
+Control and Prevention. Managing acute gastroenteritis
+among children: oralrehydration, maintenance, and nutritional
+therapy. MMWR 2003;52:9.
+Murphy 1998
+Murphy MS. Guidelines for managing acute gastroenteritis
+based on a systematic review of published research. Archives of
+Disease in Childhood 1998;79:279–84.
+Podewils 2004
+Podewils LJ, Mintz ED, Nataro JP, Parashar UD. Acute, Infectious
+Diarrhea Among Children in Developing Countries. Seminars in
+Pediatric Infectious Diseases 2004;15:155-68.
+Santosham 1997
+Santosham M, Keenan EM, Tulloch J, Broun D, Glass R. Oral
+Rehydration Therapy for Diarrhea: An Example of Reverse
+Transfer of Technology. Pediatrics 1997;100:e10.
+Sarker 1983
+Sarker SA, Molla AM, Rahaman MM. Impact of supplementary
+food on intake of breast milk in diarrhoea. Lancet
+1983;2(8363):1349-51.
+Walker-Smith 1997
+Walker-Smith JA, Sandhu BK, Isolauri E, Banchini G, van Caillie-
+Bertrand M, Dias JA, et al. Guidelines prepared by the ESPGAN
+Working Group on Acute Diarrhoea. Recommendations for
+feeding in childhood gastroenteritis. European Society of
+Pediatric Gastroenterology and Nutrition. Journal of Pediatric
+Gastroenterology and Nutrition 1997;24(5):619-20.
+WHO 1995
+World Health Organization. The Treatment of Diarrhoea.
+A Manual for Physicians and Other Senior Health Workers.
+Geneva: World Health Organization, 1995.
+WHO 1999
+Management of severe malnutrition: a manual for physicians
+and other senior health workers. WHO Geneva 1999; Vol.
+Available at: www.who.int/nutrition/publications/malnutrition/
+en/index.html (Accessed on 20 February 2008).
+WHO/UNICEF 2004
+WHO UNICEF Joint Statement. Clinical Management of Acute
+Diarrhoea, WHO/FCH/CAH/04.7 or UNICEF/PD/Diarrhoea/01.
+The United Nations Children’s Fund/World Health Organization,
+May 2004.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Williamson 1978
+Williamson RCN. Intestinal adaptation: I. Structural, Functional
+and cytokinetic changes. New England Journal of Medicine
+1978;298:1393-402.
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+Randomized controlled trial
+Participants
+Number enrolled: 138 participants (128 were analyzed)
+Inclusion criteria: 3 to 36 months, male, non-malnourished, diarrhoea for less than 60 hours
+Exclusion criteria: female, received more than one dose of antibiotics for the diarrhoea, more than one
+episode of breastfeeding per day, diarrhoea within the last 3 weeks, weight for length <2 SD, presence
+of edema or serum albumin <2.5 g/dL
+Interventions
+1. Formula diet composed of casein, sucrose, dextrin with maltose (Dextri-Maltose), and vegetable oil
+to provide 110 kcal/kg body weight/d (CSO-110): 34 participants
+2. CSO to provide 55 kcal/kg/d (CSO-55) for 2 days and then CSO-140: 29 participants
+3. Oral glucose-electrolyte solution (GES) for 2 days, CSO-55 for the next 2 days, and then CSO-110: 34
+participants
+4. Intravenous GES was used for the first 2 days, CSO-55 for the next 2 days, and then CSO-110 : 34 par-
+ticipants
+Outcomes
+Duration of diarrhoea; apparent absorption of macronutrients and retention of nitrogen; changes in
+anthropometric indicators of nutritional status monitored at intervals during and after illness.
+Setting
+Hospital based trial
+Location: Lima, Peru
+Notes
+Interventions 1 and 2 were considered early refeeding while 3 and 4 were late refeeding groups
+The mean duration of the diarrhoea in each group was divided among the treatment success and treat-
+ment failures
+Two patients had prolonged severe diarrhoea on the 8th hospital day but their group assignments were
+unclear
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Patients were assigned to one of four dietary groups by
+means of a block randomization procedure
+Allocation concealment
+(selection bias)
+Low risk
+In each sub-stratum, 12 envelopes were filled randomly (three envelopes each)
+with the numbers of the four dietary groups and sealed. Once all envelopes of
+a substratum were exhausted, 12 new envelopes were prepared.
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Brown 1988 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All patients who were randomized were included in the final analysis
+Selective reporting (re-
+porting bias)
+High risk
+Two patients with severe diarrhoea were excluded
+Other bias
+Unclear risk
+No details given in trial report
+Brown 1988  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 200 enrolled
+Inclusion criteria: 6 weeks to 12 months, fed on formula feeds, with acute onset of watery or extremely
+loose stools for less than 14 days, no systemic illness
+Exclusion criteria: None
+Interventions
+1. Oral rehydration solution (Dextrolyte, Cow and Gate) for 24 hours, followed by 24 hours of half
+strength and 24 hours of three-quarter strength SMA Gold Cap (Wyeth) before continued feeding with
+the full strength formula milk: 50 participants
+2. HN25 formula (Milupa) for two days after the stools returned to normal followed, on successive days,
+by replacement of one, three, and then all HN25 feeds by full strength SMA Gold Cap: 50 participants
+3. Continued feeding with full strength SMA Gold Cap from the time of admission: 50 participants
+4. Continued feeding with Formula S (Cow and Gate) from the time of admission. 50 participants
+Outcomes
+Duration of diarrhoea after admission, percentage weight change noted on days 2 and 5 and on dis-
+charge
+Setting
+Hospital based trial
+Location: Seacrof Hospital admissions, Leeds, UK
+Notes
+Data from Group 2, 3 and 4 were combined in the early refeeding group
+Data on weight change was only presented in a graph format
+Only one patient in Group 2 had persistent diarrhoea but recorded only until day 10
+One patient in group 1 had continuous vomiting but it was not clear how long it lasted
+Location: Seacrof Hospital admissions in Leeds
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+No details given in trial report
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Conway 1989 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All patients who were randomized were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Conway 1989  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 90 enrolled
+Inclusion criteria: 1 to 12 months, acute (<4 days duration) watery (at least 4 watery stools per day) di-
+arrhoea, mild dehydration
+Interventions
+1. Refeeding was started after 6 hours of oral rehydration with ORS
+2. Refeeding was started after 24 hours of rehydration.
+Outcomes
+Percentage weight gain, duration of diarrhoea, number of infants admitted to the hospital
+Setting
+Private out-patient trial
+Location: Primary care clinic in Rahat, Israel
+Notes
+Clinical features were assessed at 24 hours and 2 weeks following the initial visit We assumed that the
+reported number of infants admitted to the hospital are interval numbers between the 2 follow-up
+evaluations
+Thirty percent of the infants were lost to follow-up during the 2-week period
+Percentage weight change was reported but not its SD
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+The study started on Sunday and infants were randomly assigned, starting on
+the last day of the week (Friday), to either group by flipping a coin, then alter-
+nated everyday. The daily change was to minimize mothers belonging to one
+group from influencing other mothers in a different group.
+Allocation concealment
+(selection bias)
+High risk
+Those assigning will be able to decipher the next treatment allocation for the
+subsequent days after the initial flipping of the coin
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants and caregivers were not blinded, but it was not mentioned if the
+outcome assessors were blinded
+Gazala 1988 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+16 out of 53 and 11 out of 37 in the early and late refeeding group, respectively,
+were not reported in the assessment of outcome 2 weeks following initial visit
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+High risk
+Thirty percent of patients lost to follow up
+Gazala 1988  (Continued)
+ 
+ 
+Methods
+Single-blind randomized controlled trial
+Participants
+Number: 62 enrolled
+Inclusion criteria: children <3 years of age who had acute gastroenteritis of less than 7 days duration,
+with liquid stools and increased frequency of defecation but with no other associated illness
+Exclusion criteria: presence of severe vomiting or in those with >5% dehydration
+Interventions
+1. Oral rehydration therapy (ORT) with glucose electrolyte solution alone for 24 to 48 hours without
+food: 33 participants
+2. ORT with a modified diet: 29 participants
+Outcomes
+Duration of diarrhoea (reported as median, range); percentage weight gain; consistency of stool out-
+put; vomiting episodes; incidence of lactose intolerance
+Setting
+Hospital based trial
+Location: Casualty department of Bristol Children's Hospital, Bristol, UK
+Notes
+Who was blinded was unclear.
+There were 62 infants recruited in the study: Group 1 had 33 participants while Group 2 had 29. One in
+each group was withdrawn by their parents.
+For the outcome of vomiting, we considered 32 participants for Group 1 and 28 participants for Group
+2. We included a participant supposedly withdrawn from Group 2 for severe vomiting who had to be
+hospitalized.
+Duration of diarrhoea and percentage change in weight gain were reported as median and therefore
+were not included in the meta-analysis.
+Length of follow up was 5 days.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+No details given in trial report
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+Low risk
+The study indicated that the patients were randomly allocated into two groups
+in a single-blinded fashion, although it was unclear who was blinded
+Hoghton 1996 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+27 out of 29 and 32 out of 33 patients in the early and late refeeding group, re-
+spectively, were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Hoghton 1996  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 52 enrolled
+Inclusion criteria: 6 to 24 months, with acute watery diarrhoea <48 hours duration, with moderate or
+severe dehydration, breastfed
+Exclusion criteria: presence of systemic illness, clinically evident malnutrition, bottle fed and children
+who had received antibiotics
+Interventions
+1. Oral rehydration solution alone: 26 participants
+2. Breast feeding plus oral rehydration solution: 26 participants
+Outcomes
+Total input (oral and intravenous) and total output (stool, urine, and vomitus) every hour and body
+weights
+Setting
+Hospital based trial
+Location: Pediatric wards in Infectious Disease Hospital in Rangoon, Burma
+Notes
+We converted the SE to SD for the duration of diarrhoea.
+Follow-up period was only for 48 hours and all the participants had resolution of diarrhoea
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Each child entered into the study was allocated by random numbers
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Blinding is not possible if patients were monitored every hour
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All patients who were randomized were included in the final analysis
+Khin-Maung-U 1985 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Khin-Maung-U 1985  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 48 enrolled
+Inclusion criteria: 2 to 5 years with watery diarrhoea <48 hours duration, with moderate to severe dehy-
+dration
+Exclusion criteria: presence of systemic illness, clinically evident malnutrition, children who had re-
+ceived antibiotics
+Interventions
+1. Oral rehydration solution (ORS) alone during the first 24 hours of admission: 24 participants
+2. ORS with boiled rice feeding: 24 participants
+Outcomes
+Duration of diarrhoea (hrs), total stool output and volume of vomitus (ml/patient)
+Setting
+Hospital based trial
+Location: Pediatric wards in Infectious Disease Hospital in Rangoon, Burma
+Notes
+We converted SE to SD for the duration of diarrhoea
+Follow-up period was only for 48 hours and all the participants had resolution of diarrhoea
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Each child allocated by random numbers
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All patients who were randomized were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Khin-Maung-U 1986 
+ 
+ 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Methods
+Randomized controlled trial
+Participants
+Number: 46 enrolled
+Inclusion criteria: children between 6 weeks to 4 years, with diarrhoea with or without vomiting of less
+than 5 days duration, <5% dehydrated; gastroenteritis was the only disease
+Interventions
+1. Full-strength milk: 16 participants
+2. 0.18% sodium chloride and 4% dextrose in water (clear fluids) until the diarrhoea settled, when full-
+strength milk was reintroduced: 16 participants
+3. Clear fluids until the diarrhoea settled when milk was reintroduced in increasing concentrations, by a
+quarter strength every 8 hours until full strength was reached, unless the diarrhoea recurred: 14 partici-
+pants
+Outcomes
+Daily records of weight, stool and vomitus; length of hospital stay
+Setting
+Hospital based trial
+Location: Primary care clinic in Rahat, Israel
+Notes
+The control group was the combined 2nd and 3rd group, which had delayed refeeding of full-strength
+milk and increasing concentrations of milk
+No vomiting in any group after day 3
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+No details given in trial report
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All patients who were randomized were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Rees 1979 
+ 
+ 
+Methods
+Multicenter randomized controlled trial in twelve European hospitals
+Participants
+Number: 230 enrolled
+Sandhu 1997 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Inclusion criteria: <3 years old, weaned children, with acute diarrhoea (≥4 watery stools per day for >1
+but <5 days)
+Exclusion criteria: previous intake of oral rehydration solution or on intravenous fluid; previous treat-
+ment with antidiarrhoeal drugs; children with short gut syndrome, chronic inflammatory bowel dis-
+ease, ileus, associated hepatic or renal disease
+Interventions
+1. Reguar diet: 134 participants
+2. Oral rehydration solution (ORS) for 20 hours and then fed with child's regular diet: 96 participants
+If a child was breastfed, breast-feeding was to continue throughout, and in addition the child was given
+ORS (10 ml/kg/watery stool) and regular diet as appropriate
+Outcomes
+Weight gain (gms) during hospitalization, and on day 5 and 14 of hospitalization; stool frequency and
+the type of stool (watery, loose, or formed); number of patients with vomiting
+Setting
+Hospital based trial
+Location: Multicentre study based in 13 European hospitals in 11 countries: Royal Hospital for Sick Chil-
+dren, Bristol, UK; Ospedale Maria Nuova, Reggio Emilia, Italy; Department of Clinical Sciences, Univer-
+sity of Tampere, Finland; Departimento Universita Di Napoli, Napoli, Italy; The Children's AMC, Amster-
+dam, The Netherlands; Groot Ziekengasthius, `s-Hertogenbosch, The Netherlands; Children's Hospi-
+tal Zagreb, Republic of Croatia; Maribor Teaching Hospital, Ljubljanska, Slovenia; Department of Pae-
+diatrics, Charles University, Czech Republic; Antwerp Children's Hospital, Belgium; Hospital de S. Joao,
+Porto, Portugal; Katedra Pediatrii Akademii Medycznej, Warszawa, Dzialdowska, Poland; and Soroka
+Medical Centre, Beer Sheva, Israel
+Notes
+The figures showed that there were still participants who had diarrhoea and vomiting at Day 5 , al-
+though it was unclear how many were the actual counts. However, it was mentioned that none of the
+participants still had persistent diarrhoea and vomiting by Day 14.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+The patients were allocated to the two groups according to random numbers
+by the 12 centres included in the study
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants and caregivers were not blinded, but it was not mentioned if the
+outcome assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+134 out of 134 and 88 out of 96 patients in the early and late refeeding group,
+respectively, were included in the final analysis
+Selective reporting (re-
+porting bias)
+High risk
+There were still participants who had diarrhoea and vomiting at Day 5, al-
+though it was unclear how many were the actual counts
+Other bias
+Unclear risk
+No details given in trial report
+Sandhu 1997  (Continued)
+ 
+ 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Methods
+Randomized controlled trial
+Participants
+Number: 89 enrolled
+Inclusion criteria: 0 to 12 months with acute watery diarrhoea (<7 days duration, at least 5 watery stools
+per day)
+Interventions
+1. Soy-based lactose-free formula 4 hrs after hospitalization: 43 participants
+2. Food was withheld for the first 48 hours of hospitalization: 44 participants
+Outcomes
+Stool output in the first 24 and 48 hours and during illness (ml/kg); percentage weight gain on the fol-
+lowing: 24th and 48th hour, resolution of illness and two weeks after discharge; duration of diarrhoea
+(hrs); serum sodium and potassium on admission, during and at resolution of illness
+Setting
+Hospital based trial
+Location: Indian Health Service Hospital, Whiteriver, Arizona, USA
+Notes
+One person in each group was excluded because food other than that allowed for the study was taken
+Persistent vomiting was defined as more than 3 times in an 8 hour interval necessitating intravenous
+therapy
+Persistent diarrhoea defined as more than 7 days of diarrhoea
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Randomly assigned using block randomization of groups of four
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+43 out of 44 and 44 out of 45 patients in the early and late refeeding group, re-
+spectively, were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Santosham 1985 
+ 
+ 
+Methods
+Randomly assigned
+Participants
+Number: 200 enrolled
+Inclusion criteria: children 3 to 18 months with acute watery diarrhoea (<7 days duration, at least 5 wa-
+tery stools per day)
+Santosham 1990 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Exclusion criteria: exclusively breastfed, with illness requiring intravenous fluids or antibiotic therapy,
+<5% dehydration, clinical signs of kwashiorkor
+Interventions
+1. Glucose oral rehydration solution (G-ORS) for 4 hours followed by soy-based formula (SF): 50 partici-
+pants
+2. G-ORS for 4 hours followed by rice-based formula: 50 participants
+3. Rice-based ORS for 24 hours followed by SF: 50 participants
+4. G-ORS for 4 hours followed by pre-cooked rice: 50 participants
+Outcomes
+Stool output during the first 24 hours and during illness (ml/kg); percentage weight gain during illness;
+duration of diarrhoea (hrs); serum sodium and potassium on admission, during and at resolution of ill-
+ness
+Setting
+Hospital based trial
+Location: Abu El-Reeche Hospital, Cairo, Egypt
+Notes
+The third group (R-ORS § SF), which continued to receive R-ORS for the first 24 hours of the mainte-
+nance period followed by a soy-based lactose-free formula, was considered late refeeding or the con-
+trol group in this review
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Enrolled infants were randomly assigned in blocks of eight to one of four
+groups.
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+148 out of 150 and 49 out of 50 patients in the early and late refeeding group,
+respectively, were included in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+High risk
+Eleven percent were lost to follow-up
+Santosham 1990  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 59 enrolled
+Inclusion criteria: 2 to 12 months with acute watery diarrhoea (<7 days duration, at least 5 watery stools
+per day), <7% dehydration
+Santosham 1991 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Interventions
+1. Soy-based lactose-free formula and oral electrolyte solution (Resol) on the first 24 hours: 29 partici-
+pants
+2. Oral electrolyte solution (Resol) alternating with water in the first 24 hours; day 2, half-strength soy-
+based formula alternating with ORS; day 3, full strength soy based formula: 30 participants
+Outcomes
+Duration of diarrhoea (days); percentage weight gain at 24 hours after entry, at resolution of illness and
+at 2 weeks after therapy. CBC, serum electrolytes, total proteins and glucose were only monitored on
+admission
+Setting
+Out-patient trial
+Locations: US Public Health Service Hospital in Whiteriver, Arizona; and private and city health clinics
+in Baltimore, Maryland
+Notes
+3 dropped out within 24 hours because of non-compliance with the study regimen. No data were ob-
+tained for these 3 participants.
+Persistent diarrhoea lasting for more than 7 days after start of therapy.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Blocked randomized to groups of four using the table of random numbers
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded, but it was unclear if the caregivers or the out-
+come assessors were blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+56 out of 59 patients who were randomized in the trial were included in the fi-
+nal analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Santosham 1991  (Continued)
+ 
+ 
+Methods
+Randomized controlled trial
+Participants
+Number: 69 enrolled
+Inclusion criteria: children 9 to 48 months, acute watery diarrhoea <72 hours, moderate to severe de-
+hydration, no previous antibiotic treatment, no complications other those related to dehydration,
+weaned from mother's milk
+Interventions
+1. 'Khitchri' and half-strength cow's milk formula in addition to WHO ORS after 4 to 6 hours rehydration:
+36 participants
+Shaikh 1991 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+2. WHO ORS with no food in the first 24 hours, then traditional legume-based weaning diet 'khitchri'
+and half-strength cow's milk formula freely: 33 participants
+Outcomes
+Stool output (g/kg/day), percentage weight gain after start of rehydration and at 24 hours and 72 hours
+post-rehydration
+Setting
+Hospital based trial
+Location: Civil Hospital, Karachi, Pakistan.
+Notes
+6 children were withdrawn and did not complete the study due to intercurrent infections and for non-
+medical reasons (2 from Group A, 4 from Group B)
+Treatment failures were defined as a need to restart administeringintravenous fluids
+Data were separated from those who were treatment successes and failures; we were not able to ex-
+tract the data for appropriate meta analysis
+Vomiting was monitored only until day 3
+11 children in Group A and 15 in Group B had high stool rates on day 3 but it was unclear if this persist-
+ed for more than 7 days.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Patients were randomly assigned to one of the two treatment groups using a
+random number table
+Allocation concealment
+(selection bias)
+Unclear risk
+No details given in trial report
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Participants were not blinded
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+32 out of 36 and 31 out of 33 in the early and late refeeding group, respectively,
+were reported in the final analysis
+Selective reporting (re-
+porting bias)
+Unclear risk
+No details given in trial report
+Other bias
+Unclear risk
+No details given in trial report
+Shaikh 1991  (Continued)
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Armistead 1989
+This is a randomized controlled trial of 68 hospitalized babies for acute diarrhoea to compare full-
+strength versus quarter-strength formula. However, both groups were given feedings only after 24
+hours of oral rehydration with glucose electrolyte mixture.
+Chew 1993
+The study assessed the effects on clinical course of two feeding regimens in 159 Guatemalan and
+Brazilian infant boys aged 2 weeks to 6 months who had acute diarrhoea. They were assigned ran-
+domly to one of two feeding regimens: full-strength milk formula (group A), or progressive reintro-
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study
+Reason for exclusion
+duction of full-strength milk formula (half-strength for the first 24 hours, two-thirds strength for the
+second 24 hours, and full-strength thereafter) (group B). Both groups received refeeding after 4 to 6
+hours of oral rehydration.
+Fox 1990
+Sixty-two babies under the age of 6 months who were admitted with gastroenteritis were random-
+ly allocated to gradual refeeding or abrupt refeeding. In both groups, refeeding was started after a
+period of 12 hours rehydration.
+Haffejee 1990
+A therapeutic trial of hospitalized children with acute diarrhoea randomized to receive either lac-
+tose-free soya formula or their original cow's milk-based formula. However, both comparison
+groups were re-fed at time of admission.
+Haque 1983
+One hundred and fify children with acute enteritis were randomly allocated to three feeding reg-
+imens: a. clear fluids (glucose electrolyte solution) then quarter-strength formula; b. clear fluids
+then full-strength formula; c. continuing full-strength milk. In the first two groups, the initial fluids
+were given within 6 to 24 hours and therefore it was unclear whether there were children who re-
+ceived refeeding early.
+Hjelt 1989
+Fify-two children aged 6 to 46 months who were hospitalized for acute gastroenteritis were ran-
+domized after start of rehydration to receive either traditional gradual or rapid refeeding. The grad-
+ual refeeding group was allowed to take only syrupy water gruel and apple porridge for at least one
+day and therefore it was unclear how many in this group would have been re-fed early.
+Nanulescu 1995
+A quasi-randomized trial compared early versus late re-feeding in the management of acute diar-
+rhoea in the first year of life.
+Parker 1981
+The participants were 9 infants with protracted diarrhoea and malnutrition and 2 infants with sur-
+gically created short bowel. Patients were not selected randomly for allocation to the treatment
+groups.
+Ransome 1984
+A blind randomized controlled trial was performed to compare full strength versus graduated milk
+formula given on the first day of hospital admission for the treatment of acute infantile gastroen-
+teritis.
+Soeprapto 1979
+The study included babies aged 4 to 24 months with diarrhoea, but it was not clear whether they
+were suffering from acute watery diarrhoea. Both comparison groups were re-fed after start of re-
+hydration, but the the interval until the participants were given full feeding differed between the
+groups.
+ 
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Comparison 1.   Early vs late refeeding
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Duration of diarrhea (hours)
+7
+ 
+Mean Difference (IV, Ran-
+dom, 95% CI)
+Totals not select-
+ed
+2 Total stool output during the first 24
+hours after start of rehydration, ml/kg
+3
+394
+Mean Difference (IV, Ran-
+dom, 95% CI)
+5.86 [-23.66, 35.37]
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+3 Total stool output during first 48
+hours after start of rehydration, ml/kg
+3
+262
+Mean Difference (IV, Ran-
+dom, 95% CI)
+-19.73 [-55.12,
+15.66]
+4 Percentage weight gain at 24 hours
+3
+212
+Mean Difference (IV, Fixed,
+95% CI)
+-0.38 [-1.38, 0.62]
+5 Percentage weight gain at resolution
+of illness
+3
+322
+Mean Difference (IV, Fixed,
+95% CI)
+0.60 [-0.27, 1.47]
+6 Unscheduled intravenous fluid thera-
+py
+6
+813
+Risk Ratio (M-H, Fixed, 95%
+CI)
+0.87 [0.48, 1.59]
+7 Cases of vomiting
+5
+456
+Risk Ratio (M-H, Fixed, 95%
+CI)
+1.16 [0.72, 1.86]
+8 Adverse events: Development of per-
+sistent diarrhea
+4
+522
+Risk Ratio (M-H, Fixed, 95%
+CI)
+0.57 [0.18, 1.85]
+9 Adverse events: Development of hy-
+ponatremaia
+2
+287
+Risk Ratio (M-H, Fixed, 95%
+CI)
+0.68 [0.06, 7.29]
+ 
+ 
+Analysis 1.1.   Comparison 1 Early vs late refeeding, Outcome 1 Duration of diarrhea (hours).
+Study or subgroup
+Early refeeding
+Late refeeding
+Mean Difference
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+Random, 95% CI
+Conway 1989
+150
+52 (46.6)
+50
+64 (53.7)
+-12[-28.65,4.65]
+Gazala 1988
+37
+88.8 (45.6)
+26
+86.4 (52.8)
+2.4[-22.66,27.46]
+Khin-Maung-U 1985
+26
+43.3 (25.5)
+26
+45.7 (19.9)
+-2.4[-14.83,10.03]
+Khin-Maung-U 1986
+24
+46.3 (15.7)
+24
+29.6 (22.5)
+16.7[5.71,27.69]
+Santosham 1985
+43
+54 (28)
+44
+93 (56)
+-39[-57.54,-20.46]
+Santosham 1990
+134
+45.5 (22.4)
+45
+47 (24)
+-1.5[-9.47,6.47]
+Santosham 1991
+29
+48 (4.8)
+27
+64.8 (31.2)
+-16.8[-28.7,-4.9]
+Early refeeding
+50
+25
+-50
+-25
+0
+Late refeeding
+ 
+ 
+Analysis 1.2.   Comparison 1 Early vs late refeeding, Outcome 2 Total
+stool output during the first 24 hours afer start of rehydration, ml/kg.
+Study or subgroup
+Early refeeding
+Late refeeding
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Brown 1988
+60
+58.8 (50)
+68
+41.5 (47.2)
+35.11%
+17.3[0.39,34.21]
+Santosham 1985
+43
+45 (25)
+44
+78 (90)
+29.45%
+-33[-60.62,-5.38]
+Santosham 1990
+134
+100.8 (50.8)
+45
+74 (47)
+35.44%
+26.8[10.6,43]
+ 
+ 
+Total ***
+237
+ 
+157
+ 
+100%
+5.86[-23.66,35.37]
+Heterogeneity: Tau2=571.35; Chi2=13.66, df=2(P=0); I2=85.36%
+ 
+Test for overall effect: Z=0.39(P=0.7)
+ 
+Early refeeding
+100
+50
+-100
+-50
+0
+Late refeeding
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+ 
+Analysis 1.3.   Comparison 1 Early vs late refeeding, Outcome 3 Total
+stool output during first 48 hours afer start of rehydration, ml/kg.
+Study or subgroup
+Early refeeding
+Late refeeding
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Khin-Maung-U 1985
+26
+89.2 (10)
+26
+115.8 (14.5)
+41.73%
+-26.6[-33.37,-19.83]
+Santosham 1985
+43
+85 (63)
+44
+150 (167)
+21.8%
+-65[-117.82,-12.18]
+Santosham 1990
+93
+78.2 (59.6)
+30
+63 (51)
+36.46%
+15.2[-6.7,37.1]
+ 
+ 
+Total ***
+162
+ 
+100
+ 
+100%
+-19.73[-55.12,15.66]
+Heterogeneity: Tau2=769.42; Chi2=15.17, df=2(P=0); I2=86.81%
+ 
+Test for overall effect: Z=1.09(P=0.27)
+ 
+Early refeeding
+100
+50
+-100
+-50
+0
+Late refeeding
+ 
+ 
+Analysis 1.4.   Comparison 1 Early vs late refeeding, Outcome 4 Percentage weight gain at 24 hours.
+Study or subgroup
+Early refeeding
+Late refeeding
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Santosham 1985
+43
+1.8 (3.6)
+44
+2.4 (3.2)
+48.55%
+-0.6[-2.03,0.83]
+Santosham 1991
+29
+1.5 (3.5)
+27
+2.5 (3.7)
+27.9%
+-1[-2.89,0.89]
+Shaikh 1991
+36
+-0.6 (4.8)
+33
+-1.4 (3.9)
+23.55%
+0.8[-1.26,2.86]
+ 
+ 
+Total ***
+108
+ 
+104
+ 
+100%
+-0.38[-1.38,0.62]
+Heterogeneity: Tau2=0; Chi2=1.77, df=2(P=0.41); I2=0%
+ 
+Test for overall effect: Z=0.75(P=0.45)
+ 
+Early refeeding
+100
+50
+-100
+-50
+0
+Late refeeding
+ 
+ 
+Analysis 1.5.   Comparison 1 Early vs late refeeding, Outcome 5 Percentage weight gain at resolution of illness.
+Study or subgroup
+Early refeeding
+Late refeeding
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Santosham 1985
+43
+3 (4)
+44
+1.9 (4.3)
+25.09%
+1.1[-0.64,2.84]
+Santosham 1990
+134
+7.3 (4)
+45
+7 (4)
+41.86%
+0.3[-1.05,1.65]
+Santosham 1991
+29
+1.8 (3.5)
+27
+1.2 (2.2)
+33.05%
+0.6[-0.92,2.12]
+ 
+ 
+Total ***
+206
+ 
+116
+ 
+100%
+0.6[-0.27,1.47]
+Heterogeneity: Tau2=0; Chi2=0.51, df=2(P=0.78); I2=0%
+ 
+Test for overall effect: Z=1.35(P=0.18)
+ 
+Early refeeding
+10
+5
+-10
+-5
+0
+Late refeeding
+ 
+ 
+Analysis 1.6.   Comparison 1 Early vs late refeeding, Outcome 6 Unscheduled intravenous fluid therapy.
+Study or subgroup
+Early refeeding
+Late refeeding
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+Conway 1989
+3/150
+0/50
+3.88%
+2.36[0.12,45]
+Early refeeding
+100
+0.01
+10
+0.1
+1
+Late refeeding
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Early refeeding
+Late refeeding
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+Sandhu 1997
+4/134
+4/88
+25.08%
+0.66[0.17,2.56]
+Santosham 1985
+1/43
+2/44
+10.27%
+0.51[0.05,5.44]
+Santosham 1990
+1/134
+0/45
+3.87%
+1.02[0.04,24.66]
+Santosham 1991
+1/29
+0/27
+2.69%
+2.8[0.12,65.93]
+Shaikh 1991
+9/36
+10/33
+54.2%
+0.83[0.38,1.78]
+ 
+ 
+Total (95% CI)
+526
+287
+100%
+0.87[0.48,1.59]
+Total events: 19 (Early refeeding), 16 (Late refeeding)
+ 
+Heterogeneity: Tau2=0; Chi2=1.36, df=5(P=0.93); I2=0%
+ 
+Test for overall effect: Z=0.45(P=0.65)
+ 
+Early refeeding
+100
+0.01
+10
+0.1
+1
+Late refeeding
+ 
+ 
+Analysis 1.7.   Comparison 1 Early vs late refeeding, Outcome 7 Cases of vomiting.
+Study or subgroup
+Early refeeding
+Late refeeding
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+Conway 1989
+1/150
+0/50
+3.64%
+1.01[0.04,24.48]
+Hoghton 1996
+3/28
+4/32
+18.16%
+0.86[0.21,3.51]
+Rees 1979
+2/16
+2/30
+6.77%
+1.88[0.29,12.09]
+Santosham 1985
+0/43
+1/44
+7.21%
+0.34[0.01,8.14]
+Shaikh 1991
+17/32
+13/31
+64.23%
+1.27[0.75,2.15]
+ 
+ 
+Total (95% CI)
+269
+187
+100%
+1.16[0.72,1.86]
+Total events: 23 (Early refeeding), 20 (Late refeeding)
+ 
+Heterogeneity: Tau2=0; Chi2=1.12, df=4(P=0.89); I2=0%
+ 
+Test for overall effect: Z=0.6(P=0.55)
+ 
+Early feeding
+100
+0.01
+10
+0.1
+1
+Late feeding
+ 
+ 
+Analysis 1.8.   Comparison 1 Early vs late refeeding, Outcome 8 Adverse events: Development of persistent diarrhea.
+Study or subgroup
+Early refeeding
+Late refeeding
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+Conway 1989
+0/150
+0/50
+ 
+Not estimable
+Santosham 1985
+2/43
+5/44
+71.04%
+0.41[0.08,2]
+Santosham 1990
+1/134
+1/45
+21.52%
+0.34[0.02,5.26]
+Santosham 1991
+1/29
+0/27
+7.43%
+2.8[0.12,65.93]
+ 
+ 
+Total (95% CI)
+356
+166
+100%
+0.57[0.18,1.85]
+Total events: 4 (Early refeeding), 6 (Late refeeding)
+ 
+Heterogeneity: Tau2=0; Chi2=1.29, df=2(P=0.53); I2=0%
+ 
+Test for overall effect: Z=0.93(P=0.35)
+ 
+Early refeeding
+100000
+0.00001
+10
+0.1
+1
+Late refeeding
+ 
+ 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 1.9.   Comparison 1 Early vs late refeeding, Outcome 9 Adverse events: Development of hyponatremaia.
+Study or subgroup
+Early refeeding
+Late refeeding
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+Santosham 1985
+0/44
+0/45
+ 
+Not estimable
+Santosham 1990
+2/148
+1/50
+100%
+0.68[0.06,7.29]
+ 
+ 
+Total (95% CI)
+192
+95
+100%
+0.68[0.06,7.29]
+Total events: 2 (Early refeeding), 1 (Late refeeding)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.32(P=0.75)
+ 
+Favours experimental
+100
+0.01
+10
+0.1
+1
+Favours control
+ 
+ 
+A D D I T I O N A L   T A B L E S
+ 
+Search Set
+CIDG SR
+CENTRAL
+MEDLINE
+EMBASE
+LILACS
+1
+diarrhoea
+diarrhoea
+diarrhoea
+diarrhoea
+diarrhoea
+2
+diarrhoea
+gastroenteri-
+tis
+gastroenteritis
+gastroenteritis
+diarrhoea
+3
+gastroenteritis
+1 or 2
+1 or 2
+1 or 2
+gastroenteri-
+tis
+4
+1 or 2 or 3
+Feed*
+Feed*
+Feed$
+1 or 2 or 3
+5
+Feed*
+Refeed*
+Refeed*
+Refeed$
+Feeding
+6
+Refeed*
+Re-feed*
+Re-feed*
+Re-feed$
+Refeeding
+7
+Re-feed*
+Nutrition*
+Nutrition*
+Nutrition$
+Re-feeding
+8
+5 or 6 or 7
+4 or 5 or 6 or 7
+NUTRITIONAL SUPPORT
+DIET RESTRIC-
+TION
+5 or 6 or 7
+9
+4 and 8
+3 AND 8
+TIME FACTORS
+FEEDING BE-
+HAVIOUR
+4 AND 8
+10
+ 
+ 
+4-9/OR
+4-9/OR
+ 
+11
+ 
+ 
+3 AND 10
+3 AND 10
+ 
+12
+ 
+ 
+Limit 12 to Human
+Limit 12 to Hu-
+mans
+ 
+13
+ 
+ 
+ 
+ 
+ 
+14
+ 
+ 
+ 
+ 
+ 
+15
+ 
+ 
+ 
+ 
+ 
+Table 1.   Detailed Search Strategies 
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+Cochrane Infec-
+tious Diseases
+Group Specialized
+register
+ 
+Search terms used in combination with
+the search strategy for retrieving trials
+developed by The Cochrane Collabo-
+ration (Higgins); Upper case: MeSH or
+EMTREE heading; Lower Case: free text
+term
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1.   Detailed Search Strategies  (Continued)
+ 
+ 
+ 
+ 
+Outcome and unit of analysis
+Early refeeding
+Late refeeding
+Hoghton 1996
+ 
+Median (range) of duration of diarrhoea (hours)
+66.5 (11-192)
+56 (24-216)
+Khin-Maung-U
+1985
+ 
+Mean (SE) of total stool output in the first 24 hours,
+ml/kg/patient
+89.2 (10)
+115.8 (14.5)
+Khin-Maung-U
+1986
+ 
+Mean (SE) of total stool output in the first 24 hours,
+ml/patient
+1447.5 (214.4)
+870.6 (152.3)
+Table 2.   Additional data provided by the studies used in the review 
+ 
+ 
+ 
+Early refeeding
+Late refeeding
+Shaikh 1991
+Successfully treated
+Clinical failure
+Successfully treated
+Clinical failure
+Day 1
+195 (116)
+300 (111)
+256 (157)
+354 (156)
+Day 2
+192 (153)
+436 (102)
+202 (223)
+412 (183)
+Day 3
+166 (132)
+420 (109)
+177 (201)
+336 (164)
+Table 3.   Mean (SD) of stool output at diﬀerent periods of observation (gm/kg/day) 
+ 
+H I S T O R Y
+Protocol first published: Issue 3, 2008
+Review first published: Issue 7, 2011
+ 
+Date
+Event
+Description
+1 April 2008
+New citation required and major
+changes
+Substantive amendment
+ 
+C O N T R I B U T I O N S   O F   A U T H O R S
+All the authors wrote the protocol. The first two authors carried out the risk of bias (methodological quality) assessment, data extraction,
+data analysis, and wrote the final manuscript.
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+D E C L A R A T I O N S   O F   I N T E R E S T
+None known
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+Eﬀective Health Care Research Programme Consortium, UK, Not specified.
+External sources
+•
+Department of International Development, UK.
+D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W
+•
+Authorship: GV Gregorio was designated as the principal investigator for the review.
+•
+Data extraction: We originally planned to extract data on the number of patients requiring hospitalization. However, most of the trials
+were conducted in a hospital setting, and the outcome reported by two trials was the mean length of hospital stay. We also intended to
+obtain count data by determining the total number of episodes in each group (if the episode was rare) or the number of person years
+in each group for each treatment arm (if the episode was common). However, during our assessment of the trials, we realised that the
+trials reported the number of participants with vomiting, and thus it was considered to be a dichotomous outcome rather than a count
+outcome. There were also no studies that reported the mean caloric intake, deaths and all-cause mortality.
+•
+Data analysis: In multiple treatment arms with two or more types of feeding as treatment groups, the outcomes were combined as
+appropriate and compared collectively with the control group.
+•
+Subgroup analyses: This could not be done because of the limited number of trials in each outcome.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+*Eating;  *Fluid Therapy;  Acute Disease;  Developing Countries;  Diarrhea  [diet therapy]  [*therapy];  Randomized Controlled Trials as
+Topic;  Time Factors
+MeSH check words
+Child; Child, Preschool; Humans; Infant
+Early versus Delayed Refeeding for Children with Acute Diarrhoea (Review)
+Copyright © 2019 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30

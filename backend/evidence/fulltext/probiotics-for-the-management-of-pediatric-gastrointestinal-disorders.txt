@@ -1,0 +1,1952 @@
+
+
+[page 1]
+232 
+JPGN • Volume 76, Number 2, February 2023
+Societal Paper: Nutrition
+Probiotics for the Management of Pediatric 
+Gastrointestinal Disorders: Position Paper of the 
+ESPGHAN Special Interest Group on Gut  
+Microbiota and Modiﬁcations
+*Hania Szajewska, MD, †Roberto Berni Canani, MD, ‡Magnus Domellöf, MD, †Alfredo Guarino, MD,  
+§Iva Hojsak, MD, ||Flavia Indrio, MD, †Andrea Lo Vecchio, MD, ¶Walter A. Mihatsch, MD,  
+#Alexis Mosca, MD, **Rok Orel, MD, ††Silvia Salvatore, MD, ‡‡Raanan Shamir, MD, 
+§§Chris H. P. van den Akker, MD, §§Johannes B. van Goudoever, MD, ||||Yvan Vandenplas, MD, and 
+¶¶Zvi Weizman, MD, on behalf of the ESPGHAN Special Interest Group on Gut  
+Microbiota and Modiications
+ABSTRACT 
+Background: Probiotics, deined as live microorganisms that, when adminis-
+tered in adequate amounts, confer a health beneit on the host, are widely used 
+despite uncertainty regarding their eicacy and discordant recommendations 
+about their use. The European Society for Paediatric Gastroenterology, Hepatol-
+ogy and Nutrition (ESPGHAN) Special Interest Group on Gut Microbiota and 
+Modiications provides updated recommendations for the use of probiotics for 
+the management of selected pediatric gastrointestinal disorders.
+Methods: All systematic reviews and/or meta-analyses, as well as subse-
+quently published randomized controlled trials (RCTs) (until December 
+2021), that compared the use of probiotics in all delivery vehicles and formu-
+lations, at any dose, with no probiotic (ie, placebo or no treatment), were eli-
+gible for inclusion. The recommendations were formulated only if at least 2 
+RCTs on a similar well-deined probiotic strain were available. The modiied 
+Delphi process was used to establish consensus on the recommendations.
+Results: Recommendations for the use of speciic probiotic strains were 
+made for the management of acute gastroenteritis, prevention of antibiotic-
+associated diarrhea, nosocomial diarrhea and necrotizing enterocolitis, 
+management of Helicobacter pylori infection, and management of func-
+tional abdominal pain disorders and infant colic.
+Conclusions: Despite evidence to support the use of speciic probiotics in 
+some clinical situations, further studies conirming the efect(s) and dein-
+ing the type, dose, and timing of probiotics are still often required. The use 
+of probiotics with no documented health beneits should be discouraged.
+Key Words: children, infants, microbiota, microbiome
+(JPGN 2022;76: 232–247)
+Received May 26, 2022; accepted September 30, 2022.
+From the *Department of Paediatrics, The Medical University of Warsaw, 
+Warsaw, Poland, the †Department of Translational Medical Science - 
+Section of Paediatrics. University of Naples Federico II, Naples, Italy, 
+the ‡Department of Clinical Sciences, Pediatrics, Umeå University, 
+Umeå, Sweden, the §Children’s Hospital Zagreb, University of Zagreb 
+School of Medicine, Zagreb, Croatia, University J.J. Strossmayer School 
+of Medicine Osijek, Osijek, Croatia, the ||Department of Medical and 
+Surgical Science Pediatric Section, University of Foggia, Foggia, Italy, 
+the ¶Ulm University, Ulm, Germany, the #Department of Pediatric Gas-
+troenterology and Nutrition, Hopital Robert Debré, Assistance Publique 
+Hopitaux de Paris, Paris, France, the **Department of Gastroenterology, 
+Hepatology and Nutrition, University Medical Centre Ljubljana, Univer-
+sity Children’s Hospital Ljubljana, Ljubljana, Slovenia, the ††Depart-
+ment of Pediatrics, “F. Del Ponte” Hospital, University of Insubria, 
+Varese, Italy, the ‡‡Institute for Gastroenterology, Nutrition and Liver 
+Diseases, Schneider Children’s Medical Center, Sackler Faculty of Medi-
+cine, Tel Aviv University, Israel, the §§Amsterdam UMC, University of 
+Amsterdam and Vrije Universiteit Amsterdam, Emma Children’s Hos-
+pital, Paediatrics - Neonatology, Amsterdam Reproduction & Devel-
+opment, Amsterdam, the Netherlands, the ||||KidZ Health Castle, UZ 
+Brussel, Vrije Universiteit Brussel, Brussels, Belgium, and the ¶¶Faculty 
+of Health Sciences, Ben-Gurion University, Beer-Sheva, Israel.
+Address correspondence to Hania Szajewska, MD, Department of Paediat-
+rics, The Medical University of Warsaw, Żwirki I Wigury 63A 02-091 
+Warsaw, Poland (e-mail: hszajewska@wum.edu.pl).
+What Is Known
+ • Probiotics are increasingly being used in the pediat-
+ric population.
+ • Uncertainty remains about how to appropriately use 
+probiotics.
+ • The effects of probiotics are considered to be strain 
+speciﬁc.
+What Is New
+ • Indications for the use of probiotics for selected gas-
+trointestinal disorders in children covered in earlier 
+documents are updated.
+ • Indications not covered in earlier documents are 
+included.
+ • The recommendations formulated are meant to 
+be broadly applicable and should be viewed as the 
+preferred management. However, they are not the 
+only approach and depend on individual clinical 
+scenarios.
+
+[page 2]
+www.jpgn.org 
+233
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+SUMMARY OF RECOMMENDATIONS
+Acute Gastroenteritis
+ • Healthcare professionals (HCPs) may recommend 
+Lacticaseibacillus rhamnosus (L rhamnosus) GG [at a 
+dose of ≥1010 CFU/day, for 5–7 days] for the man-
+agement of acute gastroenteritis in children, since 
+there is evidence of reduced duration of diarrhea, 
+length of hospitalization, and stool output (certainty 
+of evidence: low; grade of recommendation: weak).
+ • HCPs may recommend Saccharomyces (S) boulardii* 
+(at a dose of 250–750 mg/day, for 5–7 days) for the 
+management of acute gastroenteritis in children, 
+since there is evidence of reduced duration of diar-
+rhea (certainty of evidence: low; grade of recom-
+mendation: weak).
+ • HCPs may recommend Limosilactobacillus reuteri (L 
+reuteri) DSM 17938 (at daily doses 1 × 108 to 4 × 108 
+CFU, for 5 days) for the management of acute gas-
+troenteritis in children, since there is evidence of 
+reduced duration of diarrhea (certainty of evidence: 
+very low; grade of recommendation: weak).
+• HCPs may recommend the combination of L rham-
+nosus 19070-2 and L reuteri DSM 12246 (at a dose 
+of 2 × 1010 CFU for each strain, for 5 days) for the 
+management of acute gastroenteritis in children, 
+since there is evidence of reduced duration of diar-
+rhea (certainty of evidence: very low; grade of rec-
+ommendation: weak).
+ • HCPs should not recommend the combination 
+of Lactobacillus helveticus R0052 and L rhamnosus 
+R0011 for the management of acute gastroenteritis 
+due to the lack of efﬁcacy (certainty of evidence: 
+moderate; grade of recommendation: strong).
+ • HCPs may not recommend Bacillus clausii strains 
+O/C, SIN, N/R, and T for the management of acute 
+gastroenteritis in children due to the lack of efﬁcacy 
+(certainty of evidence: very low; grade of recom-
+mendation: weak).
+Prevention of Antibiotic-Associated Diarrhea
+ • If the use of probiotics for preventing antibiotic-
+associated diarrhea (AAD) is considered because 
+of the existence of risk factors such as class of 
+antibiotic(s), duration of antibiotic treatment, age, 
+need for hospitalization, comorbidities, or previous 
+episodes of AAD, HCPs may recommend high doses 
+(≥5 billion CFU/day) of S boulardii* or L rhamnosus 
+GG started simultaneously with antibiotic treatment 
+to prevent AAD in outpatients and hospitalized chil-
+dren (certainty of evidence: moderate; grade of rec-
+ommendation: strong).
+Disclaimer: ESPGHAN is not responsible for the practices of physicians and 
+provides guidelines and position papers as indicators of best practice only. 
+Diagnosis and treatment are at the discretion of physicians.
+Supplemental digital content is available for this article. Direct URL cita-
+tions appear in the printed text, and links to the digital iles are provided 
+in the HTML text of this article on the journal’s Web site (www.jpgn.org).
+Copyright © 2022 by European Society for European Society for 
+Pediatric Gastroenterology, Hepatology, and Nutrition and North 
+American Society for Pediatric Gastroenterology, Hepatology, and 
+Nutrition.
+DOI: 10.1097/MPG.0000000000003633
+Prevention of Nosocomial Diarrhea
+ • HCPs may recommend L rhamnosus GG (at least 109 
+CFU/day) for the duration of the hospital stay for 
+the prevention of nosocomial diarrhea in children 
+(certainty of evidence: moderate; grade of recom-
+mendation: weak).
+ • HCPs should not recommend L reuteri DSM 17938 
+for the prevention of nosocomial diarrhea in chil-
+dren due to the lack of efﬁcacy (certainty of evi-
+dence: high; grade of recommendation: strong).
+Prevention of Necrotizing Enterocolitis
+• For reducing the risk of necrotizing enterocolitis in 
+preterm infants, provided all safety issues are met, 
+HCPs may recommend L rhamnosus GG (at a dose 
+ranging from 1 × 109 CFU to 6 × 109 CFU) (certainty 
+of evidence: low; grade of recommendation: weak) 
+or the combination of Biﬁdobacterium (B) infantis 
+BB-02, B lactis BB-12, and Streptococcus thermophilus 
+TH-4 at 3.0 to 3.5 × 108 CFU (of each strain) (cer-
+tainty of evidence: low; grade of recommendation: 
+weak).
+• Due to insufﬁcient evidence, no recommendation 
+can be made for or against L reuteri DSM 17938 or 
+the combination of B biﬁdum NCDO 1453 & Lac-
+tobacillus acidophilus NCDO 1748 (certainty of evi-
+dence: for both, very low to moderate).
+• Due to the lack of efﬁcacy, HCPs may not recom-
+mend B breve BBG-001 (certainty of evidence: low 
+to moderate; grade of recommendation: weak) or S 
+boulardii (certainty of evidence: very low to moder-
+ate; grade of recommendation: weak).
+Helicobacter pylori Infection
+ • In children with H pylori infection, HCPs may rec-
+ommend, along with H pylori therapy, S boulardii* 
+for increasing the eradication rates and decreas-
+ing gastrointestinal adverse effects (certainty of 
+evidence: very low; grade of recommendation: 
+weak).
+Inﬂammatory Bowel Disease
+ • No recommendation can be made for or against the 
+use of probiotics studied so far in the management 
+of children with ulcerative colitis due to insufﬁcient 
+evidence.
+ • No recommendation can be made for or against 
+the use of probiotics studied so far in the treatment 
+of children with Crohn disease due to insufﬁcient 
+evidence.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 3]
+234 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+Members of the ESPGHAN Working Group on Probiot-
+ics and Prebiotics working within the ESPGHAN Special Interest 
+Group on Gut Microbiota and Modiications: R. Berni Canani, A. 
+Guarino, E. C. Dinleyci, M. Domellöf, F. Indrio, I. Hojsak, P. Guti-
+ierez, S. Kolacek, W. A. Mihatsch, A. Mosca, R. Orel, S. Salvatore, 
+R. Shamir, H. Szajewska, Y. Vandenplas, C. H. P. van den Akker, J. 
+B. van Goudoever, Z. Weizman.
+INTRODUCTION
+In previous years, the European Society for Paediatric Gas-
+troenterology, Hepatology and Nutrition (ESPGHAN) Working 
+Group (WG) on Probiotics and Prebiotics (since 2019 working 
+within the ESPGHAN Special Interest Group on Gut Microbiota 
+& Modiications) published several clinical guidelines on the use of 
+probiotics for preventing or treating selected gastrointestinal disor-
+ders in children (1–4). Only some conditions were covered, and new 
+evidence has become available. Thus, the purpose of this document 
+is to provide updated practical recommendations for the use of pro-
+biotics for the management of selected pediatric gastrointestinal 
+disorders in a single document. Indications covered in earlier docu-
+ments were updated. Indications not covered in earlier documents 
+were included. The recommendations formulated are meant to be 
+broadly applicable and should be viewed as the preferred manage-
+ment (only in the context of probiotics). However, they are not the 
+only approach and depend on individual clinical scenarios.
+METHODS
+The methods used for the development of this document are 
+described in Table S1, Supplemental Digital Content, http://links.
+lww.com/MPG/C954. In brief, all systematic reviews and/or meta-
+analyses, as well as subsequently published randomized controlled 
+trials (RCTs) (until December 2021) that compared the use of pro-
+biotics in all delivery vehicles and formulations, at any dose, with 
+no probiotic (ie, placebo or no treatment), were eligible for inclusion. 
+One exception was that studies evaluating probiotic-supplemented 
+formulas were not included. For diseases recently evaluated by ESP-
+GHAN and for recommendations formulated in previously published 
+ESPGHAN/Working Group/Committee on Nutrition guidelines or 
+position papers, subsequently published systematic reviews and/or 
+meta-analyses and peer reviewed RCTs were considered for inclusion.
+The WG followed the internationally accepted deinition of 
+probiotics stated as “live microorganisms that, when administered 
+in adequate amounts, confer a health beneit on the host” (5). Non-
+viable microorganisms, that is, those not meeting the deinition of a 
+probiotic (5), were not considered.
+The WG followed the approach developed earlier (6) and did 
+not provide a recommendation on the use of probiotics in general. 
+Instead, the WG is reporting evidence and recommendations related 
+to speciic individual probiotic strains or their combinations. The 
+recommendations were formulated only if at least 2 RCTs that used 
+a given probiotic were available.
+The WG acknowledged that the genus of Lactobacillus has 
+been recently reclassiied into 25 genera, which include 23 novel 
+genera (7). For example, the new name for Lactobacillus rham-
+nosus is Lacticaseibacillus rhamnosus. However, the abbreviations 
+of microorganisms remained the same (ie, L rhamnosus). Species 
+names and strain designations did not change (7). Throughout the 
+manuscript, the strain names were used as in the original publica-
+tions. However, when formulating the recommendation, the new 
+strain names were used.
+The WG acknowledges that safety of probiotics is an impor-
+tant issue. However, the WG abstained from evaluating the safety 
+of probiotics, as this issue was recently thoroughly systematically 
+reviewed elsewhere (for review, see reference (8)).
+Infant Colic
+• HCPs may recommend L reuteri DSM 17938 (108 CFU/
+day for at least 21 days) for the management of infant 
+colic in breastfed infants (certainty of evidence: moder-
+ate; grade of recommendation: weak).
+• No recommendation can be made for or against the 
+use of L reuteri DSM 17938 in formula-fed infants 
+due to insufﬁcient evidence.
+• HCPs may recommend B lactis BB-12 (108 CFU/day, 
+for 21–28 days) for the management of infant colic 
+in breastfed infants (certainty of evidence: moder-
+ate; grade of recommendation: weak).
+• No recommendation can be made for or against the 
+use of any of the probiotics studied so far for pre-
+venting infant colic due to insufﬁcient evidence.
+Functional Abdominal Pain Disorders
+ • HCPs may recommend L reuteri DSM 17938 (at a 
+dose of 108 CFU to 2 × 108 CFU/day) for pain inten-
+sity reduction in children with functional abdomi-
+nal pain disorders (certainty of evidence: moderate; 
+grade of recommendation: weak).
+ • HCPs may recommend L rhamnosus GG (at a dose of 
+109 CFU to 3 × 109 CFU twice daily) for the reduction 
+of pain frequency and intensity in children with irri-
+table bowel syndrome (certainty of evidence: mod-
+erate; grade of recommendation: weak).
+Functional Constipation
+ • HCPs may not recommend the use of probiotics as 
+a single or adjuvant therapy for treatment of func-
+tional constipation in children due to the lack of 
+efﬁcacy (certainty of evidence: moderate; grade of 
+recommendation: weak).
+Celiac Disease
+ • No recommendation can be made for or against the 
+use of probiotics in children with celiac disease due 
+to insufﬁcient evidence.
+Small Intestinal Bacterial Overgrowth
+ • No recommendation can be made for or against the 
+use of probiotics in the treatment or prevention of 
+small intestinal bacterial overgrowth due to insuf-
+ﬁcient evidence.
+Pancreatitis
+ • As no randomized controlled trial on the use of pro-
+biotics for pancreatitis in children was identiﬁed, no 
+recommendation can be made for or against the use 
+of probiotics for the management of pancreatitis.
+*Note: In many of the trials, the strain designation of 
+S boulardii was not available. However, if available, or 
+assessed retrospectively, most used was that recently 
+designated as S boulardii CNCM I-745.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 4]
+www.jpgn.org 
+235
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+The preinal draft of this document was submitted for public 
+consultation on April 30, 2022, via the ESPGHAN website. ESP-
+GHAN members and all interested parties were invited to submit 
+written comments within 16 days. Members of the WG assessed 
+and discussed all comments. If found to be relevant, the comments 
+were taken into consideration and, potentially, guided revisions to 
+the manuscript.
+Treatment of Acute Gastroenteritis
+Until 2019, many, if not all, professional societies and groups 
+of experts advocated use of probiotics with documented eicacy 
+for the management of acute gastroenteritis (6,9–11). Currently, the 
+recommendations difer, possibly relecting negative (null) studies 
+questioning the eicacy of some strains with previous positive rec-
+ommendations (12,13).
+In 2020, the ESPGHAN Working Group on Probiotics and 
+Prebiotics identiied (search date: September 2019) 16 systematic 
+reviews and meta-analyses published since 2010, which included 
+more than 150 RCTs (1). The WG made weak (also known as con-
+ditional) recommendations for (in descending order in terms of the 
+number of trials evaluating any given strain): Saccharomyces (S) 
+boulardii (low to very low certainty of evidence); L rhamnosus GG 
+(very low certainty of evidence); Lactobacillus reuteri (currently 
+known as Limosilactobacillus reuteri, hereafter L reuteri) DSM 
+17938 (low to very low certainty of evidence); and L rhamnosus 
+19070-2 & L reuteri DSM 12246 (very low certainty of evidence). 
+The WG made a strong recommendation against Lactobacillus 
+helveticus R0052 & L rhamnosus R0011 (moderate certainty of 
+evidence) and a weak (conditional) recommendation against Bacil-
+lus clausii strains O/C, SIN, N/R, and T (very low certainty of 
+evidence).
+In contrast, also in 2020, the American Gastroenterology 
+Association (AGA), based on the evaluation of 89 trials, made 
+a conditional recommendation against the use of probiotics in 
+children from North America with acute infectious gastroen-
+teritis (moderate quality of evidence) (14). The rationale for the 
+negative AGA recommendation was that most of the studies were 
+performed outside of North America. Moreover, 2 large, high-
+quality null trials, performed in Canada and the United States, 
+questioned the eicacy of probiotics, or more speciically the 
+probiotic strains evaluated in these studies, for the management 
+of children with acute gastroenteritis (12,15). The AGA attrib-
+uted the divergence in evidence of eicacy to diferences in host 
+genetics, diet, sanitation, and endemic enteropathogens between 
+North America and the other global regions and therefore did 
+not consider the results of RCTs conducted outside of North 
+America applicable to the scope of the AGA. Schnadower et al 
+(16) recently reported the results of a secondary pre-planned 
+analysis demonstrating that the lack of probiotics’ impact on 
+diarrheal outcomes was independent of child’s age, weight, and 
+probiotic dose. However, it is possible that also other factors 
+such as rotavirus vaccination might have afected the reported 
+diferences in eicacy.
+Since 2019, 4 meta-analyses focusing on the use of probiot-
+ics for the treatment of acute infectious diarrhea have been pub-
+lished (17–20).
+In 2020, an updated Cochrane review (17) included 82 
+RCTs (n = 12,127 participants), mainly in children (n = 11,526). 
+Overall, probiotics, as a general group, reduced the risk of diar-
+rhea lasting ≥48 hours [36 RCTs, n = 6053, relative risk (RR) 
+0.64, 95% confidence interval (CI): 0.52–0.79] and reduced the 
+mean duration of diarrhea [56 RCTs, n = 9138, mean difference 
+(MD) −21.3 hours, 95% CI: −26.9 to −15.7]. However, based 
+on the analysis of trials with low risk of bias, the reviewers 
+concluded that probiotics have no effect on the risk of diarrhea 
+lasting ≥48 hours (2 RCTs, n = 1770, RR 1.00, 95% CI: 0.91–
+1.09) or duration of diarrhea (6 RCTs, n = 3058, MD 8.64 hours, 
+95% CI: −29.4 to 12.1 hours longer). Based on a criterion of 5 
+or more RCTs reporting the primary outcomes, 3 strains were 
+evaluated. Several subgroup analyses were performed, includ-
+ing those based on individual probiotic strains. The risk of diar-
+rhea lasting ≥48 hours was reduced by L rhamnosus GG only (6 
+RCTs, n = 1557, RR 0.79, 95% CI: 0.65–0.97, substantial het-
+erogeneity X2 = 15.06, I2 = 67%). The duration of diarrhea was 
+reduced by L rhamnosus GG (14 RCTs, n = 3344, MD −22.5, 
+95% CI: −32.7 to −12.3), S boulardii (11 RCTs, n = 1617, MD 
+−24.6 hours, 95% CI: −35.3 to −13.9), and L reuteri (6 RCTs, 
+n = 433, MD −22.8 hours, 95% CI: −31.95 to −13.7). Except 
+for the latter strain, there was substantial statistical heterogene-
+ity. Note that specific strain numbers or designations were not 
+always used in the analysis, so that different strains of the same 
+species may have been analyzed together; an approach which 
+we do not advise.
+A 2021 Bayesian network meta-analysis aimed at identifying 
+the most efective probiotic strains for the treatment of acute gastro-
+enteritis (20). Its conclusion partially difered from the ESPGHAN 
+WG recommendations, as the authors included several probiotic 
+strains based on a single RCT, which is diferent from the method-
+ology applied in the present position paper.
+Two other meta-analyses focused on probiotics and synbiot-
+ics used in children living in developed countries (18) or on pro-
+biotics used in dehydrated children (19). As the results were not 
+reported based on a single probiotic strain (or their combination), 
+data from these analyses were not interpretable for the purposes of 
+this document.
+In addition, 4 other studies were published in the last 2 years 
+reporting the results of pre-planned analyses of the North American 
+pediatric RCTs whose original results were already included in an 
+earlier meta-analysis and ESPGHAN document. These studies may 
+add information about the timing of probiotic administration (21), 
+the etiology-dependent eicacy (22), and barriers to implementa-
+tion of probiotics (23). However, as most of these studies merged 
+data on diferent populations (with diferent settings, enrollment 
+criteria, and outcomes) and diferent probiotic formulations (ie, L 
+rhamnosus GG and L rhamnosus R0011 & L. helveticus R0052), 
+they were not included in single-strain evaluation, but were con-
+sidered during the methodological process of recommendation 
+building.
+Several new RCTs were identiied in the current search. In 
+addition to the strains identiied in our earlier document (1), the 
+strains evaluated include L plantarum LRCC5310 (n = 18) (24); 
+Biidobacterium (B) lactis Bi-07, L rhamnosus HN001, and L aci-
+dophilus NCFM (n = 194) (25).
+Below only strains for which recommendations were formu-
+lated are summarized.
+L rhamnosus GG (ATCC 53103)
+A single-strain meta-analysis focusing exclusively on L 
+rhamnosus GG and including 19 RCTs was identiied (26). As 
+this review did not include any new RCT compared to previous 
+meta-analyses, the results were substantially in line with previ-
+ous evidence and demonstrated that children receiving L rham-
+nosus GG had a 1-day reduction in the duration of diarrhea (15 
+RCTs, n = 3721, MD −24 hours, 95% CI: −37 to −12). In addi-
+tion, the risk of diarrhea lasting more than 3 days (OR 0.5, 95% 
+CI: 0.4–0.8) or 4 days (OR 0.6, 95% CI: 0.4–0.8) was reduced. 
+For hospitalized children, the administration of L rhamnosus 
+GG was related to a signiicant reduction in the length of hos-
+pitalization for rotavirus infection (2 RCTs, n = 115, MD −21 
+hours, 95% CI: −27 to −15) or any cause of diarrhea (6 RCT, n 
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 5]
+236 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+= 1823, MD −39 hours, 95% CI −72 to −6). The strongest efect 
+of L rhamnosus GG on the duration of diarrhea (12 RCTs, n = 
+2949, MD −23 hours, 95% CI: −36 to −9) and stool output (6 
+RCTs, n = 2262, MD −1.1, 95% CI −2 to −0.3) was demon-
+strated for doses higher than 1010 CFU/day. Overall, the included 
+studies had a low quality and showed high heterogeneity. How-
+ever, according to the authors, the diferences in methodological 
+quality could not explain the statistically signiicant heterogene-
+ity. A subgroup analysis according to the geographical setting of 
+the clinical trials demonstrated a higher eicacy of L rhamnosus 
+GG in RCTs performed in European [5 RCTs, n = 744, MD −32 
+hours (−49 to −15)] and Asian countries [6 RCTs, n = 1740, MD 
+−24 hours (−47 to −1.8)] compared to other continents provid-
+ing a possible explanation for the diferences between the ESP-
+GHAN WG and AGA recommendations.
+Of note, as a result of voting, the certainty of evidence for L 
+rhamnosus difers from that reported in our earlier document (1), 
+changing from very low certainty of evidence to low certainty of 
+evidence. Factors supporting the previous rating of a very low cer-
+tainty of evidence included a high level of heterogeneity (98%), 
+which was not justiied by the diferent settings and dates of publica-
+tion, and moderate-to-high risk of bias for most studies supporting 
+the positive recommendation. Moreover, 5 studies enrolling more 
+than half of the entire treated population (954/1866 patients receiv-
+ing L rhamnosus GG) did not demonstrate eicacy on the duration 
+of diarrhea outcome. Finally, there was serious inconsistency (even 
+in high-income settings), with the largest and most recent RCT not 
+supporting previous evidence. On the other hand, a subgroup meta-
+analysis based on geographical location showed a higher eicacy of 
+L rhamnosus GG in clinical trials performed in European countries 
+(5 RCTs) and the demonstration of a dose-response gradient. The 
+latter factors, which prevailed, were in favor of the change to a low 
+certainty of evidence.
+S boulardii
+A 2020 ESPGHAN document (1) and a 2020 meta-analysis 
+(27) based on 29 RCTs provided low- to very low-quality evidence 
+that S boulardii reduced the duration of diarrhea (23 RCTs, n = 
+3450, MD −1.06 day, 95% CI: −1.32 to −0.79; high heterogeneity); 
+reduced duration of hospitalization (8 RCTs, n = 999, MD −0.85 
+day, 95% CI: −1.35 to −0.34; high heterogeneity), and risk of diar-
+rhea on day 2 to day 7.
+Since these publications, 2 new RCTs examining efects of 
+S boulardii versus placebo or only oral rehydration solution (ORS) 
+have been published. In the study by Mourey et al (28), 100 chil-
+dren aged 3 to 36 months with acute diarrhea were randomly allo-
+cated to the S boulardii CNCM I-3799 group (at a daily dose of 5 
+billion CFU twice daily) or to the placebo group for 5 days. The 
+time to recovery from diarrhea was signiicantly shorter in the pro-
+biotic group compared with the placebo group (66 ± 12 hours vs 
+95 ± 18 hours, respectively, P = 0.0001). Faster remission in the 
+probiotic group was also demonstrated by a shorter time before the 
+irst episode of semisolid stool [−23.5 hours, MD −8 hours (−32 to 
+−16), P = 0.0001] and the faster normalization of stool consistency.
+In the second trial, 200 children were allocated to 2 equal 
+groups receiving S boulardii (250–500 mg daily, for 5 days) in addi-
+tion to ORS or ORS only. Outcome was assessed in terms of dura-
+tion of diarrhea and improvement in the number of stools per day 
+on the ifth day of presentation. Improvement was higher in the S 
+boulardii group compared with the control group [92/100 (92%) vs 
+71/100 (71%), respectively] (29). Two other reports were compara-
+tive studies between S boulardii and Lactobacillus sporogenes or a 
+multispecies probiotic product in children with acute gastroenteri-
+tis. Despite both studies showing superior eicacy of S boulardii in 
+regard to frequency and duration of diarrhea, they were not consid-
+ered because no placebo arm was included (30,31).
+In addition, a recent network meta-analysis identiied S bou-
+lardii as the most efective probiotic strain in reducing the duration 
+of diarrhea compared to placebo, based on moderate evidence (20).
+L reuteri DSM 17938
+No new evidence became available after the formulation of 
+the last recommendation. A previous meta-analysis (32) of 4 RCTs 
+(n = 347) showed that the administration of L reuteri DSM 17938 
+compared with placebo reduced the duration of diarrhea by 0.87 
+days (95% CI: −1.4 to −0.3) and increased the cure rate on day 
+2 (3 RCTs, n = 256, RR 4.5, 95% CI: 2–10). In addition, chil-
+dren hospitalized for acute gastroenteritis and receiving L reuteri 
+DSM 17938 showed a shorter length of stay (3 RCTs, n = 284, 
+MD −0.5 day, 95% CI: −1.0 to 0.0). A 2020 post hoc analysis sug-
+gested a possible role for fecal metabolomics and calprotectin in 
+the response to L reuteri DSM 17938 in children with acute gas-
+troenteritis who did or did not respond to the treatment with L 
+reuteri DSM 17938 (33). However, this study did not provide new 
+evidence about the eicacy or safety of such treatment and was 
+excluded from our analysis.
+Combination of L rhamnosus 19070-2 and  
+L reuteri DSM 12246
+In 2020, the WG formulated a weak recommendation on use 
+of the combination of L rhamnosus 19070-2 and L reuteri DSM 
+•  HCPs may recommend Lacticaseibacillus rhamnosus 
+(L rhamnosus) GG ATCC 53103 [at a dose of ≥1010 
+CFU/day, for 5–7 days] for the management of acute 
+gastroenteritis in children, since there is evidence of 
+reduced duration of diarrhea, length of hospitaliza-
+tion, and stool output.
+•  Certainty of evidence: Low.
+• Grade of recommendation: Weak.
+ •  HCPs may recommend S boulardii* (at a dose of 
+250–750 mg/day, for 5–7 days) for the management 
+of acute gastroenteritis in children, since there is evi-
+dence of reduced duration of diarrhea.
+• Certainty of evidence: Low.
+• Grade of recommendation: Weak.
+ *Note: In many trials, the strain designation of S boular-
+dii was not available. However, if available, or assessed 
+retrospectively, the strain most used was the strain 
+recently classiﬁed as S boulardii CNCM I-745.
+•  HCPs may recommend Limosilactobacillus reuteri (L 
+reuteri) DSM 17938 (at daily doses 1 × 108 to 4 × 108 
+CFU, for 5 days) for the management of acute gas-
+troenteritis in children, since there is evidence of 
+reduced duration of diarrhea.
+• Certainty of evidence: Very low.
+• Grade of recommendation: Weak.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 6]
+www.jpgn.org 
+237
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+12246, based on the indings from only 2 RCTs with a very limited 
+number of subjects (n = 112). No additional studies were identiied.
+Combination of L helveticus R0052 and  
+L rhamnosus R0011
+The analysis of 4 RCTs (n = 1133) performed for the previous 
+ESPGHAN WG recommendations version of this document demon-
+strated that, compared with placebo or no intervention, the adminis-
+tration of the combination of L helveticus R0052 and L rhamnosus 
+R0011 had no signiicant efect on the duration of diarrhea (MD 
+−0.15 day, 95% CI: −0.7 to 0.4), with substantial heterogeneity (I2 = 
+67%). The duration of hospitalization was not reported in any of the 
+trials. The pooled results of 2 RCTs (n = 950) showed no signiicant 
+diference between groups in the need for hospitalization in outpa-
+tients (RR 1.5, 95% CI: 0.9–2.55, no heterogeneity I2 = 0%).
+Bacillus clausii Strains O/C, SIN, N/R, and T
+In 2020, the WG provided a weak recommendation against the 
+use of Bacillus clausii stains intrinsically resistant to chloramphenicol 
+(O/C), novobiocin and rifampicin (N/R), tetracycline (T), or neomycin 
+and streptomycin (SIN) for the management of acute gastroenteritis in 
+children, due to the lack of consistent and methodologically rigorous 
+evidence in the pediatric age group. No other RCTs were published in 
+the last 2 years to justify a change in this recommendation. A recent in 
+vitro study demonstrated that a commercially available mix of B clausii 
+strains may be able to counteract the rotavirus-induced mucosal barrier 
+damage and inhibit the production of reactive oxygen species and pro-
+inlammatory cytokines, providing a protective efect against enterocyte 
+apoptosis (34). This evidence might encourage the development of fur-
+ther large and rigorous RCTs to investigate the eicacy of using this 
+strain in children with acute gastroenteritis living in European countries.
+Prevention of AAD
+The use of probiotics for preventing AAD was earlier 
+addressed by the ESPGHAN WG on Probiotics (2). In 2016, if the 
+use of probiotics for preventing AAD was considered because of 
+the existence of risk factors such as class of antibiotic(s), duration 
+of antibiotic treatment, age, need for hospitalization, comorbidi-
+ties, or previous episodes of AAD, the WG recommended using L 
+rhamnosus GG (moderate quality of evidence, strong recommenda-
+tion) or S boulardii (moderate quality of evidence, strong recom-
+mendation). Other strains or combinations of strains were tested, 
+but suicient evidence was still lacking. If the use of probiotics for 
+preventing Clostridioide diicile-associated diarrhea was consid-
+ered, the ESPGHAN WG suggested using S boulardii (low quality 
+of evidence, conditional recommendation).
+In contrast, the AGA (2020) did not formulate any recom-
+mendations on the use of probiotics for preventing AAD. However, 
+the AGA conditionally recommended (based on low quality of 
+evidence) certain probiotics for the prevention of C diicile infec-
+tion in children receiving antibiotic treatment. These included S 
+boulardii; or the 2-strain combination of L acidophilus CL1285 & 
+L casei LBC80R; or the 3-strain combination of L acidophilus, L 
+delbruekii subsp. bulgaricus, and B biidum; or the 4-strain combi-
+nation of L acidophilus, L delbruekii subsp. bulgaricus, B biidum, 
+and Streptococcus salivarius subsp. thermophilus (14). No strain 
+speciication was given for the 3-strain and 4-strain combinations, 
+which may contribute to confusion for implementation of these 
+recommendations.
+Since November 2016 (the date of the last search made 
+by the 2016 ESPGHAN WG), evidence has consistently shown 
+that most of the tested probiotics signiicantly reduce the risk of 
+AAD, including a 2019 Cochrane review (35). The latter identi-
+ied 33 RCTs involving 6352 participants. The probiotics assessed 
+included Bacillus spp, Biidobacterium spp, Clostridium butyri-
+cum, Lactobacilli spp, Lactococcus spp, Leuconostoc cremoris, 
+Saccharomyces spp, or Streptococcus spp, alone or in combination. 
+At evaluation after 5 days to 12 weeks from enrollment, a statis-
+tically signiicant reduction in the incidence of AAD was found 
+in the probiotic groups compared with the control groups (8% vs 
+19%, respectively, RR 0.45, 95% CI: 0.36–0.56), with a number 
+needed to treat (NNT) of 9 (95% CI: 7–13). In the high dose studies 
+(≥5 billion CFU per day), the incidence of AAD was reduced in the 
+probiotic groups compared with the control groups (13% vs 23%, 
+respectively, RR 0.54, 95% CI: 0.4–0.7, NNT 6, 95% CI: 5–9).
+Single-strain meta-analyses found that, compared with 
+placebo or no intervention, probiotics such as S boulardii (27) or 
+L rhamnosus GG (36), typically administered simultaneously or 
+early following initiation of antibiotic therapy, reduced the risk of 
+AAD. A 2021 systematic review of 33 RCTs conirmed the evi-
+dence-based eicacy of S boulardii CNCM I-745 or L rhamnosus 
+GG in preventing AAD in outpatients and hospitalized children 
+(37). However, in a scoping review performed to inform develop-
+ment of a core outcome set, substantial heterogeneity in the deini-
+tion, duration, and severity of diarrhea as well as in outcomes was 
+noted (38).
+•  HCPs may recommend the combination of L rham-
+nosus 19070-2 and L reuteri DSM 12246 (at a dose of 
+2 × 1010 CFU for each strain, for 5 days) for the man-
+agement of acute gastroenteritis in children, since 
+there is evidence of reduced duration of diarrhea.
+• Certainty of evidence: Very low.
+• Grade of recommendation: Weak.
+•  HCPs should not recommend the combination of L hel-
+veticus R0052 and L rhamnosus R0011 for the manage-
+ment of acute gastroenteritis due to the lack of efﬁcacy.
+• Certainty of evidence: Moderate.
+• Grade of recommendation: Strong.
+•  HCPs may not recommend B clausii strains O/C, SIN, 
+N/R, and T for the management of acute gastroen-
+teritis in children due to the lack of efﬁcacy.
+• Certainty of evidence: Very low.
+• Grade of recommendation: Weak.
+•  If the use of probiotics for preventing AAD is con-
+sidered because of the existence of risk factors such 
+as class of antibiotic(s), duration of antibiotic treat-
+ment, age, need for hospitalization, comorbidities, 
+or previous episodes of AAD, HCPs may recommend 
+high doses (≥5 billion CFU per day) of S boulardii* 
+or L rhamnosus GG started simultaneously with anti-
+biotic treatment to prevent AAD in outpatients and 
+hospitalized children.
+• Certainty of evidence: Moderate.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 7]
+238 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+Prevention of Nosocomial Diarrhea
+Gastrointestinal infections account for the majority of hos-
+pital-acquired or healthcare-associated infections that occur more 
+than 48 hours after the admission of children to the hospital or 
+within 48 hours after discharge. Up to one-third of inpatient chil-
+dren may present with an episode of nosocomial diarrhea.
+In 2018, the WG provided recommendations about the use 
+of probiotics in the prevention of nosocomial diarrhea, based on a 
+systematic review and meta-analysis of 8 RCTs (search date: Janu-
+ary 2017) (3). The quality of the included studied varied, but none 
+of the included studies had a low risk of bias. Overall, the admin-
+istration of probiotics was not associated with a signiicant reduc-
+tion in the risk of nosocomial diarrhea of any etiology, nosocomial 
+rotaviral diarrhea, or stool shedding. However, a strain-speciic 
+analysis supported the use of selected probiotics for the duration 
+of the hospital stay.
+L rhamnosus GG
+According to a 2011 meta-analysis, the administration of L 
+rhamnosus GG during hospitalization may reduce the risk of noso-
+comial diarrhea (2 RCTs n = 823, RR 0.4, 95% CI: 0.2–0.6, NNT 
+12, 95% CI: 8–21) and symptomatic rotavirus gastroenteritis (3 
+RCTs, n = 1043, RR 0.5, 95% CI: 0.3–0.9) (39). No other RCTs 
+using L rhamnosus GG as a single strain were published in recent 
+years.
+A 2016 RCT identiied in the 2018 systematic review and 
+meta-analysis demonstrated a signiicant reduction in the incidence 
+of nosocomial diarrhea in children receiving a mixture of L rham-
+nosus GG, vitamin B (B1, B2, B6, B12), vitamin C and zinc com-
+pared to placebo (4% vs 24%, respectively, odds ratio OR, 0.14, 
+95% CI: 0.03–0.69; P = 0.007) (40). However, the use of such a 
+mixture does not allow one to estimate the direct efect of L rham-
+nosus GG, so it was excluded from analysis in the 2018 review. A 
+new RCT investigating the eicacy and tolerability of L rhamnosus 
+GG for the prevention of nosocomial diarrhea in children was con-
+ducted in France between 2019 and 2020, but the results are not yet 
+available (NCT04628819).
+L reuteri DSM 17938
+No new studies have been published after the publication of 
+the previously identiied 2018 meta-analysis that included 2 RCTs 
+(n = 290) with a low risk of bias and demonstrating no efect of L 
+reuteri DSM 17938 in the prevention of overall nosocomial diar-
+rhea (RR 1.11, 95% CI: 0.68–1.81) or rotavirus-induced diarrhea 
+infection (RR 1.14, 95% CI: 0.52–2.52).
+Prevention of NEC
+In 2020, both ESPGHAN (4) and AGA (14) published their 
+recommendations on the use of probiotics for preventing NEC. 
+While both were based on pair-wise systematic reviews and net-
+work meta-analyses, their conclusions difered.
+The 2020 ESPGHAN recommendations were largely based 
+on the systematic review and strain-speciic network meta-analysis 
+by van den Akker et al (41). ESPGHAN formulated conditional 
+recommendations for L rhamnosus GG ATCC 53103 (low certainty 
+of evidence) and the combination of B infantis BB-02, B lactis 
+BB-12, and Str thermophilus TH-4 (low certainty of evidence). 
+No recommendation for or against was formulated with regard to 
+either L reuteri DSM 17938 (very low certainty of evidence) or 
+the combination of B biidum NCDO 1453 & L acidophilus NCDO 
+1748 (very low certainty of evidence). Conditional recommenda-
+tions were formulated against B breve BBG-001 and S boulardii 
+CNCM I-745.
+The 2020 AGA recommendations (14) were based on the 
+systematic review and network meta-analysis by Morgan et al 
+(42), although the analyses were not strain-speciic, but merely 
+species-speciic or even grouped by genus only. This approach thus 
+difered considerably from ESPGHAN’s previous position paper, 
+which resulted in diferent recommendations. From evidence grad-
+ing collected by AGA, the combinations of any Lactobacillus spp 
+and any Biidobacterium spp in general seemed most efective and 
+were graded as high certainty of evidence. This was followed by 
+a recommendation on the use of a B lactis species with moder-
+ate certainty of evidence. Another recommendation with moderate 
+certainty of evidence was for usage of L reuteri species (strains 
+DSM 17938 and ATCC 55730 were analyzed together). The posi-
+tive recommendation by AGA (despite a severe risk of bias) may 
+also be due to their inclusion of 2 very small studies (n < 60), in 
+which a dramatically high baseline incidence of NEC was seen in 
+the placebo groups (25% and 37% in infants weighing on average 
+1350 g at birth) (43,44). Also with moderate certainty of evidence 
+is AGA’s recommendation on any L rhamnosus species (ATCC 
+53103, ATCC A07FA, and LCR 35 strains were analyzed together), 
+whereas ESPGHAN’s recommendation was strain speciic on the 
+“GG” strain (ATCC 53103) only.
+The baseline incidence of NEC difered, sometimes con-
+siderably, in various trials. There is no standardized universally 
+accepted mathematical approach to take all these heterogeneities 
+into consideration. In addition, the application of network meta-
+analysis techniques and inclusion criteria for meta-analyses such 
+as language restrictions may difer. These aspects, together with 
+ESPGHAN’s approach of being strictly strain-speciic, resulted in 
+discrepancies between the 2020 recommendations of ESPGHAN 
+(4) and AGA (14) on the use of probiotics for preventing NEC with 
+regard to the recommended probiotic strains. Until more evidence 
+is available, HCPs will have to decide which recommendations to 
+follow, based on geographical considerations and evaluation of the 
+available data.
+For this document, all published systematic reviews and/or 
+meta-analyses, as well as subsequently published RCTs that studied 
+the use of probiotics in preterm infants, were considered if they 
+were not considered in the 2020 ESPGHAN recommendation (4). 
+•  HCPs may recommend L rhamnosus GG (at least 109 
+CFU/day) for the duration of the hospital stay for the 
+prevention of nosocomial diarrhea in children.
+• Certainty of evidence: Moderate.
+• Grade of recommendation: Weak.
+• Grade of recommendation: strong.
+*Note: In many of the trials, the strain designation of 
+S boulardii was not available. However, if available, 
+or assessed retrospectively, the most used strain was 
+the strain recently designated as S boulardii CNCM 
+I-745.
+•  HCPs should not recommend L reuteri DSM 17938 
+for the prevention of nosocomial diarrhea in chil-
+dren due to the lack of efﬁcacy.
+• Certainty of evidence: High.
+• Grade of recommendation: Strong.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 8]
+www.jpgn.org 
+239
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+In addition, ClinicalTrials.gov was searched for important ongoing 
+trials.
+Whereas recently published systematic reviews (45–48) do 
+not alter the 2020 ESPGHAN recommendations, they are discussed 
+below. A 2020 Cochrane review provided an excellent overview 
+(45). However, the authors did not perform strain-speciic analyses 
+(only at the genus level) and did not recommend any speciic prod-
+uct. The authors also recognized funnel plot asymmetry suggesting 
+publication bias. Given the low to moderate level of certainty about 
+the efect of probiotics on the risk of NEC, the need for further, 
+large, high-quality trials was regarded as necessary.
+A 2021 network meta-analyses by Beghetti et al (46) also 
+did not strictly adhere to a species-speciic approach. Overall, L 
+acidophilus, B lactis BB-12 or B94, L reuteri DSM 17938/ATCC 
+55730, and multispecies products were found to reduce all stages 
+of NEC. Subgroup analyses focused on feeding type (exclusively 
+human milk vs formula feeding or a mixture) were also performed, 
+based on 13 studied probiotic categories. For B lactis Bb-12/B94, 
+there was a relatively large discrepancy in efect size, so that the 
+beneicial efect of these strains on NEC reduction was larger in 
+exclusively human milk fed infants than in those who received pre-
+term formula.
+A 2021 network meta-analysis by Chi et al (47) included 
+analyses across diferent probiotics at the genus level and also 
+synbiotics. Their conclusion was that prebiotics in combination 
+with Lactobacillus spp and Biidobacterium spp were most eica-
+cious in reducing NEC incidence, morbidity or mortality. Lacto-
+bacilli spp plus prebiotics performed the best, although it must be 
+noted however that only 377 infants were randomized in the 2 tri-
+als investigating this combination. Regarding probiotic treatment 
+only, the most eicacious treatment regarding NEC was the com-
+bination of biidobacterial spp plus streptococci spp, which are in 
+fact the studies investigating B infantis BB-02, B lactis BB-12, 
+and Str thermophilus TH-4, also recommended in the ESPGHAN 
+position paper.
+A 2020 systematic review and meta-analysis by Gao et al 
+(48) focused on S boulardii only. Based on the evidence from 10 
+RCTs (n = 1264), of which 7 were conducted in China, S bou-
+lardii was recommended for NEC prevention in preterm infants. 
+However, due to the risk of contamination, the European Medicine 
+Agency amended the product information with a contraindication 
+to the use of S boulardii in patients (not speciically neonates) who 
+are critically ill, immunocompromised, or in those who have a cen-
+tral venous catheter (49).
+Three new RCTs were identiied. The irst RCT found no 
+efect of L reuteri DSM 17938 compared with placebo on NEC 
+stage >2 (7/68 vs 6/66, respectively, P = 0.74) (50). The 2 other 
+studies, on new single and multispecies probiotics, were underpow-
+ered with regard to NEC and in addition did not ind signiicant 
+efects (51,52).
+Overall, the 2020 ESPGHAN recommendations (4) are still 
+valid.
+H pylori Infection
+Unsatisfactory H pylori eradication rates and therapy-asso-
+ciated side efects remain a problem. Several systematic reviews 
+and network meta-analyses, focusing mainly on adults, have 
+shown that probiotic supplementation improves eradication rates 
+and/or reduces side efects of H pylori treatment (53,54). Accord-
+ing to the 2017 ESPGHAN/NASPGHAN guidelines on the man-
+agement of H pylori in children and adolescents (55), the routine 
+addition of either single or combination probiotics to eradication 
+therapy to reduce side efects and/or improve eradication rates is 
+currently not recommended. This contrasts with the recommenda-
+tions in adults (56).
+For this document, 4 systematic reviews with meta-analyses, 
+some additionally with network meta-analyses, were identiied 
+(30,57–59). However, 1 review focused on Asian children only 
+(58). Except for S boulardii, the review included data on strains 
+which were not well identiied; thus, only data on S boulardii were 
+considered. Two reviews focused on S boulardii in adults and chil-
+dren (30,59), thus, only pediatric data were considered. One review 
+focused on Lactobacillus-supplemented triple therapy for H pylori 
+infection (60). However, none of the probiotics was evaluated in 
+more than 1 trial, thus, none met our inclusion criteria.
+Overall, probiotics (as a group) and speciic probiotics have 
+been shown to be efective in increasing the H pylori eradication 
+rate [however, it was still below the desired level (≥90%) of suc-
+cess] and in reducing gastrointestinal adverse efects associated 
+with H pylori infection therapies. Most of the strains (single or in 
+combinations) were studied in single trials only. With few excep-
+tions, no strain speciications were given. Several of the studies 
+were published in local (mainly Chinese) journals and were only 
+identiied through one of the meta-analyses performed by the Chi-
+nese authors (57). S boulardii was the only well-identiied probiotic 
+which was included in more than 2 RCTs.
+For the complete list of probiotics (in alphabetical order) 
+which were included in the reviews, and for a summary of results of 
+the included systematic reviews, please see Table S2, Supplemental 
+Digital Content, http://links.lww.com/MPG/C954. The remainder 
+of this section is dedicated to studies providing information about 
+use of S boulardii in patients with H pylori infection for eradication 
+and decreasing therapy-related adverse efects.
+S boulardii
+Two systematic reviews with meta-analyses focused on S 
+boulardii for eradication of H pylori infection (30,59). The irst 
+review (59) identiied 11 RCTs (n = 2190), among them 2 RCTs 
+were undertaken exclusively in children (n = 330; age range: 
+3–18 years) (61,62). The second review (30) identiied 18 RCTs 
+(n = 3592), among them 3 RCTs in children, including 1 trial not 
+For reducing the risk of NEC in preterm infants, pro-
+vided all safety issues are met, HCPs may recommend:
+ • L rhamnosus GG ATCC53103 (at a dose ranging 
+from 1 × 109 CFU to 6 × 109 CFU) (certainty of evi-
+dence: low; grade of recommendation: weak) or
+ • Combination of B infantis BB-02, B lactis BB-12, 
+and Str thermophilus TH-4 at 3.0 to 3.5 × 108 CFU 
+(of each strain) (certainty of evidence: low; grade of 
+recommendation: weak).
+Due to insufﬁcient evidence, no recommendation can 
+be made for or against
+ • L reuteri DSM 17938 (certainty of evidence: very 
+low) or
+ • Combination of B biﬁdum NCDO 1453 and L aci-
+dophilus NCDO 1748 (certainty of evidence: very 
+low to moderate)
+Due to the lack of efﬁcacy, HCPs may not recommend:
+• B breve BBG-001 (certainty of evidence: low to mod-
+erate; grade of recommendation: weak)
+• S boulardii (certainty of evidence: very low to mod-
+erate; grade of recommendation: weak).
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 9]
+240 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+included in the earlier review as it was published subsequently (63). 
+In children, compared with placebo or no intervention, S boular-
+dii given along with standard triple therapy signiicantly reduced 
+the risk of overall H pylori therapy-related adverse efects and 
+increased eradication rate (3 RCTs, n = 372, RR 1.14, 95% CI: 
+1.03–1.25) (30). While in both analyses, the addition of probiot-
+ics to standard triple therapy signiicantly increased the eradication 
+rate, it was still below the desired level (≥90%) of success.
+In the 2017 meta-analysis, Feng et al (57) found that, com-
+pared with placebo or no intervention, S boulardii given along 
+with triple therapy signiicantly reduced the risk of overall H pylori 
+therapy-related adverse efects (3 RCTs, n = 366, RR 0.37, 95% CI: 
+0.24–0.60, I2 = 0%), particularly of diarrhea (4 RCTs, n = 576, RR 
+0.50, 95% CI: 0.36–0.68, I2 = 0, and bloating (2 RCTs, n = 300, RR 
+0.40, 95% CI: 0.22–0.72, I2 = 0), but had no efect on abdominal 
+pain (2 RCTs, n = 322, RR 0.62, 95% CI: 0.26–1.46, I2 = 67%) and 
+nausea and vomiting (3 RCTs, n = 382, RR 0.81, 95% CI: 0.64–
+1.02, I2 = 0%) (57).
+Similarly, Zhou et al (30) reported that S boulardii reduced 
+the incidence of total side efects (RR 0.47, 95% CI: 0.36–0.61; 
+low quality evidence), especially diarrhea (RR 0.33, 95% CI: 
+0.23–0.47; low quality evidence) and constipation (RR 0.37, 95% 
+CI: 0.23–0.57; moderate quality evidence). Reduced risk of overall 
+H pylori therapy-related adverse efects, particularly diarrhea and 
+nausea, were also reported by Szajewska et al (59). However, in 
+both meta-analyses, children and adults were evaluated jointly. Two 
+2017 network meta-analyses of trials in children concluded that S 
+boulardii signiicantly reduced bloating (P score = 0.76) (57,58).
+Inﬂammatory Bowel Diseases
+For this document, 2 systematic reviews and meta-analyses 
+were included (64,65) which evaluated the combination of probiot-
+ics (L paracasei, L plantarum, L acidophilus, L delbrueckii subsp. 
+bulgaricus, B longum, B breve, B infantis, Streptococcus salivarius 
+subsp. thermophilus) (66) or L reuteri ATCC 55730 (67).
+Ulcerative Colitis
+A 2020 Cochrane review focusing on the effects of pro-
+biotics for induction of remission concluded that low-certainty 
+evidence suggests that probiotics may induce clinical remission 
+in patients with active ulcerative colitis when compared to pla-
+cebo (64). However, specific strain(s) were not identified. Only 
+2 pediatric RCTs were included. A 2009 trial by Miele et al (66) 
+randomized 29 children with newly diagnosed ulcerative colitis 
+to receive a mixture of 8 strains (n = 14) [4 strains of Lactoba-
+cillus (L paracasei, L plantarum, L acidophilus, L delbrueckii 
+subsp. bulgaricus), 3 strains of Bifidobacterium (B longum, B 
+breve, and B infantis), and 1 strain of Streptococcus salivar-
+ius subsp. thermophilus. 900 billion viable lyophilized bacte-
+ria; weight-based dose, range: 450–1800 billion bacteria/day] 
+combined with steroids for induction and 5-aminosalicylic acid 
+(5-ASA) for maintenance therapy or placebo (N = 15), with 
+placebo combined with similar medical therapy. In the probiotic 
+group compared with the placebo group, the rate of remission 
+was significantly higher [13 (92.8%) vs 4 (26.7%), respectively, 
+P < 0.001], and fewer patients relapsed during 1 year of follow-
+up [3 (21.4%) vs 11 (73.3%), respectively, P = 0.014, RR 0.32, 
+95% CI: 0.025–0.773; NNT = 2]. At 6 months, 12 months, or 
+at time of relapse, endoscopic and histological scores were sig-
+nificantly lower in the probiotic group than in placebo group (P 
+< 0.05). There were no biochemical or clinical adverse events 
+related to the probiotic therapy.
+A 2012 trial by Oliva et al (67) randomized 40 children with 
+mild to moderate distal ulcerative colitis to receive an enema con-
+taining 1010 CFU of L reuteri ATCC 55730 or placebo for 8 weeks, 
+in addition to oral mesalazine. Thirty-one patients completed the 
+trial. The Mayo score (including clinical and endoscopic features) 
+decreased signiicantly in the L reuteri group (3.2 ± 1.3 vs 8.6 ± 0.8, 
+P < 0.01) compared with the placebo group (7.1 ± 1.1 vs 8.7 ± 0.7, 
+NS). Furthermore, the histological score signiicantly decreased 
+only in the L reuteri group (0.6 ± 0.5 vs 4.5 ± 0.6, P < 0.01) (pla-
+cebo: 2.9 ± 0.8 vs 4.6 ± 0.6, NS). At the post-trial evaluation of 
+cytokine mucosal expression levels, interleukin (IL)-10 was signii-
+cantly increased (P < 0.01), whereas IL-1b, tumor necrosis factor 
+alpha, and IL-8 were signiicantly decreased (P < 0.01) only in the 
+L reuteri group.
+Another 2020 Cochrane review (65) focused on probiot-
+ics for maintenance of remission in ulcerative colitis. This review 
+found no diference between probiotics versus placebo, probiotics 
+versus 5-ASA, and probiotics + 5-ASA versus ASA alone. Data 
+were limited, particularly for pediatric patients. Only 1 trial (68) 
+intended to include children (>13 years); however, the overall mean 
+age was 43.9 ± 14.8 years; thus, it is unclear whether children were 
+recruited.
+In addition to the 2 Cochrane reviews, other systematic 
+reviews were identified. One of them focused on the aforemen-
+tioned mixture of 8 probiotic strains (69); however, it excluded 
+pediatric trials. A 2019 review by Astó et al (70) did not include 
+any new studies compared with the Cochrane review. Other 
+meta-analyses (71,72) only addressed ill-defined Chinese pro-
+biotic preparations, precluding them from evaluation in this 
+document.
+According to our methodology, at least 2 RCTs are needed 
+to formulate a recommendation. Thus, no recommendation for the 
+use of probiotics in the treatment of children with ulcerative colitis 
+was formulated. This difers from the European Crohn’s and Colitis 
+Organization (ECCO) and ESPGHAN guidelines (73,74) accord-
+ing to which the use of the eight strain probiotic combination (L 
+paracasei subsp. paracasei DSM 24733, L plantarum DSM 24730, 
+L acidophilus DSM 24735, L delbrueckii subsp. bulgaricus DSM 
+24734, B longum subsp. longum DSM 24736, B breve DSM 24732, 
+B longum subsp. infantis DSM 24737, and S salivarius subsp. ther-
+mophilus DSM 24731) or Escherichia coli Nissle 1917 or L reuteri 
+ATCC 55730 combined with drug therapy may be considered for 
+induction of remission of ulcerative colitis. However, the ECCO/
+ESPGHAN guidelines and current document are based on diferent 
+methodology.
+• In children with H pylori infection, HCPs may rec-
+ommend, along with H pylori therapy, S boulardii* for 
+increasing the eradication rates and decreasing ther-
+apy-related gastrointestinal adverse effects.
+• Certainty of evidence: Very low.
+• Grade of recommendation: Weak.
+*Note: In many trials, the strain designation of S 
+boulardii was not available. However, if available, or 
+assessed retrospectively, the strain most used was the 
+strain recently classiﬁed as S boulardii CNCM I-745.
+•  No recommendation can be made for or against the 
+use of probiotics studied so far in the management 
+of children with ulcerative colitis due to insufﬁcient 
+evidence.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 10]
+www.jpgn.org 
+241
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+Crohn Disease
+A 2020 Cochrane review concluded that evidence is vague 
+with regard to the eicacy or safety of probiotics, when compared 
+with placebo, for induction of remission in patients with Crohn’s 
+disease (75). No new RCTs have since been published. There is no 
+evidence to change earlier recommendations developed by ESP-
+GHAN (alone or in cooperation with ECCO).
+Functional Gastrointestinal Disorders 
+(Disorders of Gut–Brain Interaction)
+Infant Colic
+For this document, 10 systematic reviews and/or meta-anal-
+yses (76–85) focusing on infant colic were identiied. For the list 
+of probiotics (in alphabetical order) which were included in the 
+reviews, please see Table S2, Supplemental Digital Content, http://
+links.lww.com/MPG/C954.
+Treatment of Infant Colic
+L reuteri DSM 17938
+L reuteri DSM 17938 is the most studied probiotic for 
+the management of infant colic (86–94). A 2018 individual par-
+ticipant data meta-analysis, which included data from 4 RCTs 
+involving 345 infants with colic, documented that in breastfed 
+infants, the administration of L reuteri DSM 17938 at a dose 
+1 × 108 CFU signiicantly increased the treatment success (deined 
+as at least 50% reduction in crying time from baseline) at all time 
+points (day 21 adjusted incidence ratio was 1.7, 95% CI: 1.4–2.2) 
+and reduced crying and/or fussing time all time points (day 21 
+adjusted MD in change from baseline −25.4 minutes, 95% CI: 
+−47.3 to −3.5). The role of L reuteri DSM 17938 in formula-fed 
+infants is less clear (76). Other meta-analyses have conirmed 
+these indings (80,82).
+Biidobacterium animalis subsp. lactis BB-12
+A 2020 RCT performed in Italy (95) in 80 breastfed infants 
+with excessive crying and fussing (possibly related to infant colic 
+according to the Rome III Criteria) found that compared with pla-
+cebo, the administration of B lactis BB-12 (109 CFU/day, for 28 
+days) increased the treatment success rate, deined as a reduction in 
+the daily crying time ≥50% (RR 2.46, 95% CI: 1.5–3.95). For cry-
+ing time, the mean change from baseline was signiicantly higher 
+in the probiotic group compared with the placebo group (−130 ± 44 
+minutes vs −85 ± 51 minutes, MD 45 minutes, 95% CI: −25 to −66).
+A 2021 RCT performed in China (96) in 192 full-term 
+infants ≤7 weeks, breastfed, with colic according to the Rome III 
+criteria found that compared with placebo, administration of B lac-
+tis BB-12 (1 × 109 CFU/day) for 3 weeks signiicantly increased the 
+treatment success (deined as earlier; RR 2.8, 95% CI: 1.9–4.2). 
+There was also a signiicant diference between the B lactis BB-12 
+and placebo groups in mean daily crying time at the end of inter-
+vention (60.8 ± 23.4 vs 95.8 ± 26.0, MD −35 minutes, 95% CI: −42 
+to −28).
+Other Strains
+Data on other probiotics, either positive or negative, are too 
+limited to allow one to draw reliable conclusions (79,95,97,98).
+Preventing Infant Colic
+A 2019 Cochrane review identiied 6 RCTs (involving 1886 
+infants) which compared probiotics with placebo for preventing 
+infantile colic (78). The pooled results of 3 RCTs in which L rham-
+nosus GG and 2 multi-strain products (one included 4 strains of 
+Lactobacilli, 3 strains of Biidobacteria & Str thermophilus DSM 
+24731; and another included L rhamnosus GG, L rhamnosus 
+LC705, B breve Bb99, and Propionibacterium freudenreichii ssp. 
+Shermanii) were assessed found a similar occurrence of new cases 
+of colic in the probiotics and placebo groups. The pooled results 
+of 3 other RCTs found, in the probiotics group compared with 
+the placebo group, reduced duration in crying time at study end 
+(MD −32.6 min/day, 95% CI: −55.6 to −9.5). However, one of the 
+included studies evaluated a prebiotic formula with added probiotic 
+strains, thus, this was a synbiotic intervention. At the strain level, 
+the efect was particularly evident for L reuteri DSM 17938 admin-
+istered at a dose of 1 × 108 CFU to newborns each day for 90 days 
+(1 RCT, n = 589) (99). Other probiotics were also studied; however, 
+evidence is limited (100).
+Functional Abdominal Pain Disorders
+Until now, there have been no speciic recommendations 
+from ESPGHAN or NASPGHAN on the use probiotics for the 
+management of FAPD. The AGA 2020 guidelines noted with 
+regard to irritable bowel syndrome (IBS) that there are many stud-
+ies; however, signiicant heterogeneity in study design, outcomes, 
+and probiotics used resulted in no recommendations for the use of 
+probiotics in symptomatic children and adults with IBS (except in 
+the context of a clinical trial) (14).
+For this document, 3 recent systematic reviews and meta-
+analyses (101–103) were identiied. The reviews included studies 
+in children with disorders based on various criteria such as the 
+•  No recommendation can be made for or against 
+the use of probiotics studied so far in the treatment 
+of children with Crohn disease due to insufﬁcient 
+evidence.
+•  HCPs may recommend L reuteri DSM 17938 (108 
+CFU/day for at least 21 days) for the management 
+of infant colic in breastfed infants.
+• Certainty of evidence: Moderate.
+• Grade of recommendation: Weak.
+•  No recommendation can be made for or against the 
+use of L reuteri DSM 17938 for the management of 
+infant colic in formula-fed infants due to insufﬁcient 
+evidence.
+•  HCPs may recommend B lactis BB-12 (108 CFU/day, 
+for 21–28 days) for the management of infant colic 
+in breastfed infants.
+• Certainty of evidence: Moderate.
+• Grade of recommendation: Weak.
+•  No recommendation can be made for or against the 
+use of any of the probiotics studied so far for pre-
+venting infant colic due to insufﬁcient evidence.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 11]
+242 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+Rome II or Rome III criteria or the criteria were not mentioned, 
+hence, thereafter we use only the term FAPD. The following pro-
+biotics (in alphabetical order) were evaluated: Bacillus coagulans 
+unique IS2 (104); B infantis M-63, B breve M-16V, and B longum 
+BB536 (105); B lactis B94 (106); L reuteri (strain not speciied) 
+(107); L reuteri DSM 17938 (6 RCTs) (108–113); L rhamnosus 
+GG (5 RCTs) (114–118); Str thermophilus BT01, B breve BB02, B 
+longum BL03, B infantis BI04, L acidophilus BA05, L plantarum 
+BP06, L paracasei BP07, L delbrueckii subsp. bulgaricus BD08 
+[the strain designation was only given in the review, but not in the 
+original paper (119)]. The only probiotics which were evaluated in 
+more than 2 RCTs were L reuteri DSM 17938 (6 RCTs) and L 
+rhamnosus GG (5 RCTs).
+A 2018 systematic review concluded that there is insui-
+cient evidence for the use of probiotics (as a group) in children 
+with FAPD (101). Only L rhamnosus GG (3 RCTs) reduced the 
+frequency and intensity of abdominal pain in children with IBS. 
+Another review (120) also found that the use of L rhamnosus GG 
+moderately increased treatment success in children with FAPD, par-
+ticularly among children with IBS (3 RCTs, n = 167; RR 1.70, 95% 
+CI: 1.27–2.27). The daily dose of L rhamnosus GG ranged from 109 
+CFU twice daily to 3 × 109 CFU twice daily. In children with IBS, 
+a multicenter, crossover RCT using a mixture of 8 probiotic strains 
+was found to be safe and more efective than placebo in ameliorat-
+ing symptoms and improving quality of life; however, there was 
+discordance between the strains listed in the original paper and in 
+the review (119). Evidence on L reuteri DSM 17938 (5 RCTs using 
+diferent methods of pain assessment) for treating FAPD is incon-
+sistent. Compared with placebo, L reuteri DSM 17938 improved 
+abdominal pain in 3 RCTs (108,110,121), reduced functional dis-
+ability but not abdominal pain in 1 RCT (112), and was no better 
+than placebo in 1 trial (109). Mixtures of B infantis, B breve, and B 
+longum (1 RCT) or B lactis (1 RCT) were not efective in children 
+with FAPD (105).
+A 2021 systematic review and meta-analysis on the role of 
+probiotics in the treatment of functional abdominal pain (FAP) in 
+children found no irm evidence on the eicacy of probiotics (103). 
+Nine RCTs (total 702 children, 506 with functional abdominal 
+pain; 4–18 years) were identiied. L reuteri DSM 17938 was admin-
+istered in 6 RCTs (108–112,122) and L rhamnosus GG in 3 RCTs 
+(114–116). Compared with placebo, in children taking L reuteri 
+DSM 17938, there was signiicant reduction in pain intensity (6 
+RCTs, n = 380, MD −1.24, 95% CI: −2.35 to −0.13) and an increase 
+in number of days without pain (2 RCTs, n = 101, MD 26.42 days, 
+95% CI: 22.67–30.17). For all other outcomes, there was no difer-
+ence between the probiotic and placebo groups.
+Another 2021 systematic review and meta-analysis evalu-
+ated the eicacy of probiotic adjuvant therapy in childhood IBS 
+(102). Nine RCTs were included, involving 651 participants 
+(104–107,114,115,117–119). Of note, 3 of these RCTs included 
+mixed populations, namely subjects with IBS as well as subjects 
+with FAP (107,114,115). There was a wide diversity in the use of 
+the probiotic strains. L rhamnosus GG was investigated in 4 trials 
+(105,114,115,118), L reuteri in one (107) and Bacillus coagulans 
+unique IS2 in one (104). A probiotic mixture was used in 2 tri-
+als (118,119). The review concluded that probiotics are efective at 
+treating abdominal pain caused by IBS in children. No signiicant 
+correlation between abdominal pain and probiotic dose was found. 
+However, the included studies were heterogeneous with regards to 
+the probiotic and the placebo regimens, duration of the interven-
+tion, and the evaluation tool used. This heterogeneity makes it dii-
+cult to recommend a single probiotic strain, despite some evidence 
+to support its use. Many studies either did not report a sample size 
+calculation or were underpowered. These limitations would neces-
+sitate a cautious interpretation of the results.
+Functional Constipation
+According to 2014 ESPGHAN/NASPGHAN recommenda-
+tions, probiotics should not be used in the treatment of functional 
+constipation in children (123). For the current document, 3 system-
+atic reviews were analyzed (101,124,125). For the list of probiotics 
+which were included in the reviews, please see Table S2, Supple-
+mental Digital Content, http://links.lww.com/MPG/C954.
+The most recent (2022) systematic review and meta-analysis 
+(125), which evaluated 12 studies, including 965 children (126–137), 
+and 2 follow-up studies, including 166 children (138,139), investi-
+gated the efect of (or the addition of) probiotics versus placebo or 
+laxative treatment. Studies were heterogeneous with respect to study 
+design, diagnostic criteria for functional constipation, study popula-
+tion, study intervention, duration of treatment and follow-up, and out-
+come measures. Additionally, an overall high risk of bias was found 
+across most studies. Therefore, the evidence found in this systematic 
+review should be interpreted with caution. The authors concluded that 
+more well-designed high-quality RCTs concerning the use of pro-
+biotics for management of children with functional constipation are 
+needed before changes in current guidelines are indicated.
+The only probiotics which were evaluated in at least 2 RCTs 
+were L casei rhamnosus Lcr35 (2 RCTs) (129,140) and L reuteri 
+DSM 17938 (5 RCTs) (127,130,132,133,137).
+L casei rhamnosus Lcr35
+Pooled results of 2 RCTs showed no signiicant diference 
+between the L casei rhamnosus Lcr35 and placebo groups with respect 
+to treatment success (n = 121, RR 0.27, 95% CI: 0.52–1.06) or defeca-
+tion frequency per week (n = 108, SMD 0.24, 95% CI: −2.8 to 3.2).
+L reuteri DSM 17938
+Two RCTs concluded that L reuteri DSM 17938 was not suc-
+cessful as an additional treatment on any reported outcomes (132,137). 
+The authors of one trial did not compare outcomes between treatment 
+groups (L reuteri DSM 17938 and laxative therapy) (133).
+Defecation frequency was higher in the L reuteri DSM 
+17938 group than in the placebo in one trial (130) and similar to 
+that in the control groups in the remaining studies (132,133,137).
+The indings of the systematic reviews support current ESP-
+GHAN/NASPGHAN recommendations that probiotics should not 
+be used in the treatment of functional constipation in children (123).
+HCPs may recommend L reuteri DSM 17938 (at a 
+dose of 108 CFU to 2 × 108 CFU/day) for pain intensity 
+reduction in children with FAPD.
+ • Certainty of evidence: Moderate.
+ • Grade of recommendation: Weak.
+HCPs may recommend L rhamnosus GG (at a dose of 
+109 CFU to 3 × 109 CFU twice daily) for the reduction 
+of pain frequency and intensity in children with IBS.
+ • Certainty of evidence: Moderate.
+ • Grade of recommendation: Weak.
+• HCPs may not recommend the use of probiotics 
+evaluated so far as a single or adjuvant therapy for 
+treatment of functional constipation in children due 
+to the lack of efﬁcacy.
+• Certainty of evidence: Moderate.
+• Grade of recommendation: Weak.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 12]
+www.jpgn.org 
+243
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+Celiac Disease
+Recent literature suggests that the intestinal microbiota is 
+altered in patients with celiac disease and may be involved in the 
+pathogenesis as well as in the response to a gluten-free diet (141). 
+Overall, there were no safety concerns in any of the RCTs investigat-
+ing the efects of probiotics on celiac disease. However, there was no 
+evidence of an efect on clinical outcomes, except for 1 study dem-
+onstrating that the administration of Biidobacterium longum CECT 
+7347 in children with newly diagnosed celiac disease may be associ-
+ated with better short-term height gain (142). One systematic review 
+(143) included 7 studies coming from 6 RCTs (n = 279). Two of the 
+studies included children. The 2 studies were the 2014 Olivares study 
+cited above (142) and another study that did not include a clinical 
+outcome, but rather showed a signiicant reduction in TNF-α blood 
+levels with administration of B breve (144). While in adults there 
+was evidence for improved gastrointestinal symptoms with probiotic 
+treatment, such indings were not reported in children.
+Small Intestinal Bacterial Overgrowth
+SIBO is a heterogenous and poorly understood entity charac-
+terized by non-speciic gastrointestinal symptoms, such as abdomi-
+nal distention and pain, diarrhea, latulence, and vomiting, and 
+sometimes by non-gastrointestinal symptoms, such as metabolic 
+acidosis and neurological symptoms. These variable clinical fea-
+tures are related to the excessive growth of microorganisms within 
+the small intestine, usually observed in children with altered gas-
+trointestinal motility and anatomy (short bowel syndrome or previ-
+ous surgery), those receiving acid-suppressive therapies, or after a 
+recent episode of intestinal infections (post-infectious diarrhea). In 
+those patients, probiotics are sometimes used in clinical practice, 
+however, no RCTs are currently available to support their prescrip-
+tion. Only 1 RCT (145) tested the eicacy of a probiotic mixture 
+of L rhamnosus R0011 (1.9 × 109 CFU) and L acidophilus R0052 
+(0.1 × 109 CFU) in preventing SIBO in a small population of chil-
+dren receiving proton pump inhibitors for 1 month. No diference 
+in the incidence of SIBO, diagnosed with positive breath tests, was 
+observed between children receiving probiotics (n = 36) and those 
+receiving placebo (n = 34) (33% vs 26.5%; P = 0.13).
+Pancreatitis
+In adults, a multispecies probiotic preparation increased 
+mortality from mesenteric ischemia in patients with severe acute 
+pancreatitis (146). No RCTs on the use of probiotics for pancreati-
+tis in children were identiied.
+Support and Disclosures
+Szajewska has received grants/research support from Arla, 
+BioGaia, Chr. Hansen, and Winclove and also has received pay-
+ments/honorariums for lectures from Ausnutria, BioGaia, Biocodex, 
+Chr. Hansen, Danone, Nestle, and Nestle Nutrition Institute. Berni 
+Canani has received grants and/or served as a speaker for Ch.Hansen 
+(research grant, speaker), Humana (research grant), iHealth (research 
+grant), Kraft-Heinz (research grant, speaker), Mead Johnson Nutri-
+tion (research grant, speaker), Nestlè (research grant), Novalac 
+(research grant), Nutricia (research grant, speaker), and Sanoi 
+(research grant, speaker). Domellöf has received grants/research sup-
+port from Arla Food Ingredients, Baxter AB, and Prolacta Bioscience 
+and also received payments/honorariums for lectures from Baxter, 
+Baxter Deutschland GmbH, Biostime Institute of Nutrition and Care, 
+Bioquest Solutions Pvt Ltd, Chiesi Pharma AB, Mead Johnson, Med-
+scape Education, Nestec Ltd (Nestlé), and Nestlé Nutrition Institute. 
+Domellöf is also a stock shareholder in Nutrium AB. Guarino has 
+received grant/research support and honorariums for lectures from 
+Ipsen. Hojsak has received payments/honorariums for lectures from 
+BioGaia, Nutricia, Biocodex, AbelaPharm, Nestle, Abbott, Sandoz, 
+Oktal pharma, and Takeda. Indrio has served as a consultant and 
+speaker for Biogaia Danone, and as a speaker for Biogaia, Danone, 
+Nestle Nutrition Institute, and Sando. Lo Vecchio has received grant 
+support from Merck Sharp & Dohme and has participated in the 
+Advisory Board of Pizer. Mihatsch has served as member of the 
+Scientiic advisory board for human milk and breastfeeding research 
+award committee by Nutricia. Mihatsch also has received payments/
+honorariums for lectures from the following: Society for Neonatol-
+ogy (GNPI), German Society for Ped Gastroenterology (GPGE), 
+IPOKRATS, Austrian and German Societies of Pediatrics (DGKJ, 
+ÖGKJ), Nutrition Com. of DGKJ, Hospitals in Germany and Europe, 
+Nordic Neonatology Pound table, Poland Neonat. Soc. Mosca has 
+participated as an advisory board member, and/or consultant, and/
+or speaker for BioGaia, Nutricia, Biocodex, AdareBiome, Nestlé, 
+Havéa, PiLeJe, and Sodilac. Orel has participated as a clinical inves-
+tigator, and/or advisory board member, and/or speaker for Abbott, 
+BioGaia, Ewopharma, Kefo, Medis, Lek Sandoz, Inspharma, Merit, 
+Medias International, and Atlantic Group. Salvatore has partici-
+pated as a clinical investigator, and/or consultant, and/or speaker for 
+Danone-Mellin, DVA, Noos, and Nestlé Health Science. Shamir has 
+participated as a clinical investigator, and/or advisory board member, 
+and/or consultant, and/or speaker for Abbott, Else, Nestlé Nutrition 
+Institute, Nestle Health Science, NGS, Nutricia, Soremartec, and 
+Ukko. van den Akker has participated as an advisory board mem-
+ber and/or speaker for Baxter, Nestlé Nutrition Institute, and Nutricia 
+Early Life Nutrition. Van Goudoever is the Founder and director of 
+the Dutch National Human Milk Bank, and has received grant sup-
+port from Danone Research. Vandenplas has participated as a clinical 
+investigator, and/or advisory board member, and/or consultant, and/
+or speaker for Abbott Nutrition, Ausnutria, Biogaia, By Heart, CHR 
+Hansen, Danone, ELSE Nutrition, Friesland Campina, Nestle Health 
+Science, Nestle Nutrition Institute, Nutricia, Mead Johnson Nutri-
+tion, Pileje, United Pharmaceuticals (Novalac), Yakult, and Wyeth. 
+Weizman has participated as a clinical investigator, and/or advisory 
+board member, and/or consultant, and/or speaker for BioGaia, Bio-
+Codex, Hipp, Mead Johnson, Nestle, Sensus, and Materna.
+REFERENCES
+ 1. Szajewska H, Guarino A, Hojsak I, et al. Use of probiotics for the 
+management of acute gastroenteritis in children: an update. J Pediatr 
+Gastroenterol Nutr 2020;71:261–9.
+ 2. Szajewska H, Canani RB, Guarino A, et al. Probiotics for the prevention 
+of antibiotic-associated diarrhea in children. J Pediatr Gastroenterol 
+Nutr 2016;62:495–506.
+• No recommendation can be made for or against the 
+use of probiotics in children with celiac disease due 
+to insufﬁcient evidence.
+• No recommendation for or against the use of probi-
+otics in the treatment or prevention of SIBO due to 
+insufﬁcient evidence.
+• As no RCT on the use of probiotics for pancreatitis 
+in children was identiﬁed, no recommendation can 
+be made for or against the use of probiotics for the 
+management of pancreatitis.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 13]
+244 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+ 3. Hojsak I, Szajewska H, Canani RB, et al. Probiotics for the preven-
+tion of nosocomial diarrhea in children. J Pediatr Gastroenterol Nutr 
+2018;66:3–9.
+ 4. van den Akker CHP, van Goudoever JB, Shamir R, et al. Probiotics and 
+preterm infants: a position paper by the European society for paediat-
+ric gastroenterology hepatology and nutrition committee on nutrition 
+and the European society for paediatric gastroenterology hepatology 
+and nutrition working group for probiotics and prebiotics. J Pediatr 
+Gastroenterol Nutr 2020;70:664–80.
+ 5. Hill C, Guarner F, Reid G, et al. Expert consensus document. The 
+International Scientiic Association for Probiotics and Prebiotics con-
+sensus statement on the scope and appropriate use of the term probiotic. 
+Nat Rev Gastroenterol Hepatol 2014;11:506–14.
+ 6. Szajewska H, Guarino A, Hojsak I, et al. Use of probiotics for man-
+agement of acute gastroenteritis: a position paper by the ESPGHAN 
+Working Group for Probiotics and Prebiotics. J Pediatr Gastroenterol 
+Nutr 2014;58:531–9.
+ 7. Zheng J, Wittouck S, Salvetti E, et al. A taxonomic note on the genus 
+Lactobacillus: Description of 23 novel genera, emended descrip-
+tion of the genus Lactobacillus Beijerinck 1901, and union of 
+Lactobacillaceae and Leuconostocaceae. Int J Syst Evol Microbiol 
+2020;70:2782–858.
+ 8. Bafeta A, Koh M, Riveros C, Ravaud P. Harms reporting in random-
+ized controlled trials of interventions aimed at modifying microbiota: a 
+systematic review. Ann Intern Med 2018;169:240–7.
+ 9. Guarino A, Ashkenazi S, Gendrel D, Lo Vecchio A, Shamir R, 
+Szajewska H. European Society for Pediatric Gastroenterology, 
+Hepatology, and Nutrition/European Society for Pediatric Infectious 
+Diseases evidence-based guidelines for the management of acute 
+gastroenteritis in children in Europe: update 2014. J Pediatr 
+Gastroenterol Nutr 2014;59:132–52.
+ 10. Gwee KA, Lee WW, Ling KL, et al. Consensus and contentious state-
+ments on the use of probiotics in clinical practice: a south east Asian 
+gastro-neuro motility association working team report. J Gastroenterol 
+Hepatol 2018;33:1707–16.
+ 11. Marchand V. Using probiotics in the paediatric population. Paediatr 
+Child Health 2012;17:575–6.
+ 12. Schnadower D, Tarr PI, Casper TC, et al. Lactobacillus rhamnosus 
+GG versus placebo for acute gastroenteritis in children. N Engl J Med 
+2018;379:2002–14.
+ 13. Szymański H, Szajewska H. Lack of eicacy of lactobacillus reuteri 
+DSM 17938 for the treatment of acute gastroenteritis: a randomized 
+controlled trial. Pediatr Infect Dis J 2019;38:e237–42.
+ 14. Su GL, Ko CW, Bercik P, et al. AGA clinical practice guidelines on 
+the role of probiotics in the management of gastrointestinal disorders. 
+Gastroenterology 2020;159:697–705.
+ 15. Freedman SB, Williamson-Urquhart S, Farion KJ, et al. Multicenter 
+trial of a combination probiotic for children with gastroenteritis. N Engl 
+J Med 2018;379:2015–26.
+ 16. Schnadower D, Sapien RE, Casper TC, et al. Association between age, 
+weight, and dose and clinical response to probiotics in children with 
+acute gastroenteritis. J Nutr 2021;151:65–72.
+ 17. Collinson S, Deans A, Padua-Zamora A, et al. Probiotics for treat-
+ing acute infectious diarrhoea. Cochrane Database Syst Rev 
+2020;12:CD003048.
+ 18. Vassilopoulou L, Spyromitrou-Xioui P, Ladomenou F. Efectiveness of 
+probiotics and synbiotics in reducing duration of acute infectious diar-
+rhea in pediatric patients in developed countries: a systematic review 
+and meta-analysis. Eur J Pediatr 2021;180:2907–20.
+ 19. Wu H, Zhan X. Systematic review with meta-analysis: probiotics for 
+treating acute diarrhoea in children with dehydration. J Paediatr Child 
+Health 2021;57:431–9.
+ 20. Li Z, Zhu G, Li C, et al. Which probiotic is the most efective for treat-
+ing acute diarrhea in children? A Bayesian network meta-analysis of 
+randomized controlled trials. Nutrients 2021;13:4319.
+ 21. Schnadower D, O’Connell KJ, VanBuren JM, et al. Association between 
+diarrhea duration and severity and probiotic eicacy in children with 
+acute gastroenteritis. Am J Gastroenterol 2021;116:1523–32.
+ 22. Freedman SB, Xie J, Nettel-Aguirre A, et al. A randomized trial evalu-
+ating virus-speciic efects of a combination probiotic in children with 
+acute gastroenteritis. Nat Commun 2020;11:2533.
+ 23. Schnadower D, Roskind CG, VanBuren JM, et al. Factors associated 
+with nonadherence in an emergency department-based multicenter ran-
+domized clinical trial of a probiotic in children with acute gastroenteri-
+tis. J Pediatr Gastroenterol Nutr 2021;72:24–8.
+ 24. Shin DY, Yi DY, Jo S, et al. Efect of a new Lactobacillus plantarum 
+product, LRCC5310, on clinical symptoms and virus reduction in chil-
+dren with rotaviral enteritis. Medicine (Baltim) 2020;99:e22192.
+ 25. Chen K, Xin J, Zhang G, et al. A combination of three probiotic strains 
+for treatment of acute diarrhoea in hospitalised children: an open label, 
+randomised controlled trial. Benef Microbes 2020;11:339–46.
+ 26. Li YT, Xu H, Ye JZ, et al. Eicacy of Lactobacillus rhamnosus GG in 
+treatment of acute pediatric diarrhea: a systematic review with meta-
+analysis. World J Gastroenterol 2019;25:4999–5016.
+ 27. Szajewska H, Kolodziej M. Systematic review with meta-analysis: 
+Saccharomyces boulardii in the prevention of antibiotic-associated 
+diarrhoea. Aliment Pharmacol Ther 2015;42:793–801.
+ 28. Mourey F, Sureja V, Kheni D, et al. A multicenter, randomized, double-
+blind, placebo-controlled trial of Saccharomyces boulardii in infants 
+and children with acute diarrhea. Pediatr Infect Dis J 2020;39:e347–51.
+ 29. Khan NM. To determine outcome of probiotics in treatment of acute 
+diarrhoea in children. Pakistan J Med Health Sci 2021;15:1829–31.
+ 30. Zhou BG, Chen LX, Li B, Wan L-Y, Ai Y-W. Saccharomyces boulardii 
+as an adjuvant therapy for Helicobacter pylori eradication: a systematic 
+review and meta-analysis with trial sequential analysis. Helicobacter 
+2019;24:e12651.
+ 31. Ann Q-U, Khan MH, Khan MS. Comparison of multispecies probi-
+otic and Sacchromyces boulardii in children with acute watery diar-
+rhea in terms of mean duration of diarrhea. Pakistan J Med Health Sci 
+2021;15:648–51.
+ 32. Patro-Golab B, Szajewska H. Systematic review with meta-analysis: 
+lactobacillus reuteri DSM 17938 for treating acute gastroenteritis in 
+children. An update. Nutrients 2019;11:2762.
+ 33. Szymanski H, Mlynarz P, Qasem B, et al. Post hoc analysis of fecal 
+samples from responders and non-responders to Lactobacillus reuteri 
+DSM 17938 intervention. Acta Biochim Pol 2020;67:393–9.
+ 34. Paparo L, Tripodi L, Bruno C, et al. Protective action of Bacillus clausii 
+probiotic strains in an in vitro model of rotavirus infection. Sci Rep 
+2020;10:12636.
+ 35. Guo Q, Goldenberg JZ, Humphrey C, et al. Probiotics for the preven-
+tion of pediatric antibiotic-associated diarrhea. Cochrane Database 
+Syst Rev 2019;4:Cd004827.
+ 36. Szajewska H, Kolodziej M. Systematic review with meta-analysis: 
+Lactobacillus rhamnosus GG in the prevention of antibiotic-associated diar-
+rhoea in children and adults. Aliment Pharmacol Ther 2015;42:1149–57.
+ 37. Storr M, Stengel A. Systematic review: clinical evidence of probiot-
+ics in the prevention of antibiotic-associated diarrhoea. MMW Fortschr 
+Med 2021;163:19–26.
+ 38. Lukasik J, Guo Q, Boulos L, et al. Probiotics for the prevention of anti-
+biotic-associated adverse events in children-a scoping review to inform 
+development of a core outcome set. PLoS One 2020;15:e0228824.
+ 39. Szajewska H, Wanke M, Patro B. Meta-analysis: the efects of Lactobacillus 
+rhamnosus GG supplementation for the prevention of healthcare-associated 
+diarrhoea in children. Aliment Pharmacol Ther 2011;34:1079–87.
+ 40. Bruzzese E, Fedele MC, Bruzzese D, et al. Randomised clinical trial: 
+a Lactobacillus GG and micronutrient-containing mixture is efective 
+in reducing nosocomial infections in children, vs. placebo. Aliment 
+Pharmacol Ther 2016;44:568–75.
+ 41. van den Akker CHP, van Goudoever JB, Szajewska H, et al. Probiotics 
+for preterm infants: a strain-speciic systematic review and network 
+meta-analysis. J Pediatr Gastroenterol Nutr 2018;67:103–22.
+ 42. Morgan RL, Preidis GA, Kashyap PC, Weizman AV, Sadeghirad B. 
+Probiotics reduce mortality and morbidity in preterm, low-birth-weight 
+infants: a systematic review and network meta-analysis of randomized 
+trials. Gastroenterology 2020;159:467–80.
+ 43. Hernández-Enríquez NP, Rosas-Sumano AB, Monzoy-Ventre MA, 
+et al. Lactobacillus reuteri DSM 17938 in preventing necrotizing 
+enterocolitis in preterm newborns. Pilot study of eicacy and safety 
+[Lactobacillus reuteri DSM 17938 en la prevención de enterocolitis 
+necrosante en recién nacidos prematuros. Estudio piloto de eicacia y 
+seguridad]. Revista Mexicana de Pediatria 2016;83:37–43.
+ 44. Shadkam MN, Jalalizadeh F, Nasiriani K. Efects of probiotic lac-
+tobacillus reuteri (DSM 17938) on the incidence of necrotizing 
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 14]
+www.jpgn.org 
+245
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+enterocolitis in very low birth weight premature infants. Iranian J 
+Neonat 2015;6:15–20.
+ 45. Sharif S, Meader N, Oddie SJ, Rojas-Reyes MX, McGuire W. Probiotics 
+to prevent necrotising enterocolitis in very preterm or very low birth 
+weight infants. Cochrane Database Syst Rev 2020;10:CD005496.
+ 46. Beghetti I, Panizza D, Lenzi J, et al. Probiotics for preventing necrotiz-
+ing enterocolitis in preterm infants: a network meta-analysis. Nutrients 
+2021;13:192.
+ 47. Chi C, Li C, Buys N, et al. Efects of probiotics in preterm infants: a 
+network meta-analysis. Pediatrics 2021;147:e20200706.
+ 48. Gao X, Wang Y, Shi L, et al. Efect and safety of saccharomyces boular-
+dii for neonatal necrotizing enterocolitis in pre-term infants: a system-
+atic review and meta-analysis. J Trop Pediatr 2020;67:fmaa022.
+ 49. EMA. (European Medicines Agency) Saccharomyces boulardii: CMDh 
+(Coordination Group for Mutual Recognition and Decentralised 
+Procedures - Human) scientiic conclusions and grounds for the varia-
+tion, amendments to the product information and timetable for the 
+implementation. PSUSA/00009284/201702. 2017. Accessed on May 
+2022, https://www.ema.europa.eu/en/documents/psusa/saccharomyces-
+boulardii-cmdh-scientiic-conclusions-grounds-variation-amendments-
+product-information/00009284/202002_en.pdf.
+ 50. Wejryd E, Marchini G, Frimmel V, Jonsson B, Abrahamsson T. Probiotics 
+promoted head growth in extremely low birthweight infants in a double-
+blind placebo-controlled trial. Acta Paediatr 2019;108:62–9.
+ 51. Gomez-Rodriguez G, Amador-Licona N, Daza-Benitez L, et al. Single 
+strain versus multispecies probiotic on necrotizing enterocolitis and 
+faecal IgA levels in very low birth weight preterm neonates: a random-
+ized clinical trial. Pediatr Neonatol 2019;60:564–9.
+ 52. Strus M, Helwich E, Lauterbach R, et al. Efects of oral probiotic sup-
+plementation on gut Lactobacillus and Biidobacterium populations and 
+the clinical status of low-birth-weight preterm neonates: a multicenter 
+randomized, double-blind, placebo-controlled trial. Infect Drug Resist 
+2018;11:1557–71.
+ 53. Wang F, Feng J, Chen P, et al. Probiotics in Helicobacter pylori eradica-
+tion therapy: systematic review and network meta-analysis. Clin Res 
+Hepatol Gastroenterol 2017;41:466–75.
+ 54. Shi X, Zhang J, Mo L, et al. Eicacy and safety of probiotics in eradi-
+cating Helicobacter pylori: a network meta-analysis. Medicine (Baltim) 
+2019;98:e15180.
+ 55. Jones NL, Koletzko S, Goodman K, et al. Joint ESPGHAN/
+NASPGHAN guidelines for the management of Helicobacter pylori in 
+children and adolescents (Update 2016). J Pediatr Gastroenterol Nutr 
+2017;64:991–1003.
+ 56. Malfertheiner P, Megraud F, O’Morain CA, et al. Management of 
+Helicobacter pylori infection-the Maastricht V/Florence Consensus 
+Report. Gut 2017;66:6–30.
+ 57. Feng JR, Wang F, Qiu X, et al. Eicacy and safety of probiotic-supple-
+mented triple therapy for eradication of Helicobacter pylori in children: 
+a systematic review and network meta-analysis. Eur J Clin Pharmacol 
+2017;73:1199–208.
+ 58. Wen J, Peng P, Chen P, et al. Probiotics in 14-day triple therapy for Asian 
+pediatric patients with Helicobacter pylori infection: a network meta-
+analysis. Oncotarget 2017;8:96409–18.
+ 59. Szajewska H, Horvath A, Kolodziej M. Systematic review with 
+meta-analysis: Saccharomyces boulardii supplementation and eradi-
+cation of Helicobacter pylori infection. Aliment Pharmacol Ther 
+2015;41:1237–45.
+ 60. Fang HR, Zhang GQ, Cheng JY, Li Z-Y. Eicacy of Lactobacillus-
+supplemented triple therapy for Helicobacter pylori infection in chil-
+dren: a meta-analysis of randomized controlled trials. Eur J Pediatr 
+2019;178:7–16.
+ 61. Hurduc V, Plesca D, Dragomir D, Sajin M, Vandenplas Y. A randomized, 
+open trial evaluating the efect of Saccharomyces boulardii on the eradi-
+cation rate of Helicobacter pylori infection in children. Acta Paediatr 
+2009;98:127–31.
+ 62. Zhao HM, Ou-Yang HJ, Duan BP, et al. Clinical efect of triple ther-
+apy combined with Saccharomyces boulardii in the treatment of 
+Helicobacter pylori infection in children. Zhongguo Dang Dai Er Ke 
+Za Zhi 2014;16:230–3.
+ 63. Bin Z, Ya-Zheng X, Zhao-Hui D, Bo C, Li-Rong J, Vandenplas Y. 
+The eicacy of saccharomyces boulardii CNCM I-745 in addition to 
+standard Helicobacter pylori eradication treatment in children. Pediatr 
+Gastroenterol Hepatol Nutr 2015;18:17–22.
+ 64. Kaur L, Gordon M, Baines PA, et al. Probiotics for induction of remission 
+in ulcerative colitis. Cochrane Database Syst Rev 2020;3:Cd005573.
+ 65. Iheozor-Ejiofor Z, Kaur L, Gordon M, et al. Probiotics for mainte-
+nance of remission in ulcerative colitis. Cochrane Database Syst Rev 
+2020;3:Cd007443.
+ 66. Miele E, Pascarella F, Giannetti E, Quaglietta L, Baldassano RN, 
+Staiano A. Efect of a probiotic preparation (VSL#3) on induction 
+and maintenance of remission in children with ulcerative colitis. Am J 
+Gastroenterol 2009;104:437–43.
+ 67. Oliva S, Di Nardo G, Ferrari F, et al. Randomised clinical trial: the efec-
+tiveness of Lactobacillus reuteri ATCC 55730 rectal enema in children with 
+active distal ulcerative colitis. Aliment Pharmacol Ther 2012;35:327–34.
+ 68. Yoshimatsu Y, Yamada A, Furukawa R, et al. Efectiveness of probiotic 
+therapy for the prevention of relapse in patients with inactive ulcerative 
+colitis. World J Gastroenterol 2015;21:5985–94.
+ 69. Dang X, Xu M, Liu D, Zhou D, Yang W. Assessing the eicacy and 
+safety of fecal microbiota transplantation and probiotic VSL#3 for 
+active ulcerative colitis: a systematic review and meta-analysis. PLoS 
+One 2020;15:e0228846.
+ 70. Astó E, Méndez I, Audivert S, et al. The eicacy of probiotics, prebiotic 
+inulin-type fructans, and synbiotics in human ulcerative colitis: a sys-
+tematic review and meta-analysis. Nutrients 2019;11:293.
+ 71. Peng L, Zhong Y, Wang A, et al. Probiotics combined with aminosali-
+cylic acid ailiates remission of ulcerative colitis: a meta-analysis of 
+randomized controlled trial. Biosci Rep 2019;39:BSR20180943.
+ 72. Tian C, Huang Y, Wu X, Xu C, Bu H, Wang H. The eicacy and safety 
+of mesalamine and probiotics in mild-to-moderate ulcerative colitis: a 
+systematic review and meta-analysis. Evid Based Complement Alternat 
+Med 2020;2020:6923609.
+ 73. Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management of 
+paediatric ulcerative colitis, part 1: ambulatory care-an evidence-based 
+guideline from european crohn’s and colitis organization and european 
+society of paediatric gastroenterology, hepatology and nutrition. J 
+Pediatr Gastroenterol Nutr 2018;67:257–91.
+ 74. Miele E, Shamir R, Aloi M, et al. Nutrition in pediatric inlamma-
+tory bowel disease: a position paper on behalf of the porto inlam-
+matory bowel disease group of the european society of pediatric 
+gastroenterology, hepatology and nutrition. J Pediatr Gastroenterol 
+Nutr 2018;66:687–708.
+ 75. Limketkai BN, Akobeng AK, Gordon M, et al. Probiotics for induc-
+tion of remission in Crohn’s disease. Cochrane Database Syst Rev 
+2020;7:Cd006634.
+ 76. Sung V, D’Amico F, Cabana MD, et al. Lactobacillus reuteri to treat 
+infant colic: a meta-analysis. Pediatrics 2018;141:e20171811.
+ 77. Skonieczna-Żydecka K, Janda K, Kaczmarczyk M, et al. The efect of 
+probiotics on symptoms, gut microbiota and inlammatory markers in 
+infantile colic: a systematic review, meta-analysis and meta-regression 
+of randomized controlled trials. J Clin Med 2020;9:999.
+ 78. Ong TG, Gordon M, Banks SS, et al. Probiotics to prevent infantile 
+colic. Cochrane Database Syst Rev 2019;3:Cd012473.
+ 79. Dryl R, Szajewska H. Probiotics for management of infantile colic: a system-
+atic review of randomized controlled trials. Arch Med Sci 2018;14:1137–43.
+ 80. Gutiérrez-Castrellón P, Indrio F, Bolio-Galvis A, et al. Eicacy of lacto-
+bacillus reuteri DSM 17938 for infantile colic: systematic review with 
+network meta-analysis. Medicine (Baltim) 2017;96:e9375.
+ 81. Schreck Bird A, Gregory PJ, Jalloh MA, Risoldi Cochrane Z, Hein DJ. 
+Probiotics for the treatment of infantile colic: a systematic review. J 
+Pharm Pract 2017;30:366–74.
+ 82. Harb T, Matsuyama M, David M, Hill RJ. Infant colic-what works: 
+a systematic review of interventions for breast-fed infants. J Pediatr 
+Gastroenterol Nutr 2016;62:668–86.
+ 83. Xu M, Wang J, Wang N, et al. The eicacy and safety of the probiotic bacte-
+rium Lactobacillus reuteri DSM 17938 for infantile colic: a meta-analysis of 
+randomized controlled trials. PLoS One 2015;10:e0141445e0141445.
+ 84. Anabrees J, Indrio F, Paes B, AlFaleh K. Probiotics for infantile colic: a 
+systematic review. BMC Pediatr 2013;13:186.
+ 85. Simonson J, Haglund K, Weber E, Fial A, Hanson L. Probiotics for the 
+management of infantile colic: a systematic review. MCN Am J Matern 
+Child Nurs 2021;46:88–96.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 15]
+246 
+www.jpgn.org
+Szajewska et al 
+JPGN • Volume 76, Number 2, February 2023
+ 86. Savino F, Cordisco L, Tarasco V, et al. Lactobacillus reuteri DSM 17938 
+in infantile colic: a randomized, double-blind, placebo-controlled trial. 
+Pediatrics 2010;126:e526–33.
+ 87. Szajewska H, Gyrczuk E, Horvath A. Lactobacillus reuteri DSM 
+17938 for the management of infantile colic in breastfed infants: 
+a randomized, double-blind, placebo-controlled trial. J Pediatr 
+2013;162:257–62.
+ 88. Sung V, Hiscock H, Tang ML, et al. Treating infant colic with the 
+probiotic Lactobacillus reuteri: double blind, placebo controlled ran-
+domised trial. BMJ 2014;348:g2107.
+ 89. Chau K, Lau E, Greenberg S, et al. Probiotics for infantile colic: a 
+randomized, double-blind, placebo-controlled trial investigating 
+Lactobacillus reuteri DSM 17938. J Pediatr 2015;166:74–8.
+ 90. Mi GL, Zhao L, Qiao DD, Kang W-Q, Tang M-Q, Xu J-K. Efectiveness 
+of Lactobacillus reuteri in infantile colic and colicky induced maternal 
+depression: a prospective single blind randomized trial. Antonie Van 
+Leeuwenhoek 2015;107:1547–53.
+ 91. Fatheree NY, Liu Y, Taylor CM, et al. Lactobacillus reuteri for infants 
+with colic: a double-blind, placebo-controlled, randomized clinical 
+trial. J Pediatr 2017;191:170–8.e2.
+ 92. Nation ML, Dunne EM, Joseph SJ, et al. Impact of Lactobacillus 
+reuteri colonization on gut microbiota, inlammation, and crying time 
+in infant colic. Sci Rep 2017;7:15047.
+ 93. Savino F, Garro M, Montanari P, Galliano I, Bergallo M. Crying time 
+and RORγ/FOXP3 expression in Lactobacillus reuteri DSM17938-
+treated infants with colic: a randomized trial. J Pediatr 2018;192:171–
+177.e1.
+ 94. Savino F, Galliano I, Savino A, et al. Lactobacillus reuteri DSM 
+17938 probiotics may increase CC-chemokine receptor 7 expression 
+in infants treated with for colic. Front Pediatr 2019;7:292.
+ 95. Nocerino R, De Filippis F, Cecere G, et al. The therapeutic eicacy of 
+Biidobacterium animalis subsp. lactis BB-12(®) in infant colic: a ran-
+domised, double blind, placebo-controlled trial. Aliment Pharmacol 
+Ther 2020;51:110–20.
+ 96. Chen K, Zhang G, Xie H, et al. Eicacy of Biidobacterium anima-
+lis subsp. lactis, BB-12(®) on infant colic - a randomised, double-
+blinded, placebo-controlled study. Benef Microbes 2021;12:531–40.
+ 97. Gerasimov S, Gantzel J, Dementieva N, et al. Role of Lactobacillus 
+rhamnosus (FloraActive™) 19070-2 and Lactobacillus reuteri 
+(FloraActive™) 12246 in infant colic: a randomized dietary study. 
+Nutrients 2018;10:1975.
+ 98. Savino F, Montanari P, Galliano I, et al. Lactobacillus rhamnosus GG 
+(ATCC 53103) for the management of infantile colic: a randomized 
+controlled trial. Nutrients 2020;12:1693.
+ 99. Indrio F, Di Mauro A, Riezzo G, et al. Prophylactic use of a probiotic 
+in the prevention of colic, regurgitation, and functional constipation: a 
+randomized clinical trial. JAMA Pediatr 2014;168:228–33.
+ 100. Cabana MD, McKean M, Beck AL, Flaherman V. Pilot analysis of 
+early lactobacillus rhamnosus GG for infant colic prevention. J 
+Pediatr Gastroenterol Nutr 2019;68:17–9.
+ 101. Wegh CAM, Benninga MA, Tabbers MM. Efectiveness of probiotics 
+in children with functional abdominal pain disorders and functional 
+constipation: a systematic review. J Clin Gastroenterol. 2018;52 
+Suppl 1, Proceedings from the 9th Probiotics, Prebiotics and New 
+Foods, Nutraceuticals and Botanicals for Nutrition & Human and 
+Microbiota Health Meeting, held in Rome, Italy from September 10 to 
+12, 2017:S10–s26.
+ 102. Xu HL, Zou LL, Chen MB, et al. Eicacy of probiotic adjuvant ther-
+apy for irritable bowel syndrome in children: a systematic review and 
+meta-analysis. PLoS One 2021;16:e0255160.
+ 103. Trivic I, Niseteo T, Jadresin O, et al. Use of probiotics in the treatment 
+of functional abdominal pain in children-systematic review and meta-
+analysis. Eur J Pediatr 2021;180:339–51.
+ 104. Sudha MR, Jayanthi N, Aasin M, Dhanashri RD, Anirudh T. Eicacy 
+of bacillus coagulans Unique IS2 in treatment of irritable bowel syn-
+drome in children: a double blind, randomised placebo controlled 
+study. Benef Microbes 2018;9:563–72.
+ 105. Giannetti E, Maglione M, Alessandrella A, et al. A mixture of 3 bii-
+dobacteria decreases abdominal pain and improves the quality of life 
+in children with irritable bowel syndrome: a multicenter, randomized, 
+double-blind, placebo-controlled, crossover trial. J Clin Gastroenterol 
+2017;51:e5–e10.
+ 106. Basturk A, Artan R, Yilmaz A. Eicacy of synbiotic, probiotic, and 
+prebiotic treatments for irritable bowel syndrome in children: a ran-
+domized controlled trial. Turk J Gastroenterol 2016;27:439–43.
+ 107. Rahmani P, Ghouran-Orimi A, Motamed F, Moradzadeh A. Evaluating 
+the efects of probiotics in pediatrics with recurrent abdominal pain. 
+Clin Exp Pediatr 2020;63:485–90.
+ 108. Romano C, Ferrau V, Cavataio F, et al. Lactobacillus reuteri in chil-
+dren with functional abdominal pain (FAP). J Paediatr Child Health 
+2014;50:E68–71.
+ 109. Eftekhari K, Vahedi Z, Kamali Aghdam M, Noemi Diaz D. A ran-
+domized double-blind placebo-controlled trial of lactobacillus reuteri 
+for chronic functional abdominal pain in children. Iran J Pediatr 
+2015;25:e2616.
+ 110. Weizman Z, Abu-Abed J, Binsztok M. Lactobacillus reuteri DSM 
+17938 for the management of functional abdominal pain in child-
+hood: a randomized, double-blind, placebo-controlled trial. J Pediatr 
+2016;174:160–164.e1.
+ 111. Jadresin O, Hojsak I, Misak Z, et al. Lactobacillus reuteri DSM 17938 
+in the treatment of functional abdominal pain in children: RCT study. 
+J Pediatr Gastroenterol Nutr 2017;64:925–9.
+ 112. Maragkoudaki M, Chouliaras G, Orel R, Horvath A, Szajewska H, 
+Papadopoulou A. Lactobacillus reuteri DSM 17938 and a placebo 
+both signiicantly reduced symptoms in children with functional 
+abdominal pain. Acta Paediatr 2017;106:1857–62.
+ 113. Jadresin O, Sila S, Trivic I, et al. Lactobacillus reuteri DSM 17938 
+is efective in the treatment of functional abdominal pain in chil-
+dren: results of the double-blind randomized study. Clin Nutr 
+2020;39:3645–51.
+ 114. Gawronska A, Dziechciarz P, Horvath A, et al. A randomized double-
+blind placebo-controlled trial of Lactobacillus GG for abdominal pain 
+disorders in children. Aliment Pharmacol Ther 2007;25:177–84.
+ 115. Francavilla R, Miniello V, Magista AM, et al. A randomized controlled 
+trial of Lactobacillus GG in children with functional abdominal pain. 
+Pediatrics 2010;126:e1445–52.
+ 116. Sabbi T. The use of lactobacillus GG in children with functional 
+abdominal pain: a double-blind randomized control trial. Clin Nutr 
+Suppl 2011;6:198.
+ 117. Bauserman M, Michail S. The use of Lactobacillus GG in irritable 
+bowel syndrome in children: a double-blind randomized control trial. 
+J Pediatr 2005;147:197–201.
+ 118. Kianifar H, Jafari SA, Kiani M, et al. Probiotic for irritable bowel 
+syndrome in pediatric patients: a randomized controlled clinical trial. 
+Electron Physician 2015;7:1255–60.
+ 119. Guandalini S, Magazzu G, Chiaro A, et al. VSL#3 improves symp-
+toms in children with irritable bowel syndrome: a multicenter, ran-
+domized, placebo-controlled, double-blind, crossover study. J Pediatr 
+Gastroenterol Nutr 2010;51:24–30.
+ 120. Horvath A, Dziechciarz P, Szajewska H. Meta-analysis: Lactobacillus 
+rhamnosus GG for abdominal pain-related functional gastrointestinal 
+disorders in childhood. Aliment Pharmacol Ther 2011;33:1302–10.
+ 121. Jadresin O, Hojsak I, Misak Z, et al. Lactobacillus reuteri DSM 17938 
+in the treatment of functional abdominal pain in children - RCT study. 
+J Pediatr Gastroenterol Nutr 2016;64:925–9.
+ 122. Jadrešin O, Sila S, Trivić I, et al. Lactobacillus reuteri DSM 17938 
+is efective in the treatment of functional abdominal pain in chil-
+dren: results of the double-blind randomized study. Clin Nutr 
+2020;S0261–5614:30190–4.
+ 123. Tabbers MM, DiLorenzo C, Berger MY, et al. Evaluation and treat-
+ment of functional constipation in infants and children: evidence-
+based recommendations from ESPGHAN and NASPGHAN. J Pediatr 
+Gastroenterol Nutr 2014;58:258–74.
+ 124. Wojtyniak K, Szajewska H. Systematic review: probiotics for func-
+tional constipation in children. Eur J Pediatr 2017;176:1155–62.
+ 125. Wegh CAM, Baaleman DF, Tabbers MM, Smidt H, Benninga MA. 
+Nonpharmacologic treatment for children with functional constipa-
+tion: a systematic review and meta-analysis. J Pediatr 2022;240:136–
+149.e5.
+ 126. Abediny MA, Afkhamzadeh A, Seifmanesh M, et al. The efect of pro-
+biotics on the treatment of functional constipation in children of 4-12 
+years of age. J Isfahan Med Sch 2016;33:2448–54.
+ 127. Asburce OB, Sezer OB, Ozcay F. Comparison of probiotic and 
+lactulose treatments in children with functional constipation and 
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[page 16]
+www.jpgn.org 
+247
+JPGN • Volume 76, Number 2, February 2023 
+Probiotics for the Management of Pediatric Gastrointestinal Disorders
+determination of the efects of constipation treatment on quality of 
+life. [Turkish]. Cocuk Sagligi Hast Derg 2013;56:1–7.
+ 128. Banaszkiewicz A, Szajewska H. Inefectiveness of Lactobacillus GG 
+as an adjunct to lactulose for the treatment of constipation in chil-
+dren: a double-blind, placebo-controlled randomized trial. J Pediatr 
+2005;146:364–9.
+ 129. Bu LN, Chang MH, Ni YH, Chen H-L, Cheng C-C. Lactobacillus 
+casei rhamnosus Lcr35 in children with chronic constipation. Pediatr 
+Int 2007;49:485–90.
+ 130. Coccorullo P, Strisciuglio C, Martinelli M, Miele E, Greco L, Staiano 
+A. Lactobacillus reuteri (DSM 17938) in infants with functional 
+chronic constipation: a double-blind, randomized, placebo-controlled 
+study. J Pediatr 2010;157:598–602.
+ 131. Guerra PV, Lima LN, Souza TC, et al. Pediatric functional consti-
+pation treatment with Biidobacterium-containing yogurt: a cross-
+over, double-blind, controlled trial. World J Gastroenterol 2011;17: 
+3916–21.
+ 132. Jadresin O, Sila S, Trivic I, et al. Lack of beneit of lactobacillus reuteri 
+DSM 17938 as an addition to the treatment of functional constipation. 
+J Pediatr Gastroenterol Nutr 2018;67:763–6.
+ 133. Kubota M, Ito K, Tomimoto K, et al. Lactobacillus reuteri DSM 
+17938 and magnesium oxide in children with functional chronic 
+constipation: a double-blind and randomized clinical trial. 
+Nutrients 2020;12:225.
+ 134. Russo M, Giugliano FP, Quitadamo P, Mancusi V, Miele E, Staiano 
+A. Eicacy of a mixture of probiotic agents as complementary ther-
+apy for chronic functional constipation in childhood. Ital J Pediatr 
+2017;43:24.
+ 135. Sadeghzadeh M, Rabieefar A, Khoshnevisasl P, Mousavinasab N, 
+Eftekhari K. The efect of probiotics on childhood constipation: 
+a randomized controlled double blind clinical trial. Int J Pediatr 
+2014;2014:937212.
+ 136. Tabbers MM, Chmielewska A, Roseboom MG, et al. Fermented 
+milk containing Biidobacterium lactis DN-173 010 in childhood 
+constipation: a randomized, double-blind, controlled trial. Pediatrics 
+2011;127:e1392–9.
+ 137. Wegner A, Banaszkiewicz A, Kierkus J, et al. The efectiveness of 
+Lactobacillus reuteri DSM 17938 as an adjunct to macrogol in the 
+treatment of functional constipation in children. A randomized, 
+double-blind, placebo-controlled, multicentre trial. Clin Res Hepatol 
+Gastroenterol 2018;42:494–500.
+ 138. Horvath AC, Szajewska H. Functional constipation in children: a follow-
+up of two randomized controlled trials. Pediatria Polska 2103;88:219–23.
+ 139. Banaszklewicz AB, Szajewska H. Functional constipation in children: 
+a follow- up study. Pediatria Wspolczesna 2006;8:21–3.
+ 140. Wojtyniak K, Horvath A, Dziechciarz P, Szajewska H. Lactobacillus 
+casei rhamnosus Lcr35 in the management of functional constipation 
+in children: a randomized trial. J Pediatr 2017;184:101–105.e1.
+ 141. Zafeiropoulou K, Nichols B, Mackinder M, et al. Alterations in intes-
+tinal microbiota of children with celiac disease at the time of diagnosis 
+and on a gluten-free diet. Gastroenterology 2020;159:2039–2051.e20.
+ 142. Olivares M, Castillejo G, Varea V, Sanz Y. Double-blind, randomised, 
+placebo-controlled intervention trial to evaluate the efects of 
+Biidobacterium longum CECT 7347 in children with newly diag-
+nosed coeliac disease. Br J Nutr 2014;112:30–40.
+ 143. Seiler CL, Kilen M, Stefanolo JP, et al. Probiotics for celiac disease: 
+a systematic review and meta-analysis of randomized controlled trials. 
+Am J Gastroenterol 2020;115:1584–95.
+ 144. Klemenak M, Dolinšek J, Langerholc T, Di Gioia D, Mičetić-Turk D. 
+Administration of biidobacterium breve decreases the production of 
+TNF-α in children with celiac disease. Dig Dis Sci 2015;60:3386–92.
+ 145. Hegar B, Hutapea EI, Advani N, Vandenplas Y. A double-blind pla-
+cebo-controlled randomized trial on probiotics in small bowel bacte-
+rial overgrowth in children treated with omeprazole. J Pediatr (Rio J) 
+2013;89:381–7.
+ 146. Besselink MG, van Santvoort HC, Buskens E, et al. Probiotic pro-
+phylaxis in predicted severe acute pancreatitis: a randomised, double-
+blind, placebo-controlled trial. Lancet 2008;371:651–9.
+ 15364801, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003633 by Cochrane France, Wiley Online Library on [13/01/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,8503 @@
+
+
+[page 1]
+Glucosamine therapy for treating osteoarthritis (Review)
+Towheed T, Maxwell L, Anastassiades TP, Shea B, Houpt JB, Welch V, Hochberg MC, Wells GA
+This is a reprint of a Cochrane review, prepared and maintained by The Cochrane Collaboration and published in The Cochrane Library
+2009, Issue 4
+http://www.thecochranelibrary.com
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+T A B L E
+O F
+C O N T E N T S
+1
+HEADER
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+ABSTRACT
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+PLAIN LANGUAGE SUMMARY
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+SUMMARY OF FINDINGS FOR THE MAIN COMPARISON
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+BACKGROUND
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+OBJECTIVES
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+METHODS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+RESULTS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+ADDITIONAL SUMMARY OF FINDINGS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+DISCUSSION
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+AUTHORS’ CONCLUSIONS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+ACKNOWLEDGEMENTS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+REFERENCES
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+CHARACTERISTICS OF STUDIES
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+44
+DATA AND ANALYSES .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Analysis 1.1. Comparison 1 Glucosamine versus placebo, Outcome 1 Pain. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+46
+Analysis 1.2. Comparison 1 Glucosamine versus placebo, Outcome 2 Lequesne Index. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+47
+Analysis 1.3. Comparison 1 Glucosamine versus placebo, Outcome 3 Lequesne Index. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+48
+Analysis 1.4. Comparison 1 Glucosamine versus placebo, Outcome 4 WOMAC Pain Subscale. .
+.
+.
+.
+.
+.
+.
+.
+48
+Analysis 1.5. Comparison 1 Glucosamine versus placebo, Outcome 5 WOMAC Stiffness Subscale.
+.
+.
+.
+.
+.
+.
+49
+Analysis 1.6. Comparison 1 Glucosamine versus placebo, Outcome 6 WOMAC Function Subscale.
+.
+.
+.
+.
+.
+.
+50
+Analysis 1.7. Comparison 1 Glucosamine versus placebo, Outcome 7 WOMAC Total. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+51
+Analysis 1.8. Comparison 1 Glucosamine versus placebo, Outcome 8 Mean Joint Space Width. .
+.
+.
+.
+.
+.
+.
+.
+51
+Analysis 1.9. Comparison 1 Glucosamine versus placebo, Outcome 9 Minimum Joint Space Width.
+.
+.
+.
+.
+.
+.
+52
+Analysis 1.10. Comparison 1 Glucosamine versus placebo, Outcome 10 Patient global assessment of disease status score (0-
+100mm scale).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+52
+Analysis 1.11. Comparison 1 Glucosamine versus placebo, Outcome 11 Patient global assessment - number responding
+they are better than at start of trial.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+53
+Analysis 1.12. Comparison 1 Glucosamine versus placebo, Outcome 12 Physician global assessment of disease status score
+(0-100). .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+53
+Analysis 1.13. Comparison 1 Glucosamine versus placebo, Outcome 13 Physician global assessment of good or excellent
+response.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+54
+Analysis 1.14. Comparison 1 Glucosamine versus placebo, Outcome 14 Osteoarthritis Research Society International
+Responder Criteria (OARSI).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+54
+Analysis 1.15. Comparison 1 Glucosamine versus placebo, Outcome 15 Toxicity (Number of Patients Reporting Adverse
+Events). .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+55
+Analysis 1.16. Comparison 1 Glucosamine versus placebo, Outcome 16 Toxicity (Number of Withdrawals due to Adverse
+Events). .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+56
+Analysis 2.1. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 1 Pain. .
+.
+.
+57
+Analysis 2.2. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 2 Lequesne Index.
+57
+Analysis 2.3. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 3 Toxicity (Number
+of Patients Reporting Adverse Events).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+58
+Analysis 2.4. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 4 Toxicity (Number
+of Withdrawals due to Adverse Events). .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+59
+Analysis 3.1. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 1 Pain. .
+.
+.
+60
+Analysis 3.2. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 2 Lequesne Index.
+61
+Analysis 3.3. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 3 Lequesne Index.
+61
+Analysis 3.4. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 4 WOMAC Pain
+Subscale.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+62
+Analysis 3.5. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 5 WOMAC Stiffness
+Subscale.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63
+i
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 3]
+Analysis 3.6. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 6 WOMAC
+Function Subscale.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+64
+Analysis 3.7. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 7 WOMAC Total.
+65
+Analysis 3.8. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 8 Minimum Joint
+Space Width. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+66
+Analysis 3.9. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 9 Toxicity (Number
+of Patients Reporting Adverse Events).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+67
+Analysis 3.10. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 10 Toxicity
+(Number of Withdrawals due to Adverse Events).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+68
+Analysis 4.1. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 1 Pain. .
+.
+.
+.
+.
+.
+.
+.
+69
+Analysis 4.2. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 2 Lequesne Index.
+.
+.
+.
+.
+70
+Analysis 4.3. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 3 Lequesne Index.
+.
+.
+.
+.
+70
+Analysis 4.4. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 4 WOMAC Pain Subscale. .
+71
+Analysis 4.5. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 5 WOMAC Stiffness Subscale.
+71
+Analysis 4.6. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 6 WOMAC Function Subscale.
+72
+Analysis 4.7. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 7 WOMAC Total. .
+.
+.
+.
+72
+Analysis 5.1. Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 1 Pain.
+.
+.
+.
+.
+.
+.
+73
+Analysis 5.2. Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 2 WOMAC Total.
+.
+.
+74
+Analysis 5.3. Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 3 WOMAC Pain Subscale.
+75
+Analysis 5.4. Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 4 WOMAC Stiffness
+Subscale.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+76
+Analysis 5.5. Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 5 WOMAC Function
+Subscale.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+77
+77
+ADDITIONAL TABLES .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+78
+APPENDICES
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+79
+WHAT’S NEW .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+79
+HISTORY .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+79
+CONTRIBUTIONS OF AUTHORS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+80
+DECLARATIONS OF INTEREST .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+80
+SOURCES OF SUPPORT
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+80
+INDEX TERMS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ii
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 4]
+[Intervention Review]
+Glucosamine therapy for treating osteoarthritis
+Tanveer Towheed1, Lara Maxwell2, Tassos P Anastassiades3, Beverley Shea2, JB Houpt4, Vivian Welch5, Marc C Hochberg6, George
+A Wells7
+1Departmentof Medicine andof Community Health and Epidemiology, Queen’sUniversity, Kingston, Canada. 2Institute of Population
+Health, University of Ottawa, Ottawa, Canada. 3Medicine and Biochemistry, Queen’s University, Kingston, Canada. 4University of
+Toronto, Toronto, Canada. 5Centre for Global Health, Institute of Population Health, University of Ottawa, Ottawa, Canada. 6School
+of Medicine, University of Maryland, Baltimore, MD, USA. 7Cardiovascular Research Reference Centre, University of Ottawa Heart
+Institute, Ottawa, Canada
+Contact address: Tanveer Towheed, Department of Medicine and of Community Health and Epidemiology, Queen’s University,
+Etherington Hall-Room 2066, Kingston, Ontario, K7L 3N6, Canada. tt5@queensu.ca.
+Editorial group: Cochrane Musculoskeletal Group.
+Publication status and date: New search for studies and content updated (no change to conclusions), published in Issue 4, 2009.
+Review content assessed as up-to-date: 11 November 2008.
+Citation:
+Towheed T, Maxwell L, Anastassiades TP, Shea B, Houpt JB, Welch V, Hochberg MC, Wells GA. Glucosamine
+therapy for treating osteoarthritis. Cochrane Database of Systematic Reviews 2005, Issue 2. Art. No.: CD002946. DOI:
+10.1002/14651858.CD002946.pub2.
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Osteoarthritis (OA) is a common form of arthritis and is often associated with signiﬁcant disability and impaired quality of life. This
+is an update of a Cochrane review ﬁrst published in 2001 and previously updated in 2005.
+Objectives
+To review randomized controlled trials (RCTs) evaluating the effectiveness and toxicity of glucosamine in OA.
+Search methods
+We searched CENTRAL and the Cochrane Database of Systematic Reviews (The Cochrane Library), MEDLINE, PREMEDLINE,
+EMBASE, AMED, ACP Journal Club, DARE (to January 2008); contacted content experts, and handsearched reference lists and
+pertinent review articles.
+Selection criteria
+RCTs evaluating the effectiveness and safety of glucosamine in OA.
+Data collection and analysis
+Data abstraction was performed independently by two review authors and investigators were contacted for missing data.
+Main results
+This update includes 25 studies with 4963 patients. Analysis restricted to studies with adequate allocation concealment failed to show
+any beneﬁt of glucosamine for pain (based on a pooled measure of different pain scales) and WOMAC pain, function and stiffness
+subscales; however, it was found to be better than placebo using the Lequesne index (standardized mean difference (SMD) -0.54;
+95% conﬁdence interval (CI) -0.96 to -0.12). Collectively, the 25 RCTs favoured glucosamine with a 22% (change from baseline)
+improvement in pain (SMD -0.47; 95% CI -0.72 to -0.23) and a 11% (change from baseline) improvement in function using the
+1
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 5]
+Lequesne index (SMD -0.47; 95% CI -0.82 to -0.12). However, the results were not uniformly positive and the reasons for this remain
+unexplained. WOMAC pain, function and stiffness outcomes did not reach statistical signiﬁcance.
+RCTs in which the Rotta preparation of glucosamine was compared to placebo found glucosamine superior for pain (SMD -1.11;
+95% CI -1.66 to -0.57) and function (Lequesne index SMD -0.47; 95% CI -0.82 to -0.12). Pooled results for pain (SMD -0.05;
+95% CI -0.15 to 0.05) and function using the WOMAC index (SMD -0.01; 95% CI -0.13 to 0.10) in those RCTs using a non-Rotta
+preparation of glucosamine did not reach statistical signiﬁcance. Two RCTs using the Rotta preparation showed that glucosamine was
+able to slow radiological progression of OA of the knee over a three-year period (mean difference (MD) 0.32; 95% CI 0.05 to 0.58).
+Glucosamine was as safe as placebo in terms of the number of participants reporting adverse reactions (relative risk ratio 0.99; 95% CI
+0.91 to 1.07).
+Authors’ conclusions
+Pooled results from studies using a non-Rotta preparation or adequate allocation concealment failed to show beneﬁt in pain and
+WOMAC function while those studies evaluating the Rotta preparation showed that glucosamine was superior to placebo in the
+treatment of pain and functional impairment resulting from symptomatic OA.
+P L A I N
+L A N G U A G E
+S U M M A R Y
+Glucosamine for osteoarthritis
+This summary of a Cochrane review presents what we know from research about the effect of glucosamine on osteoarthritis.
+People with osteoarthritis who take glucosamine:
+- may reduce their pain
+- may improve their physical function
+- will probably not have side effects
+What is osteoarthritis and glucosamine?
+Osteoarthritis (OA) is the most common form of arthritis that can affect the hands, hips, shoulders and knees. In OA, the cartilage
+that protects the ends of the bones breaks down and causes pain and swelling. Drug and non-drug treatments are used to relieve pain
+and/or swelling.
+Glucosamine can be found naturally in the body and is used by the body as one of the building blocks of cartilage. Glucosamine can
+also be taken as a pill as a supplement to the diet, or sometimes as an injection. It can come in combination with other supplements
+(such as chondroitin), or by itself in the form of glucosamine hydrochloride or sulphate. The usual dose recommended on packages is
+1500 mg per day or 500 mg three times a day.
+In Europe, glucosamine is prescribed by health care providers. But in North America, people can buy glucosamine supplements without
+a prescription. This means that, in North America, glucosamine is not regulated and the pills may or may not truly contain the amount
+described on the label.
+Best estimate of what happens after about 6 months
+Pain: The high quality studies showed that pain improved about the same whether people took glucosamine or fake pills. If all of the
+studies are examined (including low quality and old studies), then glucosamine improved pain more than fake pills.
+People who took fake pills had a pain score of 7 points on a 0 to 100 scale. Pain may improve by 10 more points with glucosamine
+than with fake pills.
+Studies testing only the Rotta brand of glucosamine (including low quality and older studies) showed that glucosamine improved pain
+more than fake pills. People who took fake pills had a pain score of 6 points on a 0 to 20 scale. People who took the Rotta brand of
+glucosamine rated their pain 3 points lower than people who did not take glucosamine.
+Function: The high quality studies show that glucosamine improved function more than fake pills when measured by one type of scale,
+but improved the same amount as fake pills when measured by another scale.
+2
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 6]
+Studies testing only the Rotta brand of glucosamine (including low quality and older studies) showed that glucosamine improved
+function more than fake pills. People who took fake pills had a function score of 22 points on a 0 to 68 scale. People who took the
+Rotta brand of glucosamine had their ability to function improve by 2 points compared to people who did not take glucosamine.
+There was no difference in the number of people who had side effects. Side effects mainly included stomach upset and other joint
+pain.
+3
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 7]
+S U M M A R Y
+O F
+F I N D I N G S
+F O R
+T H E
+M A I N
+C O M P A R I S O N [Explanation]
+Glucosamine versus placebo for treating osteoarthritis
+Patient or population: patients with treating osteoarthritis
+Settings:
+Intervention: Glucosamine versus placebo (adequate allocation concealment)
+Outcomes
+Illustrative comparative risks* (95% CI)
+Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Assumed risk
+Corresponding risk
+Control
+Glucosamine
+versus
+placebo (adequate allo-
+cation concealment)
+Pain based on WOMAC
+pain scale
+Scale from: 0 (no pain) to
+20 (worst pain).
+(follow-up:
+mean
+6
+months)
+The mean pain based on
+womac pain scale in the
+control groups was
+6.6 points
+The mean Pain based on
+WOMAC pain scale in the
+intervention groups was
+0.7 lower
+(1.5 lower to 0.17 higher)
+2173
+(11)
+⊕⊕⊕⃝
+moderate1
+SMD -0.16 (95% CI -
+0.36 to 0.04, see out-
+come 3.1). Relative per
+cent change from base-
+line is -7% (95% CI -17%,
+1.8%). Note that when
+all studies are pooled to-
+gether, the result is statis-
+tically significant: SMD=
+-0.47 (95% CI -0.72, -
+0.23, see outcome 1.1)
+. This corresponds to a
+10 point improvement on
+a 0 to 100 scale. When
+studies using the Rotta
+preparation are pooled to-
+gether, the result is statis-
+tically significant: SMD=
+-1.11 ( 95% CI -1.66, -0.
+4
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 8]
+57, see outcome 4.1 and
+Summary of Findings Ta-
+ble 2)
+WOMAC Function Sub-
+scale
+Scale from: 0 to 68.
+(follow-up:
+median
+6
+months)
+The mean womac func-
+tion subscale in the con-
+trol groups was
+31.6 points
+The mean WOMAC Func-
+tion Subscale in the inter-
+vention groups was
+1.02 lower
+(2.04 lower to 0 higher)
+2017
+(9)
+⊕⊕⊕⊕
+high
+SMD -0.08 (95% CI -0.
+17 to 0.00, see outcome
+3.6). Relative per cent
+change from baseline is
+-3% (95% CI -6%, 0%)
+. Note that when studies
+using the Rotta prepara-
+tion are pooled together,
+the SMD is -0.19 (95%
+CI -0.35, -0.03, see out-
+come 4.6) which is sta-
+tistically significant. See
+Summary of Findings Ta-
+ble 2
+Physician
+Global
+As-
+sessment
+100 mm visual analogue
+scale. Scale from: 0 to
+100.
+(follow-up: 6 months)
+The
+mean
+physician
+global assessment in the
+control groups was
+37.1 mm
+The
+mean
+Physician
+Global Assessment in the
+intervention groups was
+0.80 higher
+(2.78
+lower
+to
+4.38
+higher)
+630
+(1)
+⊕⊕⊕⃝
+moderate1,2
+MD 0.80 (95% CI -2.78,
+4.38). Relative per cent
+change from baseline is -
+1.5% (95% CI -5.4%, 8.
+5%)See Results section,
+#10
+Patient Global Assess-
+ment
+(patients rated whether
+they were better at the end
+of trial than at the start of
+the trial)
+(follow-up:
+mean
+6
+months)
+Medium risk population
+RR 1.21
+(0.8 to 1.82)
+118
+(1)
+⊕⊕⊕⃝
+moderate3
+40 per 100
+48 per 100
+(32 to 73)
+5
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 9]
+Minimum Joint Space
+Width
+mm
+(follow-up: mean 3 years)
+The mean minimum joint
+space width in the control
+groups was
+3.55 mm
+The mean Minimum Joint
+Space Width in the inter-
+vention groups was
+0.32 higher
+(0.05 to 0.58 higher)
+414
+(2)
+⊕⊕⊕⊕
+high
+MD 0.32 (95% CI 0.05 to
+0.58, see outcome 3.8).
+Toxicity (Number of Pa-
+tients Reporting Adverse
+Events)
+Medium risk population
+RR 0.99
+(0.91 to 1.07)
+1640
+(9)
+⊕⊕⊕⊕
+high
+53 per 100
+53 per 100
+(48 to 57)
+Toxicity
+(Number
+of
+Withdrawals due to Ad-
+verse Events)
+Medium risk population
+RR 0.76
+(0.54 to 1.07)
+2435
+(12)
+⊕⊕⊕⃝
+moderate4
+4 per 100
+3 per 100
+(2 to 5)
+*The basis for the assumed risk (e.g. the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% confidence interval) is based on the
+assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval; RR: Risk ratio;
+GRADE Working Group grades of evidance
+High quality: Further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+1 Heterogeneity fairly high; I-squared=79%
+2 Only 1 study and wide confidence interval
+3 Few events; only 1 study
+4 Confidence interval crosses threshold for appreciable benefit or harm of a RRR or RRI of 25%. Also, number of events is less than 300.
+6
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 10]
+B A C K G R O U N D
+Osteoarthritis (OA) is the most common form of arthritis, and it is
+often associated with signiﬁcant disability and an impaired quality
+of life ( Badley 1995; Moralestorres 1996; Scott 1993; Towheed
+1998). An estimated 12.1% of Americans aged 25 years and older
+(nearly 21 million persons in 1990) have clinical signs and symp-
+toms of OA (Lawrence 1998). Among US adults aged 30 years
+or older, symptomatic disease in the knee occurs in approximately
+6% and symptomatic disease in the hip occurs in approximately
+3% (Felson 2000). OA of the hip and knee can be especially dis-
+abling to lower extremity functioning because the hip and knee are
+large weight-bearing joints (Liang 1984). Advanced OA of the hip
+or knee is the most common reason for elective joint replacement
+(Hochberg 1996).
+Although there are nocurative therapiescurrentlyavailable forOA,
+individualizedtreatmentprogramsare available tohelprelieve pain
+and stiffness and to maintain or improve functional status (ACR
+2000; Creamer 1998; Hochberg 1995a; Hochberg 1995b). Treat-
+ment strategies for OA have included both non-pharmacological
+and pharmacological modalities (Creamer 1997). Non-pharma-
+cological therapy is considered to be the foundation for the suc-
+cessful medical management of OA (Felson 1998; Puett 1994).
+These modalities include weight reduction (if obese), physiother-
+apy (for example muscle strengthening), and occupational therapy
+(for example, use of assistive devices for ambulation).
+Non-steroidal anti-inﬂammatory drugs (NSAIDs) are considered
+bymanyphysicianstobe the preferredagentsforthe pharmacolog-
+ical management of OA. In support of this, randomized controlled
+trials (RCTs) attest to the superior efﬁcacy of NSAIDs as com-
+pared with placebo (Towheed 1997a; Towheed 1997b; Towheed
+2002). However, there are certain disadvantages of routinely us-
+ing NSAIDs in OA. For example, all NSAIDs (non-selective and
+COX-2 selective) are associated with signiﬁcant potential toxic-
+ity, particularly in the elderly population (Deviere 2002; Gabriel
+1991; Garner 2002; Grifﬁn 1991; Wright 2002). COX-2 selective
+inhibitors have also been associated with an increased risk of car-
+diovascular disease. Rofecoxib, a COX-2 selective inhibitor, was
+recently withdrawn from the world market due to concerns in this
+regard (Sibbald 2004).
+There is also a concern that NSAIDs may be toxic to articular car-
+tilage (Herman 1986) and that they may accelerate the course of
+OA of the hip (Rashad 1989). Given that OA is the most prevalent
+form of arthritis and that the number of persons affected with OA
+will increase signiﬁcantly in the near future, ﬁnding alternative,
+safer pharmacological therapies for OA is of considerable impor-
+tance.
+Recentadditionstothe optionsforpharmacological therapyof OA
+have included biological compounds, such as hyaluronans, chon-
+droitin sulfate, and glucosamine (Lozada 1997). Although not yet
+proven, these compounds may also potentially be chondroprotec-
+tive, in that they may favourably modify the natural progression
+and course of OA. Glucosamine compounds, in particular, have
+attracted a great deal of attention, mostly in the lay press and less
+so in the scientiﬁc literature (Anderson 2005; Barclay 1998; Da
+Camara 1998; Towheed 1999; Towheed 2000; Towheed 2002;
+Towheed 2003, Towheed 2007). There appears to be controversy
+as to the relative efﬁcacy of glucosamine, and as to whether glu-
+cosamine can indeed modify the progression of OA (Reginister
+2003).
+For the purposes of this review, GS refers to glucosamine sul-
+fate and GH refers to glucosamine hydrochloride, whereas glu-
+cosamine refers to both compounds. GS is a natural substance
+and is the building block of the ground substance of the ar-
+ticular cartilage, the proteoglycans. The rationale for the use of
+GS in OA is based largely on in-vitro and animal models of os-
+teoarthritis. For example, GS has been shown to normalize car-
+tilage metabolism, rebuild experimentally damaged cartilage, and
+demonstrate mild anti-inﬂammatory properties (Bassleer 1992;
+McCarty 1994; Roden 1956; Rovati 1993; Setnikar 1991a; Vidal
+1978).
+O B J E C T I V E S
+To assess the effectiveness and toxicity of glucosamine in the phar-
+macological management of OA. Both symptomatic effectiveness
+and structural effectiveness (that is, delay in radiological progres-
+sion of OA) were evaluated.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Two levels of criteria were used to identify all relevant studies for
+this review. The ﬁrst criteria were used to screen all citations that
+involved glucosamine in the management of OA. The second cri-
+teria were used to identify those studies that met the following ad-
+ditional requirements: 1) RCTs evaluating the efﬁcacy and toxic-
+ity of glucosamine in OA, 2) both placebo-based and comparative
+studies were eligible, 3) both single-blinded and double-blinded
+trials were eligible, 4) studies to be included in the quantitative
+portion of the review (meta-analysis) must have presented suitable
+quantitative data for pooling across trials, 5) studies that enrolled
+participants with OA at any body site were eligible with the only
+exception being studies that evaluated glucosamine in temporo-
+mandibular joint (TMJ) disorders, 6) only studies which evalu-
+ated glucosamine-only preparations were included (studies which
+evaluated combination products containing glucosamine in asso-
+ciation with other active compounds, for example chondroitin,
+7
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 11]
+were excluded), 7) glucosamine could have been administered by
+any route.
+Types of participants
+All adult (of age 18 years and older) humans with a diagnosis of
+either primary or secondary OA at any site, including the axial
+and peripheral skeleton. Studies that evaluated glucosamine in
+disorders of the temporomandibular joint (TMJ) were excluded
+from this review. Disorders of the TMJ have not been typically
+managed by arthritis experts and TMJ disease differs from other
+joints that are affected by OA in terms of its epidemiology and
+management.
+Types of interventions
+Only studies that evaluated the efﬁcacy or toxicity, or both, of
+glucosamine in OA were eligible. Both placebo-controlled and
+comparative RCTs were included.
+Types of outcome measures
+At least one outcome measure must have been used to measure
+response to treatment. The main outcome measures of pain, range
+of motion, functional assessment, and global assessment satisﬁed
+this criterion. The hierarchy of outcomes (Bellamy 1997) that
+were extracted consisted of: 1) pain measured by any method,
+and 2) functional assessment measured by a validated health sta-
+tus questionnaire (for example, the WOMAC), 3) patient global
+assessment, 4) physician global assessment, and 5) range of mo-
+tion of study joint. Structural beneﬁts, deﬁned as the ability of
+glucosamine to delay the natural radiological progression of OA,
+were studied. Toxicity of glucosamine was also considered to rep-
+resent a relevant outcome measure (measured by the number of
+participants reporting any adverse events and by the number of
+participant withdrawals due to toxicity).
+Search methods for identiﬁcation of studies
+A MEDLINE search (1966 to November 1999) was used to iden-
+tify all relevant RCTs for the ﬁrst version of this Cochrane Review.
+For the second version of the Cochrane Review, all searches were
+updated (in January 2005). The same MEDLINE search strategy
+was extended for this updated version of the review (up to week 1,
+January 2008). MEDLINE In-Process and other non-indexed ci-
+tations were also searched (January 2008); MEDLINE Daily Up-
+date was searched (January 2008). In addition, the Cochrane Cen-
+tral Register of Controlled Trials (CENTRAL) and the Cochrane
+Database of Systematic Reviews (CDSR) (The Cochrane Library),
+AmericanCollege of Physicians(ACP)Journal Club, andDatabase
+of Abstracts of Reviews of Effectiveness (DARE) were searched (up
+to January 2008); Allied and Complementary Medicine (AMED)
+was searched (1985 to January 2008); and EMBASE was searched
+(1980 to week 2, January 2008). No language or age restrictions
+were used for any of the electronic searches. Reference lists of all
+identiﬁed citations were manually searched. In addition, letters
+were sent to authors and content experts for assistance in retrieving
+additional RCTs, especially those that were unpublished. A major
+manufacturer of glucosamine (Rotta Pharm) was also contacted
+for additional trials. For this version of the Cochrane Review, the
+search strategy was updated in January 2008.
+The electronic search strategies for MEDLINE; EMBASE; CEN-
+TRAL, CDSR, ACP Journal Club, DARE; and AMED can be
+found in Appendix 1.
+Data collection and analysis
+Study identiﬁcation (identifying citations that involve GS or
+GH in the therapy of OA)
+Two review authors (TT and TP or LM) used the screening cri-
+teria to review all identiﬁed citations independently. All citations
+identiﬁed by either investigator were retrieved and analyzed for
+suitability. Authors of abstracts were contacted requesting the full
+manuscript, including the raw and ﬁnal data incorporating the
+results.
+Study selection (screening identiﬁed citations to see if they
+meet our additional criteria)
+Two review authors (TT and TP or LM) reviewed each relevant
+citation independently to see if it met the selection criteria de-
+scribed previously. At this stage, an emphasis was placed on se-
+lecting RCTs and excluding non-randomized treatment studies.
+If the randomization status was not clear, the article was with-
+held pending clariﬁcation from the principal author. In situations
+where authors were not available, then a consensus was reached
+amongst the investigators.
+Data Extraction
+Two review authors (TT and TP or LM) independently reviewed
+each RCT and extracted the raw data (for example, trial char-
+acteristics, participant demographics, outcome variables, results,
+features of trial quality) by using a standardized form. If outcome
+data were not reported in a form suitable for quantitative pooling
+in a meta-analysis, the primary author was contacted for access to
+this information. Data on adverse effects were also extracted from
+the RCTs. A consensus method was used in the event of disagree-
+ment.
+Assessment of methodological quality
+The individual criteria designed for a validated scale (Jadad 1996)
+along with the criterion of allocation concealment were used to
+assess the methodological quality of the 25 glucosamine RCTs that
+were included in this version of the Cochrane review. The report-
+ing of the following individual components were assessed: descrip-
+tion and method of generation of the randomization sequence,
+description and method of blinding, the number of and reasons
+for withdrawals and dropouts in both groups, and the method of
+allocation concealment. Each criterion was rated as ’met’ or ’not
+8
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 12]
+met’. For generation of the randomization sequence, appropri-
+ate methods of randomization included random number tables or
+computer generated sequences; date of birth or hospital numbers
+were considered inappropriate randomization methods. Identical
+placebo or an active placebo were considered appropriate meth-
+ods of double-blinding. For allocation concealment, ’met’ meant
+that allocation concealment was adequately described in the RCT,
+while ’not met’ meant an unclear or inadequate allocation con-
+cealment status.
+Data analysis
+For quantitative outcome data, standardized mean differences
+(SMD) were used to pool across RCTs (Hedges 1985; Petitti
+1994). It is important to note that we used the end of study means
+and standard deviations for the meta-analyses. If either of these
+were not available in the trial report, the principal author was con-
+tacted for additional information. In the absence of this informa-
+tion, we estimated the end of study standard deviation by using
+the baseline standard deviation. For categorical outcome data with
+two categories, the relative risk ratio (RR) was calculated (Petitti
+1994). Heterogeneity was tested with a Chi2 test and the I2 statis-
+tic, available in RevMan 5.0. A ﬁxed-effect model was used unless
+heterogeneity was signiﬁcant (P < 0.10), in which case the ran-
+dom-effects model was used.
+Sensitivity and subgroup analysis
+An ad-hoc sensitivity analysis was carried out to see if effect sizes
+varied on pain, function, and radiologic measures when only those
+studies with adequate allocation concealment were analyzed. An
+ad-hoc subgroup analysis was performed on those studies using
+the Rotta preparation of glucosamine versus those that did not
+use the Rotta preparation to determine if the effect sizes varied on
+pain and function.
+R E S U L T S
+Description of studies
+See: Characteristicsof includedstudies; Characteristicsof excluded
+studies.
+Results of search strategy
+The MEDLINE search strategy (1966 to November 1999) re-
+sulted in a total of 61 citations. From these 61 citations, 11
+RCTs were identiﬁed that evaluated the efﬁcacy of glucosamine
+(Crolle 1980; D’ambrosio 1981; Drovanti 1980; Houpt 1999;
+Muller-FassBender 94; Noack 1994; Pujalte 1980; Qiu 1998;
+Reichelt 1994; Vaz 1982; Vajaradul 1981). The updated MED-
+LINE search (1996 to week 3, November 2004) resulted in a total
+of 201 citations. An additional four RCTs were identiﬁed from
+this search (Hughes 2002; Pavelka 2002; Reginster 2001; Rindone
+2000). The EMBASE search (1980 to week 28, 2003) resulted in a
+total of 207 citations, of which one additional RCT was identiﬁed
+(Zenk 2002). Another EMBASE search (1996 to week 2, 2005) re-
+sulted in a total of 280 references from which one additional RCT
+was identiﬁed (Usha 2004). The MEDLINE in-Process and other
+non-Indexedcitationssearch (January 6,2005) resultedin eightci-
+tations containing two additional RCTs (Cibere 2004; McAlindon
+2004). MEDLINE daily update (November 17, 2004) did not
+identifyanyrelevantcitations. The CENTRAL,CDSR, ACP Jour-
+nal Club, DARE search (October 2004) identiﬁed a total of 52
+citations, but no additional RCTs were found. AMED identiﬁed
+24 citations, but no additional RCTs were found. One unpub-
+lished full manuscript reporting a RCT was sent to us by Rotta
+Pharm; a reference to this study was available in abstract form
+(Rovati 1997). This study was included in the meta-analysis since
+the full manuscript contained all the relevant details necessary for
+its critical appraisal and for inclusion in the quantitative portion
+of the review. Rotta Pharm also sent us three unpublished brief
+technical reports reporting RCTs evaluating their GS preparation.
+These three brief unpublished technical reports were not included
+in the meta-analyses. No additional RCTs were identiﬁed by con-
+tact with content experts. Therefore, collectively the search strate-
+gies resulted in a total of 20 English language RCTs (19 published
+and one unpublished) that were included in the meta-analysis.
+For the January 2008 update of the electronic searches, the search
+strategies identiﬁed an additional ﬁve RCTs that met the inclusion
+criteria for this review (Clegg 2006; Herrero-Beaumont 2007;
+Mehta 2007; Qiu 2005; Rozendaal 2008).
+Trial demographics and features
+The 25 identiﬁed RCTs that were included in the meta-analysis are
+listed in the ’Characteristics of included studies’ table. The years
+of publication (or reporting date) ranged from 1980 to 2008. Six
+RCTswere publishedinthe 1980s,sixwere published(orreported)
+in the 1990s, eight were published in the years 2000 to 2004, and
+ﬁve were published in the years 2005 to 2008. All were double-
+blind, randomized parallel-group trials and contained a total of
+4963 adults with a mean age of 60.7 years (69% were female).
+A total of 1905 participants were randomized to treatment with
+glucosamine and 3058 were randomized to the comparator groups
+(placebo or active comparator). The mean number of participants
+randomized in each of the 25 RCTs was 198 (76 to glucosamine
+groups and 122 to comparator groups). The mean number com-
+pleting each of the RCTs was 164 (83% completed the RCTs).
+The mean trial duration was 25.5 weeks. The country of origin
+(number of RCTs) included: Italy (3), Germany (3), Canada (2),
+France (1), Thailand (1), China (2), Portugal (2), USA (4), UK
+(1), Philippines (1), Belgium (1), India (2), the Czech Repub-
+lic (1), Spain (1), and the Netherlands (1). One RCT included
+participants from both Spain and Portugal (Herrero-Beaumont
+2007). Only six North American RCTs were found (Cibere 2004;
+Clegg 2006; Houpt 1999; McAlindon 2004; Rindone 2000; Zenk
+2002). All of the RCTs were published in the English language
+with the exception of the Qiu study (Qiu 2005), which was pub-
+lished in Chinese but had an English abstract.
+9
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 13]
+Twenty of the 25 RCTs compared glucosamine to a placebo
+(18 used GS and two used GH), whereas, ﬁve RCTs compared
+glucosamine to an NSAID (ibuprofen in three, piroxicam in
+one, and celecoxib in one). Two studies compared glucosamine
+to both an NSAID and placebo (Clegg 2006; Rovati 1997).
+Only one RCT directly compared glucosamine to acetaminophen
+(Herrero-Beaumont 2007). Only one RCT directly compared GS
+with GH (Qiu 2005). One RCT (Mehta 2007) compared GS
+with a polyherbal supplement. The method of administration of
+glucosamine was quite variable in the RCTs. Twenty-one exclu-
+sively used an oral route, two used an intra-articular (IA) route,
+three used an intramuscular (IM) route, one used an intravenous
+(IV) route, and two used multiple routes (IM or IA and IM or
+IV). The dosage of glucosamine used in the RCTs was also quite
+variable. In the 21 RCTs using an oral route, the dosage was 1500
+mg/day, which was administered as either 1500 mg once daily (six
+RCTs), as 500 mg three times per day (14 RCTs), or as 750 mg
+two times per day (one RCT). In the RCTs using parenteral routes
+(IM, IA, IV), 400 mg of GS was administered either once daily
+(two RCTs), or twice weekly (one RCT).
+The type and site of OA evaluated was also heterogeneous in the
+25 RCTs. Twenty RCTs evaluated the knee exclusively, two evalu-
+ated OA at multiple sites (knee, hip, others), and two did not spec-
+ify the location of OA that was being evaluated. Only one RCT
+exclusively evaluated the hip (Rozendaal 2008). Participants with
+only primary OA were evaluated by eight RCTs; 17 RCTs did not
+make clear the distinction between primary and secondary OA.
+The method of classiﬁcation of OA was not described in 14 RCTs,
+whereas, ﬁve used the Lequesne’s Index, eight used the American
+College of Rheumatology (ACR) classiﬁcation criteria, and two
+RCTs used both the ACR and Lequesne classiﬁcation criteria. Ra-
+diographs of the target joints were obtained at baseline in 19 of
+the RCTs. Fourteen of these RCTs used published validated x-ray
+classiﬁcation criteria for OA.
+The outcome variables (number of RCTs) included: pain (25),
+range of motion (6), functional status (20), global patient derived
+(4), global investigator derived (11), radiographic assessment for
+changes in cartilage thickness (3), and health related quality of
+life (1). Eleven RCTs used the WOMAC instrument. Eight RCTs
+used the Lequesne Index.
+The majority of the RCTs (14/25, or 56%) had some form of
+relationship (by evaluating the Rotta brand of GS or some other
+afﬁliation) with Rotta Pharm, an Italian pharmaceutical manu-
+facturer of GS. Ten RCTs did not use the Rotta brand of glu-
+cosamine (Cibere 2004; Clegg 2006; Houpt 1999; Hughes 2002;
+Mehta 2007; Rindone 2000; Rozendaal 2008; Qiu 2005; Usha
+2004; Zenk 2002). One RCT used both a non-Rotta glucosamine
+preparation (about 90% of participants received this) and a Rotta
+glucosamine preparation (received by about 10% of participants)
+(McAlindon 2004). Fourteen of the RCTs (56%) only evaluated
+the Rotta brand of GS.
+The four identiﬁed RCTs that were not included in the meta-
+analysis are listed in the ’Characteristics of excluded studies’ table
+(Braham 2003; Magi 1997; Pipitone 1997; Rovati 1993). Reasons
+for their exclusion are also outlined in this table.
+Risk of bias in included studies
+An assessment of each study against the individual methodological
+quality criteria described in the methods section is provided in the
+table of methodological quality assessment (Table 1).
+All studies were reported as ’randomized’, but only 12 studies
+described the actual method of randomization. Twenty-one of the
+25 included studies reported an appropriate method of blinding.
+Most studies (76%) reported the reasons for withdrawals and
+dropouts in both comparator groups. Only 13 RCTs (52%) were
+rated as having adequate allocation concealment, whereas 12 RCTs
+(48%) were rated as having inadequate or unclear allocation con-
+cealment. There is evidence that inadequate allocation conceal-
+ment may result in an overestimation of the true treatment effect
+(Schulz 1995a). A post-hoc sensitivity analysis was undertaken
+to assess the results in only those studies where an appropriate
+method of allocation concealment was described.
+Effects of interventions
+See: Summary of ﬁndings for the main comparison Summary
+of ﬁndings (adequate allocation concealment); Summary of
+ﬁndings 2 Summary of ﬁndings (Rotta preparation)
+1. Comparing GS or GH versus placebo: results from 18 RCTs
+were pooled for the outcome variable of reduction in pain,
+where pain was measured by a number of different methods
+(Cibere 2004; Clegg 2006; Crolle 1980; D’ambrosio 1981;
+Drovanti 1980; Herrero-Beaumont 2007; Houpt 1999; Hughes
+2002; McAlindon 2004; Pavelka 2002; Pujalte 1980; Reginster
+2001; Rindone 2000; Rovati 1997; Rozendaal 2008; Usha 2004;
+Vajaradul 1981; Zenk 2002). The summary standardized mean
+difference (SMD) (random-effects model) was -0.47 (95% CI -
+0.72 to -0.23). A negative SMD in this case meant that glu-
+cosamine was signiﬁcantly superior to placebo in terms of its abil-
+ity to reduce levels of pain. The relative per cent change from
+baseline was 22% (using McAlindon 2004 in the calculation as
+the most representative study).
+2. Comparing GS to placebo for the Lequesne Index scores: results
+from ﬁve RCTs were pooled (Herrero-Beaumont 2007; Noack
+1994; Pavelka 2002; Reichelt 1994, Rovati 1997). The summary
+SMD (random-effects model) was -0.47 (95% CI -0.82 to -0.12).
+A negative SMD in this case meant that glucosamine was sig-
+niﬁcantly superior to placebo in terms of its ability to improve
+Lequesne Index scores. The relative per cent change from baseline
+was 11% (using Herrero-Beaumont 2007 in the calculation as the
+most representative study).
+10
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 14]
+3. Comparing GS to placebo for Lequesne Index scores in which
+the outcome was dichotomous (per cent responders based on
+change in Lequesne Index): relative risk ratios (RR) were pooled
+across two RCTs (Noack 1994; Reichelt 1994). The summary RR
+(ﬁxed-effect model) for likelihood of being a responder was 1.52
+(95% CI 1.20 to 1.91).
+4. Comparing GS or GH to placebo for WOMAC pain sub-
+scale scores: the summary SMD (ﬁxed-effect model) for 10 RCTs
+(Cibere 2004; Clegg 2006; Herrero-Beaumont 2007; Houpt
+1999; Hughes 2002; McAlindon 2004; Pavelka 2002; Reginster
+2001; Rozendaal 2008; Zenk 2002) was -0.06 (95% CI -0.14 to
+0.03). In this outcome there was no statistical difference between
+glucosamine and placebo.
+5. Comparing GS or GH to placebo for WOMAC stiffness sub-
+scale scores: the summary SMD (ﬁxed-effect model) for seven
+RCTs (Cibere 2004; Clegg 2006; Houpt 1999; Hughes 2002;
+Pavelka 2002; Rozendaal 2008; Zenk 2002) was -0.02 (95% CI -
+0.13 to 0.08). In this outcome there was no statistical difference
+between glucosamine and placebo.
+6. Comparing GS or GH to placebo for WOMAC function sub-
+scale scores: the summary SMD (ﬁxed-effect model) for 10 RCTs
+(Cibere 2004; Clegg 2006; Herrero-Beaumont 2007; Houpt
+1999; Hughes 2002; McAlindon 2004; Pavelka 2002; Reginster
+2001; Rozendaal 2008; Zenk 2002) was -0.08 (95% CI -0.17 to
+0.00). In this outcome there was no statistical difference between
+glucosamine and placebo.
+7. Comparing GS or GH to placebo for WOMAC total scores: the
+summary SMD (ﬁxed-effect model) for six RCTs (Cibere 2004;
+Herrero-Beaumont 2007; Houpt 1999; Pavelka 2002; Reginster
+2001; Zenk 2002) was -0.18 (95% CI -0.31 to - 0.05). In this
+outcome there was a statistical difference favoring glucosamine
+over placebo.
+8. Comparing GS to placebo for changes in minimum joint space
+width for the knee or hip: the summary mean difference (MD)
+(ﬁxed-effect model) for two RCTs (Pavelka 2002; Reginster 2001)
+measuring minimum joint space width at the knee was 0.32 (95%
+CI 0.05 to 0.58). This was statistically signiﬁcant in favour of glu-
+cosamine and showed that glucosamine slowed the natural radi-
+ological progression of OA. Rozendaal 2008 measured minimum
+joint space width changes in the hip and found inconsistent re-
+sults in the four sites they measured; however, none of the 95%
+CI achieved a minimal clinically important change of 0.25 mm.
+9. Comparing GS to placebo for patient global assessment: Clegg
+2006 measured the patient assessment of disease status score on
+a 0 to 100 scale and found a non-statistically signiﬁcant result
+(mean difference 1.10, 95% CI -2.77 to 4.97). Houpt 1999 asked
+patients to respond to whether they felt better than at the start of
+the trial and also found a non-statistically signiﬁcant result (RR
+1.21, 95% CI 0.80 to 1.82).
+10. Comparing GS to placebo for physician global assessment:
+Clegg 2006 measured the physician assessment of disease status
+score on a 0 to 100 scale and found a non-statistically signiﬁcant
+result (mean difference 0.80, 95% CI -2.78 to 4.38). This corre-
+sponds to a relative per cent change from baseline of -1.5% (95%
+CI -5.4%, 8.5%). The outcome measured in Drovanti 1980 and
+Pujalte 1980 was a physician rating of a good or excellent response
+of their patients. The pooled RR was 2.26 (95% CI 1.49 to 3.43)
+in favour of glucosamine.
+11. Comparing GS to an NSAID (piroxicam, ibuprofen, cele-
+coxib) for the outcome variable of pain, where pain was measured
+by a number of different methods: the summary pooled SMD
+(random-effects model) for four RCTs was -0.27 (95% CI -0.65
+to 0.11) (Clegg 2006; Qiu 1998; Rovati 1997; Vaz 1982). In this
+outcome there was no statistical difference between glucosamine
+and NSAIDs.
+12. Comparing GS to an NSAID (piroxicam, ibuprofen) for the
+outcome variable of change in the Lequesne Index scores: the
+summary SMD (random-effects model) for two pooled studies
+was -0.36 (95% CI -1.07 to 0.35) (Muller-FassBender 94; Rovati
+1997). In this outcome there was no statistical difference between
+glucosamine and placebo.
+One RCT (Mehta 2007) compared GS to a polyherbal supple-
+ment (reparagen) and, as such, this unique comparator was not in-
+cluded in the meta-analyses described above. In this study, a 20%
+reduction in WOMAC pain was found in 84% of glucosamine
+participants and 94% of participants taking the polyherbal sup-
+plement at eight weeks. The difference between the two groups
+was not statistically signiﬁcant.
+Sensitivity analysis
+Adequate allocation concealment
+13. Comparing GS or GH versus placebo in studies with ade-
+quate allocation concealment: results from 11 RCTs were pooled
+for the outcome variable of reduction in pain, where pain was
+measured by a number of different methods (Cibere 2004; Clegg
+2006; Herrero-Beaumont 2007; Houpt 1999; Hughes 2002;
+McAlindon 2004; Pavelka 2002; Reginster 2001; Rovati 1997;
+Rozendaal 2008; Zenk 2002). The summary SMD (random-ef-
+fects model) was -0.16 (95% CI -0.36 to 0.04). In this out-
+come there was no statistical difference between glucosamine and
+placebo. This corresponds to a decrease in the treatment group of
+0.70 points (95% CI 1.5 points lower to 0.17 points higher) on a
+0 to 20 WOMAC scale (using McAlindon 2004 for the calcula-
+tion). The relative per cent change from baseline was -7% (95%
+CI -17%, 1.8%).
+14. Comparing GS to placebo in studies with adequate allocation
+concealment for the Lequesne Index scores: results from four RCTs
+were pooled (Herrero-Beaumont 2007; Noack 1994; Rovati 1997;
+Pavelka 2002). The summary SMD (random-effects model) was -
+0.54 (95% CI -0.96 to -0.12). A negative SMD in this case meant
+that glucosamine was signiﬁcantly superior to placebo in terms of
+its ability to improve Lequesne index scores.
+15. Comparing GS to placebo in studies with adequate allocation
+concealment for Lequesne Index scores in which the outcome was
+11
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 15]
+dichotomous (per cent responders based on change in Lequesne
+index): The summary RR (ﬁxed-effect model) from one RCT
+(Noack 1994) for likelihood of being a responder was 1.43 (95%
+CI 1.08 to 1.91).
+16. Comparing GS or GH to placebo in studies with adequate
+allocation concealment for WOMAC pain subscale scores: the
+summary SMD (ﬁxed-effect model) for 10 RCTs (Cibere 2004;
+Clegg 2006; Herrero-Beaumont 2007; Houpt 1999; Hughes
+2002; McAlindon 2004; Pavelka 2002; Reginster 2001; Rozendaal
+2008; Zenk 2002) was -0.06 (95% CI -0.14 to 0.03). In this out-
+come there was no statistical difference between glucosamine and
+placebo. This corresponds to a decrease in the treatment group of
+0.25 points (95% CI 0.59 points lower to 0.13 points higher) on
+a 0 to 20 WOMAC scale (using McAlindon 2004 for the calcula-
+tion).
+17. Comparing GS or GH to placebo in studies with adequate
+allocation concealment for WOMAC stiffness subscale scores: The
+summary SMD (ﬁxed-effect model) for seven RCTs (Cibere 2004;
+Clegg 2006; Houpt 1999; Hughes 2002; Pavelka 2002; Rozendaal
+2008; Zenk 2002) was -0.02 (95% CI -0.13 to 0.08). In this
+outcome there was no statistical difference between glucosamine
+and placebo.
+18. Comparing GS or GH to placebo in studies with adequate al-
+location concealment for WOMAC function subscale scores: the
+summary SMD (ﬁxed-effect model) for 10 RCTs (Cibere 2004;
+Clegg 2006; Herrero-Beaumont 2007; Houpt 1999; Hughes
+2002; McAlindon 2004; Pavelka 2002; Reginster 2001; Rozendaal
+2008; Zenk 2002) was -0.08 (95% CI -0.17 to 0.00). In this out-
+come there was no statistical difference between glucosamine and
+placebo. This corresponds to a decrease in the treatment group of
+1.02 points (95% CI 2.04 points lower to 0 points higher) on a 0
+to 68 WOMAC scale. The relative per cent change from baseline
+was -3% (95% CI -6%, 0%).
+19. Comparing GS or GH to placebo in studies with ade-
+quate allocation concealment for WOMAC total scores: the sum-
+mary SMD (ﬁxed-effect model) for six RCTs (Cibere 2004;
+Herrero-Beaumont 2007; Houpt 1999; Pavelka 2002; Reginster
+2001; Zenk 2002) was -0.18 (95% CI -0.31 to - 0.05). In this
+outcome, there was a statistically signiﬁcant difference which fa-
+vored glucosamine over placebo.
+20. Comparing GS to placebo for changes in minimum joint space
+width for the knee or hip: the summary mean difference (MD)
+(ﬁxed-effect model) for two RCTs (Pavelka 2002; Reginster 2001)
+measuring the minimum joint space width at the knee was 0.32
+(95% CI 0.05 to 0.58). This was statistically signiﬁcant in favour
+of glucosamine and showed that glucosamine slowed the natural
+radiological progression of OA. Rozendaal 2008 measured mini-
+mum joint space width changes in the hip and found inconsistent
+results in the four sites they measured; however, none of the 95%
+CIs achieved a minimal clinically important change of 0.25 mm.
+The main outcomes for this comparison are summarized in the
+Summary of ﬁndings table 1.
+Subgroup analysis
+Rotta preparation
+21. Comparing GS to placebo in studies using the Rotta prepara-
+tion for pain: results from eight RCTs were pooled (Crolle 1980;
+D’ambrosio 1981; Drovanti 1980; Herrero-Beaumont 2007;
+Pavelka 2002; Pujalte 1980; Reginster 2001; Rovati 1997) for the
+outcome variable of reduction in pain. The summary SMD (ran-
+dom-effects model) was -1.11 (95% CI -1.66 to -0.57). A negative
+SMD in this case meant that glucosamine was signiﬁcantly supe-
+rior to placebo in terms of its ability to reduce pain. The relative
+per cent change from baseline was -42.2% (95% CI -63.0%, -
+21.6%) (using Herrero-Beaumont 2007 in the calculation as the
+most representative study).
+22. Comparing GS to placebo in studies using the Rotta prepa-
+ration for the Lequesne Index scores: results from ﬁve RCTs were
+pooled (Herrero-Beaumont 2007; Noack 1994; Pavelka 2002;
+Reichelt 1994; Rovati 1997). The summary SMD (random-ef-
+fects model) was -0.47 (95% CI -0.82 to -0.12). A negative SMD
+in this case meant that glucosamine was signiﬁcantly superior to
+placebo in terms of its ability to improve Lequesne Index scores.
+23. Comparing GS to placebo in studies using the Rotta prepara-
+tion for Lequesne Index scores in which the outcome was dichoto-
+mous (per cent responders based on change in Lequesne Index):
+the summary RR (ﬁxed-effect model) from two RCTs (Noack
+1994; Reichelt 1994) for likelihood of being a responder was 1.52
+(95% CI 1.20 to 1.91).
+24. Comparing GS to placebo in studies using the Rotta prepara-
+tion for WOMAC pain subscale scores: results from three RCTs
+were pooled (Herrero-Beaumont 2007; Pavelka 2002; Reginster
+2001). The summary SMD (ﬁxed-effect model) was -0.17 (95%
+CI -0.32 to -0.01). In this outcome glucosamine was signiﬁcantly
+superior to placebo in terms of its ability to improve WOMAC
+pain scores.
+25. Comparing GS to placebo in studies using the Rotta prepa-
+ration for WOMAC stiffness subscale scores: the result from one
+RCT (Pavelka 2002) was -0.22 (95% CI -0.50 to 0.06). In this
+outcome there was no statistical difference between glucosamine
+and placebo.
+26. Comparing GS to placebo in studies using the Rotta prepa-
+ration for WOMAC function subscale scores: results from three
+RCTs were pooled (Herrero-Beaumont 2007; Pavelka 2002;
+Reginster 2001). The summary SMD (ﬁxed-effect model) was
+-0.19 (95% CI -0.35 to -0.03). In this outcome glucosamine
+was signiﬁcantly superior to placebo in terms of its ability
+to improve WOMAC function scores. The relative per cent
+change from baseline was -7.6% (95% CI -14.0%, -1.2%) (using
+Herrero-Beaumont 2007 in the calculation as the most represen-
+tative study).
+27. Comparing GS to placebo using the Rotta preparation for
+WOMAC total scores: the summary SMD (ﬁxed-effect model) for
+three RCTs (Herrero-Beaumont 2007; Pavelka 2002; Reginster
+12
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 16]
+2001) was -0.25 (95% CI -0.40 to -0.09). A negative SMD in this
+case meant that glucosamine was statistically signiﬁcantly superior
+to placebo.
+The main outcomes for this comparison are summarized in the
+Summary of ﬁndings table 2.
+Non-Rotta preparation
+28. Comparing GS to placebo in studies using a non-Rotta
+preparation for pain: results from 10 RCTs were pooled (Cibere
+2004; Clegg 2006; Houpt 1999; Hughes 2002; McAlindon 2004;
+Rindone 2000; Rozendaal 2008; Usha 2004; Vajaradul 1981;
+Zenk 2002) for the outcome variable of reduction in pain. The
+summary SMD (ﬁxed-effect model) was -0.05 (95% CI -0.15 to
+0.05). In this outcome there was no statistical difference between
+glucosamine and placebo.
+29. Comparing GS to placebo in studies using a non-Rotta prepa-
+ration for WOMAC pain subscale scores: results from seven RCTs
+were pooled (Cibere 2004; Clegg 2006; Hughes 2002; Houpt
+1999; McAlindon 2004; Rozendaal 2008; Zenk 2002). The sum-
+mary SMD (ﬁxed-effect model) was -0.01 (95% CI -0.11 to 0.10).
+In this outcome there was no statistical difference between glu-
+cosamine and placebo.
+30. Comparing GS to placebo in studies using a non-Rotta prepa-
+ration for WOMAC stiffness subscale scores: results from six RCTs
+were pooled (Cibere 2004; Clegg 2006; Houpt 1999; Hughes
+2002; Rozendaal 2008; Zenk 2002). The summary SMD (ﬁxed-
+effect model) was 0.01 (95% CI -0.10 to 0.13). In this out-
+come there was no statistical difference between glucosamine and
+placebo.
+31. Comparing GS to placebo in studies using a non-Rotta
+preparation for WOMAC function subscale scores: results from
+six RCTs were pooled (Cibere 2004; Clegg 2006; Houpt 1999;
+Hughes 2002; Rozendaal 2008; Zenk 2002). The summary SMD
+(ﬁxed-effect model) was -0.01 (95% CI -0.13 to 0.10). In this
+outcome there was no statistical difference between glucosamine
+and placebo.
+32. Comparing GS or GH to placebo using the non-Rotta prepa-
+ration for WOMAC total scores: the summary SMD (ﬁxed-effect
+model) for three RCTs (Cibere 2004; Houpt 1999; Zenk 2002)
+was -0.02 (95% CI -0.27 to 0.22). In this outcome there was no
+statistical difference between glucosamine and placebo.
+Toxicity of glucosamine in OA
+The safety proﬁle of glucosamine in the 25 RCTs was excellent. For
+example, out of the 1883 participants randomized to glucosamine
+treatment in the RCTs, only 62 (3.3%) were withdrawn because
+of toxicity. The total number of participants reporting an adverse
+reaction was 436 (30%) based on 21 RCTs (n = 1451). In the
+1482 participants randomized to a placebo group, 70 (4.7%) were
+withdrawn because of toxicity and 418 (39%) reported an adverse
+reaction (n = 1061). Therefore, glucosamine was as safe as placebo.
+33. Comparing GS or GH to placebo for number of participants
+reporting adverse reactions: the summary RR (ﬁxed-effect model)
+for 13 RCTs was 0.99 (95% CI 0.91 to 1.07).
+34. Comparing GS or GH to placebo for number of withdrawals
+due to toxicity: the summary RR (ﬁxed-effect model) for 12 RCTs
+was 0.76 (95% CI 0.55 to 1.05).
+35. Comparing GS to NSAIDs for number of participants report-
+ing adverse reactions: the summary RR (ﬁxed-effect model) for
+four RCTs was 0.29 (95% CI 0.19 to 0.44). Therefore, GS was
+signiﬁcantly less likely than NSAIDs to produce adverse reactions.
+36. Comparing GS to NSAIDs for number of withdrawals due to
+toxicity: the summary RR (random-effects model) for four RCTs
+was 0.16 (95% CI 0.02 to 1.46). Therefore, glucosamine was
+signiﬁcantly less likely than NSAIDs to result in withdrawal due
+to toxicity.
+13
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 17]
+A D D I T I O N A L
+S U M M A R Y
+O F
+F I N D I N G S [Explanation]
+Glucosamine versus placebo (Rotta preparation) for treating osteoarthritis
+Patient or population: patients with treating osteoarthritis
+Settings:
+Intervention: Glucosamine versus placebo (Rotta preparation)
+Outcomes
+Illustrative comparative risks* (95% CI)
+Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Assumed risk
+Corresponding risk
+Control
+Glucosamine
+versus
+placebo (Rotta prepara-
+tion)
+Pain based on WOMAC
+scale
+Scale from: 0 (no pain) to
+20 (worst pain).
+(follow-up:
+mean
+6
+months)
+The mean pain based on
+womac scale in the con-
+trol groups was
+6 points
+The mean Pain based on
+WOMAC scale in the in-
+tervention groups was
+3.33 lower
+(4.98 to 1.71 lower)
+940
+(8)
+⊕⊕⃝⃝
+low1,2
+Statistically
+significant.
+SMD -1.11 (-1.66 to -
+0.57, see outcome 4.1).
+Relative per cent change
+from baseline is -42.2%
+(95% CI -63.0%, -21.6%)
+WOMAC Function Sub-
+scale
+Scale from: 0 to 68.
+(follow-up:
+mean
+6
+months)
+The mean womac func-
+tion subscale in the con-
+trol groups was
+21.66 points
+The mean WOMAC Func-
+tion Subscale in the inter-
+vention groups was
+2.07 lower
+(3.81 to 0.33 lower)
+624
+(3)
+⊕⊕⊕⊕
+high
+Statistically
+significant.
+SMD -0.19 (-0.35 to -
+0.03, see outcome 4.6).
+Relative per cent change
+from baseline is -7.6%
+(95% CI -14.0%, -1.2%)
+*The basis for the assumed risk (e.g. the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% confidence interval) is based on the
+assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval;
+14
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 18]
+GRADE Working Group grades of evidance
+High quality: Further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+1 High heterogeneity, I-squared=92%
+2 Funnel plot asymmetrical in favour of positive studies
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+15
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 19]
+D I S C U S S I O N
+The pooled SMD for pain reduction comparing glucosamine to
+placebo was 0.47, which represents a moderate clinically signiﬁ-
+cant treatment beneﬁt in favour of glucosamine and a relative dif-
+ference in the change from baseline of 22%. SMDs can be inter-
+preted as effect sizes. Cohen deﬁned an effect size of 0.20 as small,
+of 0.50 as moderate, and of 0.80 or greater as large (Cohen 1977).
+For function, measured by the Lequesne Index, the pooled SMD
+compared to placebo favoured glucosamine (SMD -0.47, 95% CI
+-0.82 to -0.12). This corresponds to a difference in the change
+from baseline between glucosamine and placebo of 1.2 units on
+the Lequesne scale, or 11% of baseline. The RCTs comparing GS
+to an NSAID collectively suggest that GS produces similar symp-
+tomatic beneﬁts as NSAIDs, but with a much lower probability
+of resultant adverse reactions. These results are very important
+and suggest that glucosamine therapy may represent a signiﬁcant
+breakthrough in the pharmacological management of OA. How-
+ever, not all outcomes and not all RCTs demonstrated a consistent
+superiority of glucosamine over placebo. For example, in all of the
+analyzed RCTs collectively, none of the WOMAC outcomes of
+pain, function and stiffness showed a superiority of glucosamine
+over placebo. Furthermore, analysis restricted to those studies with
+adequate allocation concealment did not demonstrate a superior-
+ity of glucosamine over placebo for pain (based on a pooled mea-
+sure of different pain scales), WOMAC pain or WOMAC func-
+tion. Therefore, the results in favor of glucosamine are mixed, and
+further research is still needed to clarify the true efﬁcacy of glu-
+cosamine in OA.
+Subgroup analyses of the Rotta preparation showed signiﬁcant
+beneﬁt over placebo in terms of pain and in the outcomes of the
+Lequesne index as well as in the WOMAC pain and function
+scores. For non-Rotta preparations, the pooled results show that
+there was no statistically signiﬁcant difference in terms of pain and
+WOMAC pain, stiffness and function scores.
+Although most of the RCTs show clear superiority of glucosamine
+over placebo in OA, seven RCTs failed to show that glucosamine
+was better than placebo (Cibere 2004; Clegg 2006; Houpt
+1999; Hughes 2002; McAlindon 2004; Rindone 2000; Rozendaal
+2008). It is not entirely clear how to reconcile the negative re-
+sults from these RCTs with the favorable results from the other
+RCTs (McAlindon 2003; Towheed 2003; Towheed 2007). How-
+ever, the seven negative RCTs did not use the Rotta brand of GS
+and also had either a limited or no afﬁliation with a manufacturer
+of glucosamine. (The trial by McAlindon 2004 did use the Rotta
+preparation but in only about 10% of the participants treated with
+glucosamine.) The study by Houpt 1999 was the ﬁrst RCT that
+used glucosamine hydrochloride rather than glucosamine sulfate.
+Two subsequent RCTs also used the GH preparation. In the Clegg
+study (Clegg 2006) GH was no better than placebo overall. How-
+ever, exploratory analyses suggested that the combination of glu-
+cosamine and chondroitin sulfate may be effective in the subgroup
+of patients with moderate to severe knee pain. In the Qiu (Qiu
+2005) study, GS and GH were directly compared and the results
+showed that there was no signiﬁcant differences in either efﬁcacy
+or safety between the two glucosamine preparations. The study by
+Rindone 2000 had a mostly male population of enrolled partici-
+pants (only 5% were female, which contrasts with the average fe-
+male inclusion rate in the remaining RCTs of 69%). Furthermore,
+participants in this study tended to be older and heavier, with a
+longer duration of OA, and also had a greater degree of radio-
+graphic severity than participants evaluated in other RCTs. One
+additional important aspect of the Rindone 2000 study was that
+participants who were taking other analgesics at baseline were in-
+structed to continue them for the duration of the study. However,
+no details are provided with respect to the actual usage of these
+analgesics during the course of the study or at the end of the study.
+The use of additional therapeutic interventions may have resulted
+in less power to be able to detect any signiﬁcant differences in
+efﬁcacy. The study by Hughes (Hughes 2002) had almost 50% of
+the participants taking NSAIDs at baseline and these participants
+were allowed to continue using these drugs during the course of
+the trial. Once again, it is possible that the high frequency of ad-
+ditional therapy allowed may have affected the power to be able
+to detect any signiﬁcant differences in efﬁcacy.
+Perhaps the major limitation with extrapolating the generally fa-
+vorable results from the glucosamine RCTs lies in the fact that
+most of the studies (56%) in the Cochrane review exclusively eval-
+uated the prescription medicine made by the Rotta Pharmaceu-
+tical Company (a GS preparation that is approved as a prescrip-
+tion drug for OA in the European Union countries). In North
+America, glucosamine is not considered a conventional prescrip-
+tion drug, rather it is considered as a dietary supplement which
+is widely available as an over-the-counter preparation. Since the
+content and purity of the various over-the-counter preparations
+is known to vary markedly, the relative efﬁcacy and safety of the
+various preparations may also vary markedly (Adebowale 2000;
+Consumer Reports 2002; Deal 1999; Russell 2002). Adebowale
+(Adebowale 2000) analyzed the actual content of glucosamine and
+chondroitin within several products in the marketplace with the
+objective of determining if the content deviated from the label
+claim. The amounts of glucosamine and chondroitin found af-
+ter analysis were signiﬁcantly different from the label claims in
+some products, with deviations ranging from as low as 0% to over
+115%. Russell (Russell 2002) assessed the content of active ingre-
+dients in over-the-counter GS preparations. The amount of free
+base varied from 41% to 108% of the mg content stated on the
+label; the amount of glucosamine varied from 59% to 138% even
+when expressed as sulfate. These authors concluded that if GS is
+to be used as a therapeutic agent, it is important that the products
+conform to a standard in their description.
+Glucosamine therapy for OA was found to be relatively well tol-
+erated with a safety proﬁle similar to placebo, and signiﬁcantly
+better than NSAIDs. An open study carried out by 252 physi-
+16
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 20]
+cians throughout Portugal evaluated the tolerability of GS in 1208
+patients (Tapadinhas 1982). Patients were treated with GS for a
+mean duration of 50 days (range 13 to 99 days). Eighty-eight per
+cent of the study population were free of any adverse effects. In
+the 12% experiencing adverse effects, the reactions were generally
+mild in severity and predominantly affected the gastrointestinal
+tract. All of the reported complaints were reversible after discon-
+tinuation of GS.
+In a series of letters to the Editor of the Lancet, a number of pos-
+sible adverse reactions with glucosamine were pointed out. Chan
+(Chan 2001) expressed concern about the potential adverse effects
+of long-term glucosamine therapy on glucose homeostasis, citing
+evidence that glucosamine may increase insulin resistance and/or
+impair insulin secretion (Monauni 2000). They also described a
+case of a patient with metastatic insulinoma who achieved con-
+trol of hypoglycemic episodes after starting GS for OA. They cau-
+tioned that glucose monitoring is warranted in people on long-
+term therapy, and that glucosamine should be used cautiously in
+patients with diabetes. These concerns have not appeared to be
+problems in the RCTs, however they do warrant further investi-
+gation and monitoring. A recently published three-month RCT
+further evaluated the possible effects of glucosamine supplemen-
+tation on glycemic control in a selected population of patients
+with type 2 diabetes mellitus (Scroggie 2003). The main outcome
+measure was hemoglobin A1c levels before and after 90 days of
+therapy. This study demonstrated that oral glucosamine supple-
+mentation did not result in clinically signiﬁcant alterations in glu-
+cose metabolism in patients with type 2 diabetes mellitus. A re-
+cently published prospective study by Tannis 2004 found that glu-
+cosamine supplementation, with normal recommended dosages,
+did not cause glucose intolerance in healthy adults. Pham et al
+(Pham 2007) reported that oral glucosamine in doses used to treat
+OA worsens insulin resistance in people without a known abnor-
+mality of glucose homeostasis. The methodology involved mea-
+suring fasting insulin and glucose, and vascular elasticity mea-
+surements using pulse wave analysis. Individuals with underlying
+poorer insulin sensitivity are at risk of worsening insulin resistance
+and vascular function with the use of glucosamine. Biggee et al
+(Biggee 2007) also reported that glucosamine ingestion may affect
+glucose levels and consequent glucose uptake in patients who have
+untreated diabetes or glucose intolerance. In contrast, Muniyappa
+et al (Muniyappa 2006) reported that oral glucosamine in standard
+doses for six weeks does not cause or signiﬁcantly worsen insulin
+resistance or endothelial dysfunction in lean or obese subjects.
+In the ﬁrst report regarding the safety of glucosamine therapy
+in pregnancy, Sivojelezova et al (Sivojelezova 2007) were able to
+track the pregnancy-related outcomes of 54 women who used
+glucosamine during pregnancy. These limited data found no in-
+creased risk for major malformations or other adverse fetal effects
+following the use of glucosamine.
+There are additional reports of possible glucosamine-related toxic-
+ity. Goldstein (Goldstein 2001) speculated that glucosamine may
+contribute to the development of atherosclerosis by stimulating
+proteoglycan production by the smooth muscle cells in the arterial
+wall. Although the theory seems intriguing, there is as yet no ex-
+perimental or clinical evidence to support its validity. Swinburne
+(Swinburne 2001) reported the observation that glucosamine has
+a powerful stimulatory effect on the growth rate and toughness
+of the nails. The clinical signiﬁcance of this observation as it per-
+tains to the treatment of OA is not clear. Tallia (Tallia 2002) re-
+ported a case of a possible asthma exacerbation associated with
+use of an oral glucosamine-chondroitin supplement. According to
+the authors, the cause and effect association in this case could not
+be conﬁrmed deﬁnitively. Matheu (Matheu 1999) reported a case
+of an immediate hypersensitivity reaction to glucosamine sulfate,
+manifesting with angioedema. Glucosamine therapy may also be
+associated with a risk of acute interstitial nephritis (Audimoolam
+2006).
+The meta-analysis by McAlindon 2000 provided a useful critical
+analysis of some of the pertinent methodological concerns associ-
+ated with the published glucosamine trials. Their main ﬁnding was
+that although glucosamine is likely to be an effective therapy for
+OA, the actual degree of symptomatic beneﬁt is probably less than
+that predicted by the available trials. This is because of method-
+ological ﬂaws in many of the published trials. These ﬂaws have
+been associated with exaggerated estimates of treatment beneﬁt.
+Methodological ﬂaws identiﬁed in the trials included inadequate
+allocationconcealment, absence of intention-to-treatanalyses, and
+publication bias. Although it seems unlikely, it is still possible that
+these biases could signiﬁcantly negate the supposed efﬁcacy of glu-
+cosamine. The main differences between this systematic review
+and the McAlindon review are that this is a Cochrane Review and
+it includes the comparators, as opposed to the glucosamine versus
+placebo comparison alone. Also, the Cochrane review has been
+updated as of January 2008.
+Another meta-analysis was published by Richy 2003 comparing
+the structural and symptomatic efﬁcacy of glucosamine and chon-
+droitin in relation to placebo. Fifteen placebo-controlled RCTs,
+published or performed between 1980 and March 2002, were an-
+alyzed. The results of this high quality meta-analysis demonstrated
+that there was a highly signiﬁcant structural and symptomatic efﬁ-
+cacy of glucosamine on all outcomes studied, including joint space
+narrowing and WOMAC. The safety of glucosamine was excellent
+and was similar to placebo. The results of our Cochrane review
+corroborate the results obtained by Richy 2003.
+The 12-week study by McAlindon (McAlindon 2004) deserves
+special mention since it is the only trial that was conducted exclu-
+sively over the Internet. Participants were recruited and followed
+entirely over the Internet. This is a unique method of conduct of
+a RCT and the authors have nicely demonstrated the efﬁciency
+and methodological aspects of this approach. The study by Cibere
+(Cibere 2004) also deserves special mention since it is the only
+17
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 21]
+trial that was designed as a glucosamine discontinuation trial. All
+eligible participants must have been actively using glucosamine
+for OA for at least one month prior to study entry and they must
+also have reported having at least a moderate improvement in knee
+pain since starting on glucosamine. The results of this well-con-
+ducted study were negative and failed to demonstrate efﬁcacy of
+continuing glucosamine versus a placebo over a 24-week period.
+A recently published systematic review and analysis by Vlad et
+al (Vlad 2007) attempted to identify factors that best explain
+the marked heterogeneity in trials of glucosamine in OA. They
+concluded that the heterogeneity with glucosamine is larger than
+would be expected by chance alone, and that GH is not effec-
+tive. Among trials with industry involvement, effect sizes were
+consistently higher. Potential explanations included different glu-
+cosamine preparations, inadequate allocation concealment, and
+industry bias. These are some of the same issues that our Cochrane
+Review has also identiﬁed to be of signiﬁcant importance in the
+proper interpretation of RCTs evaluating glucosamine in OA.
+The mechanisms of action of glucosamine in OA are not known.
+However, glucosamine is a natural substance and a ’building block’
+of the glycosaminoglycans (GAG) and glycoproteins in the ground
+substance of the articular cartilage. In vitro studies have shown that
+adding GS to human chondrocytes results in increased proteogly-
+can synthesis (Bassleer 1992; Bassleer 1998; Setnikar 1992). GS
+has a beneﬁcial effect on animal models of experimental arthritis
+and may also have anti-inﬂammatory properties (Conrozier 1998;
+Setnikar 1991a; Setnikar 1991b; Setnikar 2001). It has recently
+been speculated that the sulfate moiety of GS may actually medi-
+ate the clinical beneﬁt of GS in OA (Hoffer 2002).
+Pharmacokineticstudiesonglucosamine and GS have been carried
+out primarily by investigators from the Rotta Research Laboratory
+in Italy (the sponsor of most of the RCTs reviewed here). Early
+work with 14C-glucosamine administered intravenously or orally
+in rats indicated that, after intravenous administration, radioac-
+tivity in the plasma declined in the ﬁrst 30 minutes and reached a
+tissue peak in the second hour and then started to disappear, with
+half disappearance at 28 hours. Radioactivity was detected in all
+tissues (primarily liver and kidney), and early in skeletal tissues
+including cartilage (Setnikar 1984). About 50% of the expired
+14C radioactivity appeared as expired CO 2 and 35% in the urine.
+After oral administration, there was only a small fecal excretion
+but 85% of the 14C radioactivity appeared as CO 2 , indicating
+that there was extensive breakdown of the 14C-glucosamine into
+smaller fragments. There were no measurements of free 14C-glu-
+cosamine reported in this study.
+Pharmacokinetic studies in dog and in man (Setnikar 1986) with
+intravenously administered 14C-GS showed that there was a very
+rapid disappearance of the radioactivity due to glucosamine (t ½
+= 0.28 hr) and that this was rapidly replaced by radioactivity origi-
+nating from the plasma proteins, into which the 14C-glucosamine
+and its metabolites are incorporated. Free 14C-glucosamine was
+looked for but could not be detected, apparently at any time point,
+according to this report. The ﬁndings were similar with intramus-
+cularly administered 14C-GS (Setnikar 1993). Only a very small
+proportion of the 14C radioactivity was found in the femoral car-
+tilage compared to other organs. In the earlier study by Setnikar
+et al (Setnikar 1986), large amounts of non-radioactive GS were
+also administered intravenously and orally to six human volun-
+teers. The ninhydrin amino-acid analyzer method was used for
+detection of the serum glucosamine (Optica instrument) with a
+detection limit of about 10 ug/ml. After 800 mg GS was admin-
+istered intravenously, plasma levels fell rapidly with a ﬁrst dis-
+appearance rate or half life (t ½) of 6.5 minutes and a terminal
+rate (t ½) of 2.1 hours. However, after oral administration of a
+single dose of 6000 mg of GS to the human volunteers, plasma
+glucosamine was below the detection limit at all tested times. It
+should be noted that the usual oral dosage of GS in the reviewed
+RCTs was 1500 mg/day. Further studies in six healthy human
+male volunteers were done with 14C-GS administered in single
+doses by the intravenous, intramuscular, and oral routes (Setnikar
+1993). After intravenous administration, the radioactivity due to
+glucosamine declined rapidly with an initial t ½ of 0.28 hr. Af-
+ter one to two hours, the plasma radioactivity originated entirely
+from plasma proteins. Less than 1% of the radioactivity was found
+in the feces, and 28% was found in the urine. The pharmacoki-
+netics of intramuscular administration of 14C-GS were similar to
+the intravenous route. Free glucosamine was not detected in the
+plasma. Much lower levels of radioactivity were found after oral
+administration, apparently due to metabolism to carbon dioxide
+(CO 2 ), water and urea (Setnikar 1993).
+More recent pharmacokinetic studies of glucosamine were re-
+ported by Biggee (Biggee 2006), Laverty (Laverty 2005), and Per-
+siani (Persiani 2005a; Persiani 2005b). Biggee et al (Biggee 2006)
+used high performance liquid chromatography with a high sen-
+sitivity Metrohm-Peak instrument for pulsed amperometric mea-
+surement of human serum glucosamine. The maximum concen-
+tration achieved after oral ingestion of 1500 mg of the Rotta prepa-
+ration of glucosamine was only 11.5 uM (range 1.9 to 11.5 uM).
+Previous studies by these same authors have shown that, at this
+maximum concentration of 11.5 uM, one would expect that no
+more than 2% of the galactosamine incorporated into chondroitin
+sulfate would be derived from incubations of glucosamine with
+cultured human chondrocytes (Mroz 2004). The authors con-
+cluded that insigniﬁcant trace amounts of glucosamine enter hu-
+man serum after oral ingestion and that this amount is far below
+any amount that might contribute directly to chondroitin synthe-
+sis. Therefore, based on this study, glucosamine probably does not
+act in OA simply by acting as a ’building block’ for the synthesis
+of glycosaminoglycans in the articular cartilage. Previously pub-
+lished in vitro studies generally used very high concentrations of
+glucosamine (> 100 uM) to show positive effects in terms of the
+enhanced synthesis of glycosaminoglycans in the articular carti-
+18
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 22]
+lage.
+Laverty et al (Laverty 2005) reported the ﬁrst published animal
+data conﬁrming that free glucosamine can be detected in the syn-
+ovial ﬂuid after administration. They measured free glucosamine
+concentrations both in the serum and in the synovial ﬂuid of the
+radiocarpal joints in horses using a sensitive ﬂuorophore-assisted
+carbohydrate electrophoresis. Two methods of administration of
+glucosamine were evaluated(viaanasogastrictube andintravenous
+administration). Following nasogastric administration, the maxi-
+mum serum concentration of glucosamine was only 6.1 uM (range
+4.4 to 7.6 uM). This is a result similar to that obtained by Biggee
+et al (Biggee 2006). Following intravenous administration, the
+maximum concentration of glucosamine in serum reached 300
+uM. Synovial ﬂuid concentrations reached 9 to 15 uM with intra-
+venous dosing, and 0.3 to 0.7 uM with nasogastric dosing. The
+authors concluded that clinically relevant dosing of glucosamine
+in the horse results in serum and synovial ﬂuid concentrations
+that are at least 500 fold lower than those reported to modify
+chondrocyte activities in tissue and cell culture experiments. Per-
+siani and colleagues (Persiani 2005a; Persiani 2005b) used a liq-
+uid chromatography method with mass spectrometry detection
+for the determination of glucosamine in the plasma of humans
+who ingested clinically relevant dosages of glucosamine. Maxi-
+mum serum concentrations were again found to be only in the 10
+uM range. Preliminary data from these authors were reported in
+an abstract from the 2005 EULAR meeting (Persiani 2005b). For
+the ﬁrst time, free glucosamine was detected in the knee synovial
+ﬂuid in two patients with OA who were assayed 24 hours post
+oral ingestion in a 15-day treatment course (1500 mg/day of GS),
+in concentrations of 497 and 1978 ng/ml. In these two patients,
+there was a good correlation between the plasma and synovial ﬂuid
+levels. One cannot exclude the possibility that the observed low
+sustained concentrations of glucosamine in the synovial joint may
+have biological properties that are therapeutic in OA (for example
+anti-inﬂammatory effects or inhibition of IL-1 related effects, or
+both) (Largo 2003; Shikhman 2001).
+Three RCTs have evaluated the ability of glucosamine to pro-
+tect the cartilage from further loss, as deﬁned by changes in
+radiographic joint cartilage width of the knee (Pavelka 2002;
+Reginster 2001) and hip (Rozendaal 2008). The two well-con-
+ducted prospective three-year RCTs by Pavelka (Pavelka 2002) and
+Reginster (Reginster 2001) showed favourable responses with no
+signiﬁcant progression of cartilage loss in participants assigned to
+therapy with GS. These RCTs represent the ﬁrst clinical evidence
+that glucosamine may indeed modify the natural radiological pro-
+gression of OA of the knee (Reginister 2003). The most recent
+study by Rozendaal et al (Rozendaal 2008) was not able to conﬁrm
+a beneﬁcial effect of a non-Rotta preparation of GS on radiological
+progression in participants with OA of the hip.
+A U T H O R S ’
+C O N C L U S I O N S
+Implications for practice
+The previous review from 2005, with 20 studies and 2570 partic-
+ipants, showed that glucosamine sulphate taken orally in amounts
+of 1500 mg/day produced a 28% (per cent change from baseline)
+beneﬁt in pain and an increase in function of 21% (per cent change
+in Lequesne Index from baseline) in osteoarthritis, without side
+effects.
+If only the best designed studies are included, the beneﬁt in pain
+and WOMAC function is no longer present; as shown in this
+update which includes 25 studies and 4963 patients. Inclusion of
+ﬁve new studies reduces the overall beneﬁt on pain to 22% and
+functionto11%inthe Lequesne Index. Pooledresultsfromstudies
+using a non-Rotta preparation or adequate allocation concealment
+failed to show beneﬁt in pain and WOMAC function, while those
+studies evaluating the Rotta preparation showed that glucosamine
+was superior to placebo in the treatment of pain and functional
+impairment resulting from symptomatic OA. WOMAC outcomes
+of pain and function showed a superiority of glucosamine over
+placebo for only the Rotta preparation of glucosamine.
+Some studies suggest the Rotta preparation of glucosamine sulfate
+may slow radiological progression of OA of the knee over a three-
+year period. The ability of glucosamine to improve symptoms and
+delay radiological progression of OA affecting other joint sites also
+needs further research.
+Glucosamine was as safe as placebo.
+Implications for research
+Despite the availability of several RCTs, there are still a number
+of questions that remain unanswered regarding the use of glu-
+cosamine in OA. These questions represent areas for further re-
+search. First, are the various over-the-counter glucosamine prepa-
+rations sold by different manufacturers equally effective (and
+equally safe) in the therapy of OA? Is there any further beneﬁt
+obtained by using mixed glucosamine preparations that contain
+additional therapeutic products, such as chondroitin sulfate. Sec-
+ond, why are the trials no longer uniformly positive? Third, is
+glucosamine helpful for all patients with OA, involving different
+joints and at different stages of severity? Fourth, are the dose and
+route of administration of glucosamine important in maximiz-
+ing efﬁcacy and minimizing toxicity? Fifth, how does glucosamine
+work in the treatment of OA? Sixth, what are the patient-speciﬁc
+predictors of favorable effects on radiological progression of OA?
+A C K N O W L E D G E M E N T S
+We would like to thank Jessie McGowan for her assistance in pro-
+viding the electronic search of the literature. The authors would
+19
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 23]
+also like to thank Lindi Jiang and Xiaohong Zhou for their assis-
+tance with data abstraction. Additionally, the authors would like
+to thank the Cochrane Musculoskeletal Editorial Team for their
+thoughtful comments and suggestions.
+R E F E R E N C E S
+References to studies included in this review
+Cibere 2004 {published data only}
+∗Cibere J, Kopec JA, Thorne A, Singer J, Canvin J,
+Robinson DB, et al.Randomized, double-blind, placebo-
+controlled glucosamine discontinuation trial in knee
+osteoarthritis. Arthritis and Rheumatism (Arthritis Care and
+Research) 2004;51(2):738–45.
+Clegg 2006 {published data only}
+∗Clegg DO, Reda DJ, Harris CL, Klein MA, O’Dell JR,
+Hooper MM, et al.Glucosamine, chondroitin sulfate, and
+the two in combination for painful knee osteoarthritis. New
+England Journal of Medicine 2006;354:795–808.
+Crolle 1980 {published data only}
+∗Crolle G, D’Este E. Glucosamine sulphate for the
+management of arthrosis: a controlled clinical investigation.
+Current Medical Research & Opinion 1980;2:104–9.
+D’ambrosio 1981 {published data only}
+∗D’Ambrosio E, Casa B, Bompani R, Scali G, Sclai M.
+Glucosamine sulphate: a controlled clinical investigation in
+arthrosis. Pharmatherapeutica 1981;2(8):504–8.
+Drovanti 1980 {published data only}
+∗Drovanti A, Bignamini AA, Rovati L. Therapeutic activity
+of oral glucosamine sulfate in osteoarthrosis: A placebo-
+controlled double-blind investigation. Clinical Therapeutics
+1980;3(4):260–72.
+Herrero-Beaumont 2007 {published data only}
+∗Herrero-Beaumont G, Ivorra JAR, Trabado M, Blanco FJ,
+Benito P, Martin-Mola E, et al.Glucosamine sulfate in the
+treatment of knee osteoarthritis symptoms. Arthritis and
+Rheumatism 2007;56(2):555–67.
+Houpt 1999 {published data only}
+∗Houpt J, McMillan R, Wein C, Paget-Dellio SD. Effect
+of glucosamine hydrochloride in the treatment of pain of
+osteoarthritis of the knee. Journal of Rheumatology 1999;26
+(11):2423–2430.
+Hughes 2002 {published data only}
+∗Hughes R, Carr A. A randomized, double-blind, placebo-
+controlled trial of glucosamine sulphate as an analgesic in
+osteoarthritis of the knee. Rheumatology 2002;41:279–84.
+McAlindon 2004 {published data only}
+∗McAlindon T, Formica M, LaValley M, Lehmer M,
+Kabbara K. Effectiveness of Glucosamine for symptoms
+of knee osteoarthritis: Results from an Internet-based
+randomized double-blind controlled trial. American Journal
+of Medicine 2004;117:643–49.
+Mehta 2007 {published data only}
+∗Mehta K, Gala J, Bhasale S, Naik S, Modak M, Thakur H,
+et al.Comparison of glucosamine sulfate and a polyherbal
+supplement for the relief of osteoarthritis of the knee: a
+randomized controlled trial. BMC Complementary and
+Alternative Medicine 2007;7(34):1–13.
+Muller-FassBender 94 {published data only}
+∗Muller-Fasbender H, Bach GL, Haase W, Rovati L,
+Setnikar I. Glucosamine sulfate compared to ibuprofen in
+osteoarthritis of the knee. Osteoarthritis and Cartilage 1994;
+2:61–9.
+Noack 1994 {published data only}
+∗Noack W, Fischer M, Forster K, Rovati L, Setnikar
+I. Glucosamine sulfate in osteoarthritis of the knee.
+Osteoarthritis and Cartilage 1994;2:51–9.
+Pavelka 2002 {published data only}
+∗Pavelka K, Gatterova J, Olejarova M, Machacek S,
+Giacovelli G, Rovati LC. Glucosamine sulfate use and delay
+of progression of knee osteoarthritis. A 3-year, randomized,
+placebo-controlled, double-blind study. Archives of Internal
+Medicine 2002;162:2113–23.
+Pujalte 1980 {published data only}
+∗Pujalte JM, Llavore EP, Ylescupidez FR. Double-blind
+clinical trial evaluation of oral glucosamine sulphate in the
+basic treatment of osteoarthrosis. Current Medical Research
+and Opinion 1980;7(2):110–14.
+Qiu 1998 {published data only}
+∗Qiu GX, Gao SN, Giacovelli G, Rovati L, Setnikar I.
+Efﬁcacy and safety of glucosamine sulfate versus ibuprofen
+in patients with knee osteoarthritis. Arzneimittelforschung/
+Drug Resistance Updates 1998;48(1):469–74.
+Qiu 2005 {published data only}
+∗Qiu G, Weng X, Zhang K, Zhou Y, Wang LS, Li W, et
+al.A multicentral, randomized, controlled clinical trial of
+glucosamine hydrochloride/sulfate in the treatment of knee
+osteoarthritis. National Medical Journal of China 2005;85
+(43):3067–70.
+Reginster 2001 {published data only}
+Reginster JY, Deroisy R, Rovati LC, Lee RL, Lejeune E,
+Bruyere O, et al.Long-term effects of glucosamine sulphate
+on osteoarthritis progression: a randomized, placebo-
+controlled clinical trial. Lancet 2001;357:251–6.
+Reichelt 1994 {published data only}
+∗Reichelt A, Forster KK, Fischer M, Rovati L, Setnikar I.
+Efﬁcacy and safety of intramuscular glucosamine sulfate
+in osteoarthritis of the knee. Arzneimmittelforschung/Drug
+Resistance Updates 1994;44(1):75–80.
+20
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 24]
+Rindone 2000 {published data only}
+∗Rindone JP, Hiller D, Collacott E, Nordhaugen N, Arriola
+G. Randomized, controlled trial of glucosamine for treating
+osteoarthritis of the knee. Western Journal of Medicine 2000;
+172:91–4.
+Rovati 1997 {published and unpublished data}
+∗Rovati LC. The clinical proﬁle of glucosamine sulfate as a
+selective symptom-modifying drug in osteoarthritis: current
+data and perspectives. Osteoarthritis and Cartilage 1997;5:
+72.
+Rozendaal 2008 {published data only}
+∗Rozendaal RM, Koes BW, m van Osch G, Uitterlinden
+EJ, Garling EH, Willemsen SP, et al.Effect of glucosamine
+sulfate on hip osteoarthritis. Annals of Internal Medicine
+2008;148:268–77.
+Usha 2004 {published data only}
+∗Usha PR, Naidu MUR. Randomized, double-blind,
+parallel, placebo-controlled study of oral glucosamine,
+methylsulfonylmethane and their combination in
+osteoarthritis. Clinical Drug Investigation 2004;24(6):
+353–63.
+Vajaradul 1981 {published data only}
+∗Vajaradul Y. Double-blind clinical evaluation of intra-
+articular glucosamine in outpatients with gonarthrosis.
+Clinical Therapeutics 1981;3(5):336–43.
+Vaz 1982 {published data only}
+∗Vaz AL. Double-blind clinical evaluation of the relative
+efﬁcacy of ibuprofen and glucosamine sulphate in the
+management of osteoarthrosis of the knee in out-patients.
+Current Medical Research and Opinion 1982;8:145–9.
+Zenk 2002 {published data only}
+∗Zenk JL, Helmer TR, Kuskowski MA. The effects of milk
+protein concentrate on the symptoms of osteoarthritis in
+adults: an exploratory, randomized, double-blind, placebo-
+controlled trial. Current Therapeutic Research 2002;63(7):
+430–42.
+References to studies excluded from this review
+Braham 2003 {published data only}
+Braham R, Dawson B, Goodman C. The effect of
+glucosamine supplementation on people experiencing
+regular knee pain. British Journal of Sports Medicine 2003;
+37:45–9.
+Magi 1997 {unpublished data only}
+∗Magi D, Giacovelli G, Rovati LC. Clinical Study on
+the activity of glucosamine sulfate on osteoarthritis, in
+comparison with placebo, in patients suffering from
+osteoarthritis of the knee by means of imaging techniques
+(NMR, ecotomography, radiology) and computer
+processing of the such obtained images. Unpublished
+technical report prepared by Rottapharm 1997.
+Pipitone 1997 {unpublished data only}
+∗Pipitone V, Giacovelli G, Rovati LC. Clinical study on
+the activity of glucosamine sulfate on the evolution of
+osteoarthritis in patients with osteoarthritis of the knee.
+Unpublished technical report prepared by Rottapharm
+1997.
+Rovati 1993 {unpublished data only}
+∗Rovati LC, Poma A, Biavati G, et al.A multicenter,
+randomized, double-blind, parallel-group study to
+investigate efﬁcacy and safety of oral glucosamine sulfate in
+osteoarthritis of the spine. Unpublished technical report
+prepared by Rottapharm 1993.
+Additional references
+ACR 2000
+American College of Rheumatology (ACR) Subcommittee
+on osteoarthritis guidelines. Recommendations for the
+medical management of osteoarthritis of the hip and knee:
+2000 update. Arthritis and Rheumatism 2000;43:1905–15.
+Adebowale 2000
+Adebowale AO, Cox DS, Liang Z, Eddington ND. Analysis
+of glucosamine and chondroitin sulfate content in marketed
+products and the caco-2 permeability of chondroitin
+sulfate raw materials. Journal of the American Nutraceutical
+Association 2000;3(1):Spring Issue.
+Anderson 2005
+Anderson JW, Nicolosi RJ, Borzelleca JF. Glucosamine
+effects in humans: a review of effects on glucose metabolism,
+side effects, safety considerations and efﬁcacy. Food and
+Chemical Toxicology 2005;43:187–201.
+Audimoolam 2006
+Audimoolam VK, Bhandari S. Acute interstitial nephritis
+induced by glucosamine. Nephrology Dialysis Transplantation
+2006;21(7):2031.
+Badley 1995
+Badley EM. The effect of osteoarthritis on disability and
+health care use in Canada. Journal of Rheumatology 1995;22
+Suppl 43:19–22.
+Barclay 1998
+Barclay TS, Tsourounis C, McCart GM. Glucosamine.
+Annals of Pharmacotherapy 1998;32:574–9.
+Bassleer 1992
+Bassleer C, Henrotin Y, Franchimont P. In-vitro evaluation
+of drugs proposed as chondroprotective agents. International
+Journal of Tissue Reactions 1992;14:231–41.
+Bassleer 1998
+Bassleer C, Rovati L, Franchimont P. Stimulation of
+proteoglycan production by glucosamine sulfate in
+chondrocytes isolated from human osteoarthritic cartilage
+in vitro. Osteoarthritis and Cartilage 1998;6:427–34.
+Bellamy 1997
+Bellamy N, Kirwan J, Boers M, et al.Recommendations
+for a core set of outcome measures for future phase III
+clinical trials in knee, hip and hand osteoarthritis. Journal of
+Rheumatology 1997;24:799–802.
+Biggee 2006
+Biggee E, Blinn CM, McAlindon TE, Nuite M, Silbert JE.
+Low levels of human serum glucosamine after ingestion of
+21
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 25]
+glucosamine sulphate relative to capability for peripheral
+effectiveness. Annals of the Rheumatic Diseases 2006;65:
+222–6.
+Biggee 2007
+Biggee BA, Blinn CM, Nuite M, Silbert JE, McAlindon
+TE. Effects of oral glucosamine sulphate on serum glucose
+and insulin during an oral glucose tolerance test of subjects
+with osteoarthritis. Annals of the Rheumatic Diseases 2007;
+66(2):260–2.
+Chan 2001
+Chan NN, Baldeweg S, Tan TM, Hurel S. Glucosamine
+sulphate and osteoarthritis (letter). Lancet 2001;357:1617.
+Cohen 1977
+Cohen J. Statistical power analysis for the behavioural
+sciences. Statistical power analysis for the behavioural sciences.
+New York: Academic Press, 1977.
+Conrozier 1998
+Conrozier T, Mathieu P, Piperno M, et al.Glucosamine
+sulfate signiﬁcantly reduced cartilage destruction in a rabbit
+model os osteoarthritis. Arthritis and Rheumatism 1998;41
+Suppl:147.
+Consumer Reports 2002
+No authors listed. Joint Remedies. Consumer Reports 2002;
+67(1):18–21.
+Creamer 1997
+Creamer P, Hochberg MC. Osteoarthritis. Lancet 1997;
+350:503–8.
+Creamer 1998
+Creamer P, Flores R, Hochberg MC. Management of
+osteoarthritis in older adults. Clinics in Geriatric Medicine
+1998;14(3):434–54.
+Da Camara 1998
+Da Camara C, Dowless GV. Glucosamine sulfate for
+osteoarthritis. Annals of Pharmacotherapy 1998;32:580–7.
+Deal 1999
+Deal CL, Moskowitz RW. Neutraceuticals as therapeutic
+agents in osteoarthritis. The role of glucosamine,
+chrondroitin sulfate and collagen hydrolysate. Rheumatic
+Diseases Clinics of North America 1999;25:379–95.
+Deviere 2002
+Deviere J. Do selective cyclo-oxygenase inhibitors
+eliminate the adverse events associated with nonsteroidal
+anti-inﬂammatory drug therapy?. European Journal of
+Gastroenterology and Hepatology 2002;14 Suppl 1:29–33.
+Felson 1998
+Felson D. Nonmedicinal therapies for osteoarthritis.
+Bulletin on the Rheumatic Diseases 1998;47(2):1–7.
+Felson 2000
+Felson DT, Lawrence RC, Dieppe PA, Hirsch R, Helmick
+CG. Osteoarthritis: new insights. Part 1: the disease and its
+prevalence and impact. Annals of Internal Medicine 2000;
+133(8):635–46.
+Gabriel 1991
+Gabriel S, Jaakkimainen L, Bombardier C. Risk factors for
+serious gastrointestinal complications related to use of non-
+steroidal anti-inﬂammatory drugs. A meta-analysis. Annals
+of Internal Medicine 1991;115:787–96.
+Garner 2002
+Garner S, Fidan D, Frankish R, Judd M, Shea B, Towheed
+T, Wells G, Tugwell P. Celecoxib for rheumatoid arthritis.
+Cochrane Database of Systematic Reviews 2002, Issue 4.
+[DOI: 10.1002/14651858.CD003831]
+Goldstein 2001
+Goldstein MR. Glucosamine sulphate and osteoarthritis
+(letter). Lancet 2001;357:1617–8.
+Grifﬁn 1991
+Grifﬁn M, Piper J, Daugherty J, et al.Non-steroidal anti-
+inﬂammatory drug use and increased risk for peptic ulcer
+disease in elderly persons. Annals of Internal Medicine 1991;
+114:257–63.
+Hedges 1985
+Hedges L, Olkin I. Statistical methods for meta-analysis. San
+Diego, CA: Academic Press, 1995.
+Herman 1986
+Herman J, Appel A, Khosla R, et al.The in vitro effect of
+select classes of non-steroidal anti-inﬂammatory drugs on
+normal cartilage metabolism. Journal of Rheumatology 1986;
+13:1014–8.
+Hochberg 1995a
+Hochberg MC, Altman R, Brandt K, et al.Guidelines
+for the medical management of osteoarthritis. Part 1.
+Osteoarthritis of the hip. Arthritis and Rheumatism 1995;38
+(11):1535–40.
+Hochberg 1995b
+Hochberg MC, Altman R, Brandt K, et al.Guidelines
+for the medical management of osteoarthritis. Part 2.
+Osteoarthritis of the knee. Arthritis and Rheumatism 1995;
+38(11):1541–7.
+Hochberg 1996
+Hochberg MC, Perlmutter D, Hudson J, et al.Preferences
+in the management of osteoarthritis of the hip and knee:
+Results of a survey of community-based rheumatologists in
+the United States. Arthritis Care and Research 1996;9(3):
+170–6.
+Hoffer 2002
+Hoffer LJ, Kaplan LN, Hamadeh MJ, Grigoriu AC,
+Baron M. Sulfate could mediate the therapeutic effect of
+glucosamine sulfate. Metabolism 2002;50(7):767–70.
+Jadad 1996
+Jadad A, Moore A, Carrol D, et al.Assessing the quality
+of reports of randomized trials: is blinding necessary?.
+Controlled Clinical Trials 1996;17:1–12.
+Largo 2003
+Largo R, Alvarez-Soria MA, Diez-Ortego I, et
+al.Glucosamine inhibits IL-1 beta induced NFKB activation
+in human osteoarthritic chondrocytes. Osteoarthritis and
+Cartilage 2003;11:290–8.
+Laverty 2005
+Laverty S, Sandy JD, Celeste C, Vachon P, Marier JF, Plaas
+AHK. Synovial ﬂuid levels and serum pharmacokinetics
+22
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 26]
+in a large animal model following treatment with oral
+glucosamine at clinically relevant doses. Arthritis and
+Rheumatism 2005;52:181–91.
+Lawrence 1998
+Lawrence RC, Helmick CG, Arnett FC, Deyo RA, Felson
+DT, Giannini EH. Estimates of the prevalence of arthritis
+and selected musculoskeletal disorders in the United States.
+Arthritis and Rheumatism 1998;41(5):778–99.
+Liang 1984
+Liang M, Larsen M, Thomson M, Eaton H, Mcnamara E,
+Katz R, et al.Costs and outcoes in rheumatoid arthritis and
+osteoarthritis. Arthritis and Rheumatism 1984;27(5):522–9.
+Lozada 1997
+Lozada C, Altman R. Chrondroprotection in osteoarthritis.
+Bulletin on the Rheumatic Diseases 1997;46:5–7.
+Matheu 1999
+Matheu V, Gracia Bara MT, Pelta R, Vivas E, Rubio M.
+Immediate-hypersensitivity reaction to glucosamine sulfate.
+Allergy 1999;54:643–50.
+McAlindon 2000
+McAlindon TE, LaValley MP, Gulin JP, Felson DT.
+Glucosamine and Chondroitin for Treatment of
+Osteoarthritis. JAMA 2000;283(11):1469–1475.
+McAlindon 2003
+McAlindon T. Why are clinical trials of glucosamine no
+longer uniformly positive?. Rheumatic Diseases Clinics of
+North America 2003;29(4):789–801.
+McCarty 1994
+McCarty M. The neglect of gulcosamine as a treatment for
+osteoarthritis. A personal perspective. Medical Hypotheses
+1994;42:323–327.
+Monauni 2000
+Monauni T, Zenti MG, Cretti A, Daniels MC, Targher G,
+Caruso B, et al.Effects of glucosamine infusion on insulin
+secretion and insulin action on humans. Diabetes 2000;49
+(6):926–35.
+Moralestorres 1996
+Moralestorres J, Reginster J, Hochberg MC. Rheumatic
+and musculoskeletal diseases and impared quality of life.
+A challenge for rheumatologists. Journal of Rheumatology
+1996;23(1):1–3.
+Mroz 2004
+Mroz PJ, Silbert JE. Use of 3H-glucosamine and 35S-sulfate
+with cultured human chondrocytes to determine the effect
+of glucosamine concentration on formation of chondroitin
+sulfate. Arthritis and Rheumatism 2004;50:3574–9.
+Muniyappa 2006
+Muniyappa R, Karne RJ, Hall G, Crandon SK, Bronstein
+JA, Ver MR, et al.Oral glucosamine for 6 weeks at standard
+doses does not cause or worsen insulin resistance or
+endothelial dysfunction in lean or obese subjects. Diabetes
+2006;55(11):3142–50.
+Persiani 2005a
+Persiani S, Roda E, Rovati LC, Locatelli M, Giacovelli
+G, Roda A. Glucosamine oral bioavailability and plasma
+pharmacokinetics after increasing doses of crystalline
+glucosamine sulfate in man. Osteoarthritis and Cartilage
+2005;13:1041–9.
+Persiani 2005b
+Persiani S, Rotini R, Rovati LC, Locatelli M, Roda A.
+Glucosamine plasma and synovial ﬂuid concentrations
+before and oral administration of crystalline glucosamine
+sulfate in man. Annals of the Rheumatic Diseases. 2005;
+Vol. 64, issue Suppl III:490.
+Petitti 1994
+Petitti D. Meta-analysis, Decision analysis, and Cost-
+Effectiveness analysis. Monographs in Epidemiology and
+Biostatistics. Vol. 24, Oxford University Press, 1994.
+Pham 2007
+Pham T, Cornea A, Blick KE, Jenkins A, Scoﬁeld RH. Oral
+glucosamine in doses used to treat osteoarthritis worsens
+insulin resistance. American Journal of the Medical Sciences
+2007;333(6):333–9.
+Puett 1994
+Puett D, Grifﬁn M. Published trials of nonmedicinal and
+noninvasive therapies for hip and knee osteoarthritis. Annals
+of Internal Medicine 1994;121:133–40.
+Rashad 1989
+Rashad S, Revell P, Hemingway A, Low F, Rainsford K,
+Walker F. Effect of non-steroidal anti-inﬂammatory drugs
+on the course of osteoarthritis. Lancet 1989;2:519–22.
+Reginister 2003
+Reginister J, Bruyere O, Lecart M, Henroitin Y. Naturocetic
+(glucosamine and chondroitin sulfate) compounds as
+structure-modifying drugs in the treatment of osteoarthritis.
+Current Opinion in Rheumatology 2003;15(5):651–5.
+Richy 2003
+Richy F, Bruyere O, Ethgen O, Cucherat M, Henrotin,
+Reginster JY. Structural and symptomatic efﬁcacy of
+glucosamine and chondroitin in knee osteoarthritis. A
+comprehensive meta-analysis. Archives of Internal Medicine
+2003;163:1514–22.
+Roden 1956
+Roden L. Effect of hexosamines on the synthesis of
+chrondroitin sulphruic acid in vitro. Arkhiv Foer Kemi
+1956;10:345–352.
+Russell 2002
+Russell AS, Aghazadeh-Habashi A, Jamali F. Active
+ingredient consistency of commercially available
+glucosamine sulfate products. Journal of Rheumatology
+2002;29(11):2407–9.
+Schulz 1995a
+Schulz KF, Chalmers I, Hayes RJ, Altman D. Empirical
+evidence of bias. Dimensions of methodological quality
+associated with estimates of treatment effects in controlled
+trials. JAMA 1995;273:408–12.
+Scott 1993
+Scott JC, Hochberg MC. Arthritic and other musculoskeletal
+diseases. In: Brownson RC, Remington PL, Davis JR editor
+23
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 27]
+(s). Chronic Disease Epidemiology and Control. Washington:
+American Public Health Association, 1993.
+Scroggie 2003
+Scroggie DA, Albright A, Harris MD. The effect of
+glucosamine-chondroitin supplementation on glycosylated
+hemaglobin levels in patients with type 2 diabetes mellitus: a
+placebo-controlled, double-blinded, randomized controlled
+trial. Archives of Internal Medicine 2003;163(13):1587–90.
+Setnikar 1984
+Setnikar I, Giachetti C, Zanolo G. Absorption, distribution
+and excretion of radioactivity after a single intravenous
+or oral administration of 14C-glucosamine to the rat.
+Pharmatherapeutica 1984;3:523–30.
+Setnikar 1986
+Setnikar I, Giachetti C, Zanolo G. Pharmacokinetics of
+glucosamine in dog and man. Arzneimittelforschung 1986;
+36:729–35.
+Setnikar 1991a
+Setnikar I, Pacini M, Revel L. Antiarthritic effects
+of glucosamine sulfate studied in animal mdoels.
+Arzneimittelforschung 1991;41:542–5.
+Setnikar 1991b
+Setnikar I, Cereda R, pacini MA, Revel L. Antireactive
+properties of glucosamine sulfate. Arneimittelforschung
+1991;41:157–61.
+Setnikar 1992
+Setnikar I. Antireactive properties of chondroprotective
+drugs. International Journal of Tissue Reactions 1992;24:
+253–61.
+Setnikar 1993
+Setnikar I, Palumbo R, Canali S, Zanolo G.
+Pharmacokinetics of glucosamine in man.
+Arzneimittelforschung 1993;43:1109–13.
+Setnikar 2001
+Setnikar I, Rovati LC. Absorption, distribution, metabolism
+and excretion of glucosamine sulfate. Arzneimittelforschung/
+Drug Resistance Updates 2001;51(2):699–725.
+Shikhman 2001
+Shikhman AR, Kuhn K, Alaaeddine N, Lotz M. N-
+acetylglucosamine prevents IL-1 beta-mediated activation
+of human chondrocytes. Journal of Immunology 2001;166:
+5155–60.
+Sibbald 2004
+Sibbald B. Rofecoxib (Vioxx) voluntarily withdrawn from
+market. Canadian Medical Association Journal 2004;171(9):
+1027–8.
+Sivojelezova 2007
+Sivojelezova A, Koren G, Einarson A. Glucosamine use in
+pregnancy: an evaluation of pregnancy outcome. Journal of
+Women’s Health 2007;16(3):345–8.
+Swinburne 2001
+Swinburne LM. Glucosamine sulphate and osteoarthritis
+(letter). Lancet 2001;357:1617.
+Tallia 2002
+Tallia AF, Cardone DA. Asthma exacerbation associated
+with glucosamine-chondroitin supplement. The Journal of
+the American Board of Family Practice 2002;15:481–4.
+Tannis 2004
+Tannis AJ, Barban J, Conquer JA. Effect of glucosamine
+supplementation on fasting and non-fasting plasma glucose
+and serum insulin concentration in healthy individuals.
+Osteoarthritis and Cartilage 2004;12(6):506–11.
+Tapadinhas 1982
+Tapadinhas MJ, Rivera IC, Bignamini AA. Oral glucosamine
+sulphate in the management of arthrosi: report on a mult-
+centre open investigation in Portugal. Pharmacotherapeutica
+1982;3:157–68.
+Towheed 1997a
+Towheed TE, Hochberg MC. A systematic review of
+randomized controlled trials of pharmacological therapy in
+osteoarthritis of the hip. Journal of Rheumatology 1997;24:
+549–57.
+Towheed 1997b
+Towheed TE, Hochberg MC. A systematic review of
+randomized controlled trials of pharmacological therapy
+in osteoarthritis of the knee, with an emphasis on trial
+methodology. Seminars in Arthritis and Rheumatism 1997;
+26:755–70.
+Towheed 1998
+Towheed TE. Impact of musculoskeletal disorders in
+Canada. Annals of the Royal College of Physicians and
+Surgeons of Canada 1998;31(5):229–32.
+Towheed 1999
+Towheed TE, Anatassiades TP. Glucosamine therapy for
+osteoarthritis (editorial). Journal of Rheumatology 1999;26
+(11):2294–7.
+Towheed 2000
+Towheed TE. Glucosamine and chondroitin for treating
+symptoms of osteoarthritis: evidence is widely touted but
+incomplete. JAMA 2000;283(11):1483–4.
+Towheed 2002
+Towheed TE. Published meta-analyses of pharmacological
+therapies for osteoarthritis. Osteoarthritis and Cartilage
+2002;10(11):836–7.
+Towheed 2003
+Towheed TE. Current Status of glucosamine therapy in
+osteoarthritis. Arthritis and Rheumatism 2003;49(4):601–4.
+Towheed 2007
+Towheed TE, Anastassiades T. Glucosamine therapy for
+osteoarthritis: An update. Journal of Rheumatology 2007;34
+(9):1787–90.
+Vidal 1978
+Vidal Y, Plana R, Bizzarri D, Rovati AL. Articular cartilage
+pharmacology. In vitro studies on glucosamine and non-
+steroidal anti-inﬂammatory drugs. Pharmacological Research
+Communications 1978;10:557–69.
+24
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 28]
+Vlad 2007
+Vlad SC, LaValley MP, McAlindon TE, Felson DT.
+Glucosamine for pain in osteoarthritis: why do trial results
+differ?. Arthritis and Rheumatism 2007;56(7):2105–10.
+Wright 2002
+Wright JM. The double-edged sword of COX-2 selective
+NSAIDs. Canadian Medical Association Journal 2002;167
+(10):1131–7.
+∗Indicates the major publication for the study
+25
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 29]
+C H A R A C T E R I S T I C S
+O F
+S T U D I E S
+Characteristics of included studies [ordered by study ID]
+Cibere 2004
+Methods
+Randomized controlled trial
+Double blinded
+Discontinuation trial
+Multicenter trial
+Parallel group
+Participants
+Outpatients with OA of the knee
+Country: Canada
+N = 137
+In order to qualify for study entry, subjects must have been users of glucosamine and have experienced at
+least a moderate improvement in knee pain since starting on glucosamine
+Mean age = 64.5 years
+Female: 60%
+Male: 40%
+Interventions
+GS = 1500 mg/day vs placebo for 24 weeks
+Outcomes
+Proportion of disease ﬂares
+Time to disease ﬂare and severity of disease ﬂare
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+WOMAC total
+Analgesic medication usage
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Clegg 2006
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter (NIH Funded in the USA)
+Parallel group
+Participants
+Outpatients with symptomatic OA of the knee
+Country: USA
+N = 1583
+26
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 30]
+Clegg 2006
+(Continued)
+Mean age = 58.6 years
+Female: 64%
+Male: 36%
+Interventions
+GH 500 mg PO TID versus chondroitin sulfate 1200 mg/day versus GH + chondroitin sulfate versus
+Celebrex 200 mg/day versus placebo
+Duration: 24 weeks
+Outcomes
+WOMAC pain, OMERACT-OARSI responders, WOMAC stiffness, WOMAC function, HAQ Disabil-
+ity, HAQ pain, Patient global assessment, Physician’s global assessment of disease status, joint swelling,
+effusion, usage of acetaminophen
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Crolle 1980
+Methods
+Randomized controlled trial
+Double blinded
+Single center
+Parallel group
+Participants
+Inpatients with osteoarthritis
+Country: Italy
+N = 30
+mean age: 72.7 years
+Female: 73%
+Male: 27%
+Interventions
+GS = 400 mg OD IM (12)
+intra-articular injection given once every 7 days followed by GS = 500 mg TID
+versus IM OD (piperazine plus chlorbutanol) x 7 days followed two weeks of oral placebo
+Duration = 3 weeks
+Outcomes
+Pain (at rest)
+Pain (active range of motion)
+Pain (passive range of motion)
+scored from 0 to 3 scale
+Restricted function, time to walk 20 m
+Safety
+Notes
+27
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 31]
+Crolle 1980
+(Continued)
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+D’ambrosio 1981
+Methods
+Randomized controlled trial
+Double blinded
+Single center
+Parallel group
+Participants
+Inpatients with chronic degenerative osteoarthrotic disorders (site not speciﬁed)
+Country: Italy
+N = 30
+Mean age = 74.7 years
+Female: 77%
+Male: 23%
+Interventions
+GS 400 mg OD (IV or IM) for 7 days followed by two weeks of GS 500 mg PO TID versus (piperazine
+plus chlorbutanol) x 7 days followed two weeks of oral placebo
+Duration: 3 weeks
+Outcomes
+Pain (at rest)
+Pain (during passive range of motion )
+Pain (active range of motion) 0 to 3 scale
+Functional limitation 0 to 3 scale
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Drovanti 1980
+Methods
+Randomized controlled trial
+Double blinded
+Single Center
+Parallel group
+28
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 32]
+Drovanti 1980
+(Continued)
+Participants
+Inpatients with osteoarthritis at multiple sites
+Country: Italy
+N = 80
+Mean age: 60 years
+Female: 78%
+Male: 22%
+Interventions
+GS 500 mg PO TID versus placebo PO TID
+Duration: 4 weeks
+Outcomes
+Pain (0 to 4 scale)
+Joint tenderness
+Swelling
+Restriction of active movement and restriction of passive movement
+Physician global rating
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Herrero-Beaumont 2007
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with primary symptomatic OA of the knee
+Country: Spain and Portugal
+N = 325
+Mean age: 63.9 years
+87% female
+13% male
+Interventions
+GS 1500 mg/day versus acetaminophen 3 gm/day versus placebo
+Duration: 24 weeks
+Outcomes
+Lequesne Index, WOMAC total WOMAC pain, WOMAC function, OARSI A and B responder criteria,
+Global-patient derived
+Notes
+Risk of bias
+29
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 33]
+Herrero-Beaumont 2007
+(Continued)
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Houpt 1999
+Methods
+Randomized controlled trial
+Double blinded
+Single center
+Parallel group
+Participants
+Outpatients with primary osteoarthritis of the knee
+Country: Canada
+N = 118
+Mean age: 64.5 years
+Female: 62%
+Male: 38%
+Age range: 40 to 85 years
+Interventions
+GH 500 mg PO TID versus placebo PO TID
+Duration: 8 weeks with an additional 8 weeks follow-up period (open label)
+Outcomes
+WOMAC
+Daily pain diary
+Global patient derived
+Improvement on knee examination
+Use of acetaminophen
+Perception as to what group the subject were randomized to
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Hughes 2002
+Methods
+Randomized controlled trial
+Double blinded
+Single Center
+Parallel group
+30
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 34]
+Hughes 2002
+(Continued)
+Participants
+Outpatients with osteoarthritis of the knee
+Country: UK
+N = 80
+Mean age = 62.3 years
+Female: 68%
+Male: 32%
+Interventions
+GS 500 mg PO TID versus placebo PO TID
+Duration: 6 months
+Outcomes
+VAS global pain
+VAS pain on movement
+VAS pain at rest
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+McGill Pain Questionnaire (Affective)
+McGill Pain Questionnaire (Sensory)
+OARSI Response Criteria
+Knee range of motion
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+McAlindon 2004
+Methods
+Randomized controlled Internet conducted trial
+Double blinded
+Single center
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: USA
+N = 205
+Mean age = NA
+64% female
+36% male
+Interventions
+GS 1500 mg/day versus placebo
+Duration: 12 weeks
+31
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 35]
+McAlindon 2004
+(Continued)
+Outcomes
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+WOMAC total
+Changes in analgesic usage
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Mehta 2007
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with OA of the knee
+Country: India
+N = 95
+Female: 75%
+Male: 25%
+Mean age = 53.5 years
+Interventions
+GS 750 mg PO BID versus Reparagen (a polyherbal) PO BID
+Duration: 8 weeks
+Outcomes
+WOMAC pain
+WOMAC function
+WOMAC stiffness
+WOMAC total
+OMERACT/OARSI responder, VAS pain, Rescue medication usage
+Patient global assessment
+Physician global assessment
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+32
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 36]
+Muller-FassBender 94
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Inpatients with active osteoarthritis of the knee
+Country :Germany
+N = 200
+Mean age: 54 years
+Female: 48%
+Male: 52%
+Interventions
+GS 500 mg PO TID versus Ibuprofen 400 PO TID
+Duration: 4 weeks
+Outcomes
+Lequesne Index
+Global investigator derived
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Noack 1994
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Germany
+N = 252
+Mean age: 55 years
+Female: 60%
+Male: 40%
+Interventions
+GS 500 mg PO TID versus placebo PO TID
+Duration: 4 weeks
+Outcomes
+Lequesne Index
+Global investigator derived
+Safety
+Notes
+33
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 37]
+Noack 1994
+(Continued)
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Pavelka 2002
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Prague, Czech Republic
+N = 202
+Mean age = 62.3 years
+Female: 78%
+Male: 22%
+Interventions
+GS 1500 mg PO OD versus placebo PO OD
+Duration: 3 years
+Outcomes
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+WOMAC total
+Lequesne Index
+Joint space narrowing (x-ray)
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Pujalte 1980
+Methods
+Randomized controlled trial
+Double blinded
+Single center
+Parallel group
+34
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 38]
+Pujalte 1980
+(Continued)
+Participants
+Outpatients with established osteoarthrosis of the knee
+Country: Philippines
+N = 20
+Mean age: 61.7 years
+Female: 85%
+Male: 15%
+Interventions
+GS 500 mg PO TID versus placebo PO TID
+Duration: 8 weeks
+Outcomes
+Articular pain (1 to 4 scale)
+Joint tenderness (1 to 4 scale)
+Joint swelling (1 to 4 scale)
+Restricted movement (1 to 4 scale)
+Global investigator derived
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Qiu 1998
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: China
+N = 178
+Mean age: 56.4 years
+Female: 79%
+Male: 21%
+Interventions
+GS 500 mg PO TID versus ibuprofen 400 mg PO TID
+Duration: 4 weeks of treatment and 2 weeks of follow up
+Outcomes
+Knee pain (at rest, movement, tenderness) 0 to 3 scale
+Knee swelling 0 to 3 scale
+Global investigator derived
+Safety
+Notes
+35
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 39]
+Qiu 1998
+(Continued)
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Qiu 2005
+Methods
+Randomized controlled trial
+Parallel group
+Multicenter
+Participants
+Outpatients with osteoarthritis of the knee
+Country: China
+N =142
+Mean age = 57 ± 10 years
+Female: 92%
+Male: 8%
+Interventions
+GS 500 mg PO TID versus GH 480 mg PO TID
+Duration: 4 weeks
+Outcomes
+Knee pain at rest, on movement and pressure, swelling, morning stiffness, and walking ability according
+to Lequesne criteria. Adverse events
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Reginster 2001
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Belgium
+N = 212
+Mean age: 65.8 years
+Female: 76%
+Male: 24%
+36
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 40]
+Reginster 2001
+(Continued)
+Interventions
+GS 1500 mg PO OD versus placebo PO OD
+Duration: 3 years
+Outcomes
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+Mean joint space narrowing (x-ray)
+Minimum joint space narrowing (x-ray)
+WOMAC total
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Reichelt 1994
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Germany
+N = 155
+Mean age: 56.5 years
+Female: 65%
+Male: 35%
+Interventions
+GS 400 mg IM x two per week versus placebo IM x two per week
+Duration: 6 weeks of treatment and two weeks of follow up
+Outcomes
+Lequesne Index
+Global investigator derived
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+37
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 41]
+Rindone 2000
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+Participants
+Outpatients with osteoarthritis of the knee
+Country: USA
+N = 114
+Female: 5%
+Male: 95%
+Interventions
+GS 500 mg PO TID versus placebo PO TID
+Duration: 2 months
+Outcomes
+VAS pain at rest
+VAS pain while walking
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Rovati 1997
+Methods
+Randomized controlled trial
+Double blinded
+Multicenter
+Parallel group
+This study is unpublished at this time (the authors have provided us data from this study in the form of
+a full manuscript ). Preliminary data from the study were also presented in abstract form by Rovati LC,
+1997
+Participants
+Outpatients with primary osteoarthritis of the knee
+Country: France
+N = 319
+Mean age: 65.5 years
+Female: 75%
+Male: 25%
+Age range = 45-85 years
+Interventions
+GS 1500 mg per day versus piroxicam 20 mg per day versus the combination of the two versus double
+placebo
+Duration 12 weeks of treatment and 8 weeks of follow up
+38
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 42]
+Rovati 1997
+(Continued)
+Outcomes
+Lequesne Index
+Pain (VAS)
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+Rozendaal 2008
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+Participants
+Outpatients with osteoarthritis of the hip
+Country: Netherlands
+N = 222
+69% female
+31% male
+Mean age = 63.4 years
+Interventions
+GS 1500 mg per day versus placebo
+Duration: 2 years
+Outcomes
+WOMAC pain, WOMAC stiffness, WOMAC function, VAS pain, joint space narrowing, usage of pain
+medication
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+39
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 43]
+Usha 2004
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+Participants
+Outpatients with mild to moderate osteoarthritis of the knee
+Country: India
+N =118
+Mean age = 51 years
+60% female
+40% male
+Interventions
+GS versus MSM versus GS+MSM versus placebo
+Duration: 12 weeks
+Outcomes
+Pain, Lequesne Index, walk time, joint swelling, usage of rescue analgesics, global patient, global investi-
+gator
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Vajaradul 1981
+Methods
+Controlled trial (query randomized)
+Double blinded
+Multicenter
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Thailand
+N = 60
+Mean age: 52.6 years
+Female: 83%
+Male: 17%
+Interventions
+GS IA weekly versus placebo IA weekly
+Duration: 5 weeks and 4 weeks follow up
+Outcomes
+Pain spontaneous (0 to 2 scale)
+Pain on standing (0 to 2 scale)
+Pain on walking (0 to 2 scale)
+Range of motion
+Time to climb ﬁve steps
+Knee joint circumference
+40
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 44]
+Vajaradul 1981
+(Continued)
+Safety
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Vaz 1982
+Methods
+Randomized controlled trial
+Double blinded
+Single center
+Parallel group
+Participants
+Outpatients with osteoarthritis of the knee
+Country: Portugal
+N = 40
+Mean age: 57.8 years
+Female: 74%
+Male: 26%
+Interventions
+GS 500 mg PO TID versus ibuprofen 400 mg PO TID
+Duration: 8 weeks
+Outcomes
+Articular pain (0 to 3 scale)
+Swelling
+Global investigator derived
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+No
+C - Inadequate
+Zenk 2002
+Methods
+Randomized controlled trial
+Double blinded
+Parallel group
+Single center
+41
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 45]
+Zenk 2002
+(Continued)
+Participants
+Outpatients with osteoarthritis of the knee and/or hip
+Country: USA
+N = 42
+Mean age = 59 years
+Female: 81%
+Male: 19%
+Interventions
+GS 500 mg PO TID versus placebo versus milk protein concentrate 2000 mg PO TID
+Duration: 6 weeks
+Outcomes
+WOMAC pain
+WOMAC stiffness
+WOMAC function
+WOMAC total
+Notes
+Risk of bias
+Item
+Authors’ judgement
+Description
+Allocation concealment?
+Yes
+A - Adequate
+GS = Glucosamine sulfate
+GH = Glucosamine hydrochloride
+OD = per day
+IM = Intramuscular
+IA = intrarticular
+IV = Intravenous
+TID = three times per day
+BID = two times per day
+PO = oral
+WOMAC = Western Ontario and McMaster Universities Osteoarthritis Index
+OARSI = Osteoarthritis Research Society International Responder Criteria
+MSM = methylsulfonylmethane
+NA = not available
+Characteristics of excluded studies [ordered by study ID]
+Study
+Reason for exclusion
+Braham 2003
+This RCT compared glucosamine to placebo in subjects who experienced regular knee pain. However, the cause of
+the knee pain was not clearly established, and may possibly not have been caused by OA of the knee
+42
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 46]
+(Continued)
+Magi 1997
+Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities. Report describes a
+pilot long-term feasibility study in subjects with OA of the knee. This was a phase 3 RCT
+Pipitone 1997
+Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities. Report describes a
+pilot long-term feasibility study in subjects with OA of the knee. This was a phase 3 RCT
+Rovati 1993
+Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities. Report describes a
+pilot short-term in subjects with OA of the spine. This was a phase 3 RCT.
+Some of the data from this study was published in abstract form by Foerster KK in the 2000 September Supplemental
+Issue of Arthritis and Rheumatism
+43
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 47]
+D A T A
+A N D
+A N A L Y S E S
+Comparison 1. Glucosamine versus placebo
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants
+Statistical method
+Effect size
+1 Pain
+18
+2543
+Std. Mean Difference (IV, Random, 95% CI)
+-0.47 [-0.72, -0.23]
+2 Lequesne Index
+5
+951
+Std. Mean Difference (IV, Random, 95% CI)
+-0.47 [-0.82, -0.12]
+3 Lequesne Index
+2
+407
+Risk Ratio (M-H, Fixed, 95% CI)
+1.52 [1.20, 1.91]
+4 WOMAC Pain Subscale
+10
+2017
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.06 [-0.14, 0.03]
+5 WOMAC Stiffness Subscale
+7
+1390
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.02 [-0.13, 0.08]
+6 WOMAC Function Subscale
+10
+2017
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.08 [-0.17, 0.00]
+7 WOMAC Total
+6
+882
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.18 [-0.31, -0.05]
+8 Mean Joint Space Width
+1
+212
+Std. Mean Difference (IV, Fixed, 95% CI)
+0.07 [-0.20, 0.34]
+9 Minimum Joint Space Width
+2
+414
+Mean Difference (IV, Fixed, 95% CI)
+0.32 [0.05, 0.58]
+10 Patient global assessment of
+disease status score (0-100mm
+scale)
+1
+630
+Mean Difference (IV, Fixed, 95% CI)
+1.10 [-2.77, 4.97]
+11 Patient global assessment -
+number responding they are
+better than at start of trial
+1
+118
+Risk Ratio (M-H, Fixed, 95% CI)
+1.21 [0.80, 1.82]
+12 Physician global assessment of
+disease status score (0-100)
+1
+630
+Mean Difference (IV, Fixed, 95% CI)
+0.80 [-2.78, 4.38]
+13 Physician global assessment of
+good or excellent response
+2
+100
+Risk Ratio (M-H, Fixed, 95% CI)
+2.26 [1.49, 3.43]
+14 Osteoarthritis Research Society
+International Responder
+Criteria (OARSI)
+3
+918
+Risk Ratio (M-H, Random, 95% CI)
+1.23 [0.83, 1.83]
+15 Toxicity (Number of Patients
+Reporting Adverse Events)
+16
+2117
+Risk Ratio (M-H, Fixed, 95% CI)
+0.99 [0.91, 1.07]
+16 Toxicity (Number of
+Withdrawals due to Adverse
+Events)
+20
+2970
+Risk Ratio (M-H, Fixed, 95% CI)
+0.76 [0.55, 1.05]
+Comparison 2. Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants
+Statistical method
+Effect size
+1 Pain
+4
+997
+Std. Mean Difference (IV, Random, 95% CI)
+-0.27 [-0.65, 0.11]
+2 Lequesne Index
+2
+345
+Std. Mean Difference (IV, Random, 95% CI)
+-0.36 [-1.07, 0.35]
+3 Toxicity (Number of Patients
+Reporting Adverse Events)
+4
+580
+Risk Ratio (M-H, Fixed, 95% CI)
+0.29 [0.19, 0.44]
+44
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 48]
+4 Toxicity (Number of
+Withdrawals due to Adverse
+Events)
+5
+1215
+Risk Ratio (M-H, Random, 95% CI)
+0.16 [0.02, 1.46]
+Comparison 3. Glucosamine versus placebo (adequate allocation concealment)
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants
+Statistical method
+Effect size
+1 Pain
+11
+2173
+Std. Mean Difference (IV, Random, 95% CI)
+-0.16 [-0.36, 0.04]
+2 Lequesne Index
+4
+809
+Std. Mean Difference (IV, Random, 95% CI)
+-0.54 [-0.96, -0.12]
+3 Lequesne Index
+1
+252
+Risk Ratio (M-H, Fixed, 95% CI)
+1.43 [1.08, 1.91]
+4 WOMAC Pain Subscale
+10
+2017
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.06 [-0.14, 0.03]
+5 WOMAC Stiffness Subscale
+7
+1390
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.02 [-0.13, 0.08]
+6 WOMAC Function Subscale
+10
+2017
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.08 [-0.17, 0.00]
+7 WOMAC Total
+6
+882
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.18 [-0.31, -0.05]
+8 Minimum Joint Space Width
+2
+414
+Mean Difference (IV, Fixed, 95% CI)
+0.32 [0.05, 0.58]
+9 Toxicity (Number of Patients
+Reporting Adverse Events)
+9
+1640
+Risk Ratio (M-H, Fixed, 95% CI)
+0.99 [0.91, 1.07]
+10 Toxicity (Number of
+Withdrawals due to Adverse
+Events)
+12
+2435
+Risk Ratio (M-H, Fixed, 95% CI)
+0.76 [0.54, 1.07]
+Comparison 4. Glucosamine versus placebo (Rotta preparation)
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants
+Statistical method
+Effect size
+1 Pain
+8
+940
+Std. Mean Difference (IV, Random, 95% CI)
+-1.11 [-1.66, -0.57]
+2 Lequesne Index
+5
+951
+Std. Mean Difference (IV, Random, 95% CI)
+-0.47 [-0.82, -0.12]
+3 Lequesne Index
+2
+407
+Risk Ratio (M-H, Fixed, 95% CI)
+1.52 [1.20, 1.91]
+4 WOMAC Pain Subscale
+3
+624
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.17 [-0.32, -0.01]
+5 WOMAC Stiffness Subscale
+1
+202
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.22 [-0.50, 0.06]
+6 WOMAC Function Subscale
+3
+624
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.19 [-0.35, -0.03]
+7 WOMAC Total
+4
+626
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.25 [-0.40, -0.09]
+45
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 49]
+Comparison 5. Glucosamine versus placebo (non-Rotta preparation)
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants
+Statistical method
+Effect size
+1 Pain
+10
+1603
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.05 [-0.15, 0.05]
+2 WOMAC Total
+3
+258
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.02 [-0.27, 0.22]
+3 WOMAC Pain Subscale
+7
+1393
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.01 [-0.11, 0.10]
+4 WOMAC Stiffness Subscale
+6
+1188
+Std. Mean Difference (IV, Fixed, 95% CI)
+0.01 [-0.10, 0.13]
+5 WOMAC Function Subscale
+6
+1188
+Std. Mean Difference (IV, Fixed, 95% CI)
+-0.01 [-0.13, 0.10]
+Analysis 1.1.
+Comparison 1 Glucosamine versus placebo, Outcome 1 Pain.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+1 Pain
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+6.4 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+7.0 %
+-0.01 [ -0.17, 0.14 ]
+Crolle 1980
+15
+0.21 (0.43)
+15
+1.13 (0.89)
+4.1 %
+-1.28 [ -2.08, -0.49 ]
+D’ambrosio 1981
+15
+0.33 (0.12)
+15
+1.2 (0.19)
+1.8 %
+-5.33 [ -6.94, -3.71 ]
+Drovanti 1980
+40
+0.95 (0.82)
+40
+1.88 (0.44)
+5.6 %
+-1.40 [ -1.89, -0.91 ]
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+6.6 %
+-0.30 [ -0.57, -0.03 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+6.1 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+5.8 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+6.6 %
+0.05 [ -0.22, 0.33 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+6.6 %
+-0.13 [ -0.40, 0.15 ]
+Pujalte 1980
+10
+1.25 (0.25)
+10
+2.36 (0.79)
+3.0 %
+-1.81 [ -2.89, -0.74 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+6.6 %
+-0.08 [ -0.35, 0.19 ]
+Rindone 2000
+49
+3.2 (2.5)
+49
+3.4 (2.5)
+6.1 %
+-0.08 [ -0.48, 0.32 ]
+Rovati 1997
+79
+24.3 (19.3)
+77
+50 (22)
+6.3 %
+-1.24 [ -1.58, -0.89 ]
+Rozendaal 2008
+111
+35.2 (26.8)
+111
+34.4 (25.6)
+6.7 %
+0.03 [ -0.23, 0.29 ]
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+(Continued . . . )
+46
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 50]
+(. . . Continued)
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Usha 2004
+30
+0.65 (0.71)
+28
+1.16 (0.76)
+5.4 %
+-0.68 [ -1.22, -0.15 ]
+Vajaradul 1981
+28
+0.18 (0.16)
+26
+0.69 (0.92)
+5.3 %
+-0.78 [ -1.33, -0.22 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+4.0 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+1276
+1267
+100.0 % -0.47 [ -0.72, -0.23 ]
+Heterogeneity: Tau2 = 0.22; Chi2 = 136.13, df = 17 (P<0.00001); I2 =88%
+Test for overall effect: Z = 3.76 (P = 0.00017)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+Analysis 1.2.
+Comparison 1 Glucosamine versus placebo, Outcome 2 Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+2 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Herrero-Beaumont 2007
+106
+7.97 (3.07)
+104
+8.96 (2.61)
+20.5 %
+-0.35 [ -0.62, -0.07 ]
+Noack 1994
+120
+7.4 (5.5)
+121
+8.4 (4.4)
+20.8 %
+-0.20 [ -0.45, 0.05 ]
+Pavelka 2002
+101
+7.25 (2.3)
+101
+8.12 (2.27)
+20.4 %
+-0.38 [ -0.66, -0.10 ]
+Reichelt 1994
+73
+6.8 (6.9)
+69
+8.3 (8.3)
+19.3 %
+-0.20 [ -0.53, 0.13 ]
+Rovati 1997
+79
+5.5 (2.8)
+77
+9.7 (3.7)
+19.0 %
+-1.28 [ -1.62, -0.93 ]
+Total (95% CI)
+479
+472
+100.0 %
+-0.47 [ -0.82, -0.12 ]
+Heterogeneity: Tau2 = 0.14; Chi2 = 28.67, df = 4 (P<0.00001); I2 =86%
+Test for overall effect: Z = 2.63 (P = 0.0084)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+47
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 51]
+Analysis 1.3.
+Comparison 1 Glucosamine versus placebo, Outcome 3 Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+3 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Noack 1994
+66/126
+46/126
+66.2 %
+1.43 [ 1.08, 1.91 ]
+Reichelt 1994
+40/79
+23/76
+33.8 %
+1.67 [ 1.12, 2.51 ]
+Total (95% CI)
+205
+202
+100.0 %
+1.52 [ 1.20, 1.91 ]
+Total events: 106 (Glucosamine), 69 (Placebo)
+Heterogeneity: Chi2 = 0.37, df = 1 (P = 0.54); I2 =0.0%
+Test for overall effect: Z = 3.50 (P = 0.00047)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours placebo
+Favours glucosamine
+Analysis 1.4.
+Comparison 1 Glucosamine versus placebo, Outcome 4 WOMAC Pain Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+4 WOMAC Pain Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+6.8 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+31.3 %
+-0.01 [ -0.17, 0.14 ]
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+10.3 %
+-0.30 [ -0.57, -0.03 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+4.8 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+3.9 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+10.2 %
+0.05 [ -0.22, 0.33 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+10.0 %
+-0.13 [ -0.40, 0.15 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+10.5 %
+-0.08 [ -0.35, 0.19 ]
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+(Continued . . . )
+48
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 52]
+(. . . Continued)
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Rozendaal 2008
+111
+32 (24.1)
+111
+32.3 (23)
+11.0 %
+-0.01 [ -0.28, 0.25 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+1.1 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+1010
+1007
+100.0 % -0.06 [ -0.14, 0.03 ]
+Heterogeneity: Chi2 = 4.74, df = 9 (P = 0.86); I2 =0.0%
+Test for overall effect: Z = 1.26 (P = 0.21)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+Analysis 1.5.
+Comparison 1 Glucosamine versus placebo, Outcome 5 WOMAC Stiffness Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+5 WOMAC Stiffness Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+56.06 (47.46)
+66
+54 (49.12)
+9.9 %
+0.04 [ -0.29, 0.38 ]
+Clegg 2006
+317
+70.6 (52.2)
+313
+70.5 (48.8)
+45.5 %
+0.00 [ -0.15, 0.16 ]
+Houpt 1999
+45
+3.39 (1.81)
+53
+3.73 (1.76)
+7.0 %
+-0.19 [ -0.59, 0.21 ]
+Hughes 2002
+39
+3.58 (2.34)
+39
+3.15 (1.64)
+5.6 %
+0.21 [ -0.23, 0.66 ]
+Pavelka 2002
+101
+1.94 (1.47)
+101
+2.26 (1.44)
+14.5 %
+-0.22 [ -0.50, 0.06 ]
+Rozendaal 2008
+111
+38.2 (25.5)
+111
+38.1 (23.6)
+16.0 %
+0.00 [ -0.26, 0.27 ]
+Zenk 2002
+13
+-59.6 (27.1)
+10
+-70 (20.6)
+1.6 %
+0.41 [ -0.43, 1.24 ]
+Total (95% CI)
+697
+693
+100.0 %
+-0.02 [ -0.13, 0.08 ]
+Heterogeneity: Chi2 = 4.97, df = 6 (P = 0.55); I2 =0.0%
+Test for overall effect: Z = 0.39 (P = 0.70)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+49
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 53]
+Analysis 1.6.
+Comparison 1 Glucosamine versus placebo, Outcome 6 WOMAC Function Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+6 WOMAC Function Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+419.85 (362.09)
+66
+418.64 (367.42)
+6.8 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+531.8 (388.6)
+313
+540.3 (374.1)
+31.3 %
+-0.02 [ -0.18, 0.13 ]
+Herrero-Beaumont 2007
+106
+18.57 (11.4)
+104
+21.66 (10.89)
+10.3 %
+-0.28 [ -0.55, 0.00 ]
+Houpt 1999
+45
+25.98 (14.7)
+53
+27.17 (14.1)
+4.8 %
+-0.08 [ -0.48, 0.32 ]
+Hughes 2002
+39
+26.6 (19.1)
+39
+23.32 (15.01)
+3.9 %
+0.19 [ -0.26, 0.63 ]
+McAlindon 2004
+101
+25 (11.2)
+104
+27 (12.8)
+10.2 %
+-0.17 [ -0.44, 0.11 ]
+Pavelka 2002
+101
+16.04 (10.67)
+101
+18.3 (11.03)
+10.0 %
+-0.21 [ -0.48, 0.07 ]
+Reginster 2001
+106
+580.1 (364.2)
+106
+610.8 (367.8)
+10.5 %
+-0.08 [ -0.35, 0.19 ]
+Rozendaal 2008
+111
+32.6 (24.2)
+111
+34.1 (23.5)
+11.0 %
+-0.06 [ -0.33, 0.20 ]
+Zenk 2002
+13
+-73 (26.9)
+10
+-77 (21.1)
+1.1 %
+0.16 [ -0.67, 0.98 ]
+Total (95% CI)
+1010
+1007
+100.0 % -0.08 [ -0.17, 0.00 ]
+Heterogeneity: Chi2 = 5.68, df = 9 (P = 0.77); I2 =0.0%
+Test for overall effect: Z = 1.87 (P = 0.061)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+50
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 54]
+Analysis 1.7.
+Comparison 1 Glucosamine versus placebo, Outcome 7 WOMAC Total.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+7 WOMAC Total
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+605.62 (506.58)
+66
+602.26 (531.04)
+15.6 %
+0.01 [ -0.33, 0.34 ]
+Herrero-Beaumont 2007
+106
+25.43 (15.17)
+104
+29.67 (14.27)
+23.7 %
+-0.29 [ -0.56, -0.01 ]
+Houpt 1999
+45
+36.57 (19.5)
+53
+38.57 (19.3)
+11.1 %
+-0.10 [ -0.50, 0.30 ]
+Pavelka 2002
+101
+22.7 (14.4)
+101
+25.58 (14.43)
+23.0 %
+-0.20 [ -0.48, 0.08 ]
+Reginster 2001
+106
+909.7 (473.8)
+106
+1031.79 (484.8)
+24.0 %
+-0.25 [ -0.52, 0.02 ]
+Zenk 2002
+13
+-72.2 (26.5)
+10
+-76.3 (21.5)
+2.6 %
+0.16 [ -0.66, 0.99 ]
+Total (95% CI)
+442
+440
+100.0 % -0.18 [ -0.31, -0.05 ]
+Heterogeneity: Chi2 = 2.89, df = 5 (P = 0.72); I2 =0.0%
+Test for overall effect: Z = 2.68 (P = 0.0074)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+Analysis 1.8.
+Comparison 1 Glucosamine versus placebo, Outcome 8 Mean Joint Space Width.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+8 Mean Joint Space Width
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Reginster 2001
+106
+5.17 (1.36)
+106
+5.08 (1.29)
+100.0 %
+0.07 [ -0.20, 0.34 ]
+Total (95% CI)
+106
+106
+100.0 %
+0.07 [ -0.20, 0.34 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.49 (P = 0.62)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Placebo
+Favours Glucosamine
+51
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 55]
+Analysis 1.9.
+Comparison 1 Glucosamine versus placebo, Outcome 9 Minimum Joint Space Width.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+9 Minimum Joint Space Width
+Study or subgroup
+Glucosamine
+Placebo
+Mean
+Difference
+Weight
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Pavelka 2002
+101
+3.93 (1.48)
+101
+3.44 (1.57)
+40.2 %
+0.49 [ 0.07, 0.91 ]
+Reginster 2001
+106
+3.75 (1.32)
+106
+3.55 (1.24)
+59.8 %
+0.20 [ -0.14, 0.54 ]
+Total (95% CI)
+207
+207
+100.0 %
+0.32 [ 0.05, 0.58 ]
+Heterogeneity: Chi2 = 1.09, df = 1 (P = 0.30); I2 =8%
+Test for overall effect: Z = 2.33 (P = 0.020)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Placebo
+Favours Glucosamine
+Analysis 1.10. Comparison 1 Glucosamine versus placebo, Outcome 10 Patient global assessment of disease
+status score (0-100mm scale).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+10 Patient global assessment of disease status score (0-100mm scale)
+Study or subgroup
+Glucosamine
+Placebo
+Mean
+Difference
+Weight
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Clegg 2006
+317
+35.1 (25.7)
+313
+34 (23.9)
+100.0 %
+1.10 [ -2.77, 4.97 ]
+Total (95% CI)
+317
+313
+100.0 %
+1.10 [ -2.77, 4.97 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.56 (P = 0.58)
+Test for subgroup differences: Not applicable
+-10
+-5
+0
+5
+10
+Favours placebo
+Favours glucosamine
+52
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 56]
+Analysis 1.11.
+Comparison 1 Glucosamine versus placebo, Outcome 11 Patient global assessment - number
+responding they are better than at start of trial.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+11 Patient global assessment - number responding they are better than at start of trial
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Houpt 1999 (1)
+28/58
+24/60
+100.0 %
+1.21 [ 0.80, 1.82 ]
+Total (95% CI)
+58
+60
+100.0 %
+1.21 [ 0.80, 1.82 ]
+Total events: 28 (Glucosamine), 24 (Placebo)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.90 (P = 0.37)
+Test for subgroup differences: Not applicable
+0.2
+0.5
+1
+2
+5
+Favours placebo
+Favours glucosamine
+(1) data presented only in abstract; not presented in main text
+Analysis 1.12.
+Comparison 1 Glucosamine versus placebo, Outcome 12 Physician global assessment of
+disease status score (0-100).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+12 Physician global assessment of disease status score (0-100)
+Study or subgroup
+Glucosamine
+Placebo
+Mean
+Difference
+Weight
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Clegg 2006
+317
+37.9 (23.3)
+313
+37.1 (22.5)
+100.0 %
+0.80 [ -2.78, 4.38 ]
+Total (95% CI)
+317
+313
+100.0 %
+0.80 [ -2.78, 4.38 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.44 (P = 0.66)
+Test for subgroup differences: Not applicable
+-10
+-5
+0
+5
+10
+Favours placebo
+Favours glucosamine
+53
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 57]
+Analysis 1.13.
+Comparison 1 Glucosamine versus placebo, Outcome 13 Physician global assessment of good
+or excellent response.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+13 Physician global assessment of good or excellent response
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Drovanti 1980
+29/40
+17/40
+97.1 %
+1.71 [ 1.13, 2.56 ]
+Pujalte 1980
+10/10
+0/10
+2.9 %
+21.00 [ 1.40, 315.98 ]
+Total (95% CI)
+50
+50
+100.0 %
+2.26 [ 1.49, 3.43 ]
+Total events: 39 (Glucosamine), 17 (Placebo)
+Heterogeneity: Chi2 = 4.41, df = 1 (P = 0.04); I2 =77%
+Test for overall effect: Z = 3.82 (P = 0.00013)
+0.005
+0.1
+1
+10
+200
+Favours placebo
+Favours glucosamine
+Analysis 1.14.
+Comparison 1 Glucosamine versus placebo, Outcome 14 Osteoarthritis Research Society
+International Responder Criteria (OARSI).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+14 Osteoarthritis Research Society International Responder Criteria (OARSI)
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-
+H,Random,95%
+CI
+M-
+H,Random,95%
+CI
+Clegg 2006
+192/317
+178/313
+47.4 %
+1.07 [ 0.93, 1.21 ]
+Herrero-Beaumont 2007
+42/106
+22/104
+31.1 %
+1.87 [ 1.21, 2.91 ]
+Hughes 2002
+12/39
+13/39
+21.5 %
+0.92 [ 0.48, 1.76 ]
+Total (95% CI)
+462
+456
+100.0 %
+1.23 [ 0.83, 1.83 ]
+Total events: 246 (Glucosamine), 213 (Placebo)
+Heterogeneity: Tau2 = 0.08; Chi2 = 6.35, df = 2 (P = 0.04); I2 =69%
+Test for overall effect: Z = 1.02 (P = 0.31)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours Placebo
+Favours Glucosamine
+54
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 58]
+Analysis 1.15.
+Comparison 1 Glucosamine versus placebo, Outcome 15 Toxicity (Number of Patients
+Reporting Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+15 Toxicity (Number of Patients Reporting Adverse Events)
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Crolle 1980
+0/15
+0/15
+0.0 [ 0.0, 0.0 ]
+D’ambrosio 1981
+0/15
+0/15
+0.0 [ 0.0, 0.0 ]
+Drovanti 1980
+4/40
+7/40
+0.57 [ 0.18, 1.80 ]
+Herrero-Beaumont 2007
+95/106
+89/104
+1.05 [ 0.95, 1.16 ]
+Houpt 1999
+6/46
+7/55
+1.02 [ 0.37, 2.84 ]
+Hughes 2002
+25/40
+27/40
+0.93 [ 0.67, 1.28 ]
+McAlindon 2004
+18/101
+14/104
+1.32 [ 0.70, 2.52 ]
+Noack 1994
+8/126
+13/126
+0.62 [ 0.26, 1.43 ]
+Pavelka 2002
+67/101
+65/101
+1.03 [ 0.84, 1.26 ]
+Pujalte 1980
+0/12
+1/12
+0.33 [ 0.01, 7.45 ]
+Reginster 2001
+100/106
+99/106
+1.01 [ 0.94, 1.08 ]
+Reichelt 1994
+5/79
+7/76
+0.69 [ 0.23, 2.07 ]
+Rindone 2000
+17/49
+11/49
+1.55 [ 0.81, 2.95 ]
+Rovati 1997
+12/79
+19/77
+0.62 [ 0.32, 1.18 ]
+Rozendaal 2008
+57/111
+59/111
+0.97 [ 0.75, 1.24 ]
+Vajaradul 1981
+0/30
+0/30
+0.0 [ 0.0, 0.0 ]
+Total (95% CI)
+1056
+1061
+0.99 [ 0.91, 1.07 ]
+Total events: 414 (Glucosamine), 418 (Placebo)
+Heterogeneity: Chi2 = 9.59, df = 12 (P = 0.65); I2 =0.0%
+Test for overall effect: Z = 0.28 (P = 0.78)
+0.2
+0.5
+1
+2
+5
+Favours Glucosamine
+Favours Placebo
+55
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 59]
+Analysis 1.16.
+Comparison 1 Glucosamine versus placebo, Outcome 16 Toxicity (Number of Withdrawals
+due to Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+1 Glucosamine versus placebo
+Outcome:
+16 Toxicity (Number of Withdrawals due to Adverse Events)
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Cibere 2004
+0/71
+0/66
+0.0 [ 0.0, 0.0 ]
+Clegg 2006
+9/317
+11/313
+0.81 [ 0.34, 1.92 ]
+Crolle 1980
+0/15
+0/15
+0.0 [ 0.0, 0.0 ]
+D’ambrosio 1981
+0/15
+0/15
+0.0 [ 0.0, 0.0 ]
+Drovanti 1980
+0/40
+0/40
+0.0 [ 0.0, 0.0 ]
+Herrero-Beaumont 2007
+4/106
+9/104
+0.44 [ 0.14, 1.37 ]
+Houpt 1999
+0/46
+0/55
+0.0 [ 0.0, 0.0 ]
+Hughes 2002
+0/40
+1/40
+0.33 [ 0.01, 7.95 ]
+McAlindon 2004
+1/101
+3/104
+0.34 [ 0.04, 3.25 ]
+Noack 1994
+5/126
+8/126
+0.63 [ 0.21, 1.86 ]
+Pavelka 2002
+8/101
+10/101
+0.80 [ 0.33, 1.94 ]
+Pujalte 1980
+0/12
+0/12
+0.0 [ 0.0, 0.0 ]
+Reginster 2001
+21/106
+18/106
+1.17 [ 0.66, 2.06 ]
+Reichelt 1994
+3/79
+0/76
+6.74 [ 0.35, 128.29 ]
+Rindone 2000
+2/49
+4/49
+0.50 [ 0.10, 2.60 ]
+Rovati 1997
+0/79
+4/77
+0.11 [ 0.01, 1.98 ]
+Rozendaal 2008
+4/111
+6/111
+0.67 [ 0.19, 2.30 ]
+Usha 2004
+0/30
+0/28
+0.0 [ 0.0, 0.0 ]
+Vajaradul 1981
+0/30
+0/30
+0.0 [ 0.0, 0.0 ]
+Zenk 2002
+0/14
+1/14
+0.33 [ 0.01, 7.55 ]
+Total (95% CI)
+1488
+1482
+0.76 [ 0.55, 1.05 ]
+Total events: 57 (Glucosamine), 75 (Placebo)
+Heterogeneity: Chi2 = 8.36, df = 11 (P = 0.68); I2 =0.0%
+Test for overall effect: Z = 1.64 (P = 0.10)
+0.005
+0.1
+1
+10
+200
+Favours Glucosamine
+Favours Placebo
+56
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 60]
+Analysis 2.1. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 1 Pain.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+Outcome:
+1 Pain
+Study or subgroup
+Glucosamine
+NSAIDs
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Clegg 2006
+317
+149.3 (115.9)
+318
+135.7 (108.3)
+30.6 %
+0.12 [ -0.03, 0.28 ]
+Qiu 1998
+87
+3.6 (3.09)
+81
+4.18 (2.76)
+26.8 %
+-0.20 [ -0.50, 0.11 ]
+Rovati 1997
+79
+24.3 (19.3)
+77
+35.7 (22.4)
+26.3 %
+-0.54 [ -0.86, -0.22 ]
+Vaz 1982
+18
+0.8 (0.5)
+20
+1.2 (0.6)
+16.4 %
+-0.71 [ -1.36, -0.05 ]
+Total (95% CI)
+501
+496
+100.0 %
+-0.27 [ -0.65, 0.11 ]
+Heterogeneity: Tau2 = 0.12; Chi2 = 18.44, df = 3 (P = 0.00036); I2 =84%
+Test for overall effect: Z = 1.41 (P = 0.16)
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours NSAID
+Analysis 2.2.
+Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 2
+Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+Outcome:
+2 Lequesne Index
+Study or subgroup
+Glucosamine
+NSAID
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Muller-FassBender 94
+94
+9.6 (5.8)
+95
+9.6 (5.8)
+50.6 %
+0.0 [ -0.29, 0.29 ]
+Rovati 1997
+79
+5.5 (2.8)
+77
+7.9 (3.7)
+49.4 %
+-0.73 [ -1.05, -0.40 ]
+Total (95% CI)
+173
+172
+100.0 %
+-0.36 [ -1.07, 0.35 ]
+Heterogeneity: Tau2 = 0.24; Chi2 = 10.95, df = 1 (P = 0.00094); I2 =91%
+Test for overall effect: Z = 0.99 (P = 0.32)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours NSAID
+57
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 61]
+Analysis 2.3.
+Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 3
+Toxicity (Number of Patients Reporting Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+Outcome:
+3 Toxicity (Number of Patients Reporting Adverse Events)
+Study or subgroup
+Glucosamine
+NSAIDs
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Muller-FassBender 94
+6/100
+35/99
+39.9 %
+0.17 [ 0.07, 0.39 ]
+Qiu 1998
+5/88
+14/90
+15.7 %
+0.37 [ 0.14, 0.97 ]
+Rovati 1997
+12/79
+36/86
+39.1 %
+0.36 [ 0.20, 0.65 ]
+Vaz 1982
+2/18
+5/20
+5.4 %
+0.44 [ 0.10, 2.01 ]
+Total (95% CI)
+285
+295
+100.0 %
+0.29 [ 0.19, 0.44 ]
+Total events: 25 (Glucosamine), 90 (NSAIDs)
+Heterogeneity: Chi2 = 2.73, df = 3 (P = 0.43); I2 =0.0%
+Test for overall effect: Z = 5.95 (P < 0.00001)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours Glucosamine
+Favours NSAIDs
+58
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 62]
+Analysis 2.4.
+Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 4
+Toxicity (Number of Withdrawals due to Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+Outcome:
+4 Toxicity (Number of Withdrawals due to Adverse Events)
+Study or subgroup
+Glucosamine
+NSAIDs
+Risk Ratio
+Risk Ratio
+n/N
+n/N
+M-
+H,Random,95%
+CI
+M-
+H,Random,95%
+CI
+Clegg 2006
+9/317
+7/318
+1.29 [ 0.49, 3.42 ]
+Muller-FassBender 94
+1/100
+7/99
+0.14 [ 0.02, 1.13 ]
+Qiu 1998
+0/88
+9/90
+0.05 [ 0.00, 0.91 ]
+Rovati 1997
+0/79
+18/86
+0.03 [ 0.00, 0.48 ]
+Vaz 1982
+0/18
+0/20
+0.0 [ 0.0, 0.0 ]
+Total (95% CI)
+602
+613
+0.16 [ 0.02, 1.46 ]
+Total events: 10 (Glucosamine), 41 (NSAIDs)
+Heterogeneity: Tau2 = 3.75; Chi2 = 13.97, df = 3 (P = 0.003); I2 =79%
+Test for overall effect: Z = 1.62 (P = 0.11)
+0.01
+0.1
+1
+10
+100
+Favours Glucosamine
+Favours NSAIDs
+59
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 63]
+Analysis 3.1.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 1
+Pain.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+1 Pain
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+9.2 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+11.5 %
+-0.01 [ -0.17, 0.14 ]
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+10.1 %
+-0.30 [ -0.57, -0.03 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+8.3 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+7.7 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+10.0 %
+0.05 [ -0.22, 0.33 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+10.0 %
+-0.13 [ -0.40, 0.15 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+10.1 %
+-0.08 [ -0.35, 0.19 ]
+Rovati 1997
+79
+24.3 (19.3)
+77
+50 (22)
+9.0 %
+-1.24 [ -1.58, -0.89 ]
+Rozendaal 2008
+111
+35.2 (26.8)
+111
+34.4 (25.6)
+10.2 %
+0.03 [ -0.23, 0.29 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+4.0 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+1089
+1084
+100.0 % -0.16 [ -0.36, 0.04 ]
+Heterogeneity: Tau2 = 0.08; Chi2 = 48.06, df = 10 (P<0.00001); I2 =79%
+Test for overall effect: Z = 1.58 (P = 0.11)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+60
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 64]
+Analysis 3.2.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 2
+Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+2 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Herrero-Beaumont 2007
+106
+7.97 (3.07)
+104
+8.96 (2.61)
+25.3 %
+-0.35 [ -0.62, -0.07 ]
+Noack 1994
+120
+7.4 (5.5)
+121
+8.4 (4.4)
+25.7 %
+-0.20 [ -0.45, 0.05 ]
+Pavelka 2002
+101
+7.25 (2.3)
+101
+8.12 (2.27)
+25.2 %
+-0.38 [ -0.66, -0.10 ]
+Rovati 1997
+79
+5.5 (2.8)
+77
+9.7 (3.7)
+23.8 %
+-1.28 [ -1.62, -0.93 ]
+Total (95% CI)
+406
+403
+100.0 %
+-0.54 [ -0.96, -0.12 ]
+Heterogeneity: Tau2 = 0.16; Chi2 = 26.52, df = 3 (P<0.00001); I2 =89%
+Test for overall effect: Z = 2.50 (P = 0.013)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+Analysis 3.3.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 3
+Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+3 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Noack 1994
+66/126
+46/126
+100.0 %
+1.43 [ 1.08, 1.91 ]
+Total (95% CI)
+126
+126
+100.0 %
+1.43 [ 1.08, 1.91 ]
+Total events: 66 (Glucosamine), 46 (Placebo)
+Heterogeneity: not applicable
+Test for overall effect: Z = 2.49 (P = 0.013)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours placebo
+Favours glucosamine
+61
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 65]
+Analysis 3.4.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 4
+WOMAC Pain Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+4 WOMAC Pain Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+6.8 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+31.3 %
+-0.01 [ -0.17, 0.14 ]
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+10.3 %
+-0.30 [ -0.57, -0.03 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+4.8 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+3.9 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+10.2 %
+0.05 [ -0.22, 0.33 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+10.0 %
+-0.13 [ -0.40, 0.15 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+10.5 %
+-0.08 [ -0.35, 0.19 ]
+Rozendaal 2008
+111
+32 (24.1)
+111
+32.3 (23)
+11.0 %
+-0.01 [ -0.28, 0.25 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+1.1 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+1010
+1007
+100.0 % -0.06 [ -0.14, 0.03 ]
+Heterogeneity: Chi2 = 4.74, df = 9 (P = 0.86); I2 =0.0%
+Test for overall effect: Z = 1.26 (P = 0.21)
+Test for subgroup differences: Not applicable
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+62
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 66]
+Analysis 3.5.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 5
+WOMAC Stiffness Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+5 WOMAC Stiffness Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+56.06 (47.46)
+66
+54 (49.12)
+9.9 %
+0.04 [ -0.29, 0.38 ]
+Clegg 2006
+317
+70.6 (52.2)
+313
+70.5 (48.8)
+45.5 %
+0.00 [ -0.15, 0.16 ]
+Houpt 1999
+45
+3.39 (1.81)
+53
+3.73 (1.76)
+7.0 %
+-0.19 [ -0.59, 0.21 ]
+Hughes 2002
+39
+3.58 (2.34)
+39
+3.15 (1.64)
+5.6 %
+0.21 [ -0.23, 0.66 ]
+Pavelka 2002
+101
+1.94 (1.47)
+101
+2.26 (1.44)
+14.5 %
+-0.22 [ -0.50, 0.06 ]
+Rozendaal 2008
+111
+38.2 (25.5)
+111
+38.1 (23.6)
+16.0 %
+0.00 [ -0.26, 0.27 ]
+Zenk 2002
+13
+-59.6 (27.1)
+10
+-70 (20.6)
+1.6 %
+0.41 [ -0.43, 1.24 ]
+Total (95% CI)
+697
+693
+100.0 %
+-0.02 [ -0.13, 0.08 ]
+Heterogeneity: Chi2 = 4.97, df = 6 (P = 0.55); I2 =0.0%
+Test for overall effect: Z = 0.39 (P = 0.70)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+63
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 67]
+Analysis 3.6.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 6
+WOMAC Function Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+6 WOMAC Function Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+419.85 (362.09)
+66
+418.64 (367.42)
+6.8 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+531.8 (388.6)
+313
+540.3 (374.1)
+31.3 %
+-0.02 [ -0.18, 0.13 ]
+Herrero-Beaumont 2007
+106
+18.57 (11.4)
+104
+21.66 (10.89)
+10.3 %
+-0.28 [ -0.55, 0.00 ]
+Houpt 1999
+45
+25.98 (14.7)
+53
+27.17 (14.1)
+4.8 %
+-0.08 [ -0.48, 0.32 ]
+Hughes 2002
+39
+26.6 (19.1)
+39
+23.32 (15.01)
+3.9 %
+0.19 [ -0.26, 0.63 ]
+McAlindon 2004
+101
+25 (11.2)
+104
+27 (12.8)
+10.2 %
+-0.17 [ -0.44, 0.11 ]
+Pavelka 2002
+101
+16.04 (10.67)
+101
+18.3 (11.03)
+10.0 %
+-0.21 [ -0.48, 0.07 ]
+Reginster 2001
+106
+580.1 (364.2)
+106
+610.8 (367.8)
+10.5 %
+-0.08 [ -0.35, 0.19 ]
+Rozendaal 2008
+111
+32.6 (24.2)
+111
+34.1 (23.5)
+11.0 %
+-0.06 [ -0.33, 0.20 ]
+Zenk 2002
+13
+-73 (26.9)
+10
+-77 (21.1)
+1.1 %
+0.16 [ -0.67, 0.98 ]
+Total (95% CI)
+1010
+1007
+100.0 % -0.08 [ -0.17, 0.00 ]
+Heterogeneity: Chi2 = 5.68, df = 9 (P = 0.77); I2 =0.0%
+Test for overall effect: Z = 1.87 (P = 0.061)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+64
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 68]
+Analysis 3.7.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 7
+WOMAC Total.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+7 WOMAC Total
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+605.62 (506.58)
+66
+602.26 (531.04)
+15.6 %
+0.01 [ -0.33, 0.34 ]
+Herrero-Beaumont 2007
+106
+25.43 (15.17)
+104
+29.67 (14.27)
+23.7 %
+-0.29 [ -0.56, -0.01 ]
+Houpt 1999
+45
+36.57 (19.5)
+53
+38.57 (19.3)
+11.1 %
+-0.10 [ -0.50, 0.30 ]
+Pavelka 2002
+101
+22.7 (14.4)
+101
+25.58 (14.43)
+23.0 %
+-0.20 [ -0.48, 0.08 ]
+Reginster 2001
+106
+909.7 (473.8)
+106
+1031.79 (484.8)
+24.0 %
+-0.25 [ -0.52, 0.02 ]
+Zenk 2002
+13
+-72.2 (26.5)
+10
+-76.3 (21.5)
+2.6 %
+0.16 [ -0.66, 0.99 ]
+Total (95% CI)
+442
+440
+100.0 % -0.18 [ -0.31, -0.05 ]
+Heterogeneity: Chi2 = 2.89, df = 5 (P = 0.72); I2 =0.0%
+Test for overall effect: Z = 2.68 (P = 0.0074)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+65
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 69]
+Analysis 3.8.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 8
+Minimum Joint Space Width.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+8 Minimum Joint Space Width
+Study or subgroup
+Glucosamine
+Placebo
+Mean
+Difference
+Weight
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Pavelka 2002
+101
+3.93 (1.48)
+101
+3.44 (1.57)
+40.2 %
+0.49 [ 0.07, 0.91 ]
+Reginster 2001
+106
+3.75 (1.32)
+106
+3.55 (1.24)
+59.8 %
+0.20 [ -0.14, 0.54 ]
+Total (95% CI)
+207
+207
+100.0 %
+0.32 [ 0.05, 0.58 ]
+Heterogeneity: Chi2 = 1.09, df = 1 (P = 0.30); I2 =8%
+Test for overall effect: Z = 2.33 (P = 0.020)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Placebo
+Favours Glucosamine
+66
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 70]
+Analysis 3.9.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 9
+Toxicity (Number of Patients Reporting Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+9 Toxicity (Number of Patients Reporting Adverse Events)
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Herrero-Beaumont 2007
+95/106
+89/104
+22.9 %
+1.05 [ 0.95, 1.16 ]
+Houpt 1999
+6/46
+7/55
+1.6 %
+1.02 [ 0.37, 2.84 ]
+Hughes 2002
+25/40
+27/40
+6.9 %
+0.93 [ 0.67, 1.28 ]
+McAlindon 2004
+18/101
+14/104
+3.5 %
+1.32 [ 0.70, 2.52 ]
+Noack 1994
+8/126
+13/126
+3.3 %
+0.62 [ 0.26, 1.43 ]
+Pavelka 2002
+67/101
+65/101
+16.6 %
+1.03 [ 0.84, 1.26 ]
+Reginster 2001
+100/106
+99/106
+25.2 %
+1.01 [ 0.94, 1.08 ]
+Rovati 1997
+12/79
+19/77
+4.9 %
+0.62 [ 0.32, 1.18 ]
+Rozendaal 2008
+57/111
+59/111
+15.0 %
+0.97 [ 0.75, 1.24 ]
+Total (95% CI)
+816
+824
+100.0 %
+0.99 [ 0.91, 1.07 ]
+Total events: 388 (Glucosamine), 392 (Placebo)
+Heterogeneity: Chi2 = 6.01, df = 8 (P = 0.65); I2 =0.0%
+Test for overall effect: Z = 0.29 (P = 0.77)
+0.5
+0.7
+1
+1.5
+2
+Favours Glucosamine
+Favours Placebo
+67
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 71]
+Analysis 3.10.
+Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 10
+Toxicity (Number of Withdrawals due to Adverse Events).
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+3 Glucosamine versus placebo (adequate allocation concealment)
+Outcome:
+10 Toxicity (Number of Withdrawals due to Adverse Events)
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Cibere 2004
+0/71
+0/66
+0.0 [ 0.0, 0.0 ]
+Clegg 2006
+9/317
+11/313
+0.81 [ 0.34, 1.92 ]
+Herrero-Beaumont 2007
+4/106
+9/104
+0.44 [ 0.14, 1.37 ]
+Houpt 1999
+0/46
+0/55
+0.0 [ 0.0, 0.0 ]
+Hughes 2002
+0/40
+1/40
+0.33 [ 0.01, 7.95 ]
+McAlindon 2004
+1/101
+3/104
+0.34 [ 0.04, 3.25 ]
+Noack 1994
+5/126
+8/126
+0.63 [ 0.21, 1.86 ]
+Pavelka 2002
+8/101
+10/101
+0.80 [ 0.33, 1.94 ]
+Reginster 2001
+21/106
+18/106
+1.17 [ 0.66, 2.06 ]
+Rovati 1997
+0/79
+4/77
+0.11 [ 0.01, 1.98 ]
+Rozendaal 2008
+2/111
+1/111
+2.00 [ 0.18, 21.74 ]
+Zenk 2002
+0/14
+1/14
+0.33 [ 0.01, 7.55 ]
+Total (95% CI)
+1218
+1217
+0.76 [ 0.54, 1.07 ]
+Total events: 50 (Glucosamine), 66 (Placebo)
+Heterogeneity: Chi2 = 6.61, df = 9 (P = 0.68); I2 =0.0%
+Test for overall effect: Z = 1.56 (P = 0.12)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours Glucosamine
+Favours Placebo
+68
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 72]
+Analysis 4.1.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 1 Pain.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+1 Pain
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Crolle 1980
+15
+0.21 (0.43)
+15
+1.13 (0.89)
+11.5 %
+-1.28 [ -2.08, -0.49 ]
+D’ambrosio 1981
+15
+0.33 (0.12)
+15
+1.2 (0.19)
+6.5 %
+-5.33 [ -6.94, -3.71 ]
+Drovanti 1980
+40
+0.95 (0.82)
+40
+1.88 (0.44)
+13.6 %
+-1.40 [ -1.89, -0.91 ]
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+14.8 %
+-0.30 [ -0.57, -0.03 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+14.7 %
+-0.13 [ -0.40, 0.15 ]
+Pujalte 1980
+10
+1.25 (0.25)
+10
+2.36 (0.79)
+9.6 %
+-1.81 [ -2.89, -0.74 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+14.8 %
+-0.08 [ -0.35, 0.19 ]
+Rovati 1997
+79
+24.3 (19.3)
+77
+50 (22)
+14.4 %
+-1.24 [ -1.58, -0.89 ]
+Total (95% CI)
+472
+468
+100.0 %
+-1.11 [ -1.66, -0.57 ]
+Heterogeneity: Tau2 = 0.50; Chi2 = 92.89, df = 7 (P<0.00001); I2 =92%
+Test for overall effect: Z = 4.01 (P = 0.000061)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+69
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 73]
+Analysis 4.2.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 2 Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+2 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Random,95% CI
+IV,Random,95% CI
+Herrero-Beaumont 2007
+106
+7.97 (3.07)
+104
+8.96 (2.61)
+20.5 %
+-0.35 [ -0.62, -0.07 ]
+Noack 1994
+120
+7.4 (5.5)
+121
+8.4 (4.4)
+20.8 %
+-0.20 [ -0.45, 0.05 ]
+Pavelka 2002
+101
+7.25 (2.3)
+101
+8.12 (2.27)
+20.4 %
+-0.38 [ -0.66, -0.10 ]
+Reichelt 1994
+73
+6.8 (6.9)
+69
+8.3 (8.3)
+19.3 %
+-0.20 [ -0.53, 0.13 ]
+Rovati 1997
+79
+5.5 (2.8)
+77
+9.7 (3.7)
+19.0 %
+-1.28 [ -1.62, -0.93 ]
+Total (95% CI)
+479
+472
+100.0 %
+-0.47 [ -0.82, -0.12 ]
+Heterogeneity: Tau2 = 0.14; Chi2 = 28.67, df = 4 (P<0.00001); I2 =86%
+Test for overall effect: Z = 2.63 (P = 0.0084)
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+Analysis 4.3.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 3 Lequesne Index.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+3 Lequesne Index
+Study or subgroup
+Glucosamine
+Placebo
+Risk Ratio
+Weight
+Risk Ratio
+n/N
+n/N
+M-H,Fixed,95% CI
+M-H,Fixed,95% CI
+Noack 1994
+66/126
+46/126
+66.2 %
+1.43 [ 1.08, 1.91 ]
+Reichelt 1994
+40/79
+23/76
+33.8 %
+1.67 [ 1.12, 2.51 ]
+Total (95% CI)
+205
+202
+100.0 %
+1.52 [ 1.20, 1.91 ]
+Total events: 106 (Glucosamine), 69 (Placebo)
+Heterogeneity: Chi2 = 0.37, df = 1 (P = 0.54); I2 =0.0%
+Test for overall effect: Z = 3.50 (P = 0.00047)
+0.1
+0.2
+0.5
+1
+2
+5
+10
+Favours placebo
+Favours glucosamine
+70
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 74]
+Analysis 4.4.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 4 WOMAC Pain
+Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+4 WOMAC Pain Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Herrero-Beaumont 2007
+106
+5.1 (3.03)
+104
+6 (3)
+33.4 %
+-0.30 [ -0.57, -0.03 ]
+Pavelka 2002
+101
+4.61 (3.45)
+101
+5.03 (3.13)
+32.5 %
+-0.13 [ -0.40, 0.15 ]
+Reginster 2001
+106
+156.1 (101.9)
+106
+164.2 (104.5)
+34.1 %
+-0.08 [ -0.35, 0.19 ]
+Total (95% CI)
+313
+311
+100.0 %
+-0.17 [ -0.32, -0.01 ]
+Heterogeneity: Chi2 = 1.38, df = 2 (P = 0.50); I2 =0.0%
+Test for overall effect: Z = 2.09 (P = 0.037)
+Test for subgroup differences: Not applicable
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+Analysis 4.5.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 5 WOMAC
+Stiffness Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+5 WOMAC Stiffness Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Pavelka 2002
+101
+1.94 (1.47)
+101
+2.26 (1.44)
+100.0 %
+-0.22 [ -0.50, 0.06 ]
+Total (95% CI)
+101
+101
+100.0 %
+-0.22 [ -0.50, 0.06 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 1.55 (P = 0.12)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+71
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 75]
+Analysis 4.6.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 6 WOMAC
+Function Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+6 WOMAC Function Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Herrero-Beaumont 2007
+106
+18.57 (11.4)
+104
+21.66 (10.89)
+33.5 %
+-0.28 [ -0.55, 0.00 ]
+Pavelka 2002
+101
+16.04 (10.67)
+101
+18.3 (11.03)
+32.4 %
+-0.21 [ -0.48, 0.07 ]
+Reginster 2001
+106
+580.1 (364.2)
+106
+610.8 (367.8)
+34.1 %
+-0.08 [ -0.35, 0.19 ]
+Total (95% CI)
+313
+311
+100.0 %
+-0.19 [ -0.35, -0.03 ]
+Heterogeneity: Chi2 = 1.00, df = 2 (P = 0.61); I2 =0.0%
+Test for overall effect: Z = 2.34 (P = 0.019)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+Analysis 4.7.
+Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 7 WOMAC Total.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+4 Glucosamine versus placebo (Rotta preparation)
+Outcome:
+7 WOMAC Total
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+1
+0 (0)
+1
+0 (0)
+0.0 [ 0.0, 0.0 ]
+Herrero-Beaumont 2007
+106
+25.43 (15.17)
+104
+29.67 (14.27)
+-0.29 [ -0.56, -0.01 ]
+Pavelka 2002
+101
+22.7 (14.4)
+101
+25.58 (14.43)
+-0.20 [ -0.48, 0.08 ]
+Reginster 2001
+106
+909.7 (473.8)
+106
+1031.79 (484.8)
+-0.25 [ -0.52, 0.02 ]
+Total (95% CI)
+314
+312
+-0.25 [ -0.40, -0.09 ]
+Heterogeneity: Chi2 = 0.20, df = 2 (P = 0.90); I2 =0.0%
+Test for overall effect: Z = 3.07 (P = 0.0021)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+72
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 76]
+Analysis 5.1.
+Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 1 Pain.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+5 Glucosamine versus placebo (non-Rotta preparation)
+Outcome:
+1 Pain
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+8.6 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+39.5 %
+-0.01 [ -0.17, 0.14 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+6.1 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+4.9 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+12.9 %
+0.05 [ -0.22, 0.33 ]
+Rindone 2000
+49
+3.2 (2.5)
+49
+3.4 (2.5)
+6.1 %
+-0.08 [ -0.48, 0.32 ]
+Rozendaal 2008
+111
+35.2 (26.8)
+111
+34.4 (25.6)
+13.9 %
+0.03 [ -0.23, 0.29 ]
+Usha 2004
+30
+0.65 (0.71)
+28
+1.16 (0.76)
+3.4 %
+-0.68 [ -1.22, -0.15 ]
+Vajaradul 1981
+28
+0.18 (0.16)
+26
+0.69 (0.92)
+3.1 %
+-0.78 [ -1.33, -0.22 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+1.4 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+804
+799
+100.0 %
+-0.05 [ -0.15, 0.05 ]
+Heterogeneity: Chi2 = 13.60, df = 9 (P = 0.14); I2 =34%
+Test for overall effect: Z = 1.05 (P = 0.30)
+Test for subgroup differences: Not applicable
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+73
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 77]
+Analysis 5.2.
+Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 2 WOMAC
+Total.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+5 Glucosamine versus placebo (non-Rotta preparation)
+Outcome:
+2 WOMAC Total
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+605.62 (506.58)
+66
+602.26 (531.04)
+53.3 %
+0.01 [ -0.33, 0.34 ]
+Houpt 1999
+45
+36.57 (19.5)
+53
+38.57 (19.3)
+37.9 %
+-0.10 [ -0.50, 0.30 ]
+Zenk 2002
+13
+-72.2 (26.5)
+10
+-76.3 (21.5)
+8.8 %
+0.16 [ -0.66, 0.99 ]
+Total (95% CI)
+129
+129
+100.0 %
+-0.02 [ -0.27, 0.22 ]
+Heterogeneity: Chi2 = 0.37, df = 2 (P = 0.83); I2 =0.0%
+Test for overall effect: Z = 0.17 (P = 0.87)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+74
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 78]
+Analysis 5.3.
+Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 3 WOMAC
+Pain Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+5 Glucosamine versus placebo (non-Rotta preparation)
+Outcome:
+3 WOMAC Pain Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+129.72 (113.23)
+66
+129.62 (118.02)
+9.8 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+149.3 (115.9)
+313
+151 (113.1)
+45.3 %
+-0.01 [ -0.17, 0.14 ]
+Houpt 1999
+45
+7.14 (4.01)
+53
+7.65 (4.13)
+7.0 %
+-0.12 [ -0.52, 0.27 ]
+Hughes 2002
+39
+7.5 (4.81)
+39
+7.35 (4.38)
+5.6 %
+0.03 [ -0.41, 0.48 ]
+McAlindon 2004
+101
+6.8 (3.3)
+104
+6.6 (4.2)
+14.7 %
+0.05 [ -0.22, 0.33 ]
+Rozendaal 2008
+111
+32 (24.1)
+111
+32.3 (23)
+16.0 %
+-0.01 [ -0.28, 0.25 ]
+Zenk 2002
+13
+-74.7 (26.3)
+10
+-76.5 (25.1)
+1.6 %
+0.07 [ -0.76, 0.89 ]
+Total (95% CI)
+697
+696
+100.0 %
+-0.01 [ -0.11, 0.10 ]
+Heterogeneity: Chi2 = 0.59, df = 6 (P = 1.00); I2 =0.0%
+Test for overall effect: Z = 0.12 (P = 0.90)
+Test for subgroup differences: Not applicable
+-4
+-2
+0
+2
+4
+Favours Glucosamine
+Favours Placebo
+75
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 79]
+Analysis 5.4.
+Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 4 WOMAC
+Stiffness Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+5 Glucosamine versus placebo (non-Rotta preparation)
+Outcome:
+4 WOMAC Stiffness Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+56.06 (47.46)
+66
+54 (49.12)
+11.5 %
+0.04 [ -0.29, 0.38 ]
+Clegg 2006
+317
+70.6 (52.2)
+313
+70.5 (48.8)
+53.2 %
+0.00 [ -0.15, 0.16 ]
+Houpt 1999
+45
+3.39 (1.81)
+53
+3.73 (1.76)
+8.2 %
+-0.19 [ -0.59, 0.21 ]
+Hughes 2002
+39
+3.58 (2.34)
+39
+3.15 (1.64)
+6.5 %
+0.21 [ -0.23, 0.66 ]
+Rozendaal 2008
+111
+38.2 (25.5)
+111
+38.1 (23.6)
+18.7 %
+0.00 [ -0.26, 0.27 ]
+Zenk 2002
+13
+-59.6 (27.1)
+10
+-70 (20.6)
+1.9 %
+0.41 [ -0.43, 1.24 ]
+Total (95% CI)
+596
+592
+100.0 %
+0.01 [ -0.10, 0.13 ]
+Heterogeneity: Chi2 = 2.66, df = 5 (P = 0.75); I2 =0.0%
+Test for overall effect: Z = 0.22 (P = 0.83)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+76
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 80]
+Analysis 5.5.
+Comparison 5 Glucosamine versus placebo (non-Rotta preparation), Outcome 5 WOMAC
+Function Subscale.
+Review:
+Glucosamine therapy for treating osteoarthritis
+Comparison:
+5 Glucosamine versus placebo (non-Rotta preparation)
+Outcome:
+5 WOMAC Function Subscale
+Study or subgroup
+Glucosamine
+Placebo
+Std.
+Mean
+Difference
+Weight
+Std.
+Mean
+Difference
+N
+Mean(SD)
+N
+Mean(SD)
+IV,Fixed,95% CI
+IV,Fixed,95% CI
+Cibere 2004
+71
+419.85 (362.09)
+66
+418.64 (367.42)
+11.5 %
+0.00 [ -0.33, 0.34 ]
+Clegg 2006
+317
+531.8 (388.6)
+313
+540.3 (374.1)
+53.1 %
+-0.02 [ -0.18, 0.13 ]
+Houpt 1999
+45
+25.98 (14.7)
+53
+27.17 (14.1)
+8.2 %
+-0.08 [ -0.48, 0.32 ]
+Hughes 2002
+39
+26.6 (19.1)
+39
+23.32 (15.01)
+6.5 %
+0.19 [ -0.26, 0.63 ]
+Rozendaal 2008
+111
+32.6 (24.2)
+111
+34.1 (23.5)
+18.7 %
+-0.06 [ -0.33, 0.20 ]
+Zenk 2002
+13
+-73 (26.9)
+10
+-77 (21.1)
+1.9 %
+0.16 [ -0.67, 0.98 ]
+Total (95% CI)
+596
+592
+100.0 %
+-0.01 [ -0.13, 0.10 ]
+Heterogeneity: Chi2 = 1.23, df = 5 (P = 0.94); I2 =0.0%
+Test for overall effect: Z = 0.25 (P = 0.80)
+Test for subgroup differences: Not applicable
+-1
+-0.5
+0
+0.5
+1
+Favours Glucosamine
+Favours Placebo
+A D D I T I O N A L
+T A B L E S
+Table 1. Methodological quality assessment
+Study
+Method
+of
+al-
+location conceal-
+ment
+described
+and appropriate
+Study described
+as ’randomized’
+Method of ran-
+domization
+de-
+scribed and ap-
+propriate
+Study described
+as ’double blind’
+Method
+of blinding de-
+scribed and ap-
+propriate
+# and reason for
+withdrawals de-
+scribed in each
+group
+Cibere 2004
+M
+M
+M
+M
+M
+M
+Clegg 2006
+M
+M
+M
+M
+M
+NM
+Crolle 1980
+NM
+M
+NM
+M
+M
+NM
+D’ambrosio
+1981
+NM
+M
+NM
+M
+M
+NM
+Drovanti 1980
+NM
+M
+NM
+M
+M
+NM
+77
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 81]
+Table 1. Methodological quality assessment
+(Continued)
+Herrero-
+Beaumont 2007
+M
+M
+M
+M
+M
+M
+Houpt 1999
+M
+M
+NM
+M
+M
+NM
+Hughes 2002
+M
+M
+M
+M
+M
+M
+McAlindon
+2004
+M
+M
+M
+M
+M
+M
+Mehta 2007
+NM
+M
+NM
+M
+M
+M
+Muller-
+FassBender 94
+M
+M
+M
+M
+M
+M
+Noack 1994
+M
+M
+M
+M
+M
+M
+Pavelka 2002
+M
+M
+M
+M
+M
+M
+Pujalte 1980
+NM
+M
+NM
+M
+M
+M
+Qiu 1998
+NM
+M
+NM
+M
+M
+M
+Qiu 2005
+NM
+M
+NM
+NM
+NM
+M
+Reginster 2001
+M
+M
+M
+M
+NM
+M
+Reichelt 1994
+NM
+M
+NM
+M
+M
+M
+Rindone 2000
+NM
+M
+M
+M
+NM
+NM
+Rovati 1997
+M
+M
+M
+M
+M
+M
+Rozendaal 2008
+M
+M
+M
+M
+M
+M
+Usha 2004
+NM
+M
+NM
+M
+M
+M
+Vajaradul 1981
+NM
+M
+NM
+M
+M
+M
+Vaz 1982
+NM
+M
+NM
+M
+NM
+M
+Zenk 2002
+M
+M
+NM
+M
+M
+M
+M = criteria met; NM = criteria not met
+78
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 82]
+A P P E N D I C E S
+Appendix 1. Electronic search strategy
+1. exp osteoarthritis/
+2. (degenerative adj2 arthritis). tw.
+3. osteoarthr$.tw.
+4. or/1-3
+5. exp glucosamine/
+6. glucosamine.rn, tw.
+7. acetylglucosamine.tw, rn.
+8. n-acetylglucosamine.tw.
+9. n-acetyl-d-glucosamine.tw.
+10. or/5-9
+11. 4 and 10
+12. limit 11 to human
+W H A T ’ S
+N E W
+Last assessed as up-to-date: 11 November 2008.
+Date
+Event
+Description
+12 November 2008
+New search has been performed
+5 new studies included in this update.
+H I S T O R Y
+Review ﬁrst published: Issue 1, 2000
+Date
+Event
+Description
+18 June 2008
+Amended
+Converted to new review format. C040-R
+23 February 2005
+New citation required and conclusions have changed
+Substantive amendment
+79
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 83]
+C O N T R I B U T I O N S
+O F
+A U T H O R S
+TT is responsible for the overall content of this review
+TP did data abstraction and quality assessment and reviewed the inclusion criteria for selected trials and wrote some of the discussion
+regarding the pharmacokinetics of glucosamine
+LM did data abstraction, assisted with data analysis and helped with the preparation of the ﬁnal version
+JH critically reviewed the results and helped to draft the ﬁnal version of this review
+BS was involved in quality assessment
+VW provided analytic support, helped in the preparation of the ﬁnal document and reviewed the ﬁnal version
+MH critically reviewed the results and helped to draft the ﬁnal version of this review
+GW provided methodological and statistical support
+D E C L A R A T I O N S
+O F
+I N T E R E S T
+The current version of the ’Glucosamine for osteoarthritis’ review on The Cochrane Library was last revised in 2005.
+Dr Tassos Anastassiades submitted patents (Pub. No. US 2002/0045597 A1 and Pub. No. US 6,479,469 B2) for glucosamine type
+substances in August 2000. The patent protection is for chemically synthesized compounds with substitutions of chain length larger
+than the naturally occurring acetyl group in glucosamine.
+Dr Tanveer Towheed was an invited speaker at the November 2002 ACR meeting. The accredited event, a post-meeting symposium,
+was coordinated by the CME department at the Case Western Reserve School of Medicine. Rotta Pharmaceuticals (whose product
+is glucosamine sulfate) provided an unrestricted educational grant in support of the program. Dr Towheed presented a review of all
+available published meta-analyses of various pharmacological therapies for OA. He received a one time honorarium for speaking at this
+symposium. There is no other association with Rotta Pharmaceuticals, or any other potential conﬂict of interest.
+JB Houpt received an unrestricted grant-in-aid of research from Wampole Canada Inc for completion of a trial published in 1999. No
+industry or other support has been received since.
+S O U R C E S
+O F
+S U P P O R T
+Internal sources
+• Queens University Cochrane Network Site. Kingston, Ontario, Canada.
+• University of Ottawa, Canada.
+External sources
+• No sources of support supplied
+80
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 84]
+I N D E X
+T E R M S
+Medical Subject Headings (MeSH)
+Double-Blind Method; Glucosamine [∗therapeutic use]; Osteoarthritis [∗drug therapy]; Randomized Controlled Trials as Topic
+MeSH check words
+Adult; Humans
+81
+Glucosamine therapy for treating osteoarthritis (Review)
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
