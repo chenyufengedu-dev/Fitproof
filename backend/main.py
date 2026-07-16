@@ -797,6 +797,24 @@ def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
         return []
     workers = min(KEYFRAME_WORKERS, max(1, len(frames)))
 
+    def encode_frame_image(path: str) -> str | None:
+        try:
+            import io
+            from PIL import Image
+
+            with Image.open(path) as source:
+                image = source.convert("RGB")
+                if image.width > 480:
+                    height = max(1, round(image.height * 480 / image.width))
+                    image = image.resize((480, height), Image.Resampling.LANCZOS)
+                buffer = io.BytesIO()
+                image.save(buffer, format="JPEG", quality=55, optimize=True)
+            encoded = base64.b64encode(buffer.getvalue()).decode("ascii")
+            return f"data:image/jpeg;base64,{encoded}"
+        except Exception as e:
+            print(f"[keyframe] 图片压缩编码失败，保留文字结果: {str(e)[:160]}")
+            return None
+
     def one(frame: dict) -> dict | None:
         try:
             text = describe_frame(frame["path"])
@@ -811,7 +829,11 @@ def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
                 return None
         if _is_none_visual_description(text):
             return None
-        return {"time": frame["time"], "screen_text": text}
+        result = {"time": frame["time"], "screen_text": text}
+        image = encode_frame_image(frame["path"])
+        if image:
+            result["image"] = image
+        return result
 
     out = []
     with ThreadPoolExecutor(max_workers=workers) as pool:

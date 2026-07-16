@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import type { Claim, EvidenceEntry, SingleAnalyzeResponse, VerifyResult } from '@/types'
+import type { Claim, EvidenceEntry, Keyframe, SingleAnalyzeResponse, VerifyResult } from '@/types'
 import { citedEvidence, isEvidenceDowngraded } from '@/lib/single'
 
 interface SingleResultPageProps {
@@ -26,6 +26,12 @@ type CardDescriptor =
 interface DrawerData {
   title: string
   evidence: EvidenceEntry
+}
+
+interface VisualImage {
+  image: string
+  screenText: string
+  time: number
 }
 
 const SIGNAL_STYLES = {
@@ -64,6 +70,23 @@ function formatFrameTime(value: unknown) {
   return `${minutes}:${seconds}`
 }
 
+function parseVideoTime(value: string) {
+  const parts = value.split(':').map(Number)
+  if (parts.length < 1 || parts.some((part) => !Number.isFinite(part) || part < 0)) return null
+  return parts.reduce((total, part) => total * 60 + part, 0)
+}
+
+function closestFrame(claim: Claim, keyframes: Keyframe[]) {
+  const claimTime = parseVideoTime(claim.video_refs?.[0]?.time || '')
+  if (claimTime === null) return null
+  const candidates = keyframes.filter((frame) => typeof frame.image === 'string' && frame.image.length > 0)
+  if (candidates.length === 0) return null
+  const closest = candidates.reduce((best, frame) => (
+    Math.abs(frame.time - claimTime) < Math.abs(best.time - claimTime) ? frame : best
+  ))
+  return Math.abs(closest.time - claimTime) <= 10 ? closest : null
+}
+
 function LoadingDots() {
   return (
     <span className="inline-flex h-4 items-end gap-1" aria-hidden="true">
@@ -89,7 +112,7 @@ function ShieldAvatar() {
   )
 }
 
-function ProfileCard({ data }: { data: SingleAnalyzeResponse }) {
+function ProfileCard({ data, onOpenImage }: { data: SingleAnalyzeResponse; onOpenImage: (frame: Keyframe) => void }) {
   const counts = data.claims.reduce(
     (acc, claim) => {
       if (claim.signal === '较公认') acc.common += 1
@@ -148,10 +171,25 @@ function ProfileCard({ data }: { data: SingleAnalyzeResponse }) {
           <div className="mt-2 space-y-2">
             {visibleFrames.map((frame, index) => {
               const time = formatFrameTime(frame.time)
+              const hasImage = typeof frame.image === 'string' && frame.image.length > 0
               return (
                 <div key={`${String(frame.time)}-${index}`} className="flex gap-3 rounded-2xl border border-[#20CDB6]/15 bg-white px-3 py-3">
-                  {time && <span className="shrink-0 rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
-                  <p className="min-w-0 text-sm leading-relaxed text-slate-600">{String(frame.screen_text)}</p>
+                  {hasImage ? (
+                    <>
+                      <button type="button" onClick={() => onOpenImage(frame)} className="h-16 w-[72px] shrink-0 overflow-hidden rounded-xl bg-slate-100" aria-label={`放大查看 ${time || '关键帧'} 画面`}>
+                        <img src={frame.image} alt="AI 抓取的视频关键帧" className="h-full w-full object-cover" />
+                      </button>
+                      <div className="min-w-0 flex-1">
+                        {time && <span className="inline-block rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
+                        <p className={`${time ? 'mt-1.5' : ''} text-sm leading-relaxed text-slate-600`}>{String(frame.screen_text)}</p>
+                      </div>
+                    </>
+                  ) : (
+                    <>
+                      {time && <span className="shrink-0 rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
+                      <p className="min-w-0 text-sm leading-relaxed text-slate-600">{String(frame.screen_text)}</p>
+                    </>
+                  )}
                 </div>
               )
             })}
@@ -239,7 +277,9 @@ function EvidenceReply({ state, onRetry, onEvidence }: { state: VerifyState; onR
   )
 }
 
-function ConfrontationCard({ claim, claimIndex, total, state, onRetry, onEvidence }: { claim: Claim; claimIndex: number; total: number; state: VerifyState; onRetry: () => void; onEvidence: (evidence: EvidenceEntry) => void }) {
+function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry, onEvidence, onOpenImage }: { claim: Claim; claimIndex: number; total: number; state: VerifyState; keyframes: Keyframe[]; onRetry: () => void; onEvidence: (evidence: EvidenceEntry) => void; onOpenImage: (frame: Keyframe) => void }) {
+  const matchedFrame = closestFrame(claim, keyframes)
+
   return (
     <section className="rounded-[26px] border border-[#20CDB6]/20 bg-white p-4 shadow-[0_18px_55px_rgba(18,116,103,0.10)]">
       <div className="flex items-center justify-between gap-3 border-b border-[#D8F0EC] pb-3">
@@ -258,6 +298,14 @@ function ConfrontationCard({ claim, claimIndex, total, state, onRetry, onEvidenc
             <div className="rounded-[14px_14px_14px_4px] border border-slate-200 bg-white px-4 py-3 shadow-sm">
               <p className="text-[15px] font-medium leading-relaxed text-slate-900">“{claim.claim}”</p>
             </div>
+            {matchedFrame?.image && (
+              <div className="mt-2">
+                <button type="button" onClick={() => onOpenImage(matchedFrame)} className="block w-[120px] overflow-hidden rounded-xl bg-slate-100" aria-label={`放大查看 ${formatFrameTime(matchedFrame.time)} 画面`}>
+                  <img src={matchedFrame.image} alt="与这条说法时间相近的视频关键帧" className="aspect-video w-full object-cover" />
+                </button>
+                <p className="mt-1 text-[11px] text-slate-400">AI 抓到的画面 {formatFrameTime(matchedFrame.time)}</p>
+              </div>
+            )}
           </div>
         </div>
 
@@ -288,6 +336,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   const [verifyStates, setVerifyStates] = useState<VerifyState[]>(initialStates)
   const [cardIndex, setCardIndex] = useState(0)
   const [drawer, setDrawer] = useState<DrawerData | null>(null)
+  const [visualImage, setVisualImage] = useState<VisualImage | null>(null)
 
   const mountedRef = useRef(false)
   const startedRef = useRef(false)
@@ -381,7 +430,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
           <span className="shrink-0 rounded-full bg-[#E1F5EE] px-3 py-1.5 text-sm font-bold text-[#0B6E63]">{cardIndex + 1} / {totalCards}</span>
         </header>
 
-        {currentCard.kind === 'profile' && <ProfileCard data={data} />}
+        {currentCard.kind === 'profile' && <ProfileCard data={data} onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })} />}
         {currentCard.kind === 'overview' && <OverviewCard data={data} states={verifyStates} onOpenClaim={(index) => setCardIndex(2 + index)} />}
         {currentCard.kind === 'confrontation' && (
           <ConfrontationCard
@@ -389,8 +438,10 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
             claimIndex={currentCard.claimIndex}
             total={data.claims.length}
             state={verifyStates[currentCard.claimIndex] || { status: 'pending' }}
+            keyframes={data.keyframes}
             onRetry={() => retryClaim(currentCard.claimIndex)}
             onEvidence={(evidence) => setDrawer({ title: evidence.id, evidence })}
+            onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
           />
         )}
       </div>
@@ -419,6 +470,21 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
               {drawer.evidence.url && <a href={drawer.evidence.url} target="_blank" rel="noreferrer" className="mt-3 inline-block break-all text-sm font-medium text-[#0B6E63] underline">打开官方来源</a>}
             </div>
             <button type="button" onClick={() => setDrawer(null)} className="mt-5 w-full rounded-full bg-slate-100 py-2.5 text-sm font-medium text-slate-600">收起</button>
+          </div>
+        </div>
+      )}
+
+      {visualImage && (
+        <div className="fixed inset-0 z-[70] flex items-center justify-center bg-black/75 p-4" onClick={() => setVisualImage(null)}>
+          <div className="w-full max-w-lg" onClick={(event) => event.stopPropagation()}>
+            <div className="relative overflow-hidden rounded-2xl bg-white p-3 shadow-2xl">
+              <button type="button" onClick={() => setVisualImage(null)} className="absolute right-4 top-4 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-black/65 text-xl leading-none text-white" aria-label="关闭大图">×</button>
+              <img src={visualImage.image} alt="放大的视频关键帧" className="max-h-[70vh] w-full rounded-xl object-contain" />
+              <div className="px-1 pb-1 pt-3">
+                <p className="text-xs font-semibold text-[#0B6E63]">画面 {formatFrameTime(visualImage.time)}</p>
+                <p className="mt-1.5 text-sm leading-relaxed text-slate-600">{visualImage.screenText}</p>
+              </div>
+            </div>
           </div>
         </div>
       )}

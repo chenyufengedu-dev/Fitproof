@@ -91,10 +91,16 @@ export interface VerifyResult {
   video_refs?: VideoRef[]
 }
 
+export interface Keyframe {
+  time: number
+  screen_text: string
+  image?: string
+}
+
 export interface SingleAnalyzeResponse {
   reference: Omit<Reference, 'claim'> & { claim?: string }
   claims: Claim[]
-  keyframes: Array<Record<string, unknown>>
+  keyframes: Keyframe[]
   topic: string
 }
 
