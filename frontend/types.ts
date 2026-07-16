@@ -73,6 +73,7 @@ export interface EvidenceEntry {
   url: string
   page?: string
   score?: number
+  evidence_tier?: '结论' | '全文' | '无' | string
 }
 
 export interface VerifyResult {
@@ -84,6 +85,7 @@ export interface VerifyResult {
   cited_evidence_ids: string[]
   evidence: EvidenceEntry[]
   evidence_status: 'matched' | 'not_found' | string
+  evidence_tier?: '结论' | '全文' | '无' | string
   claim?: string
   topic?: string
   video_refs?: VideoRef[]

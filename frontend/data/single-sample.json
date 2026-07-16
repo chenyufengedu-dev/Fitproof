@@ -51,6 +51,7 @@
         "E-中国居民膳食指南-202-344"
       ],
       "evidence_status": "matched",
+      "evidence_tier": "结论",
       "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
       "topic": "孕妇能不能吃蛋黄",
       "video_refs": [{ "id": 1, "time": "0:12" }],
@@ -108,6 +109,7 @@
         "E-中国居民膳食指南-202-170"
       ],
       "evidence_status": "matched",
+      "evidence_tier": "结论",
       "claim": "蛋黄里的胆固醇会直接让血脂升高，所以孕妇最好别吃",
       "topic": "孕妇能不能吃蛋黄",
       "video_refs": [{ "id": 1, "time": "0:26" }],
@@ -164,6 +166,7 @@
         "E-中国居民膳食指南-202-332"
       ],
       "evidence_status": "matched",
+      "evidence_tier": "结论",
       "claim": "孕中晚期需要适当增加鱼、禽、蛋、瘦肉这类优质蛋白",
       "topic": "孕妇能不能吃蛋黄",
       "video_refs": [{ "id": 1, "time": "0:43" }],
@@ -207,6 +210,7 @@
         "E-中国居民膳食指南-202-128"
       ],
       "evidence_status": "matched",
+      "evidence_tier": "结论",
       "claim": "只要吃够鸡蛋，孕期就不用管其他蛋白质来源",
       "topic": "孕妇能不能吃蛋黄",
       "video_refs": [{ "id": 1, "time": "1:02" }],
