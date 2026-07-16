@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type MouseEvent as ReactMouseEvent, type PointerEvent as ReactPointerEvent } from 'react'
 import type { Claim, EvidenceEntry, Keyframe, SingleAnalyzeResponse, VerifyResult } from '@/types'
 import { citedEvidence, isEvidenceDowngraded } from '@/lib/single'
 import { followupSingle } from '@/lib/api'
@@ -52,12 +52,6 @@ function signalClass(signal: string) {
   if (signal === '较公认') return SIGNAL_STYLES.common
   if (signal === '疑似夸大') return SIGNAL_STYLES.exaggerated
   return SIGNAL_STYLES.conditional
-}
-
-function signalColor(signal: string) {
-  if (signal === '较公认') return '#20CDB6'
-  if (signal === '疑似夸大') return '#F59E0B'
-  return '#94A3B8'
 }
 
 function verdictStampClass(result: VerifyResult) {
@@ -134,76 +128,105 @@ function ProfileCard({ data, onOpenImage }: { data: SingleAnalyzeResponse; onOpe
     { label: '较公认', count: counts.common, color: '#20CDB6' },
     { label: '疑似夸大', count: counts.exaggerated, color: '#F59E0B' },
     { label: '有条件/有争议', count: counts.conditional, color: '#94A3B8' },
-  ]
+  ].filter((item) => item.count > 0)
   const visibleFrames = data.keyframes.filter((frame) => typeof frame.screen_text === 'string' && frame.screen_text.trim())
-
-  return (
-    <section className="rounded-[26px] border border-[#20CDB6]/20 bg-white p-5 shadow-[0_18px_55px_rgba(18,116,103,0.10)]">
-      <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">卡 01 · 视频档案</p>
-      <p className="mt-1 text-xs text-slate-400">开庭：被告是谁</p>
-
-      <div className="mt-5 border-l-4 border-[#20CDB6] pl-4">
-        <p className="text-sm font-semibold text-[#0B6E63]">{data.reference.author || '作者未标注'}</p>
-        <h1 className="mt-1 text-xl font-semibold leading-relaxed text-slate-950">{data.reference.title || '标题未标注'}</h1>
-        {data.reference.url && (
-          <a href={data.reference.url} target="_blank" rel="noreferrer" className="mt-2 inline-block break-all text-xs font-medium text-[#0B6E63] underline">
-            打开原视频
-          </a>
-        )}
-      </div>
-
-      <div className="mt-6 rounded-2xl border border-[#20CDB6]/15 bg-[#f7fffd] p-4">
-        <p className="text-sm font-semibold text-slate-900">共 {data.claims.length} 条说法</p>
-        {data.claims.length > 0 && (
-          <>
-            <div className="mt-3 flex h-2.5 overflow-hidden rounded-full bg-slate-100" aria-label="说法类型比例">
-              {stats.filter((item) => item.count > 0).map((item) => (
-                <span key={item.label} style={{ width: `${(item.count / data.claims.length) * 100}%`, backgroundColor: item.color }} />
-              ))}
-            </div>
-            <div className="mt-3 flex flex-wrap gap-x-3 gap-y-2">
-              {stats.filter((item) => item.count > 0).map((item) => (
-                <span key={item.label} className="inline-flex items-center gap-1.5 text-xs text-slate-600">
-                  <span className="h-2 w-2 rounded-sm" style={{ backgroundColor: item.color }} />
-                  {item.count} {item.label}
-                </span>
-              ))}
-            </div>
-          </>
-        )}
-      </div>
-
-      {visibleFrames.length > 0 && (
-        <div className="mt-5">
-          <h2 className="text-sm font-semibold text-slate-900">AI 从画面里看到的</h2>
-          <div className="mt-2 space-y-2">
-            {visibleFrames.map((frame, index) => {
-              const time = formatFrameTime(frame.time)
-              const hasImage = typeof frame.image === 'string' && frame.image.length > 0
-              return (
-                <div key={`${String(frame.time)}-${index}`} className="flex gap-3 rounded-2xl border border-[#20CDB6]/15 bg-white px-3 py-3">
-                  {hasImage ? (
-                    <>
-                      <button type="button" onClick={() => onOpenImage(frame)} className="h-16 w-[72px] shrink-0 overflow-hidden rounded-xl bg-slate-100" aria-label={`放大查看 ${time || '关键帧'} 画面`}>
-                        <img src={frame.image} alt="AI 抓取的视频关键帧" className="h-full w-full object-cover" />
-                      </button>
-                      <div className="min-w-0 flex-1">
-                        {time && <span className="inline-block rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
-                        <p className={`${time ? 'mt-1.5' : ''} text-sm leading-relaxed text-slate-600`}>{String(frame.screen_text)}</p>
-                      </div>
-                    </>
-                  ) : (
-                    <>
-                      {time && <span className="shrink-0 rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
-                      <p className="min-w-0 text-sm leading-relaxed text-slate-600">{String(frame.screen_text)}</p>
-                    </>
-                  )}
-                </div>
-              )
-            })}
-          </div>
+  const posterFrame = data.keyframes.find((frame) => typeof frame.image === 'string' && frame.image.length > 0)
+  const hasVideoUrl = Boolean(data.reference.url)
+  const author = data.reference.author || '作者未标注'
+  const poster = (
+    <div className="relative aspect-video overflow-hidden bg-[#E1F5EE]">
+      {posterFrame?.image ? (
+        <img src={posterFrame.image} alt="视频关键帧封面" className="h-full w-full object-cover" />
+      ) : (
+        <div className="flex h-full flex-col items-center justify-center text-[#0B6E63]">
+          <span className="flex h-11 w-11 items-center justify-center rounded-full border border-[#20CDB6]/30 bg-white/80" aria-hidden="true">
+            <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
+              <rect x="3" y="6" width="13" height="12" rx="2" />
+              <path d="m16 10 5-3v10l-5-3" />
+            </svg>
+          </span>
+          <span className="mt-2 text-xs font-medium">{hasVideoUrl ? '在抖音查看原视频' : '视频封面暂不可用'}</span>
         </div>
       )}
+      {hasVideoUrl && (
+        <span className="absolute inset-0 flex items-center justify-center" aria-hidden="true">
+          <span className="flex h-14 w-14 items-center justify-center rounded-full border border-white/70 bg-black/55 pl-1 text-xl text-white shadow-lg">▶</span>
+        </span>
+      )}
+    </div>
+  )
+
+  return (
+    <section className="overflow-hidden rounded-[26px] border border-[#20CDB6]/20 bg-white shadow-[0_18px_55px_rgba(18,116,103,0.10)]">
+      <div className="px-5 pb-3 pt-5">
+        <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">卡 01 · 视频档案</p>
+        <p className="mt-1 text-xs text-slate-400">开庭：被告是谁</p>
+      </div>
+
+      <div className="mx-3 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50">
+        {hasVideoUrl ? (
+          <a href={data.reference.url} target="_blank" rel="noreferrer" className="block" aria-label="在抖音打开原视频">
+            {poster}
+          </a>
+        ) : poster}
+      </div>
+
+      <div className="px-5 pb-5 pt-4">
+        <h1 className="line-clamp-2 text-lg font-bold leading-relaxed text-slate-950">{data.reference.title || '标题未标注'}</h1>
+        <div className="mt-2 flex items-center gap-2 text-sm text-slate-500">
+          <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[#E1F5EE] text-xs font-bold text-[#0B6E63]">{author.trim().charAt(0) || '博'}</span>
+          <span className="truncate">{author}</span>
+        </div>
+
+        <div className="mt-4 rounded-2xl border border-[#20CDB6]/15 bg-[#f7fffd] px-4 py-3">
+          {data.claims.length > 0 ? (
+            <p className="flex flex-wrap items-center gap-x-2 gap-y-1.5 text-sm leading-relaxed text-slate-700">
+              <span>这条视频拆出 {data.claims.length} 条说法：</span>
+              {stats.map((item, index) => (
+                <span key={item.label} className="inline-flex items-center gap-1.5">
+                  <span className="h-2 w-2 rounded-full" style={{ backgroundColor: item.color }} />
+                  {item.count} 条{item.label}
+                  {index < stats.length - 1 && <span className="ml-0.5 text-slate-300">·</span>}
+                </span>
+              ))}
+            </p>
+          ) : (
+            <p className="text-sm text-slate-500">这条视频没有拆出可核验说法。</p>
+          )}
+        </div>
+
+        {visibleFrames.length > 0 && (
+          <div className="mt-5">
+            <h2 className="text-sm font-semibold text-slate-900">AI 从画面里看到的</h2>
+            <div className="mt-2 space-y-2">
+              {visibleFrames.map((frame, index) => {
+                const time = formatFrameTime(frame.time)
+                const hasImage = typeof frame.image === 'string' && frame.image.length > 0
+                return (
+                  <div key={`${String(frame.time)}-${index}`} className="flex gap-3 rounded-2xl border border-[#20CDB6]/15 bg-white px-3 py-3">
+                    {hasImage ? (
+                      <>
+                        <button type="button" onClick={() => onOpenImage(frame)} className="h-16 w-[72px] shrink-0 overflow-hidden rounded-xl bg-slate-100" aria-label={`放大查看 ${time || '关键帧'} 画面`}>
+                          <img src={frame.image} alt="AI 抓取的视频关键帧" className="h-full w-full object-cover" />
+                        </button>
+                        <div className="min-w-0 flex-1">
+                          {time && <span className="inline-block rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
+                          <p className={`${time ? 'mt-1.5' : ''} text-sm leading-relaxed text-slate-600`}>{String(frame.screen_text)}</p>
+                        </div>
+                      </>
+                    ) : (
+                      <>
+                        {time && <span className="shrink-0 rounded-lg bg-[#E1F5EE] px-2 py-1 text-xs font-semibold text-[#0B6E63]">{time}</span>}
+                        <p className="min-w-0 text-sm leading-relaxed text-slate-600">{String(frame.screen_text)}</p>
+                      </>
+                    )}
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )}
+      </div>
     </section>
   )
 }
@@ -553,6 +576,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   const [cardIndex, setCardIndex] = useState(0)
   const [drawer, setDrawer] = useState<DrawerData | null>(null)
   const [visualImage, setVisualImage] = useState<VisualImage | null>(null)
+  const [slideDirection, setSlideDirection] = useState<'next' | 'previous' | null>(null)
 
   const mountedRef = useRef(false)
   const startedRef = useRef(false)
@@ -561,6 +585,8 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   const retryQueueRef = useRef<number[]>([])
   const statesRef = useRef<VerifyState[]>(initialStates())
   const pumpRef = useRef<() => void>(() => undefined)
+  const gestureStartRef = useRef<{ x: number; y: number } | null>(null)
+  const suppressClickRef = useRef(false)
 
   const cards: CardDescriptor[] = [
     { kind: 'profile' },
@@ -632,12 +658,42 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
     pumpRef.current()
   }
 
-  function moveCard(delta: number) {
-    setCardIndex((current) => Math.max(0, Math.min(totalCards - 1, current + delta)))
+  function goToCard(nextIndex: number) {
+    const boundedIndex = Math.max(0, Math.min(totalCards - 1, nextIndex))
+    if (boundedIndex === cardIndex) return
+    setSlideDirection(boundedIndex > cardIndex ? 'next' : 'previous')
+    setCardIndex(boundedIndex)
+  }
+
+  function handlePointerDown(event: ReactPointerEvent<HTMLDivElement>) {
+    if (event.pointerType === 'mouse' && event.button !== 0) return
+    gestureStartRef.current = { x: event.clientX, y: event.clientY }
+  }
+
+  function handlePointerUp(event: ReactPointerEvent<HTMLDivElement>) {
+    const start = gestureStartRef.current
+    gestureStartRef.current = null
+    if (!start) return
+    const dx = event.clientX - start.x
+    const dy = event.clientY - start.y
+    if (Math.abs(dx) <= Math.abs(dy) || Math.abs(dx) <= 50) return
+
+    suppressClickRef.current = true
+    goToCard(dx < 0 ? cardIndex + 1 : cardIndex - 1)
+    window.setTimeout(() => {
+      suppressClickRef.current = false
+    }, 0)
+  }
+
+  function handleClickCapture(event: ReactMouseEvent<HTMLDivElement>) {
+    if (!suppressClickRef.current) return
+    event.preventDefault()
+    event.stopPropagation()
+    suppressClickRef.current = false
   }
 
   return (
-    <main className="min-h-[100dvh] bg-[#f7fffd] px-4 pb-40 pt-4 text-slate-950">
+    <main className="min-h-[100dvh] bg-[#f7fffd] px-4 pb-24 pt-4 text-slate-950">
       <div className="mx-auto max-w-2xl">
         <header className="mb-4 flex items-center justify-between gap-3">
           <button type="button" onClick={onBack} className="shrink-0 rounded-full border border-[#20CDB6]/20 bg-white px-3 py-1.5 text-sm font-medium text-[#0B6E63] shadow-sm">‹ 返回</button>
@@ -648,30 +704,55 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
           <span className="shrink-0 rounded-full bg-[#E1F5EE] px-3 py-1.5 text-sm font-bold text-[#0B6E63]">{cardIndex + 1} / {totalCards}</span>
         </header>
 
-        {currentCard.kind === 'profile' && <ProfileCard data={data} onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })} />}
-        {currentCard.kind === 'overview' && <OverviewCard data={data} states={verifyStates} onOpenClaim={(index) => setCardIndex(2 + index)} />}
-        {currentCard.kind === 'confrontation' && (
-          <ConfrontationCard
-            claim={data.claims[currentCard.claimIndex]}
-            claimIndex={currentCard.claimIndex}
-            total={data.claims.length}
-            state={verifyStates[currentCard.claimIndex] || { status: 'pending' }}
-            keyframes={data.keyframes}
-            onRetry={() => retryClaim(currentCard.claimIndex)}
-            onEvidence={(evidence) => setDrawer({ title: evidence.id, evidence })}
-            onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
-          />
-        )}
-        {currentCard.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
-        {currentCard.kind === 'followup' && <FollowupCard data={data} topic={topic} claims={data.claims} states={verifyStates} />}
+        <div
+          className="touch-pan-y"
+          onPointerDown={handlePointerDown}
+          onPointerUp={handlePointerUp}
+          onPointerCancel={() => { gestureStartRef.current = null }}
+          onClickCapture={handleClickCapture}
+        >
+          <div key={cardIndex} className={slideDirection === 'next' ? 'card-slide-from-right' : slideDirection === 'previous' ? 'card-slide-from-left' : ''}>
+            {currentCard.kind === 'profile' && <ProfileCard data={data} onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })} />}
+            {currentCard.kind === 'overview' && <OverviewCard data={data} states={verifyStates} onOpenClaim={(index) => goToCard(2 + index)} />}
+            {currentCard.kind === 'confrontation' && (
+              <ConfrontationCard
+                claim={data.claims[currentCard.claimIndex]}
+                claimIndex={currentCard.claimIndex}
+                total={data.claims.length}
+                state={verifyStates[currentCard.claimIndex] || { status: 'pending' }}
+                keyframes={data.keyframes}
+                onRetry={() => retryClaim(currentCard.claimIndex)}
+                onEvidence={(evidence) => setDrawer({ title: evidence.id, evidence })}
+                onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
+              />
+            )}
+            {currentCard.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
+            {currentCard.kind === 'followup' && <FollowupCard data={data} topic={topic} claims={data.claims} states={verifyStates} />}
+          </div>
+        </div>
+
+        <div className="mt-4 flex flex-col items-center gap-2" aria-label={`当前第 ${cardIndex + 1} 张，共 ${totalCards} 张`}>
+          <div className="flex max-w-full flex-wrap justify-center gap-1.5" aria-hidden="true">
+            {cards.map((card, index) => (
+              <span key={`${card.kind}-${index}`} className={`h-2 w-2 rounded-full border ${index === cardIndex ? 'border-[#0B6E63] bg-[#20CDB6]' : 'border-[#20CDB6]/20 bg-[#D8F0EC]'}`} />
+            ))}
+          </div>
+          <p className="text-[11px] text-slate-400">← 左右滑动翻页 →</p>
+        </div>
       </div>
 
-      <nav className="fixed inset-x-0 bottom-16 z-30 border-t border-[#D8F0EC] bg-[#f7fffd] px-4 py-3" aria-label="庭审卡片切换">
-        <div className="mx-auto grid max-w-2xl grid-cols-2 gap-3">
-          <button type="button" onClick={() => moveCard(-1)} disabled={cardIndex === 0} className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-sm font-semibold text-[#0B6E63] shadow-sm disabled:border-slate-200 disabled:text-slate-300 disabled:shadow-none">‹ 上一张</button>
-          <button type="button" onClick={() => moveCard(1)} disabled={cardIndex === totalCards - 1} className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-sm font-semibold text-white shadow-[0_10px_24px_rgba(32,205,182,0.25)] disabled:bg-slate-200 disabled:text-slate-400 disabled:shadow-none">下一张 ›</button>
-        </div>
-      </nav>
+      <style jsx>{`
+        @keyframes card-slide-from-right {
+          from { opacity: 0.45; transform: translateX(28px); }
+          to { opacity: 1; transform: translateX(0); }
+        }
+        @keyframes card-slide-from-left {
+          from { opacity: 0.45; transform: translateX(-28px); }
+          to { opacity: 1; transform: translateX(0); }
+        }
+        .card-slide-from-right { animation: card-slide-from-right 220ms ease-out; }
+        .card-slide-from-left { animation: card-slide-from-left 220ms ease-out; }
+      `}</style>
 
       {drawer && (
         <div className="fixed inset-0 z-[60] flex flex-col justify-end" onClick={() => setDrawer(null)}>
