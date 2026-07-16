@@ -171,8 +171,6 @@ export default function Home() {
     return <InputPage apiBaseUrl={API_BASE_URL} onAnalyze={handleAnalyze} onPresetLoaded={handlePresetLoaded} onAnalyzeSingle={handleAnalyzeSingle} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} />
   }
 
-  if (activeTab === 'verify' && pageState === 'loading') return <LoadingPage topic={topic} />
-
   return (
     <div className="min-h-[100dvh] bg-white">
       <div className="pb-16">
