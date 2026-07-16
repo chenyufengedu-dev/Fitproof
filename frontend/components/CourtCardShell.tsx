@@ -1,0 +1,55 @@
+import type { ReactNode } from 'react'
+
+interface CourtCardShellProps {
+  label: string
+  index: number
+  /** 卡头标题下的一行小字。给了就贴在标题下方，并省掉标题与内容之间的分隔线。 */
+  subtitle?: string
+  hideHeader?: boolean
+  headerBadge?: ReactNode
+  children: ReactNode
+}
+
+export default function CourtCardShell({ label, index, subtitle, hideHeader = false, headerBadge, children }: CourtCardShellProps) {
+  return (
+    <div className="flex h-full w-full flex-col overflow-hidden rounded-[24px] bg-white">
+      <div className="h-1.5 bg-gradient-to-r from-[#20CDB6] via-[#20CDB6]/75 to-[#20CDB6]/10" />
+      {/* 卡头与内容区用同一个 px-4：卡头左右缘正好压在下方卡片的左右边上。
+          标题与 01 放在同一行并垂直居中，两者等高对齐；副标题另起一行挂在下面。 */}
+      {!hideHeader && (
+        <div className="px-4 pt-2.5">
+          <div className="flex items-center justify-between gap-3">
+            <div className="flex min-w-0 items-center gap-1.5">
+              <span className="mt-0.5 h-1.5 w-1.5 shrink-0 self-start rounded-full bg-[#20CDB6]" />
+              <div className="min-w-0">
+                <h2 className="truncate text-[15px] font-bold leading-tight tracking-wide text-slate-950">{label}</h2>
+                {subtitle && <p className="mt-0 truncate text-[10px] leading-tight text-slate-400">{subtitle}</p>}
+              </div>
+            </div>
+            <div className="flex shrink-0 flex-col items-end gap-1">
+              <span className="text-[46px] font-black leading-none tracking-tight text-[#20CDB6]/25">
+                {String(index).padStart(2, '0')}
+              </span>
+              {headerBadge}
+            </div>
+          </div>
+        </div>
+      )}
+      {!hideHeader && !subtitle && <div className="mx-4 mt-2 h-px bg-[#20CDB6]/10" />}
+      <div className={`flex-1 overflow-y-auto ${hideHeader ? 'px-5 pb-4 pt-5' : 'px-4 pb-2 pt-2'}`}>
+        {children}
+      </div>
+      {/* 免责声明压成一行：删掉「本产品用于健康说法核验」这句自我介绍（顶栏胶囊已写），
+          保留真正有法律意义的半句，给上面的内容腾高度。 */}
+      <div className="mx-4 border-t border-[#20CDB6]/10 py-2">
+        <p className="flex items-center justify-center gap-1.5 text-center text-[10px] leading-tight text-slate-400">
+          <svg className="h-4 w-4 shrink-0 text-slate-400" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+            <path d="M10 2.5 4 5v4.5c0 3.6 2.5 6.9 6 8 3.5-1.1 6-4.4 6-8V5l-6-2.5Z" strokeLinejoin="round" />
+            <path d="m7.3 10 1.8 1.8 3.8-3.8" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />
+          </svg>
+          <span>不构成医疗诊断或个体化治疗建议</span>
+        </p>
+      </div>
+    </div>
+  )
+}

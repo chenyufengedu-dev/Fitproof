@@ -1,5 +1,7 @@
 'use client'
 
+import FitProofCat from '@/components/FitProofCat'
+
 interface LoadingPageProps {
   topic: string
 }
@@ -38,11 +40,11 @@ export default function LoadingPage({ topic }: LoadingPageProps) {
         </div>
 
         <div className="mb-7 flex items-center gap-4 rounded-3xl border border-[#20CDB6]/10 bg-[#f3fbf9] px-5 py-3">
-          <img
-            src="/brand/cat-checking.png"
-            alt=""
-            aria-hidden
-            className="fitproof-cat-float pointer-events-none w-14 shrink-0 drop-shadow-[0_12px_20px_rgba(15,118,110,0.16)]"
+          <FitProofCat
+            pose="checking"
+            size={64}
+            title="FitProof 正在核验证据"
+            className="fitproof-loading-cat pointer-events-none shrink-0"
           />
           <div className="min-w-0">
             <p className="text-xs text-slate-400">正在核验</p>

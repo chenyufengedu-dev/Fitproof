@@ -6,6 +6,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -78,6 +79,45 @@ body {
 .fitproof-cat-float {
   animation: fitproofCatFloat 3.8s ease-in-out infinite;
   transform-origin: 50% 70%;
+}
+
+/* The mascot itself owns the line-art; this page only choreographs its evidence-checking motion. */
+.fitproof-loading-cat .fp-cat-magnifier {
+  animation: fitproofMagnifierScan 2s cubic-bezier(0.45, 0, 0.55, 1) infinite !important;
+}
+
+.fitproof-loading-cat .fp-cat-eyes {
+  animation: fitproofLoadingCatBlink 2s steps(1, end) infinite !important;
+}
+
+@keyframes fitproofMagnifierScan {
+  0%,
+  100% {
+    transform: translate3d(-5px, 3px, 0) rotate(-2deg);
+  }
+  50% {
+    transform: translate3d(6px, -3px, 0) rotate(2deg);
+  }
+}
+
+@keyframes fitproofLoadingCatBlink {
+  0%,
+  45%,
+  55%,
+  100% {
+    transform: scaleY(1);
+  }
+  48%,
+  52% {
+    transform: scaleY(0.12);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fitproof-loading-cat .fp-cat-magnifier,
+  .fitproof-loading-cat .fp-cat-eyes {
+    animation: none !important;
+  }
 }
 
 @keyframes fitproofCatFloat {
