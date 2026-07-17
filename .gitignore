@@ -32,4 +32,4 @@ Thumbs.db
 
 # ===== 本地工具配置（各人机器不同，不共享）=====
 .claude/
-
+.worktrees/
