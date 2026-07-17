@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState, type MouseEvent as ReactMouseEvent, type PointerEvent as ReactPointerEvent } from 'react'
+import { useEffect, useId, useRef, useState, type MouseEvent as ReactMouseEvent, type PointerEvent as ReactPointerEvent } from 'react'
 import type { Claim, EvidenceEntry, Keyframe, SingleAnalyzeResponse, VerifyResult } from '@/types'
 import { citedEvidence, isEvidenceDowngraded } from '@/lib/single'
 import { followupSingle } from '@/lib/api'
@@ -29,8 +29,7 @@ type CardDescriptor =
   | { kind: 'followup' }
 
 interface DrawerData {
-  title: string
-  evidence: EvidenceEntry
+  evidence: EvidenceEntry[]
 }
 
 interface VisualImage {
@@ -42,6 +41,32 @@ interface VisualImage {
 interface FollowupMessage {
   role: 'user' | 'assistant'
   content: string
+}
+
+// 与后端 CLAIM_ICONS 白名单保持一致。模型输出的 icon 落在这里才用，否则回落 general。
+const CLAIM_ICON_SET = new Set([
+  'egg', 'milk', 'meat', 'veggie', 'grain', 'oil-salt-sugar', 'water', 'tea-coffee',
+  'alcohol', 'pill', 'vaccine', 'lab-report', 'blood-pressure', 'blood-sugar', 'heart',
+  'exercise', 'sleep', 'weight', 'pregnancy', 'baby', 'elderly', 'supplement', 'cancer',
+  'general',
+])
+
+/** 说法语义配图。双重兜底：字段缺失/不在白名单 → general；图片 404 → general。 */
+function ClaimIcon({ icon, className }: { icon?: string; className?: string }) {
+  const initial = icon && CLAIM_ICON_SET.has(icon) ? icon : 'general'
+  const [src, setSrc] = useState(initial)
+  useEffect(() => { setSrc(initial) }, [initial])
+  return (
+    <span className={`flex shrink-0 items-center justify-center overflow-hidden rounded-full border border-[#D8F1EC] bg-[#EEF9F6] ${className || ''}`}>
+      <img
+        src={`/claim-icons/${src}.webp`}
+        alt=""
+        aria-hidden="true"
+        className="h-[76%] w-[76%] object-contain"
+        onError={() => { if (src !== 'general') setSrc('general') }}
+      />
+    </span>
+  )
 }
 
 const SIGNAL_STYLES = {
@@ -71,6 +96,85 @@ function verdictStampClass(result: VerifyResult) {
   if (result.risk_level.includes('高') || result.verdict.includes('不建议')) return 'border-[#A32D2D] text-[#A32D2D]'
   if (result.risk_level.includes('中') || result.verdict.includes('条件')) return 'border-[#854F0B] text-[#854F0B]'
   return 'border-[#0B6E63] text-[#0B6E63]'
+}
+
+/** 章面颜色只由 risk_level 决定。提示词里 risk_level 就是「低/中/高」三选一，
+ *  这是受约束字段的 1:1 视觉映射，不是在前端重新推导判定。取值意外时退回中性灰。 */
+function stampTone(riskLevel: string) {
+  const risk = riskLevel || ''
+  if (risk.includes('高')) return '#C0392B'
+  if (risk.includes('中')) return '#C2740B'
+  if (risk.includes('低')) return '#0B8F82'
+  return '#64748B'
+}
+
+const STAR_PATH = 'M0,-1L0.225,-0.309L0.951,-0.309L0.363,0.118L0.588,0.809L0,0.382L-0.588,0.809L-0.363,0.118L-0.951,-0.309L-0.225,-0.309Z'
+
+/**
+ * 核验结果印章。章面文字直接盖模型输出的 verdict 原文（「证据不足」就盖「证据不足」），
+ * 不做「建议采纳/不建议采纳」的二值映射 —— verdict 是自由文本（提示词写的是
+ * 「可信/基本可信/需加条件/证据不足/不建议采纳 等」），二值化会把「证据不足」
+ * 盖成「建议采纳」，与卡片上并排显示的原文自相矛盾，也违反「判定由模型输出」的铁律。
+ */
+function VerdictStamp({ verdict, riskLevel }: { verdict: string; riskLevel: string }) {
+  const uid = useId().replace(/:/g, '')
+  const text = (verdict || '').trim()
+  if (!text) return null
+  const color = stampTone(riskLevel)
+  const len = Array.from(text).length
+  // 判定字数不定，字号随长度自适应，防止撑破中间的横幅
+  const fontSize = len <= 2 ? 21 : len === 3 ? 17 : len === 4 ? 14 : len === 5 ? 11.5 : len === 6 ? 9.5 : 8
+  const stars = [38, 50, 62]
+
+  return (
+    <svg
+      viewBox="0 0 100 100"
+      className="fitproof-stamp pointer-events-none h-[68px] w-[68px] shrink-0 opacity-[0.82]"
+      role="img"
+      aria-label={`核验结果印章：${text}`}
+    >
+      <defs>
+        {/* 做旧毛边：用噪声位移把线条打毛，模拟橡皮章蘸印泥的质感 */}
+        <filter id={`grunge-${uid}`}>
+          <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" seed="7" result="n" />
+          <feDisplacementMap in="SourceGraphic" in2="n" scale="1.7" xChannelSelector="R" yChannelSelector="G" />
+        </filter>
+        <path id={`arc-${uid}`} d="M 23 50 A 27 27 0 0 1 77 50" fill="none" />
+        {/* 横幅所在区域把双环挖空，这样不依赖卡片底色也能盖住环线 */}
+        <mask id={`band-${uid}`}>
+          <rect x="0" y="0" width="100" height="100" fill="white" />
+          <rect x="2" y="37" width="96" height="26" rx="4" fill="black" transform="rotate(-12 50 50)" />
+        </mask>
+      </defs>
+
+      <g filter={`url(#grunge-${uid})`} fill="none" stroke={color}>
+        <g mask={`url(#band-${uid})`}>
+          <circle cx="50" cy="50" r="45.5" strokeWidth="2.4" />
+          <circle cx="50" cy="50" r="41" strokeWidth="1.1" />
+          <text fill={color} stroke="none" fontSize="9.5" fontWeight="700" letterSpacing="2.6">
+            <textPath href={`#arc-${uid}`} startOffset="50%" textAnchor="middle">核验结果</textPath>
+          </text>
+          {stars.map((x) => (
+            <path key={x} d={STAR_PATH} fill={color} stroke="none" transform={`translate(${x} 77) scale(3.2)`} />
+          ))}
+        </g>
+        <rect x="2" y="37" width="96" height="26" rx="4" strokeWidth="2.3" transform="rotate(-12 50 50)" />
+        <text
+          x="50"
+          y="50"
+          fill={color}
+          stroke="none"
+          fontSize={fontSize}
+          fontWeight="900"
+          textAnchor="middle"
+          dominantBaseline="central"
+          transform="rotate(-12 50 50)"
+        >
+          {text}
+        </text>
+      </g>
+    </svg>
+  )
 }
 
 function firstTime(claim: Claim) {
@@ -124,6 +228,38 @@ function ShieldAvatar() {
         <path d="m8.7 12 2.1 2.1 4.6-4.6" />
       </svg>
     </span>
+  )
+}
+
+function VideoSourceAvatar() {
+  return (
+    <div className="flex flex-col items-center gap-1">
+      <span className="video-speaking-ring flex h-12 w-12 items-center justify-center rounded-full border border-[#EDB96F]/65 p-[2px]">
+        <span className="flex h-full w-full items-center justify-center rounded-full bg-[#FFF7EA] text-[#C87518]">
+          <svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true">
+            <circle cx="12" cy="8" r="3.3" />
+            <path d="M5.5 20c.8-3.6 3.1-5.5 6.5-5.5s5.7 1.9 6.5 5.5" strokeLinecap="round" />
+          </svg>
+        </span>
+      </span>
+      <span className="whitespace-nowrap text-[10px] font-semibold text-[#D97706]">视频里说</span>
+    </div>
+  )
+}
+
+function EvidenceSourceAvatar() {
+  return (
+    <div className="flex flex-col items-center gap-1">
+      <span className="evidence-speaking-ring flex h-12 w-12 items-center justify-center rounded-full border border-[#75D3C8]/65 p-[2px]">
+        <span className="flex h-full w-full items-center justify-center rounded-full bg-[#EAF9F6] text-[#078C7E]">
+          <svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+            <path d="M12 3 5.5 6v5c0 4.5 2.8 7.8 6.5 9.5 3.7-1.7 6.5-5 6.5-9.5V6L12 3Z" />
+            <path d="m8.7 12 2.1 2.1 4.5-4.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </span>
+      </span>
+      <span className="whitespace-nowrap text-[10px] font-semibold text-[#078C7E]">数据库依据</span>
+    </div>
   )
 }
 
@@ -373,7 +509,7 @@ function OverviewCard({ data, onOpenClaim }: { data: SingleAnalyzeResponse; onOp
   )
 }
 
-function EvidenceReply({ state, onRetry, onEvidence }: { state: VerifyState; onRetry: () => void; onEvidence: (evidence: EvidenceEntry) => void }) {
+function EvidenceReply({ state, onRetry, onEvidence }: { state: VerifyState; onRetry: () => void; onEvidence: (evidence: EvidenceEntry[]) => void }) {
   if (state.status === 'error') {
     return (
       <div>
@@ -399,13 +535,14 @@ function EvidenceReply({ state, onRetry, onEvidence }: { state: VerifyState; onR
     <div>
       <p className="text-[15px] leading-relaxed text-slate-800">{result.correction}</p>
       {downgraded ? (
-        <p className="mt-3 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5 text-xs leading-relaxed text-amber-800">
-          库中未收录相关权威依据，以下为 AI 常识判断，不伪装成有指南支撑
+        <p className="mt-3 flex items-start gap-2 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5 text-xs leading-relaxed text-amber-800">
+          <svg className="mt-0.5 h-4 w-4 shrink-0 text-amber-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9" aria-hidden="true"><path d="M9 18h6M10 21h4M8.2 14.5A6.2 6.2 0 1 1 15.8 14.5c-.9.7-1.3 1.5-1.3 2.5H9.5c0-1-.4-1.8-1.3-2.5Z" strokeLinecap="round" strokeLinejoin="round" /><path d="M12 3V1.8M4.3 5.2l-.9-.9M19.7 5.2l.9-.9M2.5 12H1.2M22.8 12h-1.3" strokeLinecap="round" /></svg>
+          <span>库中未收录相关权威依据，以下为 AI 常识判断，不伪装成有指南支撑</span>
         </p>
       ) : (
         <div className="mt-3 space-y-2">
           {supportEvidence.map((evidence) => (
-            <button key={evidence.id} type="button" onClick={() => onEvidence(evidence)} className="w-full rounded-xl bg-white px-3 py-2.5 text-left shadow-[0_5px_18px_rgba(11,110,99,0.08)] transition hover:ring-1 hover:ring-[#20CDB6]/40">
+            <button key={evidence.id} type="button" onClick={() => onEvidence(supportEvidence)} className="w-full rounded-xl bg-white px-3 py-2.5 text-left shadow-[0_5px_18px_rgba(11,110,99,0.08)] transition hover:ring-1 hover:ring-[#20CDB6]/40">
               <p className="text-xs font-semibold leading-relaxed text-[#0B6E63]">《{evidence.source_doc}》{evidence.org ? ` · ${evidence.org}` : ''}</p>
               <p className="mt-1 text-[11px] leading-relaxed text-slate-500">{evidence.id}{evidence.page ? ` · 页码 ${evidence.page}` : ''}</p>
             </button>
@@ -416,17 +553,27 @@ function EvidenceReply({ state, onRetry, onEvidence }: { state: VerifyState; onR
   )
 }
 
-function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry, onEvidence, onOpenImage }: { claim: Claim; claimIndex: number; total: number; state: VerifyState; keyframes: Keyframe[]; onRetry: () => void; onEvidence: (evidence: EvidenceEntry) => void; onOpenImage: (frame: Keyframe) => void }) {
+function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry, onEvidence, onOpenImage }: { claim: Claim; claimIndex: number; total: number; state: VerifyState; keyframes: Keyframe[]; onRetry: () => void; onEvidence: (evidence: EvidenceEntry[]) => void; onOpenImage: (frame: Keyframe) => void }) {
   const matchedFrame = closestFrame(claim, keyframes)
+  // 配色只跟 risk_level（低/中/高，受约束字段）走，不再用正则从 verdict 反推「采纳/不采纳」。
+  // 旧写法会把「证据不足」「需加条件」这类判定当成 false 分支盖上绿色「建议采纳」，
+  // 与旁边并排显示的 verdict 原文自相矛盾。
+  const risk = (state.status === 'done' && state.result?.risk_level) || ''
+  const riskHigh = risk.includes('高')
+  const riskMid = risk.includes('中')
+  const verdictTone = riskHigh
+    ? { panel: 'border-[#F9D8D8] bg-[#FFF8F8] text-[#C73A3A]', divider: 'border-[#FBE3E3] bg-[#FFF1F1] text-[#AD6666]', accent: 'bg-[#E35555]' }
+    : riskMid
+      ? { panel: 'border-[#F5E0BC] bg-[#FFFBF3] text-[#9A5B08]', divider: 'border-[#F8E8CC] bg-[#FFF7EA] text-[#A2733A]', accent: 'bg-[#E0A028]' }
+      : { panel: 'border-[#CBEDE7] bg-[#F7FCFA] text-[#078C7E]', divider: 'border-[#DDF3EE] bg-[#EEF9F6] text-[#4E8D84]', accent: 'bg-[#20B9A8]' }
 
   return (
     <div className="pb-2">
       <section>
-        <p className="inline-flex rounded-xl bg-[#FFF3E4] px-3 py-1.5 text-[13px] font-bold text-[#D97706]">1　视频里说</p>
-        <div className="mt-4 flex items-end gap-3">
-          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[#F6D5A8] bg-[#FFF8EE] text-[15px] font-bold text-[#C87518]">视</span>
+        <div className="flex items-start gap-3">
+          <VideoSourceAvatar />
           <div className="min-w-0 flex-1">
-            <div className="rounded-[18px_18px_18px_5px] border border-[#F5DFC3] bg-white px-4 py-3 shadow-[0_6px_18px_rgba(173,105,23,0.07)]">
+            <div className="relative rounded-[16px] border border-[#F3D9B8] bg-white px-4 py-3 shadow-[0_5px_16px_rgba(173,105,23,0.06)] before:absolute before:-left-2 before:top-5 before:h-3 before:w-3 before:rotate-45 before:border-b before:border-l before:border-[#F3D9B8] before:bg-white before:content-['']">
               <p className="text-[16px] font-medium leading-relaxed text-slate-900">{claim.claim} <span className="font-semibold text-[#0B9F91] underline underline-offset-2">[1]</span></p>
             </div>
             {matchedFrame?.image && (
@@ -439,24 +586,42 @@ function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry
       </section>
 
       <section className="mt-7">
-        <div className="flex justify-end"><p className="inline-flex rounded-xl bg-[#EAF9F6] px-3 py-1.5 text-[13px] font-bold text-[#078C7E]">2　数据库依据</p></div>
-        <div className="mt-3 flex items-end justify-end gap-3">
+        <div className="flex items-start justify-end gap-3">
           <div className="min-w-0 flex-1">
-            <div className="rounded-[18px_18px_5px_18px] border border-[#BFECE5] bg-[#F0FBF8] px-4 py-3.5">
+            <div className="relative rounded-[16px] border border-[#BFECE5] bg-[#EFFBF8] px-4 py-3.5 before:absolute before:-right-2 before:top-5 before:h-3 before:w-3 before:rotate-45 before:border-r before:border-t before:border-[#BFECE5] before:bg-[#EFFBF8] before:content-['']">
               <EvidenceReply state={state} onRetry={onRetry} onEvidence={onEvidence} />
             </div>
           </div>
-          <ShieldAvatar />
+          <EvidenceSourceAvatar />
         </div>
       </section>
 
       {state.status === 'done' && state.result && (
-        <section className="mt-7">
-          <p className="inline-flex rounded-xl bg-[#FFF0F0] px-3 py-1.5 text-[13px] font-bold text-[#C73A3A]">3　核验结论</p>
-          <div className={`mt-3 flex items-center gap-3 rounded-[16px] border px-4 py-3.5 ${verdictStampClass(state.result)} bg-white`}>
-            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-current text-lg">!</span>
-            <p className="text-[16px] font-bold leading-relaxed">{state.result.verdict} · 误导风险{state.result.risk_level}</p>
-            <span className="ml-auto shrink-0 rounded-full border border-current/30 px-2 py-1 text-[10px] font-bold opacity-35">核验</span>
+        <section className={`relative mt-7 overflow-hidden rounded-[10px] border ${verdictTone.panel}`}>
+          <div className="px-3 pt-2">
+            <p className="flex items-center gap-1.5 text-[10px] font-bold"><span className={`h-3 w-0.5 rounded-full ${verdictTone.accent}`} />核验结论</p>
+          </div>
+          <div className="relative flex items-center gap-2.5 px-3 pb-2.5 pt-1.5">
+            {riskHigh || riskMid ? (
+              <svg className={`h-8 w-8 shrink-0 ${riskHigh ? 'text-[#D95D5D]' : 'text-[#D08A1E]'}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.1" aria-hidden="true">
+                <path d="M12 2.7 5.1 5.8v5.3c0 4.3 2.7 7.8 6.9 9.9 4.2-2.1 6.9-5.6 6.9-9.9V5.8L12 2.7Z" fill={riskHigh ? '#FFE5E5' : '#FFF3DC'} strokeLinejoin="round" />
+                <path d="M12 8.1v5.1M12 16.3v.1" strokeLinecap="round" strokeWidth="3" />
+              </svg>
+            ) : (
+              <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#E4F8F3] text-[#078C7E]">
+                <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.8" aria-hidden="true"><path d="m5.5 12.2 4.1 4.1 8.9-8.9" strokeLinecap="round" strokeLinejoin="round" /></svg>
+              </span>
+            )}
+            <div className="min-w-0 flex-1 pr-1">
+              <p className="text-[13px] font-black leading-tight">{state.result.verdict} · 误导风险{state.result.risk_level}</p>
+              <p className="mt-1 line-clamp-1 text-[9px] leading-relaxed opacity-75">该说法建议结合个体情况与权威建议谨慎判断</p>
+            </div>
+            <VerdictStamp verdict={state.result.verdict} riskLevel={state.result.risk_level} />
+          </div>
+          <div className={`flex items-center gap-1.5 border-t px-3 py-1.5 text-[9px] ${verdictTone.divider}`}>
+            <span className="shrink-0 font-bold">更准确的说法：</span>
+            <span className="min-w-0 flex-1 truncate">{state.result.correction}</span>
+            <svg className="h-3 w-3 shrink-0" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m5 6 3 3 3-3" strokeLinecap="round" strokeLinejoin="round" /></svg>
           </div>
         </section>
       )}
@@ -464,72 +629,120 @@ function ConfrontationCard({ claim, claimIndex, total, state, keyframes, onRetry
   )
 }
 
-function SummaryCard({ claims, states }: { claims: Claim[]; states: VerifyState[] }) {
-  const completedCount = states.filter((state) => state.status === 'done').length
-  const isReviewing = completedCount < claims.length
-  const dangerous = states
-    .map((state, index) => ({ state, claim: claims[index], index }))
-    .filter(({ state, claim }) => state.status === 'done' && state.result && claim && (
-      state.result.risk_level.includes('高')
-      || state.result.risk_level.includes('误导')
-      || state.result.verdict.includes('不建议')
-      || state.result.verdict.includes('夸大')
-      || claim.signal === '疑似夸大'
-    ))
-    .sort((left, right) => {
-      const leftHighRisk = left.state.result?.risk_level.includes('高') ? 1 : 0
-      const rightHighRisk = right.state.result?.risk_level.includes('高') ? 1 : 0
-      return rightHighRisk - leftHighRisk || left.index - right.index
-    })
-  const featuredDangerous = dangerous.slice(0, 2)
+function summaryVerdictTone(result: VerifyResult, signal: Claim['signal']) {
+  const rejected = /不建议|不可信|夸大|误导/.test(result.verdict) || /高|误导/.test(result.risk_level)
+  const needsDiscount = !rejected && (/中/.test(result.risk_level) || /证据不足|需加条件/.test(result.verdict) || signal === '疑似夸大')
+  const conditional = !rejected && !needsDiscount && (/条件|争议/.test(result.verdict) || /有条件|有争议/.test(signal))
+
+  if (rejected) {
+    return {
+      kind: 'rejected',
+      label: '需要打折听',
+      labelClass: 'bg-[#F1F4FA] text-[#7182A5]',
+      stamp: `不建议采纳 · 误导风险${result.risk_level}`,
+      stampClass: 'border-[#C56B12] text-[#A95D0D]',
+    }
+  }
+  if (needsDiscount) {
+    return {
+      kind: 'needs-discount',
+      label: '需要打折听',
+      labelClass: 'bg-[#F1F4FA] text-[#7182A5]',
+      stamp: `需要加条件 · 风险${result.risk_level || '中'}`,
+      stampClass: 'border-[#C56B12] text-[#A95D0D]',
+    }
+  }
+  if (conditional) {
+    return {
+      kind: 'conditional',
+      label: '以情况而定',
+      labelClass: 'bg-[#EAF9F6] text-[#078C7E]',
+      stamp: '以情况而定',
+      stampClass: 'border-[#527DBB] text-[#466FAA]',
+    }
+  }
+  return {
+    kind: 'accepted',
+    label: '基本可信',
+    labelClass: 'bg-[#EAF9F6] text-[#078C7E]',
+    stamp: '建议采纳',
+    stampClass: 'border-[#1AA28F] text-[#078C7E]',
+  }
+}
+
+function VerdictSummaryItem({ claim, result, expanded, onToggleCorrection }: { claim: Claim; result: VerifyResult; expanded: boolean; onToggleCorrection: () => void }) {
+  const tone = summaryVerdictTone(result, claim.signal)
 
   return (
-    <div>
-      <div className="border-b border-[#D8F0EC] bg-[#f7fffd] px-5 py-5">
-        <div className="flex items-start justify-between gap-4">
-          <div>
-            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">避坑总结</p>
-            <h1 className="mt-1 text-3xl font-black text-slate-950">宣判</h1>
+    <article className="rounded-[15px] border border-slate-200/80 bg-white p-[10px] shadow-[0_6px_16px_rgba(15,23,42,0.04)]">
+      <div className="flex items-start gap-2.5">
+        <ClaimIcon icon={claim.icon} className="mt-1 h-11 w-11" />
+        <div className="min-w-0 flex-1">
+          <div className="flex items-start justify-between gap-2">
+            <span className={`inline-flex rounded-full px-2.5 py-0.5 text-[11px] font-bold ${tone.labelClass}`}>{tone.label}</span>
+            <span className={`inline-block shrink-0 -rotate-2 rounded-[8px] border-2 bg-white px-2 py-1 text-[10px] font-black leading-tight ${tone.stampClass}`}>{tone.stamp}</span>
           </div>
-          <div className="rounded-xl border border-[#20CDB6]/25 bg-white px-3 py-2 text-right">
-            <p className="text-sm font-black text-[#0B6E63]">FitProof</p>
-            <p className="mt-0.5 text-[10px] text-slate-400">健康说法核验</p>
-          </div>
+          <p className="mt-1.5 line-clamp-2 text-[15px] font-bold leading-[1.45] text-slate-950">“{claim.claim}”</p>
         </div>
+      </div>
+      <button type="button" onClick={onToggleCorrection} aria-expanded={expanded} className="mt-2 flex w-full items-start gap-2.5 rounded-[12px] border border-[#CDEDE7] bg-[#F0FBF8] px-2.5 py-2.5 text-left">
+        <span className="flex h-8 w-8 shrink-0 items-center justify-center text-[#078C7E]" aria-hidden="true">
+          <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M12 3 5.5 6v5c0 4.5 2.8 7.8 6.5 9.5 3.7-1.7 6.5-5 6.5-9.5V6L12 3Z" strokeLinejoin="round" /><path d="m8.8 12 2.1 2.1 4.4-4.5" strokeLinecap="round" strokeLinejoin="round" /></svg>
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="flex items-center justify-between gap-2 text-[13px] font-black text-[#078C7E]">更准确的说法
+            <svg className={`h-3.5 w-3.5 shrink-0 transition-transform ${expanded ? 'rotate-180' : ''}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m4 6 4 4 4-4" strokeLinecap="round" strokeLinejoin="round" /></svg>
+          </span>
+          <span
+            className="mt-0.5 block text-[13px] leading-[1.5] text-slate-600"
+            style={expanded ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 1, overflow: 'hidden' }}
+          >
+            {result.correction}
+          </span>
+        </span>
+      </button>
+    </article>
+  )
+}
 
+function SummaryCard({ claims, states }: { claims: Claim[]; states: VerifyState[] }) {
+  const [expandedCorrections, setExpandedCorrections] = useState<number[]>([])
+  const completedCount = states.filter((state) => state.status === 'done').length
+  const isReviewing = completedCount < claims.length
+  const completed = states
+    .map((state, index) => ({ state, claim: claims[index], index }))
+    .filter((item): item is { state: VerifyState & { status: 'done'; result: VerifyResult }; claim: Claim; index: number } => item.state.status === 'done' && Boolean(item.state.result) && Boolean(item.claim))
+  const cautionary = completed.filter(({ claim, state }) => {
+    const tone = summaryVerdictTone(state.result, claim.signal)
+    return tone.kind !== 'accepted'
+  })
+  const accepted = completed.filter(({ claim, state }) => summaryVerdictTone(state.result, claim.signal).kind === 'accepted')
+  const featured = [...cautionary, ...accepted.slice(0, Math.max(0, 3 - cautionary.length))]
+
+  return (
+    <div className="pb-2">
+      <div className="pt-1">
         {isReviewing && claims.length > 0 && (
-          <p className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5 text-xs leading-relaxed text-amber-800">
+          <p className="mb-3 rounded-[12px] border border-amber-200 bg-amber-50 px-3 py-2.5 text-xs leading-relaxed text-amber-800">
             审理中，已核验 {completedCount} / {claims.length}，结论将陆续给出
           </p>
         )}
-      </div>
-
-      <div className="p-5">
         {claims.length === 0 ? (
           <div className="rounded-2xl border border-[#20CDB6]/20 bg-[#E1F5EE] px-4 py-6 text-center">
             <p className="text-base font-semibold text-[#0B6E63]">无可核验说法</p>
             <p className="mt-1 text-sm text-slate-500">这条视频没有提取出可供证据核验的主张。</p>
           </div>
-        ) : featuredDangerous.length > 0 ? (
-          <div className="space-y-4">
-            {featuredDangerous.map(({ claim, state, index }) => {
-              const result = state.result as VerifyResult
-              return (
-                <article key={`${claim.claim}-${index}`} className="rounded-2xl border border-slate-200 bg-white p-4 shadow-[0_8px_24px_rgba(15,23,42,0.06)]">
-                  <p className="text-[11px] font-semibold text-slate-400">需要打折听</p>
-                  <p className="mt-1.5 text-[15px] font-semibold leading-relaxed text-slate-950">“{claim.claim}”</p>
-                  <div className="mt-3 overflow-hidden px-1 py-1">
-                    <span className={`inline-block max-w-full -rotate-2 rounded-lg border-2 px-2.5 py-1.5 text-xs font-black ${verdictStampClass(result)}`}>
-                      {result.verdict} · 误导风险{result.risk_level}
-                    </span>
-                  </div>
-                  <div className="mt-3 rounded-xl bg-[#E1F5EE] px-3 py-3">
-                    <p className="text-[11px] font-semibold text-[#0B6E63]">更准确的说法</p>
-                    <p className="mt-1 text-sm leading-relaxed text-slate-700">{result.correction}</p>
-                  </div>
-                </article>
-              )
-            })}
+        ) : featured.length > 0 ? (
+          <div className="space-y-2.5">
+            {featured.map(({ claim, state, index }) => (
+              <VerdictSummaryItem
+                key={`${claim.claim}-${index}`}
+                claim={claim}
+                result={state.result}
+                expanded={expandedCorrections.includes(index)}
+                onToggleCorrection={() => setExpandedCorrections((current) => current.includes(index) ? current.filter((item) => item !== index) : [...current, index])}
+              />
+            ))}
           </div>
         ) : (
           <div className="rounded-2xl border border-[#20CDB6]/25 bg-[#E1F5EE] px-4 py-6 text-center">
@@ -541,16 +754,20 @@ function SummaryCard({ claims, states }: { claims: Claim[]; states: VerifyState[
         )}
 
         {claims.length > 0 && (
-          <div className="mt-5 border-t border-[#D8F0EC] pt-4 text-center">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0B6E63]">求真结论</p>
-            <p className="mt-1.5 text-base font-bold text-slate-900">
-              共 {claims.length} 条说法，其中 {dangerous.length} 条需要打折听
+          <div className="mt-4 border-t border-[#D8F0EC] pt-3 text-center">
+            <p className="text-[11px] font-semibold tracking-[0.12em] text-[#0B6E63]">求真结论</p>
+            <p className="mt-1 text-[13px] font-bold text-slate-900">
+              共 {claims.length} 条说法，其中 {cautionary.length} 条需要谨慎判断
             </p>
           </div>
         )}
       </div>
     </div>
   )
+}
+
+function FollowupAvatar({ compact = false }: { compact?: boolean }) {
+  return <span className={`relative z-10 inline-flex shrink-0 rounded-full border border-[#BFECE5] bg-[#EEF9F6] ${compact ? 'h-9 w-9' : 'h-16 w-16'}`} aria-label="FitProof AI 头像占位" />
 }
 
 function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResponse; topic: string; claims: Claim[]; states: VerifyState[] }) {
@@ -571,6 +788,7 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
     '哪些人需要更谨慎地看待这些说法？',
     '日常照着做时，怎样会更稳妥？',
   ]
+  const hasConversation = messages.length > 0 || loading
 
   async function sendQuestion(rawQuestion: string) {
     const question = rawQuestion.trim()
@@ -616,26 +834,54 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
   }
 
   return (
-    <div>
-      <div className="border-b border-[#D8F0EC] pb-4">
-        <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-[#0B6E63]">继续追问</p>
-        <h1 className="mt-1 text-xl font-semibold text-slate-950">就这条视频和已核验的结论，继续问我</h1>
-      </div>
+    <div className="flex h-full min-h-0 flex-col">
+      <div className="min-h-0 flex flex-1 flex-col overflow-hidden pr-1">
+      {!hasConversation && (
+        <section>
+          <h1 className="truncate text-[17px] font-bold leading-tight text-slate-950">就这条视频和已核验的结论，继续问我</h1>
+          <p className="mt-1 truncate text-[12px] leading-tight text-[#7888A7]">AI 会结合已核验内容、医学数据库和权威文献回答你。</p>
+        </section>
+      )}
 
-      <div className="mt-4 max-h-[44vh] min-h-52 space-y-4 overflow-y-auto pr-1">
-        {messages.length === 0 ? (
-          <div className="rounded-2xl border border-[#20CDB6]/15 bg-[#f7fffd] p-4">
-            <p className="text-sm font-medium text-slate-600">你可以这样问</p>
-            <div className="mt-3 space-y-2">
-              {examples.map((example) => (
-                <button key={example} type="button" onClick={() => void sendQuestion(example)} disabled={loading} className="w-full rounded-xl border border-[#20CDB6]/20 bg-white px-3 py-2.5 text-left text-sm leading-relaxed text-[#0B6E63] disabled:opacity-50">
-                  {example}
+      <section className={`${hasConversation ? 'followup-ai-reposition mt-0' : 'mt-2'} flex shrink-0 items-center`}>
+        <span className="relative z-10"><FollowupAvatar /></span>
+        <div className="relative -ml-8 h-[52px] min-w-0 flex-1 rounded-r-[17px] rounded-l-none border border-l-0 border-[#BFECE5] bg-[#F8FEFC] pl-10 pr-10">
+          <div className="flex h-full min-w-0 flex-col justify-center">
+            <div className="flex items-center gap-2 whitespace-nowrap leading-[18px]">
+              <p className="text-[17px] font-black leading-[18px] text-[#078C7E]">FitProof AI</p>
+              <span className="rounded-full bg-[#E6F8F4] px-2 py-0.5 text-[9px] font-normal text-[#078C7E]">数据库辅助回答</span>
+            </div>
+            <p className="mt-[3px] truncate text-[10px] leading-[10px] text-[#7888A7]">基于科学证据，为你提供更可靠的解答。</p>
+          </div>
+          <span className="absolute right-3 top-1/2 h-7 w-8 -translate-y-1/2" aria-hidden="true">
+            <span className="absolute left-0 top-2 text-[22px] leading-none text-[#9BE3DA]">✦</span>
+            <span className="absolute left-4 top-0 text-[10px] leading-none text-[#9BE3DA]">✦</span>
+          </span>
+        </div>
+      </section>
+
+      {!hasConversation && (
+        <div className="mt-0 shrink-0">
+          <section className="rounded-[15px] border border-[#BFECE5] bg-[#F7FEFC] p-2">
+            <p className="px-1 text-[14px] font-semibold text-slate-900">你可以这样问</p>
+            <div className="mt-1.5 space-y-1">
+              {examples.map((example, index) => (
+                <button key={example} type="button" onClick={() => void sendQuestion(example)} disabled={loading} className="flex w-full items-center gap-2 rounded-[12px] border border-[#CDEDE7] bg-white px-2.5 py-1.5 text-left shadow-[0_3px_9px_rgba(11,110,99,0.04)] disabled:opacity-50">
+                  <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[#EDF9F7] text-[#078C7E]" aria-hidden="true">
+                    {index === 0 ? <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="10.8" cy="10.8" r="6.7" /><path d="m16 16 4.4 4.4" strokeLinecap="round" /></svg> : index === 1 ? <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="8.2" cy="8" r="3.2" /><circle cx="16.5" cy="7.2" r="2.5" /><path d="M2.8 20c.7-3.7 2.7-5.6 5.4-5.6s4.7 1.9 5.4 5.6M14.2 14.3c2.8.1 4.8 2 5.2 5" strokeLinecap="round" /></svg> : <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 3 5.5 6v5c0 4.5 2.8 7.8 6.5 9.5 3.7-1.7 6.5-5 6.5-9.5V6L12 3Z" /><path d="m8.8 12 2.1 2.1 4.4-4.5" strokeLinecap="round" strokeLinejoin="round" /></svg>}
+                  </span>
+                  <span className="min-w-0 flex-1 truncate text-[13px] font-normal leading-tight text-[#078C7E]">{example}</span>
+                  <svg className="h-4 w-4 shrink-0 text-[#A8CCC7]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m9 5 7 7-7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>
                 </button>
               ))}
             </div>
-          </div>
-        ) : (
-          messages.map((message, index) => message.role === 'user' ? (
+          </section>
+        </div>
+      )}
+
+      {hasConversation && (
+        <div className="followup-scroll-area -mr-2 mt-0 min-h-0 flex-1 space-y-4 overflow-y-auto pr-4">
+          {messages.map((message, index) => message.role === 'user' ? (
             <div key={`${message.role}-${index}`} className="flex justify-end">
               <div className="max-w-[82%] rounded-[14px_14px_4px_14px] bg-[#20CDB6] px-4 py-3 text-sm leading-relaxed text-white">
                 {message.content}
@@ -643,31 +889,54 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
             </div>
           ) : (
             <div key={`${message.role}-${index}`} className="flex items-end gap-2.5">
-              <ShieldAvatar />
+              <FollowupAvatar compact />
               <div className="max-w-[calc(100%-2.625rem)] rounded-[14px_14px_14px_4px] border border-slate-200 bg-white px-4 py-3 text-sm leading-relaxed text-slate-700 shadow-sm">
                 {message.content}
               </div>
             </div>
-          ))
-        )}
+          ))}
 
         {loading && (
           <div className="flex items-end gap-2.5">
-            <ShieldAvatar />
+            <FollowupAvatar compact />
             <div className="flex items-center gap-2 rounded-[14px_14px_14px_4px] border border-slate-200 bg-white px-4 py-3 text-sm text-[#0B6E63] shadow-sm">
               <LoadingDots />
               <span>思考中…</span>
             </div>
           </div>
         )}
-      </div>
+        </div>
+      )}
 
-      <form className="mt-4 flex items-end gap-2 border-t border-[#D8F0EC] pt-4" onSubmit={(event) => { event.preventDefault(); void sendQuestion(input) }}>
-        <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={2} placeholder="输入你想继续问的问题" className="min-h-[48px] min-w-0 flex-1 resize-none rounded-2xl border border-slate-200 bg-white px-3 py-2.5 text-sm leading-relaxed text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] disabled:bg-slate-50" />
-        <button type="submit" disabled={loading || !input.trim()} className="h-12 shrink-0 rounded-2xl bg-[#20CDB6] px-4 text-sm font-semibold text-white disabled:bg-slate-200 disabled:text-slate-400">
+      </div>
+      <form className="mt-0 flex shrink-0 items-center gap-2 bg-white py-0.5" onSubmit={(event) => { event.preventDefault(); void sendQuestion(input) }}>
+        <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={1} placeholder="输入你想继续问的问题" className="h-10 min-w-0 flex-1 resize-none rounded-[15px] border border-[#A8DFD8] bg-white px-3 py-2 text-sm leading-tight text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] disabled:bg-slate-50" />
+        <button type="submit" disabled={loading || !input.trim()} className="h-10 shrink-0 rounded-[15px] bg-[#20CDB6] px-4 text-[14px] font-black text-white shadow-[0_5px_12px_rgba(32,205,182,0.22)] disabled:bg-slate-200 disabled:text-slate-400">
           发送
         </button>
       </form>
+      <style jsx>{`
+        @keyframes followup-ai-reposition {
+          from { opacity: 0.35; transform: translateY(30px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        .followup-ai-reposition { animation: followup-ai-reposition 260ms cubic-bezier(.2,.8,.2,1); }
+        .followup-scroll-area {
+          scrollbar-width: thin;
+          scrollbar-color: #82d8ce transparent;
+          scrollbar-gutter: stable;
+        }
+        .followup-scroll-area::-webkit-scrollbar { width: 6px; }
+        .followup-scroll-area::-webkit-scrollbar-track {
+          background: #f3fbf9;
+          border-radius: 999px;
+        }
+        .followup-scroll-area::-webkit-scrollbar-thumb {
+          background: #82d8ce;
+          border: 1px solid #e9f8f5;
+          border-radius: 999px;
+        }
+      `}</style>
     </div>
   )
 }
@@ -703,10 +972,10 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
     ? '视频档案'
     : currentCard.kind === 'overview'
       ? '说法全景'
-      : currentCard.kind === 'confrontation'
+        : currentCard.kind === 'confrontation'
         ? `对质 ${currentCard.claimIndex + 1}`
         : currentCard.kind === 'summary'
-          ? '宣判'
+          ? '避坑总结'
           : '继续追问'
   const confrontationClaim = currentCard.kind === 'confrontation' ? data.claims[currentCard.claimIndex] : null
 
@@ -832,7 +1101,10 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
               label={currentCardLabel}
               index={cardIndex + 1}
               subtitle={currentCard.kind === 'profile' ? '来自抖音的单条视频' : currentCard.kind === 'overview' ? '逐条查看本视频拆出的说法' : confrontationClaim ? `视频片段 ${firstTime(confrontationClaim)}` : undefined}
+              subtitleLeading={confrontationClaim ? <span className="flex h-3 w-3 shrink-0 items-center justify-center rounded-full border border-[#20CDB6] bg-white text-[#20CDB6]"><svg className="ml-px h-1.5 w-1.5" viewBox="0 0 10 10" fill="currentColor" aria-hidden="true"><path d="M2 1.4 8.2 5 2 8.6V1.4Z" /></svg></span> : undefined}
               headerBadge={confrontationClaim ? <span className={`rounded-xl px-2.5 py-1 text-[11px] font-semibold ${overviewSignalClass(confrontationClaim.signal)}`}>{claimGroupsLabel(confrontationClaim)}</span> : undefined}
+              hideIndex={Boolean(confrontationClaim)}
+              contentScrollable={currentCard.kind !== 'followup'}
             >
             {currentCard.kind === 'profile' && <ProfileCard data={data} onOpenClaim={(index) => goToCard(2 + index)} />}
             {currentCard.kind === 'overview' && <OverviewCard data={data} onOpenClaim={openClaimFromOverview} />}
@@ -844,7 +1116,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
                 state={verifyStates[currentCard.claimIndex] || { status: 'pending' }}
                 keyframes={data.keyframes}
                 onRetry={() => retryClaim(currentCard.claimIndex)}
-                onEvidence={(evidence) => setDrawer({ title: evidence.id, evidence })}
+                onEvidence={(evidence) => setDrawer({ evidence })}
                 onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
               />
             )}
@@ -880,18 +1152,42 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
       {drawer && (
         <div className="fixed inset-0 z-[60] flex flex-col justify-end" onClick={() => setDrawer(null)}>
           <div className="absolute inset-0 bg-black/40" />
-          <div onClick={(event) => event.stopPropagation()} className="relative z-10 max-h-[72vh] overflow-y-auto rounded-t-3xl bg-white px-6 pb-8 pt-5">
+          <div onClick={(event) => event.stopPropagation()} className="relative z-10 max-h-[72vh] overflow-y-auto rounded-t-3xl bg-white px-5 pb-8 pt-4 shadow-[0_-10px_30px_rgba(15,23,42,0.10)]">
             <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-slate-200" />
-            <p className="mb-3 text-sm font-semibold text-slate-900">权威依据 · {drawer.title}</p>
-            <div className="rounded-2xl bg-[#E1F5EE] px-4 py-3">
-              <p className="text-[15px] leading-relaxed text-slate-900">{drawer.evidence.claim}</p>
-              <p className="mt-3 text-sm leading-relaxed text-slate-500">
-                {drawer.evidence.source_doc}
-                {drawer.evidence.org ? ` · ${drawer.evidence.org}` : ''}
-                {drawer.evidence.year ? ` · ${drawer.evidence.year}` : ''}
-                {drawer.evidence.page ? ` · 页码 ${drawer.evidence.page}` : ''}
-              </p>
-              {drawer.evidence.url && <a href={drawer.evidence.url} target="_blank" rel="noreferrer" className="mt-3 inline-block break-all text-sm font-medium text-[#0B6E63] underline">打开官方来源</a>}
+            <p className="mb-3 text-[16px] font-black tracking-wide text-slate-900">参考文献（{drawer.evidence.length}）</p>
+            <div className="space-y-2">
+              {drawer.evidence.map((evidence) => {
+                const documentType = evidence.strength || evidence.evidence_tier || '参考文献'
+                return (
+                  <a
+                    key={evidence.id}
+                    href={evidence.url || undefined}
+                    target={evidence.url ? '_blank' : undefined}
+                    rel={evidence.url ? 'noreferrer' : undefined}
+                    onClick={(event) => { if (!evidence.url) event.preventDefault() }}
+                    className="flex items-center gap-3 rounded-[12px] border border-[#DDE9ED] bg-white px-3 py-2.5 shadow-[0_3px_10px_rgba(11,110,99,0.035)] transition active:scale-[0.99]"
+                    aria-label={`查看文献：${evidence.source_doc}`}
+                  >
+                    <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-[9px] bg-[#ECFBF8] text-[#14B9AA]">
+                      <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+                        <path d="M6.2 2.8h7.1l4.5 4.6v12.2c0 .9-.7 1.6-1.6 1.6H6.2c-.9 0-1.6-.7-1.6-1.6V4.4c0-.9.7-1.6 1.6-1.6Z" strokeLinejoin="round" />
+                        <path d="M13.2 2.9v4.6h4.5M8.1 12h7.8M8.1 15.5h5.6M8.1 8.6h2.8" strokeLinecap="round" strokeLinejoin="round" />
+                      </svg>
+                    </span>
+                    <span className="min-w-0 flex-1">
+                      <span className="block truncate text-[13px] font-bold leading-5 text-slate-900">{evidence.source_doc}</span>
+                      <span className="mt-1 flex flex-wrap items-center gap-1 text-[10px] leading-4 text-slate-500">
+                        <span className="rounded-md bg-slate-50 px-1.5 py-0.5">{evidence.org || '来源机构未标注'}</span>
+                        <span className="rounded-md bg-slate-50 px-1.5 py-0.5">{evidence.year || '年份未标注'}</span>
+                        <span className="rounded-md bg-slate-50 px-1.5 py-0.5">{evidence.page ? `P.${evidence.page}` : '页码未标注'}</span>
+                        <span className="rounded-md bg-[#EAF9F6] px-1.5 py-0.5 font-semibold text-[#078C7E]">{documentType}</span>
+                      </span>
+                      <span className="mt-1.5 block truncate rounded-md bg-[#F5F7F9] px-2 py-1 text-[10px] leading-4 text-slate-600">证据摘要：{evidence.claim}</span>
+                    </span>
+                    <svg className="h-5 w-5 shrink-0 text-[#7183A4]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="m9 5 7 7-7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>
+                  </a>
+                )
+              })}
             </div>
             <button type="button" onClick={() => setDrawer(null)} className="mt-5 w-full rounded-full bg-slate-100 py-2.5 text-sm font-medium text-slate-600">收起</button>
           </div>

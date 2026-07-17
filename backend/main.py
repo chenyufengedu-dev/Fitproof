@@ -1181,6 +1181,15 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 # Single-video claim extraction + RAG verification
 # ---------------------------------------------------------------------------
 CLAIM_SIGNALS = {"疑似夸大", "有条件", "较公认", "有争议"}
+# 说法配图的语义标签白名单。前端拿这个词查 public/claim-icons/{icon}.webp。
+# 模型只需从这里选一个「这条说法在讲什么东西」，不在白名单内一律回落 general。
+# 只表示名词主体，不含好坏判断（判断由 signal 和核验负责）。
+CLAIM_ICONS = {
+    "egg", "milk", "meat", "veggie", "grain", "oil-salt-sugar", "water", "tea-coffee",
+    "alcohol", "pill", "vaccine", "lab-report", "blood-pressure", "blood-sugar", "heart",
+    "exercise", "sleep", "weight", "pregnancy", "baby", "elderly", "supplement", "cancer",
+    "general",
+}
 VERIFY_FIELDS = ["verdict", "risk_level", "confidence", "strength", "correction", "cited_evidence_ids"]
 
 
@@ -1206,11 +1215,18 @@ def video_to_claim_prompt(topic: str, video: dict) -> str:
 2. video_refs 标出该主张来自视频1的大致时间，格式 {{"id":1,"time":"0:12"}}。
 3. signal 只能从 ["疑似夸大","有条件","较公认","有争议"] 中选择。
 4. why 用一句话说明为什么值得核验。
-5. 只输出 JSON，不输出解释。
+5. icon 表示「这条说法主要在讲什么东西」，只能从下面清单里选一个，拿不准就填 general：
+   egg(蛋) milk(奶) meat(肉禽鱼) veggie(蔬菜水果) grain(米面主食) oil-salt-sugar(油盐糖)
+   water(水/饮料) tea-coffee(茶/咖啡) alcohol(酒) pill(药丸/吃药) vaccine(打针/疫苗)
+   lab-report(化验单/指标报告) blood-pressure(血压) blood-sugar(血糖) heart(心脏/心血管)
+   exercise(运动/健身) sleep(睡眠) weight(体重/减肥) pregnancy(孕产) baby(婴幼儿)
+   elderly(中老年) supplement(保健品/补剂) cancer(癌症/肿瘤) general(其它/通用)
+   icon 只表示话题对象，不代表好坏。
+6. 只输出 JSON，不输出解释。
 
 JSON 格式：
 {{"claims":[
-  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","why":"为什么值得核验"}}
+  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","icon":"egg","why":"为什么值得核验"}}
 ]}}"""
 
 
@@ -1237,10 +1253,15 @@ def normalize_claims(data: dict) -> list[dict]:
         signal = str(item.get("signal") or "").strip()
         if signal not in CLAIM_SIGNALS:
             signal = "有条件"
+        # 白名单校验：模型迟早会自创一个词，不在清单内一律回落 general
+        icon = str(item.get("icon") or "").strip().lower()
+        if icon not in CLAIM_ICONS:
+            icon = "general"
         normalized.append({
             "claim": claim,
             "video_refs": good_refs,
             "signal": signal,
+            "icon": icon,
             "why": str(item.get("why") or "").strip(),
         })
     return normalized

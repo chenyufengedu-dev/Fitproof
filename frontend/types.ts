@@ -58,6 +58,8 @@ export interface Claim {
   claim: string
   video_refs: VideoRef[]
   signal: '疑似夸大' | '有条件' | '较公认' | '有争议' | string
+  /** 语义配图标签，对应 public/claim-icons/{icon}.webp。老数据可能没有，前端回落 general。 */
+  icon?: string
   why: string
 }
 
