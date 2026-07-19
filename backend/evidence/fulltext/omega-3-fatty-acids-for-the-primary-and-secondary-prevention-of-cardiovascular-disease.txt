@@ -1,0 +1,3288 @@
+
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+an example, the global attributable burden of eating a diet low in
+seafood omega-3 fats was estimated as 1.1% of global disability-
+adjusted life-years (DALYs; 95% confidence interval (CI) 0.8 to 1.5),
+"with 22% of ischaemic heart disease DALYs attributable to low
+seafood intake" (Engell 2013). The data sources are not described,
+but when the estimate was derived from randomised controlled
+trials (RCTs) alone, rather than cohort trials and RCTs combined,
+the estimated global attributable burden was much smaller, 0.5%
+(95% CI −0.5 to 1.4). Information concerning cause and eﬀect is
+more reliably supplied by intervention trials in which participants
+are randomly allocated to receive fish oil or advice to eat more fish.
+Systematic reviews of RCTs have had various findings. A recent
+version of this review (Abdelhamid 2018a), included 79 long-
+term RCTs and more than 112,000 participants, finding no
+eﬀects of omega-3 fats on all-cause mortality or cardiovascular
+outcomes. Other systematic reviews have suggested a lack of
+eﬀect for omega-3 fats on all-cause mortality or a variety
+of cardiovascular diseases (Campbell 2013; Chowdhury 2012;
+Khoueiry 2013; Kotwal 2012; Kwak 2012; Mariani 2013; Rizos
+2012; Zheng 2014). However, some reviews have highlighted
+particular outcomes or circumstances in which cardiovascular
+disease prevention was evident: afer heart surgery (He 2013),
+for preventing sudden cardiac death (Zhao 2009), for reducing
+cardiovascular disease mortality and sudden cardiac death,
+although with no eﬀect on all-cause mortality (Trikalinos 2012),
+for cardiovascular disease mortality (Sethi 2016), and for reducing
+the risk of stroke in women, albeit with no eﬀect on stroke
+overall (Larsson 2012). Kwak 2012 reported marginal eﬀects on
+cardiovascular death, though these were lost when a poor-quality
+trial was removed, and a few others have reported only positive
+eﬀects in their abstracts (reductions in cardiovascular events,
+cardiac death and coronary events) (Delgado-Lista 2012). These
+disparate findings have fuelled both debate and confusion. A recent
+extensive Agency for Healthcare Research and Quality review meta-
+analysed risk factors extensively but suggested there was only
+limited RCT data to assess the eﬀects of omega-3 fats on clinical
+cardiovascular disease outcomes (Balk 2016). The publication
+recently of a suite of large-scale and long-term trials of LCn3
+(ASCEND 2018; REDUCE-IT 2019; VITAL 2019), has prompted the
+need to update Abdelhamid 2018a.
+This systematic review and meta-analysis aimed to assess the
+evidence on the eﬀects of omega-3 fats (LCn3 and ALA separately)
+on all-cause mortality and cardiovascular diseases. It also aimed to
+assess potentially harmful eﬀects of omega-3 fats or compounds
+associated with consuming LCn3 fats, such as excessive bleeding.
+A related review has formally systematically reviewed potential
+harms such as excessive cancers, rather than simply examining
+trials included in this review for cancer outcomes (Hanson
+2019). We assessed mechanisms of action such as lipid and
+body weight changes and antiarrhythmic eﬀects as primary or
+secondary outcomes in this review, and we have systematically
+reviewed these outcomes in a formal way by including trials that
+assessed adiposity, lipids and arrhythmic events, even where no
+cardiovascular disease events occurred or were reported. The
+World Health Organization (WHO) is currently updating its guidance
+on polyunsaturated fatty acid (PUFA) intake in adults and children.
+This is one of a set of systematic reviews commissioned by
+WHO in order to inform and contribute to the development of
+updated WHO recommendations. Sister systematic reviews have
+assessed eﬀects of omega-3, omega-6 and total polyunsaturated
+fats on inflammation and inflammatory bowel disease (Thorpe
+2017), diabetes and glucose metabolism (Brown 2019), depression
+and anxiety (Deane 2019), cognition and dementia (Brainard
+2019), cancers (Hanson 2019) and functional status (Abdelhamid
+2019). Separate reviews assess eﬀects of omega-6 fats and total
+polyunsaturated fat on mortality and cardiovascular outcome
+(Abdelhamid 2018b; Hooper 2018), and provide a detailed database
+of the relevant trials for use by others (Hooper 2019).
+The results of this review including GRADE assessments were
+discussed and reviewed by the WHO Nutrition Guidance Expert
+Advisory Group (NUGAG) Subgroup on Diet and Health as part of
+WHO’s guideline development process.
+O B J E C T I V E S
+To assess the eﬀects of increased intake of fish- and plant-based
+omega-3 for all-cause mortality, cardiovascular events, adiposity
+and lipids.
+The primary review question was, 'Do long-chain omega-3 fats
+(LCn3, fish-based omega-3 fats) or ALA (plant-based omega-3
+fats) alter risk of all-cause mortality, cardiovascular deaths,
+cardiovascular events, coronary heart disease deaths, coronary
+heart disease events, stroke, arrhythmia, adiposity and lipids?'
+Secondary questions include the following.
+•
+If omega-3 fatty acids confer protection:
+◦does protection occur equally in those at low and at high risk
+of cardiovascular disease?
+◦does protection depend on the dose of omega-3 fats taken
+per day?
+◦do eﬀects diﬀer between dietary and supplemental omega-3
+sources?
+◦does protection depend on trial summary risk of bias?
+•
+Is protection or harm stronger with longer trial duration?
+•
+Are eﬀects of omega-3 fatty acids dependent on baseline
+triglyceride levels or diabetic status?
+The latter was suggested by WHO NUGAG and added post-hoc
+specifically for this update.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+We included randomised controlled clinical trials that included diet
+advice or dietary supplementation to promote omega-3 fatty acid
+intake versus placebo, no supplementation, usual diet or lower-
+dose omega-3. One of our outcomes had to be measured and
+available (through publications or contact with trial authors), and
+trials had to follow participants for at least 12 months (52 weeks or
+360 days). For advice trials, follow-up must have been at least 12
+months following advice, and for trials where participants received
+food or supplementation, provision must have continued for at
+least 12 months. We accepted randomisation of individuals or of
+clusters as long as there were at least six clusters randomised.
+Careful work by Browning suggests that supplements of EPA
+and DHA equivalent to one weekly portion of oily fish results
+in 95% of maximal incorporation by 5 days for EPA in plasma
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+phosphatidylcholine (95% CI 0 to 18 days) to 273 days for
+DHA into blood mononuclear cells (95% CI 0 to 670 days; FISH
+2012). While this suggests individual variability, on average all
+compartments except blood mononuclear cells had equilibrated
+by 117 days (both EPA and DHA into plasma phosphatidylcholine,
+plasma cholesteryl esters, plasma nonesterified fatty acids, plasma
+triglycerides, erythrocytes and platelets). The authors stated, "EPA
+and DHA reached a maximum in platelets in 3–4 weeks and 1–
+2 months, respectively, and in blood mononuclear cells in 6–9
+months". For this reason we chose 12 months as the minimum
+duration of intervention, as it allows equilibration of most body
+compartments with EPA and DHA as well as time for this change
+in body composition to have some eﬀect on cardiovascular risk or
+mortality.
+In previous reviews of dietary eﬀects on cardiovascular outcomes,
+we limited trials to at least two years' duration (Hooper 2015),
+as the proposed mechanism of eﬀects was via LDL cholesterol,
+atherosclerosis and its sequelae, and this takes time to develop.
+The 4S trial showed separation of the survival curves at around
+two years (Scandinavian Simvastatin Survival Study Group 1994).
+Potential mechanisms for eﬀects of PUFAs are broader, including
+what could be rapid eﬀects on arrhythmias or inflammation, so we
+decided to include trials of at least 12 months to ensure we did not
+miss these eﬀects.
+Types of participants
+Trials in adults (18 years or older, men and women) at any risk
+of cardiovascular disease (with or without existing cardiovascular
+disease) were eligible, including those in participants with
+increased risk of cancer, those undergoing or who have undergone
+coronary artery bypass grafing or angioplasty, and those with
+current or previous cardiovascular disease, nephritis in systemic
+lupus erythematosus, breast cysts, diabetes mellitus, rheumatoid
+arthritis, multiple sclerosis, psoriasis, hay fever, asthma or
+ulcerative colitis. Including these populations allows us to
+understand both development and progression of cardiovascular
+disease (primary and secondary prevention). We excluded
+participants who were pregnant or acutely ill (with acute-stage
+cancer, undergoing heart or renal transplantation, with HIV or AIDS,
+on haemodialysis, with IgA glomerulonephritis, or any other renal
+problem except in diabetes).
+Types of interventions
+The intervention must have been dietary supplementation, a
+provided diet or advice on diet. The foodstuﬀs or supplements must
+have been: oily fish (including mackerel, dogfish, salmon, herring,
+trout, tuna, sturgeon, stablefish, anchovy, sprat, coho, capelin,
+sardines, swordfish, sild, pilchard, brisling, menhaden, bloater,
+whitebait, crab and conger eel); fish oils (made from any of the
+above or a mixture of fish, or cod liver oil); linseed (flax), canola
+(rapeseed), perilla, purslane, mustard seed, candlenut, stillingia
+or walnut as a food, capsule, oil, made into a spreading fat or
+supplementing another food (such as bread or eggs). For ALA
+sources the product consumed had to have an omega-3 fat content
+of at least 10% of the total fat content. Refined eicosapentaenoic
+acid (EPA), docosahexaenoic acid (DHA) or ALAs, or concentrated
+fish or algal oils, were also accepted. Supplementation may have
+been in oil or capsule form or as foodstuﬀs provided to be
+consumed by mouth (excluding enteral and parenteral feeds and
+enemas).
+We excluded trials using multiple risk factor interventions on
+lifestyle factors (such as weight reduction, smoking or physical
+activity goals), or diﬀerential dietary interventions not involving
+dietary fats, except where that other intervention was a direct
+replacement for polyunsaturated fats or the eﬀect of diet
+or supplementation could be separated out from the other
+interventions.
+Trials were eligible if they compared the eﬀect of dietary advice or
+supplementation to increase omega-3 fats with the usual diet, no
+advice, no supplementation, placebo or lower-dose omega-3.
+Types of outcome measures
+Primary outcomes
+Primary outcomes included numbers of participants experiencing:
+•
+all-cause mortality (deaths);
+•
+cardiovascular mortality (cardiovascular deaths);
+•
+cardiovascular events (cardiovascular events);
+•
+coronary heart disease mortality (coronary heart disease
+deaths);
+•
+coronary heart disease events;
+•
+stroke; and
+•
+arrhythmia (atrial fibrillation).
+We analysed coronary heart disease using the first of the following
+to be reported: number of participants experiencing coronary
+heart disease or coronary events, total myocardial infarction, acute
+coronary syndrome or angina (stable and unstable). This meant
+that if trial authors reported coronary heart disease events, we used
+these in analysis; where trials did not report coronary heart disease
+events but did report total myocardial infarction, we used that (and
+so on). Combined cardiovascular events included fatal and non-
+fatal myocardial infarction, angina, stroke, heart failure, peripheral
+arterial disease, sudden death and non-scheduled cardiovascular
+interventions – coronary artery bypass surgery or angioplasty. We
+included all available outcomes where we could be sure that the
+same participant was not being counted twice.
+At the request of WHO NUGAG Subgroup on Diet and Health, we
+added coronary heart disease mortality post hoc as a primary
+outcome. Data used were the first of the following list reported:
+coronary death, ischaemic heart disease death, fatal myocardial
+infarction, cardiac death. We only used cardiac death when no other
+outcomes in this category were available, and we ran a sensitivity
+analysis omitting cardiac death. The reason for excluding cardiac
+death in sensitivity analysis was that it goes slightly outside our
+area of interest, including other causes of death in addition to
+coronary heart disease, such as cardiomyopathies and congenital
+and valvular heart diseases. We wanted to include cardiac death in
+the main analysis as we felt that otherwise we would be missing
+some important cases of coronary heart mortality, but we decided
+to exclude it in sensitivity analysis as we were potentially including
+a few outcomes that coronary heart disease mortality did not
+encompass.
+Secondary outcomes
+Secondary outcomes included:
+•
+major adverse cerebrovascular or cardiovascular events
+(MACCEs) or individual cardiovascular events (total, fatal or non-
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+fatal myocardial infarction, sudden cardiac death, angina, heart
+failure, revascularisation, peripheral arterial disease or acute
+coronary syndrome);
+•
+body weight and other measures of adiposity; and
+•
+lipids (total, LDL or HDL cholesterol and triglycerides).
+We defined MACCEs as participants experiencing myocardial
+infarction, unstable angina, stroke or death. We did not consider
+trials that did not provide data on all these health events for this
+outcome.
+The review included trials if any of their participants experienced
+or were assessed for any primary or secondary outcome. These
+could have been reported in publications (as outcomes or reasons
+for dropout or adverse events), supplied by trial authors, or
+which clearly happened even if exact numbers were not available.
+However, as almost all trials note if a death or cardiovascular
+event occurs in a trial participant (so all trials assessed for our
+primary outcomes) we only included trials where at least one event
+occurred, or where a continuous outcome was measured.
+Tertiary outcomes
+We extracted the following outcomes where available within
+included trials.
+•
+Blood pressure
+•
+Serious adverse events (any other reported illnesses)
+•
+Side eﬀects
+•
+Dropouts
+•
+Quality-of-life measures
+•
+Economic costs
+We originally intended to assess type 2 diabetes diagnoses,
+measures of glucose metabolism, cancers, breast cancer,
+neurocognitive outcomes such as dementia, depression and
+anxiety within included trials. However, as part of the larger
+set of reviews we formally systematically reviewed eﬀects of
+omega-3 fats on type 2 diabetes diagnoses and measures of glucose
+metabolism (Brown 2019), cancers including breast cancer (Hanson
+2019), neurocognitive outcomes such as dementia (Brainard 2019),
+irritable bowel disease (IBD) and inflammatory factors (Thorpe
+2017), depression and anxiety (Deane 2019), and functional
+outcomes (Abdelhamid 2019), so a partial assessment within this
+review would be unhelpful and potentially misleading. For this
+reason we exclude these specific outcomes from our reporting of
+serious adverse events.
+Key outcomes
+When the World Health Organization (WHO) NUGAG Subgroup
+on Diet and Health requested this review update they named
+the following as key outcomes to inform their planned dietary
+guidance.
+•
+All-cause mortality
+•
+Cardiovascular disease mortality
+•
+Cardiovascular disease events
+•
+Coronary heart disease mortality
+•
+Coronary heart disease events
+•
+Stroke
+•
+Arrhythmia (atrial fibrillation)
+•
+Serum lipids including total cholesterol, fasting triglycerides,
+high-density lipoprotein (HDL) and low-density lipoprotein
+(LDL)
+•
+Measures of adiposity (body weight and body mass index (BMI)
+We were not able to make all of these outcomes into primary
+outcomes (as the number of primary outcomes are restricted for
+Cochrane Reviews). However, because WHO NUGAG Subgroup on
+Diet and Health will use these outcomes to underpin guidance,
+we carried out sensitivity analyses, subgroup analyses and GRADE
+assessment of certainty of evidence for them, even when they were
+not primary outcomes.
+Search methods for identification of studies
+Electronic searches
+We searched the following electronic databases on 13 February
+2019 to identify reports of relevant randomised clinical trials:
+•
+Cochrane Central Register of Controlled Trials (CENTRAL; 2019,
+Issue 2) in the Cochrane Library;
+•
+Epub Ahead of Print, In-Process & Other Non-Indexed Citations,
+MEDLINE Daily and MEDLINE (Ovid, 1946 to 12 February 2019);
+•
+Embase Classic and Embase (Ovid, 1947 to 2019 week 6).
+We applied date limits to the terms from the original strategies
+so that the search included only new records (Appendix 1). The
+RCT filter for MEDLINE was the Cochrane sensitivity and precision-
+maximising RCT filter, and for Embase, we applied the terms as
+recommended in the Cochrane Handbook for Systematic Reviews of
+Interventions (Lefebvre 2011).
+Appendix 2 shows the MEDLINE search strategy for the original
+version of this review (Hooper 2004), Appendix 3 and Appendix 4
+show searches used to update the previous version of this review
+(Abdelhamid 2018a).
+For the previous (27 April 2017) update we also ran searches for
+a new systematic review of the eﬀects of polyunsaturated fats on
+cardiovascular disease (Abdelhamid 2018b), as well as updating
+and extending a Cochrane Review of the eﬀects of omega-6
+polyunsaturated fats on health outcomes (Hooper 2018). We ran
+searches for these reviews using the same RCT filters (Appendix
+4). The results of these searches were de-duplicated against the
+omega-3 searches, and all the titles and abstracts assessed as a
+single set for all three reviews. We created a data set of RCTs
+that lasted at least six months and compared higher versus lower
+omega-6, omega-3 or total PUFA in adults. We used this data set
+as the wider study pool from which we selected included trials
+for all reviews (Abdelhamid 2018a; Abdelhamid 2018b; Abdelhamid
+2019; Brainard 2019; Brown 2019; Deane 2019; Hanson 2019;
+Hooper 2018; Hooper 2019; Thorpe 2017). We did not repeat these
+additional searches in 2019.
+We 
+also 
+searched 
+two 
+trials 
+registers, 
+ClinicalTrials.gov
+(clinicaltrials.gov), and the WHO International Clinical Trials
+Registry Platform (ICTRP, www.who.int/ictrp/en), to 31 July 2019 for
+registry entries for relevant completed and ongoing trials.
+Searching other resources
+We assessed titles and abstracts retrieved during these electronic
+searches for relevant RCTs and also relevant systematic reviews.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We handsearched the included trials in all relevant systematic
+reviews up to April 2017 for new trials and additional publications of
+included trials. We contacted authors of all large included trials (at
+least 100 participants) included up to April 2017 and some smaller
+trials for further trial data, methodological details and references
+to trials not yet identified, including published, unpublished or
+ongoing trials.
+For all included trials we carefully searched and data-extracted
+trials registry entries, protocols, supplementary materials, letters,
+conference abstracts and additional publications to help us locate
+complete data sets.
+Data collection and analysis
+Selection of studies
+At least two review authors independently assessed titles and
+abstracts resulting from the electronic and bibliographic searches.
+We rejected titles and abstracts on initial screen only if the review
+author could determine from the title and abstract that the article
+was not a report of a RCT; did not address omega-3 intake (or total
+polyunsaturated fat or omega-6 fat for the other two reviews); were
+exclusively in children or young adults (less than 18 years old),
+pregnant women or the critically ill; were of less than 12 months'
+duration; or if the intervention was multi-factorial and we could not
+separate out the eﬀect of dietary fat.
+We rejected trials only when it was certain that no primary or
+secondary outcome events occurred, and none of the secondary
+outcome risk factors were measured. When we could not reject
+a title or abstract with certainty, we obtained the full text of the
+article for further evaluation. We made attempts to obtain full-text
+translations or evaluations, or both, of all potentially relevant non-
+English articles.
+We used an in/out form to assess full-text papers and trials for
+inclusion (or otherwise) into the review. We contacted the authors
+of all potentially included RCTs for further information on trial
+methodology and outcomes. Two review authors independently
+decided on inclusion of full-text RCTs, resolving any diﬀerences by
+discussion and, when necessary, in consultation with the review
+author team.
+Data extraction and management
+We designed a data extraction form for this review, which
+each of the review authors tested on a common 'training' trial
+(SCIMO 1999), and we adapted the form as needed. We extracted
+data concerning participants, interventions, and outcomes, as
+described above in the selection criteria section. We extracted
+dichotomous data from dietary advice trials at the latest point
+available in the trial (regardless of the amount of reinforcement
+of the original dietary message), while for supplement trials, we
+extracted dichotomous data to the point that supplementation or
+the trial ended, whichever was earlier. We extracted continuous
+data at the nearest time point to 12 months and also the latest
+point available in fixed-term trials, but in trials where participants
+were followed up for varying durations (aside from dropouts), we
+extracted the participants' data from the first time point following
+the mean trial duration. We never used data from periods following
+the end of a trial in meta-analysis.
+We also extracted data on risk of bias, assessed using the
+Cochrane 'Risk of bias' tool, along with data on potential
+eﬀect modifiers, including existing cardiovascular disease
+(primary or secondary prevention), trial duration, intensity of
+intervention (dietary advice, diet provided, supplemental foods,
+supplements (capsules) and any combination), LCn3 fats or ALA
+and dose, replacement, medications used (including statins,
+antihypertensive, antiarrhythmic or antithrombotic medication),
+fatty acid data (from plasma, platelets or adipose tissue) and
+smoking status.
+For primary and secondary dichotomous outcomes, we extracted
+numbers of participants experiencing an outcome and total
+numbers of participants randomised (or in whom the outcome
+was assessed where known) for each trial arm. For continuous
+outcomes, we extracted the number of participants assessed,
+means and standard deviations of the final readings in each
+treatment arm; we calculated standard deviations from other
+variance data where appropriate. Where data were available on
+both change and final readings, we used data on change.
+Two review authors independently extracted original reports of
+trial results. We resolved diﬀerences between review authors'
+results by discussion and, when necessary, in consultation with a
+third review author or the review author team.
+Assessment of risk of bias in included studies
+Two review authors independently assessed risk of bias for each
+included trial, using Cochrane criteria (Higgins 2017), including
+in the domains of sequence generation; allocation concealment;
+blinding of participants and personnel, blinding of outcome
+assessors; incomplete outcome data; and selective outcome
+reporting. Additional review-specific criteria included similarity of
+type and intensity of intervention in both arms (attention) and
+evidence of appropriate moderate to high compliance (to establish
+that the intervention group were receiving a diﬀerent intake of
+omega-3 fats than the control group). Table 1 presents specific
+details of how we interpreted these criteria for this review.
+In brief, we considered a trial to be at low risk of attention bias when
+participants were given the same amount of time and attention
+from trial staﬀ and health professionals whether they were in the
+intervention or control arms, and at low risk of compliance bias
+when adherence was assessed, results of that assessment were
+clearly reported for both intervention and control arms, and where
+most participants appeared to have taken at least 75% of the
+intended PUFA dose.
+Summary risk of bias
+Schulz 1995 found that poorly concealed allocation was associated
+with a 40% greater eﬀect size, so randomisation and allocation
+concealment are core issues for all trials. Lack of blinding is
+associated with bias, though smaller levels of bias than lack of
+allocation concealment (Savovic 2012), especially in trials with
+objectively measured outcomes (Wood 2008), such as those we
+primarily used in our review. Although we originally planned to
+assess summary risk of bias for all included trials in the same way
+across the whole set of reviews (Abdelhamid 2018a; Abdelhamid
+2018b; Abdelhamid 2019; Brainard 2019; Brown 2019; Deane
+2019; Hanson 2019; Hooper 2018; Hooper 2019; Thorpe 2017), we
+adopted a diﬀerent approach afer discussing the diﬀerent nature
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+of supplement trials compared to dietary advice or food provision
+trials with the WHO NUGAG Subgroup on Diet and Health.
+We considered supplement or capsule type trials to be at low
+summary risk of bias where we judged randomisation, allocation
+concealment, blinding of participants and personnel, and blinding
+of outcome assessors to be adequate. We considered all other trials
+to be at moderate or high risk of bias (a single category).
+We considered dietary advice or all-food-provided type trials to
+be at low summary risk of bias where we judged randomisation,
+allocation concealment, and blinding of outcome assessors to be
+adequate. We considered all other trials to be at moderate or high
+risk of bias (a single category).
+Measures of treatment eﬀect
+We pooled dichotomous data using risk ratios (RR) to describe
+eﬀect sizes and continuous data using mean diﬀerences (MD).
+Where eﬀects were described by diﬀerent but comparable
+measures or scales in diﬀerent trials, we planned to combine them
+using standardised mean diﬀerence (SMD), but this was not needed
+in this review.
+Unit of analysis issues
+We considered that we could reduce patient numbers in cluster-
+randomised trials to an eﬀective sample size, as described
+by Hauck 1991, however, we identified no such trials. For
+combined outcomes (e.g. combined cardiovascular events), we
+made attempts to add numbers of individuals experiencing specific
+outcomes within trials, but only where we could be certain that we
+were not counting individual participants more than once within
+any one of our review outcome categories.
+For trials with intervention arms providing diﬀerent omega-3
+doses, we combined data for the intervention groups for binary
+outcomes and used higher-dose data versus control for continuous
+outcomes. We used arms with diﬀerent doses separately when
+subgrouping by dose. Where factorial trials ran more than one
+intervention included in this review (AlphaOmega - ALA 2010;
+AlphaOmega - EPA+DHA 2010), we did not pool both comparisons
+in the same meta-analysis.
+Dealing with missing data
+We sought trials registry entries and trial protocols to help us assess
+which trials measured each outcome. Where trials appeared to have
+collected – but did not report – data, we wrote to trial authors to ask
+for information. We wrote to authors of all trials that randomised
+at least 100 participants as well as to those of many smaller trials
+(although not to all due to limited resources), prioritising our eﬀorts
+on larger trials that would tend to provide more information to
+the review. For larger trials where we found no trials registry entry
+or protocol, we wrote to trial authors to ask whether they had
+collected information on any outcomes of interest that we had not
+yet located. Where it was clear that data existed but could not be
+located to use within the review, we noted this and assessed the
+potential eﬀect of this missing data on eﬀect sizes narratively.
+A recent meta-analysis of eﬀects of omega-3 fats on cardiovascular
+outcomes, Aung 2018, worked with 10 large RCTs in depth
+to formulate their outcome data to match precisely between
+trials. It is diﬀicult as a reviewer to access complex outcomes
+(such as 'cardiovascular events') where we need to count people
+experiencing events, rather than counting events - events are
+additive, but people experiencing events are not (a participant
+experiencing a stroke, non-fatal myocardial infarction and angina
+must be counted as only one person experiencing cardiovascular
+events, rather than three events). As the review had worked with
+trial authors to optimise their data, we used data from this review
+to both fill in missing data (some data had not been previously
+published) and also to update our data where the data in Aung 2018
+diﬀered from previously reported data for any outcome. The trials
+that this applies to, those included in Aung 2018, were AlphaOmega
+- ALA 2010; AlphaOmega - EPA+DHA 2010; AREDS2 2014; DO IT 2010;
+GISSI-HF 2008; GISSI-P 1999; JELIS 2007; OMEGA 2009; ORIGIN 2012;
+Risk & Prevention 2013; SU.FOL.OM3 2010.
+Assessment of heterogeneity
+We assessed heterogeneity using the I2 test and assumed it to be
+important when I2 test value was more than 60% (Higgins 2003).
+Assessment of reporting biases
+We used funnel plots to assess for evidence of bias for primary
+outcomes where at least 10 trials contributed to the meta-analysis
+(Egger 1997). We also compared eﬀects from random-eﬀects and
+fixed-eﬀect meta-analyses to understand whether small study
+eﬀects may be important (Page 2019), alongside reporting known
+missing data (above).
+Data synthesis
+Primary measures of interest were eﬀects of dietary advice or
+supplementation of fish-based (LCn3) fats, and ALAs, on primary
+outcomes. We separated out eﬀects of LCn3 and ALA in all analyses
+and thus present two separate sets of results: one for LCn3 and one
+for ALA.
+We combined treatment/control diﬀerences in the outcomes across
+trials using risk ratios (RR) or mean diﬀerences (MD) in random-
+eﬀects meta-analysis. For combined outcomes (e.g. combined
+cardiovascular events), we made attempts to add numbers of
+individuals experiencing specific outcomes within trials, but only
+where we were certain that we were not counting individual
+participants more than once within any one of our review outcome
+categories. However, individuals may have been counted for more
+than one of the review outcomes (in separate forest plots).
+Subgroup analysis and investigation of heterogeneity
+We explored the eﬀects of LCn3 and ALA separately on all primary
+review outcomes and also on key review outcomes where these
+were secondary outcomes in our review and included at least six
+trials by subgrouping. The planned subgroup analyses were as
+follows.
+•
+Type of intervention: dietary advice, supplemental foods (for
+example margarine fortified with rapeseed, tins of sardines
+or oils to use in cooking) provided by the trial, supplements
+(capsules or oils) provided to take as medicine or any
+combination
+•
+Replacement of saturated fatty acids, mono-unsaturated fatty
+acids (MUFA), omega-6 fats, fat mixture, carbohydrates or
+sugars, non-fat or no placebo, or unclear, with LCn3 or ALA
+•
+Primary 
+prevention 
+versus 
+secondary 
+prevention 
+of
+cardiovascular disease (where trials that recruited participants
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+for cardiovascular disease at baseline were considered
+secondary prevention trials, and trials that did not recruit on
+the basis of cardiovascular disease, so may include some or no
+people with existing cardiovascular disease, were considered
+primary prevention trials)
+•
+LCn3 dose: at least 150 mg/d, 250 mg/d, 400 mg/d from
+all sources including supplements (above or below each
+threshold); low dose 0.4 g/d to 2.4 g/d, medium dose 2.5 g/d to
+4.4 g/d, and high dose ≥ 4.5 g/d of combined LCn3 fats;
+•
+ALA dose: higher versus lower levels of intake (≥ 5 g/d versus <
+5 g/d);
+•
+Trial duration: trials with medium follow-up (12 to 23 months),
+medium follow-up (24 to 47 months) and long follow-up (≥ 48
+months)
+•
+Statin use (< 50% of control group on statins, ≥ 50% of control
+group on statins, use of statins unclear)
+•
+Baseline LCn3 intake, and baseline ALA intake
+There were insuﬀicient data on baseline omega-3 or ALA intake (or
+intake in control groups, which could have been used as a proxy) to
+subgroup by baseline omega-3 or ALA intake.
+Post-hoc, WHO NUGAG asked us to assess whether eﬀects of
+omega-3 fats diﬀered by baseline triglyceride or diabetes status. We
+carried out post-hoc subgroups on primary outcomes whenever the
+other subgroups were created, including the following.
+•
+Triglyceride status: raised triglycerides at baseline (inclusion
+criteria relate to triglycerides and mean triglycerides in control
+group at baseline were > 200 mg/dL or > 2.26 mmol/L) versus
+normal triglycerides (triglycerides did not relate to inclusion
+criteria, or mean triglycerides in control group at baseline was <
+200 mg/dL or < 2.26 mmol/L)
+•
+Diabetes status: diabetic at baseline (at least half of participants
+had diabetes) versus diabetes risk factors at baseline (insulin
+resistance, non-alcoholic fatty liver disease, non-alcoholic
+steatohepatitis or obesity) versus inclusion criteria that did not
+relate to diabetic status.
+Meta-regression
+We used meta-regression to further explore eﬀects of LCn3 dose,
+ALA dose, omega-6 dose, total PUFA dose (looking for evidence
+of dose response for each), trial duration, primary or secondary
+prevention, food or capsule intervention (food included dietary
+advice and supplemental foods), and risk of bias (summary risk of
+bias low or moderate to high) on primary outcomes. We performed
+random-eﬀects meta-regression using the STATA 16 command
+meta regress (Berkley 1995; Sharp 1998): log(e) risk ratio versus
+(dose or primary/secondary prevention or type of intervention or
+risk of bias or duration), weighted by the standard error of the log(e)
+risk ratio. Where there were no events in one arm, we added 0.1 to
+the numbers for both groups (so a trial with 10 people experiencing
+stroke in one arm but none in the other arm would be entered
+as 10.1 and 0.1). We analysed all included trials (of at least 12
+months' duration) that reported each outcome from this review
+and its sister reviews (omega-3 trials from this review, omega-6
+trials from Hooper 2018, and total PUFA trials from Abdelhamid
+2018b). We carried out meta-regression of each variable singly,
+then a multivariate meta-regression of the three variables with
+lowest P values in single regression for each outcome. Given that
+we generally included data from fewer than 40 trials and there were
+some missing data for some trials, we did not run meta-regressions
+with more than three variables at one time.
+Sensitivity analysis
+We carried out sensitivity analyses on all primary outcomes
+(regardless of the number of included trials) and on key outcomes
+that were secondary outcomes in this review.
+We used sensitivity analyses to assess robustness of results to:
+•
+trial quality (removing trials at moderate or high summary risk
+of bias);
+•
+trial size (retaining only trials that randomised at least 100
+participants across all trial arms);
+•
+fixed-eﬀect analysis; and
+•
+compliance (retaining only trials where we assessed compliance
+as conferring low risk of bias).
+We tabulated the type and frequency of side eﬀects and adverse
+eﬀects (with the other extracted data on adverse eﬀects) and
+compared between diﬀerent trials and designs.
+'Summary of findings' tables
+We interpreted outcome data as follows.
+1. Is there an eﬀect? (options were ‘increased risk’, ‘decreased
+risk’, or ‘little or no eﬀect’). Our main outcome measure was
+RR so we decided on existence of an eﬀect using RR. RR more
+than 8% (RR < 0.92 or > 1.08) for the highest-certainty evidence
+suggested increased or decreased risk (otherwise little or no
+eﬀect). The presence or not of an eﬀect was decided on the
+RR for the main analysis and sensitivity analyses, the highest-
+certainty evidence (the main analysis, the sensitivity analyses of
+trials at low summary risk of bias and at low risk of compliance
+problems).
+2. For continuous outcomes, we considered increasing ALA or LCn3
+to have little or no eﬀect unless eﬀect sizes represented at
+least 5% change from baseline (or 2% in the case of cumulative
+outcomes such as adiposity).
+3. We assessed certainty of evidence using GRADE assessment
+(GRADE Working Group 2004), for key outcomes. We used the
+five GRADE considerations (risk of bias, consistency of eﬀect,
+imprecision, indirectness and publication bias) to assess the
+certainty of the body of evidence as it related to the trials
+that contributed data to the meta-analyses for the prespecified
+outcomes. We used methods and recommendations described
+in Section 8.5 (Higgins 2017), and Chapter 11 (Schünemann
+2017), of the Cochrane Handbook for Systematic Reviews of
+Interventions, plus GRADEpro GDT sofware (GRADEpro GDT). We
+justified all decisions to downgrade the certainty of trials using
+footnotes and made comments to aid readers' understanding of
+the review.
+4. Where there was a suggested eﬀect, we assessed the size of
+eﬀect using the number needed to treat for an additional
+beneficial outcome (NNTB), number needed to treat for an
+additional harmful outcome (NNTH) or absolute risk reduction
+(ARR).
+We included three 'Summary of findings' tables: for eﬀects of
+LCn3 on primary outcomes (Summary of findings for the main
+comparison), eﬀects of ALA on primary outcomes (Summary of
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 36]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+findings 2), and for key outcomes that were not included in the
+review primary outcomes (measures of adiposity and serum lipids,
+Summary of findings 3).
+R E S U L T S
+Description of studies
+Results of the search
+During the 2019 update, we assessed a further 2419 publications
+for inclusion and included another seven trials (Figure 1). We
+found that six previously ongoing trials had published relevant
+results (Broutset 2007; DREAM Asbell 2018; ENRGISE 2018; ASCEND
+2018; REDUCE-IT 2019; VITAL 2019), so we included them in
+the review, and we included a further trial (not previously
+ongoing, HEARTS 2017). We assessed 29 registry entries from
+ClinicalTrials.gov and 88 entries from WHO ICTRP, of which seven
+were newly included as ongoing trials (NCT03806426; EVAPORATE
+2016; MTG 2018; NCT03784963; LO-MAPT 2018; POSEIDON 2018;
+ACTRN12618000761268 2018), and one is awaiting assessment, as
+it appears to fulfil all inclusion criteria, except that trial duration
+is unclear (IRCT20100123003140N21). VITAL 2019 had a number
+of substudies registered with diﬀerent trial registration numbers,
+which we included as part of the included VITAL 2019 trial (noted
+in the Characteristics of included studies), even though most are
+ongoing. This provided 86 RCTs (over 421 documents) included in
+this review.
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram
+ 
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   (Continued)
+ 
+Of these 86 RCTs, we included 83 in meta-analyses. Three trials
+clearly collected relevant data but did not report them in a format
+that we could use in meta-analyses (Gill 2012; Ramirez-Ramirez
+2013; Reed 2014; Figure 1).
+Using the data provided in Aung 2018, we updated the data for
+10 trials already included in this review (AlphaOmega - ALA 2010;
+AlphaOmega - EPA+DHA 2010; AREDS2 2014; DO IT 2010; GISSI-HF
+2008; GISSI-P 1999; JELIS 2007; OMEGA 2009; ORIGIN 2012; Risk &
+Prevention 2013; SU.FOL.OM3 2010). This has allowed us to include
+additional outcomes for some trials, and use updated numbers for
+others.
+Included studies
+The 86 included RCTs randomised 162,796 participants, adding 31%
+to the number of participants with this update (we included 112,059
+participants in the previous version of this review, Abdelhamid
+2018a). Fifeen trials (16 comparisons) randomised at least 1000
+participants (AlphaOmega - ALA 2010; AlphaOmega - EPA+DHA
+2010; ASCEND 2018; AREDS2 2014; DART 1989; DART2 2003; GISSI-
+HF 2008; GISSI-P 1999; JELIS 2007; Norwegian 1968; OMEGA 2009;
+ORIGIN 2012; REDUCE-IT 2019; Risk & Prevention 2013; SU.FOL.OM3
+2010; VITAL 2019), of which one was a 2x2 factorial trial, which
+included both interventions (AlphaOmega - ALA 2010; AlphaOmega
+- EPA+DHA 2010). Most of these larger trials assessed eﬀects of LCn3
+fats, but two trials/arms assessed eﬀects of ALA (AlphaOmega - ALA
+2010; Norwegian 1968).
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Participants had cardiovascular disease at baseline in 35 of the
+trials (secondary prevention), and the remaining 50 trials were of
+primary prevention, while one was mixed (REDUCE-IT 2019).
+Most trials assessed eﬀects of LCn3 fats.
+•
+Sixty-nine trials increased LCn3 intake using supplementary
+capsules or medicinal oils (ADCS 2010; AFFORD 2013; Ahn 2016;
+AREDS2 2014; ASCEND 2018; Baldassarre 2006; Bates 1989;
+Berson 2004; Brox 2001; Caldwell 2011; Derosa 2016; Deslypere
+1992; Doi 2014; DO IT 2010; DREAM Asbell 2018; ENRGISE 2018;
+EPE-A 2014 (as two diﬀerent doses); EPIC-1 2008; EPIC-2 2008;
+EPOCH 2014; Erdogan 2007; FAAT 2005; FORWARD 2013; Franzen
+1993; Gill 2012; GISSI-HF 2008; GISSI-P 1999; HARP 1995; HEARTS
+2017; JELIS 2007; Kumar 2012; Kumar 2013; Lorenz-Meyer 1996;
+MAPT 2017; MARINA 2011; Mita 2007; NAT2 2013; Nodari 2011
+AF; Nodari 2011 HF; Norouzi 2014; Nutristroke 2009; Nye 1990;
+OFAMI 2001; OMEGA 2009; OPAL 2010; ORIGIN 2012; ORL 2013;
+Özaydin 2011; Proudman 2015; Puri 2005; Raitt 2005; Ramirez-
+Ramirez 2013; REDUCE-IT 2019; Reed 2014; Risk & Prevention
+2013; Rossing 1996; Sandhu 2016; SCIMO 1999; seAFOod Hull
+2018; Shinto 2014; SHOT 1996; Sianni 2013; SOFA 2006; Sofi 2010;
+SU.FOL.OM3 2010; Tande 2016; VITAL 2019; WELCOME 2015;
+Zhang 2017).
+•
+Two trials used supplemented or supplemental foods, either
+enriched margarine (AlphaOmega - EPA+DHA 2010) or orange
+juice (FOSTAR 2016) to increase LCn3.
+•
+Four increased LCn3 fats using dietary advice (DART 1989; DART2
+2003; DISAF 2003; THIS DIET 2008).
+•
+Three provided some combination of these interventions to
+increase LCn3 (DIPP 2015; SMART 2013; Weinstock-Guttman
+2005).
+Doses of LCn3 ranged from 0.5 g/d of EPA and DHA to more than 5
+g/d (19 RCTs had a dose of LCn3 < 1 g/d, 27 a dose of 1 to < 2 g/d,
+12 of 2 to < 3 g/d, 19 RCTs had a dose of 3 or more g/d LCn3, 1 did
+not clearly state their dose).
+Fewer trials assessed the eﬀects of ALA on health outcomes.
+•
+One trial used supplementary capsules or medicinal oils to
+increase ALA (Norwegian 1968).
+•
+Seven increased ALA using supplemented or supplemental
+foods, such as enriched margarine, bread, walnuts or other
+enriched food products (AlphaOmega - ALA 2010; Broutset 2007;
+Dodin 2005; FLAX-PAD 2013; HERO 2009; MARGARIN 2002; WAHA
+2016).
+•
+One used a combination of these to increase ALA (MENU 2016).
+One trial provided an intervention combining LCn3 and ALA as
+capsules (DIPP 2015). However, trial authors did not state the ALA
+dose, so we treated the trial as an LCn3 intervention.
+Control groups received olive, corn, sunflower oils, other types
+of fats (including medium-chain triglycerides and fat replicating
+the composition of an average European diet), other 'inert'
+or ill-defined substances (liquid paraﬀin, aluminium hydroxide,
+'placebo' not described), diﬀerent dietary advice or foods without
+the omega-3 enrichment, or no treatment/no placebo. These
+control groups or replacements are shown for each key outcome
+when subgrouping by replacement (for example Analysis 1.6 shows
+eﬀects of increasing LCn3 on all-cause mortality, grouped by
+replacement).
+The main trial outcome was cardiovascular in 51 trials. Twenty-one
+trials (22 comparisons) aimed to measure death or cardiovascular
+events (AlphaOmega - ALA 2010; AlphaOmega - EPA+DHA 2010;
+ASCEND 2018; DART 1989; DART2 2003; Doi 2014; FAAT 2005; FLAX-
+PAD 2013; GISSI-HF 2008; GISSI-P 1999; JELIS 2007; Norwegian
+1968; Nye 1990; OFAMI 2001; OMEGA 2009; ORIGIN 2012; REDUCE-IT
+2019; Risk & Prevention 2013; SOFA 2006; SU.FOL.OM3 2010; THIS
+DIET 2008; VITAL 2019).
+Thirty-two trials aimed to measure various cardiovascular risk
+factors or progression of cardiovascular health.
+•
+Atrial fibrillation recurrence or sinus rhythm (AFFORD 2013;
+Broutset 2007; DISAF 2003; Erdogan 2007; FAAT 2005; FORWARD
+2013; Kumar 2012; Kumar 2013; Nodari 2011 AF; Özaydin 2011;
+Raitt 2005; Sianni 2013)
+•
+Atherosclerosis progression/regression (Ahn 2016; DO IT 2010;
+HARP 1995; HEARTS 2017; SCIMO 1999)
+•
+Lef ventricular function (Nodari 2011 HF)
+•
+Coronary artery bypass graf patency (SHOT 1996)
+•
+Lipids and other cardiovascular disease risk factors (Brox 2001;
+Deslypere 1992; Franzen 1993; MARGARIN 2002)
+•
+Diabetes, insulin or glucose-based outcomes (Derosa 2016;
+Rossing 1996)
+•
+Endothelial function or carotid intima-media thickness
+(Baldassarre 2006; Gill 2012; MARINA 2011; Mita 2007)
+•
+Body weight and adiposity (HERO 2009; MENU 2016; SMART
+2013)
+Thirty-five RCTs assessed eﬀects on other health states.
+•
+Cognitive measures (ADCS 2010; EPOCH 2014; MAPT 2017; OPAL
+2010; Shinto 2014; WAHA 2016; Zhang 2017)
+•
+Eye health (AREDS2 2014; Berson 2004; DREAM Asbell 2018; NAT2
+2013)
+•
+Multiple sclerosis outcomes (Bates 1989; Weinstock-Guttman
+2005)
+•
+Cancer or pre-cancer outcomes (DIPP 2015; seAFOod Hull 2018;
+VITAL 2019)
+•
+Bone health (Dodin 2005)
+•
+Liver health (Caldwell 2011; EPE-A 2014; Sofi 2010; WELCOME
+2015)
+•
+Gastrointestinal health (Crohn's; EPIC-1 2008; EPIC-2 2008;
+Lorenz-Meyer 1996)
+•
+Arthritis outcomes (FOSTAR 2016; Proudman 2015; Reed 2014)
+•
+Functional status (ENRGISE 2018; Nutristroke 2009)
+•
+Neurological function afer spinal injury or in Huntington's
+disease (Norouzi 2014; Puri 2005)
+•
+Safety outcomes and adverse events (ORL 2013; Tande 2016)
+•
+Breast health (Sandhu 2016)
+•
+Inflammatory markers (Ramirez-Ramirez 2013 plus ENRGISE
+2018)
+Most trials took place in high-income economies (World Bank
+2018), but four were in upper-middle-income countries: Argentina
+(FORWARD 2013), Iran (Norouzi 2014), Turkey (Özaydin 2011), and
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 40]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+China (Zhang 2017). No trials took place exclusively in low- or low-
+to middle-income countries. REDUCE-IT 2019 was a multi-centre
+trial that randomised participants in the USA, Netherlands, Ukraine,
+Russia, South Africa, Poland, India, Romania, Australia and New
+Zealand.
+We identified a further 25 ongoing trials, which we describe in
+the table of Characteristics of ongoing studies. At the time of
+writing this review, all of these trials appear unpublished, and some
+were recruiting or delivering interventions or had recently been
+completed, and trial authors were presumably analysing data and
+writing up results. Others appear overdue for publication, and their
+status is unclear – they may constitute missing data.
+Excluded studies
+We read the full texts of over 1000 papers, so the full list of excluded
+trials is too extensive to add to this review. The main reason for
+exclusion of full-text papers was duration of less than 12 months
+(this was ofen unclear in abstracts, so we collected full-text papers
+to check).
+We initially included several trials into our wider data set that we
+later excluded (Singh 1992; Singh 1997; Singh 1997; Singh 2002).
+Their exclusion was due to expressions of concern published by
+the BMJ and The Lancet (BMJ 2005; Horton 2005; White 2005).
+These expressions of concern followed extensive examination of
+the conduct, results and publication of these trials and questioned
+the veracity of data behind several trials published by RB Singh.
+Another trial that would otherwise have been included was
+retracted and so not included (Matsuyama 2005).
+Risk of bias in included studies
+We assessed summary risk of bias as low in 28 RCTs (29
+comparisons: ADCS 2010; AlphaOmega - ALA 2010; AlphaOmega -
+EPA+DHA 2010; AREDS2 2014; ASCEND 2018; Berson 2004; Caldwell
+2011; Derosa 2016; DREAM Asbell 2018; EPOCH 2014; FLAX-PAD
+2013; FORWARD 2013; FOSTAR 2016; Lorenz-Meyer 1996; MAPT
+2017; MARGARIN 2002; MARINA 2011; NAT2 2013; OMEGA 2009;
+OPAL 2010; ORIGIN 2012; Proudman 2015; Puri 2005; Reed 2014;
+SCIMO 1999; SOFA 2006; SU.FOL.OM3 2010; VITAL 2019; WELCOME
+2015), and we deemed it to be moderate to high in the remainder.
+Our definition of low summary risk of bias is in the section
+Assessment of risk of bias in included studies. Figure 2 itemises risk
+of bias by domain and trial.
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 41]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   'Risk of bias' summary: review authors' judgements about each 'Risk of bias' item for each included study
+ 
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 42]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   (Continued)
+ 
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 43]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   (Continued)
+ 
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 44]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   (Continued)
+ 
+Allocation
+Of the 86 RCTs (87 RCT arms as AlphaOmega - ALA 2010 and
+AlphaOmega - EPA+DHA 2010 which include the same participants
+are represented twice) described in the 'Risk of bias' summary
+(Figure 2), 69 trials (70 arms) described randomisation well enough
+to merit an assessment of low risk (the remainder were unclear),
+and 49 trials (50 arms) described adequate allocation concealment
+(the remaining 37 were unclear).
+Blinding
+We considered blinding of participants and personnel to be at low
+risk of bias in 42 of the 86 trials (43 arms). Lack of blinding of
+participants put 24 trials at high risk of bias, while the remaining
+20 trials were at unclear risk. Blinding of outcome assessors put 57
+trials (58 arms) at low risk of detection bias and at seven at high risk;
+this aspect was unclear in the remainder. We found that 37 trials (38
+arms) were at low risk of both performance and detection bias.
+Incomplete outcome data
+We found that 57 trials (58 arms) were at low risk of attrition bias,
+17 at high risk, and the remaining 12 at unclear risk.
+Selective reporting
+We determined that 22 trials had a pre-published trials registry
+entry or protocol and reported all planned outcomes appropriately
+so we considered them at low risk of selective reporting. Twenty-
+five trials (26 arms) were at high risk of selective reporting, omitting
+reports on either pre-stated outcomes or time points. We judged
+the remaining 39 trials to be at unclear risk of reporting bias as we
+could not find any protocol or prospective trial registry entry (ofen
+trials were published prior to trial registration availability).
+Other potential sources of bias
+We assessed risk of bias due to lack of compliance and attention
+bias and also noted other sources of bias. We found four trials to be
+at high risk of compliance bias (FAAT 2005; HERO 2009; Proudman
+2015; SMART 2013), while 37 trials (38 arms) provided evidence
+of good compliance, and the remaining 45 trials were unclear. We
+noted a high risk of attention bias in three trials where intervention
+participants potentially had more dedicated time for dietary advice
+or follow-up (DART 1989; DART2 2003; MARGARIN 2002). Eleven
+trials did not provide enough details to assess so we considered
+them to be at unclear risk of attention bias (Ahn 2016; Broutset
+2007; Erdogan 2007; Gill 2012; HEARTS 2017; Kumar 2012; Kumar
+2013; Risk & Prevention 2013; Sianni 2013; SMART 2013; WAHA
+2016), while we thought the remaining 72 trials (73 arms) were at
+low risk of attention bias. We judged four trials to be at high risk of
+other potential biases: Ahn 2016 because it is unclear whether it was
+placebo-controlled, and there was concern over reported standard
+deviations; DISAF 2003 because the trial stopped early; Kumar 2013
+due to concerns over design; and REDUCE-IT 2019 because some
+data were presented for opposite arms in diﬀerent publications.
+Four trials were at unclear risk due to insuﬀicient methodological
+detail being provided (Broutset 2007; Gill 2012; Sianni 2013; Zhang
+2017).
+Eﬀects of interventions
+See: Summary of findings for the main comparison High
+versus low long-chain omega-3 fats for preventing cardiovascular
+disease and mortality (primary outcomes); Summary of findings
+2 High versus low alpha-linolenic acid omega-3 fats for preventing
+cardiovascular disease (primary outcomes); Summary of findings
+3 High versus low omega-3 fats for modification of cardiovascular
+disease risk factors (adiposity and lipids): key outcomes
+Primary outcomes
+See Summary of findings for the main comparison for a GRADE
+summary of our evidence on eﬀects of long-chain omega-3 (LCn3)
+fats (including eicosapentaenoic acid (EPA), docosahexaenoic acid
+(DHA) and docosapentaenoic acid (DPA)) on our primary outcomes.
+Eﬀects of long-chain omega-3 fats on primary health outcomes
+All-cause mortality (LCn3)
+High-certainty evidence showed little or no eﬀect of LCn3 on all-
+cause mortality.
+There was little or no eﬀect of increasing LCn3 fats on all-cause
+mortality, despite 11,297 deaths in more than 143,000 participants
+(RR 0.97, 95% CI 0.93 to 1.01; I2 = 5%; Analysis 1.1). The funnel plot
+suggested that some small trials with higher numbers of deaths
+in the intervention group might be missing (Figure 3), indicating
+small study bias, though there was almost no diﬀerence between
+random-eﬀects and fixed-eﬀect analysis. If any such missing trials
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 45]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+were added back in the RR would rise slightly (towards the null
+value of 1.0).
+ 
+Figure 3.   Funnel plot of comparison 1. High versus low long-chain omega-3 fats (primary outcomes), outcome 1.3,
+all-cause mortality, sensitivity analysis by summary risk of bias
+ 
+Sensitivity analyses using fixed-eﬀect meta-analysis did not alter
+the lack of eﬀect on all-cause mortality (RR 0.97, 95% CI 0.93 to 1.00;
+Analysis 1.2). Removing RCTs not at low summary risk of bias lef
+us with 19 RCTs involving over 75,000 participants, 5579 of whom
+died, suggesting no eﬀect of LCn3 on mortality (RR 0.99, 95% CI 0.95
+to 1.04; I2 = 0%; Analysis 1.3). This lack of eﬀect was also evident in
+sensitivity analyses limited to trials at low risk of compliance bias
+and to larger trials (Analysis 1.4).
+The lack of eﬀect for LCn3 on mortality did not diﬀer by replacement
+with MUFA, omega-6 fats or other types of placebo compounds
+(Analysis 1.6). There was no suggestion of any dose eﬀect for
+LCn3 fats on mortality (Analysis 1.5), and subgroups with RRs
+further away from 1.00 had wide 95% confidence intervals. The
+lack of eﬀect did not diﬀer by primary versus secondary prevention
+(Analysis 1.9), statin use (Analysis 1.10), mode of intervention
+(dietary advice, supplemental foods, or capsules, Analysis 1.7),
+baseline triglycerides (Analysis 1.11) or baseline diabetic status
+(Analysis 1.12). While there was some suggestion of a small risk
+reduction in total mortality with LCn3 in trials with medium to
+long duration (2 to < 4 years, RR 0.91, 95% CI 0.86 to 0.96) and
+this subgroup was clearly diﬀerent from other durations (test for
+subgroup diﬀerences P = 0.03), the eﬀect was not evident in shorter
+(1 to < 2 years) or longer trials (≥ 4 years, RR 1.00, 95% CI 0.96 to 1.05).
+Because of the lack of eﬀect in longer trials, we did not assume any
+duration eﬀects (Analysis 1.8).
+As there was no suggestion of any eﬀect of LCn3 fats on all-cause
+mortality, we did not carry out meta-regression.
+GRADE assessment suggested that the finding of little or no eﬀect
+of LCn3 on all-cause mortality was supported by high-certainty
+evidence (not downgraded, Summary of findings for the main
+comparison).
+Cardiovascular disease mortality (LCn3)
+Moderate-certainty evidence suggests that LCn3 fat intake probably
+makes little or no diﬀerence to cardiovascular deaths.
+Twenty-nine trials in 117,837 participants, 5658 of whom died of
+cardiovascular disease, reported on cardiovascular mortality (RR
+0.92, 95% CI 0.86 to 0.99; I2 = 22%; Analysis 1.13). The funnel
+plot suggested that some smaller trials with more cardiovascular
+deaths in the intervention group were missing (some small study
+bias, Figure 4). If this were the case then adding the missing trials
+would increase the RR slightly towards the null (no eﬀect). This was
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 46]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+supported by the fixed-eﬀect meta-analysis eﬀect being closer to
+the null than the random-eﬀects model.
+ 
+Figure 4.   Funnel plot of comparison 1. High vs low long-chain omega-3 fats (primary outcomes), outcome 1.15,
+cardiovascular disease mortality, sensitivity analysis by summary risk of bias
+ 
+Fixed-eﬀect meta-analysis suggested little or no eﬀect on
+cardiovascular disease mortality risk (RR 0.93, 95% CI 0.88 to
+0.97; Analysis 1.14). Sensitivity analyses removing RCTs not at
+low summary risk of bias lef 12 RCTs in 71,019 participants,
+2266 of whom died, also suggesting little or no eﬀect of LCn3 on
+cardiovascular disease mortality (RR 0.95, 95% CI 0.88 to 1.03; I2 =
+0%; Analysis 1.15). Removing trials not at low risk of compliance
+bias and retaining only larger trials produced similar eﬀects to the
+main analysis (Analysis 1.16).
+There were no statistically significant diﬀerences between
+subgroups and no diﬀerential eﬀects by replacement (Analysis
+1.18), mode of intervention (Analysis 1.19), duration (Analysis
+1.20), primary or secondary prevention (Analysis 1.21), statin use
+(Analysis 1.22), omega-3 dose (Analysis 1.17), baseline triglyceride
+level (Analysis 1.23) or diabetes status (Analysis 1.24). There was no
+suggestion of a dose-response eﬀect.
+Meta-regression to assess eﬀects of LCn3 dose, ALA, omega-6
+and total PUFA dose, trial duration, intervention type, primary or
+secondary prevention and risk of bias (as well as a single multiple
+regression of the three factors with the smallest P values) showed
+no association between these factors and risk of cardiovascular
+mortality (all P values were > 0.2, Table 2). We saw no suggestion of
+dose-response or duration eﬀects.
+The suggestion of a marginally protective eﬀect disappeared in
+trials at low summary risk of bias, the funnel plot suggests that
+the true risk ratio is slightly higher than the main estimate, and
+there was no suggestion of dose or duration eﬀects; thus we
+summarised the evidence as showing little or no eﬀect of LCn3
+on cardiovascular disease mortality. GRADE assessment suggested
+moderate-certainty evidence that LCn3 fat intake probably makes
+little or no diﬀerence to cardiovascular deaths (downgraded once
+for imprecision).
+Combined cardiovascular events (LCn3)
+High-certainty evidence suggests that LCn3 intake makes little or no
+diﬀerence to risk of cardiovascular events.
+There was little or no eﬀect of increasing LCn3 fats on
+cardiovascular events (RR 0.96, 95% CI 0.92 to 1.01; I2 =
+44%; Analysis 1.25). Analyses included 17,619 participants with
+cardiovascular events in 140,482 participants in 43 trials. The funnel
+plot suggested that some smaller trials with more participants
+experiencing cardiovascular events in the intervention group were
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+
+[page 47]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+missing (some small study bias, not shown). If this were the case
+then adding the missing trials would increase the RR. However
+eﬀect sizes were the same in fixed-eﬀect and random-eﬀects
+analyses suggesting any bias is limited.
+Sensitivity analyses removing trials at moderate to high risk of
+bias lef 16 trials, including 73,000 participants, 7951 of whom had
+cardiovascular disease events, with no suggestion of any eﬀect of
+LCn3 fats (RR 0.98, 95% CI 0.95 to 1.02; I2 = 0%; Analysis 1.27).
+Sensitivity analyses including trials at low risk of compliance bias,
+at low risk of small study bias and using fixed-eﬀect meta-analysis
+did not suggest any eﬀect of LCn3 on cardiovascular disease events
+(Analysis 1.26; Analysis 1.28).
+In subgroup analysis there was no suggestion of a dose-response
+eﬀect (Analysis 1.29). Eﬀects did not diﬀer by replacement (Analysis
+1.30), baseline cardiovascular disease risk (Analysis 1.33), type of
+intervention (Analysis 1.31), statin use (Analysis 1.34), LCn3 dose
+(Analysis 1.29), trial duration (Analysis 1.32), baseline triglycerides
+(Analysis 1.35) or baseline diabetic status (Analysis 1.36), and there
+were no important diﬀerences between subgroups.
+Meta-regression suggested a negative relationship between LCn3
+dose and risk of cardiovascular disease events (P = 0.02), suggesting
+reduction in cardiovascular disease risk at higher LCn3 doses, as
+would be expected from a dose response. However, when the
+single outlying trial REDUCE-IT 2019 (with a large eﬀect size and
+high dose) was omitted, the P value was 0.997 suggesting no
+relationship between LCn3 dose and risk of cardiovascular disease
+events. The eﬀect was also moderated in the multiple regression
+(P = 0.07). Meta-regression did not suggest associations between
+ALA, omega-6 or total PUFA dose, trial duration, intervention type,
+primary or secondary prevention, risk of bias or the single multiple
+regression of the three factors with the smallest P values (Table 3).
+GRADE assessment suggested high-certainty evidence that LCn3
+intake makes little or no diﬀerence to risk of cardiovascular events
+(not downgraded).
+Coronary heart disease mortality (LCn3)
+Low-certainty evidence suggests that increasing LCn3 fat intake
+may slightly reduce coronary heart mortality (NNTB 334).
+Increasing LCn3 fats reduced the risk of coronary heart mortality by
+10% (RR 0.90, 95% CI 0.81 to 1.00; I2 = 35%) in 24 trials reporting
+3598 events in more than 127,000 participants (Analysis 1.37).
+Sensitivity analyses using a fixed-eﬀect model suggested little or no
+eﬀect on coronary heart disease mortality (RR 0.92, 95% CI 0.86 to
+0.98; Analysis 1.38).
+Retaining only RCTs at low summary risk of bias, meta-analysis
+of 10 trials with more than 70,000 participants and 1180 coronary
+heart disease deaths suggested that increasing LCn3 fats reduced
+coronary heart disease deaths (RR 0.89, 95% CI 0.76 to 1.04; I2
+= 22%; Analysis 1.39). Sensitivity analyses retaining only trials
+with low risk of compliance bias suggested a 17% reduction
+in risk with LCn3, retaining only larger trials suggested a 13%
+reduction (Analysis 1.40). The funnel plot suggested that some
+smaller trials with higher RRs were missing, and if added back
+these would increase the RR. The presence of such small study
+bias is supported by the reduction in eﬀect size in fixed-eﬀect
+compared to random-eﬀects meta-analysis (random-eﬀects meta-
+analysis weighs information from small trials more heavily).
+When we added this outcome we prespecified that we would
+use the first of the following list reported in any trial: coronary
+death, ischaemic heart disease death, fatal myocardial infarction
+and cardiac death. We used cardiac death only when no other
+outcomes in this category were available, and we ran a sensitivity
+analysis omitting cardiac death as it potentially includes other
+causes of death in addition to coronary heart disease, such
+as cardiomyopathies and congenital and valvular heart diseases
+(though numbers are likely to be small). Omitting cardiac death
+resulted in a 19% reduction in coronary heart disease deaths with
+LCn3 (RR 0.81, 95% CI 0.73 to 0.90, I2 = 0%, 18 trials including
+106,676 participants, Analysis 1.41).
+There were no statistically significant diﬀerences between
+subgroups for LCn3 dose (Analysis 1.42), type of intervention
+(Analysis 1.44), duration (Analysis 1.45), primary or secondary
+prevention (Analysis 1.46), statin use (Analysis 1.47), baseline
+coronary artery disease status (Analysis 1.48), replacement
+(Analysis 1.43), baseline triglycerides (Analysis 1.49) or diabetes
+status (Analysis 1.50).
+Meta-regression to assess associations between LCn3 dose and
+risk of coronary heart disease mortality found no relationship (P
+= 0.89, Table 4). Similarly we saw no relationships between ALA
+dose, omega-6 dose, total PUFA dose, duration, intervention type,
+primary or secondary prevention, or risk of bias and coronary
+heart disease deaths (all P values were > 0.40, Table 4). Multiple
+regression of the three factors with the smallest P value found no
+factors associated with risk of coronary heart disease deaths. We
+saw no suggestion of dose or duration eﬀects.
+The NNTB is 334 (95% CI 200 to infinity), so 334 people would
+need to increase their LCn3 intake to prevent one death from
+coronary heart disease. If we assess NNTB by primary or secondary
+prevention of cardiovascular disease, people without previous
+cardiovascular disease (needing primary prevention) have an NNTB
+of 1000 (95% CI NNTB 334 to NNTH 1000), while those with existing
+cardiovascular disease have an NNTB of 200 (95% CI NNTB 112 to
+NNTH 500).
+The suggestion of a small protective eﬀect was seen
+across sensitivity analyses, excepting fixed-eﬀect analysis. We
+summarised the evidence as indicating that increasing LCn3
+reduces coronary heart disease mortality. GRADE assessment
+suggested low-certainty evidence that LCn3 fat intake may slightly
+reduce coronary heart mortality (downgraded once for imprecision
+and once for publication bias).
+Coronary heart disease events (LCn3)
+Low-certainty evidence suggests that LCn3 fat intake may slightly
+reduce the risk of coronary heart events (NNTB 167).
+The main meta-analysis suggested a 9% reduction in people
+experiencing coronary heart disease events with higher intake of
+LCn3 fats (RR 0.91, 95% CI 0.85 to 0.97; I2 = 37%; 32 trials, 8777
+events, 134,116 participants; Analysis 1.51). The funnel plot did not
+suggest serious small study bias (Figure 5), but eﬀect sizes in fixed-
+eﬀect meta-analysis were slightly smaller.
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 48]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 5.   Funnel plot of comparison 1. High vs low long-chain omega-3 fats (primary outcomes), outcome 1.51,
+coronary heart disease events (overall)
+ 
+The size of any eﬀect was reduced in sensitivity analyses using a
+fixed-eﬀect model (RR 0.93, 95% CI 0.89 to 0.96; Analysis 1.52) and
+when we limited trials to those at low summary risk of bias (RR 0.93,
+95% CI 0.82 to 1.05, I2 = 38%, Analysis 1.53), but increased when
+analyses were limited to trials with good compliance and to larger
+trials (Analysis 1.54).
+There were no statistically significant diﬀerences between
+subgroups (Analysis 1.55; Analysis 1.56; Analysis 1.57; Analysis 1.58;
+Analysis 1.59; Analysis 1.60; Analysis 1.61; Analysis 1.63), except for
+subgrouping by baseline triglyceride, where the subgroup of trials
+with raised triglyceride suggested a greater reduction in coronary
+heart disease events (Analysis 1.62).
+Meta-regression suggested a negative relationship between LCn3
+dose and risk of coronary heart disease events (P = 0.02), suggesting
+reduction in coronary heart disease risk at higher LCn3 doses, as
+would be expected from a dose response. This was weakened in the
+single multiple regression of the three factors with the smallest P
+value (P = 0.06). When we omitted the single outlying trial REDUCE-
+IT 2019, meta-regression no longer suggested any relationship
+between LCn3 dose and risk of coronary heart disease events
+(P = 0.81). Meta-regression did not suggest associations between
+ALA, omega-6 or total PUFA dose, trial duration, intervention type,
+primary or secondary prevention, or risk of bias and risk of coronary
+heart disease events (Table 5).
+167 people would need to increase their LCn3 intake for one
+person to avoid a coronary heart disease event (NNTB 167, 95%
+CI 100 to 500). If we separate this out for people without existing
+cardiovascular disease the NNTB is 200 for primary prevention (95%
+CI NNTB 112 to NNTB infinity), and the NNTB is 143 for people
+with existing cardiovascular disease, secondary prevention, (95%
+CI NNTB 91 to NNTH 500).
+While there was a small protective eﬀect in the main analysis and
+some sensitivity analyses, but not in sensitivity analyses limiting
+to RCTs at low summary risk of bias or using fixed-eﬀect analysis,
+there was also a suggestion of a dose response. We summarised
+this as suggesting a true eﬀect of around 8%. GRADE assessment
+suggested low-certainty evidence that increasing LCn3 fat intake
+may slightly reduce risk of coronary heart events (downgraded
+twice for risk of bias).
+Stroke (LCn3)
+Moderate-certainty evidence suggests that LCn3 fat intake probably
+makes little or no diﬀerence to risk of experiencing a stroke.
+Increasing intake of LCn3 appears to have little eﬀect on risk of
+stroke (RR 1.02, 95% CI 0.94 to 1.12; I2 = 11%; 31 trials reported 2850
+strokes; Analysis 1.64), and the funnel plot did not suggest small
+study bias (not shown).
+Sensitivity analyses removing trials not at low summary risk of bias
+lef 14 trials with 1684 participants experiencing strokes, suggesting
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+
+[page 49]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+little or no eﬀect of LCn3 fats on stroke (RR 0.99, 95% CI 0.90 to
+1.09; I2 = 0%; Analysis 1.66). Using fixed-eﬀect meta-analysis and
+sensitivity analysis removing trials with risk from poor compliance
+and smaller trials all suggested no eﬀect of increased LCn3 (Analysis
+1.66; Analysis 1.68).
+When trials reported stroke type separately, the risk of
+haemorrhagic stroke was increased (RR 1.23, 95% CI 0.93 to 1.64;
+I2 = 0%; 197 participants with events), while ischaemic stroke was
+unaltered (RR 0.98, 95% CI 0.79 to 1.20; I2 = 47%; 985 people
+with events in 10 trials; Analysis 1.68). Six trials reported only 152
+participants experiencing transient ischaemic attack, suggesting
+a 10% increase in risk but with very wide confidence intervals
+(transient ischaemic attacks were not included in any other stroke
+categories; Analysis 1.68). Subgrouping did not suggest important
+diﬀerences by intervention type, replacement, statin use, trial
+duration, baseline triglycerides or diabetic status (Analysis 1.70;
+Analysis 1.71; Analysis 1.72; Analysis 1.74; Analysis 1.75; Analysis
+1.76). Subgrouping by dose suggested important diﬀerences in
+eﬀect at diﬀerent doses, but there was no pattern to these eﬀects
+so they were assumed to be spurious (Analysis 1.69). There was a
+suggestion of increased stroke risk in people with cardiovascular
+disease at baseline (RR 1.21, 95% CI 1.05 to 1.40; I2 = 0%;
+with diﬀerences in eﬀect size between subgroups by primary or
+secondary prevention, P = 0.002; Analysis 1.73).
+Meta-regression to assess eﬀects of LCn3 dose did not find any clear
+dose response on risk of stroke (P = 0.12, Table 6). Univariate meta-
+regression suggested that trials of longer duration showed smaller
+risk ratios (or lower risk, P = 0.03), and this eﬀect was retained in the
+multivariate regression (P = 0.03). There were no clear relationships
+between dose of any PUFA type, risk of bias, or use of food or
+capsules, and only trial duration remained statistically significant
+in multivariate meta-regression.
+Analyses consistently suggested little or no eﬀect of LCn3 on stroke
+risk, and there were no dose-response relationships, though there
+is a possible increase in risk of haemorrhagic stroke with increased
+LCn3. GRADE assessment suggests moderate-certainty evidence
+that LCn3 fat intake probably makes little or no diﬀerence to risk of
+experiencing a stroke (downgraded once for imprecision).
+Arrhythmia (LCn3)
+Low-certainty evidence suggests that LCn3 fat intake may slightly
+increase the risk of arrhythmia (NNTH 1000).
+There was little or no eﬀect of LCn3 fats on incidence of new or
+recurrent (fatal and non-fatal) arrhythmias (RR 0.99, 95% CI 0.92
+to 1.06; I2 = 44%; 4586 events in more than 77,000 participants;
+Analysis 1.77). The funnel plot was not interpretable as trials were
+clustered (not shown), but the eﬀect size moved above 1 in fixed-
+eﬀect meta-analysis, suggesting that some trials suggesting harm
+from increased LCn3 may be missing.
+Sensitivity analyses removing trials not at low summary risk of bias
+lef 12 trials with 1602 events (> 41,000 participants), suggesting
+a 9% increase in risk of arrhythmia with increased LCn3 (RR 1.09,
+95% CI 0.99 to 1.20, I2 = 0%, Analysis 1.79). Restricting the analysis
+to trials at low summary risk of bias removed heterogeneity, and
+there was a statistically significant diﬀerence in eﬀect size between
+subgroups at low versus moderate to high risk of bias (P = 0.04,
+Analysis 1.79). Using fixed-eﬀect methodology did not alter the
+apparent lack of eﬀect of LCn3 on arrhythmia (Analysis 1.78), and
+sensitivity analysis by compliance and trial size also suggested little
+or no eﬀect of LCn3 on arrhythmia (Analysis 1.80).
+Subgrouping by new or recurrent arrhythmias suggested
+diﬀerences between subgroups, with LCn3 increasing the risk of
+new arrhythmias and having little or no eﬀect on the risk of
+recurrent arrhythmia (Analysis 1.81). There were also statistically
+significant diﬀerences between subgroups by fatality, suggesting
+that LCn3 increases the risk of fatal arrhythmia, but protects
+against non-fatal arrhythmia (Analysis 1.82), primary or secondary
+prevention, suggesting harm in primary prevention, little or
+no eﬀect in secondary prevention (Analysis 1.87) and duration,
+suggesting little or no eﬀect in trials of up to four years' duration
+and harm in longer trials (Analysis 1.86). Subgroup analyses by
+type of intervention, replacement, statin use, dose and baseline
+triglyceride did not suggest statistically significant diﬀerences
+between subgroups (Analysis 1.83; Analysis 1.84; Analysis 1.85;
+Analysis 1.88; Analysis 1.89). Subgrouping by diabetes status
+suggested significant diﬀerences between subgroups, with little
+or no eﬀect of increasing LCn3 on arrhythmia for those recruited
+without specific diabetes risk factors, but increased risk of
+arrhythmia in those with diabetes risk factors and in those with
+diabetes at baseline (Analysis 1.90).
+Meta-regression suggested a positive relationship between trial
+duration and risk ratio, such that longer trials appeared to increase
+arrhythmia risk (P = 0.03; Table 7). This relationship was lost when
+we controlled for primary or secondary prevention and ALA dose
+(P = 0.42). There was also a relationship between arrhythmia with
+primary versus secondary prevention, suggesting greater risk ratio
+(harm) in primary prevention (P = 0.03; Table 7). There were no
+other suggested relationships, and neither of these relationships
+were maintained in multivariate analysis.
+Overall, the trials at lower risk of bias, and the longer trials,
+suggested slight harm from increasing LCn3. This suggests that
+there may be some harm associated with increasing LCn3 on
+arrhythmia risk, and fatal arrhythmia, particularly in the longer
+term and in primary prevention. One thousand people would
+need to increase their LCn3 intake for one additional person to
+experience arrhythmia (NNTH 1000, 95% CI 200 to −334). GRADE
+assessment suggested low-certainty evidence that LCn3 fat intake
+may slightly increase the risk of arrhythmia (downgraded once for
+risk of bias and once for imprecision).
+Eﬀects of alpha-linolenic acid (ALA) on primary health outcomes
+See Summary of findings 2 for a summary of our evidence on eﬀects
+of ALA on our primary outcomes.
+As there were fewer than 10 trials for all ALA analyses we did not
+create or assess funnel plots, though we did run sensitivity analyses
+and subgroups. We assessed ALA dose-response and duration
+eﬀects in meta-regression of all included LCn3, ALA, omega-6 and
+total PUFA trials (but not of ALA trials alone as there were too
+few trials to carry out meta-regression with any reliability). None
+of the trials that increased ALA intakes were in participants with
+raised baseline triglycerides, increased risk of diabetes or diabetes
+at baseline, so we did not subgroup by baseline triglycerides or
+diabetic status.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37
+
+[page 50]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All-cause mortality (ALA)
+Moderate-certainty evidence suggests that ALA intake probably
+makes little or no diﬀerence to all-cause mortality.
+There was little or no eﬀect of increasing ALA omega-3 fats on all-
+cause mortality, with 459 deaths in more than 19,000 participants
+involved in five trials (RR 1.01, 95% CI 0.84 to 1.20; I2 = 0%; Analysis
+4.1).
+Sensitivity analyses removing trials not at low summary risk of bias
+lef three trials with 375 deaths, again suggesting little or no eﬀect
+(RR 1.02, 95% CI 0.72 to 1.45; I2 = 3%; Analysis 4.3). Other sensitivity
+analyses all suggested little or no eﬀect (Analysis 4.2; Analysis 4.4).
+Subgrouping by ALA dose, trial duration, statin use, replacement,
+primary or secondary prevention, or intervention type did not
+result in any significant diﬀerences between subgroups (Analysis
+4.5; Analysis 4.6; Analysis 4.7; Analysis 4.8; Analysis 4.9; Analysis
+4.10). As there was no suggestion of eﬀect in any subgroup, we did
+not carry out meta-regression.
+GRADE assessment suggested that ALA intake probably makes
+little or no diﬀerence to all-cause mortality (moderate-certainty
+evidence, downgraded once for imprecision).
+Cardiovascular mortality (ALA)
+Moderate-certainty evidence suggests that increasing ALA intake
+probably has little or no eﬀect on cardiovascular mortality.
+Four trials contributed data to this outcome. There was little or no
+eﬀect of increasing ALA omega-3 fats on cardiovascular mortality
+(RR 0.96, 95% CI 0.74 to 1.25; I2 = 0%; Analysis 4.11), but confidence
+intervals were very wide. Analyses included 219 cardiovascular
+disease deaths in more than 18,000 participants. All sensitivity
+analyses suggested little or no eﬀect of increasing ALA (Analysis
+4.12; Analysis 4.13; Analysis 4.14).
+Subgrouping by ALA dose, trial duration, replacement, intervention
+type, statin use, or primary or secondary prevention did not suggest
+important diﬀerences between subgroups (Analysis 4.15; Analysis
+4.16; Analysis 4.17; Analysis 4.18; Analysis 4.19; Analysis 4.20). Meta-
+regression to assess for eﬀects of ALA dose on cardiovascular
+mortality did not suggest dose eﬀects (P = 0.88; Table 2).
+GRADE assessment suggested that increasing ALA intake probably
+has little or no eﬀect on cardiovascular mortality (moderate-
+certainty evidence, downgraded once for imprecision).
+Cardiovascular events (ALA)
+GRADE assessment suggested low-certainty evidence that
+increasing ALA intake may slightly reduce the risk of cardiovascular
+events (NNTB 500).
+There was little or no eﬀect on risk of cardiovascular events in five
+trials with increased ALA intake (RR 0.95, 95% CI 0.83 to 1.07; I2
+= 0%; 884 out of > 19,000 participants experienced at least one
+cardiovascular event; Analysis 4.21). Sensitivity analyses removing
+trials at moderate to high risk of bias lef three trials in which
+691 of more than 5000 enrolled participants experienced at least
+one cardiovascular event, suggesting a 9% reduction in risk of
+cardiovascular disease events with higher ALA (RR 0.91, 95% CI 0.79
+to 1.04; I2 = 0%; Analysis 4.23). Fixed-eﬀect analysis, and limiting to
+larger trials, suggested little or no eﬀect on cardiovascular disease
+event risk (Analysis 4.22; Analysis 4.24), while trials at low risk of
+compliance bias suggested a 10% reduction in risk (Analysis 4.24).
+Subgrouping by ALA dose, trial duration, replacement, intervention
+type, statin use, or primary or secondary prevention did not suggest
+significant diﬀerences between subgroups (Analysis 4.25; Analysis
+4.26; Analysis 4.27; Analysis 4.28; Analysis 4.29; Analysis 4.30). Meta-
+regression to assess for eﬀects of ALA dose on cardiovascular events
+did not suggest dose eﬀects (P = 0.67; Table 3).
+The NNTB was 500 (95% CI 125 to −334), so 500 people would need
+to increase their ALA intake to prevent one person experiencing a
+cardiovascular event. The NNTB for primary prevention was 500
+(95% CI 125 to −112), the NNTB for secondary prevention was 84
+(95% CI 35 to 143). GRADE assessment suggested that increasing
+ALA intake may reduce the risk of cardiovascular events by a small
+amount (low-certainty evidence, downgraded once for risk of bias
+and once for imprecision).
+Coronary heart disease mortality (ALA)
+GRADE assessment suggested that increasing ALA intake probably
+has little or no eﬀect on coronary heart disease mortality.
+Three trials reported 193 coronary heart disease deaths in more
+than 18,000 participants, suggesting little or no eﬀect on coronary
+heart disease mortality with increased ALA (RR 0.95, 95% CI 0.72
+to 1.26; I2 = 0%; Analysis 4.31). No sensitivity analyses suggested
+benefits or harms (Analysis 4.32; Analysis 4.33; Analysis 4.34).
+Subgrouping by ALA dose, trial duration, replacement, intervention
+type, statin use, primary or secondary prevention, or previous
+history of coronary artery disease did not suggest important
+diﬀerences between subgroups (Analysis 4.35; Analysis 4.36;
+Analysis 4.37; Analysis 4.38; Analysis 4.39; Analysis 4.40; Analysis
+4.41), and meta-regression did not suggest dose eﬀects (P = 0.94;
+Table 4).
+GRADE assessment suggested that increasing ALA intake probably
+has little or no eﬀect on coronary heart disease mortality
+(moderate-certainty evidence, downgraded once for imprecision).
+Coronary heart disease events (ALA)
+Low-certainty evidence suggests that ALA intake may make little or
+no diﬀerence to coronary heart disease events.
+Four trials contributed data to this outcome, with 397 of more
+than 19,000 participants experiencing at least one coronary heart
+disease event. There was little or no eﬀect on coronary heart
+disease risk with increased ALA (RR 1.00, 95% CI 0.82 to 1.22 I2 = 2%;
+Analysis 4.42). Sensitivity analyses using fixed-eﬀect meta-analysis
+did not alter the lack of eﬀect (RR 1.00, 95% CI 0.82 to 1.21; Analysis
+4.43). Removing trials not at low summary risk of bias lef two trials
+with almost 5000 participants, suggesting a 9% reduction in risk of a
+coronary heart disease event (RR 0.91, 95% CI 0.71 to 1.15; Analysis
+4.44), though little or no eﬀect was seen when restricting analysis
+to larger trials or those with better compliance (Analysis 4.45).
+Subgrouping by ALA dose, trial duration, replacement, intervention
+type, statin use, primary or secondary prevention, or previous
+history of coronary artery disease did not suggest important
+diﬀerences between subgroups (Analysis 4.46; Analysis 4.47;
+Analysis 4.48; Analysis 4.49; Analysis 4.50; Analysis 4.51; Analysis
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38
+
+[page 51]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+4.52). Meta-regression did not suggest a correlation between ALA
+dose and coronary heart disease events (P = 0.18; Table 5).
+Given the diﬀerences in sensitivity analyses, GRADE assessment
+suggested that ALA intake may make little or no diﬀerence
+to coronary heart disease events (low-certainty evidence,
+downgraded once for risk of bias and once for imprecision).
+Stroke (ALA)
+The eﬀect of ALA intake on stroke is unclear, as the evidence is of
+very low certainty.
+Five RCTs included more than 19,000 participants, of whom 51
+experienced a stroke, suggesting a 15% increase in stroke risk with
+increased ALA (RR 1.15, 95% CI 0.66 to 2.01; I2 = 0%; Analysis 4.53).
+Sensitivity analyses removing trials not at low summary risk of
+bias lef three trials with 27 stroke events and no suggestion of
+eﬀect (Analysis 4.55). Using a fixed-eﬀect model suggested a 23%
+increased risk of stroke (Analysis 4.54), while removing trials at high
+risk of bias due to compliance suggested a 15% reduction in stroke
+risk, larger trials suggested a 15% greater stroke risk (Analysis 4.56).
+Subgrouping by ALA dose, trial duration, replacement, intervention
+type, statin use, or primary or secondary prevention did not
+result in significant diﬀerences between subgroups (Analysis 4.57;
+Analysis 4.58; Analysis 4.59; Analysis 4.60; Analysis 4.61; Analysis
+4.62). When examining data reported by type of stroke, only three
+trials reported on 28 ischaemic strokes, with no clear eﬀects,
+and no trials reported haemorrhagic stroke (Analysis 4.63). Meta-
+regression did not suggest any relationship between ALA dose and
+risk of stroke (P = 0.73; Table 6).
+The eﬀect of ALA on stroke is unclear as the evidence is of very
+low certainty (downgraded twice for risk of bias and once for
+imprecision).
+Arrhythmia (ALA)
+Moderate-certainty evidence suggested that ALA intake probably
+slightly reduces the risk of arrhythmias (NNTB 91).
+Two trials reported eﬀects of ALA on arrhythmia, with 173
+arrhythmias in 4912 participants, suggesting a 27% reduction in
+arrhythmia but with wide confidence intervals (RR 0.73, 95% CI 0.55
+to 0.97, I2 = 0%, Analysis 4.64). All sensitivity analyses suggested
+that ALA reduced arrhythmia (Analysis 4.65; Analysis 4.66; Analysis
+4.67). There was no suggestion of a dose-response relationship
+between ALA and arrhythmia risk in meta-regression (P = 0.45; Table
+7).
+The NNTB was 91 (95% CI 56 to 1000) so 91 people would need
+to increase their ALA intake for one person to avoid experiencing
+arrhythmia. With only two trials it was not possible to estimate
+NNTB by primary or secondary prevention. GRADE assessment
+suggested that ALA intake probably slightly reduces the risk of
+arrhythmias (moderate-certainty evidence, downgraded once for
+imprecision).
+Secondary outcomes
+See Summary of findings 3 for a summary of our evidence on eﬀects
+of LCn3 fats and ALA on serum lipids and measures of adiposity.
+Eﬀects of long-chain omega-3 fats (EPA, DHA and DPA) on
+secondary health outcomes
+We did not carry out sensitivity analyses or subgrouping on
+secondary outcomes, except for adiposity and lipids, which were
+key outcomes. We did carry out some post hoc sensitivity
+analyses to further assess eﬀects of LCn3 on myocardial infarction,
+to ascertain whether the suggested protection was stable to
+sensitivity analyses.
+Major adverse cerebrovascular or cardiovascular events (LCn3)
+Five trials reported on major adverse cerebrovascular or
+cardiovascular events (MACCEs) in more than 34,000 participants,
+4232 of whom suﬀered from a MACCE, suggesting little or no eﬀect
+of LCn3 fats (RR 1.03, 95% CI 0.97 to 1.09; I2 = 0%; Analysis 2.1).
+Myocardial infarction (LCn3)
+Twenty-seven trials (> 133,000 participants) reported on total (fatal
+and non-fatal) myocardial infarction. Meta-analyses suggested that
+increasing LCn3 fats resulted in a reduction in total myocardial
+infarction (RR 0.88, 95% CI 0.81 to 0.96; I2 = 25%; 3992 people
+experiencing at least one myocardial infarction; Analysis 2.2). This
+was confirmed in fixed-eﬀect analysis (Analysis 2.3), sensitivity
+analyses limited to trials without compliance problems and to
+those that randomised at least 100 participants (Analysis 2.5), but
+analyses limited to trials at low summary risk of bias suggested little
+or no eﬀect of LCn3 on myocardial infarction (RR 0.93, 95% CI 0.83
+to 1.05; I2 = 20%; > 71,000 participants in 13 trials reporting on 1885
+people experiencing at least one myocardial infarction; Analysis
+2.4). This undermines a true protective eﬀect of LCn3 on myocardial
+infarction.
+We ran subgroup analyses by fatality at the request of the
+WHO NUGAG Subgroup on Diet and Health, finding no significant
+diﬀerence between fatal and non-fatal myocardial infarction
+subgroups (P = 0.20; Analysis 2.6).
+Sudden cardiac death (LCn3)
+There was little or no eﬀect of LCn3 fats on sudden cardiac death
+(RR 0.93, 95% CI 0.77 to 1.11; I2 = 41%; 1422 deaths, 14 trials in >
+73,000 people; Analysis 2.7).
+Angina (LCn3)
+Meta-analysis of 13 trials involving more than 48,000 participants,
+2829 of whom reported new or worsening angina, suggested little
+or no eﬀect of increasing LCn3 fats (RR 0.99, 95% CI 0.92 to 1.06; I2
+= 0%; Analysis 2.8).
+Heart failure (LCn3)
+Meta-analysis suggested little or no eﬀect of LCn3 fatty acids on
+heart failure diagnosis in 17 trials with 4651 people experiencing
+events (RR 0.94, 95% CI 0.87 to 1.02; I2 = 23%; Analysis 2.9).
+Sensitivity analysis limiting to the seven trials at low summary risk
+of bias also suggested little or no eﬀect (RR 0.97, 95% CI 0.89 to 1.05;
+I2 = 0%; 2017 participants experiencing heart failure). We concluded
+that there was little or no eﬀect of LCn3 on risk of heart failure.
+Revascularisation (LCn3)
+Meta-analysis suggested little or no eﬀect of LCn3 fats on
+revascularisation, all types combined (RR 0.93, 95% CI 0.86 to
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+39
+
+[page 52]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+1.00; I2 = 56%; 10,793 participants experiencing revascularisation;
+Analysis 2.10).
+Peripheral arterial disease (LCn3)
+Meta-analysis suggested that LCn3 had little or no eﬀect on risk of
+peripheral arterial disease (RR 0.95, 95% CI 0.76 to 1.18; I2 = 0%; 6
+trials, 325 events in > 57,000 participants; Analysis 2.11). Sensitivity
+analysis, limiting to trials at low summary risk of bias, suggested
+that increasing LCn3 increased the risk of peripheral arterial disease
+by 10% (Analysis 2.13), other sensitivity analyses all suggested little
+or no eﬀect (Analysis 2.12; Analysis 2.14). The data suggest that
+there is little or no eﬀect of LCn3 on risk of peripheral arterial
+disease.
+Acute coronary syndrome (LCn3)
+There were limited data on eﬀects of increasing LCn3 fats on acute
+coronary syndrome (RR 1.19, 95% CI 0.71 to 2.00; I2 = 0%; 2 trials, 55
+events in > 2000 participants; Analysis 2.15).
+Body weight, body mass index (BMI) and other measures of adiposity
+(LCn3)
+Body weight
+High-certainty evidence shows that increasing LCn3 intake makes
+little or no diﬀerence to body weight.
+Fourteen trials reported on the eﬀect of increasing LCn3 on body
+weight and were included in meta-analysis, suggesting little or no
+eﬀect in 17,000 participants (mean diﬀerence (MD) 0.00 kg, 95% CI
+−0.69 to 0.70; I2 = 42%; Analysis 2.16). Sensitivity analysis limited to
+trials at low summary risk of bias, low risk from compliance, larger
+trials or fixed-eﬀect analysis (not shown) did not alter this lack of
+eﬀect (Analysis 2.17; Analysis 2.18; Analysis 2.19).
+Subgroup analysis by intervention type, primary or secondary
+prevention, statin use and trial duration did not suggest important
+diﬀerences between subgroups (Analysis 2.22; Analysis 2.23;
+Analysis 2.24; Analysis 2.25). There was a marginally significant
+diﬀerence between dose subgroups (P = 0.05; Analysis 2.20) and
+increased body weight when participants received very high LCn3
+doses (> 4.4 g/d LCn3, MD 1.51 kg, 95% CI 0.28 to 2.75; I2 = 0%; 2
+trials, 261 participants; Analysis 2.20). Subgrouping by replacement
+suggested diﬀerences between subgroups (P = 0.001; Analysis 2.21),
+with reduced body weight when LCn3 replaced saturated fatty acids
+or carbohydrates but increased weight when LCn3 replaced nil or
+low LCn3 (Analysis 2.21).
+Several trials clearly measured body weight but did not report
+it in a useable way (Baldassarre 2006; Caldwell 2011; Deslypere
+1992; EPE-A 2014; MARINA 2011; Nutristroke 2009). Body weight
+is commonly measured in healthcare settings, so there may
+be considerably more missing data than this. The funnel plot
+was not easily interpretable but small diﬀerences in eﬀect size
+between fixed-eﬀect and random-eﬀects meta-analysis supports
+the possibility of a small amount of small study bias.
+GRADE oﬀers high-certainty evidence that LCn3 intake makes little
+or no diﬀerence to body weight (not downgraded).
+Body mass index (BMI)
+High-certainty evidence shows that LCn3 intake makes little or no
+diﬀerence to BMI.
+Fifeen trials, 13 of which we included in meta-analysis, reported
+on BMI, suggesting little or no eﬀect of LCn3 on BMI (MD 0.06
+kg/m2, 95% CI −0.14 to 0.25; I2 = 39%; > 15,000 participants;
+Analysis 2.26). This lack of eﬀect was also apparent in sensitivity
+analyses limited to trials at low summary risk of bias (Analysis
+2.28), with good compliance or with large trial size (Analysis 2.29),
+as well as fixed-eﬀect analysis (Analysis 2.27). Subgroup analyses
+by primary or secondary prevention, intervention type, statin use
+and trial duration did not suggest important diﬀerences between
+subgroups (Analysis 2.32; Analysis 2.33; Analysis 2.34; Analysis
+2.35). There were significant diﬀerences between subgroups when
+subgrouped by replacement, suggesting lower BMI when LCn3
+replaced saturated fatty acids or carbohydrate, and increased BMI
+when LCn3 replaced nil or low LCn3 (P = 0.02; Analysis 2.31). There
+was also a suggestion that increasing LCn3 increased BMI when the
+dose was above 2.4 g/d (Analysis 2.30).
+Several trials clearly measured BMI but did not report it in a useable
+way (Caldwell 2011; EPE-A 2014; Nutristroke 2009; Ramirez-Ramirez
+2013; Sofi 2010), suggesting that missing data may be an issue with
+this outcome. The funnel plot was not interpretable, but eﬀect sizes
+from random-eﬀects and fixed-eﬀect meta-analysis were similar
+suggesting minimal small study bias.
+GRADE oﬀers high-certainty evidence that LCn3 intake makes little
+or no diﬀerence to BMI (not downgraded).
+Other measures of adiposity
+Few trials reported on other measures of adiposity (percentage
+body fat, percentage visceral fat, waist circumference, waist/hip
+ratio, abdominal circumference and hip circumference) with some
+suggesting higher adiposity and some lower adiposity in groups
+with more LCn3 (Analysis 2.36).
+Serum lipids (LCn3)
+Several trials clearly measured lipids but did not report them in a
+way that we could include in our meta-analyses. These included
+Baldassarre 2006, Gill 2012, Ramirez-Ramirez 2013 and Reed 2014.
+Further trials assessed but did not report triglycerides (Ahn 2016;
+Caldwell 2011; Franzen 1993; Rossing 1996), or HDL and LDL
+cholesterol (Franzen 1993). Because of the volume of potentially
+missing data, small study bias may potentially bias these outcomes.
+Serum total cholesterol
+High-certainty evidence shows that LCn3 intake makes little or no
+diﬀerence to serum total cholesterol.
+Thirty trials provided data on long-term eﬀects of LCn3 fats on
+serum total cholesterol, suggesting little or no eﬀect in more
+than 38,000 participants (MD −0.01 mmol/L, 95% CI −0.05 to 0.03,
+I2 = 14%, Analysis 2.37). Sensitivity analyses using a fixed-eﬀect
+model, or limited to trials at low summary risk of bias, low risk of
+compliance issues, and larger trials also suggested little or no eﬀect
+of LCn3 on serum total cholesterol (Analysis 2.38; Analysis 2.39;
+Analysis 2.40). Subgrouping by duration, primary or secondary
+prevention and statin use did not suggest any diﬀerential eﬀects
+of LCn3 (Analysis 2.44; Analysis 2.45; Analysis 2.46). There were
+almost significant diﬀerences between subgroups by dose but
+no logical sequence suggesting no true dose-response eﬀect (P
+= 0.05; Analysis 2.41). There were also subgroup diﬀerences for
+replacement and intervention type but there were no subgroups
+with changes of at least 5% of baseline (Analysis 2.42; Analysis 2.43).
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+40
+
+[page 53]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+GRADE assessment suggests high-certainty evidence that LCn3
+intake makes little or no diﬀerence to serum total cholesterol (not
+downgraded).
+Serum triglycerides
+High-certainty evidence suggests that increasing LCn3 intake
+reduces serum triglycerides, in a dose-dependent manner, by
+around 15%.
+LCn3 fats significantly reduced serum triglycerides in more than
+43,000 participants in 23 trials (MD −0.24 mmol/L, 95% CI −0.31
+to −0.16; I2 = 48%; Analysis 2.47). This eﬀect was not lost in
+sensitivity analysis excluding trials at moderate to high risk of bias,
+those without clear compliance or small trials, or using fixed-eﬀect
+analysis (Analysis 2.48; Analysis 2.49; Analysis 2.50). Subgrouping
+suggested that the reduction of serum triglycerides did not diﬀer
+between subgroups by primary or secondary prevention, statin
+use, replacement, intervention type or trial duration (Analysis 2.52;
+Analysis 2.53; Analysis 2.54; Analysis 2.55; Analysis 2.56). There
+was a suggestion of a dose-response relationship with greater
+reductions in triglycerides at higher LCn3 doses, with significant
+diﬀerences between subgroups (P = 0.04; Analysis 2.51).
+GRADE assessment suggests high-certainty evidence that
+increasing LCn3 intake reduces serum triglycerides in a dose-
+dependent manner (not downgraded).
+HDL cholesterol
+High-certainty evidence suggests that LCn3 intake has little or no
+eﬀect on HDL cholesterol.
+Thirty trials including more than 46,000 participants suggested
+little or no eﬀect (an increase of < 5%) in serum HDL cholesterol with
+increased LCn3 (MD 0.03 mmol/L, 95% CI 0.01 to 0.05; P = 0.005, I2
+= 50%; Analysis 2.57). The finding of little or no eﬀect was retained
+in all sensitivity analyses (Analysis 2.58; Analysis 2.59; Analysis
+2.60). There were no significant diﬀerences between subgroups in
+any analysis and no suggestion of a dose-response relationship
+(Analysis 2.61; Analysis 2.62; Analysis 2.63; Analysis 2.64; Analysis
+2.65; Analysis 2.66).
+GRADE assessment suggests high-certainty evidence that LCn3
+intake has little or no eﬀect on HDL cholesterol (not downgraded).
+LDL cholesterol
+GRADE assessment suggests high-certainty evidence that LCn3
+intake makes little or no diﬀerence to LDL cholesterol.
+There was little or no eﬀect of increasing LCn3 on serum LDL
+cholesterol in over 43,000 participants from 25 trials (MD 0.01
+mmol/L, 95% CI −0.01 to 0.03; I2 = 0%; Analysis 2.67). This lack of
+eﬀect did not alter in any sensitivity analysis (Analysis 2.68; Analysis
+2.69; Analysis 2.70). We saw no statistically significant diﬀerences
+between subgroups except for with regard to statin use, where
+there was a less than 5% increase in LDL cholesterol in nine trials
+where statin use was low (Analysis 2.71; Analysis 2.72; Analysis 2.73;
+Analysis 2.74; Analysis 2.75; Analysis 2.76).
+GRADE assessment provides high-certainty evidence that LCn3
+intake makes little or no diﬀerence to LDL cholesterol (not
+downgraded).
+Eﬀects of ALA on secondary health outcomes
+We did not plan any sensitivity or subgroup analyses on secondary
+outcomes, except for the key outcomes of adiposity and lipids. As
+fewer than 10 ALA trials were available for these outcomes, we
+carried out only sensitivity analyses.
+Major adverse cerebrovascular or cardiovascular events (ALA)
+One trial reported on MACCEs in 110 participants, nine of whom
+experienced an event. There were insuﬀicient data to suggest any
+eﬀect of ALA on MACCEs (RR 1.12, 95% CI 0.32 to 3.95; Analysis 5.1).
+Myocardial infarction (ALA)
+Three trials reported that 333 out of more than 18,000 participants
+experienced a fatal or non-fatal myocardial infarction, suggesting
+little or no eﬀect of ALA on myocardial infarction (RR 1.00, 95%
+CI 0.76 to 1.32; I2 = 26%; Analysis 5.2). We carried out subgroup
+analyses by fatality at the request of the WHO NUGAG Subgroup
+on Diet and Health, and these suggested no significant diﬀerences
+between fatal and non-fatal myocardial infarction subgroups (P =
+0.36; Analysis 5.3).
+Sudden cardiac death (ALA)
+No trials assessed eﬀects of ALA on sudden cardiac death.
+Angina (ALA)
+Two trials assessed the eﬀects of increasing ALA on diagnosis of
+new or worsening angina (39 of > 13,000 participants experienced
+this). There were insuﬀicient data to suggest any eﬀect of ALA on
+angina (RR 1.41, 95% CI 0.75 to 2.64; I2 = 0%; Analysis 5.4).
+Heart failure (ALA)
+No trials assessed eﬀects of ALA on heart failure.
+Revascularisation (ALA)
+Only one trial (3 events in 266 participants) reported on the eﬀects
+of increased ALA on revascularisation (RR 0.72, 95% CI 0.07 to 7.84;
+3 events; Analysis 5.5) or CABG specifically (RR 0.29, 95% CI 0.01 to
+5.93; 2 events; Analysis 5.5). There were insuﬀicient data to suggest
+any eﬀect of ALA on revascularisation.
+Peripheral arterial disease (ALA)
+Meta-analysis suggested no clear eﬀect of ALA on peripheral arterial
+disease in a single trial (RR 0.25, 95% CI 0.05 to 1.17; 10 of
+the > 13,000 participants experienced peripheral arterial disease;
+Analysis 5.6). There were insuﬀicient data to suggest any eﬀect of
+ALA on the outcome.
+Acute coronary syndrome (ALA)
+No trials assessed eﬀects of ALA on acute coronary syndrome.
+Body weight, body mass index (BMI) and other measures of adiposity
+(ALA)
+The eﬀect of LCn3 intake on body weight and BMI is unclear as the
+evidence is of very low certainty.
+Four trials reported on the eﬀect of ALA on body weight in 664
+participants, suggesting some weight reduction in those taking
+more ALA but with extremely high heterogeneity (MD −1.49 kg, 95%
+CI −4.17 to 1.18; I2 = 73%; Analysis 5.7). Sensitivity analysis using
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+41
+
+[page 54]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+fixed-eﬀect meta-analysis suggested little or no eﬀect of ALA on
+body weight (Analysis 5.8), while no trials were at low summary risk
+of bias (Analysis 5.9). Retaining only trials at low risk for compliance
+bias or only larger trials suggested weight reduction with ALA
+(Analysis 5.10). There were no significant diﬀerences between
+subgroups by intervention type, dose, duration, replacement,
+statin use, or primary or secondary prevention of cardiovascular
+disease (Analysis 5.11; Analysis 5.12; Analysis 5.13; Analysis 5.14;
+Analysis 5.15; Analysis 5.16). GRADE assessment suggests that the
+eﬀect of ALA intake on body weight is unclear, as the evidence
+is of very low certainty (downgraded once each for risk of bias,
+inconsistency, publication bias and imprecision).
+Three trials reported on BMI, suggesting a reduction in BMI with
+increased ALA (MD −0.42 kg/m2, 95% CI −1.53 to 0.69; I2 = 65%;
+1581 participants; Analysis 5.17), again with high heterogeneity.
+Sensitivity analyses using fixed-eﬀect analysis or only retaining
+trials at low summary risk of bias suggested a small increase in
+BMI with ALA (Analysis 5.18; Analysis 5.19), while limiting to trials at
+low risk of compliance bias or eliminating smaller trials suggested
+a small reduction in BMI with increased ALA (Analysis 5.20). There
+were no statistically significant diﬀerences between subgroups
+diﬀerentiated by replacement or statin use (Analysis 5.23; Analysis
+5.25), but there were diﬀerences by dose; subgrouping by dose
+suggested greater reduction of BMI in trials giving more ALA (P =
+0.03; Analysis 5.21). All included trials gave supplemental foods
+(Analysis 5.22). There were greater reductions in BMI in shorter
+trials (P = 0.02; Analysis 5.24) and in primary prevention trials
+(P = 0.03; Analysis 5.26), but the inclusion of Dodin 2005 in any
+subgroup tended to diﬀerentiate that group from the others. GRADE
+assessment suggests that the eﬀect of ALA intake on BMI is unclear,
+as the evidence is of very low certainty (downgraded once each for
+risk of bias, inconsistency, publication bias and imprecision).
+One trial reported on visceral adipose tissue, suggesting no clear
+eﬀect. Three trials reported on waist circumference. Meta-analysis
+of two of these suggested that increasing ALA resulted in reduced
+weight circumference (MD −1.59 cm, 95% CI −3.10 to −0.07; I2 = 0%;
+Analysis 5.27). However, the single trial that we could not include in
+the meta-analysis due to lack of information on variance suggested
+eﬀects in the opposite direction. Sensitivity analyses (only retaining
+trials at low summary risk of bias, not shown) removed all trials.
+Serum lipids (ALA)
+Serum total cholesterol
+Low-certainty evidence suggests that ALA intake may make little or
+no diﬀerence to serum total cholesterol.
+Six trials provided data on the long-term eﬀects of ALA on serum
+total cholesterol, suggesting that increased ALA intake has little or
+no eﬀect on total cholesterol, with high heterogeneity (MD −0.09
+mmol/L, 95% CI −0.23 to 0.05; I2 = 63%; in > 2000 participants;
+Analysis 5.28). The suggestion of little or no eﬀect did not alter in
+any sensitivity analyses (Analysis 5.29; Analysis 5.30; Analysis 5.31).
+All trials provided food supplements (Analysis 5.33), but subgroup
+analyses suggested greater (though still small) reductions in total
+cholesterol in trials of shorter duration (P = 0.02; Analysis 5.35).
+Other diﬀerences between subgroups resulted from eﬀect groups
+where ALA replacement or statin use was 'unclear' (Analysis 5.34;
+Analysis 5.36), or there were no diﬀerences (Analysis 5.32; Analysis
+5.37). GRADE assessment suggests low-certainty evidence that ALA
+intake may make little or no diﬀerence to serum total cholesterol
+(downgraded once each for imprecision and inconsistency).
+Serum triglycerides
+Moderate-certainty evidence suggests that increasing ALA intake
+probably makes little or no diﬀerence to serum triglycerides.
+There was little or no eﬀect of ALA on serum triglycerides in
+1776 participants in six trials (MD −0.03 mmol/L, 95% CI −0.11
+to 0.05; I2 = 0%; Analysis 5.38). There was little or no eﬀect of
+ALA in sensitivity analysis removing trials of moderate to high
+risk of bias (Analysis 5.40), in fixed-eﬀect meta-analysis (Analysis
+5.39), or limiting by compliance bias or trial size (Analysis 5.41).
+Subgrouping suggested no important diﬀerential eﬀects by dose,
+duration, replacement, intervention type, statin use, or primary
+or secondary prevention (Analysis 5.42; Analysis 5.43; Analysis
+5.44; Analysis 5.45; Analysis 5.46; Analysis 5.47). GRADE assessment
+suggests moderate-certainty evidence that ALA intake probably
+makes little or no diﬀerence to serum triglycerides (downgraded
+once for imprecision).
+HDL cholesterol
+Moderate-certainty evidence suggests that ALA probably has little
+or no eﬀect on HDL cholesterol.
+There was little or no eﬀect of ALA on HDL cholesterol in 1776
+participants of six trials (MD −0.02 mmol/L, 95% CI −0.08 to 0.03;
+I2 = 53%; Analysis 5.48), or in any sensitivity analyses (Analysis
+5.49; Analysis 5.50; Analysis 5.51). A further trial, WAHA 2016, also
+measured HDL but did not provide data in a useable format for
+meta-analysis. There were no statistically significant diﬀerences
+between subgroups (Analysis 5.52; Analysis 5.53; Analysis 5.54;
+Analysis 5.55; Analysis 5.56; Analysis 5.57). GRADE assessment
+suggests moderate-certainty evidence that ALA probably has little
+or no eﬀect on HDL cholesterol (downgraded once for imprecision).
+LDL cholesterol
+Moderate-certainty evidence suggests that ALA intake probably
+makes little or no diﬀerence to LDL cholesterol.
+There was little or no eﬀect of increasing ALA on LDL cholesterol in
+2201 participants of seven trials (MD −0.05 mmol/L, 95% CI −0.15 to
+0.04; I2 = 46%; Analysis 5.58), with similar eﬀects in all sensitivity
+analyses (Analysis 5.59; Analysis 5.60; Analysis 5.61). Subgrouping
+suggested no diﬀerences in eﬀect by ALA dose or primary or
+secondary prevention (Analysis 5.62; Analysis 5.63; Analysis 5.64;
+Analysis 5.66; Analysis 5.67), but there was a statistically significant
+diﬀerence between trials of longer and shorter duration, though
+little or no eﬀect in both groups (Analysis 5.65). GRADE assessment
+suggests moderate-certainty evidence that ALA intake may make
+little or no diﬀerence to LDL cholesterol (downgraded once for
+imprecision).
+Tertiary outcomes
+Eﬀects of long-chain omega-3 fats (EPA, DHA and DPA) on
+tertiary health outcomes
+We extracted these outcomes from trials that we included for other
+outcomes, so we did not assess them completely or systematically.
+We did not carry out sensitivity analyses or subgrouping for
+these outcomes. We are aware of missing data for some of these
+outcomes, including blood pressure in Ramirez-Ramirez 2013.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+42
+
+[page 55]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blood pressure (LCn3)
+Seventeen included trials (> 35,000 participants) contributed data
+on eﬀects of LCn3 fats on blood pressure. Meta-analysis suggested
+little or no eﬀect of LCn3 on systolic (MD 0.01 mmHg, 95% CI −0.31
+to 0.34; I2 = 0%; Analysis 3.1) or diastolic (MD −0.02 mmHg, 95% CI
+−0.22 to 0.17; I2 = 0%; Analysis 3.1) blood pressure in trials of at least
+one year.
+Serious adverse eﬀects (LCn3)
+As part of the larger set of reviews, we formally systematically
+reviewed eﬀects of omega-3 fats on type 2 diabetes diagnoses,
+measures of glucose metabolism (Brown 2019), cancers including
+breast cancer (Hanson 2019), neurocognitive outcomes such
+as dementia (Brainard 2019), irritable bowel disease (IBD) and
+inflammatory factors (Thorpe 2017), depression and anxiety (Deane
+2019), and functional outcomes (Abdelhamid 2019), so we do not
+present these outcomes here.
+We collected data on the following potentially important health
+outcomes (Analysis 3.2).
+•
+Any serious adverse event (RR 1.00, 95% CI 0.94 to 1.06; I2 = 0%;
+3 trials, > 9000 participants, 2668 events).
+•
+Bleeding (RR 1.12, 95% CI 0.91 to 1.37; I2 = 44%; 11 trials, > 80,000
+participants, 1324 events). Assessed as being very low-certainty
+evidence, so the eﬀect of LCn3 on bleeding is unclear (Summary
+of findings for the main comparison).
+•
+Serious gastrointestinal events (RR 1.34, 95% CI 0.64 to 2.80; I2
+22%; 3 trials, 774 participants, 49 events).
+•
+Pulmonary embolus or DVT (RR 1.15, 95% CI 0.44 to 2.98; I2 =
+0%; 5 trials, > 3000 participants, 20 events). Assessed as being
+very low-certainty evidence, so the eﬀect of LCn3 on pulmonary
+embolus or DVT is unclear (Summary of findings for the main
+comparison).
+•
+Progression to advanced age-related macular degeneration (RR
+0.96, 95% CI 0.90 to 1.02; 1 trial, > 4000 participants, 2049
+events).
+•
+Thrombophlebitis: no data identified
+•
+Urolithiasis: no data identified
+Side eﬀects (non-serious, LCn3)
+To assess side eﬀects we collected data on the following potential
+side eﬀects (Analysis 3.3).
+•
+Withdrawal due to side eﬀects: the data suggest more
+participants taking LCn3 fats dropped out because of side eﬀects
+(RR 1.16, 95% CI 0.99 to 1.36; I2 = 1%; 23 trials, > 16,000
+participants, 620 dropouts).
+•
+Increased abdominal pain or discomfort: data suggest an
+association with higher LCn3 (RR 1.05, 95% CI 0.91 to 1.20; I2 =
+16%; 9 trials, > 41,000 participants, 10,040 events).
+•
+Diarrhoea: the data suggested an increased risk with increased
+LCn3 (RR 1.02, 95% CI 0.87 to 1.19; I2 = 49%; 13 trials, > 37,000
+participants, 12,303 events).
+•
+Nausea: risk increased with LCn3 (RR 1.20, 95% CI 0.96 to 1.49; I2
+= 54%; 8 trials, > 35,000 participants, 7639 events).
+•
+Any gastrointestinal side eﬀect: risk also appeared to increase
+with LCn3, albeit with very high heterogeneity (RR 1.10, 95%
+CI 0.97 to 1.26; I2 = 74%; 33 trials, > 895,000 participants, 6651
+events).
+•
+Skin problems, including itching or rashes: these were not
+aﬀected by LCn3 in a meta-analysis with high heterogeneity (RR
+1.11, 95% CI 0.52 to 2.37; I2 = 68%; 9 trials, > 36,000 participants,
+293 events).
+•
+Headache or worsening migraine: there were limited data on
+this outcome (RR 0.85, 95% CI 0.51 to 1.40; I2 = 0%; 4 trials, 1526
+participants, 60 events).
+•
+Reflux: there were limited data (RR 1.23, 95% CI 0.79 to 1.91; I2 =
+32%; 3 trials, > 8000 participants, 282 events).
+•
+Joint, lumbar and muscle pain: meta-analysis of data from three
+trials suggested that LCn3 had little or no eﬀect on such pain
+(RR 0.95, 95% CI 0.74 to 1.23; > 27,000 participants, 989 people
+experienced pain).
+•
+All side eﬀects: there was no suggestion that LCn3 increased or
+decreased all side eﬀects combined in a meta-analysis with very
+high heterogeneity (RR 1.01, 95% CI 0.95 to 1.08; I2 = 79%; 14
+trials, > 39,000 participants, 9863 people with at least one side
+eﬀect).
+Dropouts (LCn3)
+Included trials reported 6643 dropouts in over 56,000 participants
+in 35 trials, suggesting no diﬀerence in dropout rates between
+intervention and control arms (RR 0.97, 95% CI 0.90 to 1.04; I2 = 28%;
+Analysis 3.4).
+Quality of life, economic costs (LCn3)
+We found no data on quality-of-life outcomes or economic costs.
+Eﬀects of ALA on tertiary health outcomes
+We extracted these outcomes from trials that we included for other
+outcomes, so we did not assess them completely or systematically.
+We did not carry out sensitivity analyses or subgrouping for these
+outcomes.
+Blood pressure (ALA)
+Four included trials (1671 participants) contributed data on eﬀects
+of ALA on blood pressure. Meta-analysis suggested little or no eﬀect
+of ALA on systolic (MD −0.87 mmHg, 95% CI −4.48 to 2.75; I2 = 58%;
+Analysis 6.1) or diastolic (MD −1.42 mmHg, 95% CI −4.40 to 1.57; I2 =
+74%; Analysis 6.1) blood pressure in trials of at least one year. The
+heterogeneity in these results reflect a single trial, FLAX-PAD 2013,
+that showed large diastolic and systolic blood pressure eﬀects. The
+other (larger) trials did not suggest such eﬀects.
+Serious adverse eﬀects (ALA)
+As part of the larger set of reviews we formally systematically
+reviewed eﬀects of omega-3 fats on type 2 diabetes diagnoses
+and measures of glucose metabolism (Brown 2019), cancers
+including breast cancer (Hanson 2019), neurocognitive outcomes
+such as dementia (Brainard 2019), irritable bowel disease (IBD) and
+inflammatory factors (Thorpe 2017), depression and anxiety (Deane
+2019), and functional outcomes (Abdelhamid 2019), so we do not
+present these outcomes here.
+We collected data on the following potentially important health
+outcomes (Analysis 6.2).
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+43
+
+[page 56]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+Any serious adverse event: no data identified
+•
+Bleeding: no data identified
+•
+Serious gastrointestinal eﬀects: no data identified
+•
+Pulmonary embolus or DVT: only one event was identified in
+a single trial, so there were insuﬀicient data to assess eﬀects.
+GRADE assessment suggested very low-certainty evidence
+(downgraded once for risk of bias and twice for imprecision
+(Summary of findings 2).
+•
+Progression to advanced age-related macular degeneration: no
+data identified
+•
+Thrombophlebitis: there were insuﬀicient data to assess eﬀects
+(RR 1.59, 95% CI 0.72 to 3.51; 1 trial, > 13,000 participants, 26
+events).
+•
+Urolithiasis: there were insuﬀicient data to assess eﬀects (RR
+0.80, 95% CI 0.47 to 1.36; 1 trial, > 13,000 participants, 54 events).
+Side eﬀects (non-serious, ALA)
+To assess potential side eﬀects, we collected data on the following
+(Analysis 6.3).
+•
+Dropouts due to side eﬀects: data suggested that ALA increased
+the risk of withdrawal, although there was high heterogeneity
+(RR 2.10, 95% CI 0.66 to 6.71; I2 = 62%; 5 trials, > 3000
+participants, 68 events).
+•
+Abdominal pain or discomfort: no data identified
+•
+Diarrhoea: a single trial identified 10 participants with
+diarrhoea, suggesting a higher risk of diarrhoea with greater ALA
+intake (RR 3.82, 95% CI 0.82 to 17.88).
+•
+Nausea: there were insuﬀicient data to assess eﬀects of ALA (RR
+6.29, 95% CI 0.33 to 118.93; 1 trial, 110 participants, 3 events).
+•
+Any gastrointestinal side eﬀect: there were insuﬀicient data to
+assess eﬀects of ALA (RR 2.06, 95% CI 0.62 to 6.80; I2 = 58%; 4
+trials, > 3000 participants, 49 events). The high heterogeneity
+suggests that gastrointestinal side eﬀects may be collected in
+diﬀerent ways in diﬀerent trials.
+•
+Skin problems, including itching or rashes: no data identified
+•
+Headache or worsening migraine: no data identified
+•
+Reflux: no data identified
+•
+All side eﬀects combined: no data identified
+Dropouts (ALA)
+Included trials reported 558 dropouts in over 3000 participants in
+six trials, suggesting slightly similar dropout rates in participants
+taking higher and lower ALA (RR 1.08, 95% CI 0.92 to 1.25; I2 = 0%;
+Analysis 6.4).
+Quality of life, economic costs (ALA)
+We found no data on quality of life outcomes or economic costs.
+D I S C U S S I O N
+Summary of main results
+We included 86 randomised controlled trials (162,796 participants),
+of which 28 were at low summary risk of bias (randomisation,
+allocation concealment, selection and detection bias all at low risk
+for supplementation trials; randomisation, allocation concealment
+and detection bias all at low risk for dietary advice trials). This
+compares to 79 RCTs including 112,059 participants, of which
+25 were at low summary risk of bias in the previous review
+(Abdelhamid 2018a). Trials of 12 to 88 months' duration included
+adults at varying levels of cardiovascular risk, mainly in high-
+income countries. Most trials assessed LCn3 supplementation with
+capsules, but some used LCn3- or ALA-rich or enriched foods or
+dietary advice compared to placebo or usual diet.
+Pooled trial results suggested there is probably little or no eﬀect of
+increasing LCn3 fats on risk of all-cause mortality, cardiovascular
+deaths, cardiovascular events, stroke or arrhythmias (moderate-
+and high-certainty evidence). But in this update we found low-
+certainty evidence suggesting that increasing LCn3 intake may
+reduce coronary heart disease mortality (NNTB 334) and coronary
+heart disease events (NNTB 167). These are small eﬀects and have
+not been apparent in the more limited data sets of the past.
+Limiting LCn3 analyses to trials at low summary risk of bias
+moved the eﬀect size towards 1.0 (the null value) for most primary
+outcomes except coronary heart disease mortality and arrhythmia.
+We found no suggestion of dose responses in subgrouping but
+there were suggestions of dose response by LCn3 dose in meta-
+regression for cardiovascular disease events and coronary heart
+disease events. These results apply to supplemental LCn3 intake.
+We did not see important diﬀerences in LCn3 trials between
+those providing oily fish (dietary source) or EPA/DHA capsules
+(supplemental source), but as few trials provided whole fish health
+eﬀects may diﬀer.
+Increasing ALA intake suggested moderate- and low-certainty
+evidence of little or no eﬀect on all-cause mortality, cardiovascular
+mortality, coronary heart disease mortality or events, but
+low-certainty evidence suggested a small protection from
+cardiovascular events (NNTB 500) and moderate-certainty
+evidence, protection from arrhythmia (NNTB 91). Eﬀects on stroke
+were unclear. Data were more limited than for LCn3, and there were
+too few trials for informative funnel plots or subgroup analyses.
+These suggested that benefits of ALA need to be considered
+with caution, as eﬀects were small, and few trials addressed the
+outcomes.
+Meta-analyses suggested little or no eﬀect of increasing LCn3 fats
+intake on secondary outcomes: major adverse cerebrovascular or
+cardiovascular events, fatal or non-fatal myocardial infarction, or
+both, sudden cardiac death, new or worsening angina, heart failure,
+revascularisation, peripheral arterial disease or acute coronary
+syndrome. There were very limited data on eﬀects of ALA on these
+outcomes.
+High-certainty evidence suggested that increasing LCn3 has little or
+no eﬀect on measures of adiposity (body weight or BMI), but eﬀects
+of ALA on measures of adiposity were unclear as the evidence was of
+very low-certainty. High-certainty evidence shows that increasing
+LCn3 reduces serum triglycerides by ˜15% in a dose-dependent
+manner, but moderate-certainty evidence suggests little or no
+eﬀect of ALA on triglycerides. High-certainty evidence showed
+no eﬀect of increasing LCn3 on total, HDL or LDL cholesterol in
+these long-term trials, while moderate- and low-certainty evidence
+suggested little or no eﬀect of increasing ALA on these lipids. Within
+the included trials we assessed eﬀects on blood pressure, serious
+adverse eﬀects, side eﬀects and dropouts. There was no suggestion
+that blood pressure or risk of adverse events such as bleeding
+diﬀered by LCn3 or ALA intake. Thus, proposed mechanisms for
+omega-3 activity, including lowering of blood pressure, reduced
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+44
+
+[page 57]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+thrombotic tendency and anti-arrhythmic eﬀects are not apparent
+in long-term trials of adult humans, but LCn3 does lower serum
+triglyceride levels.
+The review has provided some answers for its secondary questions.
+•
+If omega-3 fatty acids confer protection:
+◦does protection occur equally in those at low and at high risk
+of cardiovascular disease? There is no evidence of diﬀerential
+eﬀects on mortality or cardiovascular health by primary or
+secondary cardiovascular disease prevention, except in the
+case of LCn3 and arrhythmia, where there is a suggestion of
+harm in primary prevention, little or no eﬀect in secondary
+prevention. However, because the underlying risk of an event
+is diﬀerent in primary and secondary prevention the NNTB
+diﬀers in these two groups. For example, in assessing the
+eﬀects of LCn3 on coronary heart disease mortality the
+NNTB is 334 (95% CI 200 to infinity), so 334 people would
+need to increase their LCn3 intake to prevent one death
+from coronary heart disease. If we assess NNTB by primary
+or secondary prevention of cardiovascular disease, people
+without previous cardiovascular disease (needing primary
+prevention) have an NNTB of 1000 (95% CI NNTB 334 to NNTH
+1000), while those with existing cardiovascular disease have
+an NNTB of 200 (NNTB 91 to NNTH 500). When assessing
+eﬀects of LCn3 on coronary heart disease events, the NNTB
+overall is 167 (95% CI 100 to 500), while the NNTB is 200
+for primary prevention (95% CI NNTB 112 to NNTB infinity)
+and 143 for people with existing cardiovascular disease,
+secondary prevention (NNTB 143, 95% CI NNTB 91 to NNTH
+500).
+◦does protection depend on the dose of omega-3 fats taken
+per day? We ran subgroup analyses for primary and key
+outcomes and meta-regression for primary outcomes but
+found no evidence of diﬀerential eﬀects by LCn3 or ALA
+dose on any outcomes except LCn3 on serum triglycerides,
+cardiovascular disease events and coronary heart disease
+events, where there were statistically significantly greater
+reductions with higher LCn3 dose.
+◦do eﬀects diﬀer between dietary and supplemental omega-3
+sources? We assessed this question by looking for statistically
+significant diﬀerences between subgroups but found no
+evidence of diﬀerential eﬀects by dietary or supplemental
+LCn3 or ALA sources. However, few of the LCn3 trials advised
+or gave fish, most gave supplemental fish oils, so our ability
+to assess eﬀects of eating more oily whole fish are limited.
+◦does protection depend on trial summary risk of bias?
+Some analyses suggested a protective eﬀect of LCn3 fats,
+but these eﬀects disappeared when analyses were limited
+to trials at low summary risk of bias. The stronger trials
+with higher internal validity suggested few or no eﬀects of
+LCn3 on mortality or most cardiovascular disease outcomes,
+but eﬀects of LCn3 were greater for coronary heart disease
+mortality and arrhythmia when limited to the trials at low
+summary risk of bias. On the other hand, for all-cause
+mortality, cardiovascular disease mortality and events and
+coronary heart disease mortality and events, ALA trials at
+low summary risk of bias suggested greater protection with
+higher ALA than in the main analysis (including trials of all
+levels of summary risk of bias).
+•
+Is protection or harm stronger with longer trial duration? In
+subgroup analyses for primary and key outcomes and in meta-
+regression for primary outcomes, there was no evidence that
+longer trials increased the eﬀect of LCn3 or ALA. The exceptions
+were eﬀects of LCn3 on stroke (where trials of longer duration
+showed smaller risk ratios, or lower risk) and arrhythmia (where
+the risk of arrhythmia was higher in longer trials).
+•
+Are eﬀects of omega-3 fatty acids dependent on baseline
+triglyceride levels or diabetic status? In subgroup analyses for
+primary outcomes we found no evidence that increasing LCn3
+had diﬀerent eﬀects in trials with higher baseline triglycerides
+or with diabetes or diabetes risk factors, however few trials had
+raised triglycerides or diabetes at baseline so the assessment
+was not well powered. The exception was when assessing
+coronary heart disease events, where the subgroup of three
+trials with raised triglyceride suggested a greater reduction
+in coronary heart disease events (Analysis 1.62), this eﬀect
+relied on REDUCE-IT 2019. No trials of increased ALA had
+raised baseline triglycerides or diabetes, so eﬀects could not be
+assessed for ALA.
+Overall completeness and applicability of evidence
+We searched very carefully to find all trials relevant to this review
+and located 86 trials randomising 162,796 participants to higher
+and lower omega-3 fats (LCn3 or ALA) for at least 12 months.
+To reduce selection bias, we contacted authors of trials
+that appeared to have randomised appropriate participants to
+appropriate intervention and comparator but may not have
+published relevant outcomes (to April 2017). If trial authors had
+assessed any of our outcomes, we requested data and included the
+trial. This enabled us to include several additional trials. We also
+contacted authors of all included trials that randomised at least 100
+participants (and most smaller trials to April 2017) to request data
+on any further outcomes (as well as on methodological issues) that
+may have been recorded but not reported. We tried to contact 72
+of the 86 included trials (all except Baldassarre 2006; HERO 2009;
+Mita 2007; Nutristroke 2009; Özaydin 2011; Shinto 2014; Sofi 2010;
+and the newly added trials ASCEND 2018; Broutset 2007; DREAM
+Asbell 2018; ENRGISE 2018; HEARTS 2017; REDUCE-IT 2019; VITAL
+2019). This allowed us to collect useful additional data on outcomes
+such as deaths and cardiovascular events that we would not have
+had access to otherwise. For all trials we carefully searched out
+and data extracted trials registry entries, protocols, supplementary
+materials, letters, conference abstracts and additional publications
+to help us locate additional data.
+Most of our newly included trials were previously ongoing. We have
+detailed 25 remaining ongoing trials, of which seven are newly
+ongoing, that appear to be unpublished at the time of writing
+(Characteristics of ongoing studies). We have labelled these trials
+as ongoing, although some appear overdue for publication, and
+their status is unclear – they may constitute missing data. We tried
+to contact authors of all 'overdue' ongoing trials, and some stated
+that publications are forthcoming; others did not reply. We suspect
+that if trial authors have not published outcomes, it is likely that
+any protective health eﬀects did not reach statistical significance.
+Given that existing trials suggest no eﬀects of omega-3 fats on
+cardiovascular health outcomes, any missing data may not aﬀect
+outcomes greatly; however, for completeness we would prefer to
+include all available data.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+45
+
+[page 58]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Post hoc, we followed advice to assess diﬀerences in eﬀects
+between EPA and DHA within the review. However, most LCn3
+trials provided or advised changes resulting in increased intakes
+of both EPA and DHA (as in natural fish oil), though in diﬀerent
+ratios. Only three trials provided data on DHA only (ADCS 2010;
+Berson 2004; Zhang 2017), and six provided data on EPA only (Doi
+2014; JELIS 2007; Mita 2007; Nye 1990; Puri 2005; REDUCE-IT 2019).
+Unfortunately, for any single outcome, only two or three of these
+trials were represented, so our ability to assess diﬀerential eﬀects
+of the DHA-only and EPA-only interventions was very limited, and
+we have not presented these analyses or attempted to draw any
+information from them.
+Quality of the evidence
+Figure 2 displays risk of bias of included trials. Of the 86 RCTs, 28
+were at low summary risk of bias (at low risk of selection bias,
+performance bias and detection bias, plus low risk of performance
+bias in supplemental trials). We assessed the validity of evidence
+in meta-analyses by running sensitivity analyses that removed
+trials not at low summary risk of bias. Funnel plots for LCn3 trials
+suggested that there may be missing trials for all primary outcomes
+except stroke and arrhythmia, and in all cases adding such trials
+back in would move eﬀect sizes closer to no eﬀect (RR 1.0). This
+lack of eﬀect in the trials at lowest risk of bias (with suggestions
+of eﬀect in trials at moderate to high risk of bias) supported our
+interpretation of lack of eﬀect of LCn3 fats on many of our primary
+outcomes.
+However, the increased numbers of trials, of longer trials and of
+greater numbers of people randomised within included trials (up by
+31% in this review from the previous iteration, Abdelhamid 2018a),
+has increased our power to see small eﬀects of increasing LCn3.
+We pre-stated that eﬀect sizes needed to be greater than 8% (RR
+< 0.92 or > 1.08) to suggest an important eﬀect. Eﬀect sizes of 9%
+or 10% are still small, and for the outcomes that have reached this
+level of eﬀectiveness in this review NNTBs are still very large. The
+eﬀects of LCn3 and ALA we are seeing on cardiovascular diseases
+and triglycerides are small.
+Potential biases in the review process
+Potential adverse eﬀects include cancers and neurological
+problems associated with polychlorinated biphenyls (PCBs) or
+mercury in fish oils, and bleeds associated with reductions in
+clotting (see How the intervention might work). We have collated
+any data on bleeds, including haemorrhagic stroke, in this review,
+though we did not ask trial authors specifically for additional data
+on these outcomes. Unfortunately there were insuﬀicient data
+on serious harms (bleeding and pulmonary embolism or deep
+vein thrombosis) to assess these potential harms. We have not
+collated data on cancers (Hanson 2019), and neurological problems
+(Brainard 2019), within this review but have formally systematically
+reviewed them elsewhere. This approach is preferable to including
+data on these outcomes from within included trials, which would
+be incomplete and potentially underpowered to show important
+eﬀects.
+One problem with cardiovascular disease outcomes is that they
+are collected together in a variety of ways, depending on the
+trial. For example, in assessing coronary heart disease mortality,
+we prespecified that we would include the first of the following
+list reported in any trial: coronary death, ischaemic heart disease
+death, fatal myocardial infarction, cardiac death. Each included
+trial collates outcome data in its own way, so we had to adapt to
+this in our analysis. One way to get around this problem would
+be to ask trial authors to go back to their original datasets to
+assess outcomes in a single prespecified way. This was done by
+a recent meta-analysis that included only 10 trials but was able
+to formulate their outcome data to match between trials (Aung
+2018). In doing this they were able to include data on outcomes
+that we were not able to access. For example, numbers of coronary
+heart disease deaths for GISSI-HF 2008 have risen considerably
+in this version of the review, as we were able to include data on
+coronary heart disease deaths from a greater range of sources
+than were previously published: sudden cardiac deaths, deaths
+due to ventricular arrhythmias, and heart failure in patients with
+coronary heart disease, myocardial infarction, or deaths occurring
+afer coronary revascularisation or heart transplant. Their data are
+also richer with regard to summing people with events (rather than
+numbers of events). Numbers of events are relatively easy to extract
+from published papers, but are not additive across composite
+endpoints such as cardiovascular disease events or coronary heart
+disease events (as a single individual may have experienced a
+stroke and a heart attack as well as onset of angina, but should be
+counted once only within any one composite outcome - counting
+events would lead to their inclusion twice in coronary heart disease
+events and three times for cardiovascular disease events). For that
+reason previous versions of this review have been conservative in
+the data we have used, but use of the Aung 2018 data has allowed
+more data inclusion. The next section discusses similarities and
+diﬀerences between this review and Aung 2018, but their findings
+were highly similar. For example, eﬀects of LCn3 on coronary heart
+disease mortality, our meta-analytic estimate of eﬀect of LCn3 was
+RR 0.90, (95% CI 0.81 to 1.00; I2 = 35%) in 24 trials reporting 3598
+coronary heart disease deaths (Analysis 1.37), while theirs was RR
+0.93 (95% CI 0.83 to 1.03) in 10 trials reporting 2695 coronary heart
+disease deaths.
+While we tried hard to locate all available trials and collect
+additional outcome data where possible, there was evidence from
+funnel plots of some small study bias. Some smaller trials showing
+increased risk of cardiovascular disease outcomes with omega-3
+fats may be missing from some of the meta-analyses. If these trials
+were replaced they would tend to increase risk ratios. This suggests
+that there is some underlying small study bias within the review.
+Underlying risks vary from trial to trial. For example, the risk of
+death in GISSI-HF 2008 was 28% in people with heart failure at
+baseline, but less than 4% in the healthy population recruited to
+VITAL 2019. Despite this there was little suggestion of heterogeneity
+between trials (I2 = 5%; Analysis 1.1). Where there have been
+suggestions of eﬀects we have translated these into benefits or
+harms in both higher- and lower-risk populations to clarify.
+Given that the many LCn3 trials at moderate to high risk of bias
+appear to be inflating any protective eﬀects, and that small trial
+bias is also inflating any protective eﬀects, it is justified to view with
+skepticism the occasional suggestion of a protective eﬀect. We do
+see some protective eﬀects, but they are small. Given the very large
+number of subgroup analyses we carried out, it is also important to
+treat the occasional subgroup analysis that throws up a statistically
+significant diﬀerence between subgroups very cautiously.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+46
+
+[page 59]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+A secondary question asked by this review was about diﬀerential
+eﬀects of dietary and supplemental LCn3 fats. LCn3 interventions
+included dietary advice (advice to eat more oily fish), supplemental
+foods (LCn3 fats incorporated into other foods such as margarine)
+and supplements or capsules (by far the greatest proportion of
+trials). Dietary fish is likely to have diﬀerent health eﬀects, as it
+may take the place of less healthy foods in the diet (leading to
+reduced saturated fat intake, for example) and provides many
+nutrients in addition to omega-3 fats (such as protein, selenium,
+iodine, calcium, magnesium, etc.). There were only four LCn3
+dietary advice trials with event data (DART 1989; DART2 2003;
+DISAF 2003; THIS DIET 2008), and two of these also provided
+fish oil capsules when participants did not want to eat more fish
+(DART 1989; DART2 2003). We found no statistically significant
+diﬀerences between dietary advice subgroups and supplemental
+foods or capsule subgroups for primary outcomes. This may mean
+that health eﬀects between the two types of intervention are not
+diﬀerent, but it is likely that our analysis was underpowered to see
+any such diﬀerences if they exist.
+Population LCn3 status varies widely across the world, from over
+8% of fatty acids in Japan, Scandinavia and other areas with non-
+Westernised dietary patterns to less than 4% in North, South and
+Central America; Europe; the Middle East; Southeast Asia; and
+Africa (Stark 2016). We hypothesised that additional LCn3 might
+have greater health eﬀects in people whose usual LCn3 intake was
+relatively low, but unfortunately we were not able to ascertain
+baseline LCn3 intake or status for most of our included trials.
+However, most of the included trials were carried out in areas of the
+world with lower LCn3 status, so we would expect to see eﬀects of
+increasing LCn3 in most included trials if such eﬀects exist.
+Agreements and disagreements with other studies or
+reviews
+One potential diﬀerence between the findings of this review and
+some other trials and reviews is our running sensitivity analyses
+assessing eﬀects exclusively in trials at low summary risk of
+bias. This clarified the lack of eﬀect of LCn3 fats on stroke,
+which otherwise appeared slightly harmful. On the other hand,
+these sensitivity analyses suggested protective eﬀects of LCn3 on
+coronary heart disease mortality and ALA on cardiovascular events.
+The eﬀectiveness or lack of eﬀectiveness of LCn3 on coronary heart
+disease events is harder to call. The main analysis suggests a 9%
+reduction in coronary heart disease events, but sensitivity analyses
+limiting trials to those at low summary risk of bias, or fixed-eﬀect
+analysis suggested 7% and 8% reductions, while limiting to trials
+with low risk of compliance problems or to larger trials suggested
+reductions of 16% and 11% respectively. We have suggested that
+this implies that LCn3 does slightly reduce risk of coronary heart
+disease events, but the interpretation that there was little or no
+eﬀect is also logical.
+There was no suggestion that blood pressure or risk of adverse
+events such as bleeding diﬀered by LCn3 or ALA intake. This
+suggests that possible mechanisms for omega-3 activity, including
+lowering of blood pressure, reduced thrombotic tendency and anti-
+arrhythmic eﬀects are not important in most adults, though LCn3
+does lower serum triglyceride levels. We did not systematically
+review blood pressure data so may have missed a few long-term
+trials (though not many) – missing data from included trials is
+likely to be a bigger issue. Of the 15 included trials that reported
+blood pressure outcomes, nine reported numbers of hypertensive
+participants at baseline, ranging from 5% in MARINA 2011 to 79% of
+participants in ORIGIN 2012. Eﬀects did not diﬀer by proportions of
+hypertensive participants (I2 was 0% for both systolic and diastolic
+blood pressure; Analysis 3.1).
+Nearly 20 years ago, the GISSI-P 1999 trial suggested that LCn3 had
+its primary eﬀects in reducing sudden cardiac death. However, the
+forest plot clearly shows that subsequent trials have not seen this
+eﬀect individually or in aggregate (Analysis 2.7).
+The scope of this review is similar to that of the extensive Agency
+for Healthcare Research and Quality review (Balk 2016), so we
+have compared our results with theirs. Given that our review
+included 86 RCTs randomising more than 162,000 participants, who
+experienced over 11,000 deaths and more than 5000 cardiovascular
+disease deaths, we were surprised to read that Balk and colleagues
+characterised the body of evidence as having "limited data ...
+from RCTs on the eﬀect of n-3 FA on clinical CVD [cardiovascular
+disease] outcomes" (Balk 2016). This appears to be because the
+Balk review excluded RCTs of people with non-cardiovascular
+disease and non-diabetes-related diseases at baseline, while we
+included them. While Balk 2016 excluded some trials that we
+included, it did not include any trials providing all-cause mortality
+data that we excluded. This meant that in analysing eﬀects
+on all-cause mortality, Balk 2016 included 18 RCTs randomising
+81,027 participants experiencing 8480 deaths, while we included
+more than 143,000 participants randomised to high or low LCn3
+or ALA experiencing 11,297 deaths. Balk 2016 excluded trials
+that we included, such as AREDS2 2014, a high-quality trial
+with 368 deaths in more than 4000 participants with age-related
+macular degeneration. This sort of population appeared ideal
+to us for assessment of omega-3 fats on primary prevention of
+cardiovascular disease, as these people tend to be elderly but there
+is no clear reason why omega-3 fats would aﬀect cardiovascular
+disease diﬀerently in this population than in other older adults at
+usual cardiovascular disease risk.
+Despite these slight diﬀerences in approach, we obtained very
+similar eﬀect estimates to Balk 2016. We meta-analysed eﬀects of
+LCn3 and ALA trials, finding an RR for all-cause mortality of 0.97
+(95% CI 0.93 to 1.01; I2 = 5%), compared to a pooled RR for all-cause
+mortality of 0.97 (95% CI 0.92 to 1.03) in Balk 2016. While that review
+seldom pooled their results, we can compare our results with theirs
+where they did. Despite our slightly diﬀerent inclusion criteria, our
+results are very comparable (Table 8).
+A recent individual meta-analysis of 10 large trials in almost 78,000
+people at high risk of cardiovascular disease found no associations
+of LCn3 with coronary heart disease mortality (RR 0.93, 99% CI 0.83
+to 1.03), nonfatal myocardial infarction (RR 0.97, 99% CI 0.87 to
+1.08), coronary heart disease events (RR 0.96, 95% CI 0.90 to 1.01)
+or major vascular events (RR 0.97, 95% CI 0.93 to 1.01; Aung 2018).
+Aung 2018 included individual patient data from the participants
+of large, long trials (randomising at least 500 participants and
+following them for at least one year) (AlphaOmega - EPA+DHA 2010;
+AREDS2 2014; DO IT 2010; GISSI-HF 2008; GISSI-P 1999; JELIS 2007;
+OMEGA 2009; ORIGIN 2012; Risk & Prevention 2013; SU.FOL.OM3
+2010), and this review includes all these trials. Their review had
+the advantage of being able to ensure that they had complete
+and equivalent data for all of their key outcomes from all the
+trials, reducing the risk of publication bias (and this review has
+incorporated some of their data to improve and extend our data
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+47
+
+[page 60]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+set), but the disadvantage of missing all the data from many large
+LCn3 trials such as DART 1989, DART2 2003, FORWARD 2013, MAPT
+2017, SHOT 1996 and SOFA 2006, all LCn3 trials randomising at
+least 500 participants. It also missed large trials of LCn3 in lower-
+risk participants such as OPAL 2010, and large trials of ALA such
+as MARGARIN 2002, Norwegian 1968 and WAHA 2016, as well as
+all the smaller trials. However, though taking diﬀerent approaches,
+the numerical results of this review and Aung 2018 are also very
+similar (Table 8). Aung 2018 has been updated with data from the
+three largest recent trials (ASCEND 2018; REDUCE-IT 2019; VITAL
+2019), published as Hu 2019. This review, Balk 2016, Aung 2018
+and Hu 2019 addressed the analysis of the data in slightly diﬀerent
+ways, creating sensitivity analyses for each other. The fact that
+they came to similar numerical conclusions reassures us that our
+conclusions are solidly based. However, the risk ratios for coronary
+heart disease mortality and events have fallen in this update of the
+review and crossed the line to suggest small beneficial eﬀects of
+LCn3.
+Cardiovascular diseases and cancers are both major non-
+communicable killers, so overall assessment of the utility of
+increasing omega-3 fats will depend on eﬀects on both sets of
+outcomes. Figure 6 summarises the information on absolute eﬀects
+of LCn3 and ALA on cardiovascular and cancer outcomes (focusing
+on outcomes where risk ratios were < 0.92 or > 1.08). The cancer
+data come from a sister review (Hanson 2019). Combining data from
+the two reviews suggests that for every 1000 men increasing their
+intake of LCn3, three will avoid dying from coronary heart disease,
+six will avoid a coronary heart disease event, one will avoid the
+diagnosis of arrhythmia and three additional men will be diagnosed
+with prostate cancer. Similarly, for every 1000 men increasing their
+intake of ALA two will avoid a cardiovascular disease event and 11
+will avoid diagnosis of arrhythmia but three additional men will
+be diagnosed with prostate cancer (Figure 6). These small negative
+eﬀects on cancer outcomes for men attenuate the small beneficial
+eﬀects of LCn3 and ALA on cardiovascular outcomes.
+ 
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+48
+
+[page 61]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 6.   Assessment of health eﬀects across cancers and cardiovascular outcomes. Bars above zero suggest the
+number of people who would benefit out of 1000 people consuming more long-chain omega-3 (LCn3) or alpha-
+linolenic acid (ALA), bars below zero suggest the number of people who would be harmed out of 1000 people
+consuming more LCn3 or ALA. Cardiovascular disease (CVD) data are from this review, cancer data from a sister
+review (Hanson 2019). CHD: coronary heart disease.
+ 
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+We found high-certainty evidence that long-chain omega-3 fats
+(LCn3) do not have important positive or negative eﬀects
+on mortality or cardiovascular events and moderate-certainty
+evidence that they have little or no eﬀect on cardiovascular disease
+mortality, stroke or arrhythmia in primary or secondary prevention.
+However, we found low-certainty evidence that LCn3 slightly
+reduces risk of coronary heart disease mortality (number needed
+to treat for an additional beneficial outcome (NNTB) 334, NNTB 200
+in secondary prevention, NNTB 1000 in primary prevention), and
+coronary heart disease events (NNTB 167, NNTB 143 in secondary
+prevention, NNTB 200 in primary prevention). As these eﬀects
+are very small (and numbers needed to treat for an additional
+benefit high), supplemental LCn3 fats are probably not useful for
+preventing or treating cardiovascular disease. LCn3 fats can help
+to reduce serum triglycerides, though they do not appear to aﬀect
+body fatness or other lipid fractions.
+An NNTB of 167 means that 167 people will need to take LCn3
+supplements for around four years each so that one of those people
+avoids a coronary heart disease event. The other 166 people receive
+no benefit. Similarly, an NNTB of 334 means that 334 people need
+to take LCn3 supplements for around four years each for one person
+to avoid death from coronary heart disease, the other 333 people
+do not benefit.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+49
+
+[page 62]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+How does an NNTB of 143 or 500 compare with eﬀective
+medications in cardiovascular disease prevention? Could we
+compare, for example, with the use of statins in secondary
+prevention of myocardial infarction or ezetimibe added to statins
+afer acute coronary syndrome? In the 4S trial (Scandinavian
+Simvastatin Survival Study Group 1994), 8% of the participants
+taking simvastatin died, and 12% of those taking the placebo died, a
+diﬀerence of 4%, so the NNTB was 25. Twenty-five people needed to
+take simvastatin for around five years to prevent one person dying.
+Most of us decide to take statins post-myocardial infarction. Ten-
+year NNTBs for statins in primary prevention when used according
+to appropriate guidance are around 30, to prevent one case
+of atherosclerotic cardiovascular disease (Mortensen 2019). The
+IMPROVE-IT trial showed that giving ezetimibe in addition to statin
+to 50 people with acute coronary syndrome for seven years each
+prevents one person from having a cardiovascular event (Turgeon
+2015).
+Individuals may make diﬀering decisions about whether an NNTB
+of 143 is useful. Perhaps NNTBs should be noted on fish oil
+supplement packages: “If 143 people with existing cardiovascular
+disease take this supplement for 5 years each then one of those
+143 people will avoid a coronary event (such as a heart attack).
+If 1000 people without existing cardiovascular disease take this
+supplement for 5 years each then one person will avoid dying from
+coronary heart disease”. Then each of us could decide whether this
+is the way we wish to spend our money, on omega-3 supplements
+or a diﬀerent cardiovascular treat such as a pair of running shoes,
+healthy fruit or fish, or a relaxation class.
+Most evidence on LCn3 fats came from trials of capsules of fish
+oil or eicosapentaenoic acid (EPA)/docosahexaenoic acid (DHA)
+mixtures. While we did not see important diﬀerences between trials
+of supplemental capsules and trials of oily fish, there were few trials
+of oily fish. Fish and seafood are nutrient-dense and rich in a variety
+of other nutrients (such as vitamin D, calcium, iodine, selenium) so
+are useful foods even without cardiovascular benefits. In light of the
+evidence in this review it would be appropriate to review oﬀicial
+recommendations supporting supplemental LCn3 fatty acid intake.
+We found low-certainty evidence that increasing ALA may slightly
+reduce risk of cardiovascular disease events (NNTB 500) and
+moderate-certainty evidence that increasing ALA probably reduces
+risk of arrhythmia (NNTB 91). However, there is probably little
+or no eﬀect on all-cause or cardiovascular mortality, coronary
+heart disease mortality or coronary heart disease events (low- and
+moderate-certainty evidence). As with LCn3, eﬀects of ALA were
+very small; 91 people would need to increase their ALA intake to
+prevent one person developing arrhythmia, and 500 would need to
+take more ALA to prevent one person experiencing a cardiovascular
+disease event. We found no evidence that ALA aﬀected adiposity or
+serum lipids. Trials of ALA gave ALA-rich or enriched foods such as
+walnuts or ALA-enriched margarine.
+Implications for research
+There are several large ongoing trials of supplemental LCn3 fats
+(see Characteristics of ongoing studies, and large parts of VITAL
+2019 are ongoing). We suggest that given the minimal protective
+eﬀects suggested for omega-3 fats in the large number of trials
+to date, no further trials should be initiated until the ongoing
+trials have reported. Ongoing and completed trials should make
+data on baseline LCn3 intake, and details of deaths, cardiovascular
+outcomes, lipids, adiposity and blood pressure available, as well as
+other key health outcomes, regardless of their primary outcomes.
+Further large and high-certainty trials of ALA carried out in lower-
+and higher-income countries, and that assess baseline ALA intake
+and use biomarkers to assess compliance would be helpful to
+clarify the cardiovascular eﬀects of ALA. Similarly trials of dietary
+fish would be helpful.
+A C K N O W L E D G E M E N T S
+The wider set of reviews, including this one, were carried out
+by the Polyunsaturated Fats and Health (PUFAH) group. PUFAH
+includes Asmaa Abdelhamid, Zoya Ahmed, Sarah MA Ajabnoor, Fai
+K AlAbdulghafoor, Lena Al-Khudairy, Priti Biswas, Julii Suzanne
+Brainard, Charlene Bridges, Tracey J Brown, Katherine HO Deane,
+Daisy H Donaldson, Sarah Hanson, Lee Hooper, Oluseyi F Jimoh,
+Nicole Martin, Katie Maas, Helen J Moore, Alex T O’Brien, Karen
+Rees, Ruksana Sivakaran, Fujian Song, Carolyn D Summerbell,,
+Gabrielle C Thorpe, Xia Wang , Ailsa Welch, Lauren Winstanley, and
+Helen V Worthington.
+The review authors thank all of the authors of primary trials
+who kindly provided us with the best set of data available,
+including: D Kromhout, Wageningen University (AlphaOmega - ALA
+2010; AlphaOmega - EPA+DHA 2010); Emily Chew, NIH (AREDS2
+2014); J Brox, University Hospital of North Norway (Brox 2001);
+C Argo, University of Virginia (Caldwell 2011); ML Burr, University
+of Wales and A Ness, University of Bristol (DART 1989; DART2
+2003); G Derosa and P Maﬀioli, University of Pavia (Derosa 2016);
+PNM Demacker, University Hospital Nijmegen (Deslypere 1992);
+S Tokudome, National Institue of Health and Nutrition, Japan
+(DIPP 2015); R Harrison, University of Manchester, UK (DISAF
+2003); G Einvik, Akershus University Hospital and H Arnesen,
+Oslo University Hospital (DO IT 2010); S Dodin, Universite Laval
+(Dodin 2005); D Schoenfeld, Harvard Medical School (FAAT 2005);
+A Macchia, Fundacio'n GESICA (FORWARD 2013); C Hill, the
+Queen Elizabeth Hospital (FOSTAR 2016); D Franzen, Universitat
+zu Koln (Franzen 1993); P Bauer, Medical University of Vienna
+(Lorenz-Meyer 1996); WJ Bemelmans, National Institute for Public
+Health and the Environment, Bilthoven (MARGARIN 2002); T
+Sanders, King's College, London (MARINA 2011); E Souied, Hôpital
+intercommunal de Créteil, France (NAT2 2013); D Nilsen, University
+of Bergen, Norway (OFAMI 2001); S Schneider, Institut für
+Herzinfarktforschung, Germany (OMEGA 2009); A Dangour, London
+School of Hygiene & Tropical Medicine (OPAL 2010); M James, Royal
+Adelaide Hospital, Australia (Proudman 2015); R Zurier, University
+of Massachusetts Medical School (Reed 2014); C Roncaglioni and
+I Marzona, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri,
+Italy (Risk & Prevention 2013); A Manni, Penn State College of
+Medicine, USA (Sandhu 2016); C von Schacky, Ludwig Maximilians
+University, Munich, Germany (SCIMO 1999); L Tapsell, M Batterham
+and E Neale, University of Wollongong, Australia (SMART 2013);
+P Galan, Université Paris (SU.FOL.OM3 2010); K Tande, Calanus
+AS, Norway (Tande 2016); K Tuttle, Sacred Heart Medical Center,
+Spokane (THIS DIET 2008); J Sabaté, Loma Linda University,
+California (WAHA 2016); E Scorletti, University of Southampton, UK
+(WELCOME 2015).
+Thanks also to the authors who replied but were not able to provide
+further details or confirmed no relevant outcomes, including: S
+Jebb, University of Oxford (FISH 2012); R Holman, University of
+Oxford (AFORRD 2010); J Quinn, Oregon Health & Science University
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+50
+
+[page 63]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+(ADCS 2010); D Bates, Royal Victoria Infirmary, Newcastle on
+Tyne and R Dworkin, University of Rochester, UK (Bates 1989);
+E Berson, Harvard Medical School, USA (Berson 2004); A Sanyal,
+Virginia Commonwealth University, USA (EPE-A 2014); G Pierce,
+St. Boniface Hospital Research Centre, Canada (FLAX-PAD 2013);
+H Gerstein, McMaster University, Canada (ORIGIN 2012); B Puri,
+Imperial College London (Puri 2005); M Raitt, Oregon Health &
+Science University, USA (Raitt 2005); J Eritsland, Oslo University
+Hospital, Norway (SHOT 1996); and I Brouwer, Vrije Universiteit
+Amsterdam, the Netherlands (SOFA 2006).
+Warm thanks and appreciation to the authors of the first review
+who did not continue as authors in the review update, including
+Roger A Harrison, Andrew Ness, Nigel E Capps, George Davey Smith,
+Shah BJ Ebrahim and Rudolph A Riemersma. Acknowledgements
+for the earlier version of this systematic review, which we have
+built on to create the current review: our thanks to Julian Higgins,
+who was involved in the design of the review, along with Theresa
+Moore and Margaret Burke from Cochrane Heart. Also to Charlotte
+C Hammer for help with German translation for Franzen 1993.
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+51
+
+[page 64]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+ADCS 2010 {published data only}
+Quinn JF, Raman R, Thomas RG, Yurko-Mauro K, Nelson EB,
+Van Dyck C, et al. Docosahexaenoic acid supplementation and
+cognitive decline in Alzheimer disease: a randomized trial. JAMA
+2010;304(17):1903-11.
+AFFORD 2013 {published data only}
+*  Nigam A, Talajic M, Roy D, Nattel S, Lambert J, Nozza A, et
+al. Fish oil for the reduction of atrial fibrillation recurrence,
+inflammation, and oxidative stress. Journal of the American
+College of Cardiology 2014;64(14):1441-8.
+Nigam A, Talajic M, Roy D, Nattel S, Lambert J, Nozza A,
+et al. Multicentre trial of fish oil for the reduction of atrial
+fibrillation recurrence, inflammation and oxidative stress: the
+atrial fibrillation fish oil research study. Canadian Journal of
+Cardiology 2013;1:S383.
+Ahn 2016 {published data only}
+Ahn J, Park SK, Park TS, Kim JH, Yun E, Kim SP, et al. Eﬀect
+of n-3 polyunsaturated fatty acids on regression of coronary
+atherosclerosis in statin treated patients undergoing
+percutaneous coronary intervention. Korean Circulation Journal
+2016;46(4):481-9. [PUBMED: 27482256]
+AlphaOmega - ALA 2010 {published and unpublished data}
+Brouwer IA, Geleijnse JM, Klaasen VM, Smit LA, Giltay EJ,
+De Goede J, et al. Eﬀect of alpha linolenic acid supplementation
+on serum prostate specific antigen (PSA): results from the Alpha
+Omega Trial. PLOS ONE 2013;8(12):e81519.
+Eussen SR, Geleijnse JM, Giltay EJ, Rompelberg CJ,
+Klungel OH, Kromhout D. Eﬀects of n-3 fatty acids on major
+cardiovascular events in statin users and non-users with a
+history of myocardial infarction. European Heart Journal
+2012;33(13):1582-8.
+Geleijnse J, Giltay E, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2011;1:S512.
+Geleijnse JM, Giltay EJ, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized, double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2012;8(4):278-87.
+Geleijnse JM, Giltay EJ, Schouten EG, De Goede J, Oude
+Griep LM, Teitsma-Jansen AM, et al. Eﬀect of low doses of n-3
+fatty acids on cardiovascular diseases in 4,837 post-myocardial
+infarction patients: design and baseline characteristics of the
+Alpha Omega Trial. American Heart Journal 2010;159(4):539-46.
+[DOI: 10/1016/j.ahj.2009.12.033]
+Giltay EJ, Geleijnse JM, Heijboer AC, De Goede J, Oude
+Griep LM, Blankenstein MA, et al. No eﬀects of n-3 fatty acid
+supplementation on serum total testosterone levels in older
+men: the Alpha Omega Trial. International Journal of Andrology
+2012;35(5):680-7.
+Giltay EJ, Geleijnse JM, Kromhout D. Eﬀects of n-3 fatty acids
+on depressive symptoms and dispositional optimism afer
+myocardial infarction. American Journal of Clinical Nutrition
+2011;94(6):1442-50.
+Hoogeveen E, Gemen E, Geleijnse M, Kusters R, Kromhout D,
+Giltay E. Eﬀects of n-3 fatty acids on decline of kidney function
+afer myocardial infarction: Alpha Omega Trial. Nephrology
+Dialysis Transplantation 2012;27:ii64.
+Hoogeveen EK, Geleijnse JM, Kromhout D, Giltay EJ. No eﬀect
+of n-3 fatty acids on high-sensitivity C-reactive protein afer
+myocardial infarction: the Alpha Omega Trial. European Journal
+of Preventive Cardiology 2014;21(11):1429-36.
+Hoogeveen EK, Geleijnse JM, Kromhout D, Stijnen T, Gemen EF,
+Kusters R, et al. Eﬀect of omega-3 fatty acids on kidney
+function afer myocardial infarction: the Alpha Omega Trial.
+Clinical Journal of The American Society of Nephrology: CJASN
+2014;9(10):1676-83.
+Kromhout D, Geleijnse JM, De Goede J, Oude Griep LM,
+Mulder BJ, De Boer MJ, et al. N-3 fatty acids, ventricular
+arrhythmia-related events, and fatal myocardial infarction in
+post myocardial infarction patients with diabetes. Diabetes Care
+2011;34(12):2515-20.
+*  Kromhout D, Giltay EJ, Geleijnse JM, Alpha Omega Trial
+Group. N-3 fatty acids and cardiovascular events afer
+myocardial infarction. New England Journal of Medicine
+2010;363(18):2015-26.
+AlphaOmega - EPA+DHA 2010 {published and unpublished data}
+Aung T, Halsey J, Kromhout D, Gerstein HC, Marchioli R,
+Tavazzi L, et al. Associations of omega-3 fatty acid supplement
+use with cardiovascular disease risks: meta-analysis of 10 trials
+involving 77 917 individuals. JAMA Cardiology 2018;3(3):225-34.
+[DOI: 10.1001/jamacardio.2017.5205]
+Brouwer IA, Geleijnse JM, Klaasen VM, Smit LA, Giltay EJ,
+De Goede J, et al. Eﬀect of alpha linolenic acid supplementation
+on serum prostate specific antigen (PSA): results from the Alpha
+Omega Trial. PLOS ONE 2013;8(12):e81519.
+Eussen SR, Geleijnse JM, Giltay EJ, Rompelberg CJ,
+Klungel OH, Kromhout D. Eﬀects of n-3 fatty acids on major
+cardiovascular events in statin users and non-users with a
+history of myocardial infarction. European Heart Journal
+2012;33(13):1582-8.
+Geleijnse J, Giltay E, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2011;1:S512.
+Geleijnse JM, Giltay EJ, Kromhout D. Eﬀects of n-3 fatty acids
+on cognitive decline: a randomized, double-blind, placebo-
+controlled trial in stable myocardial infarction patients.
+Alzheimer's & Dementia 2012;8(4):278-87.
+Geleijnse JM, Giltay EJ, Schouten EG, De Goede J, Oude
+Griep LM, Teitsma-Jansen AM, et al. Eﬀect of low doses of n-3
+Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+52

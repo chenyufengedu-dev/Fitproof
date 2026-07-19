@@ -1,0 +1,3424 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+ 
+ 
+Ooi CP, Yassin Z, Hamid TA
+ 
+ 
+Ooi CP, Yassin Z, Hamid TA. 
+Momordica charantia for type 2 diabetes mellitus. 
+Cochrane Database of Systematic Reviews 2012, Issue 8. Art. No.: CD007845. 
+DOI: 10.1002/14651858.CD007845.pub3.
+ 
+ 
+www.cochranelibrary.com
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+ 
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+SUMMARY OF FINDINGS..............................................................................................................................................................................
+3
+BACKGROUND..............................................................................................................................................................................................
+5
+OBJECTIVES..................................................................................................................................................................................................
+6
+METHODS.....................................................................................................................................................................................................
+6
+Figure 1..................................................................................................................................................................................................
+8
+RESULTS........................................................................................................................................................................................................
+9
+Figure 2..................................................................................................................................................................................................
+10
+Figure 3..................................................................................................................................................................................................
+11
+DISCUSSION..................................................................................................................................................................................................
+12
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+13
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+14
+REFERENCES................................................................................................................................................................................................
+15
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+19
+DATA AND ANALYSES....................................................................................................................................................................................
+26
+Analysis 1.1. Comparison 1 Momordica charantia capsules versus placebo, Outcome 1 Change in HbA1c....................................
+26
+Analysis 1.2. Comparison 1 Momordica charantia capsules versus placebo, Outcome 2 Change in fasting blood glucose............
+26
+Analysis 1.3. Comparison 1 Momordica charantia capsules versus placebo, Outcome 3 Change in total cholesterol....................
+26
+Analysis 1.4. Comparison 1 Momordica charantia capsules versus placebo, Outcome 4 Change in body mass index...................
+27
+Analysis 2.1. Comparison 2 Momordica charantia (dried fruits) tablets versus placebo, Outcome 1 Fasting blood glucose..........
+27
+Analysis 2.2. Comparison 2 Momordica charantia (dried fruits) tablets versus placebo, Outcome 2 Post-prandial blood glucose....
+27
+Analysis 2.3. Comparison 2 Momordica charantia (dried fruits) tablets versus placebo, Outcome 3 Change in serum
+fructosamine..........................................................................................................................................................................................
+28
+Analysis 3.1. Comparison 3 Momordica charantia (dried fruits) capsules versus metformin, Outcome 1 Serum fructosamine......
+28
+ADDITIONAL TABLES....................................................................................................................................................................................
+29
+APPENDICES.................................................................................................................................................................................................
+31
+FEEDBACK.....................................................................................................................................................................................................
+38
+WHAT'S NEW.................................................................................................................................................................................................
+38
+HISTORY........................................................................................................................................................................................................
+38
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+38
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+38
+SOURCES OF SUPPORT...............................................................................................................................................................................
+39
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+39
+INDEX TERMS...............................................................................................................................................................................................
+39
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Momordica charantia for type 2 diabetes mellitus
+Cheow Peng Ooi1, Zaitun Yassin2, Tengku-Aizan Hamid3
+1Endocrine Unit, Department of Medicine, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Serdang, Malaysia.
+2Department of Nutrition and Dietetics, Faculty of Medicine & Health Sciences, University Putra Malaysia, Selangor, Malaysia. 3Institute
+of Gerontology, Universiti Putra Malaysia, Serdang, Malaysia
+Contact: Cheow Peng Ooi, Endocrine Unit, Department of Medicine, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia,
+Serdang, Selangor DE, 43400, Malaysia. cpooi07@gmail.com.
+Editorial group: Cochrane Metabolic and Endocrine Disorders Group.
+Publication status and date: Edited (no change to conclusions), comment added to review, published in Issue 12, 2013.
+Citation:  Ooi CP, Yassin Z, Hamid TA. Momordica charantia for type 2 diabetes mellitus. Cochrane Database of Systematic Reviews 2012,
+Issue 8. Art. No.: CD007845. DOI: 10.1002/14651858.CD007845.pub3.
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Momordica charantia (bitter gourd) is not only a nutritious vegetable but it is also used in traditional medical practices to treat type 2
+diabetes mellitus. Experimental studies with animals and humans suggested that the vegetable has a possible role in glycaemic control.
+Objectives
+To assess the eﬀects of mormodica charantia for type 2 diabetes mellitus.
+Search methods
+Several electronic databases were searched, among these were The Cochrane Library (Issue 1, 2012), MEDLINE, EMBASE, CINAHL, SIGLE
+and LILACS (all up to February 2012), combined with handsearches. No language restriction was used.
+Selection criteria
+We included randomised controlled trials (RCTs) that compared momordica charantia with placebo or a control intervention, with or
+without pharmacological or non-pharmacological interventions.
+Data collection and analysis
+Two authors independently extracted data. Risk of bias of the trials was evaluated using the parameters of randomisation, allocation
+concealment, blinding, completeness of outcome data, selective reporting and other potential sources of bias. A meta-analysis was not
+performed given the quality of data and the variability of preparations of momordica charantia used in the interventions (no similar
+preparation was tested twice).
+Main results
+Four randomised controlled trials with up to three months duration and investigating 479 participants met the inclusion criteria. Risk
+of bias of these trials (only two studies were published as a full peer-reviewed publication) was generally high. Two RCTs compared the
+eﬀects of preparations from diﬀerent parts of the momordica charantia plant with placebo on glycaemic control in type 2 diabetes mellitus.
+There was no statistically significant diﬀerence in the glycaemic control with momordica charantia preparations compared to placebo.
+When momordica charantia was compared to metformin or glibenclamide, there was also no significant change in reliable parameters
+of glycaemic control. No serious adverse eﬀects were reported in any trial. No trial investigated death from any cause, morbidity, health-
+related quality of life or costs.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Authors' conclusions
+There is insuﬀicient evidence on the eﬀects of momordica charantia for type 2 diabetes mellitus. Further studies are therefore required to
+address the issues of standardization and the quality control of preparations. For medical nutritional therapy, further observational trials
+evaluating the eﬀects of momordica charantia are needed before RCTs are established to guide any recommendations in clinical practice.
+P L A I N   L A N G U A G E   S U M M A R Y
+Momordica charantia for type 2 diabetes mellitus
+Mormordica charantia (bitter gourd or bitter melon) is a climbing perennial that is characterized by elongated, warty fruit-like gourds or
+cucumbers and is native to the tropical belt. Although momordica charantia is commonly used in traditional medical practices, along
+with research suggesting its benefits for people with type 2 diabetes, the current evidence does not warrant using the plant in treating
+this disease. This review of trials found only four studies which had an overall low quality. Three trials showed no significant diﬀerences
+between momordica charantia and placebo or antidiabetic drugs (glibenclamide and metformin) in the blood sugar response. The duration
+of treatment ranged from four weeks to three months, and altogether 479 patients with type 2 diabetes mellitus participated. No trial
+investigated death from any cause, morbidity, health-related quality of life or costs. Adverse eﬀects were mostly moderate, including
+diarrhoea and abdominal pain. However, reporting of adverse eﬀects was incomplete in the included studies. There are many varieties of
+preparations of momordica charantia, as well as variations in its use as a vegetable. Further studies are needed to assess the quality of the
+various momordica charantia preparations as well as to further evaluate its use in the diet of diabetic people.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+S U M M A R Y   O F   F I N D I N G S
+ 
+Summary of findings for the main comparison.   Momordica charantia for type 2 diabetes mellitus
+Momordica charantia for type 2 diabetes mellitus
+Patient or population: Patients with type 2 diabetes mellitus
+Settings: Out-patients
+Intervention: Momordica charantia
+Comparison: Placebo, glibenclamide or metformin
+Illustrative comparative risks* (95% CI)
+Assumed risk
+Corresponding risk
+Outcomes
+Control
+Momordica charan-
+tia
+Relative effect
+(95% CI)
+No of Partici-
+pants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+Death from any cause
+See comment
+See comment
+Not estimable
+See comment
+See comment
+Not investigated
+Morbidity
+See comment
+See comment
+Not estimable
+See comment
+See comment
+Not investigated
+Adverse effects 
+(Follow-up: 4 to 12 weeks)
+Not estimable
+Not estimable
+Not estimable
+479 (4)
+⊕⊕⊝⊝
+low 1
+3 out of 4 studies re-
+ported some adverse
+effects
+Health-related quality of life
+See comment
+See comment
+Not estimable
+See comment
+See comment
+Not investigated
+Costs
+See comment
+See comment
+Not estimable
+See comment
+See comment
+Not investigated
+Change in HbA1c from baseline to end-
+point 
+(Follow-up: 3 months)
+0.2 (favouring placebo)
+-0.4 to 0.8
+40 (1)
+⊕⊝⊝⊝
+very low 2
+ 
+*The basis for the assumed risk (e.g. the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% confidence interval) is
+based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval; RR: Risk ratio;
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 6]
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+1 incomplete reporting of adverse eﬀects in studies, short time periods
+2 one study with low number of participants
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+Diabetes mellitus is a metabolic disorder resulting from a defect in
+insulin secretion or insulin action, or both. A consequence of this is
+chronic hyperglycaemia (that is elevated levels of plasma glucose)
+with disturbances of carbohydrate, fat and protein metabolism.
+Long-term complications of diabetes mellitus include retinopathy,
+nephropathy and neuropathy. The risk of cardiovascular disease
+is increased. For a detailed overview of diabetes mellitus, please
+see 'Additional information' in the information on the Metabolic
+and Endocrine Disorders Group in The Cochrane Library (see
+'About', 'Cochrane Review Groups (CRGs)'). For an explanation
+of methodological terms, see the main glossary in The Cochrane
+Library.
+Type 2 diabetes mellitus (T2DM) is a global public health issue,
+particularly in older adults (Abegunde 2007; Wild 2004). The
+increase in the numbers of the younger population with T2DM is
+also a cause for concern due to the implication of pathogenic or
+accelerated aging changes at the molecular level and associated
+losses of function (Monnier 2005).
+Description of the intervention
+Mormordica charantia (bitter gourd or bitter melon) (MC), a
+member of the Cucurbitaceae family, is a climbing perennial that
+is characterized by elongated, warty fruit-like gourds or cucumbers
+and is native to the tropical belt (Siemonsma 1997). The white or
+green unripe fruit changes to yellow or orange on ripening, and its
+characteristic bitter taste becomes more pronounced. This market
+vegetable is nutritionally rich in vitamins A, C and beta-carotene, as
+well as minerals such as iron, and phosphorus and potassium.
+Besides its presence having extended to the global culinary stage,
+this popular botanical specimen of the Asian-Pacific, African and
+the Caribbean regions is an important resource for traditional
+medicine practices of many regions in the treatment of T2DM. The
+entire plant (that is, its seeds, fruit, leaves and roots) has also been
+used to treat dyslipidaemia, microbial infections and hypertension;
+to accelerate wound healing and inflammation; and as a laxative
+and emmenagogue.
+How the intervention might work
+The blood glucose-lowering activities of MC have been
+consistently demonstrated in both animal studies (Chaturvedi
+2005; Leatherdale 1981; Shetty 2005) and clinical trials (Ahmad
+1999; Khanna 1981; Leatherdale 1981; Welihinda 1986). A number
+of bioactive phytochemical compounds have been isolated from
+it. Mechanisms of activity have been attributed to enhancement of
+beta-cell integrity (Ahmed 1998; Singh 2007), promotion of insulin
+release (Fernandes 2007), insulin-like activity (Cummings 2004),
+and extrapancreatic eﬀects. The latter include the inhibition of
+glucose transportation at the brush border of the small intestine
+(Shetty 2005).
+Furthermore, MC has been shown to improve carbohydrate
+metabolism in the liver of diabetic mice through the stimulation of
+enzymes of the glycolytic pathway (Rathi 2002a). The metformin-
+and sulphonylurea-like glycaemic control activities (Rotshteyn
+2004) of MC are also augmented with exercise (Miura 2004).  In
+addition to glycaemic control, MC has been proposed to have
+protective eﬀects on target organs by delaying nephropathy (Kumar
+2008), neuropathy (Ahmed 2004), retinopathy (Srivastava 1987),
+gastroparesis (Grover 2002a) and cataract (Rathi 2002b), as well as
+atherosclerosis (Ahmed 2001; Chaturvedi 2005). The antilipaemic
+activity of MC extracts in animal studies has suggested inhibition
+of pancreatic lipase activity resulting in subsequent decreases in
+lipid absorption (Oishi 2007) and inhibition of membrane lipid
+peroxidation (Ahmed 2001).                                               
+The broad-spectrum antimicrobial activity of MC (Braca 2008;
+Frame 1998; Ogata 1991; Omoregbe 1996; Yesilada 1999) may
+protect vulnerable diabetic individuals, as well as non-diabetic
+people, against disease-causing organisms that are prevalent in
+areas where this vegetable is popular. Although the protective
+mechanisms against all of these organisms have not been
+determined, the immune-stimulating properties of MC in microbial
+infections (Cunnick 1990) and its prevention of viral penetration of
+the cell wall may be critical functions (Bourinbaiar 1996). 
+Therefore, in clinical terms, the aforementioned properties can
+lead to improvement of glycaemic control, insulin resistance and
+the associated hyperlipidaemia, as well as to the possibility of
+protection from infections and improved wound healing. Besides
+the direct eﬀect of glycaemic control in delaying complications,
+there may be additional protective eﬀects on target organs. 
+Adverse eﬀects of the intervention
+Hypoglycaemia has been the primary measure in both animal (Abd
+El Sattar El Batran 2006) and human studies (Leatherdale 1981;
+Srivastava 1993). The interpretation of human studies, however,
+has been limited by their weak methodology. Anecdotal cases of
+hypoglycaemic coma and convulsions in children were reported
+with bitter melon tea (Hulin 1988a; Hulin 1988b). This adverse
+eﬀect was also potentiated by rosiglitazone (Nivitabishekam 2008),
+metformin and sulphonylureas (Tongia 2004). Besides the mild
+hypotensive response noted in rat studies (Ojewole 2006), the
+presence of vicine, a favism-inducing glycosidic compound, in the
+seeds may put patients with glucose-6-phosphatase deficiency at
+risk (Dutta 1981). Finally, the abortifacient eﬀects of raw fruits have
+cast doubt on the safety of their consumption during pregnancy
+(Chan 1984; Chan 1985; Chan 1986).
+Why it is important to do this review
+The Asian-Pacific region is currently at the forefront of the
+type 2 diabetes mellitus (T2DM) epidemic (Cockram 2000).
+Coping with the increased prevalence of T2DM and its related
+functional disabilities will exhaust resources due to the intensive
+requirements of quality care (Lee 2007; Selvin 2006). Controlling
+the disease and its complications must be prioritised to prevent
+these additional burdens on the individual, family and society
+(Waidmann 2000). Proper glycaemia control, which has been
+shown to reduce morbidities and prevent disabilities, is achieved
+by striking a balance between nutrition, physical activity,
+medication and psychosocial factors (UKPDS 37). Delaying or
+compressing these diabetes-related morbidities may thus increase
+a patient’s years of health.
+Traditionally, medical nutritional therapy for T2DM has emphasized
+diets that have low fat and high complex carbohydrate contents,
+as well as the need for appropriate portions of proteins,
+essential micronutrients, and minerals (Bantle 2008). Although
+there are over 600 culinary botanicals influencing insulin-glucose
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+metabolism reported in the published literature (Bailey 1989;
+Grover 2002b; Li 2004; Mukherjee 2006), there is no evidence to
+support recommendations to consume these specific foods in the
+management of T2DM in current mainstream medical practice.
+In addition, drug-nutrient interactions that can develop with
+the concurrent use of drugs may be underemphasized (Genser
+2008). Failure to identify and properly manage drug-nutrient
+interactions can result in serious adverse consequences, notably
+hypoglycaemia (Nivitabishekam 2008; Tongia 2004). Thus, the
+result of such treatment failures can aggravate the existing burden
+of care and compound the already escalating healthcare costs. 
+Although preliminary experimental animal model studies have
+implicated the influence of MC on glucose-insulin metabolism in
+T2DM, knowledge gaps still exist in the translation of the adverse
+eﬀects and eﬀicacy of this botanical to the clinical arena. In addition
+to being an important nutritious food source, there are also many
+processed products and food supplements that contain MC or its
+extract and tout its benefit in diabetes management. Therefore,
+understanding this natural resource of the region will not only
+provide more accessible, flexible, and quality nutritional choices
+to the diabetic patients but also enable clinicians to improve the
+management of T2DM in these countries.
+Given the prevalence of T2DM and the potentially serious outcomes
+of this disease, it is important to address the gaps in the literature.
+There has been no systematic review in the recent literature
+specifically on the clinical eﬀects of momordica charantia in type 2
+diabetes mellitus. In addition, this review attempts to identify the
+diﬀiculties in interpretation of publication results on this subject in
+the clinical setting.
+O B J E C T I V E S
+To assess the eﬀects of mormodica charantia on type 2 diabetes
+mellitus.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomised controlled clinical trials.
+Types of participants
+Adults over 18 years, of either gender, who have type 2 diabetes
+mellitus based on the diagnostic criteria below. The exclusion
+criteria include patients younger than 18 years, and those with
+normal fasting blood glucose and postprandial glucose levels.
+Patients with concomitant endocrinopathy aﬀecting their blood
+glucose levels were also excluded.
+To be consistent with changes in the classification and diagnostic
+criteria of type 2 diabetes mellitus through the years, the diagnosis
+should have been established using the standard criteria valid at
+the time of the beginning of the trial (for example ADA 1997; ADA
+1999; WHO 1980; WHO 1985; WHO 1998). Ideally, diagnostic criteria
+should have been described. If necessary, authors' definition of
+diabetes mellitus was used. Diagnostic criteria were planned to be
+subjected to a sensitivity analysis.
+Types of interventions
+Intervention
+Any orally administered mono-preparation of momordica
+charantia (MC) in any dose or form. This may be the
+sole intervention or given in combination with insulin, oral
+hypoglycaemic agents, or both.
+Control
+Placebo or no treatment with or without active medications, such
+as insulin, oral hypoglycaemic agents or other herbal or nutritional
+preparations.
+Co-interventions were considered if both arms of the randomised
+trial received similar interventions. Combination preparations of
+momordica charantia with other herbs were excluded.
+Types of outcome measures
+Primary outcomes
+•
+Fasting blood glucose levels (FBG)
+•
+Glycosylated haemoglobin A1c (HbA1c)
+•
+Adverse eﬀects (e.g. hypoglycaemia)
+Secondary outcomes
+•
+Serum insulin
+•
+Insulin sensitivity (homeostasis model assessment of insulin
+resistance (HOMA-IR))
+•
+Serum cholesterol
+•
+Body weight, body mass index
+•
+Renal profile, liver profile
+•
+Morbidity (both type 2 diabetes mellitus-related morbidities and
+non-related co-morbidities; all cause morbidity)
+•
+Functional outcomes (both physical and cognitive functions)
+•
+Health-related quality of life (HR-QoL)
+•
+Well-being
+•
+Costs
+Covariates, eﬀect modifiers and confounders
+•
+Self-management and compliance with treatment
+•
+Co-medication (any pharmacological agent used in the direct
+management of type 2 diabetes mellitus; pharmacological
+agents used in the management of diabetic and non-diabetic
+related co-morbidities)
+Timing of outcome measurement
+Both primary and secondary outcomes at four weeks or more were
+considered, with the exception of HbA1c. For this parameter trials
+needed to continue for over three months to yield meaningful
+results.
+Search methods for identification of studies
+Electronic searches
+The initial search was carried out in November 2009 and the second
+updated searches were completed on 5 March 2012. The following
+database sources were used for the identification of trials:
+•
+The Cochrane Library (Issue 1, 2012);
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+MEDLINE (1950 to week 4 February 2012);
+•
+EMBASE (1980 to 29 February 2012);
+•
+Proquest Health and Medical Complete (until week 4 February
+2012);
+•
+CINAHL (until week 4 February 2012);
+•
+BioMed Central gateway (until week 4 February 2012);
+•
+CAM on Pubmed (until week 4 February 2012);
+•
+Sportdiscus (until week 4 February 2012);
+•
+ISI Web of Knowledge (until week 4 February 2012);
+•
+Academic Onefile (until week 4 February 2012);
+•
+Health Technology Assessment (until week 4 February 2012);
+•
+AARP Ageline (until week 4 February 2012);
+•
+LILACS (www.bireme.br/bvs/I/ibd.htm) (until week 4 February
+2012);
+•
+Natural medicines comprehensive database (until week 4
+February 2012);
+•
+Turning Research Into Practice (TRIP) database (until week 4
+February 2012);
+•
+OpenGrey (System for Information on Grey Literature in Europe)
+(until week 4 February 2012).
+Theses:
+•
+Proquest Dissertations and Theses database (until week 4
+February 2012).
+Databases of ongoing trials:
+UK
+•
+'Current Controlled Trials' (www.controlled-trials.com - with
+links to other databases of ongoing trials) and the National
+Research Register (http://www.update-sofware.com/projects/
+nrr/);
+USA
+•
+Clinical Trials.gov (www.clinicaltrials.gov).
+Studies published in any language were included. The search
+strategies for MEDLINE, The Cochrane Library, EMBASE, Proquest
+Medical and Health Complete are described. For detailed search
+strategies please see Appendix 1. There was a slight adaptation in
+the search strategy for the other databases.
+Searching other resources
+In addition, the electronic search was complemented by a manual
+search in medical libraries for recent relevant articles. Reference
+lists of retrieved articles of included trials and (systematic) reviews,
+meta-analyses and health technology assessment reports were
+screened for additional trials. Further additional information,
+additional references, unpublished data and updated results
+of ongoing interventions were obtained by contacting content
+experts and associations. Similarly, manufacturers of processed
+products and food supplements that contain MC or its extract were
+contacted, if necessary.
+No additional key words of relevance were detected during any
+of the electronic or other searches. Thus, the electronic search
+strategies were not modified.
+In the case of duplicate publications and companion papers of
+a primary study, all the available information was reviewed. If
+necessary, authors of the respective papers were contacted to
+clarify any doubt. To maximise the yield of information, all available
+data were critically evaluated.     
+Data collection and analysis
+Selection of studies
+One review author (CPO) discarded the irrelevant publications,
+based on the title of the publication and its abstract, from the
+search list. In the presence of any suggestion that an article could
+be relevant, it was retrieved for further assessment. All potentially
+relevant articles were investigated as full text for inclusion, from
+the culled citation list. Only four studies were selected. There
+were two independent assessments on the trials. Disagreements
+were resolved by consensus, or in consultation with a third
+party. The influence of individual bias criteria was explored in a
+sensitivity analysis. Interrater agreement for key bias indicators (for
+example allocation concealment and incomplete outcome data)
+was calculated using the kappa statistic (Cohen 1960).
+There were only four studies selected for this review. However,
+in the future the review will be updated as more reports and
+studies become available. If these studies are later on included, the
+influence of the primary choice will be subjected to a sensitivity
+analysis. In cases of disagreement, the rest of the group will be
+consulted and a judgement will be made based on consensus.
+If diﬀerences in opinion persist, they will by resolved by a third
+party. Where resolving disagreement is not possible, the article
+will be added to those 'awaiting assessment' and the authors
+will be contacted for clarification. An adapted PRISMA (Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses) flow-
+chart of study selection is included (Liberati 2009) (Figure 1).
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Adapted PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) flow-chart of
+study selection.
+ 
+Data extraction and management
+For assessment of the risk of bias of included studies,
+methodological characteristics for the trials were entered in a table.
+Two independent assessments followed the criteria in templates
+(for details see 'Characteristics of included studies', Table 1 and
+Appendix 2; Appendix 3; Appendix 4; Appendix 5). When relevant
+information on the trial was unclear or missing, the original author
+of the study was contacted to obtain the required information. Any
+disagreement was resolved by discussion or by consultation with a
+third party.
+Assessment of risk of bias in included studies
+There were two independent assessments for each trial based
+on the recommendations of the Cochrane Collaboration’s tool for
+assessing risk of bias (Higgins 2011). Disagreements was resolved
+by consensus, or in consultation with a third party. The influence
+of individual bias criteria was explored in a sensitivity analysis.
+Interrater agreement for key bias indicators (for example allocation
+concealment and incomplete outcome data) was calculated using
+the kappa statistic (Cohen 1960). In cases of disagreement, the rest
+of the group was consulted and a judgement was made based on
+consensus.
+Measures of treatment eﬀect
+Summary statistics for each trial were used. Each outcome was
+assumed to have a zero correlation between the measurements
+at the baseline and assessment times. This conservative approach
+is preferable in a meta-analysis even though it has a tendency to
+overestimate the standard deviation of change from the baseline.
+The latest available assessment prior to randomisation, but no
+longer than two months before, or at randomisation was defined as
+the baseline assessment.
+Data on every person assessed were examined for each outcome
+measure. In cases where individual patient data were not available,
+data from summary statistics were used.
+Dichotomous data
+For dichotomous data, the number in each treatment group and
+the numbers experiencing the outcome of interest or endpoint
+of clinical relevance was examined. These were expressed as odd
+ratios (OR) or relative risks (RR) with 95% confidence intervals (CI).
+Continuous data
+For continuous data, the eﬀect measure was the weighted mean
+diﬀerence when the pooled trials used the same rating scale or
+test to assess an outcome. Where the pooled trials used diﬀerent
+rating scales or tests the standardized mean diﬀerence, that is
+the absolute mean diﬀerence divided by the standard deviation,
+was planned to be calculated. Accordingly, the mean change
+from the baseline, the standard deviation of the mean change,
+and the number of patients for each treatment group at each
+assessment were extracted. Where changes from the baseline were
+not reported, the mean, standard deviation, and the number of
+people in each treatment group at each time point were extracted,
+if available. Where the rating scales used in these trials had
+a reasonably large number of categories (more than 10), the
+data were treated as continuous outcomes arising from a normal
+distribution. All these outcomes were expressed within 95% CIs.
+Time-to-event (survival) data
+The timing of outcomes was planned to be expressed as hazard
+ratios (HR) with 95% CIs. This included participants likely or unlikely
+to experience an event in the intervention or control groups. The
+hazard ratio was assumed to be constant across the follow-up
+period even though the hazards may vary continuously.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Unit of analysis issues
+We planned to take into account the level at which randomisation
+occurred, such as cross-over trials, cluster-randomised trials and
+multiple observations for the same outcome.
+Dealing with missing data
+The potential impact of missing data depends on its magnitude,
+the pooled estimate of the treatment eﬀect, and the outcome
+variability. If feasible, relevant missing data were sought from the
+respective authors. The number of participants enrolled, intention
+to treat (ITT) and treated or per protocol (PP) populations were
+evaluated in all eligible randomised controlled trials. Reasons for
+attrition, such as drop-outs, losses to follow-up and withdrawals
+were examined. Finally, missing data and techniques to handle it
+were subjected to critical appraisal. 
+Assessment of heterogeneity
+In future, when more reports and studies are available for selection,
+heterogeneity identified by visual inspection of the forest plots
+or the standard Chi2 test will be subjected to further evaluation.
+As these tests have characteristically low power, the significance
+level is set at P = 0.1. If heterogeneity is observed in the
+treatment eﬀect between the trials, the I2 statistic will be used
+for confirmation of the presence of inconsistency between studies
+(Higgins 2002). I2 values of 50% and more indicate a substantial
+level of heterogeneity (Higgins 2003). When heterogeneity is found,
+we will attempt to determine potential reasons for it by examining
+individual study and subgroup characteristics (for example those
+studies with lower risk of bias).
+Assessment of reporting biases
+If suﬀicient randomised controlled trials are identified, the data will
+be examined for potential publication bias using a funnel plot. In
+view of the number of explanations for the asymmetry of a funnel
+plot (Sterne 2001) a careful approach to the statistical analyses,
+with discussions and consensus among the review authors, will be
+taken (Lau 2006).
+Data synthesis
+We planned to summarize data statistically if they were available,
+suﬀiciently similar and of suﬀicient quality.
+The null hypothesis states that momordica charantia alone or in
+combination with insulin, oral hypoglycaemic agents, or both, for
+type 2 diabetes mellitus patients will yield no significant eﬀects
+compared with placebo controls or with no intervention. Both
+parallel-group trials and cross-over trials that satisfy the eligibility
+criteria were considered. Data were analysed on an ITT basis. In
+the absence of ITT data, or where the number of drop-outs was
+not relevant, the data of the treatment period were analysed and
+indicated as such. Statistical analyses were performed according
+to the statistical guidelines referenced in the newest version of the
+Cochrane Handbook for Systematic Reviews of Interventions (Higgins
+2011).
+Subgroup analysis and investigation of heterogeneity
+We planned to carry out subgroup analyses if one of the
+primary outcome parameters demonstrated statistically significant
+diﬀerences between intervention groups. In any other case,
+subgroup analyses would be clearly marked as a hypothesis
+generating exercise. If there are suﬀicient studies, subgroup
+analyses will be performed based on the following:
+•
+studies with normal or below baseline nutritional status;
+•
+eﬀect of dosage of MC on primary outcome measures;
+•
+eﬀect of forms of MC on primary outcome measures;
+•
+eﬀect of treatment and ingestion duration of MC on primary
+outcome measures.
+Sensitivity analysis
+If there are suﬀicient studies, sensitivity analyses will be performed
+to explore the influence of the following factors on eﬀect size:
+•
+repeating the analysis with exclusion of any unpublished
+studies;
+•
+repeating the analysis taking account risk of bias, as specified
+above;
+•
+repeating the analysis with exclusion of any very large studies or
+studies of long duration to establish how much they dominate
+the results;
+•
+repeating the analysis excluding studies using the filters
+diagnostic criteria, language of publication, publication status,
+source of funding (industry versus other), country.
+The robustness of the results will be tested by repeating the analysis
+using diﬀerent measures of eﬀects size (relative risk, odds ratio,
+risk diﬀerence) and diﬀerent statistical models (fixed-eﬀect and
+random-eﬀects models).
+R E S U L T S
+Description of studies
+In total, four randomised clinical trials (RCTs) were selected for
+further assessment (Dans 2007; Fuangchan 2011; John 2003;
+Purificacion 2007). Two trials reported random allocation of
+patients with type 2 diabetes mellitus to momordica charantia
+capsules (Dans 2007) or tablets (John 2003) versus control. In
+both the controls were a placebo. One used riboflavine (John
+2003) and the other did not provide details on the contents of
+the placebo (Dans 2007). The other RCT compared momordica
+charantia leaf tablet with glibenclamide (2.5 mg twice a day)
+(Purificacion 2007). Fuangchan 2011 used momordica charantia
+capsules as the interventions with metformin tablets in the control
+arm. The randomised trials are listed under ’Characteristics of
+included studies’; all the trials were published in English. Two
+studies were published in peer-reviewed publications (Dans 2007;
+Fuangchan 2011).
+Results of the search
+The initial electronic searches identified 80 articles (Figure 1).
+The updated search of the above databases retrieved a total
+of 27 articles. Three additional references were retrieved for
+further assessment from the screening of reviews (Balwa 1977;
+Purificacion 2007; Rosales 2001). Ninety-eight records remained
+afer duplicates were removed. On reading the titles and abstracts,
+90 of these articles were excluded because they were reviews, non-
+clinical studies or had objectives that diﬀered from those of this
+review. Four articles were excluded because they did not meet
+our inclusion criteria (Balwa 1977; Inayat-ur-Rahman 2009; Lim
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+2010; Rosales 2001). The reasons for exclusion are listed under
+’Characteristics of excluded studies’.
+Included studies
+The included trials are summarised in Table 1, Appendix 4
+and Appendix 2. A total of 479 patients with type 2 diabetes
+mellitus (T2DM) were randomised in four trials: ranging from 40
+to 260 patients per trial (Dans 2007; Fuangchan 2011; John 2003;
+Purificacion 2007). Two trials included out-patients (Dans 2007;
+John 2003) and no information was provided in the remaining
+two trials (Fuangchan 2011; Purificacion 2007). There was no
+information on the ethnic groups in all four trials. Three of the
+randomised clinical trials provided data of mean age above 50
+years (Dans 2007; Fuangchan 2011; John 2003) while the fourth
+trial did not provide any data on this parameter (Purificacion 2007).
+The female:male ratio varied in all the four trials: 5:3 (Dans 2007),
+3:1 (Fuangchan 2011), 17:8 (John 2003), and 1.4:1 (Purificacion
+2007). Criteria for diagnosis were based on the authors’ definitions
+in three trials (Dans 2007; John 2003; Purificacion 2007) while
+the recommendations of ADA (ADA 2006) were used in the
+trial of Fuangchan 2011. The momordica charantia used for the
+interventions in the trials were capsules or tablets prepared from
+diﬀerent components of the momordica charantia plant. One
+trial used tablets preparation from the leaves (Purificacion 2007),
+another used tablets prepared from shade-dried whole fruit (John
+2003), the third trial used capsules prepared from oven-dried
+fruit pulp (Fuangchan 2011), whereas the remaining trial used
+capsules prepared from the plant fruits and seeds (Dans 2007). The
+control interventions used were placebo in two trials (Dans 2007;
+John 2003) and metformin and glibenclamide tablets, respectively,
+in the remaining two trials (Fuangchan 2011; Purificacion 2007).
+Riboflavine was used as placebo in one trial (John 2003). However,
+no information was provided about the content of the placebo of
+the trial of Dans 2007. The duration of treatment ranged from four
+weeks to three months. 
+Excluded studies
+Two studies were excluded (Balwa 1977; Rosales 2001). The trials of
+Balwa 1977 and Inayat-ur-Rahman 2009 were experimental studies
+and there was no randomised allocation of participants. The
+duration of the intervention in the latter trial was short consisting
+of only three meals in 24 hours. Even though the trial of Rosales
+2001 compared ampalaya tea (dried fruits with seeds) and camelia
+sinesis (commercially available tea), it was an open label, cross-
+over trial with no randomisation. Although the study of Lim 2010
+was a randomised, double-blind, controlled trial, the intervention
+was a single dose of momordica charantia extracts.
+Risk of bias in included studies
+For details on study populations, numbers randomised, analysed,
+intention to treat (ITT) and safety population, see Table 1, Figure 2
+and Figure 3.
+ 
+Figure 2.   Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+ 
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Risk of bias summary: review authors' judgements about each risk of bias item for each included study.
+ 
+All the trials were of parallel-group design. Recruitment of patients
+was limited to the centres of the study in two trials (Dans 2007;
+John 2003). There were also pre-trial estimations of sample size
+and intention-to-treat analyses in these two trials. However, the
+published data of the third trial did not provide any information
+on the study centre, sample size estimation and statistical analysis
+(Purificacion 2007). There was also no information on pre-trial
+estimation of sample size in the trial of Fuangchan 2011.
+Allocation
+Only one trial reported both adequate randomisation and
+allocation concealment (Dans 2007). Although randomisation was
+adequate in the trial of Fuangchan 2011, there was no allocation
+concealment as bitter melon and metformin were given as 500 mg
+capsules and 500 mg tablets, respectively.
+Blinding
+Double-blinding procedures were reported in the trials of Dans
+2007 and Fuangchan 2011. Such information was lacking in the
+remaining two trials (John 2003; Purificacion 2007).
+Incomplete outcome data
+Although there was a withdrawal of a patient in the treatment group
+in one trial (Dans 2007) and loss to follow-up of patients in both
+the treatment and control groups in another (John 2003), there
+were no indications of the steps taken to address these missing
+data in the analyses. Furthermore, no time interval was specified
+for the postprandial blood glucose levels tested (John 2003). This
+is important because blood glucose level changes with time afer
+a meal. For the remaining trial, information on relevant outcomes
+was not provided (Purificacion 2007).
+Fuangchan 2011 reported an ITT analysis and justifications for
+withdrawals from the trial. The last observation carried forward
+(LOCF) method was used to impute missing values. However,
+LOCF procedures can lead to a serious bias of eﬀect estimates.
+In addition, there were 6% to 9% of patients withdrawn from the
+respective intervention arms at various stages, adding to drop-
+out bias. Therefore, the data were at unclear risk of incomplete
+outcome data bias.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Selective reporting
+The means and mean diﬀerences of primary and secondary
+outcome measures were provided in the trials of Dans 2007 and
+Fuangchan 2011 but there were no indications of the range of
+values for these variables. In the other trial, only means of primary
+outcomes were provided with no indications of the range of values
+for these variables (John 2003). There were no details of secondary
+outcomes reported in the trial of Purificacion 2007.
+Other potential sources of bias
+There was interest by the sponsor about the eﬀicacy of its products
+in the trial of Dans 2007, whereas no information was available for
+the other two trials (Fuangchan 2011; John 2003; Purificacion 2007).
+Eﬀects of interventions
+See: Summary of findings for the main comparison Momordica
+charantia for type 2 diabetes mellitus
+Comparisons
+Diﬀerent momordica charantia preparations were used in all the
+four trials (Appendix 2; Appendix 3).
+The comparisons were as follows:
+•
+momordica charantia capsules (6 capsules) daily versus placebo
+(Dans 2007);
+•
+momordica charantia tablets (three intervention arms with
+three diﬀerent doses) daily versus one standard dose of
+metformin tablets (Fuangchan 2011);
+•
+momordica charantia capsules (6 g/day) daily versus placebo
+(John 2003);
+•
+momordica charantia tablets versus glibenclamide tablets
+(Purificacion 2007).
+A meta-analysis was not performed in view of the quality of the
+data and the variability of the treatments (no similar momordica
+charantia preparation was tested twice). The important outcomes
+from the trials are summarised in Appendix 4 and Appendix 5.
+Momordica charantia versus placebo
+Dans 2007 reported outcomes including fasting blood glucose,
+glycosylated haemoglobin A1c (HbA1c), total cholesterol, body
+mass index and adverse eﬀects. Compared with placebo, the fruit
+and seed capsule preparation showed no statistically significant
+eﬀect on reduction of fasting blood glucose (Analysis 1.2).
+Similarly when compared with placebo, the treatment showed
+no statistically significant reduction in HbA1c levels (Analysis 1.1).
+For the secondary outcome measures, the treatment showed no
+statistically significant reduction in total cholesterol levels (Analysis
+1.3) or body mass index (Analysis 1.4) when compared to placebo. 
+The outcomes reported by John 2003 included fasting blood
+glucose, postprandial blood glucose and fructosamine. Compared
+with placebo (riboflavin), the shade-dried powdered fresh whole
+fruit tablet preparation showed no statistically significant eﬀect
+on reduction of fasting blood glucose (Analysis 2.1). Similarly,
+when compared with placebo the treatment showed no statistically
+significant reduction in postprandial glucose levels (Analysis 2.2).
+For serum fructosamine, the treatment also showed no statistically
+significant reduction (Analysis 2.3).
+Momordica charantia versus glibenclamide
+The published data of Purificacion 2007 included outcomes of
+fasting blood glucose, HbA1c and clinical parameters of polyuria,
+polyphagia, polydipsia, weight loss and nocturia. The authors
+could not be contacted to provide the raw data for statistical
+analyses. Nevertheless, from the information provided by the
+circular, the momordica charantia leaf tablet preparation showed
+statistically significant eﬀects on reduction of fasting blood glucose.
+Likewise, there was a statistically significant reduction in HbA1c.
+The changes in these two parameters were comparable with the
+control intervention of low dose glibenclamide tablets (2.5 mg
+twice a day).  There was also a comparable improvement of the
+clinical symptoms of polyuria, polyphagia, polydipsia, weight loss
+and nocturia.
+Momordica charantia versus metformin
+The outcomes reported by Fuangchan 2011 included fasting blood
+glucose, 2-hour postprandial blood glucose and fructosamine. A
+significant reduction in mean fructosamine levels from baseline
+was found only in patients who received metformin 1000 mg/day
+(-16.8 μmol/L; 95% CI -31.2 to -2.4 μmol/L, 129 participants, 1 trial, P
+< 0.05) and bitter melon 2000 mg/day (-10.2 μmol/L; 95% CI -19.1 to
+-1.3 μmol/L, 129 participants, 1 trial, P < 0.05). However, the mean
+change of fructosamine levels from baseline was not significantly
+diﬀerent between treatments (P = 0.43) (Analysis 3.1).
+Adverse events
+Adverse events are summarised in Appendix 5. No serious adverse
+events were reported in three of the trials (Dans 2007; Fuangchan
+2011; Purificacion 2007) and no adverse eﬀects were documented
+in the remaining trial (John 2003). In the trial of Dans 2007, one
+patient dropped out of the study afer one month with diarrhoea
+and abdominal pain. Two other patients also had diarrhoea two
+months into the trial. Another was admitted for gastroenteritis.
+The latter three patients resumed taking medications when their
+symptoms were resolved. Fever, urinary incontinence, chest pain
+and cholecystolithiasis were also reported in the treatment group.
+The last symptom, however, was not reported to be causally related
+to the treatment.  Comparable mild adverse eﬀects of nausea,
+gastric pain, headaches and dizziness were noted in both the
+treatment and control groups in the report of Purificacion 2007.
+There was no clinical meaningful diﬀerence in overall adverse
+events reported as well as no serious adverse events in Fuangchan
+2011. Only mild adverse eﬀects on the various systems were
+documented. These symptoms did not require any treatment,
+discontinuation of metformin or bitter melon and resolved with
+rest.
+D I S C U S S I O N
+The aim of this review was to assess the eﬀects of momordica
+charantia for type 2 diabetes mellitus.
+Summary of main results
+The trials included in this review measured surrogate outcomes
+and evaluated adverse events (Appendix 5). Compared with
+the placebo, the momordica charantia capsules and tablets
+did not show any significant improvement of blood glucose
+control in terms of normalisation or a reduction of fasting blood
+glucose, reduction of glycosylated haemoglobin A1c (HbA1c) or
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+fructosamine (Dans 2007; John 2003). Only momordica charantia
+capsules in doses of 2000 mg/day, in the trial of Fuangchan 2011,
+demonstrated statistically significant improvement in fasting blood
+glucose as well as 2 hour postprandial blood glucose. There was
+no improvement noted in the secondary outcome measures of
+total cholesterol and body mass index (BMI) in the trial of Dans
+2007. However, one should be cautious in interpreting the findings
+due to the low methodological quality and the generally small
+sample size in these trials contributing to the low power of the
+studies. Although the published data of Purificacion 2007 reported
+that the eﬀect of the momordica charantia leaf preparation
+intervention was comparable with the control intervention of
+low dose glibenclamide tablets (2.5 mg twice a day), there was
+insuﬀicient information for assessing the risk of bias in this study.
+In all these four studies, there were no statements on the health-
+related quality of life, adverse eﬀects or costs.
+Overall completeness and applicability of evidence
+Only four trials were selected for the review. All the trials used
+preparations from diﬀerent parts of the momordica charantia plant
+in the interventions. Moreover, the interventions in the control
+groups of the three trials also varied. Two used placebos (Dans
+2007; John 2003) whereas the others used glibenclamide tablets
+(Purificacion 2007) and metformin tablets (Fuangchan 2011). In
+addition, the time point for assessment of the eﬀect of the
+intervention was not uniform for the four trials. This time point was
+four weeks for the trials of John 2003 as well as Fuangchan 2011
+and three months for the other two trials (Dans 2007; Purificacion
+2007).  
+Quality of the evidence
+All the trials were assessed as having high risk of bias since they
+did not meet one or more essential risk of bias criteria. No trial
+was assessed as at moderate or low risk of bias. Low risk of
+bias is indicated when quality criteria in terms of minimisation
+of selection, performance, attrition and detection biases are met.
+Categorization into moderate risk of bias required the quality
+criteria to be partially fulfilled.
+Potential biases in the review process
+This systematic review has several limitations. First, there are
+limited trials available for selection. This may be due to publication
+bias. Further, all the included trials suﬀer from methodological
+issues. Poor quality of randomisation and blinding may be
+associated with exaggerated eﬀects of the intervention due to
+systematic errors (bias). This potential bias may occur during
+selection of patients, administration of treatment, and assessment
+of outcomes. Moreover, methodologically less rigorous trials have
+shown significantly larger intervention eﬀects than trials with more
+rigour (Egger 2003; Kjaergard 2001; Moher 1998; Schulz 1995).
+Second, the small sample size of the trials leading to diminished
+power of the results may explain the absence of a statistically
+significant diﬀerence between the preparation of momordica
+charantia used for the intervention and placebo. In other words,
+the analyses from trials of this size may not establish with
+confidence that two interventions have equivalent eﬀects (Piaggio
+2001; Pocock 1991). Third, all trials reported end-of treatment
+responses, ranging from four weeks to three months, and long-
+term responses beyond this period are not known. Fourth, all the
+preparations used in the intervention arms were tested only once,
+which made it impossible to pool data. Finally, although all the
+trials did not provide information on ethnicity of the participants,
+the recruitment of patients was limited to the respective centre
+of study in two trials and no information was available in the
+remaining two trials. Thus, the validity and applicability of the
+results to other ethnic groups or populations is not known.
+Agreements and disagreements with other studies or
+reviews
+Previous reviews focused on experimental studies of animal and
+clinical trials in humans. No RCT was included. However, in this
+review the four RCTs selected showed variability of the treatment
+interventions, control interventions and had generally small eﬀect
+sizes. Moreover, none of the preparations were tested twice.
+This unfortunately does not provide suﬀicient evidence for any
+reliable conclusions on the potential benefits or harmful eﬀects of
+momordica charantia for people with type 2 diabetes mellitus. 
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+There is insuﬀicient evidence to recommend momordica charantia
+for type 2 diabetes mellitus or prevention of complications of the
+disease.
+Implications for research
+Although there is reasonable evidence from animal models, few
+human studies, and an RCT suggesting that momordica charantia
+may help in the management of type 2 diabetes mellitus (T2DM), a
+potential methodological problem is the quality of the preparation
+of momordica charantia. The conditions for growing, harvesting
+and processing the plant, as well as climatic variations, are sources
+of diﬀerences and contaminations (WHO 2007). In addition, the
+use of diﬀerent parts of the plant further adds to the complexity
+involved in characterisation as well as the production of reliable
+and consistently eﬀective products. Thus, there is a need for further
+studies to address the standardization and the quality of the
+products used in clinical trials.
+Research into the eﬀects of momordica charantia on the
+independent protective eﬀect for long-term complications in
+humans is still unavailable. The presence of confounders, the
+variations in the diet as well as the diﬀiculty in recording dietary
+intake over a long period make it diﬀicult to interpret these
+confounders when present. How to adequately blind participants
+in nutritional studies, given the plant’s characteristic bittersweet
+taste, is another potential methodological problem. Such a taste
+may be acceptable in communities with a high intake of momordica
+charantia but may be unacceptable where this plant is less popular.
+Taste might be 'controlled' through special preparations in the form
+of capsules and tablets.
+However, for the older adults with T2DM, nutritional goals focused
+on counting calories in glycaemic control rather than promoting
+healthy, balanced food intake has been found to be detrimental
+to health (Payette 2005). Adding to the combination of body
+composition as well as physiological changes with the aging
+process, pathology, polypharmacy and psycho-social factors (for
+example depression) greatly accelerate the negative trajectory
+of aging leading to increased falls, fractures and consequent
+disabilities (Alibhai 2005; Payette 1998; Payette 2005). Thus, further
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+observational trials to evaluate the eﬀects of momordica charantia
+on T2DM in medical nutritional therapy are justified, particularly in
+parts of the world where the use of this vegetable is common. For
+reliable conclusions any such trials should be large and of rigorous
+quality.
+A C K N O W L E D G E M E N T S
+The authors would like to acknowledge Karla Bergerhoﬀ (Trials
+Search Coordinator) for her kind advice and support during the
+review process.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Dans 2007 {published data only}
+Dans AM, Villarruz MV. The eﬀect of momordica charantia
+capsule preparation on glycemic control in type 2 diabetes
+mellitus needs further studies. Journal of Clinical Epidemiology
+2007;60(6):554-9.
+Fuangchan 2011 {published data only}
+Fuangchan A, Sonthisombat P, Seubnukarn T, Chanouan R,
+Chotchaisuwat P, Sirigulsatien V, et al. Hypoglycemic eﬀect of
+bitter melon compared with metformin in newly diagnosed
+type 2 diabetes patients. Journal of Ethnopharmacology
+2011;134(2):422-8. [PUBMED: 21211558]
+John 2003 {published data only}
+John AJ, Cherian R, Subhash HS, Cherian AM. Evaluation
+of the eﬀicacy of bitter gourd (momordica charantia) as
+an oral hypoglycemic agent--a randomized controlled
+clinical trial. Indian Journal of Physiology and Pharmacology
+2003;47(3):363-5.
+Purificacion 2007 {published data only}
+Purificacion JM, Cortes-Maramba NP, Ho H. Reinstating
+Ampalaya (Mamordica Charantia, L) as scientifically-validated
+herbal medicinal plant. Departmental Circular. Oﬀice of the
+Secretary, Department of Health, Republic of the Philippines,
+2007, issue 2007-0058.
+ 
+References to studies excluded from this review
+Balwa 1977 {published data only}
+Baldwa S, Bhandari CM, Ulbricht C. Clinical trial in patients
+with diabetes mellitus of an insulin-like compound obtained
+from plant source. Upsala Journal of Medical Sciences
+1977;82(1):39-41.
+Inayat-ur-Rahman 2009 {published data only}
+Inayat-ur-Rahman, Malik SA, Bashir M, Khan R, Iqbal M. Serum
+sialic acid changes in non-insulin-dependant diabetes mellitus
+(NIDDM) patients following bitter melon (Momordica charantia)
+and rosiglitazone (Avandia) treatment. Phytomedicine
+2009;16(5):401-5.
+Lim 2010 {published data only}
+Lim ST, Jimeno CA, Razon-Gonzales EB, Velasquez MEN. The
+MOCHA DM study: The eﬀect of momordica charantia tablets
+among patients with type 2 diabetes mellitus (Dm) on glucose
+and insulin levels during the post-prandial state using a
+single determination. Philippine Journal of Internal Medicine
+2010;48(2):19-25.
+Rosales 2001 {published data only}
+Rosales R, Fernando R. An inquiry to the hypoglycemic action of
+Momordica charantia among type 2 diabetes patients. Philippine
+Journal of Internal Medicine 2001;39(3):213-6.
+ 
+References to ongoing studies
+Khadija 2009 {published data only}
+Khadija IK, Aziz F. Glycemic Response to Momordica
+Charantia in Type 2 Diabetes [Study ID Number: DMC0107].
+ClinicalTrials.gov. U.S. National Institutes of Health, 2009.
+[ClinicalTrials.gov Identifier: NCT00823953 ]
+ 
+Additional references
+Abd El Sattar El Batran 2006
+Abd El Sattar El Batran S, El-Gengaihi SE, El-Shabrawy OA. Some
+toxicological studies of Momordica charantia L. on albino rats in
+normal and alloxan diabetic rats. Journal of Ethnopharmacology
+2006;108(2):236-42.
+Abegunde 2007
+Abegunde DO, Mathers CD, Adam T, Ortegon M, Strong K.
+The burden and costs of chronic diseases in low-income and
+middle-income countries. Lancet 2007;370(9603):1929-38.
+ADA 1997
+American Diabetes Association. Report on the Expert
+Committee on the Diagnosis and Classification of Diabetes
+Mellitus. Diabetes Care 1997;20 Suppl 1:5-20.
+ADA 1999
+The Expert Committee on the Diagnosis and Classification
+of Diabetes Mellitus. Report of the Expert Committee on the
+diagnosis and classification of diabetes mellitus. Diabetes Care
+1999;22 Suppl 1:5-19.
+Ahmad 1999
+Ahmad N, Hassan MR, Halder H, Bennoor KS. Eﬀect of
+momordica charantia (Karolla) extracts on fasting and
+postprandial serum glucose levels in NIDDM patients.
+Bangladesh Medical Research Council Bulletin 1999;25(1):11-3.
+Ahmed 1998
+Ahmed I, Adeghate E, Sharma AK, Pallot DJ, Singh J. Eﬀects
+of momordica charantia fruit juice on islet morphology in the
+pancreas of the streptozotocin-diabetic rat. Diabetes Research
+and Clinical Practice 1998;40(3):145-51.
+Ahmed 2001
+Ahmed I, Lakhani MS, Gillet M, John A, Raza H.
+Hypotriglyceridemic and hypocholesterolemic eﬀects of
+anti-diabetic momordica charantia (karela) fruit extract in
+streptozotocin-induced diabetic rats. Diabetes Research and
+Clinical Practice 2001;51(3):155-61.
+Ahmed 2004
+Ahmed I, Adeghate E, Cmmings E, Sharma AK, Singh J.
+Beneficial eﬀects and mechanism of action of momordica
+charantia juice in the treatment of streptozotocin-induced
+diabetes mellitus in rat. Molecular and Cellular Biochemistry
+2004;261(1-2):63-70.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Alibhai 2005
+Alibhai SM, Greenwood C, Payette H. An approach to the
+management of unintentional weight loss in elderly people.
+CMAJ 2005;172(6):773-80.
+Bailey 1989
+Bailey CJ, Day C. Traditional plant medicines as treatments for
+diabetes. Diabetes Care, 1989;12(8):553-64.
+Bantle 2008
+Bantle JP, Wylie-Rosett J, Albright AL, Apovian CM, Clark NG,
+Franz MJ, et al. Nutrition recommendations and interventions
+for diabetes: a position statement of the American Diabetes
+Association. Diabetes Care 2008;31 Suppl 1:61-78.
+Bourinbaiar 1996
+Bourinbaiar AS, Lee-Huang S. The activity of plant-derived
+antiretroviral proteins MAP30 and GAP31 against herpes
+simplex virus in vitro. Biochemical and Biophysical Research
+Communications 1996;219(3):923-9.
+Braca 2008
+Braca A, Siciliano T, D'Arrigo M, Germano MP. Chemical
+composition and antimicrobial activity of momordica charantia
+seed essential oil. Fitoterapia 2008;79(2):123-5.
+Chan 1984
+Chan WY, Tam PP, Yeung HW. The termination of early
+pregnancy in the mouse by beta-momorcharin. Contraception
+1984;29(1):91-100.
+Chan 1985
+Chan WY, Tam PP, Yeung HW. The inhibitory eﬀects of beta-
+momorcharin on endometrial cells in the mouse. Contraception
+1985;31(1):83-90.
+Chan 1986
+Chan WY, Tam PP, Choi HL, Ng TB, Yeung HW. Eﬀects
+of momorcharins on the mouse embryo at the early
+organogenesis stage. Contraception 1986;34(5):537-44.
+Chaturvedi 2005
+Chaturvedi P. Role of momordica charantia in maintaining the
+normal levels of lipids and glucose in diabetic rats fed a high-fat
+and low-carbohydrate diet. British Journal of Biomedical Science
+2005;62(3):124-6.
+Cockram 2000
+Cockram CS. Diabetes mellitus: perspective from the Asia-
+Pacific region. Diabetes Research and Clinical Practice.
+Supplement 2000;50 Suppl 2:3-7.
+Cohen 1960
+Cohen J. A coeﬀicient of agreement for nominal scales.
+Educational and Psychological Measurement 1960;20(1):37-46.
+Cummings 2004
+Cummings E, Hundal HS, Wackerhage H, Hope M, Belle M,
+Adeghate E, et al. Momordica charantia fruit juice stimulates
+glucose and amino acid uptakes in L6 myotubes. Molecular and
+Cellular Biochemistry 2004;26(1-2):99-104.
+Cunnick 1990
+Cunnick JE, Sakamoto K, Chapes SK, Fortner GW, Takemoto DJ.
+Induction of tumor cytotoxic immune cells using a protein from
+the bitter melon (Momordica charantia). Cellular Immunology
+1990;126(2):278-89.
+Dutta 1981
+Dutta PK, Chakravarty AK, Chowdhury US, Pakrashi SC. Vicine,
+a favism-inducing toxin from Momordica charantia Linn. seeds.
+Indian Journal of Chemistry 1981;20(B):669-71.
+Egger 2003
+Egger M, Juni P, Bartlett C, Holenstein F, Sterne J. How
+important are comprehensive literature searches and the
+assessment of trial quality in systematic reviews? Empirical
+study. Health Technology Assessment 2003;7(1):1–76.
+Fernandes 2007
+Fernandes NP, Lagishetty CV, Panda VS, Naik SR. An
+experimental evaluation of the antidiabetic and antilipidemic
+properties of a standardized momordica charantia fruit extract.
+BMC Complementary and Alternative Medicine 2007;24(7):29.
+Frame 1998
+Frame AD, Rios-Olivares E, De Jesus L, Ortiz D, Pagan J,
+Mendez S. Plants from Puerto Rico with anti-Mycobacterium
+tuberculosis properties. Puerto Rico Health Sciences Journal
+1998;17(3):243-52.
+Genser 2008
+Genser D. Food and drug interaction: consequences for the
+nutrition/health status. Annals of Nutrition and Metabolism
+2008;52 Suppl 1:29-32.
+Grover 2002a
+Grover JK, Rathi SS, Vats V. Amelioration of experimental
+diabetic neuropathy and gastropathy in rats following
+oral administration of plant (Eugenia jambolana, Mucuna
+pruriens and Tinospora cordifolia) extracts. Indian Journal of
+Experimental Biology 2002;40(3):273-6.
+Grover 2002b
+Grover JK, Yadav S, Vats V. Medicinal plants of India with
+anti-diabetic potential. Journal of Ethnopharmacology
+2002;81(1):81-100.
+Higgins 2002
+Higgins JPT, Thompson SG. Quantifying heterogeneity in a
+meta-analysis. Statistics in Medicine 2002;21(11):1539-58.
+Higgins 2003
+Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring
+inconsistency in meta-analysis. BMJ 2003;327(7414):557-60.
+Higgins 2011
+Higgins JPT, Green S, editors. Cochrane Handbook for
+Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. The Cochrane Collaboration, 201. Available from
+www.cochrane-handbook.org..
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Hulin 1988a
+Hulin A, Wavelet M, Desbordes JM. Intoxication aigue par
+Momordica charantia  (sorrossi). A propos de deux cas.
+Medecine d'Afrique Noir 1988a;35(9):671-4.
+Hulin 1988b
+Hulin A, Wavelet M, Desbordes JM. Intoxication aigue par
+Momordica charantia  (sorrossi). A propos de deux cas. Semaine
+des Hospitaux 1988b;64(44):2847-8.
+Khanna 1981
+Khanna P, Jain SC, Panagariya A, Dixit VP. Hypoglycemic activity
+of polypeptide-p from a plant source. Journal of Natural
+Products 1981;44(6):648-55.
+Kjaergard 2001
+Kjaergard LL, Villumsen J, Gluud C. Reported methodological
+quality and and discrepancies between large and small
+randomised trials in meta-analyses. Annals of Internal Medicine
+2001;135:982–9.
+Kumar 2008
+Kumar GS, Shetty AK, Salimath PV. Modulatory eﬀect of bitter
+gourd (Momordica charantia Linn.) on alterations in kidney
+heparan sulfate in streptozotocin-induced diabetic rats. Journal
+of Ethnopharmacology 2008;115(2):276-83.
+Lau 2006
+Lau J, Ioannidis JPA, Terrin N, Schmid CH, Olkin I. The case of
+the misleading funnel plot. BMJ 2006;333(7568):597-600.
+Leatherdale 1981
+Leatherdale BA, Panesar RK, Singh G, Atkins TW, Bailey CJ,
+Bignell AH. Improvement in glucose tolerance due to
+Momordica charantia (karela). British Medical Journal (Clinical
+Research Ed.) 1981;282(6279):1823-4.
+Lee 2007
+Lee CM, Huxley RR, Lam TH, Martiniuk ALC, Ueshema H,
+Pan WH, et al. Prevalence of diabetes mellitus and population
+attributable fractions for coronary heart disease and
+stroke mortality in the WHO South-East Asia and Western
+Pacific regions. Asia-Pacific Journal of Clinical Nutrition
+2007;16(1):187-92.
+Li 2004
+Li WL, Zheng HC, Bukuru J De Kimpe N. Natural medicines
+used in the traditional Chinese medical system for therapy
+of diabetes mellitus. Journal of Ethnopharmacology
+2004;92(1):1-21.
+Liberati 2009
+Liberati A, Altman DG, Tetzlaﬀ J, Mulrow C, Gøtzsche PC,
+Ioannidis JPA, et al. The PRISMA statement for reporting
+systematic and meta-analyses of studies that evaluate
+interventions: explanation and elaboration. PLoS Med
+1999;6(7):1-28. [DOI: 10.1371/journal.pmed.1000100]
+Miura 2004
+Miura T, Itoh Y, Iwamoto N, Kato M, Ishiua T. Suppressive activity
+of the fruit of Momordica charantia with exercise on blood
+glucose in type 2 diabetic mice. Biological and Pharmaceutical
+Bulletin 2004;27(2):248-50.
+Moher 1998
+Moher D, PhamB, Jones A, Cook DJ, JadadAR, Moher M, et al.
+Does quality of reports of randomised trials aﬀect estimates
+of intervetion eﬀicacy reported in meta-analyses?. Lancet
+1998;352:609–13.
+Monnier 2005
+Monnier VM, Mustata GT, Biemel KL, Reihl O, Lederer MO,
+Zhenyu D, et al. Cross-linking of the extracellular matrix by the
+maillard reaction in aging and diabetes: an update on "a puzzle
+nearing resolution". Annals of the New York Academy of Sciences
+2005;1043(Jun):533-44.
+Mukherjee 2006
+Mukherjee PK, Maiti K, Mukherjee KK, Houghton PJ. Leads from
+Indian medicinal plants with hypoglycemic potentials. Journal
+of Ethnopharmacology 2006;106.(1):1-28.
+Nivitabishekam 2008
+Nivitabishekam SN, Asad M, Prasad VS. Pharmacodynamic
+interaction of Momordica charantia with rosiglitazone in rats.
+Chemico-Biological Interactions 2009;177(3):247-53.
+Ogata 1991
+Ogata F, Miyata T, Fujii N, Yoshida N, Noda K, Makisumi S, et
+al. Purification and amino acid sequence of a bitter gourd
+inhibitor against an acidic amino acid-specific endopeptidase
+of Streptomyces griseus. Journal of Biological Chemistry
+1991;266(25):16715-21.
+Oishi 2007
+Oishi Y, Sakamoto T, Udagawa H, Taniguchi H, Kobayashi-
+Hattori K, Ozawa Y, et al. Inhibition of increases in blood glucose
+and serum neutral fat by Momordica charantia saponin fraction.
+Bioscience, Biotechnology, and Biochemistry 2007;71(3):735-40.
+Ojewole 2006
+Ojewole JA, Adewole SO, Olayiwola G. Hypoglycaemic
+and hypotensive eﬀects of Momordica charantia Linn
+(Cucurbitaceae) whole-plant aqueous extract in rats.
+Cardiovascular journal of South Africa 2006;17(5):227-32.
+Omoregbe 1996
+Omoregbe RE, Ikuebe OM, Ihimire IG. Antimicrobial activity of
+some medicinal plants extracts on Escherichia coli, Salmonella
+paratyphi and Shigella dysenteriae. African Journal of Medicine
+and Medical Sciences 1996;25(4):373-5.
+Payette 1998
+Payette H, Hanusaik N, Boutier V, Morais JA, Gray-Donald K.
+Muscle strength and functional mobility in relation to lean body
+mass in free-living frail elderly women. European Journal of
+Clinical Nutrition 1998;52(1):45-3.
+Payette 2005
+Payette H, Shatenstein B. Determinants of healthy eating in
+community-dwelling elderly people. Canadian Journal of Public
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Health. Revue Canadienne de Sante Publique 2005;96(Suppl
+3):S25-S31.
+Piaggio 2001
+Piaggio G, Pinol AP. Use of the equivalence approach in
+reproductive health clinical trials. Statistical Medicine
+2001;20(23):3571–7.
+Pocock 1991
+Pocock SJ. Clinical trials. A practical approach. 2. Chichester:
+John: John Wiley & Sons, 1991.
+Rathi 2002a
+Rathi SS, Grover JK, Vats V. The eﬀect of Momordica charantia
+and Mucuna pruriens in experimental diabetes and their
+eﬀect on key metabolic enzymes involved in carbohydrate
+metabolism. Phytotherapy Research 2002;16(3):236-43.
+Rathi 2002b
+Rathi SS, Grover JK, Vikrant V, Biswas NR. Prevention of
+experimental diabetic cataract by Indian Ayurvedic plant
+extracts. Phytotherapy Research 2002;16(8):774-7.
+Rotshteyn 2004
+Rotshteyn Y, Zito SW. Application of modified in vitro screening
+procedure for identifying herbals possessing sulfonylurea-like
+activity. Journal of Ethnopharmacology 2004;93(2-3):337-44.
+Schulz 1995
+Schulz KF, Chalmers I, Hayes RJ, Altman DG. Empirical evidence
+of bias: dimensions of methodological quality associated
+with estimates of treatment eﬀects in controlled trials. JAMA
+1995;273:408-412.
+Selvin 2006
+Selvin E, Coresh J, Brancati FL. The Burden and Treatment
+of Diabetes in Elderly Individuals in the US. Diabetes Care
+2006;29(11):2415-9.
+Shetty 2005
+Shetty AK, Kumar GS, Sambaiah K, Salimath PV. Bitter gourd
+(Momordica charantia) modulates activities of intestinal and
+renal disaccharidases in streptozotocin-induced diabetic rats.
+Molecular Nutrition and Food Research 2005;49(8):791-6.
+Siemonsma 1997
+Siemonsma J, Piluek K. Plants resources of South-East Asia
+[electronic resource]. World biodiversity database CD-ROM
+series. Vol. Vegetables, Paris: UNESCO-Publishing, 1997.
+Singh 2007
+Singh N, Gupta M. Regeneration of beta cells in islets of
+Langerhans of pancreas of alloxan diabetic rats by acetone
+extract of Momordica charantia (Linn.) (bitter gourd) fruits.
+Indian Journal of Experimental Biology 2007;45(12):1055-62.
+Srivastava 1987
+Srivastava Y, Venkatakrishna-Bhatt H, Verma Y, Prem AS.
+Retardation of retinopathy by Momordica charantia L. (bitter
+gourd) fruit extract in alloxan diabetic rats. Indian Journal of
+Experimental Biology 1987;25(8):571-2.
+Srivastava 1993
+Srivastava Y. Antidiabetic and adaptogenic properties of
+Momordica charantia extract: an experimental and clinical
+evaluation. Phytotherapy Research 1993;7(4):285-9.
+Sterne 2001
+Sterne JAC, Egger M, Davey Smith G. Investigating and dealing
+with publication and other biases. In: Egger M, Davey Smith
+G, Altman DG editor(s). Systematic Reviews in Health Care;
+Meta-analysis in Context. London: BMJ Publishing Group,
+2001:189-208.
+Tongia 2004
+Tongia A, Tongia SK, Dave M. Phytochemical determination and
+extraction of Momordica charantia fruit and its hypoglycemic
+potentiation of oral hypoglycemic drugs in diabetes mellitus
+(NIDDM). Indian Journal of Physiology and Pharmacology
+2004;48(2):241-4.
+UKPDS 37
+U.K. Prospective Diabetes Study Group. Quality of life in type
+2 diabetic patients is aﬀected by complications but not by
+intensive policies to improve blood glucose or blood pressure
+control (UKPDS 37). UK Prospective Diabetes Study Group.
+Diabetes Care 1999;22(7):1125-36.
+Waidmann 2000
+Waidmann T, Liu K. Disability trends among elderly persons and
+implications for the future. The Journals of Gerontology; B Social
+Sciences 2000;55B(5):S298-S307.
+Welihinda 1986
+Welihinda J, Karunanayake EH, Sheriﬀ MH, Jayasinghe K.
+Eﬀect of Momordica charantia on the glucose tolerance in
+maturity onset diabetes. Journal of Ethnopharmacology
+1986;17(3):277-82.
+WHO 1980
+WHO Expert Committee on Diabetes Mellitus. Second report.
+Technical Report Series 646. Geneva. WHO, 1980.
+WHO 1985
+WHO Expert Committee on Diabetes Mellitus. World Health
+Organization, 1985. Technical Report Series 727.
+WHO 1998
+Alberti KM, Zimmet PZ. Definition, diagnosis and classification
+of diabetes mellitus and its compliactions. Part I: diagnosis and
+classification of diabetes mellitus. Provisional report of a WHO
+consultation. Diabetic Medicine 1998;15:539-53.
+WHO 2007
+WHO guidelines for assessing quality of herbal medicines
+with reference to contaminants and residues. World Health
+Organization, Geneva 2007.
+Wild 2004
+Wild S, Roglic G, Green A, Sicree R, King H. Global prevalence of
+diabetes: estimates for the year 2000 and projections for 2030.
+Diabetes Care 2004;27(5):1047-53.
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Yesilada 1999
+Yesilada E, Gurbuz I, Shibata H. Screening of Turkish anti-
+ulcerogenic folk remedies for anti-Helicobacter pylori activity.
+Journal of Ethnopharmacology 1999;66(3):289-93.
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+PARALLEL RANDOMISED CONTROLLED CLINICAL TRIAL
+Participants
+WHO PARTCIPATED: 40 patients with type 2 diabetes mellitus
+SETTING: Out-patients' clinic of general hospital in Manilla, The Phillipines
+SEX (female:male ratio): 5:3
+AGE (mean years (SD)): 59.2 (SD 12.3)
+ETHNIC GROUPS (%): No information
+DURATION OF DISEASE (mean years (SD)): No information
+INCLUSION CRITERIA: At least 18 years old; diagnosed by physicians to have type 2 diabetes mellitus;
+suboptimal glycaemic control
+EXCLUSION CRITERIA: Evidence of hepatic dysfunction; known allergy to momordica charantia or its
+products; presence of severe chronic illness; presence of acute illness; presence of illness limiting life
+expectancy; presence of conditions affecting compliance; recipient of another investigational product
+during and 3 months preceding and pregnancy or lactation.
+DIAGNOSTIC CRITERIA: Authors' criteria
+CO-MORBIDITIES: No information
+CO-MEDICATIONS: Oral hypoglycaemic agents but no information on the types of pharmacological
+agents
+Interventions
+Experimental intervention:
+Preparations from fruits and seeds of momordica charantia plant were in the form of capsules. Two
+capsules were given three times daily after meal for a period of three months.
+Control intervention:
+Placebo capsules. No information on the contents of these capsules.
+All patients were on concomitant oral hypoglycaemic agents and diet regimen during the study.
+Outcomes
+PRIMARY OUTCOME(S) (as stated in the publication): change in HbA1c after treatment
+SECONDARY OUTCOMES (as stated in the publication): change in fasting blood glucose, serum choles-
+terol and weight
+ADDITIONAL OUTCOMES: change in serum creatinine, AST, ALT, sodium, potassium and incidence of
+adverse events
+Study details
+DURATION OF INTERVENTION: 3 months
+DURATION OF FOLLOW-UP: Monthly
+RUN-IN PERIOD: No information
+Dans 2007 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Publication details
+LANGUAGE OF PUBLICATION: English
+COMMERCIAL FUNDING
+PUBLICATION STATUS: peer review journal
+Stated aim of study
+To determine if addition of momordica charantia capsules to standard therapy can decrease glycosy-
+lated haemoglobin (HbA1c) level in diabetic patients with poor glucose control.
+Notes
+The author was contacted but did not reply.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Random allocation using a computer-generated sequence (Stata version 6.0).
+Allocation concealment
+(selection bias)
+Low risk
+Medications were prepared by third party.
+Blinding (performance
+bias and detection bias) 
+All outcomes
+Low risk
+The patients, investigators and the statistician were blinded until the end of
+the analysis. The treatment and placebo capsules matched in appearance and
+were packaged in unmarked blisters.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Despite one patient dropping out after a month due to adverse effects of treat-
+ment, the authors mentioned 'all patients were included in the analysis'. There
+was no indication of how this missing information was addressed.
+Selective reporting (re-
+porting bias)
+High risk
+Only mean differences of primary and secondary outcome measures were pro-
+vided. There were no indications of the range of values for these variables.
+Other bias
+Unclear risk
+Sponsored by company to investigate efficacy of their product.
+Dans 2007  (Continued)
+ 
+ 
+Methods
+PARALLEL RANDOMISED CONTROLLED CLINICAL TRIAL
+Participants
+WHO PARTCIPATED: 143 patients with type 2 diabetes mellitus
+SETTING: Clinics of four hospitals in Thailand.
+SEX (female:male ratio): ˜ 3:1
+AGE (mean years (SD)): 51.8 (SD 9.3)
+ETHNIC GROUPS (%): No information
+DURATION OF DISEASE (mean years (SD)): No information
+INCLUSION CRITERIA: Between 35 and 70 years of age, newly diagnosis with type 2 diabetes based on
+a fasting plasma glucose (FPG) > 126 mg/dL (7.0 mmol/L) or 2-h postprandial glucose levels during 75-
+g oral glucose tolerance-test (OGTT) > 200 mg/dL (11.0 mmol/L) (ADA 2006), and whose FPG levels < 180
+mg/dL (10.0 mmol/L).
+EXCLUSION CRITERIA: serum creatinine higher than 1.8 mg/dL; serum alanine aminotransferase
+(ALT), aspartate aminotransferase (AST), total bilirubin or alkaline phosphatase higher than 2.5 times
+of the upper normal range; anaemia (haemoglobin <11 g/dL for male, <10 g/dL for female); severe
+Fuangchan 2011 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+angina; moderate-severe heart failure with lef ventricular hypertrophy (LVH); pregnant and lactating
+women sulfonylureas, metformin, thiazolidinediones, glinides, alpha-glucosidase inhibitors or insulin
+use prior to study enrollment; participation in another clinical trial within 30 days of screening; long-
+term diabetic complications such as diabetic retinopathy, diabetic neuropathy which need therapy
+(painful peripheral neuropathy, systemic orthostatic hypotension, urinary retention, foot ulcers or gas-
+tric stasis); a body mass index (BMI) less than 18 or greater than 38; or a body weight variation more
+than 10% during
+the screening period.
+DIAGNOSTIC CRITERIA: American Diabetes Association criteria (ADA 2006)
+CO-MORBIDITIES: Hypertension, dyslipidemia, asthma and thyroid diseases
+CO-MEDICATIONS: Medications for co-morbidities (no information on specific medications)
+Interventions
+Experimental intervention:
+Preparations from dried unripe fruit pulp of momordica charantia plant were made in the form of cap-
+sules. Each capsule contained 500mg of dried powder of the fruit pulp, containing 0.04–0.05% (w/w) of
+charantin. Three doses were used: 500 mg/day, 1000 mg/day, 2000 mg/day of bitter melon.
+Control intervention:
+Metformin tablets of 500 mg each were used.
+Placebo: The placebo of bitter melon capsules was roasted rice powder while the placebo for met-
+formin table was lactose tablet.
+All patients were counseled regarding dietary and lifestyle modification.
+Outcomes
+PRIMARY OUTCOME(S) (as stated in the publication): Mean change in fructosamine from baseline to
+endpoint.
+SECONDARY OUTCOMES (as stated in the publication): Mean change in fasting plasma glucose and 2-h
+plasma glucose after a 75-g glucose load from baseline to endpoint.
+ADDITIONAL OUTCOMES: Safety was monitored by assessing patient reported symptoms, changes in
+findings on physical examination, vital signs, laboratory tests (complete blood count, blood urea nitro-
+gen, serum creatinine, and liver function test), and reports of hypoglycemia.
+Study details
+DURATION OF INTERVENTION: 4 weeks
+DURATION OF FOLLOW-UP: week 1 and week 4
+RUN-IN PERIOD: 2 weeks
+Publication details
+LANGUAGE OF PUBLICATION: English
+NON-COMMERCIAL FUNDING
+PUBLICATION STATUS: peer review journal
+Stated aim of study
+To assess the efficacy and safety of three doses of bitter melon compared with metformin.
+Notes
+Original research article. The author was contacted but did not reply.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Quote: "eligible patients were randomized to one of the four arms: ....... bitter
+melon or .......metformin by block randomization".
+Fuangchan 2011  (Continued)
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation concealment
+(selection bias)
+High risk
+Quote: "Bitter melon and metformin were supplied as 500mg capsules and
+500mg tablets, respectively".
+Blinding (performance
+bias and detection bias) 
+All outcomes
+Low risk
+Quote: ".......double dummy technique was used".
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Quote: "Last observation carried forward (LOCF) method was used for missing
+values".
+Attempts were made to addressed missing data using the LOCF approach,
+LOCF procedures can lead to serious bias of effect estimates. About 6% to 9%
+of the data were subjected to such approach.
+Selective reporting (re-
+porting bias)
+Unclear risk
+Only mean differences of primary and secondary outcome measures were pro-
+vided. There were no indications of the range of values for these variables.
+Other bias
+Low risk
+None detected
+Fuangchan 2011  (Continued)
+ 
+ 
+Methods
+PARALLEL RANDOMISED CONTROLLED CLINICAL TRIAL
+Participants
+WHO PARTCIPATED: 50 patients with type 2 diabetes mellitus
+SETTING: Medical out-patients' clinic of tertiary care teaching hospital in South India.
+SEX (female:male ratio): 17:8
+AGE (mean years (SD)): 52.8 (SD 7.9)
+ETHNIC GROUPS (%): No information
+DURATION OF DISEASE (mean years (SD)): No information
+INCLUSION CRITERIA: Diagnosed by physicians to have type 2 diabetes mellitus; fasting plasma glu-
+cose (FBS) of 140-200 mg/dL and post prandial plasma glucose (PPS) of 200-300 mg/dL. 
+EXCLUSION CRITERIA: Type 1 diabetes mellitus or  had FBS >200 mg/dL and PPS >300 mg/dL, diabetic
+patients with infection or with diabetic related complications, pregnant women, lactating mothers and
+patients on insulin for sugar control.
+DIAGNOSTIC CRITERIA: Authors' criteria
+CO-MORBIDITIES: No information
+CO-MEDICATIONS: Oral hypoglycaemic agents such as sulfonylureas and biguanides.
+Interventions
+Experimental intervention:
+Each patient received 2 tablets thrice daily after meals and each tablet contained 1 gram of dried fruit.
+The bitter gourd tablets were made from shade dried powdered fresh whole fruit. The average sized
+fruit weights around 5 gm when dried.
+Control intervention:
+Placebo tablets containing of riboflavin. 
+All patients were on concomitant oral hypoglycaemic agents and diet regimen during the study.
+John 2003 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcomes
+PRIMARY OUTCOME(S) (as stated in the publication): FBS/PPS; change in serum fructosamine level af-
+ter treatment.
+SECONDARY OUTCOMES (as stated in the publication): Not stated.
+ADDITIONAL OUTCOMES: Not stated.
+Study details
+DURATION OF INTERVENTION: 4 weeks
+DURATION OF FOLLOW-UP: 2-weekly
+RUN-IN PERIOD: No information
+Publication details
+LANGUAGE OF PUBLICATION: English
+COMMERCIAL FUNDING / NON-COMMERCIAL FUNDING: No information
+PUBLICATION STATUS: Letter to the editor (peer review journal)
+Stated aim of study
+To evaluate the usefulness of Momordica charantia in mild to moderate type 2 diabetes mellitus.
+Notes
+Published as a letter to editor.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+No information
+Allocation concealment
+(selection bias)
+Unclear risk
+No information
+Blinding (performance
+bias and detection bias) 
+All outcomes
+High risk
+Only partially blinded. The patients and laboratory personnel were blinded
+but the investigators were not.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Despite patients dropping out in the course of treatment, there was no indi-
+cation of how this information on missing data was addressed. There was no
+time specified for blood glucose levels tested postprandially.
+Selective reporting (re-
+porting bias)
+High risk
+Only means of primary outcomes were provided. There was no indication of
+the range of values for these variables.
+Other bias
+Low risk
+Nothing detected
+John 2003  (Continued)
+ 
+ 
+Methods
+PARALLEL RANDOMISED CONTROLLED CLINICAL TRIAL
+Participants
+WHO PARTCIPATED: 260 patients with type 2 diabetes mellitus
+SETTING: No information
+SEX (female:male ratio): 1.4:1
+AGE (mean years (SD)): No information
+Purificacion 2007 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ETHNIC GROUPS (%): No information
+DURATION OF DISEASE (mean years (SD)): No information
+INCLUSION CRITERIA: No information 
+EXCLUSION CRITERIA: No information
+DIAGNOSTIC CRITERIA: Authors' criteria
+CO-MORBIDITIES: No information
+CO-MEDICATIONS: No information
+Interventions
+Experimental intervention: Momordica charantia leaf tablets
+Control intervention: Glibenclamide tablets
+Outcomes
+PRIMARY OUTCOME(S) (as stated in the publication): fasting blood glucose; change in HbA1c level af-
+ter treatment
+SECONDARY OUTCOMES (as stated in the publication): clinical parameters of polyuria, polyphagia,
+polydipsia, weight loss and nocturia
+ADDITIONAL OUTCOMES: Not stated
+Study details
+DURATION OF INTERVENTION: 12 weeks
+DURATION OF FOLLOW-UP: No information
+RUN-IN PERIOD: No information
+Publication details
+LANGUAGE OF PUBLICATION: English
+COMMERCIAL FUNDING / NON-COMMERCIAL FUNDING: No information
+PUBLICATION STATUS: Other (departmental circular)
+Stated aim of study
+To compare the efficacy and safety of oral ampalaya tablet with glibenclamide tablet based on fasting
+blood glucose and glycosylated haemoglobin during the 12 weeks of treatment period among type 2
+diabetes patients using a randomised blocked design.
+Notes
+Departmental circular of the Office of the Secretary, Department of Health, Republic of the Philippines.
+Raw data were not available.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Only randomised block design was stated
+Allocation concealment
+(selection bias)
+Unclear risk
+No information
+Blinding (performance
+bias and detection bias) 
+All outcomes
+Unclear risk
+No information
+Incomplete outcome data
+(attrition bias) 
+Unclear risk
+No information
+Purificacion 2007  (Continued)
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Selective reporting (re-
+porting bias)
+Low risk
+Nothing detected
+Other bias
+Low risk
+Nothing detected
+Purificacion 2007  (Continued)
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Balwa 1977
+This is a clinical trial and there is no randomised allocation of participants.
+Inayat-ur-Rahman 2009
+This is an experimental study examining sialic acid changes after three meals.
+Lim 2010
+Although this is a randomised, double-blind, controlled trial, only single oral doses of momordica
+charantia tablets were investigated.
+Rosales 2001
+This is an open label cross-over trial with no randomisation.
+ 
+Characteristics of ongoing studies [ordered by study ID]
+ 
+Trial name or title
+Glycaemic response to momordica charantia in type 2 diabetes
+Methods
+Treatment, randomised, double blind (patient, caregiver, investigator, outcomes assessor), place-
+bo controlled, parallel assignment, safety/efficacy study
+Participants
+The participants will be of both genders from 18 years to 75 years with type 2 diabetes. This will
+include those with mild degree of hyperglycemia (FBG between >126 mg/dl and <200 mg/dl), ab-
+sence of serious co-morbid conditions and agreeing to participate in the trial
+Interventions
+Intervention: capsules containing freeze dried powder of momordica charantia
+Control: placebo - capsules containing starch powder
+Outcomes
+Primary outcome: serum fructosamine
+Secondary outcomes: major adverse events, GLP-1, FBG, HOMA-IR, insulin resistance (hyperinsu-
+linemic euglycaemic clamp)
+Starting date
+January 2009
+Contact information
+Khadija I Khawaja, MBBS, FCPS mailto:khadijairfan%40yahoo.com?subject=NCT00823953,
+DMC0107, Glycemic Response to Momordica Charantia in Type 2 Diabetes
+User defined 1
+Duration three weeks
+Notes
+Currently recruiting participants
+Khadija 2009 
+FBG: fasting blood glucose; GLP-1: glucagon-like peptide 1; HOMA-IR: homeostasis assessment model of insulin resistance
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Comparison 1.   Momordica charantia capsules versus placebo
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Change in HbA1c
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+2 Change in fasting blood glu-
+cose
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+3 Change in total cholesterol
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+4 Change in body mass index
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+ 
+ 
+Analysis 1.1.   Comparison 1 Momordica charantia capsules versus placebo, Outcome 1 Change in HbA1c.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Dans 2007
+20
+-0.3 (0.9)
+20
+-0.5 (1)
+0%
+0.22[-0.36,0.8]
+Favours momordica charantia
+10
+5
+-10
+-5
+0
+Favours placebo
+ 
+ 
+Analysis 1.2.   Comparison 1 Momordica charantia capsules
+versus placebo, Outcome 2 Change in fasting blood glucose.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Dans 2007
+20
+0.4 (3.2)
+20
+-0.2 (4.3)
+0%
+0.66[-1.69,3.01]
+Favours momordica charantia
+100
+50
+-100
+-50
+0
+Favours placebo
+ 
+ 
+Analysis 1.3.   Comparison 1 Momordica charantia capsules versus placebo, Outcome 3 Change in total cholesterol.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Dans 2007
+20
+0.2 (0.9)
+20
+-0.1 (1.3)
+0%
+0.3[-0.37,0.97]
+Favours momordica charantia
+5
+2.5
+-5
+-2.5
+0
+Favours placebo
+ 
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 1.4.   Comparison 1 Momordica charantia capsules versus placebo, Outcome 4 Change in body mass index.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+Dans 2007
+20
+0 (1)
+20
+0 (1.2)
+0%
+0.01[-0.67,0.69]
+Favours momordica charantia
+2
+1
+-2
+-1
+0
+Favours placebo
+ 
+ 
+Comparison 2.   Momordica charantia (dried fruits) tablets versus placebo
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Fasting blood glucose
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+2 Post-prandial blood glucose
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+3 Change in serum fruc-
+tosamine
+1
+ 
+Mean Difference (IV, Random, 95%
+CI)
+Subtotals only
+ 
+ 
+Analysis 2.1.   Comparison 2 Momordica charantia (dried fruits)
+tablets versus placebo, Outcome 1 Fasting blood glucose.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+John 2003
+22
+150 (35.3)
+19
+150.7 (35.4)
+0%
+-0.7[-22.4,21]
+Favours momordica charantia
+50
+25
+-50
+-25
+0
+Favours placebo
+ 
+ 
+Analysis 2.2.   Comparison 2 Momordica charantia (dried fruits)
+tablets versus placebo, Outcome 2 Post-prandial blood glucose.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+John 2003
+22
+230.4 (61.2)
+19
+257.6 (62.9)
+0%
+-27.2[-65.33,10.93]
+Favours momordica charantia
+100
+50
+-100 -50
+0
+Favours placebo
+ 
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 2.3.   Comparison 2 Momordica charantia (dried fruits)
+tablets versus placebo, Outcome 3 Change in serum fructosamine.
+Study or subgroup
+momordi-
+ca charantia
+placebo
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+John 2003
+22
+319.1 (60.7)
+19
+333.9 (64.1)
+0%
+-14.8[-53.19,23.59]
+Favours momordica charantia
+200
+100
+-200
+-100
+0
+Favours placebo
+ 
+ 
+Comparison 3.   Momordica charantia (dried fruits) capsules versus metformin
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Serum fructosamine
+1
+ 
+Mean Difference (IV, Random,
+95% CI)
+Subtotals only
+1.1 momordica charantia 2000mg/
+day versus metformin
+1
+62
+Mean Difference (IV, Random,
+95% CI)
+6.60 [-9.64, 22.84]
+ 
+ 
+Analysis 3.1.   Comparison 3 Momordica charantia (dried fruits)
+capsules versus metformin, Outcome 1 Serum fructosamine.
+Study or subgroup
+momordi-
+ca charantia
+metformin
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+3.1.1 momordica charantia 2000mg/day versus metformin
+ 
+Fuangchan 2011
+29
+-10.2 (23.3)
+33
+-16.8 (40.6)
+100%
+6.6[-9.64,22.84]
+Subtotal ***
+29
+ 
+33
+ 
+100%
+6.6[-9.64,22.84]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.8(P=0.43)
+ 
+Favours momordica charantia
+200
+100
+-200
+-100
+0
+Favours metformin
+ 
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+A D D I T I O N A L   T A B L E S
+Characteris-
+tic
+Study ID
+intervention & control
+[n] screened
+[n] ran-
+domised
+[n] safety
+[n] ITT
+[n] finishing
+study
+[%] of ran-
+domised par-
+ticipants
+finishing study
+Dans 2007 1
+I: momordica charantia + oral hypoglycaemic
+agents
+C: placebo + oral hypoglycaemic agents
+-
+I: 20
+C: 20
+T: 40
+I: 20
+C: 20
+T: 40
+I: 20
+C: 20
+T: 40
+I: 19
+C: 20
+T: 39
+I: 95
+C: 100
+T: 98
+Fuangchan
+2011 2
+I1: momordica charantia 500 mg/day
+I2: momordica charantia 1000 mg/day
+I3: momordica charantia 2000 mg/day
+C: metformin
+-
+I1: 33
+I2: 32
+I3: 31
+C: 33
+T: 129
+I1: 33
+I2: 32
+I3: 31
+C: 33
+T: 129
+I1: 33
+I2: 32
+I3: 31
+C: 33
+T: 129
+I1: 31
+I2: 30
+I3: 29
+C: 30
+T: 120
+I1: 94
+I2: 94
+I3: 94
+C: 91
+T: 93
+John 2003 1
+I: momordica charantia + oral hypoglycaemic
+agents
+C: placebo + oral hypoglycaemic agents
+-
+I: 26
+C: 24
+T: 50
+I: 26
+C: 24
+T: 50
+-
+I: 22
+C: 19
+T: 41
+I: 85
+C: 79
+T: 82
+Purificacion
+2007 1
+I: momordica charantia
+C: glibenclamide
+-
+I: 128
+C: 132
+T: 260
+I: 128
+C: 132
+T: 260
+-
+-
+-
+all interventions
+270
+all controls
+209
+Total
+all interventions & controls
+ 
+479
+ 
+Table 1.   Overview of study populations 
+"-" denotes not reported
+1 no information how missing data were handled
+2 last observation carried forward (LOCF) method was used for missing values
+Abbreviations:
+C: control; I: intervention; ITT: intention-to-treat; T: total
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 32]
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+A P P E N D I C E S
+Appendix 1. Search strategies
+ 
+Search terms and databases
+Unless otherwise stated, search terms are free text terms; MeSH = Medical subject heading (Medline medical index term); exp = ex-
+ploded MeSH; the dollar sign ($) or asterisk (*) stand for any character(s); the question mark (?) = to substitute for one or no charac-
+ters; ab = abstract; adj = adjacent; ot = original title;  pt = publication type; rn = Registry number or Enzyme Commission number; sh =
+MeSH; ti = title; tw = text word.
+The Cochrane Library
+#1 MeSH descriptor Diabetes mellitus, type 2 explode all trees
+#2 MeSH descriptor Insulin resistance explode all trees
+#3 ( (impaired in All Text and glucose in All Text and toleranc* in All Text) or (glucose in All Text and intoleranc* in All Text) or (insulin*
+in All Text and resistanc* in All Text) )
+#4 (obes* in All Text near/6 diabet* in All Text)
+#5 (MODY in All Text or NIDDM in All Text or TDM2 in All Text)
+#6 ( (non in All Text and insulin* in All Text and depend* in All Text) or (noninsulin* in All Text and depend* in All Text) or (non in All
+Text and insulindepend* in All Text) or noninsulindepend* in All Text)
+#7 (typ* in All Text and (2 in All Text near/6 diabet* in All Text) )
+#8 (typ* in All Text and (II in All Text near/6 diabet* in All Text) )
+#9 (non in All Text and (keto* in All Text near/6 diabet* in All Text) )
+#10 (nonketo* in All Text near/6 diabet* in All Text)
+#11 (adult* in All Text near/6 diabet* in All Text)
+#12 (matur* in All Text near/6 diabet* in All Text)
+#13 (late in All Text near/6 diabet* in All Text)
+#14 (slow in All Text near/6 diabet* in All Text)
+#15 (stabl* in All Text near/6 diabet* in All Text)
+#16 (insulin* in All Text and (defic* in All Text near/6 diabet* in All Text) )
+#17 (plurimetabolic in All Text and syndrom* in All Text)
+#18 (pluri in All Text and metabolic in All Text and syndrom* in All Text)
+#19 (#1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10)
+#20 (#11 or #12 or #13 or #14 or #15 or #16 or #17 or #18)
+#21 (#19 or #20)
+#22 MeSH descriptor Diabetes insipidus explode all trees
+#23 (diabet* in All Text and insipidus in All Text)
+#24 (#22 or #23)
+#25 (#21 and not #24)
+#26 MeSH descriptor Momordica charantia explode all trees
+#27 MeSH descriptor Cucurbitaceae explode all trees
+#28 cucurbitaceae in All Text
+#29 ( (bitter in All Text and melon in All Text) or (bitter in All Text and gourd in All Text)
+#30 (momordica in All Text and charantia in All Text)
+#31 (#26 or #27 or #28 or #29 or #30)
+#32 (#25 and #31)
+MEDLINE
+1. momordica charantia.mp.
+2. bitter melon.mp.
+3. bitter gourd.mp.
+4. cucurbitaceae.mp.
+5. or/1-4
+6. exp Diabetes Mellitus, Type 2/
+7. exp Insulin Resistance/
+8. exp Glucose Intolerance/
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+9. (impaired glucos$ toleranc$ or glucos$ intoleranc$ or insulin resistan$).tw,ot.
+10. (obes$ adj3 diabet$).tw,ot.
+11. (MODY or NIDDM or T2DM).tw,ot.
+12. (non insulin$ depend$ or noninsulin$ depend$ or noninsulin?depend$ or non insulin?depend$).tw,ot.
+13. ((typ? 2 or typ? II or typ?2 or typ?II) adj3 diabet$).tw,ot.
+14. ((keto?resist$ or non?keto$) adj6 diabet$).tw,ot.
+15. (((late or adult$ or matur$ or slow or stabl$) adj3 onset) and diabet$).tw,ot.
+16. or/6-15
+17. exp Diabetes Insipidus/
+18. diabet$ insipidus.tw,ot.
+19. 17 or 18
+20. 16 not 19
+21. 5 and 20
+22. randomized controlled trial.pt.
+23. controlled clinical trial.pt.
+24. randomi?ed.ab.
+25. placebo.ab.
+26. drug therapy.fs.
+27. randomly.ab.
+28. trial.ab.
+29. groups.ab.
+30. or/22-29
+31. Meta-analysis.pt.
+32. exp Technology Assessment, Biomedical/
+33. exp Meta-analysis/
+34. exp Meta-analysis as topic/
+35. hta.tw,ot.
+36. (health technology adj6 assessment$).tw,ot.
+37. (meta analy$ or metaanaly$ or meta?analy$).tw,ot.
+38. ((review$ or search$) adj10 (literature$ or medical database$ or medline or pubmed or embase or cochrane or cinahl or psycinfo
+or psyclit or healthstar or biosis or current content$ or systemat$)).tw,ot.
+39. or/31-38
+40. (comment or editorial or historical-article).pt.
+41. 39 not 40
+42. 30 or 41
+43. 21 and 42
+44. (animals not (animals and humans)).sh.
+45. 43 not 44
+EMBASE
+1. exp Momordica charantia extract/ or exp Momordica charantia/
+2. bitter lemon.tw,ot.
+3. bitter gourd.tw,ot.
+4. cucurbitaceae.tw,ot.
+5. momordica charantia.tw,ot.
+6. or/1-5
+7. exp Diabetes Mellitus, Type 2/
+8. exp Insulin Resistance/
+9. (MODY or NIDDM or T2D or T2DM).tw,ot.
+10. ((typ? 2 or typ? II or typ?II or typ?2) adj3 diabet*).tw,ot.
+11. (obes* adj3 diabet*).tw,ot.
+12. (non insulin* depend* or non insulin?depend* or noninsulin* depend* or noninsulin?depend*).tw,ot.
+13. ((keto?resist* or non?keto*) adj3 diabet*).tw,ot.
+14. ((adult* or matur* or late or slow or stabl*) adj3 diabet*).tw,ot.
+15. (insulin* defic* adj3 relativ*).tw,ot.
+16. insulin* resistanc*.tw,ot.
+17. or/7-16
+18. exp Diabetes Insipidus/
+19. diabet* insipidus.tw,ot.
+  (Continued)
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+20. 18 or 19
+21. 17 not 20
+22. 6 and 21
+23. exp Randomized Controlled Trial/
+24. exp Controlled Clinical Trial/
+25. exp Clinical Trial/
+26. exp Comparative Study/
+27. exp Drug comparison/
+28. exp Randomization/
+29. exp Crossover procedure/
+30. exp Double blind procedure/
+31. exp Single blind procedure/
+32. exp Placebo/
+33. exp Prospective Study/
+34. ((clinical or control$ or comparativ$ or placebo$ or prospectiv$ or randomi?ed) adj3 (trial$ or stud$)).ab,ti.
+35. (random$ adj6 (allocat$ or assign$ or basis or order$)).ab,ti.
+36. ((singl$ or doubl$ or trebl$ or tripl$) adj6 (blind$ or mask$)).ab,ti.
+37. (cross over or crossover).ab,ti.
+38. or/23-37
+39. exp meta analysis/
+40. (metaanaly$ or meta analy$ or meta?analy$).ab,ti,ot.
+41. ((review$ or search$) adj10 (literature$ or medical database$ or medline or pubmed or embase or cochrane or cinahl or psycinfo
+or psyclit or healthstar or biosis or current content$ or systematic$)).ab,ti,ot.
+42. exp Literature/
+43. exp Biomedical Technology Assessment/
+44. hta.tw,ot.
+45. (health technology adj6 assessment$).tw,ot.
+46. or/39-45
+47. (comment or editorial or historical-article).pt.
+48. 46 not 47
+49. 38 or 48
+50. 22 and 49
+51. limit 50 to human 
+Proquest Health and Medical Complete
+("mo???dica charantia") OR ("bitter melon") OR ("bitter gourd") OR ("cucurbitaceae") Citation and document text
+("clinical trial*") OR (random*) OR (control*) OR (blind*) Citation and document text
+(("mo???dica charantia") OR ("bitter melon") OR ("bitter gourd") OR ("cucurbitaceae")) AND (("clinical trial*") OR (random*) OR (con-
+trol*) OR (blind*)) Citation and document text
+("meta-analysis") OR (review*) AND NOT (letter*) AND NOT (comment*) AND NOT (editor*) Citation and document text
+(("mo???dica charantia") OR ("bitter melon") OR ("bitter gourd") OR ("cucurbitaceae")) AND (("meta-analysis") OR (review*) AND
+NOT (letter*) AND NOT (comment*) AND NOT (editor*)) Citation and document text
+(HTA) OR ("health technology W/6 assess*") OR ("biomedical W/6 technology assess*") Citation and document text
+("typ* 2") OR ("typ* II") OR ("late") OR ("maturity") OR ("n???insulin") AND ("diabet*") Citation and document text
+(NIDDM*) OR (MODY*) OR (TIIDM) OR (T2DM) Citation and document text
+(("typ* 2") OR ("typ* II") OR ("late") OR ("maturity") OR ("n???insulin") AND ("diabet*")) OR ((NIDDM*) OR (MODY*) OR (TIIDM) OR
+(T2DM)) Citation and document text
+((("typ* 2") OR ("typ* II") OR ("late") OR ("maturity") OR ("n???insulin") AND ("diabet*")) OR ((NIDDM*) OR (MODY*) OR (TIIDM) OR
+(T2DM))) AND ((("mo???dica charantia") OR ("bitter melon") OR ("bitter gourd") OR ("cucurbitaceae")) AND (("clinical trial*") OR (ran-
+dom*) OR (control*) OR (blind*))) Citation and document text
+((("typ* 2") OR ("typ* II") OR ("late") OR ("maturity") OR ("n???insulin") AND ("diabet*")) OR ((NIDDM*) OR (MODY*) OR (TIIDM) OR
+(T2DM))) AND ((("mo???dica charantia") OR ("bitter melon") OR ("bitter gourd") OR ("cucurbitaceae")) AND (("meta-analysis") OR (re-
+view*) AND NOT (letter*) AND NOT (comment*) AND NOT (editor*))) Citation and document text
+((("typ* 2") OR ("typ* II") OR ("late") OR ("maturity") OR ("n???insulin") AND ("diabet*")) AND ((NIDDM*) OR (MODY*) OR (TIIDM) OR
+(T2DM))) AND ((HTA) OR ("health technology W/6 assess*") OR ("biomedical W/6 technology assess*"))) Citation and document text
+  (Continued)
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 36]
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+Appendix 2. Baseline characteristics (I)
+Character-
+istic
+Study ID
+Intervention(s) &
+control(s)
+Duration of
+interven-
+tion
+Duration of
+follow-up
+Participat-
+ing
+population
+Country
+Setting
+Ethnic
+groups
+[%]
+Duration of
+disease
+[mean
+years (SD)/
+range]
+momordica charantia + oral hypoglycaemic
+agents
+Dans 2007
+placebo + oral hypoglycaemic agents
+3 months
+3 months
+adults
+The Phillip-
+ines
+out-patients
+-
+-
+momordica charantia 500 mg/day
+momordica charantia 1000 mg/day
+momordica charantia 2000 mg/day
+Fuangchan
+2011
+metformin
+4 weeks
+4 weeks
+adults
+Thailand
+-
+-
+-
+momordica charantia + oral hypoglycaemic
+agents
+John 2003
+placebo + oral hypoglycaemic agents
+4 weeks
+4 weeks
+adults
+India
+out-patients
+-
+-
+momordica charantia
+Purifica-
+cion 2007
+glibenclamide
+12 weeks
+-
+adults
+The Phillip-
+ines
+-
+-
+-
+Footnotes
+"-" denotes not reported
+Abbreviations:
+SD: standard deviation
+ 
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Appendix 3. Baseline characteristics (II)
+ 
+Character-
+istic
+Study ID
+Intervention(s) &
+control(s)
+Sex
+[%female]
+Age
+[mean (SD)/
+range]
+HbA1c
+[mean
+(SD)/
+range]
+Co-med-
+ications /
+Co-inter-
+ventions
+Co-mor-
+bidities
+momordica charantia + oral hypogly-
+caemic agents
+65
+58.7 (9.8)
+7.9 (0.6)
+Dans 2007
+placebo + oral hypoglycaemic agents
+60
+C: 59.8 (10.0)
+C: 8.1 (0.8)
+all:
+63
+59.2 (12.3)
+-
+oral hypo-
+glycaemic
+agents
+-
+momordica charantia 500 mg/day
+momordica charantia 1000 mg/day
+momordica charantia 2000 mg/day
+76
+81.
+65
+52.2 (8.3)
+50.6 (10.7)
+52.0 (9.1)
+-
+Fuangchan
+2011
+metformin
+73
+52.5 (9.2)
+-
+all:
+74
+51.8 (9.3)
+-
+-
+-
+momordica charantia + oral hypogly-
+caemic agents
+73
+-
+-
+John 2003
+placebo + oral hypoglycaemic agents
+63
+-
+-
+all:
+68
+52.8 (7.9)
+-
+oral hypo-
+glycaemic
+agents
+-
+momordica charantia
+59
+12.3 (2.1)
+Purifica-
+cion 2007
+glibenclamide
+58
+12.2 (2.2)
+all:
+59
+-
+-
+-
+-
+Footnotes
+"-" denotes not reported
+Abbreviations:
+HbA1c: glycosylated haemoglobin A1c; SD: standard deviation
+ 
+ 
+Appendix 4. Matrix of study endpoints
+ 
+Characteristic
+Study ID
+Primary1 endpoint(s)
+Secondary2 endpoint(s)
+Other3 endpoint(s)
+Dans 2007
+change in HbA1c after
+treatment
+change in fasting blood glu-
+cose, serum cholesterol and
+weight
+change in serum creatinine, AST, ALT, sodium,
+potassium
+incidence of adverse events
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Fuangchan 2011
+fructosamine
+fasting plasma glucose and 2h
+plasma glucose after a 75-g
+glucose load
+safety was monitored by assessing patient report-
+ed symptoms, changes in findings on physical ex-
+amination, vital signs, laboratory tests (complete
+blood count, blood urea nitrogen, serum creati-
+nine, and liver function test), and reports of hypo-
+glycemia
+John 2003
+change in serum fruc-
+tosamine level after
+treatment
+FBG
+PPG
+-
+-
+Purificacion 2007
+change in HbA1c level
+after treatment
+FBG
+clinical parameters of
+polyuria, polyphagia, polydip-
+sia, weight loss and nocturia
+-
+Footnotes
+1,2 verbatim statement in the publication; 3 not explicitly stated as primary or secondary endpoint(s) in the publication
+"-" denotes not reported
+Abbreviations:
+ALT: alanine aminotransferase ; AST: aspartate aminotransferase; C: control; FBG: fasting blood glucose; HbA1c: glycosylated hemo-
+globin A1c; I: intervention; PPG: post-prandial glucose
+  (Continued)
+ 
+Appendix 5. Adverse events
+ 
+Study ID
+Characteristic
+Dans 2007
+Fuangchan 2011
+John 2003
+Purificacion
+2007
+Intervention
+momordica charantia + oral
+hypoglycaemic agents
+momordica charantia 500 mg/
+day
+momordica charantia 1000 mg/
+day
+momordica charantia 2000 mg/
+day
+momordica cha-
+rantia + oral hy-
+poglycaemic
+agents
+momordica cha-
+rantia
+Control
+placebo + oral hypoglycaemic
+agents
+metformin
+placebo + oral
+hypoglycaemic
+agents
+glibenclamide
+Deaths [n]
+I1: 0/20
+C: 0/20
+T: 0/40
+I1: 0/33
+I2: 0/32
+I3: 0/31
+C: 0/33
+T: 0/129
+I: 0/26
+C: 0/24
+T: 0/50
+I: 0/128
+C: 0/132
+T: 0/260
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Adverse events [n
+(%)]
+I: 7/20 (35)
+C: 1/20 (5)
+T: 8/40 (20)
+-
+-
+-
+Serious adverse
+events [n (0%)]
+I: 0/20 (0)
+C: 0/20 (0)
+T: 0/40 (0)
+I1: 0/33 (0)
+I2: 0/32 (0)
+I3: 0/31 (0)
+C: 0/33 (0)
+T: 0/129 (0)
+-
+-
+Drop-outs due to ad-
+verse events [n (%)]
+I: 1/20 (5)
+C: 0/20 (0)
+T: 1/40 (2.5)
+I1: 0/33 (0)
+I2: 0/32 (0)
+I3: 0/31 (0)
+C: 0/33 (0)
+T: 0/129 (0)
+-
+-
+Hospitalisation [n
+(%)]
+I: 2/20 (10)
+C: 0/20 (0)
+T: 2/40 (5)
+I1: 0/33 (0)
+I2: 0/32 (0)
+I3: 0/31 (0)
+C: 0/33 (0)
+T: 0/129 (0)
+-
+-
+Out-patient treat-
+ment [n (%)]
+I: 6/20 (30)
+C: 1/20 (5)
+T: 7/40 (17.5)
+-
+-
+-
+Hypoglycaemic
+episodes [n (%)]
+-
+-
+-
+-
+Other symptoms [n
+(%)]
+I: 7/20 (35)
+C: 1/20 (5)
+T: 8/40 (20)
+-
+-
+-
+Footnotes:
+"-" denotes not reported
+Abbreviations:
+C: control; I: intervention; T: total
+  (Continued)
+ 
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37
+
+[page 40]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+F E E D B A C K
+New feedback, 27 October 2013
+Summary
+Comment to the Editor: The main results section of the abstract said "There was no statistically significant diﬀerence in the glycaemic
+control with momordica charantia preparations compared to placebo. When momordica charantia was compared to metformin or
+glibenclamide, there was also no significant change in reliable parameters of glycaemic control." Metformin and glibenclamide are
+definitely significantly diﬀerent from the placebo. This fact is not compatible with both the above statements being correct at the same
+time. It was not clear to me why the more accurate and not confusing statements in the previous version were updated to this version.
+Reply
+The statement in the results section of the abstract is correct and highlights the fact that some RCTs (all with limited amount of data
+investigating surrogate outcomes only) compared momordica charantia with placebo and other trials compared momordica charantia to
+metformin or glibenclamide (again all with limited amount of data investigating surrogate outcomes only) demonstrating no statistically
+significant diﬀerences between intervention and comparator groups. This does not imply that metformin or glibenclamide are not diﬀerent
+to placebo which would be an unjustified indirect comparison. The main message of this review however is that data on patient-important
+outcome measures are missing.
+Contributors
+Annotator: Jih-I Yeh.Department of Family Medicine, Buddhist Tzu-Chi General Hospital and Tzu-Chi University, Hualien, Taiwan
+(jihiyeh@gms.tcu.edu.tw).
+Responder: Bernd Richter, Coordinating Editor Cochrane Metabolic and Endocrine Disorders Group.
+W H A T ' S   N E W
+ 
+Date
+Event
+Description
+15 November 2013
+Feedback has been incorporated
+New feedback incorporated
+ 
+H I S T O R Y
+Protocol first published: Issue 2, 2009
+Review first published: Issue 2, 2010
+ 
+Date
+Event
+Description
+22 May 2012
+New citation required but conclusions
+have not changed
+No change in the results and conclusions of the review.
+22 May 2012
+New search has been performed
+One additional study (Fuangchan 2011) was included.
+ 
+C O N T R I B U T I O N S   O F   A U T H O R S
+Cheow Peng Ooi:  drafing, editing and submitting the review, designing search strategies and search for trials, selection of trials for
+inclusion and exclusion, extraction of data, entry of data (into RevMan), data analyses and data interpretations.
+Yassin Zaitun: independent input on trials selection, data analysis and data interpretations; general advice on the review.
+Tengku-Aizan Hamid: input on data analysis and data interpretations; general advice on the review.
+D E C L A R A T I O N S   O F   I N T E R E S T
+None known
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38
+
+[page 41]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+Institute of Gerontology, Universiti Putra Malaysia, Malaysia.
+External sources
+•
+No sources of support supplied
+D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W
+EMBASE was included in the list of electronic databases to increase the base of literature search. The criteria for selection of studies to be
+included in the review was revised to include duration of four or more weeks for yielding results suggestive of impact on glycaemic control.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Diabetes Mellitus, Type 2  [*drug therapy];  Glyburide  [therapeutic use];  Hypoglycemic Agents  [*therapeutic use];  Metformin
+ [therapeutic use];  Momordica charantia  [*chemistry];  Phytotherapy  [*methods];  Plant Extracts  [*therapeutic use];  Randomized
+Controlled Trials as Topic
+MeSH check words
+Humans
+Momordica charantia for type 2 diabetes mellitus (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+39

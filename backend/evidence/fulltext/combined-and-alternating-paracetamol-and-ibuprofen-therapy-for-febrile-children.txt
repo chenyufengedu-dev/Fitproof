@@ -1,0 +1,4744 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Combined and alternating paracetamol and ibuprofen therapy for
+febrile children (Review)
+ 
+ 
+Wong T, Stang AS, Ganshorn H, Hartling L, Maconochie IK, Thomsen AM, Johnson DW
+ 
+ 
+Wong T, Stang AS, Ganshorn H, Hartling L, Maconochie IK, Thomsen AM, Johnson DW. 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children. 
+Cochrane Database of Systematic Reviews 2013, Issue 10. Art. No.: CD009572. 
+DOI: 10.1002/14651858.CD009572.pub2.
+ 
+ 
+www.cochranelibrary.com
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+ 
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+BACKGROUND..............................................................................................................................................................................................
+3
+OBJECTIVES..................................................................................................................................................................................................
+4
+METHODS.....................................................................................................................................................................................................
+4
+RESULTS........................................................................................................................................................................................................
+6
+Figure 1..................................................................................................................................................................................................
+7
+Figure 2..................................................................................................................................................................................................
+9
+Figure 3..................................................................................................................................................................................................
+10
+DISCUSSION..................................................................................................................................................................................................
+12
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+13
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+13
+REFERENCES................................................................................................................................................................................................
+14
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+16
+DATA AND ANALYSES....................................................................................................................................................................................
+26
+Analysis 1.1. Comparison 1 Combined versus single agent, Outcome 1 Mean temperature (°C).....................................................
+27
+Analysis 1.2. Comparison 1 Combined versus single agent, Outcome 2 Proportion remaining febrile...........................................
+28
+Analysis 2.1. Comparison 2 Alternating versus single agent, Outcome 1 Non-communicating Children's Pain Checklist (NCCPC)
+score.......................................................................................................................................................................................................
+29
+Analysis 2.2. Comparison 2 Alternating versus single agent, Outcome 2 Absent from daycare, days.............................................
+30
+Analysis 2.3. Comparison 2 Alternating versus single agent, Outcome 3 Doses of medication per child........................................
+30
+Analysis 2.4. Comparison 2 Alternating versus single agent, Outcome 4 Mean temperature (°C)....................................................
+31
+Analysis 2.5. Comparison 2 Alternating versus single agent, Outcome 5 Proportion remaining febrile..........................................
+31
+Analysis 3.1. Comparison 3 Combined versus alternating therapy, Outcome 1 Temperature (°C)..................................................
+32
+Analysis 3.2. Comparison 3 Combined versus alternating therapy, Outcome 2 Proportion Febrile................................................
+33
+ADDITIONAL TABLES....................................................................................................................................................................................
+34
+APPENDICES.................................................................................................................................................................................................
+41
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+44
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+44
+SOURCES OF SUPPORT...............................................................................................................................................................................
+44
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+44
+INDEX TERMS...............................................................................................................................................................................................
+45
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Combined and alternating paracetamol and ibuprofen therapy for
+febrile children
+Tiﬀany Wong1,2, Antonia S Stang3, Heather Ganshorn4, Lisa Hartling5, Ian K Maconochie6, Anna M Thomsen2, David W Johnson7
+1Department of Pediatrics, University of British Columbia, BC Children's Hospital, Vancouver, Canada. 2Alberta Children's Hospital,
+Calgary, Canada. 3Department of Pediatrics, Community Health Services, Calgary, Canada. 4Libraries and Cultural Resources, University
+of Calgary, Calgary, Canada. 5Department of Pediatrics, University of Alberta, Edmonton, Canada. 6Department of Paediatrics A&E, St
+Mary's Hospital, London, UK. 7Department of Pediatrics, Faculty of Medicine, University of Calgary, Alberta Children's Hospital, Calgary,
+Canada
+Contact: Tiﬀany Wong, Department of Pediatrics, University of British Columbia, BC Children's Hospital, Vancouver, Canada.
+tiﬀanywong.mak@gmail.com.
+Editorial group: Cochrane Infectious Diseases Group.
+Publication status and date: Unchanged, published in Issue 10, 2013.
+Citation:  Wong T, Stang AS, Ganshorn H, Hartling L, Maconochie IK, Thomsen AM, Johnson DW. Combined and alternating paracetamol
+and ibuprofen therapy for febrile children. Cochrane Database of Systematic Reviews 2013, Issue 10. Art. No.: CD009572. DOI:
+10.1002/14651858.CD009572.pub2.
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Health professionals frequently recommend fever treatment regimens for children that either combine paracetamol and ibuprofen or
+alternate them. However, there is uncertainty about whether these regimens are better than the use of single agents, and about the adverse
+eﬀect profile of combination regimens.
+Objectives
+To assess the eﬀects and side eﬀects of combining paracetamol and ibuprofen, or alternating them on consecutive treatments, compared
+with monotherapy for treating fever in children.
+Search methods
+In September 2013, we searched Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials
+(CENTRAL); MEDLINE; EMBASE; LILACS; and International Pharmaceutical Abstracts (2009-2011).
+Selection criteria
+We included randomized controlled trials comparing alternating or combined paracetamol and ibuprofen regimens with monotherapy in
+children with fever.
+Data collection and analysis
+One review author and two assistants independently screened the searches and applied inclusion criteria. Two authors assessed risk of
+bias and graded the evidence independently. We conducted separate analyses for diﬀerent comparison groups (combined therapy versus
+monotherapy, alternating therapy versus monotherapy, combined therapy versus alternating therapy).
+Main results
+Six studies, enrolling 915 participants, are included.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Compared to giving a single antipyretic alone, giving combined paracetamol and ibuprofen to febrile children can result in a lower mean
+temperature at one hour afer treatment (MD -0.27 °Celsius, 95% CI -0.45 to -0.08, two trials, 163 participants, moderate quality evidence). If
+no further antipyretics are given, combined treatment probably also results in a lower mean temperature at four hours (MD -0.70 °Celsius,
+95% CI -1.05 to -0.35, two trials, 196 participants, moderate quality evidence), and in fewer children remaining or becoming febrile for at
+least four hours afer treatment (RR 0.08, 95% CI 0.02 to 0.42, two trials, 196 participants, moderate quality evidence). Only one trial assessed
+a measure of child discomfort (fever associated symptoms at 24 hours and 48 hours), but did not find a significant diﬀerence in this measure
+between the treatment regimens (one trial, 156 participants, evidence quality not graded).
+In practice, caregivers are ofen advised to initially give a single agent (paracetamol or ibuprofen), and then give a further dose of the
+alternative if the child's fever fails to resolve or recurs. Giving alternating treatment in this way may result in a lower mean temperature
+at one hour afer the second dose (MD -0.60 °Celsius, 95% CI -0.94 to -0.26, two trials, 78 participants, low quality evidence), and may also
+result in fewer children remaining or becoming febrile for up to three hours afer it is given (RR 0.25, 95% CI 0.11 to 0.55, two trials, 109
+participants, low quality evidence). One trial assessed child discomfort (mean pain scores at 24, 48 and 72 hours), finding that these mean
+scores were lower, with alternating therapy, despite fewer doses of antipyretic being given overall (one trial, 480 participants, low quality
+evidence)
+Only one small trial compared alternating therapy with combined therapy. No statistically significant diﬀerences were seen in mean
+temperature, or the number of febrile children at one, four or six hours (one trial, 40 participants, very low quality evidence).
+There were no serious adverse events in the trials that were directly attributed to the medications used.
+Authors' conclusions
+There is some evidence that both alternating and combined antipyretic therapy may be more eﬀective at reducing temperatures than
+monotherapy alone. However, the evidence for improvements in measures of child discomfort remains inconclusive. There is insuﬀicient
+evidence to know which of combined or alternating therapy might be more beneficial.Future research needs to measure child discomfort
+using standardized tools, and assess the safety of combined and alternating antipyretic therapy.
+15 April 2019
+Update pending
+Studies awaiting assessment
+The CIDG is currently examining a new search conducted in April 2019 for potentially relevant studies. These studies have not yet been
+incorporated into this Cochrane Review.
+P L A I N   L A N G U A G E   S U M M A R Y
+Alternating and combined antipyretics for treatment of fever in children
+When they are ill with infections, children ofen develop a fever. The fever with common viral illnesses, such as colds, coughs, sore throats
+and gastrointestinal illness, usually lasts a few days, makes children feel unwell, and is distressing for the children, their parents, or other
+caregivers.
+Paracetamol (also known as acetaminophen) and ibuprofen lower the child's temperature and relieve their discomfort. This review
+evaluates whether giving both treatments together, or alternating the two treatments, is more eﬀective than giving paracetamol or
+ibuprofen alone.
+In September 2013, we found six studies, involving 915 children, that evaluated combined or alternating paracetamol and ibuprofen to
+treat fever in children.
+Compared to giving ibuprofen or paracetamol alone, giving both medications together is probably more eﬀective at lowering temperature
+for the first four hours afer treatment (moderate quality evidence). However, only one trial assessed whether combined treatment made
+children less uncomfortable or distressed and found no diﬀerence compared to ibuprofen or paracetamol alone.
+In practice, caregivers are ofen advised to initially give a single agent (paracetamol or ibuprofen), and then give a further dose of the
+alternative if the child continues to have a fever. Giving alternating treatment in this way may be more eﬀective at lowering temperature
+for the first three hours afer the second dose (low quality evidence), and may also result in less child discomfort (low quality evidence)
+Only one small trial compared alternating therapy with combined therapy and found no advantages between the two (very low quality
+evidence).
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+Fever is a host response to disease caused by the invasion of
+the body by pathogens (Kluger 1995). Fevers are triggered by the
+release of endogenous cytokines by white blood cells, which act
+on the anterior hypothalamus to raise the thermoregulatory set-
+point, leading to elevated levels of prostaglandin E2 (PGE2) and
+a rise in body temperature (Kwiatkowski 1995). This elevation
+in body temperature is thought to attenuate the viability of
+some pathogens by recruiting and enhancing components of the
+immune system, and to help promote healing of damaged cellular
+components.
+Many physicians and caregivers favour treatment of fever with
+antipyretics to minimize distress, as a child who feels better is
+more likely to eat and drink, avoiding complications of dehydration
+and the eﬀects of poor nutrition. Other reasons for treating fever
+include improving comfort and normalizing body temperature
+(Crocetti 2001; Schmitt 1980). Rapid increases in fever can result in
+seizures, which although usually short-lived and self-limiting can
+lead to significant caregiver anxiety. Despite a lack of supporting
+clinical studies and proven ineﬀectiveness of prophylaxis in high
+risk children, some caregivers administer antipyretics to febrile
+children with a history of febrile seizures to prevent further
+seizures (Schnaiderman 1993; van Stuijvenberg 1998). The UK
+National Institute for Health and Care Excellence (NICE) Guidelines
+note that antipyretics do not prevent febrile convulsions and
+should not be used for prophylaxis of this condition (NICE Clinical
+Guidelines). Patients with underlying cardiac and pulmonary
+disorders may be at risk from fever, as the metabolic demands
+can be substantial. However, there are no studies that show
+antipyretics benefit patients with cardiopulmonary disease by
+reducing metabolic demand (Mackowiak 1998). Paracetamol (also
+known as acetaminophen) and ibuprofen are two of the most
+common antipyretic agents used by physicians and caregivers to
+treat fever.
+Description of the intervention
+Paracetamol is a para-aminophenol derivative that is probably
+a cyclooxygenase-3 inhibitor, which inhibits the formation and
+release of PGE2. It appears to act preferentially within the
+central nervous system to lower levels of fever-producing
+cytokines (Feldberg 1973; Mackowiak 1998). It is absorbed via
+the gastrointestinal tract, with maximal temperature reduction
+afer approximately two hours (Brown 1992; Kelley 1992). The
+recommended paediatric dose of paracetamol is 12 to 15 mg/kg
+every four to six hours orally. Paracetamol is also available in an
+intravenous formulation, with the recommended dose being 15
+mg/kg every six hours with a maximum daily dose of 4 g.
+Adverse eﬀects include allergic reaction resulting in a pruritic rash,
+and hepatotoxicity following overdose, which may in turn lead to
+organ degeneration and death (Kelley 1992). Although paracetamol
+is used to treat fever in millions of children every day with few
+or no adverse eﬀects, the risk of overdose with therapeutic intent
+remains. A study looking at 47 case reports of overdose with
+therapeutic intent was conducted and found a mortality rate of
+55%, with children less than two years old accounting for half the
+deaths. In 52% of cases, the overdose was the result of children
+receiving adult preparations of paracetamol (Heubi 1998).
+Recently, concerns have been raised regarding the association
+between paracetamol and the risk of asthma, rhinoconjunctivitis,
+and eczema in children and adults. The International Study
+of Asthma and Allergies in Childhood (ISAAC) programme has
+examined the association between atopy and both the use of
+paracetamol for fever in the first year of life and the frequency of use
+in the past 12 months. They concluded that there was an increased
+risk of asthma symptoms in childhood with paracetamol use for
+fever in the first year of life, as well as later on in childhood (Beasley
+2008; Del-Rio-Navarro 2008). A number of other studies have
+suggested an association between both paracetamol exposure in
+utero and usage in childhood and wheezing and atopy (Cohet
+2004; Newson 2000).  A meta-analysis published in 2009 found
+an increase in the risk of asthma and wheezing in both children
+and adults exposed to paracetamol (Etminan 2009). However, a
+prospective cohort study concluded that no association could
+be found between early paracetamol use and risk of subsequent
+allergic disease afer adjustment for respiratory infections or when
+paracetamol use was restricted to non-respiratory tract infections
+(Lowe 2010).
+Ibuprofen is a nonsteroidal anti-inflammatory propionic acid
+derivative that is a non-selective cyclooxygenase inhibitor,
+although it has both central and peripheral eﬀects on the
+nervous system. It is also absorbed via the gastrointestinal tract,
+with maximal temperature reduction within three hours. The
+recommended paediatric dose is 5 to 10 mg/kg every six to eight
+hours.
+Adverse eﬀects include gastrointestinal bleeding and renal failure,
+although ibuprofen has been reported to be as well tolerated as
+paracetamol (McIntyre 1996). As for paracetamol, risk of overdose
+with therapeutic intent remains. In children who have taken
+doses over 400 mg/kg, adverse eﬀects include seizures, apnoea,
+hypotension, and renal and hepatic dysfunction.
+The risk of acetylsalicylic acid-induced asthma has been well
+documented for decades; it was first described in 1922, afer aspirin
+first became available (Widal 1922). Due to the high level of cross
+reactivity with aspirin, caution in the use of other nonsteroidal
+anti-inflammatory drugs (NSAIDs), including ibuprofen, has been
+suggested in asthmatic patients (Kanabar 2007). However, several
+studies have suggested that the use of ibuprofen does not
+exacerbate asthma morbidity in children (Lesko 1999; Lesko 2002;
+McIntyre 1996) and a recent literature review concluded that the
+risk of asthma morbidity from the use of ibuprofen is low (Kanabar
+2007).                                           
+Eﬀicacy of paracetamol and ibuprofen
+In terms of eﬀicacy, studies show that both paracetamol and
+ibuprofen are superior to a placebo (Brewer 1968; Walson 1989;
+Wilson 1991), and that ibuprofen is superior to paracetamol
+in the treatment of fever (Kauﬀman 1992; Perrott 2004). Both
+antipyretics have been found to be equally safe in children.
+However, literature reviews ofen conclude that paracetamol
+should be used preferentially, due to a lower risk of adverse
+eﬀects (Canadian Pediatric Society 1998; Drwal-Klein 1992; L’Italien
+2001; Renn 2000). To date, there is no Cochrane systematic review
+summarizing the available literature on the eﬀicacy of paracetamol
+compared to that of ibuprofen.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+How the intervention might work
+As paracetamol and ibuprofen have diﬀering mechanisms of action,
+it is possible that they are more eﬀective when used together
+than alone. One regimen option is to give both paracetamol and
+ibuprofen simultaneously (combined therapy), at regular intervals
+as needed. Another option may be to start with one antipyretic and
+then only administer the second medication if the fever does not
+subside within one to four hours (alternating therapy).
+Studies have reported that at least 50% of caregivers give their
+children both antipyretics, but their method of alternating between
+the two varies (Li 2000). In addition, inaccurate dosing occurs in
+about half of cases (Mayoral 2000).
+Recent guidelines from the UK state no preference for either drug
+in the treatment of fever, and recommends considering alternating
+these agents only if the distress persists or recurs before the next
+dose is due (NICE Clinical Guidelines).
+The Canadian Pediatrics Society states no preference for either
+drug in the treatment of fever, and recommends that alternating
+therapy should only be used under professional supervision afer
+considering the possible risks and benefits of exposing a child to
+two drugs (Canadian Pediatric Society 1998).
+The American Academy of Pediatrics states that the primary goal
+of treating febrile children should be to improve overall comfort
+rather than focus on the normalization of body temperature. Their
+conclusion is that there is insuﬀicient evidence to support or refute
+the routine combination of antipyretics (Sullivan 2011).
+The Italian Paediatric Society states that antipyretics should only
+be used when fever is associated with discomfort, and doesn't
+recommend combining or alternating ibuprofen and paracetamol
+(Chiappini 2009).
+Why it is important to do this review
+Although many studies have investigated the eﬀicacy and safety
+of paracetamol and ibuprofen on their own, fewer studies have
+explored the eﬀicacy and safety of combined or alternating therapy.
+In a clinical setting, the use of antipyretics is widely recommended
+for treating child discomfort rather than absolute temperature.
+However, the popularity of combined and alternating antipyretics
+has increased in the literature and it can be extrapolated that these
+regimens are also increasingly used in clinical settings, particularly
+primary care. A systematic summary of available evidence would
+benefit health practitioners and caregivers in making informed
+decisions regarding the eﬀicacy and safety of alternating and
+combined paracetamol and ibuprofen therapy.
+As treating fever with antipyretics is mainly recommended for
+alleviating child discomfort, it is important to study qualitative
+measurements of child discomfort or stress. Although there are
+no specific standardized rating scales for these measurements in
+direct relation to fever, other rating scales have been used and are
+taken into consideration. Objective temperature measurements are
+generally not recommended as indications for antipyretic therapy.
+However, body temperature has been well studied in randomized
+controlled trials and as child discomfort and/or stress may be
+associated with fever it is still important to analyze objective
+measures of temperature. Determining specific clinical endpoints
+to monitor in terms of treatment eﬀicacy (ie time without fever,
+wellness scores) would be useful for future research and for both
+caregivers and clinicians in hospital.
+Most febrile periods associated with common infectious illnesses in
+children last one to three days and it is thus important to observe
+the eﬀect of treatment during the first 24 to 48 hours afer fever
+onset. Our clinical question is: in paediatric patients, is combined or
+alternating antipyretic treatment more eﬀective than monotherapy
+for reducing discomfort and temperature in the first 24 to 48 hours
+of acute febrile illness? In clinical practice, physicians recommend
+treatment with antipyretics according to child discomfort and not
+necessarily based on absolute temperature measurements. Thus,
+one of our primary outcomes focuses on qualitative measures of
+child comfort.
+O B J E C T I V E S
+To assess the eﬀects and side eﬀects of combined and/or
+alternating paracetamol and ibuprofen versus monotherapy for the
+treatment of fever in children.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomized controlled trials (RCTs).
+Types of participants
+Inclusion Criteria
+Children up to 18 years of age, with new fever associated with
+presumed infectious origin. Fever is defined by individual study
+authors.
+Exclusion Criteria
+Children with injury or undergoing surgery at the time of fever.
+Types of interventions
+1. Combined therapy versus ibuprofen alone
+2. Combined therapy versus paracetamol alone
+3. Alternating therapy versus ibuprofen alone
+4. Alternating therapy versus paracetamol alone
+5. Combined therapy versus alternating therapy.
+Combined therapy is defined as simultaneous administration of
+paracetamol and ibuprofen at regular intervals. Alternating therapy
+is defined as one antipyretic (either paracetamol or ibuprofen)
+administered immediately and the second medication (either
+paracetamol or ibuprofen) administered only if fever does not
+subside within one to four hours.
+Types of outcome measures
+Primary outcomes
+1. Measures of child discomfort, including stress scores; number
+of doses of medications given; and absences from daycare or
+school.
+2. Proportion of febrile children at one, four and six hours afer
+administration of initial antipyretic.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Secondary outcomes
+1. Adverse events
+•
+Serious adverse events leading to hospitalization
+•
+Other adverse events (ie gastrointestinal symptoms, hepatic
+dysfunction/failure, renal dysfunction/failure).
+Search methods for identification of studies
+We attempted to identify all relevant trials regardless of language
+or publication status, ie published, unpublished, in press, and
+ongoing.
+Electronic searches
+We searched the following databases on 6 September 2013 (all
+available, no date restrictions) using the search terms detailed
+in Appendix 1: Cochrane Infectious Diseases Group Specialized
+Register; Cochrane Central Register of Controlled Trials (CENTRAL),
+published in The Cochrane Library; MEDLINE; EMBASE; LILACS; and
+International Pharmaceutical Abstracts. In addition to the terms
+noted in the table, we employed the highly sensitive search strategy
+for identifying RCTs in MEDLINE (sensitivity-maximizing version)
+described in the current Cochrane Handbook for Systematic Reviews
+of Interventions (section 6.4.11; Higgins 2011). We also used the
+recommended terms for identifying RCTs in EMBASE, as outlined in
+the current Handbook (section 6.3.2.2).
+We searched the metaRegister of Controlled Trials (mRCT) for
+ongoing trials.
+Searching other resources
+Conference proceedings of the Pediatric Academic Society /
+American Academy of Pediatrics and the American Society for
+Toxicology (2009 to 2013) were handsearched but did not reveal any
+eligible trials that were not already identified in the initial search.
+ClinicalTrials.gov was searched and one eligible study (Adding a
+Second Drug for Febrile Children Treated With Acetaminophen) was
+found. However, when contacted, the main author reported that
+the study had to be stopped due to diﬀiculties with recruitment.
+We contacted pharmaceutical companies, study authors, and
+researchers working in the field for unpublished or ongoing trials
+and did not find any eligible trials.
+Reference lists of all included and excluded studies were checked
+and did not reveal any eligible trials that were not already identified
+in the initial search.
+Data collection and analysis
+Selection of studies
+In the first phase, one author and two assistants (TW, CC, EM)
+independently examined citations generated from a search based
+on Title, Abstract and MeSH headings. Trials were designated as
+RCT, possible RCT, or non-RCT. All potentially relevant articles (RCTs
+and possible RCTs) were retrieved. Multiple copies of the same
+publication were identified and removed.
+In the second phase, copies of the full text articles were reviewed
+independently by the three reviewers. Decisions on inclusion were
+based on the criteria as described above. Trial authors were
+contacted if there was need for clarification of study protocols
+or data. Disagreements were resolved by discussion between
+the reviewers. If multiple copies of the same publication were
+identified, all publications were assessed for diﬀerences in data
+sets. Studies reported in non-English language journals were
+translated before assessment.
+Data extraction and management
+Data extraction was carried out independently by two authors
+(TW, AT) using standard data extraction forms. Data from each
+study, including study characteristics (location of study, patient
+demographics, intervention details etc) and details of outcome
+measures, were entered onto separate forms. For dichotomous
+outcomes, the number of events, the number of patients analyzed,
+and the number of patients randomized for each group were
+extracted. For continuous outcomes, the mean and standard
+deviation for each group were extracted. Authors were contacted in
+order to obtain missing or additional data.
+Further information required from the original author was
+requested by written correspondence. Relevant information
+obtained in this manner was included in the review. Disagreements
+in data extraction were resolved by discussion amongst the
+authors.
+Assessment of risk of bias in included studies
+Two authors (TW, AT) independently assessed risk of bias for the
+studies using the Cochrane Risk of Bias tool. The tool assessed six
+domains: sequence generation, allocation concealment, blinding,
+missing outcome data, selective outcome reporting, and 'other
+sources of bias' (eg balance across groups of demographic variables
+at baseline, inappropriate influence of study sponsor). We followed
+guidelines in the Cochrane Handbook for applying the Risk of Bias
+tool (Higgins 2011). Results are presented in the risk of bias graph,
+summary, and tables.
+Measures of treatment eﬀect
+We assessed the superiority of combined and alternating
+antipyretics versus monotherapy in terms of eﬀect on child
+discomfort, temperature reduction and side eﬀects. We analysed
+continuous outcomes using mean diﬀerences (MD) and 95%
+confidence intervals (CI). Mean diﬀerences were used for outcomes
+measured on the same scale and we planned to use standardized
+mean diﬀerences for outcomes measured on diﬀerent scales across
+the trials. We calculated 95% CI and reported risk ratios for
+dichotomous data.
+Dealing with missing data
+Quantitative analyses of outcomes were based on intention-to-
+treat results. An available case analysis that included all patients
+with a measured outcome was conducted.
+Assessment of heterogeneity
+The I2 statistic with a value of 50% was taken to indicate moderate
+heterogeneity; 50% to 75% indicated substantial heterogeneity;
+and 75% to 100% indicated considerable heterogeneity (Higgins
+2002). A Chi2 test was also used to assess heterogeneity using a P
+value < 0.1 to denote significant heterogeneity. The overlap of CI
+was also compared.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Assessment of reporting biases
+We planned to assess reporting biases by constructing funnel plots
+using risk ratios. However, we did not have suﬀicient data to
+accurately assess funnel plots.
+Data synthesis
+Review Manager 5 was used to combine and analyze the
+trial data (Review Manager). The analysis was stratified by
+comparison (alternating therapy versus monotherapy, combined
+therapy versus monotherapy, combined therapy versus alternating
+therapy). A fixed-eﬀect model was used when there was no
+heterogeneity and a random-eﬀects model was used when
+moderate heterogeneity existed.
+Grading the body of evidence
+We used the Evidence-based Practice Centers' Grading of
+Recommendations Assessment, Development and Evaluation
+(GRADE) approach to assess overall strength of evidence (Guyatt
+2008). We evaluated the following outcomes judged to be most
+relevant: child discomfort; mean temperature for first 24 to 48
+hours; proportion of afebrile children at one, four and six hours afer
+administration of initial antipyretic; and other measures of child
+comfort or parental perception of antipyretic eﬀicacy. We examined
+four domains: risk of bias, consistency, directness and precision.
+The overall strength of evidence was graded as high (further
+research is very unlikely to change our confidence in the estimate
+of eﬀect), moderate (further research may change our confidence
+in the estimate of eﬀect and may change the estimate), low (further
+research is likely to change our confidence in the estimate of eﬀect
+and is likely to change the estimate), or insuﬀicient (evidence either
+is unavailable or does not permit estimation of an eﬀect).
+Two review authors (TW, AS) independently graded the body of
+evidence using GRADE guidance (GRADEpro 2008) and decision
+rules adapted to the clinical and research context. For the risk
+of bias domain, we considered all evidence as high or medium,
+as we only included RCTs. All decisions were made explicitly and
+we calculated inter-rater agreement (available from authors). Two
+review authors (TW, AS) resolved discrepancies through consensus.
+Sensitivity analysis
+We had planned to assess the robustness of results using
+sensitivity analyses for risk of bias components, but were unable to
+do so due to the limited number of studies.
+R E S U L T S
+Description of studies
+See Characteristics of included studies; Characteristics of excluded
+studies
+Results of the search
+The search strategy identified 3649 citations from electronic
+databases (Figure 1). Afer screening titles and abstracts, 53
+studies were assessed to be potentially relevant. Ten additional
+studies were identified for further examination afer handsearching
+abstracts from the Pediatric Academic Society conference
+proceedings, but none met the inclusion criteria. No additional
+studies were identified for further examination afer contact with
+experts or handsearching reference lists from previous systematic
+reviews and included studies.
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram.
+ 
+We reviewed the full text of 53 reports using the pre-defined
+inclusion criteria: 34 trials were considered irrelevant to this review
+and excluded; 13 studies were related to the review topic but did
+not fulfil the inclusion criteria and are excluded for the reasons
+stated in the Characteristics of excluded studies table.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Included studies
+Six studies, enrolling 915 participants, are included in this review.
+For detailed information on each study, refer to Characteristics
+of included studies tables. No distinction was made between
+inpatients and outpatients.
+Four studies considered children with a temperature of 38
+°C or above to be febrile (Erlewyn-Lajeunesse 2006; Kramer
+2008; Nabulsi 2006; Paul 2010). Other studies defined fever as
+a temperature greater than or equal to 37.8 °C (Hay 2008;
+Sarrell 2006). For temperature measurement, one study used
+continuous axillary temperature probes (Hay 2008), one used
+tympanometric thermometers (Erlewyn-Lajeunesse 2006), one
+used temporal artery thermometers (Paul 2010), two studies used
+rectal thermometers (Nabulsi 2006; Sarrell 2006), and one study
+used a combination of oral thermometers (> two years old) and
+rectal thermometers (< two years old) (Kramer 2008).
+In all six studies, antipyretic medication was administered orally.
+Five studies used a paracetamol dose of 15 mg/kg orally (Erlewyn-
+Lajeunesse 2006; Hay 2008; Kramer 2008; Nabulsi 2006; Paul 2010)
+and one study used a loading dose of paracetamol of 25 mg/kg with
+subsequent doses of 12.5 mg/kg (Sarrell 2006). Four studies used an
+ibuprofen dose of 10 mg/kg (Hay 2008; Kramer 2008; Nabulsi 2006;
+Paul 2010), one study used an ibuprofen dose of 5 mg/kg (Erlewyn-
+Lajeunesse 2006) and one study used an ibuprofen loading dose of
+10mg/kg with subsequent doses of 5 mg/kg (Sarrell 2006).
+Three studies compared alternating therapy to ibuprofen alone
+(Nabulsi 2006; Paul 2010; Sarrell 2006) and two studies compared
+alternating therapy to paracetamol alone (Kramer 2008; Sarrell
+2006). Three studies looked at combined therapy versus ibuprofen
+alone (Erlewyn-Lajeunesse 2006; Hay 2008; Paul 2010) and two
+studies looked at combined therapy versus paracetamol alone
+(Erlewyn-Lajeunesse 2006; Hay 2008). Only one study compared
+alternating therapy to combined therapy (Paul 2010). A summary of
+the drug dosing and timing is shown in Table 1.
+The primary outcomes of all studies involved temperature
+measurements, although these measurements were taken at a
+wide range of time points afer initial medication ingestion (one
+hour to five days). Three studies also attempted to assess child
+comfort (Hay 2008; Kramer 2008; Sarrell 2006).
+Secondary outcomes included: temperature at two hours, time
+spent in emergency department (Erlewyn-Lajeunesse 2006); time
+to temperature first falling below 37.2 °C in the first 24 hours (fever
+clearance), time spent without fever over 24 hours, proportion
+of children without fever-associated symptoms at 48 hours and
+day five (Hay 2008); symptom checklist at three and four hours,
+parental perception of eﬀicacy at three and four hours (Kramer
+2008); proportions of afebrile children in each group at seven
+and eight hours from baseline, maximum decline in temperature
+during study period, time to recurrence of fever, mean temperature
+changes from baseline at four and eight hours (Nabulsi 2006); total
+days that a primary caretaker had to stay home from work because
+the infant could not attend daycare due to illness, recurrence
+of fever within five and 10 days afer initiation of treatment,
+and number of emergency department visits within ten days of
+enrolment (Sarrell 2006).
+Adverse eﬀects were listed as a secondary outcome in four studies
+(Hay 2008; Kramer 2008; Nabulsi 2006; Sarrell 2006) and were not
+reported in two studies (Erlewyn-Lajeunesse 2006; Paul 2010).
+Excluded studies
+One study (Lal 2000) met the search criteria for a RCT in the topic
+of interest. However, relevant data on mean temperature was not
+reported. The author of the trial was contacted and did not have
+available access to the desired data. Thus, the trial was excluded.
+Another study (Pashapour 2009) met the search criteria for a RCT
+in the topic of interest. However, the comparison was not relevant
+to this review as patients received only single doses of medication
+in the alternating group. For detailed information on reasons for
+exclusion refer to the Characteristics of excluded studies table.
+Risk of bias in included studies
+Domain-specific and overall risk of bias assessments are detailed
+in the Characteristics of included studies table and summarized by
+outcome and study in Figure 2 and Figure 3, respectively.
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+ 
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Risk of bias summary: review authors' judgements about each risk of bias item for each included study.
+ 
+Allocation
+All six studies had a low risk of bias when reporting a method for
+generating the randomization sequence (Erlewyn-Lajeunesse 2006;
+Hay 2008; Kramer 2008; Nabulsi 2006; Paul 2010; Sarrell 2006).
+Four studies had a low risk of bias when concealing the
+randomization sequence from the investigators and participants
+(Erlewyn-Lajeunesse 2006; Hay 2008; Nabulsi 2006; Sarrell 2006).
+Two studies had an unclear risk of bias when reporting allocation
+concealment (Kramer 2008; Paul 2010).
+Blinding
+Five studies had a low risk of bias when addressing blinding of
+patients and participating personnel (Erlewyn-Lajeunesse 2006;
+Hay 2008; Kramer 2008; Nabulsi 2006; Paul 2010). One study had
+an unclear risk of bias when addressing blinding of patients and
+participating personnel (Sarrell 2006).
+Six studies had a low risk of bias when addressing blinding of
+outcome assessors (Erlewyn-Lajeunesse 2006; Hay 2008; Kramer
+2008; Nabulsi 2006; Paul 2010; Sarrell 2006; ).
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+There was a low risk of bias for incomplete outcome reporting in
+four studies (Kramer 2008; Nabulsi 2006; Paul 2010; Sarrell 2006)
+and an unclear risk of bias in two studies (Erlewyn-Lajeunesse 2006;
+Hay 2008).
+Selective reporting
+Four studies had a low risk of bias when reporting outcomes in
+methods/protocol and results (Hay 2008; Kramer 2008; Nabulsi
+2006; Paul 2010), one study had unclear reporting (Sarrell 2006),
+and one study had a high risk of bias when reporting all outcomes
+in the methods/protocol and results (Erlewyn-Lajeunesse 2006).
+Other potential sources of bias
+The studies were assessed for bias in terms of potential
+for inappropriate influence of funding agencies and important
+imbalances in baseline characteristics. Three studies were at low
+risk of bias for these other sources of bias (Hay 2008; Kramer 2008;
+Sarrell 2006). Two studies were unclear (Erlewyn-Lajeunesse 2006;
+Nabulsi 2006) and two studies were at least partially funded by
+pharmaceutical companies (Nabulsi 2006; Paul 2010). One study
+did not disclose sources of funding (Sarrell 2006).
+Eﬀects of interventions
+Summaries of findings are provided for the following comparisons:
+alternating versus single agent (Table 2; Table 3), combined versus
+single agent (Table 4), and alternating versus combined therapy
+(Table 5).
+Comparison 1. Combined antipyretics versus single agent
+Three studies conducted in the UK and the USA compared giving
+ibuprofen and paracetamol together at baseline with giving a
+single agent alone. Two studies compared combined therapy with
+both paracetamol alone and ibuprofen alone (Erlewyn-Lajeunesse
+2006; Hay 2008), and one study compared combined therapy with
+ibuprofen alone (Paul 2010).
+Measures of child discomfort
+One study (Hay 2008) assessed fever-associated symptoms at 24
+hours, 48 hours and five days, but found no consistent evidence
+showing a benefit of combined therapy over a single agent (data
+was not presented in the article).
+Temperature
+Mean temperature was lower afer combined treatment at one
+hour (MD -0.27, 95% CI -0.45 to -0.08, 163 participants, two trials),
+four hours (MD -0.70, 95% CI -1.05 to -0.35, 173 participants,
+two trials, Analysis 1.1) and six hours (MD -1.30, 95% CI -2.01 to
+-0.59, 40 participants, one trial, Analysis 1.1). All reported mean
+temperatures were 38 °C and below between one and six hours.
+There was no significant diﬀerence in the proportion of patients
+still febrile at one hour afer initial antipyretic administration (RR
+0.50, 95% CI 0.10 to 2.43, 40 participants, one trial). However,
+the proportion remaining febrile was significantly lower following
+combined treatment at four hours (RR 0.08, 95% CI 0.02 to 0.42, 196
+participants, two trials) and six hours (RR 0.10, 95% CI 0.01 to 0.71,
+40 participants, one trial, Analysis 1.2).
+Comparison 2. Alternating antipyretics versus single agent
+Three studies conducted in the USA, Lebanon and Israel evaluated
+the benefits of administering a second antipyretic three to four
+hours afer the first dose of a single agent. Two studies administered
+ibuprofen to both groups at baseline followed by paracetamol to
+the intervention group at three to four hours (Nabulsi 2006; Paul
+2010), and one study administered paracetamol to both groups at
+baseline followed by ibuprofen to the intervention group at three
+hours (Kramer 2008).
+One additional three-arm study compared alternating paracetamol
+and ibuprofen every four hours with paracetamol alone (every
+six hours) and ibuprofen alone (every eight hours) (Sarrell 2006).
+The children were followed up for three days through telephone
+conversations with caregivers, who were asked to measure the
+rectal temperature three times daily, record the number of doses
+of medications given, and to assess the non-communicating
+children's pain checklist (NCPCC) score. The NCCPC scoring system
+was designed to be used for children (3 to 18 years) who are
+unable to speak; a total score of seven or more indicates a child is
+experiencing pain.
+Measures of child discomfort
+Sarrell 2006 found that NCPCC scores were lower in children
+receiving alternating therapy than in those receiving either of the
+single agents (day one versus paracetamol alone: MD -2.51, 95% CI
+-3.08 to -1.94, 309 participants, one trial; versus ibuprofen alone: MD
+-2.22, 95% CI -2.78 to 1.66, 310 participants, one trial, Analysis 2.1).
+The benefits of alternating therapy were also apparent on days two
+and three, although mean NCPCC scores decreased in all groups
+over time (Analysis 2.1). There were no significant diﬀerences
+between ibuprofen alone and paracetamol alone.
+The study also looked at days absent from daycare as a secondary
+outcome, which also favoured the alternating group (versus
+paracetamol alone: MD -0.88, 95% CI -1.02 to -0.74, 309 participants,
+one trial; versus ibuprofen alone: -0.82, 95% CI -0.96 to -0.68, 310
+participants, one trial, Analysis 2.2).
+However, the trial reports that the alternating group actually
+received a lower mean number of doses of antipyretic per child.
+This finding suggests that the allocated regimens were not followed
+by the caretaker even during the first day. In the light of this, it
+is diﬀicult to understand the improvement in NCPCC scores and
+reduction in days absent from childcare.
+Temperature
+At one hour afer administration of ibuprofen to both groups, Paul
+2010 found no diﬀerence in mean temperature (MD 0.00, 95%
+CI -0.28 to 0.28, 40 participants, one trial, Analysis 2.4). At four
+hours, one hour afer administration of the alternative agent to
+the intervention group, the mean temperature was significantly
+lower in the intervention group (MD -0.60, 95% CI -0.94 to -0.26, 78
+participants, two trials, Analysis 2.4). One study demonstrated that
+this diﬀerence remained statistically significant at six hours (MD
+-1.60, 95% CI -2.27 to -0.93, 40 participants, one trial, Analysis 2.4).
+In studies administering ibuprofen to both groups at baseline,
+followed by paracetamol at three to four hours for the intervention
+group, the proportion remaining febrile was significantly lower in
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+the intervention group at six hours (RR 0.25, 95% CI 0.11 to 0.55, 109
+participants, two trials, Analysis 2.5).
+Comparison 3. Combined versus alternating
+One study conducted in the USA compared giving combined
+ibuprofen and paracetamol at baseline, with giving ibuprofen alone
+followed by paracetamol three hours later (Paul 2010).
+Measures of child discomfort.
+The study did not address measures of child discomfort.
+Temperature
+Mean temperature was lower following combined therapy at one
+hour, although this did not reach statistical significance (MD -0.20,
+95% CI -0.48 to 0.08, 40 participants, one trial, Analysis 3.1). At four
+hours, one hour afer the alternating group received their second
+antipyretic, there was no diﬀerence between the groups (MD 0.00,
+95% CI -0.19 to 0.19, 40 participants, one trial, Analysis 3.1). At six
+hours, mean temperature was lower in the group given alternating
+therapy (MD 0.30, 95% CI 0.01 to 0.59, 40 participants, one trial,
+Analysis 3.1)
+The proportion remaining febrile at one, four and six hours was very
+low in both groups with no significant diﬀerences between them (40
+participants, one study, Analysis 3.2).
+Adverse eﬀects
+Overall, there were no serious adverse eﬀects thought to be
+associated with alternating, combined or monotherapy found in
+any studies. However, no study had suﬀicient power in terms
+of number of participants to make a definitive statement about
+frequency of severe adverse eﬀects. A table summarizing adverse
+eﬀect evaluation for each study is available in Table 6.
+D I S C U S S I O N
+Summary of main results
+Six trials, enrolling 915 participants, are included.
+Compared to giving a single antipyretic alone, giving combined
+paracetamol and ibuprofen to febrile children can result in a lower
+mean temperature at one hour afer treatment (moderate quality
+evidence). If no further antipyretics are given, combined treatment
+probably also results in a lower mean temperature at four hours
+(moderate quality evidence), and in fewer children remaining or
+becoming febrile for at least four hours afer treatment (moderate
+quality evidence).
+In practice, mothers are ofen advised to initially give a single
+agent (paracetamol or ibuprofen), and then give a further dose
+of the alternative if the child's fever fails to resolve or recurs.
+Giving alternating treatment in this way may result in a lower mean
+temperature at one hour afer the additional dose (low quality
+evidence), and may also result in fewer children remaining or
+becoming febrile for up to three hours afer it is given (low quality
+evidence).
+Only one small trial compared alternating therapy with combined
+therapy. No statistically significant diﬀerences were seen in mean
+temperature or in the number febrile at one, four or six hours (very
+low quality evidence).
+There were no serious adverse events in the trials that were directly
+attributed to the medications used.
+Overall completeness and applicability of evidence
+This review was intended to focus on patient comfort/distress as
+the primary outcome of, and the primary reason for, administering
+antipyretics, but information on patient comfort/distress was rarely
+reported, and reliable conclusions could not be made. 'Discomfort'
+is not an easily definable outcome and this review was only
+able to consider a few measurable, albeit potentially indirect,
+manifestations (ie pain score, amount of medication given, days
+away from daycare). In fact, comfort is a complex construct, which
+likely varies across diﬀerent age groups and may even extend to
+caregivers of febrile children. The amount of medication given to
+children by caregivers may be a reflection of their distress over
+child discomfort. This review does not address the role of caregiver
+distress in the management of febrile children.
+For the eﬀects of antipyretics on temperature, the included studies
+enrolled children aged six months to 14 years with fever presumed
+to be viral or bacterial in origin. The trials were from moderate
+to high income settings in Europe, the USA, and the Middle East,
+and therefore the findings should not be extrapolated to tropical
+settings where the common causes of fever may be substantially
+diﬀerent.
+There was a large amount of variation between the trials in
+medication dosage, regimens of administration, and frequency
+and type of assessment. Due to the small number of studies in
+each comparison, we were unable to assess the impact of these
+variations.
+Similarly, there was large variation in patient factors such as age,
+aetiology (viral or bacteria), severity of illness, and co-morbidities
+that may aﬀect the eﬀectiveness of interventions. Two studies
+only included children less than five years old. Only one study
+attempted to distinguish between viral and bacterial infections.
+Two studies involved patients from emergency departments, three
+involved patients from outpatient clinics and two involved patients
+from inpatient wards. Thus, there was insuﬀicient data from the
+few included trials to allow for subgroup comparisons. Higher
+temperatures may be related to increasing severity of illness,
+however this data could not be obtained from the studies. Most
+trials excluded children with co-morbidities.
+For the analyses looking at mean temperature, some of the mean
+diﬀerences were statistically significant but probably not clinically
+meaningful in those cases where both treatment groups had mean
+temperatures within the range of being afebrile
+Safety concerns have been raised about caregivers giving
+inappropriate doses and getting confused over when the next
+dose is due in alternating and combined therapy. In addition, the
+eﬀectiveness of administering combined or alternating antipyretics
+may be very diﬀerent when administered by parents and caregivers
+than when administered in a controlled setting with health care
+professionals supervising.
+Current guidelines recommend only monotherapy for febrile
+children, in order to avoid potential side eﬀects from multiple
+medication administration. The results from this study do not
+suggest any serious short term adverse eﬀects from either
+alternating or combined antipyretic therapy compared with
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+monotherapy. However, none of the included trials was large
+enough to have the power to detect important diﬀerences between
+treatment arms, nor were they long enough to detect potential
+adverse events from regular use. From the vast amount of literature
+on paracetamol and ibuprofen both drugs are regarded as safe with
+serious side eﬀects being few and infrequent.
+Quality of the evidence
+The quality of the evidence summarized in this review is presented
+in Table 2; Table 3; Table 4; Table 5.
+For combined therapy versus a single agent, the evidence for
+a reduction in mean temperature at one and four hours was
+judged to be of moderate quality, meaning we can have reasonable
+confidence in this result. Although the studies are generally at low
+risk of bias, the sample size is small (less than 200 patients overall)
+and the possibility of chance findings and publication bias is high.
+The evidence of an eﬀect on patient discomfort could not be graded
+as the data were not adequately presented. However, the data
+would likely be of low or very low quality as they come from a single
+trial.
+For alternating therapy versus single agent, the overall sample size
+is larger, however the largest study with 480 subjects (Sarrell 2006)
+provided information only on the Non-communicating Children's
+Checklist, days absent from daycare and doses of medication
+per child. When looking at reduction in mean temperature and
+proportion remaining febrile, the sample size is very small (less
+than 200 patients overall). The quality of evidence for reductions in
+mean temperature and the proportions remaining febrile is of low
+quality at best, meaning we can have little confidence in the results.
+The evidence for a reduction in mean NCPCC score is also judged to
+be of low quality.
+For combined versus alternating therapy, the evidence was
+downgraded to 'very low' due to the extremely small study size (40
+participants) and the lack of allocation concealment in the single
+trial. For these reasons, we can have no real confidence in the
+results of this trial.
+Potential biases in the review process
+None identified.
+Agreements and disagreements with other studies or
+reviews
+Three systematic reviews looking at combined or alternating
+ibuprofen and paracetamol therapy exist in the literature (Nabulsi
+2009; Pereira 2012; Purssell 2011). All three reviews raised similar
+concerns to those highlighted in this review regarding lack of
+blinding and reasons for withdrawal from studies, low sample size,
+and variable drug doses and administration regimens.
+Nabulsi 2010 examined five studies that were included in this
+review (Erlewyn-Lajeunesse 2006; Hay 2008; Kramer 2008; Nabulsi
+2006; Sarrell 2006). The review diﬀers from ours in that the primary
+outcome measure was temperature reduction and it did not include
+measures of patient discomfort. Our review also includes one
+additional study. Nabulsi et al. concluded that, given ongoing
+uncertainty, either drug alone should be used instead of combined
+or alternating regimens.
+Purssell 2011 examined seven studies (Erlewyn-Lajeunesse 2006;
+Hay 2008; Kramer 2008; Lal 2000; Nabulsi 2006; Paul 2010; Sarrell
+2006), one of which (Lal 2000) is excluded from this review as
+no extractable numerical data was published. Purssell concluded
+that the practice of combining paracetamol and ibuprofen has
+limited benefit and unclear safety data, and thus should not be
+encouraged.
+Pereira 2012 examined four studies looking at alternating
+antipyretic therapy only (Hay 2008; Kramer 2008; Paul 2010; Sarrell
+2006). It also excluded studies involving hospitalized children,
+whereas we included studies with hospitalized children. The main
+measure of the eﬀect of treatment was the mean diﬀerence in body
+temperature among the compared groups and the study did not
+include measures of child discomfort. Pereira concluded there was
+not enough evidence to show that alternating antipyretic therapy is
+more eﬀective than monotherapy and had concerns regarding the
+safety of using this regimen to treat febrile children.
+Other systematic reviews or meta-analyses in the literature assess
+studies comparing paracetamol directly with ibuprofen, which was
+not the focus of this review.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+There is some evidence that both alternating and combined
+antipyretic therapy may be more eﬀective at reducing
+temperatures than monotherapy alone. However, the evidence
+for improvements in measures of child discomfort remains
+inconclusive.
+There is insuﬀicient evidence to support the use of alternating
+antipyretic therapy over combined antipyretic therapy.
+Implications for research
+Future RCTs should focus on child discomfort using standardized
+and validated assessment tools.
+More research is needed on the safety of alternating and combined
+antipyretic regimens.
+A C K N O W L E D G E M E N T S
+The academic editor for this protocol was Professor Paul Garner.
+This review is partially funded by the Alberta Children’s Hospital
+(ACH) Foundation; the views expressed are not necessarily those of
+the ACH Foundation. We thank Calli Carrington and Emily Macphail
+for their assistance in article review and inclusion. We would
+like to thank Dr David Sinclair for his significant contribution to
+the structure of the review, data analysis, summary of findings
+tables and general editorial advice. We thank Christianne Esparza
+for assistance with translation and data extraction. The editorial
+base for the Cochrane Infectious Diseases Group is funded by the
+Department for International Development, UK, for the benefit of
+low- and middle-income countries.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Erlewyn-Lajeunesse 2006 {published data only}
+Erlewyn-Lajeunesse MD, Coppens K, Hunt LP, Chinnick PJ,
+Davies P, Higginson I M, et al. Randomised controlled trial of
+combined paracetamol and ibuprofen for fever. Archives of
+Disease in Childhood 2006;91(5):414-6.
+Hay 2008 {published data only}
+Hay AD, Costelloe C, Redmond NR, Montgomery AA, Fletcher M,
+Hollinghurst S, et al. Paracetamol and ibuprofen for the
+treatment of fever in children (PITCH): randomised controlled
+trial. British Medical Journal 2008;337:a1302.
+Kramer 2008 {published data only}
+Kramer LC, Richards PA, Thompson AM, Harper DP, Fairchok MP.
+Alternating antipyretics: antipyretic eﬀicacy of acetaminophen
+versus acetaminophen alternated with ibuprofen in children.
+Clinical Pediatrics 2008;47(9):907-11.
+Nabulsi 2006 {published data only}
+Nabulsi M, Tamim H, Mahfoud Z, Itani M, Sabra R,
+Chamseddine F, et al. Alternating ibuprofen and acetaminophen
+in the treatment of febrile children: a pilot study. BMC Medicine
+2006;4(4):b3540.
+Paul 2010 {published data only}
+Paul IM, Sturgis SA, Yang C, Engle L, Watts H, Berlin CM Jr.
+Eﬀicacy of standard doses of ibuprofen alone, alternating, and
+combined with acetaminophen for the treatment of febrile
+children. Clinical Therapeutics 2010;32(14):2433-40.
+Sarrell 2006 {published data only}
+Sarrell EM, Wielunsky E, Cohen HA. Antipyretic treatment in
+young children with fever: acetaminophen, ibuprofen, or both
+alternating in a randomized, double-blind study. Archives of
+Pediatrics & Adolescent Medicine 2006;160(2):197-202.
+ 
+References to studies excluded from this review
+Del Vecchio 2001 {published data only}
+Del Vecchio MT, Sundel ER. Alternating antipyretics: Is this an
+alternative?. Pediatrics 2001;108(5):1236-7.
+Diez Domingo 2001 {published data only}
+Diez Domingo J, Burgos Ramirez A, Garrido Garcia J, Ballester
+Sanz A, Moreno Carretero E. Use of alternating antipyretics in
+the treatment of fever in Spain [Utilizacion de la alternancia de
+antipireticos en el tratamiento de la fiebre en Espana]. Anales
+Espanoles de Pediatria December 2001;55(6):503-10.
+Drucker 2009 {published data only}
+Drucker R. Comparison of acetaminophen, ibuprofen, and both
+agents for treatment of fever in children acetaminophen plus
+ibuprofen and ibuprofen alone are equally eﬀective in reducing
+fever. Archives of Disease in Childhood 2009;94(1):30.
+Lal 2000 {published data only (unpublished sought but not used)}
+Lal A, Gomber S, Talukdar B. Antipyretic eﬀects of nimesulide,
+paracetamol and ibuprofen-paracetamol. Indian Journal of
+Pediatrics 2000;67(12):865-70.
+Malik 2007 {published data only}
+Malik K, Goldman RD. PRETx update: Alternating antipyretics in
+febrile children. International Pediatrics 2007;22(2):95-7.
+Mayoral 2000 {published data only}
+Mayoral CC, Marino RV, Rosenfeld W, Greensher J.
+Alternating antipyretics: Is this an alternative?. Pediatrics
+2000;105(5):1009-12.
+Miller 2007 {published data only}
+Miller AA. Alternating acetaminophen with ibuprofen for fever:
+Is this a problem?. Pediatric Annals 2007;36(7):384-6.
+Nabulsi 2010 {published data only}
+Nabulsi M. Is combining or alternating antipyretic therapy
+more beneficial than monotherapy for febrile children?. British
+Medical Journal 2010;340(7737):92-3.
+Pashapour 2009 {published data only (unpublished sought but not
+used)}
+Pashapour N, Macooei AA, Golmohammadlou S. Alternating
+ibuprofen and acetaminophen in the treatment of febrile
+hospitalized children aged 9-24 months. Iranian Journal of
+Pediatrics June 2009;19(2):164-8.
+Pereira 2012 {published data only}
+Pereira GL, Dagostini JMC, da Silva Dal Pizzol T. Alternating
+antipyretics in the treatment of fever in children: a systematic
+review of randomized clinical trials [Uso alternado de
+antipiréticos para tratamento da febre em crianças: revisão
+sistemática de ensaios clínicos randomizados]. Jornal de
+Pediatria 2012;88(4):289-96.
+Purssell 2011 {published data only}
+Purssell E. Systematic review of studies comparing combined
+treatment with paracetamol and ibuprofen, with either drug
+alone. Archives Of Disease In Childhood 2011;96:1175-9.
+Ruiz Lazaro 2009 {published data only}
+Ruiz Lazaro PJ. Ibuprofen, alone or combined with paracetamol,
+is more eﬀective than paracetamol alone in home treatment of
+fever in children from 6 months to 6 years of age [Administrar
+ibuprofeno, solo o combinado con paracetamol, es mas efectivo
+que utilizar solo paracetamol en el tratamiento domiciliario de
+la fiebre en ninos de 6 meses a 6 anos de edad]. FMC Formacion
+Medica Continuada En Atencion Primaria 2009;16(5):311.
+Uhl 2008 {published data only}
+Uhl D. Ibuprofen and/or paracetamol for the treatment of fever
+in children? [Ibuprofen und paracetamol im wechsel geben?].
+Deutsche Apotheker Zeitung 2008;148(44):52-5.
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Additional references
+Beasley 2008
+Beasley R, Clayton T, Crane J, von Mutius E, Lai CKW,
+Montefort S, et al. Association between paracetamol use in
+infancy and childhood, and risk of asthma, rhinoconjunctivitis,
+and eczema in children aged 6-7 years: analysis from Phase
+Three of the ISAAC programme. Lancet 2008;372:1039-48.
+Brewer 1968
+Brewer EJ. A comparative evaluation of indomethacin,
+acetaminophen and placebo as antipyretic agents in children.
+Arthritis and Rheumatism 1968;11(5):645-51.
+Brown 1992
+Brown DR, Wilson JT, Kearns GL, Eichler VF, Johnson VA,
+Bertrand KM. Single-dose pharmacokinetics of ibuprofen
+and acetaminophen in febrile children. Journal of Clinical
+Pharmacology 1992;32:231-41.
+Canadian Pediatric Society 1998
+Position Paper DT98-01 of the Drug Therapy and Hazardous
+Substances Committee. Paediatric Child Health 1998; Vol. 3,
+issue 4:273-4.
+Chiappini 2009
+Chiappini E, Principi N, Longhi R, Tovo PA, Beccheruci P,
+et al. Management of fever in children: summary of the
+Italian Pediatric Society guidelines. Clinical Therapeutics
+2009;8:1826-43.
+Cohet 2004
+Cohet C, Cheng S, MacDonald C, Baker M, Foliaki S,
+Huntington N, et al. Infections, medication use, and the
+prevalence of symptoms of asthma, rhinitis, and eczema in
+childhood. Journal of Epidemiology and Community Health
+2004;58:852-7.
+Crocetti 2001
+Crocetti M, Moghbeli N, Serwint J. Fever phobia revisited: have
+parental misconceptions about fever changed in 20 years?.
+Pediatrics 2001;107(6):1241-6.
+Del-Rio-Navarro 2008
+Del-Rio-Navarro BE, Ito-Tsuchiya FM, Berber A, Zepeda-
+Ortega B, Sienra-Monge JJ, Garcia-Almaraz R, et al. Study
+of the relationship between acetaminophen and asthma in
+Mexican children aged 6 to 7 years in 3 Mexican cities using
+ISAAC methodology. Journal of Investigational Allergology and
+Clinical Immunology 2008;18(3):194.
+Drwal-Klein 1992
+Drwal-Klein LA, Phelps SJ. Antipyretic therapy in the febrile
+child. Clinical Pharmacology 1992;11:1005-21.
+Etminan 2009
+Etminan M, Sadatsafavi M, Jafari S, Doyle-Waters M,
+Aminzadeh K, Fitzgerald JM. Acetaminophen use and the risk
+of asthma in children and adults: A systematic review and
+metaanalysis. Chest November 2009;136(5):1316-23.
+Feldberg 1973
+Feldberg W, Gupta KP. Pyrogen fever and prostaglandin
+like activity in cerebrospinal fluid. Journal of Physiology
+1973;228:41-8.
+GRADEpro 2008 [Computer program]
+Brozek J, Oxman A, Schünemann H. GRADEpro. Version 3.2 for
+Windows .. 2008.
+Guyatt 2008
+Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, et al.
+GRADE: an emerging consensus on rating quality of evidence
+and strength of recommendations. British Medical Journal
+2008;336:924-6.
+Heubi 1998
+Heubi JE, Barbacci MB, Zimmerman HJ. Therapeutic
+misadventures with acetaminophen: Hepatotoxicity afer
+multiple doses in children. Journal of Pediatrics 1998;132:22-7.
+Higgins 2002
+Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-
+analysis. Statistics in Medicine 2002;21(11):1539-58.
+Higgins 2011
+Higgins JPT, Green S (editors). Cochrane Handbook for
+Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. Available from www.cochrane-handbook.org. The
+Cochrane Collaboration 2011.
+Kanabar 2007
+Kanabar D, Dale S, Rawat M. A review of ibuprofen and
+acetaminophen use in febrile children and the occurrence
+of asthma-related symptoms. Clinical Therapeutics
+2007;29:2716-23.
+Kauﬀman 1992
+Kauﬀman RE, Sawyer LA, Scheinbaum ML. Antipyretic eﬀicacy
+of ibuprofen vs acetaminophen. American Journal of Diseases of
+Children 1992;146:622-5.
+Kelley 1992
+Kelley MT, Walson PD, Edge JH, Cox S, Mortensen ME.
+Pharmacokinetics and pharmacodynamics of ibuprofen
+isomers and acetaminophen in febrile children. Clinical
+Pharmacology & Therapeutics 1992;52:181-9.
+Kluger 1995
+Kluger MJ. Drugs for childhood fever (Letter). Lancet
+1992;339:70.
+Kwiatkowski 1995
+Kwiatkowski D. The biology of malarial fever. Baillieres Clinical
+Infectious Diseases 1995;2(2):371-88.
+Lesko 1999
+Lesko SM, Mitchell AA. The safety of acetaminophen and
+ibuprofen among children younger than two years old.
+Pediatrics 1999;104:39.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Lesko 2002
+Lesko SM, Louik C, Vezina RM, Mitchell AA. Asthma morbidity
+afer the short-term use of ibuprofen in children. Pediatrics
+2002;109:20.
+Li 2000
+Li SF, Lacher F, Crain EF. Acetaminophen and ibuprofen dosing
+by parents. Pediatric Emergency Care 2000;16:394-7.
+Lowe 2010
+Lowe AJ, Carlin JB, Bennett CM, Allen KJ, Robertson CF,
+Axelrad C, et al. Paracetamol use in early life and asthma:
+prospective birth cohort study. BMJ September 2010;341:c4616.
+L’Italien 2001
+L'Italien C, Jacqz-Aigrain E. Risks and benefits of nonsteroidal
+anti-inflammatory drugs in children: a comparison with
+paracetamol. Paediatric Drugs 2001;3:817-58.
+Mackowiak 1998
+Mackowiak PA, Plaisance KI. Benefits and risk of antipyretic
+therapy. Annals New York Academy of Sciences 1998;856:214-23.
+McIntyre 1996
+McIntyre J, Hull D. Comparing eﬀicacy and tolerability of
+ibuprofen and paracetamol in fever. Archives of Disease in
+Childhood 1996;74:164-7.
+Nabulsi 2009
+Nabulsi M. Is combining or alternating antipyretic therapy
+more beneficial than monotherapy for febrile children?. British
+Medical Journal 2009;339:92-4.
+Newson 2000
+Newson RB, Shaheen SO, Chinn S, Burney PG. Paracetamol
+sales and atopic disease in children and adults: An ecological
+analysis. European Respiratory Journal 2000;16:817-23.
+NICE Clinical Guidelines
+Feverish illness in children: Assessment and initial management
+in children younger than 5 years. National Institue for Health
+and Clinical Excellence May 2013.
+Perrott 2004
+Perrott DA, Piira T, Goodenough B, Champion GD. Eﬀicacy
+and safety of acetaminophen vs ibuprofen for treating
+children's pain or fever. A meta-analysis. Archives of Pediatrics &
+Adolescent Medicine 2004;158:521-6.
+Renn 2000
+Renn E. The antipyretic use of acetaminophen versus ibuprofen
+in a pediatric care setting. Physical Therapy 2000;25:395-7.
+Review Manager [Computer program]
+The Cochrane Collaboration. Review Manager (RevMan). Version
+5.0. Copenhagen: The Cochrane Collaboration, 2008.
+Schmitt 1980
+Schmitt BC. Fever phobia: Misconceptions of parents
+about fevers. American Journal of Diseases of Children
+1980;134(2):176-81.
+Schnaiderman 1993
+Schnaiderman D, Lahat E, Sheefer T, Aladjem M. Antipyretic
+eﬀectiveness of acetaminophen in febrile seizures: Ongoing
+prophylaxis versus sporadic usage. European Journal of
+Paediatrics 1993;152:747-9.
+Sullivan 2011
+Sullivan JE, Farrar HC. Fever and antipyretic use in children.
+Pediatrics 2011;127(3):580-7.
+van Stuijvenberg 1998
+van Stuijvenberg M, Derksen-Lubsen G, Steyerberg EW,
+Habbema JDF, Moll HA. Randomized controlled trial of
+ibuprofen syrup administered during febrile illness to prevent
+febrile seizure recurrences. Pediatrics 1998;102:1-7.
+Walson 1989
+Walson PD, Galletta G, Braden NJ, Alexander L. Ibuprofen,
+acetaminophen, and placebo treatment of febrile children.
+Clinical Pharmacology & Therapeutics 1989;46:9-17.
+Widal 1922
+Widal MF, Abrami P, Lenmoyez J. Anaphylaxis and Idiosyncrasy
+[Anaphylaxie et idiosyncrasie]. La Presse Medicale
+1922;30:189-92.
+Wilson 1991
+Wilson JT, Brown D, Kearns GL, Eichler VF, Johnson VA,
+Bertrand KM, et al. Single-dose, placebo-controlled
+comparative study of ibuprofen and acetaminophen antipyresis
+in children. Journal of Pediatrics 1991;119:803-11.
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+Study design: open label, three-arm randomized trial.
+Study dates and duration: October 2004 to January 2005.
+Method of temperature measurement: tympanometric thermometer.
+Erlewyn-Lajeunesse 2006 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Time points measured in study: admission, T0 (time medication given), hour 1 and 2 (if patient not dis-
+charged).
+Participants
+Number: 123 randomized.
+Number of patients in each intervention: paracetamol n=41, ibuprofen n=42, paracetamol plus ibupro-
+fen n=40.
+Inclusion criteria: consecutive children between 6 months and 10 years old with a fever of 38 °C.
+Exclusion criteria: paracetamol or ibuprofen given in the previous six hours, severe or life threatening
+infection, suspected chicken pox, cellulitis or other spreading skin infection, known to be immunosup-
+pressed, allergy to either ibuprofen or paracetamol, medicated with warfarin, heparin or antihyperten-
+sives, symptoms of active gastrointestinal bleeding, known coagulopathy, acute jaundice, likely dehy-
+dration, defined as more than four episodes of diarrhoea or vomiting in the previous 24 hours, asthma,
+defined as a need for regular 'preventer' medication, chronic renal, liver or cardiac failure.
+Baseline characteristics:
+•
+Sex distribution not reported
+•
+Age, years: paracetamol group 1.5(0.6-9.5), ibuprofen group 1.5 (0.5-9.6), paracetamol + ibuprofen
+group 2.4 (0.6-8.2)
+•
+Baseline data were similar in all three groups, except that more children were admitted to hospital in
+the combined group (13/36) compared to the ibuprofen (3/35) and paracetamol groups (5/35).
+Interventions
+Group 1: paracetamol 15 mg/kg
+Group 2: ibuprofen 5 mg/kg
+Group 3: paracetamol 15 mg/kg + ibuprofen 5 mg/kg
+Frequency of administration: single dose of each
+Outcomes
+Primary
+1. Child’s temperature at one hour
+Secondary
+1. Temperature at two hours
+2. Time spent in department
+Notes
+Location: Bristol, UK
+Setting: single centre - Children's Emergency Department, Bristol.
+Funding: the Anthony Hopkins Memorial Prize, awarded by the Faculty of Accident and Emergency
+Medicine as an unrestricted award to the Emergency Department.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+The allocation sequence was block randomized and generated independently
+of the research team.
+Allocation concealment
+(selection bias)
+Low risk
+Allocations were placed in sequentially numbered sealed opaque envelopes.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+Low risk
+Open label trial, however temperature is an objective measurement that
+should not be subject to bias from lack of blinding.
+Erlewyn-Lajeunesse 2006  (Continued)
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+This was an open label trial, however temperature is an objective measure-
+ment that should not be subject to bias from lack of blinding.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+No reasons given for missing data or patients withdrawn.
+Subjects withdrawn or missing data: combined 9%, ibuprofen 14.7%, parac-
+etamol 9%.
+Selective reporting (re-
+porting bias)
+High risk
+•
+Study did not report mean temperatures at hour 2 as initially stated: "Too few
+children had data at two hours to allow meaningful comparison, as they had
+already been discharged home."
+•
+"Secondary outcome analysis of the time spent on the unit did not add to our
+findings and is not reported."
+•
+Mean fall from T0 to T1 was reported but not stated as an outcome measure.
+Other bias
+Unclear risk
+Potential baseline imbalance: higher proportion of patients in combined
+group were admitted to hospital compared with other groups.
+Erlewyn-Lajeunesse 2006  (Continued)
+ 
+ 
+Methods
+Study design: individually-randomized, blinded three-arm trial.
+Study dates and duration: January 2005 to May 2007.
+Method of temperature measurement: axillary continuous probe for 24 hours, then standard digital ax-
+illary thermometer for home measurements.
+Time points measured in study: temperature taken every 30 seconds using axillary temperature probe
+for first 24 hours, then as needed with standard axillary thermometer at home.
+Participants
+Number: 156 randomized.
+Number of patients in each intervention: paracetamol n=52, ibuprofen n=52, paracetamol plus Ibupro-
+fen n=52.
+Inclusion criteria: children aged 6 months to 6 years in the primary care setting and households in Eng-
+land.
+Required axillary temperatures of at least 37.8 °C and up to 41 °C.
+Exclusion criteria: if patients required hospital admission, clinically dehydrated; had recently partici-
+pated in another trial; had previously participated in PITCH; had a known intolerance, allergy or con-
+traindication to a trial drug; had a chronic neurological, cardiac, pulmonary (except asthma), liver or re-
+nal disease; or had parents who could not read or write in English.
+Baseline characteristics:
+•
+Sex, N(%): paracetamol (n=52) – boy = 26 (50), girl = 26 (50), ibuprofen (n=52) – boy = 37 (71), girl = 15
+(29), both (n=52) – boy = 25 (48), girl = 27 (52).
+•
+Diagnoses included otitis media, respiratory tract infections, non-specific viral illnesses etc.
+Interventions
+Group A: paracetamol 15 mg/kg every 4-6 hours
+Group B: ibuprofen 10 mg/kg every 6-8 hours
+Group C: paracetamol + ibuprofen alternating
+Hay 2008 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Advice was given to parents to give the study drugs for up to 48 hours
+Outcomes
+Primary:
+1. Number of minutes without fever (<37.2 °C) in the first 4 hours
+2. The proportion of children reported as being normal on the discomfort scale at 48 hours
+Secondary:
+1. Time to temperature first falling below 37.2 °C in the first 24 hours (fever clearance)
+2. The time spent without fever over 24 hours
+3. Proportion of children without fever associated symptoms: discomfort, reduced activity, reduced ap-
+petite and disturbed sleep at 48 hours and day 5
+4. Adverse effects
+Notes
+Location: England
+Setting: multi-centre – 35 primary care sites (NHS Direct, one walk-in centre, 30 general practices, two
+general practitioner out of hours cooperatives, and the emergency department of the Bristol Royal
+Hospital for Children) and households.
+Funding: National Institute for Health Research Health Technology Programme.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Randomization sequence was generated via a remote, automated telephone
+service provided by the Health Services Research Unit at the University of Ab-
+erdeen.
+Allocation concealment
+(selection bias)
+Low risk
+After written informed consent had been obtained and the baseline question-
+naire completed, the research nurse telephoned a remote, automated ran-
+domization service.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Study medication identity was concealed.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Research nurse was blinded to process.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Article did not address why three patients (one from ibuprofen and two from
+ibuprofen plus paracetamol group) had missing data for time without fever.
+"Attrition was minimal."
+"Thus, children were omitted from analyses only if none of the data required
+were available, and as these were so few in number the influence of missing
+data on the intention-to-treat analyses was negligible."
+Selective reporting (re-
+porting bias)
+Low risk
+All assessed outcomes were reported.
+Other bias
+Low risk
+The possibility of receiving either or both drugs combined and the severity of
+the child's illness may have influenced parental decision to participate.
+Hay 2008  (Continued)
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+Methods
+Study design: prospective, randomized double-blind placebo control study.
+Study dates and duration: January 2004 to January 2006.
+Method of temperature measurement: children > 2 years oral, Children < 2 years rectal. Parents given
+thermometers for home use.
+Time points measured in study:temperature measurements at hours 0, 3, 4, 5, 6.
+Participants
+Number: 40 randomized.
+Number of patients in each intervention: paracetamol n=19, paracetamol alternating with ibuprofen
+n=19.
+Inclusion criteria: healthy children presenting to the out patient clinic with chief complaint of fever.
+Fever in clinic > 38 °C
+Exclusion criteria: history of any antipyretic use in the preceding 4 hours or if they had an allergy or oth-
+er medical contraindication to the medications.
+Baseline characteristics:
+•
+Sex, N(%): Aal (n=38), males = 18 (47.4), females = 20 (52.6)
+•
+Diagnoses, N(%) bacterial illness 13 (34.2), viral illness 25 (65.8).
+Interventions
+Group A: paracetamol (15 mg/kg) alternated with placebo
+Group B: paracetamol (15 mg/kg) alternating with Ibuprofen (10 mg/kg)
+Administration regime:
+Time                     Group A                             Group B
+0                           APAP                                 APAP
+3                           placebo                              ibuprofen
+4                           APAP                                 placebo
+Outcomes
+Primary:
+1. Temperature at enrolment and hours 3, 4, 5, 6
+Secondary:
+1. Symptom checklist at hours 3 and 4
+2. Parental perception of efficacy at hours 3 and 4
+Notes
+Location: Washington, USA
+Setting: single centre: pediatric clinic at Madigan Army Medical centre in Tacoma, Washington.
+Funding: Resident Research Grant from the American Academy of Pediatrics.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Children were assigned to treatment group A or B using previously generated
+computer based randomization blocks performed by the Department of Clini-
+cal investigation.
+Kramer 2008 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation concealment
+(selection bias)
+Unclear risk
+Each caretaker received a sealed envelope containing their randomization se-
+quence. No mention of the envelope being opaque.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Parents and investigators remained blinded to the regimen each child had re-
+ceived. Pharmacist was unblinded, but did not assess patients.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Parents and investigators who measured temperature remained blinded to
+the regimen each child received.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+All subjects were accounted for.
+Loss to follow up: alternating group 0.5%, paracetamol 0.5%.
+Selective reporting (re-
+porting bias)
+Low risk
+All assessed outcomes were reported.
+Other bias
+Low risk
+ 
+Kramer 2008  (Continued)
+ 
+ 
+Methods
+Study design: randomized, double-blind and placebo-controlled clinical trial.
+Study dates and duration: November 2002 to April 2005.
+Method of temperature measurement: rectal. Each patient used the same thermometer for the whole
+duration of study (SureTemp 679, Welch Allyn).
+Time points measured in study: baseline rectal temperature at T0 then at hours 4, 5, 6, 7, 8.
+Participants
+Number: 70 randomized
+Number of patients in each intervention: combined ibuprofen & paracetamol n=37, ibuprofen & place-
+bo n=33.
+Inclusion criteria: febrile inpatients aged 6 months – 14 years, with rectal temp ≥ 38.8 °C.
+Exclusion criteria: vomiting, any medical or surgical condition that precluded oral drug administration,
+acute or chronic hepatic disease, malabsorption syndromes, acute or chronic renal disease with the
+exception of UTI, chronic metabolic disease, bleeding disorders, asthma, chronic neurological disease
+that may affect central thermoregulation, cancer, immune suppression, sepsis, critical medical status
+or known allergy to paracetamol or ibuprofen.
+Baseline characteristics:
+•
+Age, mean years (SD): combined ibuprofen & paracetamol 3.7 (3.3), ibuprofen & placebo 3.6 (2.9)
+•
+Sex, male gender, n(%): combined ibuprofen & paracetamol 26 (70.3), Ibuprofen & placebo 19 (57.6)
+•
+Diagnoses: viral 62.9%, bacteria 27.1%, other 10%.
+Interventions
+Control: ibuprofen 10 mg/kg followed by placebo 4 hours later
+Treatment group: single oral dose ibuprofen 10 mg/kg followed by single oral dose paracetamol 15 mg/
+kg 4 hours later  
+Outcomes
+Primary:
+Nabulsi 2006 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+1. Proportion of children with normal body temperature at 6 hours (normal = rectal temp 36.5 °C to 37.9
+°C)
+Secondary:
+1. Proportions of afebrile children in each group at 7 and 8 hours from baseline
+2. Maximum decline in temperature during study period
+3. Time to recurrence of fever
+4. Mean temp changes from baseline at t= 4, 5, 6, 7 and 8h
+5. The proportion of patients in each group with any adverse effect that may be related to either drug
+such as hypothermia, chilliness or gastrointestinal bleeding
+Notes
+Location: Lebanon
+Setting: multi-centre. This study was conducted in the paediatric inpatient services of two hospitals in
+Beirut: the American University of Beirut Medical Centre (AUBMC), which is a tertiary care facility; and
+Najjar Hospital, a secondary care facility.
+Funding: this study was funded by the Medical Practice Plan of the Faculty of Medicine at the American
+University of Beirut, Grant number 686056. Gulf Pharmaceutical Industries, United Arab Emirates, do-
+nated all the drugs investigated.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Children enrolled in the study were assigned a random number by the hospi-
+tal pharmacist according to a computer-generated random-number list, which
+was kept with the pharmacist until the end of the study.
+Allocation concealment
+(selection bias)
+Low risk
+The allocation sequence was generated by one of the co-investigators who
+was not involved in subject recruitment, drug administration or outcome as-
+sessment.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Subjects, parents and research assistant were blinded.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Nurses responsible for drug administration and outcome assessment, treating
+physicians were blinded to patients' assignment.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Intent-to-treat analysis was planned.
+Loss to follow up: combined group 3%, ibuprofen group 0%.
+Selective reporting (re-
+porting bias)
+Low risk
+All assessed outcomes were reported.
+Other bias
+Unclear risk
+Forced to stop the trial before achieving the calculated sample size.
+Nabulsi 2006  (Continued)
+ 
+ 
+Methods
+Study design: three-arm, randomized, controlled trial.
+Study dates and duration: March 2006 to July 2009.
+Paul 2010 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Method of temperature measurement: temporal artery thermometer.
+Time points measured in study: hourly for 6 hours.
+Participants
+Number: 46 patients; among the 46 patients, 8 participated twice, 3 participated 3 times and 35 partici-
+pated only once, contributing to 60 febrile episodes that were randomly assigned into the 3 treatment
+groups.
+Number of patients in each intervention: 20 episodes per group.
+Inclusion criteria: 6 months - 8 years with temperature ≥38 °C. Required to demonstrate an ability to co-
+operate with serial temporal artery temperature measurements and to take medications by mouth
+Exclusion criteria: Received paracetamol within 6 hours of presentation or ibuprofen, aspirin or oth-
+er NSAIDs within 8 hours of presentation. Other major exclusions included weight > 60kg (to avoid sur-
+passing 600 mg of ibuprofen or 1000 mg of paracetamol in a single dose), a history of adverse reaction
+to any study medication ingredient, diabetes mellitus, renal dysfunction, hepatic dysfunction, throm-
+bocytopenia, or presence of moderate or severe dehydration. Children were also excluded if medical
+judgement determined that the severity of the underlying illness prohibited inclusion or if the child had
+already participated in the trial on 3 previous occasions.
+Baseline characteristics:
+•
+Age: n=46 (60 febrile episodes in 46 children). Aged 6 months to 8 years. Mean (SD) age = 3.4 (2.2) years
+•
+Sex: 31/60 (51.7%) were girls
+•
+Diagnoses: most common presenting diagnoses were upper respiratory infection (n=27), fever without
+a source (n=12), acute otitis media (n=8).
+Interventions
+Treatment group A: single dose ibuprofen 10 mg/kg (oral suspension 100 mg/5 mL)
+Treatment group B: single dose APAP 15 mg/kg (oral solution USP 160 mg/5 mL) plus ibuprofen 10 mg/
+kg
+Treatment group C: ibuprofen 10 mg/kg at the beginning of the study followed by 15 mg/kg of APAP 3
+hours later
+Outcomes
+Primary:
+1. Effect of treatment on temperature over 6 hours
+Notes
+Location: USA
+Setting: one academic medical centre in Hershey, Pennsylvania, USA; patients recruited from outpa-
+tient clinics and child day-care facilities.
+Funding: this study was supported by a research grant from the George L. Laverty Foundation and in
+part by a General clinical Research Centre grant from the National Institutes of Health and a CGRC Con-
+struction Grant awarded to the Pennsylvania State University College of Medicine.
+Disclosure: first author has been a paid consultant for the Consumer Healthcare Products Association,
+McNeil Consumer Healthcare, Novartis Consumer Health, Inc., Procter & Gamble, and Reckitt Benckiser
+Healthcare International Ltd., but no industry employees were involved in any aspect of the study.
+11 patients participated ≥ 2 times (maximum 3 times).
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Each child was randomly assigned to 1 of 3 treatment groups according to a
+computer-generated log.
+Paul 2010  (Continued)
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation concealment
+(selection bias)
+Unclear risk
+Not specified.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+No attempt was made to blind the participants, however temperature is an ob-
+jective measurement that should not be subject to bias from lack of blinding.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+No attempt was made to blind the research nurses, however temperature is an
+objective measurement that should not be subject to bias from lack of blind-
+ing.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+No loss of participants during the study.
+Selective reporting (re-
+porting bias)
+Low risk
+All assessed outcomes were reported.
+Other bias
+Low risk
+ 
+Paul 2010  (Continued)
+ 
+ 
+Methods
+Study design: randomized, double-blind, parallel-group trial.
+Study dates and duration: September 2003 to March 2004.
+Method of temperature measurement: rectal glass and mercury thermometer.
+Time points measured in study: daily temperature diary (parents asked to measure rectal temp at least
+3 times daily during tx then once daily x 10 days), telephone interview at 24 hours and 48 hours, office
+visit day 3, 5, 10, and 14 day follow up evaluation.
+Participants
+Number: 480
+Number of patients in each intervention: 160 in each of the 3 groups.
+Inclusion criteria: all consecutive children aged 6 - 36 months who had rectal temperature ≥38.4 °C.
+Exclusion criteria: not attending daycare centers, had taken temperature-altering drugs or antibiotics
+within 10 days before presentation, known abnormal liver or renal laboratory values, medical history of
+renal or hepatic impairment, gastrointestinal bleeding, known allergy to any antipyretic, congenital or
+acquired immunodeficiency, Reye syndrome, asthma, bronchiolitis or malignancy, and children whose
+caregivers were unable to apply the NCCPC to measure stress.
+Baseline characteristics:
+•
+Age months (SD): paracetamol 18.6 (8.72), ibuprofen 19.5 (9.09), paracetamol plus ibuprofen 19.3
+(9.29)
+•
+Sex male (%): paracetamol 71 (46%), ibuprofen 73 (40%), paracetamol plus ibuprofen 62 (38%)
+•
+Diagnoses: Paracetamol n(%)              Ibuprofen n(%)                Paracetamol plus Ibuprofen n(%)
+URI                    66(43)                81(52)                    80(51)
+AOM                 16(10)                 13(8)                       17(11)
+Pharyngitis         10(7)                  7(5)                           3(2)
+Bronchiolitis       8(5)                    7(5)                           9(6)
+Sarrell 2006 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Gastroenteritis    7(5)                    7(5)                           6(4)
+Viral illness        47(30)               40(25)                      40(26)
+Interventions
+Group1: paracetamol (12.5 mg/kg) q6h, max 50 mg/kg/day); half of the group received initial loading
+with paracetamol (25 mg/kg) and the other half received initial loading with ibuprofen (10 mg/kg)
+Group 2: ibuprofen (5 mg/kg) q8h, max 20 mg/kg/day; half of the group received initial loading with
+paracetamol (25 mg/kg) and the other half received initial loading with ibuprofen (10 mg/kg)
+Group 3: paracetamol (12.5 mg/kg/dose, max 50 mg/kg/d) alternating with ibuprofen (5 mg/kg/dose,
+max 20 mg/kg/d) q4h; half of the group received initial loading with paracetamol (25 mg/kg) and the
+other half received loading with ibuprofen (10 mg/kg)
+Outcomes
+Primary:
+1. Body temperature
+2. Stress score
+3. Amount of antipyretic used at the 3 day time point (number of doses)
+Secondary:
+1. Total days that a primary caretaker had to stay home from work because the infant could not attend
+daycare because of illness
+2. Recurrence of fever (≥37.8 °C) within 5 and 10 days after initiation of treatment
+3. Number of emergency department visits within 10 days of enrolment
+4. Hepatic and renal function
+5. Appearance of gastrointestinal symptoms or bleeding
+Notes
+Location: Central Israel
+Setting: multi-Centre; three primary paediatric community ambulatory centers.
+Funding: None disclosed.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+"Computerized random number generator to stratify according to the center
+in blocks of 60 numbers so that each block comprised 20 patients randomly
+assigned to each treatment group, with 10 patients assigned to each loading
+medication."
+Allocation concealment
+(selection bias)
+Low risk
+Admitting nurse used a computerized random-number generator and handed
+the parent or guardian a sealed opaque folder holding 3 sealed envelopes: 1
+containing an advice sheet explaining the physiology of fever and its nonphar-
+macologic management; 1 containing the prescription for the loading medica-
+tion; and 1 containing the drug prescription.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+Parents were described as being blinded, but the differences in drug regimens
+and lack of placebos in the single agent arms suggest that blinding is unlikely.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+"All of the children were evaluated and followed up by the same physician
+(E.M.S.), who was blinded to the group allocations (as were the parents or
+guardians)."
+Sarrell 2006  (Continued)
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+A total of 480 infants met the eligibility criteria, of whom 464 (96.7%) complet-
+ed the study. Of the 16 infants (3.3%) who withdrew from the study, 7 (1.5%)
+failed to return for follow-up visits within the first 10 days, and 9 (1.9%) did not
+return for laboratory evaluation after symptoms were alleviated.
+Selective reporting (re-
+porting bias)
+Unclear risk
+No significant differences found with different loading medications, so pa-
+tients were grouped according to maintenance medication. Data for outcomes
+from different loading medication groups were not reported.
+Other bias
+Low risk
+ 
+Sarrell 2006  (Continued)
+ 
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Del Vecchio 2001
+Letter
+Diez Domingo 2001
+Physician survey
+Drucker 2009
+Comment on PITCH trial
+Lal 2000
+No mean temperature or proportion afebrile data published, despite being measured. Thus, study
+was at high risk for selective outcome reporting bias. Author was contacted and did not have ac-
+cess to original data. No quality of life indices examined.
+Malik 2007
+Review article
+Mayoral 2000
+Survey
+Miller 2007
+Discussion
+Nabulsi 2010
+Systematic review
+Pashapour 2009
+Comparison not relevant to this review
+Pereira 2012
+Systematic review
+Purssell 2011
+Systematic review
+Ruiz Lazaro 2009
+Review of PITCH trial
+Uhl 2008
+Review article
+ 
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Comparison 1.   Combined versus single agent
+Outcome or sub-
+group title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Mean temperature
+(°C)
+3
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+1.1 Hour 1
+2
+163
+Mean Difference (IV, Fixed, 95% CI)
+-0.27 [-0.45, -0.08]
+1.2 Hour 4
+2
+173
+Mean Difference (IV, Fixed, 95% CI)
+-0.70 [-1.05, -0.35]
+1.3 Hour 6
+1
+40
+Mean Difference (IV, Fixed, 95% CI)
+-1.30 [-2.01, -0.59]
+2 Proportion remain-
+ing febrile
+2
+ 
+Risk Ratio (M-H, Random, 95% CI)
+Subtotals only
+2.1 Hour 1
+1
+40
+Risk Ratio (M-H, Random, 95% CI)
+0.5 [0.10, 2.43]
+2.2 Hour 4
+2
+196
+Risk Ratio (M-H, Random, 95% CI)
+0.08 [0.02, 0.42]
+2.3 Hour 6
+1
+40
+Risk Ratio (M-H, Random, 95% CI)
+0.10 [0.01, 0.71]
+ 
+ 
+Analysis 1.1.   Comparison 1 Combined versus single agent, Outcome 1 Mean temperature (°C).
+Study or subgroup
+Combined
+Single agent
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.1.1 Hour 1
+ 
+Erlewyn-Lajeunesse 2006
+40
+37.6 (0.6)
+83
+37.9 (0.6)
+64.84%
+-0.3[-0.53,-0.08]
+Paul 2010
+20
+37.4 (0.5)
+20
+37.6 (0.5)
+35.16%
+-0.2[-0.51,0.11]
+Subtotal ***
+60
+ 
+103
+ 
+100%
+-0.27[-0.45,-0.08]
+Heterogeneity: Tau2=0; Chi2=0.28, df=1(P=0.6); I2=0%
+ 
+Test for overall effect: Z=2.85(P=0)
+ 
+ 
+ 
+1.1.2 Hour 4
+ 
+Hay 2008
+42
+35.7 (1.3)
+91
+36.5 (1.4)
+51.38%
+-0.8[-1.28,-0.31]
+Paul 2010
+20
+36.9 (0.3)
+20
+37.5 (1.1)
+48.62%
+-0.6[-1.1,-0.1]
+Subtotal ***
+62
+ 
+111
+ 
+100%
+-0.7[-1.05,-0.35]
+Heterogeneity: Tau2=0; Chi2=0.31, df=1(P=0.58); I2=0%
+ 
+Test for overall effect: Z=3.94(P<0.0001)
+ 
+ 
+ 
+1.1.3 Hour 6
+ 
+Paul 2010
+20
+37.2 (0.6)
+20
+38.5 (1.5)
+100%
+-1.3[-2.01,-0.59]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+-1.3[-2.01,-0.59]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=3.6(P=0)
+ 
+Test for subgroup differences: Chi2=11.07, df=1 (P=0), I2=81.93%
+ 
+Favours combined
+2
+1
+-2
+-1
+0
+Favours single agent
+ 
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 1.2.   Comparison 1 Combined versus single agent, Outcome 2 Proportion remaining febrile.
+Study or subgroup
+Combined
+Single agent
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Random, 95% CI
+ 
+M-H, Random, 95% CI
+1.2.1 Hour 1
+ 
+Paul 2010
+2/20
+4/20
+100%
+0.5[0.1,2.43]
+Subtotal (95% CI)
+20
+20
+100%
+0.5[0.1,2.43]
+Total events: 2 (Combined), 4 (Single agent)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.86(P=0.39)
+ 
+ 
+ 
+1.2.2 Hour 4
+ 
+Hay 2008
+1/52
+23/104
+66.98%
+0.09[0.01,0.63]
+Paul 2010
+0/20
+6/20
+33.02%
+0.08[0,1.28]
+Subtotal (95% CI)
+72
+124
+100%
+0.08[0.02,0.42]
+Total events: 1 (Combined), 29 (Single agent)
+ 
+Heterogeneity: Tau2=0; Chi2=0, df=1(P=0.94); I2=0%
+ 
+Test for overall effect: Z=3.01(P=0)
+ 
+ 
+ 
+1.2.3 Hour 6
+ 
+Paul 2010
+1/20
+10/20
+100%
+0.1[0.01,0.71]
+Subtotal (95% CI)
+20
+20
+100%
+0.1[0.01,0.71]
+Total events: 1 (Combined), 10 (Single agent)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.3(P=0.02)
+ 
+Test for subgroup differences: Chi2=2.81, df=1 (P=0.24), I2=28.92%
+ 
+Favours combined
+200
+0.005
+10
+0.1
+1
+Favours single agent
+ 
+ 
+Comparison 2.   Alternating versus single agent
+Outcome or sub-
+group title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Non-communicating
+Children's Pain Check-
+list (NCCPC) score
+1
+1857
+Mean Difference (IV, Random, 95% CI)
+-3.24 [-3.82, -2.67]
+1.1 Day 1
+1
+619
+Mean Difference (IV, Random, 95% CI)
+-2.36 [-2.76, -1.96]
+1.2 Day 2
+1
+619
+Mean Difference (IV, Random, 95% CI)
+-3.76 [-4.18, -3.34]
+1.3 Day 3
+1
+619
+Mean Difference (IV, Random, 95% CI)
+-3.64 [-4.08, -3.20]
+2 Absent from day-
+care, days
+1
+619
+Mean Difference (IV, Fixed, 95% CI)
+-0.85 [-0.95, -0.75]
+3 Doses of medication
+per child
+1
+2166
+Mean Difference (IV, Random, 95% CI)
+-1.29 [-1.69, -0.88]
+3.1 Day 1
+1
+619
+Mean Difference (IV, Random, 95% CI)
+-1.09 [-2.40, 0.22]
+3.2 Day 2
+1
+619
+Mean Difference (IV, Random, 95% CI)
+-1.39 [-2.29, -0.49]
+3.3 Day 3
+1
+928
+Mean Difference (IV, Random, 95% CI)
+-1.39 [-1.48, -1.30]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or sub-
+group title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+4 Mean temperature
+(°C)
+2
+ 
+Mean Difference (IV, Random, 95% CI)
+Subtotals only
+4.1 Hour 1
+1
+40
+Mean Difference (IV, Random, 95% CI)
+0.0 [-0.28, 0.28]
+4.2 Hour 4
+2
+78
+Mean Difference (IV, Random, 95% CI)
+-0.60 [-0.94, -0.26]
+4.3 Hour 6
+1
+40
+Mean Difference (IV, Random, 95% CI)
+-1.60 [-2.27, -0.93]
+5 Proportion remain-
+ing febrile
+2
+ 
+Risk Ratio (M-H, Fixed, 95% CI)
+Subtotals only
+5.1 Hour 1
+1
+40
+Risk Ratio (M-H, Fixed, 95% CI)
+1.0 [0.29, 3.45]
+5.2 Hour 4
+1
+40
+Risk Ratio (M-H, Fixed, 95% CI)
+0.08 [0.00, 1.28]
+5.3 Hour 6
+2
+109
+Risk Ratio (M-H, Fixed, 95% CI)
+0.25 [0.11, 0.55]
+ 
+ 
+Analysis 2.1.   Comparison 2 Alternating versus single agent, Outcome
+1 Non-communicating Children's Pain Checklist (NCCPC) score.
+Study or subgroup
+Alternating
+Single Agent
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+2.1.1 Day 1
+ 
+Sarrell 2006
+155
+9.3 (2.5)
+155
+11.5 (2.6)
+16.99%
+-2.22[-2.78,-1.66]
+Sarrell 2006
+155
+9.3 (2.5)
+154
+11.8 (2.6)
+16.91%
+-2.51[-3.08,-1.94]
+Subtotal ***
+310
+ 
+309
+ 
+33.9%
+-2.36[-2.76,-1.96]
+Heterogeneity: Tau2=0; Chi2=0.5, df=1(P=0.48); I2=0%
+ 
+Test for overall effect: Z=11.52(P<0.0001)
+ 
+ 
+ 
+2.1.2 Day 2
+ 
+Sarrell 2006
+155
+5.1 (2.8)
+155
+8.8 (2.7)
+16.57%
+-3.74[-4.35,-3.13]
+Sarrell 2006
+155
+5.1 (2.8)
+154
+8.9 (2.5)
+16.7%
+-3.78[-4.37,-3.19]
+Subtotal ***
+310
+ 
+309
+ 
+33.26%
+-3.76[-4.18,-3.34]
+Heterogeneity: Tau2=0; Chi2=0.01, df=1(P=0.93); I2=0%
+ 
+Test for overall effect: Z=17.37(P<0.0001)
+ 
+ 
+ 
+2.1.3 Day 3
+ 
+Sarrell 2006
+155
+4.2 (2.7)
+155
+8 (2.7)
+16.57%
+-3.78[-4.39,-3.17]
+Sarrell 2006
+155
+4.2 (2.7)
+154
+7.7 (3)
+16.27%
+-3.48[-4.12,-2.84]
+Subtotal ***
+310
+ 
+309
+ 
+32.84%
+-3.64[-4.08,-3.2]
+Heterogeneity: Tau2=0; Chi2=0.45, df=1(P=0.5); I2=0%
+ 
+Test for overall effect: Z=16.24(P<0.0001)
+ 
+ 
+ 
+Total ***
+930
+ 
+927
+ 
+100%
+-3.24[-3.82,-2.67]
+Heterogeneity: Tau2=0.43; Chi2=28.12, df=5(P<0.0001); I2=82.22%
+ 
+Test for overall effect: Z=11.02(P<0.0001)
+ 
+Test for subgroup differences: Chi2=27.16, df=1 (P<0.0001), I2=92.64%
+ 
+Favours alternating
+5
+2.5
+-5
+-2.5
+0
+Favours single agent
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+ 
+Analysis 2.2.   Comparison 2 Alternating versus single agent, Outcome 2 Absent from daycare, days.
+Study or subgroup
+Alternating
+Single Agent
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Sarrell 2006
+155
+1.8 (0.7)
+154
+2.6 (0.6)
+51.01%
+-0.88[-1.02,-0.74]
+Sarrell 2006
+155
+1.8 (0.7)
+155
+2.6 (0.6)
+48.99%
+-0.82[-0.96,-0.68]
+ 
+ 
+Total ***
+310
+ 
+309
+ 
+100%
+-0.85[-0.95,-0.75]
+Heterogeneity: Tau2=0; Chi2=0.34, df=1(P=0.56); I2=0%
+ 
+Test for overall effect: Z=16.43(P<0.0001)
+ 
+Favours alternating
+2
+1
+-2
+-1
+0
+Favours single agent
+ 
+ 
+Analysis 2.3.   Comparison 2 Alternating versus single agent, Outcome 3 Doses of medication per child.
+Study or subgroup
+Alternating
+Single Agent
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+2.3.1 Day 1
+ 
+Sarrell 2006
+155
+2.6 (0.9)
+155
+3 (0.1)
+16.68%
+-0.42[-0.56,-0.28]
+Sarrell 2006
+155
+2.6 (0.9)
+154
+4.3 (0.9)
+16.39%
+-1.76[-1.95,-1.57]
+Subtotal ***
+310
+ 
+309
+ 
+33.07%
+-1.09[-2.4,0.22]
+Heterogeneity: Tau2=0.89; Chi2=121.64, df=1(P<0.0001); I2=99.18%
+ 
+Test for overall effect: Z=1.62(P=0.1)
+ 
+ 
+ 
+2.3.2 Day 2
+ 
+Sarrell 2006
+155
+2 (0.6)
+154
+3.8 (0.7)
+16.65%
+-1.85[-2,-1.7]
+Sarrell 2006
+155
+2 (0.6)
+155
+2.9 (0.3)
+16.84%
+-0.93[-1.03,-0.83]
+Subtotal ***
+310
+ 
+309
+ 
+33.49%
+-1.39[-2.29,-0.49]
+Heterogeneity: Tau2=0.42; Chi2=102.33, df=1(P<0.0001); I2=99.02%
+ 
+Test for overall effect: Z=3.02(P=0)
+ 
+ 
+ 
+2.3.3 Day 3
+ 
+Sarrell 2006
+155
+1.5 (0.7)
+309
+2.9 (0.6)
+16.72%
+-1.39[-1.52,-1.26]
+Sarrell 2006
+155
+1.5 (0.7)
+309
+2.9 (0.6)
+16.72%
+-1.39[-1.52,-1.26]
+Subtotal ***
+310
+ 
+618
+ 
+33.44%
+-1.39[-1.48,-1.3]
+Heterogeneity: Tau2=0; Chi2=0, df=1(P=1); I2=0%
+ 
+Test for overall effect: Z=29.45(P<0.0001)
+ 
+ 
+ 
+Total ***
+930
+ 
+1236
+ 
+100%
+-1.29[-1.69,-0.88]
+Heterogeneity: Tau2=0.25; Chi2=271.11, df=5(P<0.0001); I2=98.16%
+ 
+Test for overall effect: Z=6.22(P<0.0001)
+ 
+Test for subgroup differences: Chi2=0.2, df=1 (P=0.9), I2=0%
+ 
+Favours alternating
+4
+2
+-4
+-2
+0
+Favours single agent
+ 
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 2.4.   Comparison 2 Alternating versus single agent, Outcome 4 Mean temperature (°C).
+Study or subgroup
+Alternating
+Single Agent
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Random, 95% CI
+ 
+Random, 95% CI
+2.4.1 Hour 1
+ 
+Paul 2010
+20
+37.6 (0.4)
+20
+37.6 (0.5)
+100%
+0[-0.28,0.28]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+0[-0.28,0.28]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+ 
+ 
+2.4.2 Hour 4
+ 
+Kramer 2008
+19
+37.4 (0.6)
+19
+38 (0.8)
+54.92%
+-0.6[-1.05,-0.15]
+Paul 2010
+20
+36.9 (0.3)
+20
+37.5 (1.1)
+45.08%
+-0.6[-1.1,-0.1]
+Subtotal ***
+39
+ 
+39
+ 
+100%
+-0.6[-0.94,-0.26]
+Heterogeneity: Tau2=0; Chi2=0, df=1(P=1); I2=0%
+ 
+Test for overall effect: Z=3.5(P=0)
+ 
+ 
+ 
+2.4.3 Hour 6
+ 
+Paul 2010
+20
+36.9 (0.3)
+20
+38.5 (1.5)
+100%
+-1.6[-2.27,-0.93]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+-1.6[-2.27,-0.93]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=4.68(P<0.0001)
+ 
+Test for subgroup differences: Chi2=21.41, df=1 (P<0.0001), I2=90.66%
+ 
+Favours alternating
+4
+2
+-4
+-2
+0
+Favours single agent
+ 
+ 
+Analysis 2.5.   Comparison 2 Alternating versus single agent, Outcome 5 Proportion remaining febrile.
+Study or subgroup
+Alternating
+Single Agent
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+2.5.1 Hour 1
+ 
+Paul 2010
+4/20
+4/20
+100%
+1[0.29,3.45]
+Subtotal (95% CI)
+20
+20
+100%
+1[0.29,3.45]
+Total events: 4 (Alternating), 4 (Single Agent)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+ 
+ 
+2.5.2 Hour 4
+ 
+Paul 2010
+0/20
+6/20
+100%
+0.08[0,1.28]
+Subtotal (95% CI)
+20
+20
+100%
+0.08[0,1.28]
+Total events: 0 (Alternating), 6 (Single Agent)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.79(P=0.07)
+ 
+ 
+ 
+2.5.3 Hour 6
+ 
+Nabulsi 2006
+6/36
+14/33
+58.18%
+0.39[0.17,0.9]
+Paul 2010
+0/20
+10/20
+41.82%
+0.05[0,0.76]
+Subtotal (95% CI)
+56
+53
+100%
+0.25[0.11,0.55]
+Total events: 6 (Alternating), 24 (Single Agent)
+ 
+Heterogeneity: Tau2=0; Chi2=2.53, df=1(P=0.11); I2=60.48%
+ 
+Test for overall effect: Z=3.44(P=0)
+ 
+Test for subgroup differences: Chi2=4.58, df=1 (P=0.1), I2=56.37%
+ 
+Favours alternating
+500
+0.002
+10
+0.1
+1
+Favours single agent
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+ 
+Comparison 3.   Combined versus alternating therapy
+Outcome or sub-
+group title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Temperature (°C)
+1
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+1.1 Hour 1
+1
+40
+Mean Difference (IV, Fixed, 95% CI)
+-0.20 [-0.48, 0.08]
+1.2 Hour 4
+1
+40
+Mean Difference (IV, Fixed, 95% CI)
+0.0 [-0.19, 0.19]
+1.3 Hour 6
+1
+40
+Mean Difference (IV, Fixed, 95% CI)
+0.30 [0.01, 0.59]
+2 Proportion Febrile
+1
+120
+Risk Ratio (M-H, Fixed, 95% CI)
+0.78 [0.21, 2.91]
+2.1 Hour 1
+1
+40
+Risk Ratio (M-H, Fixed, 95% CI)
+0.5 [0.10, 2.43]
+2.2 Hour 4
+1
+40
+Risk Ratio (M-H, Fixed, 95% CI)
+0.0 [0.0, 0.0]
+2.3 Hour 6
+1
+40
+Risk Ratio (M-H, Fixed, 95% CI)
+3.0 [0.13, 69.52]
+ 
+ 
+Analysis 3.1.   Comparison 3 Combined versus alternating therapy, Outcome 1 Temperature (°C).
+Study or subgroup
+Combined
+Alternating
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+3.1.1 Hour 1
+ 
+Paul 2010
+20
+37.4 (0.5)
+20
+37.6 (0.4)
+100%
+-0.2[-0.48,0.08]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+-0.2[-0.48,0.08]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.4(P=0.16)
+ 
+ 
+ 
+3.1.2 Hour 4
+ 
+Paul 2010
+20
+36.9 (0.3)
+20
+36.9 (0.3)
+100%
+0[-0.19,0.19]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+0[-0.19,0.19]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+ 
+ 
+3.1.3 Hour 6
+ 
+Paul 2010
+20
+37.2 (0.6)
+20
+36.9 (0.3)
+100%
+0.3[0.01,0.59]
+Subtotal ***
+20
+ 
+20
+ 
+100%
+0.3[0.01,0.59]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2(P=0.05)
+ 
+Test for subgroup differences: Chi2=5.89, df=1 (P=0.05), I2=66.04%
+ 
+Favours combined
+2
+1
+-2
+-1
+0
+Favours alternating
+ 
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Analysis 3.2.   Comparison 3 Combined versus alternating therapy, Outcome 2 Proportion Febrile.
+Study or subgroup
+Combined
+Alternating
+Risk Ratio
+Weight
+Risk Ratio
+ 
+n/N
+n/N
+M-H, Fixed, 95% CI
+ 
+M-H, Fixed, 95% CI
+3.2.1 Hour 1
+ 
+Paul 2010
+2/20
+4/20
+88.89%
+0.5[0.1,2.43]
+Subtotal (95% CI)
+20
+20
+88.89%
+0.5[0.1,2.43]
+Total events: 2 (Combined), 4 (Alternating)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.86(P=0.39)
+ 
+ 
+ 
+3.2.2 Hour 4
+ 
+Paul 2010
+0/20
+0/20
+ 
+Not estimable
+Subtotal (95% CI)
+20
+20
+Not estimable
+Total events: 0 (Combined), 0 (Alternating)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+ 
+ 
+3.2.3 Hour 6
+ 
+Paul 2010
+1/20
+0/20
+11.11%
+3[0.13,69.52]
+Subtotal (95% CI)
+20
+20
+11.11%
+3[0.13,69.52]
+Total events: 1 (Combined), 0 (Alternating)
+ 
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.69(P=0.49)
+ 
+ 
+ 
+Total (95% CI)
+60
+60
+100%
+0.78[0.21,2.91]
+Total events: 3 (Combined), 4 (Alternating)
+ 
+Heterogeneity: Tau2=0; Chi2=1.01, df=1(P=0.32); I2=0.89%
+ 
+Test for overall effect: Z=0.37(P=0.71)
+ 
+Test for subgroup differences: Chi2=1, df=1 (P=0.32), I2=0%
+ 
+Favours combined
+500
+0.002
+10
+0.1
+1
+Favours alternating
+ 
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 36]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+A D D I T I O N A L   T A B L E S
+Time after administration (hours)
+ 
+Study ID
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ 
+P (15 mg/kg)
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I (5 mg/kg)
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erlewyn-La-
+jeunesse
+2006
+P (15 mg/kg) + I (5 mg/kg)
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P (15 mg/kg)
+ 
+Ⓣ
+ 
+Ⓣ P
+ 
+Ⓣ
+ 
+Ⓣ
+ 
+I (10 mg/kg)
+ 
+Ⓣ
+ 
+Ⓣ
+ 
+Ⓣ I
+ 
+Ⓣ
+ 
+Hay 2008
+P (15 mg/kg) + I (10 mg/kg)
+ 
+Ⓣ
+ 
+Ⓣ P
+ 
+Ⓣ I
+ 
+Ⓣ
+ 
+P (15 mg/kg)
+ 
+ 
+Ⓣ
+Ⓣ P
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+Kramer 2008
+P (15 mg/kg)
+ 
+ 
+Ⓣ I (10
+mg/kg)
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+I (10 mg/kg)
+ 
+ 
+ 
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+Nabulsi 2006
+I (10 mg/kg)
+ 
+ 
+ 
+Ⓣ P (15
+mg/kg)
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+I (10 mg/kg)
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+I (10 mg/kg)
+Ⓣ
+Ⓣ
+Ⓣ P
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+Paul 2010
+I (10 mg/kg) + P (15 mg/kg)
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+Ⓣ
+ 
+ 
+ 
+P or I
+ 
+ 
+ 
+ 
+ 
+P
+ 
+ 
+ 
+P or I
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+ 
+Sarrell 2006 1
+P or I
+ 
+ 
+ 
+P
+ 
+ 
+ 
+I
+ 
+Table 1.   Dosing regimens and timing 
+Ⓣ = Temperature reported; P = paracetamol; I = ibuprofen
+1 Sarrell 2006 asked caretakers to record rectal temperatures three times per day.
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 37]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+ 
+ 
+Alternating versus single agent for fever in children
+Patient or population: children with fever
+Intervention: alternating versus single agent
+Illustrative comparative risks* (95% CI)
+Assumed risk
+Corresponding risk
+Outcomes
+Timepoint
+Single agent
+Alternating regimen
+Relative ef-
+fect
+(95% CI)
+No of partici-
+pants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+Day 1
+The mean NCCPC score
+in the control group was
+11.38
+The mean NCCPC score in the inter-
+vention groups was
+2.01 lower 
+(2.58 to 1.44 lower)
+-
+309
+(1 study)
+⊕⊕⊝⊝
+low 1,2
+ 
+Day 2
+The mean NCCPC score
+in the control group was
+8.85
+The mean NCCPC score in the inter-
+vention groups was
+3.76 lower 
+(4.27 to 3.25 lower)
+-
+475
+(1 study)
+⊕⊕⊝⊝
+low 1,2
+ 
+NCCPC score 
+Standardized
+stress score for
+non-verbal chil-
+dren.
+A score of 7 or
+more indicates
+pain.
+Day 3
+The mean NCCPC score
+in the control group was
+7.81
+The mean NCCPC score in the inter-
+vention groups was
+3.63 lower 
+(4.17 to 3.09 lower)
+-
+464
+(1 study)
+⊕⊕⊝⊝
+low 1,2
+ 
+*The basis for the assumed risk (eg the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% CI) is based on the assumed
+risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval.
+GRADE Working Group grades of evidence
+High quality: further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: we are very uncertain about the estimate.
+Table 2.   Summary of findings: Alternating versus single agent for fever in children 
+1 Downgraded by 2 for risk of bias: in this study mothers collected the data on NCCPC scores and were unblinded to allocation. In addition, in this study the mean number of doses
+of medication was actually lower in the group allocated to alternating treatment. The reasons for this are unclear as logically they should receive more doses.
+ 
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 38]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+Alternating versus single agent for fever in children
+Patient or population: children with fever
+Intervention: alternating versus single agent
+Illustrative comparative risks* (95% CI)
+Assumed risk
+Corresponding risk
+Outcomes
+Timepoint
+Single agent
+Alternating regimen
+Relative ef-
+fect
+(95% CI)
+No of partici-
+pants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+1 hour
+The mean temperature
+in the control group
+was
+37.6 °C
+The mean temperature in the inter-
+vention groups was
+0 °C higher 
+(0.28 °C lower to 0.28 °C higher)
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low
+1,2,3,4
+4 hours
+The mean temperature
+in the control groups
+ranged from
+37.5 °C to 38.0 °C
+The mean temperature in the inter-
+vention groups was
+0.60 °C lower 
+(0.94 °C to 0.26 °C lower)
+-
+78
+(2 studies)
+⊕⊕⊝⊝
+low 5,6,7
+Mean Tem-
+perature
+6 hours
+The mean temperature
+in the control group
+was
+38.5 °C
+The mean temperature in the inter-
+vention groups was
+1.60°C lower 
+(2.27 °C to 0.93 °C lower)
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,3,4
+Children in the
+alternating reg-
+imen group re-
+ceived a second
+dose of antipyret-
+ic at 3-4 hours
+1 hour
+20 per 100
+20 per 100 
+(6 to 69)
+RR 1 
+(0.29 to 3.45)
+40
+(1 study)
+⊕⊝⊝⊝
+very low
+1,2,3,4
+4 hours
+30 per 100
+2 per 100 
+(0 to 39)
+RR 0.08 
+(0.00 to 1.29)
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,3,4
+Proportion
+febrile
+6 hours
+45 per 100
+11 per 100 
+(5 to 25)
+RR 0.25 
+(0.11 to 0.55)
+109
+(2 studies)
+⊕⊕⊝⊝
+low 8,6,7
+Children in the
+alternating reg-
+imen group re-
+ceived a second
+dose of antipyret-
+ic at 3-4 hours
+*The basis for the assumed risk (eg the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% CI) is based on the assumed
+risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval; RR: Risk ratio.
+GRADE Working Group grades of evidence
+High quality: further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Table 3.   Summary of findings: Alternating versus single agent for fever in children 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 39]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37
+Low quality: further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: we are very uncertain about the estimate.
+Table 3.   Summary of findings: Alternating versus single agent for fever in children  (Continued)
+1 This single study compared a single dose of ibuprofen with ibuprofen plus paracetamol 3 hours later.
+2 At this time point both treatment arms had received the same medication so diﬀerences would not be expected.
+3 Downgraded by 1 for risk of bias: this study was at unclear risk of selection bias as allocation concealment was not described.
+4 Downgraded by 2 for very serious imprecision due to the very small sample size.
+5 Paul 2010 compared ibuprofen at baseline plus paracetamol at 3 hours in the intervention group. Kramer 2008 compared paracetamol at baseline plus ibuprofen at 3 hours
+in the intervention group.
+6 Downgraded by 1 for serious risk of bias: both studies are at unclear risk of selection bias as allocation concealment was not described.
+7 Downgraded by 1 for imprecision due to the small sample size.
+8 Paul 2010 compared ibuprofen at baseline plus paracetamol at 3 hours in the intervention group. Nabulsi 2006 compared ibuprofen at baseline plus paracetamol at 4 hours
+in the intervention group.
+ 
+ 
+Combined versus single agent for fever in children
+Patient or population: children with fever
+Intervention: combined ibuprofen and paracetamol at baseline
+Control: a single agent alone at baseline
+Illustrative comparative risks* (95% CI)
+Assumed risk
+Corresponding risk
+Outcomes
+Timepoint
+Single agent
+Combined regimen
+Relative ef-
+fect
+(95% CI)
+No of partici-
+pants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+1 hour
+The mean temperature
+in the control groups
+ranged from
+37.6 °C to 37.9 °C
+The mean temperature in the inter-
+vention groups was
+0.27 °C lower 
+(0.45 °C to 0.08 °C lower)
+-
+163
+(2 studies)
+⊕⊝⊝⊝
+moderate
+1,2,3
+ 
+4 hours
+The mean temperature
+in the control groups
+ranged from
+36.5 °C to 37.5 °C
+The mean temperature in the inter-
+vention groups was
+0.7 °C lower 
+(1.05 °C to 0.35 °C lower)
+-
+173
+(2 studies)
+⊕⊝⊝⊝
+moderate
+4,2,3
+ 
+Mean Tem-
+perature
+6 hours
+The mean temperature
+in the control group was
+The mean temperature in the inter-
+vention groups was
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low 5,6,7
+ 
+Table 4.   Summary of findings: Combined versus single agent for fever in children 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 40]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38
+38.5 °C
+1.30 °C lower 
+(2.01 °C to 0.59 °C lower)
+1 hour
+20 per 100
+10 per 100 
+(2 to 49)
+RR 0.5 
+(0.1 to 2.43)
+40
+(1 study)
+⊕⊝⊝⊝
+very low 5,6,7
+ 
+4 hours
+23 per 100
+2 per 100 
+(1 to 10)
+RR 0.08 
+(0.02 to 0.43)
+196
+(2 studies)
+⊕⊝⊝⊝
+moderate
+4,2,3
+ 
+Proportion
+Febrile
+6 hours
+50 per 100
+5 per 100 
+(1 to 35)
+RR 0.10 
+(0.01 to 0.71)
+40 partici-
+pants
+(1 study)
+⊕⊝⊝⊝
+very low 5,6,7
+ 
+*The basis for the assumed risk (eg the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% CI) is based on the assumed
+risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval; RR: Risk ratio.
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+Table 4.   Summary of findings: Combined versus single agent for fever in children  (Continued)
+1 These two studies compared ibuprofen plus paracetamol at baseline with ibuprofen alone (Paul 2010) or ibuprofen or paracetamol alone (Erlewyn-Lajeunesse 2006).
+2 No serious indirectness: these studies were conducted in the UK and the USA in children with mild febrile illness. The studies excluded children with signs of severe illness or
+contra-indications to the study drugs.
+3 Downgraded by 1 for imprecision due to the small sample size of the studies.
+4 These two studies compared ibuprofen plus paracetamol at baseline with ibuprofen alone (Paul 2010 and Hay 2008).
+5 This single study was conducted in the USA and compared ibuprofen plus paracetamol at baseline with ibuprofen alone (Paul 2010).
+6 Downgraded by 1 for risk of selection bias as allocation concealment was not described.
+7 Downgraded by 2 for very serious imprecision: only one very small study.
+ 
+ 
+Combined versus alternating therapy for fever in children
+Patient or population: children with fever
+Intervention: alternating versus combined therapy
+Table 5.   Summary of findings: Combined versus alternating therapy for fever in children 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 41]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+39
+Illustrative comparative risks* (95% CI)
+Assumed risk
+Corresponding risk
+Outcomes
+Timepoint
+Alternating therapy
+Combinedtherapy
+Relative ef-
+fect
+(95% CI)
+No of partici-
+pants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+1 hour
+The mean temperature
+in the control group
+was
+37.6 °C
+The mean temperature in the interven-
+tion groups was
+0.2 °C lower 
+(0.48 °C lower to 0.08 °C higher)
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+4 hours
+The mean temperature
+in the control group
+was
+36.9 °C
+The mean temperature in the interven-
+tion groups was
+0 °C higher 
+(0.19 °C lower to 0.19 °C higher)
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+Mean Tem-
+perature
+6 hours
+The mean temperature
+in the control group
+was
+36.9 °C
+The mean temperature in the interven-
+tion groups was
+0.3 °C higher 
+(0.01 °C to 0.59 °C higher)
+-
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+1 hour
+200 per 1000
+100 per 1000 
+(20 to 486)
+RR 0.5 
+(0.1 to 2.43)
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+4 hours
+-
+-
+Not estimable
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+Proportion
+Febrile
+6 hours
+0 per 1000
+0 per 1000 
+(0 to 0)
+RR 3 
+(0.13 to
+69.52)
+40
+(1 study)
+⊕⊝⊝⊝
+very low 1,2,3
+ 
+*The basis for the assumed risk (eg the median control group risk across studies) is provided in footnotes. The corresponding risk (and its 95% CI) is based on the assumed
+risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+CI: Confidence interval; RR: Risk ratio.
+GRADE Working Group grades of evidence
+High quality: further research is very unlikely to change our confidence in the estimate of effect.
+Moderate quality: further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.
+Low quality: further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.
+Very low quality: we are very uncertain about the estimate.
+Table 5.   Summary of findings: Combined versus alternating therapy for fever in children  (Continued)
+1 This single study was conducted in the USA.
+2 Downgraded by 1 for risk of bias: this study was at unclear risk of selection bias as allocation concealment was not described.
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 42]
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+40
+3 Downgraded by 2 for very serious imprecision due to the very small sample size.
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 43]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+Comparison
+Studies
+N
+ 
+Duration of
+follow up
+Serious adverse
+events
+Comments
+Erlewyn-Laje-
+unesse 2006
+123
+2 hours
+Not reported
+ 
+Hay 2008
+156
+5 days
+Five serious AE oc-
+curred (Admission
+to hospital - reasons
+not reported) with no
+difference between
+groups
+Non-severe adverse events (mainly
+diarrhoea and vomiting) were evenly
+distributed between groups2
+Combined
+versus single
+agent
+Paul 2010
+46
+6 hours
+Not reported
+ 
+Paul 2010
+46
+6 hours
+Not reported
+ 
+Kramer 2008
+ 
+40
+6 hours
+ 
+None observed
+ 
+Non-severe adverse effects reported
+in 8/38 (21%) of patients with no dif-
+ference between groups1
+ 
+ 
+Nabulsi 2009
+ 
+70
+8 hours
+None observed
+Rectal temperature < 36.5 °C (range
+35.0 °C to 36.2 °C)
+5 (13.9%) combined group
+6 (18.2%) ibuprofen group
+ 
+Alternating
+versus single
+agent
+ 
+Sarrell 2006
+480
+14 days
+None observed
+Mild elevated liver enzymes, n=8,
+mild abnormal renal function, n=14,
+all normalized by 14 day follow up
+Alternating
+versus com-
+bined therapy
+Paul 2010
+46
+6 hours
+Not reported
+ 
+Table 6.   Adverse Eﬀects 
+1 Non-severe AE stated as: diarrhoea, flatulence, emesis, decreased appetite, epigastric pain, nausea, headache, insomnia. Symptoms did
+not prevent any patients from taking study medications.
+ 
+ 
+A P P E N D I C E S
+Appendix 1. Table 1: Search Strategies for CENTRAL, MEDLINE, EMBASE, and International Pharmaceutical Abstracts
+ 
+Search Set
+CENTRAL
+MEDLINE (1950-present)
+[1]
+EMBASE (1980-present)
+[2]
+IPA (1970-present)
+1
+ACETAMINOPHEN[3] 
+ACETAMINOPHEN
+PARACETAMOL
+-
+ 
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+41
+
+[page 44]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+2
+acetaminophen or parac-
+etamol or acamol or
+acenol or acephen or ac-
+etaco or acetalgin or ac-
+etamidophenol or ac-
+etamino phenol or ac-
+etaminophene or aceta-
+minophenol or aceta-
+mol or acetominophen
+or acetylaminophenol
+or algotropyl or alvedon
+or amadil or anacin or
+anaflon or apamide or
+apap or apotel or arthral-
+gen or benuron or calpol
+or cp 500 or cp500 or
+dafalgan or datril or de-
+pon or disprol or dolal
+or doliprane or dolprone
+or duorol or efferalgan
+or enelfa or eneril or eu
+med or febrilix or fendon
+or fibrinol or gelocatil
+or hedex or hydroxyac-
+etanilide or janupap or
+letamol or liquiprin or
+lyteca or medamol or
+metalid or mexalen or na-
+pap or nebs or neocitran
+or neodalmin or nevral
+or nobedon or n-acetyl-
+p-aminophenol or pace-
+mol or pamal or pamol or
+panadol or panasorb or
+panodil or para suppo or
+paracetaminophenol or
+paracetamole or paralen
+or paramax or paratabs
+or pasolind or perfalgan
+or phenaphen or polar-
+fen or puernol or pyrigesic
+or rapidol or relaphen
+or rhodapap or sedes a
+or sinpro or tabalgin or
+tachipirin or tachipirina or
+tapar or tempra or tralgon
+or tramil or treuphadol or
+tylenol or valadol or zol-
+ben
+acetaminophen or parac-
+etamol or acamol or
+acenol or acephen or ac-
+etaco or acetalgin or ac-
+etamidophenol or ac-
+etamino phenol or ac-
+etaminophene or aceta-
+minophenol or aceta-
+mol or acetominophen
+or acetylaminophenol
+or algotropyl or alvedon
+or amadil or anacin or
+anaflon or apamide or
+apap or apotel or arthral-
+gen or benuron or calpol
+or cp 500 or cp500 or
+dafalgan or datril or de-
+pon or disprol or dolal
+or doliprane or dolprone
+or duorol or efferalgan
+or enelfa or eneril or eu
+med or febrilix or fendon
+or fibrinol or gelocatil
+or hedex or hydroxyac-
+etanilide or janupap or
+letamol or liquiprin or
+lyteca or medamol or
+metalid or mexalen or na-
+pap or nebs or neocitran
+or neodalmin or nevral
+or nobedon or n-acetyl-
+p-aminophenol or pace-
+mol or pamal or pamol or
+panadol or panasorb or
+panodil or para suppo or
+paracetaminophenol or
+paracetamole or paralen
+or paramax or paratabs
+or pasolind or perfalgan
+or phenaphen or polar-
+fen or puernol or pyrigesic
+or rapidol or relaphen
+or rhodapap or sedes a
+or sinpro or tabalgin or
+tachipirin or tachipirina or
+tapar or tempra or tralgon
+or tramil or treuphadol or
+tylenol or valadol or zol-
+ben
+acetaminophen or parac-
+etamol or acamol or
+acenol or acephen or ac-
+etaco or acetalgin or ac-
+etamidophenol or ac-
+etamino phenol or ac-
+etaminophene or aceta-
+minophenol or aceta-
+mol or acetominophen
+or acetylaminophenol
+or algotropyl or alvedon
+or amadil or anacin or
+anaflon or apamide or
+apap or apotel or arthral-
+gen or benuron or calpol
+or cp 500 or cp500 or
+dafalgan or datril or de-
+pon or disprol or dolal
+or doliprane or dolprone
+or duorol or efferalgan
+or enelfa or eneril or eu
+med or febrilix or fendon
+or fibrinol or gelocatil
+or hedex or hydroxyac-
+etanilide or janupap or
+letamol or liquiprin or
+lyteca or medamol or
+metalid or mexalen or na-
+pap or nebs or neocitran
+or neodalmin or nevral
+or nobedon or n-acetyl-
+p-aminophenol or pace-
+mol or pamal or pamol or
+panadol or panasorb or
+panodil or para suppo or
+paracetaminophenol or
+paracetamole or paralen
+or paramax or paratabs
+or pasolind or perfalgan
+or phenaphen or polar-
+fen or puernol or pyrigesic
+or rapidol or relaphen
+or rhodapap or sedes a
+or sinpro or tabalgin or
+tachipirin or tachipirina or
+tapar or tempra or tralgon
+or tramil or treuphadol or
+tylenol or valadol or zol-
+ben
+acetaminophen or
+paracetamol or acamol
+or acenol or acephen or
+acetaco or acetalgin or
+acetamidophenol or ac-
+etamino phenol or ac-
+etaminophene or aceta-
+minophenol or aceta-
+mol or acetominophen
+or acetylaminophe-
+nol or algotropyl or
+alvedon or amadil or
+anacin or anaflon or
+apamide or apap or
+apotel or arthralgen or
+benuron or calpol or cp
+500 or cp500 or dafal-
+gan or datril or depon
+or disprol or dolal or
+doliprane or dolprone
+or duorol or efferal-
+gan or enelfa or ener-
+il or eu med or febril-
+ix or fendon or fibrinol
+or gelocatil or hedex
+or hydroxyacetanilide
+or janupap or letamol
+or liquiprin or lyteca
+or medamol or met-
+alid or mexalen or na-
+pap or nebs or neoci-
+tran or neodalmin or
+nevral or nobedon or n-
+acetyl-p-aminophenol
+or pacemol or pamal
+or pamol or panadol or
+panasorb or panodil or
+para suppo or paraceta-
+minophenol or parac-
+etamole or paralen or
+paramax or paratabs or
+pasolind or perfalgan or
+phenaphen or polarfen
+or puernol or pyrigesic
+or rapidol or relaphen
+or rhodapap or sedes
+a or sinpro or tabalgin
+or tachipirin or tachipi-
+rina or tapar or tempra
+or tralgon or tramil or
+treuphadol or tylenol or
+valadol or zolben
+3
+IBUPROFEN 
+IBUPROFEN
+IBUPROFEN
+-
+4
+ibuprofen or brufen or
+propionic acid or advil or
+aktren or algifor or algo-
+fen or analgyl or anco or
+attritin or balkaprofen or
+ibuprofen or brufen or
+propionic acid or advil or
+aktren or algifor or algo-
+fen or analgyl or anco or
+attritin or balkaprofen or
+ibuprofen or brufen or
+propionic acid or advil or
+aktren or algifor or algo-
+fen or analgyl or anco or
+attritin or balkaprofen or
+ibuprofen or brufen
+or propionic acid or
+advil or aktren or algi-
+for or algofen or anal-
+gyl or anco or attritin
+  (Continued)
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+42
+
+[page 45]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+brufort or bufohexal or
+burana or contraneural or
+dc 7034 or dc7034 or dg
+7034 or dg7034 or dolgit
+or dolocyl or dolodolgit or
+ecoprofen or emflam or
+exidol or femapirin or fe-
+nalgic or fenbid or halprin
+or haltran or ibofen or
+ibudak or ibufen or ibugel
+or ibugesic or ibulgan or
+ibumetin or ibuprin or
+ibusynth or ibutop or irfen
+or ibu slow or junifen or
+kontraneural or lidifen or
+maxagesic or mcn r 1451
+or medipren or mediprin
+or mensoton or midol 200
+or motrin or neobrufen or
+nerofen or novogent n or
+nugin or nuprin or nure-
+flex or nurofen or optifen
+or opturem or paduden
+or pedea or proflex or re-
+bugen or reuvol or rufen
+or rufort or seclodin or ta-
+balon or trendar or unipro
+or urem
+brufort or bufohexal or
+burana or contraneural or
+dc 7034 or dc7034 or dg
+7034 or dg7034 or dolgit
+or dolocyl or dolodolgit or
+ecoprofen or emflam or
+exidol or femapirin or fe-
+nalgic or fenbid or halprin
+or haltran or ibofen or
+ibudak or ibufen or ibugel
+or ibugesic or ibulgan or
+ibumetin or ibuprin or
+ibusynth or ibutop or irfen
+or ibu slow or junifen or
+kontraneural or lidifen or
+maxagesic or mcn r 1451
+or medipren or mediprin
+or mensoton or midol 200
+or motrin or neobrufen or
+nerofen or novogent n or
+nugin or nuprin or nure-
+flex or nurofen or optifen
+or opturem or paduden
+or pedea or proflex or re-
+bugen or reuvol or rufen
+or rufort or seclodin or ta-
+balon or trendar or unipro
+or urem
+brufort or bufohexal or
+burana or contraneural or
+dc 7034 or dc7034 or dg
+7034 or dg7034 or dolgit
+or dolocyl or dolodolgit or
+ecoprofen or emflam or
+exidol or femapirin or fe-
+nalgic or fenbid or halprin
+or haltran or ibofen or
+ibudak or ibufen or ibugel
+or ibugesic or ibulgan or
+ibumetin or ibuprin or
+ibusynth or ibutop or irfen
+or ibu slow or junifen or
+kontraneural or lidifen or
+maxagesic or mcn r 1451
+or medipren or mediprin
+or mensoton or midol 200
+or motrin or neobrufen or
+nerofen or novogent n or
+nugin or nuprin or nure-
+flex or nurofen or optifen
+or opturem or paduden
+or pedea or proflex or re-
+bugen or reuvol or rufen
+or rufort or seclodin or ta-
+balon or trendar or unipro
+or urem
+or balkaprofen or bru-
+fort or bufohexal or bu-
+rana or contraneural
+or dc 7034 or dc7034
+or dg 7034 or dg7034
+or dolgit or dolocyl or
+dolodolgit or ecopro-
+fen or emflam or exidol
+or femapirin or fenalgic
+or fenbid or halprin or
+haltran or ibofen or ibu-
+dak or ibufen or ibugel
+or ibugesic or ibulgan
+or ibumetin or ibuprin
+or ibusynth or ibutop or
+irfen or ibu slow or ju-
+nifen or kontraneural or
+lidifen or maxagesic or
+mcn r 1451 or medipren
+or mediprin or men-
+soton or midol 200 or
+motrin or neobrufen or
+nerofen or novogent n
+or nugin or nuprin or
+nureflex or nurofen or
+optifen or opturem or
+paduden or pedea or
+proflex or rebugen or
+reuvol or rufen or rufort
+or seclodin or tabalon
+or trendar or unipro or
+urem
+5
+1-4/or
+1-4/or
+1-4/or
+1-4/or
+6
+-
+FEVER
+FEVER
+-
+7
+fever* or pyrexia* or hy-
+perthermia* or tempera-
+ture
+fever* or pyrexia* or hy-
+perthermia* or tempera-
+ture
+fever* or pyrexia* or hy-
+perthermia* or tempera-
+ture
+fever* or pyrexia* or hy-
+perthermia* or temper-
+ature
+8
+6 or 7
+6 or 7
+6 or 7
+6 or 7
+9
+CHILD
+CHILD
+CHILD
+-
+10
+ADOLESCENT
+ADOLESCENT
+ADOLESCENT
+-
+11
+INFANT
+INFANT
+INFANT
+-
+12
+-
+-
+NEWBORN
+-
+13
+PEDIATRICS
+PEDIATRICS
+PEDIATRICS
+-
+14
+child* or pediatric* or
+paediatric* or perinat*
+or neonat* or newborn*
+or infan* or bab* or tod-
+dler* or boy* or girl* or
+child* or pediatric* or
+paediatric* or perinat*
+or neonat* or newborn*
+or infan* or bab* or tod-
+dler* or boy* or girl* or
+child* or pediatric* or
+paediatric* or perinat*
+or neonat* or newborn*
+or infan* or bab* or tod-
+dler* or boy* or girl* or
+child* or pediatric* or
+paediatric* or perinat*
+or neonat* or newborn*
+or infan* or bab* or tod-
+dler* or boy* or girl* or
+  (Continued)
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+43
+
+[page 46]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+school?age or juvenil* or
+adolescen*
+school?age or juvenil* or
+adolescen*
+school?age or juvenil* or
+adolescen*
+school?age or juvenil*
+or adolescen*
+15
+infan* or child* or pedi-
+atric* or paediatric* or
+adolescen* (journal title
+word)
+infan* or child* or pedi-
+atric* or paediatric* or
+adolescen* (journal title
+word)
+infan* or child* or pedi-
+atric* or paediatric* or
+adolescen* (journal title
+word)
+infan* or child* or pe-
+diatric* or paediatric*
+or adolescen* (journal
+name)
+16
+9-15/or
+9-16/or
+9-16/or
+9-16/or
+17
+5 and 8 and 17
+5 and 8 and 17
+5 and 8 and 17
+5 and 8 and 17
+  (Continued)
+ 
+[1] In addition to the terms in the table, the MEDLINE search includes the highly sensitive search strategy for identification of RCTs in
+MEDLINE (sensitivity-maximizing version) described in the current Cochrane Handbook for Systematic Reviews of Interventions (section
+6.4.11).
+[2] In addition to the terms in the table, the EMBASE search includes the Cochrane Handbook for Systematic Reviews of Interventions'
+recommended terms for identifying RCTs in EMBASE (see section 6.3.2.2 of the Handbook).
+[3] Terms in all caps indicate a subject heading used by that particular database. Terms in lower-case are searched as general keywords
+unless otherwise noted in parentheses afer the search string.
+C O N T R I B U T I O N S   O F   A U T H O R S
+TW contributed to protocol development, relevance and inclusion screening, quality assessment, data extraction, analysis and writing the
+review.
+AS contributed to protocol development, relevance and inclusion screening, quality assessment, analysis and editing the review.
+DWJ contributed to protocol development and editing the review.
+HG contributed to the development and execution of the search strategy and editing the review.
+AT contributed to data extraction.
+LH contributed to protocol development and editing the review.
+IM contributed to protocol development and editing the review.
+D E C L A R A T I O N S   O F   I N T E R E S T
+None declared.
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+Alberta Children's Hospital Foundation, Canada.
+Initial grant money was recieved for statistical analysis support. Later, permission was granted for funds to be used for travel to Liverpool
+where statistical support is available for the study.
+External sources
+•
+Cochrane Infectious Diseases Group Fellowship Program, UK.
+Funds from the fellowship program were used to assist with travel to Liverpool, UK where editorial advisor and statistical support were
+available.
+D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W
+The initial protocol focused on decline in temperature measurements over time as a primary outcome. Common clinical practice is to
+recommend antipyretic therapy for children with fever who are distressed, and not necessarily for lowering absolute temperature. This
+review has altered the primary outcome by including patient discomfort in addition to temperature measurements. Anna Thomsen was
+added as an author for her contributions as data extractor.
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+44
+
+[page 47]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Acetaminophen  [*administration & dosage];  Antipyretics  [*administration & dosage];  Body Temperature  [drug eﬀects];  Child; 
+Combined Modality Therapy  [adverse eﬀects]  [methods];  Fever  [*drug therapy];  Humans;  Ibuprofen  [*administration & dosage]; 
+Randomized Controlled Trials as Topic;  Time Factors
+Combined and alternating paracetamol and ibuprofen therapy for febrile children (Review)
+Copyright © 2013 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+45

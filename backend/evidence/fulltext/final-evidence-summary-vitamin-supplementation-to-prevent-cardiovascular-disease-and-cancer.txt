@@ -1,0 +1,1843 @@
+
+
+[page 1]
+Evidence Summary
+Vitamin, Mineral, and Multivitamin
+Supplementation to Prevent Cardiovascular
+Disease and Cancer: Preventive Medication
+June 21, 2022
+Recommendations made by the USPSTF are independent of the U.S. government. They should not be construed as an
+official position of the Agency for Healthcare Research and Quality or the U.S. Department of Health and Human Services.
+Table of Contents
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Conclusions
+Article Information
+References
+By Elizabeth A. O’Connor, PhD; Corinne V. Evans, MPP; Ilya Ivlev, MD, PhD, MBI; Megan C. Rushkin, MPH; Rachel G.
+Thomas, MPH; Allea Martin, MPH; Jennifer S. Lin, MD, MCR
+The information in this article is intended to help clinicians, employers, policymakers, and others make informed
+decisions about the provision of health care services. This article is intended as a reference and not as a substitute for
+clinical judgment.
+This article may be used, in whole or in part, as the basis for the development of clinical practice guidelines and other
+quality enhancement tools, or as a basis for reimbursement and coverage policies. AHRQ or U.S. Department of
+Health and Human Services endorsement of such derivative products may not be stated or implied.
+This article was published online in JAMA on June 21, 2022 (JAMA. 2022;327(23):2334-2347. doi:10.1001/jama.2021.15650).
+Importance: Cardiovascular disease and cancer are the 2 leading causes of death in the US, and vitamin and mineral
+supplementation has been proposed to help prevent these conditions.
+Objective: To review the benefits and harms of vitamin and mineral supplementation in healthy adults to prevent
+cardiovascular disease and cancer to inform the US Preventive Services Task Force.
+Abstract
+
+[page 2]
+Data Sources: MEDLINE, PubMed (publisher-supplied records only), Cochrane Library, and Embase (January 2013 to
+February 1, 2022); prior reviews.
+Study Selection: English-language randomized clinical trials (RCTs) of vitamin or mineral use among adults without
+cardiovascular disease or cancer and with no known vitamin or mineral deficiencies; observational cohort studies
+examining serious harms.
+Data Extraction and Synthesis: Single extraction, verified by a second reviewer. Quantitative pooling methods
+appropriate for rare events were used for most analyses.
+Main Outcomes and Measures: Mortality, cardiovascular disease events, cancer incidence, serious harms.
+Results: Eighty-four studies (N=739,803) were included. In pooled analyses, multivitamin use was significantly
+associated with a lower incidence of any cancer (odds ratio [OR], 0.93 [95% CI, 0.87-0.99]; 4 RCTs [n=48,859]; absolute
+risk difference [ARD] range among adequately powered trials, −0.2% to −1.2%) and lung cancer (OR, 0.75 [95% CI, 0.58-
+0.95]; 2 RCTs [n=36,052]; ARD, 0.2%). However, the evidence for multivitamins had important limitations. Beta carotene
+(with or without vitamin A) was significantly associated with an increased risk of lung cancer (OR, 1.20 [95% CI, 1.01-
+1.42]; 4 RCTs [n=94,830]; ARD range, −0.1% to 0.6%) and cardiovascular mortality (OR, 1.10 [95% CI, 1.02-1.19]; 5 RCTs
+[n=94,506] ARD range, −0.8% to 0.8%). Vitamin D use was not significantly associated with all-cause mortality (OR,
+0.96 [95% CI, 0.91-1.02]; 27 RCTs [n=117,082]), cardiovascular disease (eg, composite cardiovascular disease event
+outcome: OR, 1.00 [95% CI, 0.95-1.05]; 7 RCTs [n=74,925]), or cancer outcomes (eg, any cancer incidence: OR, 0.98 [95%
+CI, 0.92-1.03]; 19 RCTs [n=86,899]). Vitamin E was not significantly associated with all-cause mortality (OR, 1.02 [95% CI,
+0.97-1.07]; 9 RCTs [n=107,772]), cardiovascular disease events (OR, 0.96 [95% CI, 0.90-1.04]; 4 RCTs [n=62,136]), or cancer
+incidence (OR, 1.02 [95% CI, 0.98-1.08]; 5 RCTs [n=76,777]). Evidence for benefit of other supplements was equivocal,
+minimal, or absent. Limited evidence suggested some supplements may be associated with higher risk of serious
+harms (hip fracture [vitamin A], hemorrhagic stroke [vitamin E], and kidney stones [vitamin C, calcium]).
+Conclusions and Relevance: Vitamin and mineral supplementation was associated with little or no benefit in
+preventing cancer, cardiovascular disease, and death, with the exception of a small benefit for cancer incidence with
+multivitamin use. Beta carotene was associated with an increased risk of lung cancer and other harmful outcomes in
+persons at high risk of lung cancer.
+Cardiovascular disease and cancer are the 2 leading causes of death in the US.  Vitamin and mineral
+supplementation has been proposed as a preventive strategy for both diseases because of shared disease pathways
+involving oxidative stress, inflammation, and methionine metabolism.
+ Further, observational evidence has
+suggested associations between higher plasma levels of various vitamins and minerals and lower rates of
+cardiovascular disease and cancer.
+ Vitamin and mineral supplements are commonly used in the US, with
+estimates in 2011 to 2014 showing that 52% of adults reported having recently used at least 1 dietary supplement.
+In 2014, the US Preventive Services Task Force (USPSTF) recommended against the use of beta carotene or vitamin E
+to prevent cardiovascular disease and cancer and concluded that the evidence was insufficient to assess net benefit
+for multivitamins or the use of single- or paired-nutrient supplements.  This systematic review was conducted to
+provide current evidence on the benefits and harms of vitamin and mineral supplementation in healthy adults
+without known vitamin or mineral deficiencies to inform an updated recommendation by the USPSTF.
+Introduction
+1
+2-4
+5,6
+7
+8
+Methods
+
+[page 3]
+Scope of Review
+Figure 1 displays the a priori–developed analytic framework and 4 key questions (KQs) that guided this review, which
+was posted on the AHRQ website on September 5, 2019.
+ Methodological details and findings for the B and C
+vitamins, folic acid, magnesium, selenium, and zinc are available in the full evidence report.
+Data Sources and Searches
+MEDLINE, PubMed (publisher-supplied records only), Cochrane Central Register of Controlled Trials and Database of
+Systematic Reviews, and Embase were searched for relevant English-language articles published after the 2014
+review for the USPSTF (January 1, 2013, through February 1, 2022 [eMethods in the JAMA Supplement]).
+ All studies in
+the prior review were also evaluated,
+ as well as reference lists of relevant systematic reviews. ClinicalTrials.gov and
+the World Health Organization International Clinical Trials Registry Platform were searched for relevant ongoing
+trials.
+Study Selection
+Titles, abstracts, and full-text articles were reviewed by investigators against prespecified eligibility criteria (eTable 1 in
+the JAMA Supplement). Discrepancies were resolved by consensus. English-language fair- and good-quality
+randomized clinical trials (RCTs) were included that evaluated multivitamins/minerals (KQ1 and KQ2), and single
+nutrients or functionally related nutrient pairs (KQ3 and KQ4) compared with placebo or no intervention and
+reported cardiovascular disease, cancer, mortality, serious harms, or nonserious adverse events reported by at least
+5% of the intervention group. For serious harms, comparative observational studies (cohort or case-control) or
+postmarket surveillance data were also eligible. A stated study aim of cardiovascular disease or cancer prevention
+was not required for inclusion; thus, trials of supplements designed to prevent other conditions were included if
+outcomes of interest were reported. A minimum of 1-year follow-up was required for all-cause mortality, and no
+minimum follow-up was required for all other outcomes. Studies were required to be conducted in countries
+classified as “very high” on the 2017 Human Development Index.
+ Eligible populations included community-
+dwelling adults 18 years or older without chronic disease and without vitamin, mineral, or nutritional deficiencies.
+Studies among persons with cardiovascular disease risk factors, a history of colorectal adenoma, or previous
+nonmelanoma skin cancer were included.
+Data Extraction and Quality Assessment
+Data were extracted from each included study into standardized evidence tables by 1 investigator. Data accuracy was
+confirmed by a second investigator. Study characteristics, dosing details, participant demographics, and results for
+mortality, cardiovascular disease, cancer, and harms were extracted. Only published data were extracted;
+investigators were not contacted to supply missing fields. The quality of each study was assessed by 2 reviewers who
+independently applied USPSTF design-specific criteria (eTable 2 in the JAMA Supplement).  Each study was assigned
+a quality rating of “good,” “fair,” or “poor.” Discordant quality ratings were resolved by consensus. Studies rated as
+poor quality were excluded.
+Data Synthesis and Analysis
+Summary tables for all KQs were created for each supplement. Quantitative pooling was conducted when at least 3
+studies of the same supplement reported the same outcome. A single effect per study was included in each meta-
+analysis, preferentially selecting the time point corresponding with the end of supplement use. Data for beta
+10
+11
+12
+12
+13
+9
+
+[page 4]
+carotene and vitamin A are summarized together because beta carotene is a vitamin A precursor.
+Peto odds ratios (ORs) with a restricted maximum likelihood (REML) model were used when events occurred in less
+than 5% of the sample for most studies in the analysis. When events typically occurred in 5% to 10% of the sample, a
+fixed-effects Mantel-Haenszel model was used as the primary analysis. When events had a higher incidence,
+standard ORs using a REML model were pooled, adding the Knapp-Hartung correction for pooling a small number of
+studies.
+ Because absolute event rates were highly variable for most analyses, sensitivity analyses using alternative
+pooling methods were conducted (see full report ). The presence of statistical heterogeneity among the studies was
+assessed using the I  statistic. I  values were not generated for fixed-effects models, so I  from random-effects
+sensitivity analyses are reported, if available.
+Stata version 16 (StataCorp) was used for all quantitative analyses. All significance testing was 2-sided, and results
+were considered statistically significant at P < .05.
+A total of 84 studies (N = 739,803) (eTable3 in the JAMA Supplement) were included, comprising 78 RCTs (n =
+324,837)
+ and 6 cohort studies (n = 390,689),
+ after review of 17,459 unique citations and 379 full-text
+articles (Figure 2). Fifty-two of the included studies were newly identified since the last review.
+ The included studies
+addressed multivitamins; vitamins A, B , B , B , C, D, and E; beta carotene; folic acid; calcium; magnesium; selenium;
+and zinc. The evidence for the B and C vitamins, folic acid, magnesium, selenium, and zinc was low, insufficient, or
+absent for all outcomes. Results for these supplements can be found in the full evidence report.
+The mean age across all included studies was 61.0 years. An estimated 65.1% of all participants were women. Most
+participants were White in studies conducted in the US (with data from 22 of 36 studies).An estimated 19.6% of
+participants were Black, among studies reporting race and ethnicity. The vitamin D trials had, on average, greater
+representation of Black participants. Other racial and ethnic groups had minimal representation for all supplements.
+Benefits of Multivitamin Supplementation
+Key Question 1. What is the efficacy of multivitamin supplementation for reducing cardiovascular disease, cancer,
+and mortality in the general adult population?
+Nine RCTs addressed KQ1 (n = 51,945) (eTable 4 in the JAMA Supplement).
+ Three large studies
+had primary aims of cardiovascular disease and cancer prevention, were all rated as good quality, and comprised
+most of the evidence for this KQ.
+ These were the Supplementation en Vitamines et Minéraux AntioXydants
+(SU.VI.MAX) study (n = 13,017),
+ which examined use of an antioxidant-focused supplement among adults aged 35 to
+60 years; the Physicians’ Health Study II (PHS-II [n = 14,641]), which examined a broad-spectrum supplement among
+male physicians 50 years or older;
+ and the Cocoa Supplement and Multivitamin Outcomes Study (COSMOS [n =
+21,442]), which examined a broad-spectrum supplement among adults aged 60 years (men) or 65 years or older
+(women).
+ The other 6 RCTs were small, with a variety of other aims, and 5 of these did not report a robust
+ascertainment process for the all-cause mortality, cardiovascular disease, or cancer outcomes. The evidence
+suggested small to no benefit of multivitamin use for all-cause mortality, no benefit for cardiovascular disease, and a
+possible small benefit for cancer outcomes (Figure 3). In pooled analyses, the association with all-cause mortality was
+not statistically significant (OR, 0.94 [95% CI, 0.87-1.01]; 9 RCTs [n = 51,550]; I  = 0%). The largest trial, COSMOS, reported
+that 3.4% of participants taking a multivitamin had died after a median of 3.6 years of follow-up, compared with 3.6%
+who were taking a placebo (hazard ratio [HR], 0.93 [95% CI, 0.81-1.08] [n = 21,442]),
+ and effect sizes were very similar
+in the other 2 trials. The pooled effect sizes were also similar for cancer mortality (OR, 0.94 [95% CI, 0.81-1.09]; 4 RCTs [n
+= 37,400]; I  = 28.9%) and cancer incidence (OR, 0.93 [95% CI, 0.87-0.99]; 4 RCTs [n = 48,859]; I  = 0%; absolute risk
+difference range among adequately powered trials, −0.2% to −1.2%). For cancer incidence, which showed a statistically
+significant pooled effect, 4.8% of participants in COSMOS taking a multivitamin had developed invasive cancer after
+14,15
+11
+2
+2
+2
+Results
+16-93
+71,94-99
+12
+3
+6
+12
+11
+16,26,31,43,54,70,72,81,93
+16,26,93
+16
+26
+93
+2
+93
+2
+2
+
+[page 5]
+3.6 years, compared with 5.0% taking placebo (HR, 0.97 [95% CI, 0.86-1.09]; [n = 21,442]);
+ effects were slightly larger
+in SU.VI.MAX (RR, 0.90 [95% CI, 0.76-1.06] after 7.5 years) and PHS-II (HR, 0.92 [95% CI, 0.86-1.00] after 11.2 years). The
+pooled effect was also statistically significant for lung cancer, an outcome reported only by COSMOS and PHS-II (OR,
+0.75 [95% CI, 0.58-0.95]; 2 RCTs [n = 36,052]; I  = 30%; absolute risk difference, −0.2% in both studies).
+Harms of Multivitamin Supplementation
+Key Question 2. What are the harms of multivitamin supplementation in the general adult population?
+Harms of multivitamin use were reported in 9 RCTs (n = 51,614) (eTable 4 in the JAMA
+Supplement)
+ and 3 cohort studies (n = 188,027).
+ Among the 4 trials reporting any adverse
+effects,
+ serious adverse effects,
+ or withdrawals due to adverse effects,
+ no group differences were found,
+although there were very few serious adverse effects or withdrawals due to adverse effects. With regard to specific
+adverse effects, PHS-II found an increased risk of rash (29.0% among multivitamin users, 27.3% among nonusers; OR,
+1.06 [95% CI, 1.01-1.12]) and nose bleeds (21.6% among multivitamin users, 19.8% among nonusers; OR, 1.09 [95% CI, 1.02-
+1.16]). Small increases in cataracts
+ and hip fractures
+ reported by cohort studies were not statistically
+significant and were not reported by any of the trials. None of the harms were replicated in COSMOS, which also
+found very few group differences among many other assessed potential adverse effects.
+Benefits of Single-Nutrient or Nutrient-Pair
+Supplementation
+Key Question 3. What is the efficacy of supplementation with single nutrients or functionally related nutrient pairs
+for reducing cardiovascular disease, cancer, and mortality in the general adult population?
+Beta Carotene and Vitamin A
+Six RCTs addressed KQ3 for beta carotene and vitamin A (eTable 5 and eTable 6 in the JAMA Supplement). These
+studies evaluated the use of 20 to 50 mg/d of beta carotene (n = 112,820);
+ 1 trial (n = 18,314) examined the
+combined use of beta carotene and 25,000 IU/d of vitamin A.
+ Two of these studies—the original Physicians’ Health
+Study (PHS-I)
+ and the Women’s Health Study (WHS)
+—had broad cancer and cardiovascular disease prevention
+aims in men
+ or women.
+ Both were factorial design trials that also evaluated aspirin, as well as vitamin E in the
+WHS. Two trials, the Alpha-Tocopherol Beta Carotene Cancer Prevention (ATBC) trial
+ and the Beta-Carotene and
+Retinol Efficacy Trial (CARET),
+ had primary aims of lung cancer prevention and evaluated beta carotene
+supplementation in high-risk populations such as smokers and asbestos-exposed workers. ATBC was multifactorial,
+with additional randomization to 50 mg/d of vitamin E. The other 2 beta carotene studies were more narrowly aimed
+at primary
+ or secondary
+ prevention of skin cancer. One additional RCT examined the effect of 25,000 IU of
+vitamin A among adults with moderate risk for new nonmelanoma skin cancer (n = 2297).
+Pooled estimates showed statistically significant paradoxical harm associated with beta carotene use (Figure 3). The
+most pronounced risk increase was for lung cancer, with the pooled estimate showing a statistically significantly
+increased risk over 3.7 to 12 years of follow-up (OR, 1.20 [95% CI, 1.01-1.42]; 4 RCTs [n = 94,830]; I  = 38.8%). Absolute risk
+differences in individual trials ranged from −0.1% to 0.6%. These estimates included trials in general populations and
+those at high risk of lung cancer, and the strongest evidence was from the trials of people at high risk of lung cancer.
+Cardiovascular disease mortality similarly showed an increased risk (OR, 1.10 [95% CI, 1.02-1.19]; 5 RCTs [n = 94,506]; I  =
+0%). Absolute risk differences in individual trials ranged from −0.8% to 0.8%. In pooled analyses, the OR for all-cause
+mortality associated with beta carotene use was 1.06 (95% CI, 1.00-1.12; 6 RCTs [n = 112,820]; I  = 6.4%). When the study
+of vitamin A supplementation (alone) was included in the meta-analysis,
+ the all-cause mortality finding became
+statistically significant (OR, 1.06 [95% CI, 1.01- 1.12]; 7 RCTs [n = 115,117]).
+100
+2
+16,26,31,48,54,70,72,81
+94,96,99
+54,81
+31
+48
+94,99
+94
+93
+17-21,32
+19
+20
+18
+20
+18
+21
+19
+17
+32
+33
+2
+2
+2
+33
+
+[page 6]
+Vitamin E
+Nine RCTs addressed KQ3 for vitamin E (n = 116,468) (eTable 7 in the JAMA Supplement).
+ Seven
+RCTs (n = 86,142) had an explicit aim to prevent cardiovascular disease
+ or related outcomes,
+ most
+among adults at increased risk for cardiovascular disease, due to either smoking history
+ or other cardiovascular
+disease risk factors.
+ Three of the trials with cardiovascular disease aims also had a cancer prevention
+aim.
+ Doses ranged from 50 to 300 mg/d for 3 to 10 years, and follow-up time ranged from 3 to 24 years. One
+trial (n = 34,888) examined vitamin E with or without 200 μg of selenium daily,
+ and another small trial (n = 520) had
+a similar design including 500 mg of vitamin C.
+Evidence indicated that vitamin E had no benefit for mortality, cardiovascular disease,or cancer. For example, pooled
+evidence demonstrated no statistically significant association between vitamin E use and all-cause mortality (OR,
+1.02 [95% CI, 0.97-1.07]; 9 RCTs [n = 107,772]; I  = 0%) or the composite outcome of any cardiovascular disease event (OR,
+0.96 [95% CI, 0.90-1.04]; 4 RCTs [n = 62,136]; I  = 0%) or incidence of any cancer (OR, 1.02 [95% CI, 0.98-1.08]; 5 RCTs [n =
+76,777]; I  = 0%) (Figure 3). Effect sizes were very similar when vitamin E was used with or without selenium.
+Additionally, 2
+ of 4 trials reporting hemorrhagic stroke or hemorrhagic stroke mortality showed statistically
+significant increases in these rare outcomes in groups randomized to vitamin E. In PHSII, 0.5% among those taking
+vitamin E and 0.3% among those taking placebo experienced a hemorrhagic stroke (HR, 1.74 [95% CI, 1.04-2.90]). In
+the ATBC study of smokers, risk of hemorrhagic stroke death was similarly elevated (calculated OR, 1.50 [95% CI, 1.03-
+2.20]; vitamin E: 0.5%, placebo: 0.3%).
+Vitamin D With or Without Calcium
+Thirty-two RCTs addressed KQ3 for vitamin D (n = 123,140) (eTable 8 in the JAMA Supplement).
+ Most of the studies had aims related to bone density, fractures, or
+falls and were primarily limited to adults 55 years or older. However, 5 explicitly aimed to prevent cardiovascular
+disease,
+ and 7 had a cancer prevention aim.
+ The 3 largest studies were the WHI (n =
+36,282),
+ which examined the effects of 400 IU vitamin D and 1000 mg calcium use daily; the Vitamin D and
+Omega-3 Trial (VITAL, n = 25,871),
+ which tested the effects of 2000 IU/d of vitamin D, with or without an omega-3
+fatty acid supplement; and D-Health, which examined the use of 2000 IU daily.
+ Both WHI and VITAL had specific
+aims of cancer and cardiovascular disease prevention among adults 50 years or older, while mortality reduction
+among 60- to 84-year-old adults was the aim of D-Health. Among all trials, doses ranged from 20 to 5000 IU/d for 1
+month to 7 years and follow-up time ranged from 1 month to 11.9 years. The mean age was 66 years, and an estimated
+75% of participants in all trials were women.
+Pooling studies of vitamin D with or without calcium cosupplementation showed no significant reduction in all-
+cause mortality (OR, 0.96 [95% CI, 0.91-1.02]; 27 RCTs [n = 117,082]; I  = 0%), cardiovascular disease (eg, composite
+cardiovascular disease event outcome: OR, 1.00 [95% CI, 0.95-1.05]; 7 RCTs [n = 74,925]; I  = 0%), or cancer outcomes (eg,
+any cancer incidence: OR, 0.98 [95% CI, 0.92-1.03]; 19 RCTs [n = 86,899]; I  = 0%) (Figure 3). No clear effect modifiers
+were identified in sensitivity analyses or meta-regression (eTable 9 in the JAMA Supplement). For example, point
+estimates for all-cause mortality did not differ for vitamin D without calcium (OR, 0.968 [95% CI, 0.92-1.05]; 20 RCTs [n
+= 74,398]; I  = 0%) and vitamin D administered with calcium (OR, 0.93 [95% CI, 0.85-1.01]; 8 RCTs [n = 45,322]; I  = 0%).
+Similarly, findings were almost identical to the overall findings when limited to trials that reported robust outcome
+ascertainment methods (OR, 0.96 [95% CI, 0.91-1.02]; 12 RCTs [n = 103,457]; I  = 0%), rather than trials that assessed
+outcomes incidentally through adverse events reporting or not reporting the source of these outcomes. In addition,
+there was no clear association between effect size and vitamin D dose or the use of bolus dosing (eg, 100,000 IU
+monthly) vs daily doses (interaction P = .12).
+Calcium (Without Vitamin D)
+18,21,22,25,26,51,74,77,79
+18,25,26,51
+22,74,79
+21,79
+22,51,74
+18,21,25,26
+25
+22
+2
+2
+2
+25
+21,26
+21
+24,28,34,35,38-
+41,47,50,58-60,62-64,66-69,72,73,75,76,78,82,83,86-90
+24,35,39,41,89
+24,28,35,38,40,41,89
+24
+41
+90
+2
+2
+2
+2
+2
+2
+
+[page 7]
+Seven RCTs addressed KQ3 for calcium (n = 11,884, eTable 10 in the JAMA Supplement).
+ The most
+common doses were 1000 and 1200 mg/d, and duration of use ranged from 6 months to 5 years. Follow-up time
+ranged from 6 months to 12 years. The largest study was the RECORD trial (n = 5292), which examined the effects of
+1000 mg/d of calcium, with or without 800 IU/d of vitamin D, on cardiovascular disease and cancer outcomes among
+older adults with fragility fractures.
+Most of the evidence indicated that calcium had no benefit for mortality, cardiovascular disease, or cancer. Pooled
+effects uniformly indicated no group differences, and very few individual study findings demonstrated an effect of
+calcium supplementation on cancer, cardiovascular disease, or mortality. For example, pooled estimates for all-cause
+mortality (OR, 1.05 [95% CI, 0.92-1.21]; 6 RCTs [n = 8394]; I  = 0%), cardiovascular disease events (OR, 1.11 [95% CI, 0.90-
+1.36]; 4 RCTs [n = 4076]; I  = 0%), and any incidence of cancer (OR, 0.94 [95% CI, 0.41-2.14]; 3 RCTs [n = 5051]; I  = 49.2%) all
+showed no statistically significant association with calcium use (Figure 3).
+Harms of Single-Nutrient Supplementation
+Key Question 4. What are the harms of supplementation with single nutrients in the general adult population?
+Beta Carotene and Vitamin A
+Six RCTs
+ and 1 cohort study
+ reported on the harms of beta carotene supplementation, with or without the
+use of other supplements (eTable 5 in the JAMA Supplement). The most prominent harms were the paradoxical
+harms of increased all-cause mortality, cardiovascular disease mortality, and lung cancer described under KQ3. Other
+than these outcomes, there was a consistent and statistically significant increased risk of hypercarotenodermia with
+beta carotene use in the 4 trials reporting this adverse event at 2 to 12 years of follow-up.
+ The only other
+harm for which there was a statistically significant increased risk from beta carotene in an RCT was gastrointestinal
+symptoms in PHS-I.
+ One cohort study limited to women found no statistically significant association between hip
+fractures and beta carotene (adjusted risk ratio [RR], 0.91 [95% CI, 0.57-1.44]).
+ In addition to the trial of vitamin A
+alone reporting an increase in any adverse effects (OR, 1.77 [95% CI, 1.49-2.09] [n = 2264]),
+ 2 cohort studies explored
+harms of vitamin A (eTable 6 in the JAMA Supplement).
+ A higher but not statistically significant risk of hip
+fracture with vitamin A use was suggested by both the Nurses’ Health Study (NHS-I) (adjusted RR, 1.50 [95% CI, 0.99-
+1.99])
+ and the Iowa Women’s Health Study (RR, 1.18 [95% CI, 0.99-1.41]).
+ The Iowa Women’s Health Study found no
+statistically significant association between vitamin A use and overall fracture risk (adjusted RR, 1.00 [95% CI, 0.95-
+1.05]).
+ The NHS-I indicated no clear association between vitamin A use and cataract extraction.
+Vitamin E
+Harms of vitamin E were reported in 7 RCTs
+ (n = 115,576) and 2 cohort studies
+ (n = 149,043)
+(eTable 7 in the JAMA Supplement). The 3 trials that reported the total number of adverse events,
+ serious adverse
+events,
+ or withdrawals due to adverse events
+ found no group differences. Trial evidence also supported no
+group differences in hospitalization from pneumonia,
+ gastrointestinal disease,
+ several bleeding outcomes,
+fatigue,
+ nail changes,
+ halitosis,
+ easy bruising,
+ and noncataract ophthalmic events.
+ However, some of these
+results were based on a very small or unknown number of events. Two
+ of 4 trials that reported an increased risk
+of hemorrhagic stroke or hemorrhagic stroke mortality are discussed above in KQ3.
+PHS-II found no increase in the incidence of cataracts with vitamin E use at 8 years of follow-up (HR, 0.99 [95% CI,
+0.88-1.11]).
+ Similarly, a large cohort study of women (NHS-I) (n = 121,700) with supplement use assessed biannually
+found no association with cataracts.
+ However, a smaller cohort study (n = 27,343) of Swedish men found a higher
+incidence of cataracts among men who reported any vitamin E use compared with no use on a 1-time survey at 8.4
+years of follow-up (HR, 1.57 [95% CI, 1.10-2.22]).
+Vitamin D With or Without Calcium
+27,28,30,35,38,52,53
+35
+2
+2
+2
+17-21,32
+94
+18,20,21,32
+20
+94
+33
+94,95
+94
+95
+95
+18,21,22,25,26,51,77
+94,96
+51,77
+77
+22,77
+21
+51
+26,51
+25
+25
+25
+26
+77
+21,26
+26
+94
+96
+
+[page 8]
+KQ4 outcomes for vitamin D were reported in 31 RCTs
+ (n
+= 117,100) and 3 cohort studies (n = 289,659) (eTable 8 in the JAMA Supplement).
+ Among RCTs reporting the
+percent of participants experiencing any adverse events,
+ any serious adverse
+events,
+ or withdrawal due to adverse events,
+ only 1 found an increase in
+withdrawals due to adverse events in a trial that administered 10,000 IU/wk of vitamin D plus 1000 mg/d of calcium to
+postmenopausal women.
+While most trials that reported data on kidney stones had very few events, 2 of the 3 largest trials indicated a small
+increased risk.
+ In WHI, 2.5% of participants who were taking 400 IU of vitamin D and 1000 mg of calcium
+daily developed kidney stones after 7 years, compared with 2.1% in the placebo group (HR, 1.17 [95% CI, 1.02-1.34]).
+VITAL found a similar effect size, although it was not statistically significant (HR, 1.12 [95% CI, 0.99-1.28]). After 5.3 years,
+3.7% of those who were taking 2000 IU/d of vitamin D developed kidney stones vs 3.3% of those in the placebo group.
+However, there was no significant association found in the D-Health study (incidence rate ratio, 1.03 [95% CI, 0.82-
+1.28]); 1.5% in the vitamin D group vs 1.4% in the placebo group). Two of the cohort studies
+ found an increased
+risk of kidney stones with use of 1000 IU/d or more of vitamin D after 20 to 26 years, compared with no vitamin D use,
+but only 1 of these findings was statistically significant.
+ There was no suggestion of increased risk with lower doses
+in either of these studies. The third cohort study, NHS-I,
+ found no association between any dose of vitamin D and
+kidney stones. No statistically significant group differences were identified among a wide array of nonserious harms.
+Calcium (Without Vitamin D)
+Harms of calcium were reported in 8 RCTs
+ (n = 12,961), and 1 cohort study (n = 121,700) (eTable 10
+in the JAMA Supplement).
+ Studies that reported the occurrence of any adverse events,
+ any serious adverse
+events,
+ and withdrawals due to adverse events
+ identified very few events and found no group differences.
+Constipation and gastrointestinal symptoms were generally increased with calcium use, but findings were
+statistically significant in only 3 studies.
+ Evidence from 5 trials suggested no increased risk of
+fractures.
+ The cohort study, NHS-I, included only women and reported an increased incidence of kidney
+stones for any calcium use compared with no calcium use, but no dose-response trend was identified.
+ Evidence
+on kidney stones from the trials was inconclusive due to the small numbers of events.
+This updated evidence review examined the use of vitamins and minerals for primary prevention of cardiovascular
+disease and cancer; the evidence is summarized in the Table. The findings from 84 RCTs and 6 cohort studies
+suggest that most vitamin and mineral supplements provide no clinically important protective effects for
+cardiovascular disease, cancer, or all-cause mortality in healthy adults without known nutritional deficiencies. One
+exception was a slightly lower risk of cancer incidence with multivitamin use. However, the evidence for
+multivitamins had important limitations, including only 3 adequately powered trials, 1 with a median of only 3.6 years
+of multivitamin use and another that was limited to antioxidants.
+Other than the new finding related to multivitamin use and lower cancer incidence, these conclusions are generally
+consistent with those of the previous review for the USPSTF on this topic.
+ Vitamin E had the strongest body of
+evidence demonstrating no benefit for outcomes relevant to this review. These updated review findings also confirm
+the previous review’s finding that beta carotene supplementation, especially with concomitant vitamin A use, likely
+increases the risk of lung cancer incidence, particularly in those at high risk for lung cancer. New evidence in this
+update was predominately for vitamin D supplementation. Despite the new inclusion of 32 RCTs and 2 cohort
+studies, pooled estimates for all-cause mortality were similar to that in the prior review with confidence intervals only
+slightly crossing 1 and point estimates suggesting at most a very small benefit.
+24,28,34-36,38-42,47,50,55,58,61,63-67,71-73,75,76,82,83,86,88-90
+94,97,98
+36,39,61,63,65,76,87,90
+28,40,50,83,86,90
+40,42,50,67,71,75,83,86,90
+75
+28,38-41,58,73
+97,98
+97
+94
+27,28,30,35,38,52,53,61
+94
+61
+28
+30,53
+27,35,52
+27,35,38,52,53
+94
+Discussion
+12
+
+[page 9]
+This review found minimal other recent synthesized evidence on the effect of multivitamin use, but another review
+concluded that observational studies suggest a possible lower breast cancer recurrence among breast cancer
+survivors using multivitamins.
+ The findings for vitamin D in the current review are generally consistent with those
+from other reviews, for example, pooled estimates in the range of 0.93 to 0.97 that may not be statistically significant
+for all-cause mortality.
+ In general, the statistical significance of an all-cause mortality benefit in pooled
+analyses is unstable, being sensitive to the number of included studies and which study aims are considered. For
+vitamin E, another review of primary prevention in adults concluded that vitamin E may reduce the risk of
+cardiovascular disease mortality.
+ The pooled analysis for cardiovascular disease mortality was not statistically
+significant in the current review, although the point estimate was in the direction of benefit (OR, 0.88 [95% CI, 0.74-
+1.04]). The point estimate in the other review was the same but was statistically significant (RR, 0.88 [95% CI, 0.80-
+0.96]).
+ The other review included studies of multivitamins that contained vitamin E in addition to vitamin E alone,
+in contrast to the meta-analysis in the current review, which was limited to intervention groups examining vitamin E
+alone. While this might indicate a relatively small effect that is detectable in only very large pooled analyses, the lack
+of association with all-cause mortality and cardiovascular disease events and the lack of statistical significance in the
+current review led to the conclusion that vitamin E most likely has little to no effect on cardiovascular disease
+mortality, although some uncertainty remains.
+A general limitation of literature included in this review is that the effects of individual micronutrients on human
+health are very difficult to detect in generally healthy populations with adequate nutrition. Supplement exposure is
+complicated by exposure to nutrients through dietary intake, and some studies reported fairly high levels of
+independent use of supplements among their study populations. There is variability in how individuals absorb and
+metabolize nutrients, and interactions among nutrients and between nutrients and myriad enzymes and hormones
+in the human body complicate the ability to detect their effects.
+There is a lack of information about whether broad-spectrum multivitamins (rather than antioxidant-focused
+formulations) prevent cardiovascular disease and cancer in general populations including both men and women.
+Other limitations of this evidence include insufficient information on the effect of vitamins and minerals in Black and
+Native American populations, in whom the burden of cardiovascular disease and cancer is known to be high;
+limitations or uncertainty about the quality of cancer and cardiovascular disease outcome data in studies that were
+not designed for these outcomes; and likely insufficient follow-up in most studies, since cardiovascular disease and
+cancer may take a decade or more to manifest.
+Limitations
+This review has several limitations. First, there may be other benefits of some supplements that were not covered in
+this review owing to its focus on cardiovascular disease and cancer prevention. For example, folic acid use in women
+who are pregnant or soon to be pregnant is known to be valuable for prevention of neural tube defects in their
+offspring.
+ Second, because of the focus on studies in predominantly healthy populations without known
+nutritional deficiencies, this review also did not cover therapeutic use of supplements in persons with physical
+symptoms, medical conditions, or nutritional deficits. Third, owing to the focus on serious harms, this review of
+nonserious harms is not comprehensive. The risks of high doses were not generally addressed here, but are
+comprehensively documented in an Institute of Medicine Report on dietary reference intakes that addresses setting
+tolerable upper limits.
+ However, studies with vitamin A and vitamin D doses above the recommended upper limit
+were included for consistency with the previous review. Fourth, because of the large number of analyses, there is the
+potential for false-positive findings due to chance. Fifth, there may be other doses, formulations, or supplement
+combinations that could be beneficial or less harmful for which the review did not have the data to explore.
+101
+102-104
+105
+105
+106
+107
+Conclusions
+
+[page 10]
+Vitamin and mineral supplementation was associated with little or no benefit in preventing cancer, cardiovascular
+disease, and death, with the exception of a small benefit for cancer incidence with multivitamin use. Beta carotene
+was associated with an increased risk of lung cancer and other harmful outcomes in persons at high risk of lung
+cancer.
+Source: This article was first published online in the Journal of the American Medical Association on June 21, 2022
+(JAMA. 2022;327(23):2334-2347. doi:10.1001/jama.2021.15650).
+Conflict of Interest Disclosures: None reported.
+Funding/Support: This research was funded under contract HHSA-290-2015-00007-I, Task Order 6, from the Agency
+for Healthcare Research and Quality (AHRQ), US Department of Health and Human Services, under a contract to
+support the US Preventive Services Task Force (USPSTF).
+Role of the Funder/Sponsor: Investigators worked with USPSTF members and AHRQ staff to develop the scope,
+analytic framework, and key questions for this review. AHRQ had no role in study selection, quality assessment, or
+synthesis. AHRQ staff provided project oversight, reviewed the report to ensure that the analysis met methodological
+standards, and distributed the draft for peer review. Otherwise, AHRQ had no role in the conduct of the study;
+collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the
+manuscript findings. The opinions expressed in this document are those of the authors and do not reflect the official
+position of AHRQ or the US Department of Health and Human Services.
+Additional Information: A draft version of this evidence report underwent external peer review from 5 content
+experts (Erin LeBlanc, MD, MPH, Kaiser Permanente Center for Health Research; Edward Giovannucci, MD, ScD,
+Harvard University; Stephanie Weinstein, PhD, National Cancer Institute; Catharine Ross, PhD, Penn State University;
+JoAnn Manson, MD, DrPH, MPH, Harvard University) and 2 federal partners, the National Heart, Lung, and Blood
+Institute and the National Cancer Institute. Comments were presented to the USPSTF during its deliberation of the
+evidence and were considered in preparing the final evidence review.
+1. Murphy SL, Xu J, Kochanek KD, Arias E, Tejada-Vera B. Deaths: final data for 2018. Natl Vital Stat Rep. 2021;69(13):1-83.
+2. Koene RJ, Prizment AE, Blaes A, Konety SH. Shared risk factors in cardiovascular disease and cancer. Circulation.
+2016;133(11):1104-1114. doi:10.1161/CIRCULATIONAHA.115.020406
+3. Homocysteine Studies Collaboration. Homocysteine and risk of ischemic heart disease and stroke: ameta-analysis.
+JAMA. 2002;288(16):2015-2022. doi:10.1001/jama.288.16.2015
+4. Zhang D, Wen X, Wu W, Guo Y, Cui W. Elevated homocysteine level and folate deficiency associated with increased
+overall risk of carcinogenesis: meta-analysis of 83 case-control studies involving 35,758 individuals. PLoS One.
+2015;10(5):e0123423 doi:10.1371/journal.pone.0123423
+5. Danik JS, Manson JE. Vitamin D and cardiovascular disease. Curr Treat Options Cardiovasc Med. 2012;14(4):414-424.
+doi:10.1007/s11936-012-0183-8
+6. Huang J, Weinstein SJ, Yu K, Männistö S, Albanes D. Relationship between serum alpha-tocopherol and overall and
+cause-specific mortality. Circ Res. 2019;125(1):29-40. doi:10.1161/CIRCRESAHA.119.314944
+7. Cowan AE, Jun S, Gahche JJ, et al. Dietary supplement use differs by socioeconomic and health-related
+characteristics among US adults, NHANES 2011-2014. Nutrients. 2018;10(8):E1114. doi:10.3390/nu10081114
+8. Moyer VA; US Preventive Services Task Force. Vitamin, mineral, and multivitamin supplements for the primary
+prevention of cardiovascular disease and cancer: US Preventive Services Task Force recommendation statement. Ann
+Intern Med. 2014;160(8):558-564. doi:10.7326/M14-0198
+Article Information
+References
+
+[page 11]
+9. US Preventive Services Task Force. US Preventive Services Task Force Procedure Manual. Published May 2021.
+https://www. uspreventiveservicestaskforce.org/uspstf/about-uspstf/methods-and-processes/procedure-manual
+10. US Preventive Services Task Force. Final research plan: vitamin, mineral, and multivitamin supplementation to
+prevent cardiovascular disease and cancer. Published 2019. Accessed May 9, 2022.
+https://www.uspreventiveservicestaskforce.org/uspstf/document/final-research-plan/vitamin-supplementation-to-
+prevent-cvd-and-cancer-preventive-medication
+11. O’Connor EA, Evans CV, Ivlev I, et al. Vitamin, Mineral, and Multivitamin Supplements for the Primary Prevention of
+Cardiovascular Disease and Cancer: A Systematic Evidence Review for the US Preventive Services Task Force.
+Evidence Synthesis No. 209. Agency for Healthcare Research and Quality; 2022. AHRQ publication 21-05278-EF-1.
+12. Fortmann SP, Burda BU, Senger CA, et al. Vitamin, Mineral, and Multivitamin Supplements for the Primary
+Prevention of Cardiovascular Disease and Cancer: A Systematic Evidence Review for the US Preventive Services Task
+Force. Agency for Healthcare Research and Quality; 2013.
+13. United Nations Development Programme. Human Development Report 2016: Human Development for Everyone.
+United Nations Development Programme; 2016.
+14. Hartung J, Knapp G. A refined method for the meta-analysis of controlled clinical trials with binary outcome. Stat
+Med. 2001;20(24):3875-3889. doi:10.1002/sim.1009
+15. DerSimonian R, Kacker R. Random-effects model for meta-analysis of clinical trials: an update. Contemp Clin Trials.
+2007;28(2):105-114. doi:10.1016/j.cct.2006.04.004
+16. Hercberg S, Galan P, Preziosi P, et al. The SU.VI.MAX study: a randomized, placebo-controlled trial of the health
+effects of antioxidant vitamins and minerals. Arch Intern Med. 2004;164(21):2335-2342. doi:10.1001/archinte.164.21.2335
+17. Green A, Williams G, Neale R, et al. Daily sunscreen application and beta carotene supplementation in prevention
+of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet. 1999;354(9180):723-729.
+doi:10.1016/S0140-6736(98)12168-2
+18. Lee IM, Cook NR, Gaziano JM, et al. Vitamin E in the primary prevention of cardiovascular disease and cancer:
+theWomen’s Health Study: a randomized controlled trial. JAMA. 2005;294(1):56-65. doi:10.1001/jama.294.1.56
+19. Omenn GS, Goodman GE, ThornquistMD, et al. Effects of a combination of beta carotene and vitamin A on lung
+cancer and cardiovascular disease. N Engl J Med. 1996;334(18):1150-1155. doi:10.1056/NEJM199605023341802
+20. Hennekens CH, Buring JE, Manson JE, et al. Lack of effect of long-term supplementation with beta carotene on
+the incidence of malignant neoplasms and cardiovascular disease. N Engl J Med. 1996;334(18):1145-1149.
+doi:10.1056/NEJM199605023341801
+21. Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group. The effect of vitamin E and beta carotene on
+the incidence of lung cancer and other cancers in male smokers. N Engl J Med. 1994;330(15):1029-1035.
+doi:10.1056/NEJM199404143301501
+22. Salonen JT, Nyyssönen K, Salonen R, et al. Antioxidant Supplementation in Atherosclerosis Prevention (ASAP)
+study: a randomized trial of the effect of vitamins E and C on 3-year progression of carotid atherosclerosis. J Intern
+Med. 2000;248(5):377-386. doi:10.1046/j.1365-2796.2000.00752.x
+23. Clark LC, Combs GF Jr, Turnbull BW, et al; Nutritional Prevention of Cancer Study Group. Effects of selenium
+supplementation for cancer prevention in patients with carcinoma of the skin: a randomized controlled trial. JAMA.
+1996;276(24):1957-1963. doi:10.1001/jama.1996.03540240035027
+24. Wactawski-Wende J, Kotchen JM, Anderson GL, et al; Women’s Health Initiative Investigators. Calcium plus
+vitamin D supplementation and the risk of colorectal cancer. N Engl J Med. 2006;354(7):684-696.
+doi:10.1056/NEJMoa055222
+25. Lippman SM, Klein EA, Goodman PJ, et al. Effect of selenium and vitamin E on risk of prostate cancer and other
+cancers: the Selenium and Vitamin E Cancer Prevention Trial (SELECT). JAMA. 2009;301(1):39-51.
+doi:10.1001/jama.2008.864
+26. Sesso HD, Buring JE, Christen WG, et al. Vitamins E and C in the prevention of cardiovascular disease in men: the
+Physicians’ Health Study II randomized controlled trial. JAMA. 2008;300(18):2123-2133. doi:10.1001/jama.2008.600
+27. Bolland MJ, Barber PA, Doughty RN, et al. Vascular events in healthy older women receiving calcium
+supplementation: randomised controlled trial. BMJ. 2008;336(7638):262-266. doi:10.1136/bmj.39440.525752.BE
+28. Lappe JM, Travers-Gustafson D, Davies KM, Recker RR, Heaney RP. Vitamin D and calcium supplementation
+reduces cancer risk: results of a randomized trial. Am J Clin Nutr. 2007;85(6):1586-1591. doi:10.1093/ajcn/85.6.1586
+29. Cole BF, Baron JA, Sandler RS, et al; Polyp Prevention Study Group. Folic acid for the prevention of colorectal
+
+[page 12]
+adenomas: a randomized clinical trial. JAMA. 2007;297(21):2351-2359. doi:10.1001/jama.297.21.2351
+30. Baron JA, Beach M, Wallace K, et al. Risk of prostate cancer in a randomized clinical trial of calcium
+supplementation. Cancer Epidemiol Biomarkers Prev. 2005;14(3):586-589. doi:10.1158/1055-9965.EPI-04-0319
+31. Chylack LT Jr, Brown NP, Bron A, et al. The Roche European American Cataract Trial (REACT): a randomized clinical
+trial to investigate the efficacy of an oral antioxidant micronutrient mixture to slow progression of age-related
+cataract. Ophthalmic Epidemiol. 2002;9(1):49-80. doi:10.1076/opep.9.1.49.1717
+32. Greenberg ER, Baron JA, Stukel TA, et al; Skin Cancer Prevention Study Group. A clinical trial of beta carotene to
+prevent basal-cell and squamous-cell cancers of the skin. N Engl J Med. 1990;323(12):789-795.
+doi:10.1056/NEJM199009203231204
+33. Moon TE, Levine N, Cartmel B, et al; Southwest Skin Cancer Prevention Study Group. Effect of retinol in preventing
+squamous cell skin cancer in moderate-risk subjects: a randomized, double-blind, controlled trial. Cancer Epidemiol
+Biomarkers Prev. 1997;6(11):949-956.
+34. Trivedi DP, Doll R, Khaw KT. Effect of four monthly oral vitamin D  (cholecalciferol) supplementation on fractures
+and mortality in men and women living in the community: randomised double blind controlled trial. BMJ.
+2003;326(7387):469. doi:10.1136/bmj.326.7387.469
+35. Avenell A, MacLennan GS, Jenkinson DJ, et al; RECORD Trial Group. Long-term follow-up for mortality and cancer
+in a randomized placebo-controlled trial of vitamin D(3) and/or calcium (RECORD trial). J Clin Endocrinol Metab.
+2012;97(2):614-622. doi:10.1210/jc.2011-1309
+36. Dean AJ, Bellgrove MA, Hall T, et al. Effects of vitamin D supplementation on cognitive and emotional functioning
+in young adults—a randomised controlled trial. PLoS One. 2011;6(11):e25966. doi:10.1371/journal.pone.0025966
+37. Rayman MP, Blundell-Pound G, Pastor-Barriuso R, Guallar E, Steinbrenner H, Stranges S. A randomized trial of
+selenium supplementation and risk of type-2 diabetes, as assessed by plasma adiponectin. PLoS One.
+2012;7(9):e45269. doi:10.1371/journal.pone.0045269
+38. Baron JA, Barry EL, Mott LA, et al. A trial of calcium and vitamin D for the prevention of colorectal adenomas. N
+Engl J Med. 2015;373(16):1519-1530. doi:10.1056/NEJMoa1500409
+39. Scragg R, Stewart AW, Waayer D, et al. Effect of monthly high-dose vitamin D supplementation on cardiovascular
+disease in the Vitamin D Assessment Study : a randomized clinical trial. JAMA Cardiol. 2017;2(6):608-616.
+doi:10.1001/jamacardio.2017.0175
+40. Lappe J,Watson P, Travers-Gustafson D, et al. Effect of vitamin D and calcium supplementation on cancer
+incidence in older women: a randomized clinical trial. JAMA. 2017;317(12):1234-1243. doi:10.1001/jama.2017.2115
+41. Manson JE, Cook NR, Lee IM, et al; VITAL Research Group. Vitamin D supplements and prevention of cancer and
+cardiovascular disease. N Engl J Med. 2019;380(1):33-44. doi:10.1056/NEJMoa1809944
+42. Brisson J, Bérubé S, Diorio C, et al. A randomized double-blind placebo-controlled trial of the effect of vitamin D
+supplementation on breast density in premenopausal women. Cancer Epidemiol Biomarkers Prev. 2017;26(8):1233-
+1241. doi:10.1158/1055-9965.EPI-17-0249
+43. Bonelli L, Puntoni M, Gatteschi B, et al. Antioxidant supplement and long-term reduction of recurrent adenomas
+of the large bowel: a double-blind randomized trial. J Gastroenterol. 2013;48(6):698-705. doi:10.1007/s00535-012-0691-z
+44. van Wijngaarden JP, Swart KM, Enneman AW, et al. Effect of daily vitamin B-12 and folic acid supplementation on
+fracture incidence in elderly individuals with an elevated plasma homocysteine concentration: B-PROOF, a
+randomized controlled trial. Am J Clin Nutr. 2014;100(6):1578-1586. doi:10.3945/ajcn.114.090043
+45. Rayman MP, Winther KH, Pastor-Barriuso R, et al. Effect of long-term selenium supplementation on mortality:
+results from a multiple-dose, randomised controlled trial. Free Radic Biol Med. 2018;127:46-54.
+doi:10.1016/j.freeradbiomed.2018.02.015
+46. Thompson PA, Ashbeck EL, Roe DJ, et al. Selenium supplementation for prevention of colorectal adenomas and
+risk of associated type 2 diabetes. J Natl Cancer Inst. 2016;108(12):djw152. doi:10.1093/jnci/djw152
+47. Witham MD, Ireland S, Houston JG, et al. Vitamin D therapy to reduce blood pressure and left ventricular
+hypertrophy in resistant hypertension: randomized, controlled trial. Hypertension. 2014;63(4):706-712.
+doi:10.1161/HYPERTENSIONAHA.113. 02177
+48. Rucklidge JJ, Frampton CM, Gorman B, Boggis A. Vitamin-mineral treatment of attention-deficit hyperactivity
+disorder in adults: double-blind randomised placebo-controlled trial. Br J Psychiatry. 2014;204:306-315.
+doi:10.1192/bjp.bp.113.132126
+49. Chen AC, Martin AJ, Choy B, et al. A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention. N
+3
+3
+
+[page 13]
+Engl J Med. 2015;373(17):1618-1626. doi:10.1056/NEJMoa1506197
+50. Aloia J, Fazzari M, Islam S, et al. Vitamin D supplementation in elderly black women does not prevent bone loss: a
+randomized controlled trial. J Bone Miner Res. 2018;33(11):1916-1922. doi:10.1002/jbmr.3521
+51. de Gaetano G; Collaborative Group of the Primary Prevention Project. Low-dose aspirin and vitamin E in people at
+cardiovascular risk: a randomised trial in general practice. Lancet. 2001;357(9250):89-95. doi:10.1016/S0140-6736(00)
+03539-X
+52. Lewis JR, Calver J, Zhu K, Flicker L, Prince RL. Calcium supplementation and the risks of atherosclerotic vascular
+disease in older women: results of a 5-year RCT and a 4.5-year follow-up. J Bone Miner Res. 2011;26(1):35-41.
+doi:10.1002/jbmr.176
+53. Reid IR, Ames R, Mason B, et al. Randomized controlled trial of calcium supplementation in healthy,
+nonosteoporotic, older men. Arch Intern Med. 2008;168(20):2276-2282. doi:10.1001/archinte.168.20.2276
+54. Avenell A, Campbell MK, Cook JA, et al. Effect of multivitamin and multimineral supplements on morbidity from
+infections in older people (MAVIS trial): pragmatic, randomised, double blind, placebo controlled trial. BMJ.
+2005;331(7512):324-329. doi:10.1136/bmj.331.7512.324
+55. Toss G, Magnusson P. Is a daily supplementation with 40 microgram vitamin D  sufficient? a randomised
+controlled trial. Eur J Nutr. 2012;51(8):939-945. doi:10.1007/s00394-011-0271-7
+56. Logan RF, Grainge MJ, Shepherd VC, Armitage NC, Muir KR; ukCAP Trial Group. Aspirin and folic acid for the
+prevention of recurrent colorectal adenomas. Gastroenterology. 2008;134(1):29-38. doi:10.1053/j.gastro.2007.10.014
+57. Wu K, Platz EA, Willett WC, et al. A randomized trial on folic acid supplementation and risk of recurrent colorectal
+adenoma. Am J Clin Nutr. 2009;90(6):1623-1631. doi:10.3945/ajcn.2009.28319
+58. Dawson-Hughes B, Dallal GE, Krall EA, Harris S, Sokoll LJ, Falconer G. Effect of vitamin D supplementation on
+wintertime and overall bone loss in healthy postmenopausal women. Ann Intern Med. 1991;115(7):505-512.
+doi:10.7326/0003-4819-115-7-505
+59. Lips P, Graafmans WC, Ooms ME, Bezemer PD, Bouter LM. Vitamin D supplementation and fracture incidence in
+elderly persons: a randomized, placebo-controlled clinical trial. Ann Intern Med. 1996;124(4):400-406. doi:10.7326/0003-
+4819-124- 4-199602150-00003
+60. Komulainen M, Kröger H, Tuppurainen MT, et al. Prevention of femoral and lumbar bone loss with hormone
+replacement therapy and vitamin D  in early postmenopausal women: a population-based 5-year randomized trial. J
+Clin Endocrinol Metab. 1999;84(2):546-552. doi:10.1210/jc.84.2.546
+61. Fedirko V, Bostick RM, Flanders WD, et al. Effects of vitamin D and calcium supplementation on markers of
+apoptosis in normal colon mucosa: a randomized, double-blind, placebo-controlled clinical trial. Cancer Prev Res
+(Phila). 2009;2(3):213-223. doi:10.1158/1940-6207.CAPR-08-0157
+62. Zittermann A, Frisch S, Berthold HK, et al. Vitamin D supplementation enhances the beneficial effects of weight
+loss on cardiovascular disease risk markers. Am J Clin Nutr. 2009;89(5):1321-1327. doi:10.3945/ajcn.2008.27004
+63. Sanders KM, Stuart AL, Williamson EJ, et al. Annual high-dose oral vitamin D and falls and fractures in older
+women: a randomized controlled trial. JAMA. 2010;303(18):1815-1822. doi:10.1001/jama.2010.594
+64. Glendenning P, Zhu K, Inderjeeth C, Howat P, Lewis JR, Prince RL. Effects of three-monthly oral 150,000 IU
+cholecalciferol supplementation on falls, mobility, and muscle strength in older postmenopausal women: a
+randomized controlled trial. J Bone Miner Res. 2012;27(1):170-176. doi:10.1002/jbmr.524
+65. Kenny AM, Biskup B, Robbins B, Marcella G, Burleson JA. Effects of vitamin D supplementation on strength,
+physical function, and health perception in older, community-dwelling men. J Am Geriatr Soc. 2003;51(12):1762-1767.
+doi:10.1046/j.1532-5415.2003.51561.x
+66. Murdoch DR, Slow S, Chambers ST, et al. Effect of vitamin D  supplementation on upper respiratory tract
+infections in healthy adults: the VIDARIS randomized controlled trial. JAMA. 2012;308(13):1333-1339.
+doi:10.1001/jama.2012.12505
+67. Wood AD, Secombes KR, Thies F, et al. Vitamin D  supplementation has no effect on conventional cardiovascular
+risk factors: a parallel-group, double-blind, placebo-controlled RCT. J Clin Endocrinol Metab. 2012;97(10):3557-3568.
+doi:10.1210/jc.2012-2126
+68. Uusi-Rasi K, Patil R, Karinkanta S, et al. Exercise and vitamin D in fall prevention among older women: a
+randomized clinical trial. JAMA Intern Med. 2015;175(5):703-711. doi:10.1001/jamainternmed.2015.0225
+69. Grady D, Halloran B, Cummings S, et al. 1,25-Dihydroxyvitamin D  and muscle strength in the elderly: a
+randomized controlled trial. J Clin Endocrinol Metab. 1991;73(5):1111-1117. doi:10.1210/jcem-73-5-1111
+3
+3
+3
+3
+3
+
+[page 14]
+70. Pike J, Chandra RK. Effect of vitamin and trace element supplementation on immune indices in healthy elderly.
+Int J Vitam Nutr Res. 1995;65(2):117- 121.
+71. Dawson-Hughes B, Harris SS, Krall EA, Dallal GE. Effect of calcium and vitamin D supplementation on bone
+density in men and women 65 years of age or older. N Engl J Med. 1997;337(10):670-676.
+doi:10.1056/NEJM199709043371003
+72. Baeksgaard L, Andersen KP, Hyldstrup L. Calcium and vitamin D supplementation increases spinal BMD in
+healthy, postmenopausal women. Osteoporos Int. 1998;8(3):255-260. doi:10.1007/s001980050062
+73. Gallagher JC, Fowler SE, Detter JR, Sherman SS. Combination treatment with estrogen and calcitriol in the
+prevention of age-related bone loss. J Clin Endocrinol Metab. 2001;86(8):3618-3628. doi:10.1210/jcem.86.8.7703
+74. Hodis HN, MackWJ, LaBree L, et al; VEAPS Research Group. Alpha-tocopherol supplementation in healthy
+individuals reduces low-density lipoprotein oxidation but not atherosclerosis: the Vitamin E Atherosclerosis
+Prevention Study (VEAPS). Circulation. 2002;106
+(12):1453-1459. doi:10.1161/01.CIR.0000029092.99946.08
+75. Cooper L, Clifton-Bligh PB, Nery ML, et al. Vitamin D supplementation and bone mineral density in early
+postmenopausal women. Am J Clin Nutr. 2003;77(5):1324-1329. doi:10.1093/ajcn/77.5.1324
+76. Dukas L, Bischoff HA, Lindpaintner LS, et al. Alfacalcidol reduces the number of fallers in a community-dwelling
+elderly population with a minimum calcium intake of more than 500 mg daily. J Am Geriatr Soc. 2004;52(2):230-236.
+doi:10.1111/j.1532-5415.2004.52060.x
+77. McNeil JJ, Robman L, Tikellis G, Sinclair MI, McCarty CA, Taylor HR. Vitamin E supplementation and cataract:
+randomized controlled trial. Ophthalmology. 2004;111(1):75-84. doi:10.1016/j.ophtha.2003.04.009
+78. Aloia JF, Talwar SA, Pollack S, Yeh J. A randomized controlled trial of vitamin D  supplementation in African
+American women. Arch Intern Med. 2005;165(14):1618-1623. doi:10.1001/archinte.165.14.1618
+79. Magliano D, McNeil J, Branley P, et al. The Melbourne Atherosclerosis Vitamin E Trial (MAVET): a study of high dose
+vitamin E in smokers. Eur J Cardiovasc Prev Rehabil. 2006;13(3):341-347. doi:10.1097/00149831-200606000-00008
+80. Durga J, van Boxtel MP, Schouten EG, et al. Effect of 3-year folic acid supplementation on cognitive function in
+older adults in the FACIT trial: a randomised, double blind, controlled trial. Lancet. 2007;369(9557):208-216.
+doi:10.1016/S0140-6736(07)60109-3
+81. Maraini G, Williams SL, Sperduto RD, et al; Clinical Trial of Nutritional Supplements and Age-Related Cataract
+Study Group. A randomized, double-masked, placebo-controlled clinical trial of multivitamin supplementation for
+age-related lens opacities: clinical trial of nutritional supplements and age-related cataract report no. 3.
+Ophthalmology. 2008;115(4):599-607. doi:10.1016/j.ophtha.2008.01.005
+82. Salovaara K, Tuppurainen M, Kärkkäinen M, et al. Effect of vitamin D(3) and calcium on fracture risk in 65- to 71-
+year-old women: a populationbased 3-year randomized, controlled trial—the OSTPRE-FPS. J Bone Miner Res.
+2010;25(7):1487-1495. doi:10.1002/jbmr.48
+83. Pittas AG, Dawson-Hughes B, Sheehan P, et al; D2d Research Group. Vitamin D supplementation and prevention
+of type 2 diabetes. N Engl J Med. 2019;381(6):520-530. doi:10.1056/NEJMoa1900906
+84. Alonso A, Chen LY, Rudser KD, Norby FL, RooneyMR, Lutsey PL. Effect of magnesium supplementation on
+circulating biomarkers of cardiovascular disease. Nutrients. 2020;12(6):1697. doi:10.3390/nu12061697
+85. Hemilä H, Haukka J, Alho M, Vahtera J, Kivimäki M. Zinc acetate lozenges for the treatment of the common cold: a
+randomised controlled trial. BMJ Open. 2020;10(1):e031662. doi:10.1136/bmjopen-2019-031662
+86. Rake C, Gilham C, Bukasa L, et al. High-dose oral vitamin D supplementation and mortality in people aged 65-84
+years: the VIDAL cluster feasibility RCT of open versus double-blind individual randomisation. Health Technol Assess.
+2020;24(10):1-54. doi:10.3310/hta24100
+87. Bischoff-Ferrari HA, Vellas B, Rizzoli R, et al; DO-HEALTH Research Group. Effect of vitamin D supplementation,
+omega-3 fatty acid supplementation, or a strength-training exercise program on clinical outcomes in older adults:
+the DO-HEALTH randomized clinical trial. JAMA. 2020;324(18):1855-1868. doi:10.1001/jama.2020.16909
+88. Wood ME, Liu H, Storrick E, et al. The influence of vitamin D on mammographic density: results from CALGB
+70806 (Alliance) a randomized clinical trial. Cancer Prev Res (Phila). 2021;14(7):753-762. doi:10.1158/1940-6207.CAPR-20-
+0581
+89. Virtanen JK, Nurmi T, Aro A, et al. Vitamin D supplementation and prevention of cardiovascular disease and
+cancer in the Finnish Vitamin D Trial—a randomized controlled trial. Am J Clin Nutr. Published online January 4, 2022.
+doi:10.1093/ajcn/nqab419
+3
+
+[page 15]
+90. Neale RE, Baxter C, Romero BD, et al. The D-Health trial: a randomised controlled trial of the effect of vitamin D on
+mortality. Lancet Diabetes Endocrinol. 2022;10(2):120-128. doi:10.1016/S2213-8587(21)00345-4
+91. Schutten JC, Joris PJ, Minović I, et al. Long-term magnesium supplementation improves glucocorticoid
+metabolism: a post-hoc analysis of an intervention trial. Clin Endocrinol (Oxf). 2021;94(2):150-157. doi:10.1111/cen.14350
+92. Coelho C, Witt SA, Ji H, Hansen MR, Gantz B, Tyler R. Zinc to treat tinnitus in the elderly: a randomized placebo
+controlled crossover trial. Otol Neurotol. 2013;34(6):1146-1154. doi:10.1097/MAO.0b013e31827e609e
+93. Sesso HD, Rist PM, Aragaki AK, et al; COSMOS Research Group. Multivitamins in the prevention of cancer and
+cardiovascular disease: The COSMOS randomized clinical trial. Am J Clin Nutr. 2022;nqac056. Published online March
+16, 2022. doi:10.1093/ajcn/nqac056
+94. Feskanich D, Singh V, Willett WC, Colditz GA. Vitamin A intake and hip fractures among postmenopausal women.
+JAMA. 2002;287(1):47-54. doi:10.1001/jama.287.1.47
+95. Lim LS, Harnack LJ, Lazovich D, Folsom AR. Vitamin A intake and the risk of hip fracture in postmenopausal
+women: the Iowa Women’s Health Study. Osteoporos Int. 2004;15(7):552-559. doi:10.1007/s00198-003-1577-y
+96. Zheng Selin J, Rautiainen S, Lindblad BE, Morgenstern R, Wolk A. High-dose supplements of vitamins C and E,
+low-dose multivitamins, and the risk of age-related cataract: a population-based prospective cohort study of men.
+Am J Epidemiol. 2013;177(6):548-555. doi:10.1093/aje/kws279
+97. Ferraro PM, Taylor EN, Gambaro G, Curhan GC. Vitamin D intake and the risk of incident kidney stones. J Urol.
+2017;197(2):405-410. doi:10.1016/j.juro.2016.08.084
+98. Taylor EN, Stampfer MJ, Curhan GC. Dietary factors and the risk of incident kidney stones in men: new insights
+after 14 years of follow-up. J Am Soc Nephrol. 2004;15(12):3225-3232. doi:10.1097/01.ASN.0000146012.44570.20
+99. Rautiainen S, Lindblad BE, Morgenstern R, Wolk A. Vitamin C supplements and the risk of age-related cataract: a
+population-based prospective cohort study in women. Am J Clin Nutr. 2010;91(2):487-493. doi:10.3945/ajcn.2009.28528
+100. Agarwal A, Vishnu V, Sharma J, et al. Citicoline in acute ischemic stroke: a randomized controlled trial (CAISR). Eur
+Stroke J. 2021;6(1)(suppl):298.
+101. Kanellopoulou A, Riza E, Samoli E, Benetou V. Dietary supplement use after cancer diagnosis in relation to total
+mortality, cancer mortality and recurrence: a systematic review and meta-analysis. Nutr Cancer. 2021;73(1):16-30.
+doi:10.1080/01635581.2020.1734215
+102. Allan GM, Cranston L, Lindblad A, et al. Vitamin D: a narrative review examining the evidence for ten beliefs. J Gen
+Intern Med. 2016;31(7):780-791. doi:10.1007/s11606-016-3645-y
+103. Bjelakovic G, Gluud LL, Nikolova D, et al. Vitamin D supplementation for prevention of mortality in adults.
+Cochrane Database Syst Rev. 2014;(1):CD007470. doi:10.1002/14651858.CD007470.pub3
+104. Kahwati LC, LeBlanc E,Weber RP, et al. Screening for vitamin D deficiency in adults: updated evidence report and
+systematic review for the US Preventive Services Task Force. JAMA. 2021;325(14):1443-1463.
+105. Schwingshackl L, Boeing H, Stelmach-Mardas M, et al. Dietary supplements and risk of cause-specific death,
+cardiovascular disease, and cancer: a systematic review and meta-analysis of primary prevention trials. Adv Nutr.
+2017;8(1):27-39. doi:10.3945/an.116.013516
+106. Viswanathan M, Treiman KA, Doto JK, Middleton JC, Coker-Schwimmer EJL, Nicholson WK. Folic Acid
+Supplementation: An Evidence Review for the US Preventive Services Task Force. Agency for Healthcare Research
+and Quality; 2017.
+107. Institute of Medicine. Dietary Reference Intakes: The Essential Guide to Nutrient Requirements. National
+Academies Press; 2006.
+Figure 1. Analytic Framework: Vitamin and Mineral Supplements for Primary Prevention of Cardiovascular
+Disease and Cancer
+
+[page 16]
+Evidence reviews for the US Preventive Services Task Force (USPSTF) use an analytic framework to visually display the
+key questions that the review will address to allow the USPSTF to evaluate the effectiveness and safety of a
+preventive service. The questions are depicted by linkages that relate interventions and outcomes. For additional
+information see the USPSTF Procedure Manual.
+ Reasons for exclusion: Intervention relevance: Study used an excluded intervention. Outcomes: Study did not report
+relevant outcomes. Design: Study did not use an included design. Setting: Study not conducted in a country relevant
+to US practice. Population: Study not conducted in community-dwelling adults without chronic disease and without
+nutritional deficiencies. Language: Not available in English. Publication type: Conference abstract. Study relevance:
+Study aim not relevant. Harms study design: Short-term nonserious harms reported, but lack of evidence of benefit.
+High dose: Supplement dose greater than the tolerable upper intake level as determined by the National Academies
+9
+Figure 2. Literature Search Flow Diagram: Vitamin and Mineral Supplements for Primary Prevention of
+Cardiovascular Disease and Cancer
+a
+
+[page 17]
+of Sciences, Engineering, and Medicine Food and Nutrition Board. Quality: Study did not meet criteria for fair or good
+quality.
+ Studies could be included for more than 1 key question (KQ).
+Mantel-Haenszel fixed-effects model used unless otherwise specified. Percent with an event is calculated as the
+weighted mean percent with an event across the studies included in the analysis, weighted by the number of
+participants analyzed in the relevant group for each study. Results do not correspond directly to pooled odds ratios
+(ORs) because weighting in meta-analysis models differs from this approach.
+ Restricted maximum likelihood model with the Knapp-Hartung (REML-KH) correction used.
+ Evidence shown is a hazard ratio from a single study, PHS-II. PHS-II provided the number of cardiovascular disease
+(CVD) events rather than the number of persons experiencing a CVD event, so the percentage of participants with an
+event was not calculable.
+ The Peto OR was used with REML-KH correction.
+ Evidence shown is from a single study, SKICAP (Skin Cancer Prevention).
+Studies
+Summary of findings
+Consistency and
+precision
+Other
+Limitations
+Strength of evidence
+Applicabili
+b
+Figure 3. Summary of Meta-Analysis Results or Best Evidence for Primary Key Question 1 and Key Question 3
+Outcomes
+a
+b
+c
+d
+Table. Summary of Evidence
+
+[page 18]
+KQ1: Benefits
+Multivitamin:
+   9 RCTs (n =
+51,945
+observations)
+Evidence suggested
+a possible small
+benefit for cancer
+but small to no
+benefit for all-cause
+mortality or CVD
+Pooled results
+reflected the findings
+of 3 large good-
+quality trials with
+CVD and cancer aims
+that provided most of
+the evidence
+Pooled results
+included:
+   All-cause mortality:
+OR, 0.94 (95% CI,
+0.87-1.01); 9 RCTs (n =
+51,550)
+   CVD mortality: OR,
+0.94 (95% CI, 0.83-
+1.06); 4 RCTs (n =
+37,400)
+   Any cancer
+incidence: OR, 0.93
+(95% CI, 0.87-0.99); 4
+RCTs (n = 48,859)
+   Lung cancer
+incidence: OR, 0.75
+(95% CI, 0.58-0.95); 2
+RCTs (n = 36,052)
+All-cause, CVD, and
+cancer-specific
+mortality, cancer
+incidence: reasonably
+consistent,
+reasonably precise
+Other CVD outcomes:
+reasonably consistent
+or NA, reasonably
+precise
+Site-specific cancers:
+reasonably
+consistent,
+inconsistent, or NA;
+imprecise
+Specific
+formulations
+differed widely
+and included
+both broad-
+spectrum and
+antioxidant-
+focused
+supplements
+Two of the
+main trials had
+background
+interventions
+in factorial
+study designs
+All-cause mortality: low
+for small to no benefit
+CVD: low for no benefit
+Cancer incidence: low
+for small benefit
+Most studi
+were
+conducted
+outside the
+US,
+including 1
+of the 3
+main trials
+the other
+main trial
+was limited
+to male
+physicians
+KQ2: Harms
+Multivitamin:
+   9 RCTs (n =
+51,614
+observations)
+   3
+Prospective
+cohort
+studies (n =
+188,027
+observations)
+No evidence of
+increased risk of
+serious adverse
+events, but few
+events
+Small increases in
+cataracts reported by
+cohort studies were
+not statistically
+significant and were
+not examined in any
+of the trials
+A large trial found
+small increased risk
+of rash and epistaxis
+Cataracts: consistent,
+imprecise
+Other serious adverse
+events: consistency
+NA, imprecise
+Rash and epistaxis:
+consistency NA,
+reasonably precise
+Cataracts, hip
+fractures:
+evidence
+limited to
+observational
+studies,
+supplement
+use was self-
+reported
+Low for increased risk of
+rash, epistaxis,
+insufficient for other
+harms
+Most studi
+were
+conducted
+outside the
+US,
+including 1
+of the 3
+main trials
+the other
+main trial
+was limited
+to male
+physicians
+
+[page 19]
+KQ3: Benefits
+Beta
+carotene:
+   6 RCTs (n =
+112,820
+observations)
+Vitamin A:
+   2 RCTs (n =
+20,611
+observations
+Pooled estimates for
+several outcomes
+showed statistically
+significant
+paradoxical harm
+associated with beta
+carotene use, for
+example:
+   All-cause mortality:
+OR, 1.06 (95% CI, 1.00-
+1.12); 6 RCTs (n =
+112,820)
+   All-cause mortality,
+including vitamin A
+study (Skin Cancer
+Prevention [SKICAP]):
+OR, 1.06 (95% CI, 1.01-
+1.12); 7 RCTs (n =
+115,117)
+   CVD mortality: OR,
+1.10 (95% CI, 1.02-1.19);
+5 RCTs (n = 95,506);
+range in ARD, −0.8%
+to 0.8%
+   Lung cancer: OR,
+1.20 (95% CI, 1.01-1.42);
+4 RCTs (n = 94,830);
+range in ARD, −0.1%
+to 0.6%
+Pooled estimates for
+all cancer mortality,
+any cancer incidence,
+colorectal, breast,
+and prostate cancer
+showed no
+statistically
+significant
+differences in risk
+associated with beta
+carotene use; there
+were no differences
+in composite CVD
+events in 2 reporting
+trials
+Vitamin A had no
+significant
+association with all-
+cause mortality
+All-cause mortality:
+reasonably
+consistent, precise for
+increased risk for
+beta carotene with or
+without vitamin A
+CVD mortality:
+reasonably
+consistent, precise for
+increased risk for
+beta carotene
+Lung cancer:
+reasonably
+consistent, precise for
+increased risk
+Any cancers and
+other site-specific
+cancers: consistent
+and imprecise for no
+difference
+Variation in
+study dose and
+duration
+Combined
+supplement
+use in CARET
+and varied
+background
+interventions
+in almost all
+other trials
+Multiple
+comparisons
+and outcomes
+examined in a
+body of
+literature with
+different
+primary aims
+All-cause mortality:
+moderate for small
+increased risk for beta
+carotene with or
+without vitamin A
+Low for no increased
+risk with vitamin A
+alone
+CVD mortality:
+moderate for a small
+increased risk for beta
+carotene
+CVD events: low for no
+association for beta
+carotene
+Lung cancer: moderate
+for an increased risk for
+beta carotene
+Any cancer and other
+site-specific cancers:
+low for no difference for
+beta carotene
+Most studi
+of beta
+carotene
+and vitami
+A conducte
+in the US,
+but
+participant
+were
+primarily
+White
+Included
+general ris
+samples as
+well as tho
+limited to
+persons at
+increased
+risk for lun
+cancer due
+to smoking
+status or
+asbestos
+exposure
+Vitamin A
+doses abov
+the curren
+upper limit
+in all trials
+evaluating
+vitamin A
+
+[page 20]
+Vitamin E:
+   9 RCTs (n =
+116,468
+observations)
+Most evidence
+indicated that
+vitamin E had no
+benefit for mortality,
+CVD, or cancer; for
+example, pooled ORs
+included:
+   All-cause mortality:
+1.02 (95% CI, 0.97-1.07);
+9 RCTs (n = 107,772)
+   CVD events: 0.96
+(95% CI, 0.90-1.04); 4
+RCTs (n = 62,136)
+   Any cancer: 1.02
+(95% CI, 0.98-1.08); 5
+RCTs (n = 76,777)
+All-cause mortality:
+reasonably
+consistent, precise
+CVD: consistent,
+imprecise
+Cancer: inconsistent,
+imprecise for
+prostate cancer;
+consistent, imprecise
+for other cancer
+outcomes
+Few studies for
+most
+outcomes
+other than all-
+cause
+mortality,
+several studies
+underpowered
+for the main
+outcomes of
+this review
+(but all main
+outcomes for
+the review also
+include some
+studies
+powered for
+CVD, cancer
+outcomes, or
+both)
+All-cause mortality:
+high for no benefit
+CVD, other than
+hemorrhagic stroke:
+moderate for small to
+no benefit
+Hemorrhagic stroke:
+low for increased risk
+Cancer: low for small to
+no benefit for prostate;
+moderate for small to
+no benefit for other
+cancer outcomes
+Most
+included
+participant
+were White
+American o
+European
+adults 45 y
+or older
+Included
+general-ris
+samples as
+well as tho
+limited to
+persons at
+increased
+risk for
+cancer or
+CVD due to
+smoking o
+CVD risk
+factors
+Vitamin D
+(with or
+without
+calcium):
+   32 RCTs (n
+= 123,140
+observations)
+Evidence suggested
+no benefit for all
+primary outcomes of
+this review; for
+example, pooled ORs
+included:
+   All-cause mortality:
+0.96 (95% CI, 0.91-
+1.02); 27 RCTs (n =
+117,082)
+   CVD events: 1.00
+(95% CI, 0.95-1.05); 7
+RCTs (n = 74,925)
+   Any cancer: 0.98
+(95% CI, 0.92-1.03); 19
+RCTs (n = 86,899)
+Findings were
+consistent across
+different pooling
+methods, robustness
+of outcome
+ascertainment, and
+whether vitamin D
+was taken alone or
+with calcium
+All-cause mortality,
+CVD mortality, any
+cancer incidence:
+reasonably
+consistent, precise
+CVD events:
+consistent, precise
+Cancer mortality:
+inconsistent,
+reasonably precise
+Site-specific cancers:
+reasonably
+consistent, imprecise
+Most studies
+had primary
+aims related to
+bone density,
+fractures, or
+falls (however,
+there were 2
+very large
+good-quality
+trials plus
+additional
+smaller trials
+with cancer
+and CVD as
+primary aims)
+Few large
+studies
+reported most
+site-specific
+cancers
+All-cause mortality:
+moderate for no benefit
+CVD: high for no
+benefit
+Cancer: low for no
+benefit
+Primarily
+White olde
+adults
+
+[page 21]
+Calcium:
+   7 RCTs (n =
+11,884
+observations)
+Most evidence
+indicated no benefit
+for mortality, CVD, or
+cancer after up to 6 y
+of calcium use;
+however, 1 smaller
+study suggested a
+possible reduction in
+prostate cancer
+among persons with
+a recent adenoma
+Pooled ORs for other
+outcomes include:
+   All-cause mortality:
+1.05 (95% CI, 0.92-1.21;
+6 RCTs [n = 8394])
+   CVD events: 1.11 (95%
+CI, 0.90-1.36; 4 RCTs [n
+= 4076])
+   Any cancer: 0.94
+(95% CI, 0.41-2.14; 3
+RCTs [n = 5051])
+All-cause mortality:
+reasonably
+consistent,
+reasonably precise
+CVD: inconsistent,
+imprecise
+Cancer: inconsistent
+or NA (for site-
+specific cancers),
+imprecise
+Primary
+outcomes
+were often
+underpowered,
+since half of
+studies had
+primary aims
+irrelevant to
+this review
+All-cause mortality:
+moderate for no benefit
+CVD: low for no benefit
+Cancer: low for no
+benefit
+Best
+evidence
+limited to
+White adu
+70 y or olde
+with fragili
+fractures
+Other
+studies als
+primarily in
+adults 40 y
+or older,
+White, and
+mostly
+female
+KQ4 Harms
+
+[page 22]
+Beta
+carotene:
+       6 RCTs (n
+= 112,820
+observations)
+   1
+Prospective
+cohort study
+(n = 121,700
+observations)
+Vitamin A:
+   2 RCTs (n =
+20,611
+observations)
+   2
+Prospective
+cohort
+studies (n =
+156,403
+observations)
+The most substantial
+serious harms are the
+paradoxical harms of
+increased all-cause
+mortality, CVD
+mortality, and lung
+cancer (see KQ3)
+Trials generally
+showed no
+statistically
+significant findings
+for other adverse
+events other than
+hypercarotenodermia
+(4 trials, ORs ranging
+from 1.10 to 24.75)
+and GI symptoms in
+the 1 trial reporting
+this outcome
+Two cohort studies in
+women found an
+elevated but not
+statistically
+significantly
+increased risk of hip
+fracture associated
+with vitamin A
+supplementation
+Excluding increased
+all-cause mortality,
+CVD mortality, and
+lung cancer:
+consistent, precise for
+beta carotene and
+increased risk of
+hypercarotenodermia
+Consistent and
+imprecise for vitamin
+A and increased risk
+of hip fracture
+Consistent and
+imprecise for other
+nonserious harms for
+beta carotene and
+vitamin A
+Variation in
+study dose and
+duration
+Combined
+supplement
+use in CARET
+and varied
+background
+interventions
+in almost all
+other trials
+Supplement
+use in cohort
+study was self-
+reported
+Excluding increased all-
+cause mortality, CVD
+mortality, and lung
+cancer:
+   Hypercarotenodermia:
+moderate for increased
+risk with beta carotene
+   Hip fractures: low for
+increased risk for
+vitamin A
+   Cataracts: low for no
+increased risk for
+vitamin A
+Most studi
+of beta
+carotene
+and vitami
+A conducte
+in the US,
+but
+participant
+were
+primarily
+White
+Evidence
+included
+general-ris
+samples as
+well as tho
+limited to
+persons at
+increased
+risk for lun
+cancer due
+to smoking
+status or
+asbestos
+exposure
+Vitamin A
+doses were
+above the
+current
+upper limit
+in all trials
+evaluating
+vitamin A
+Data
+suggesting
+a possible
+increased
+hip fractur
+risk with
+vitamin A
+are from
+cohort
+studies of
+primarily
+White
+women
+
+[page 23]
+Vitamin E:
+   7 RCTs (n =
+115,576
+observations)
+   2
+Prospective
+cohort
+studies (n =
+149,043
+observations)
+Although data on
+specific outcomes
+were sparse, no clear
+increased risk of
+serious harm was
+identified, but effects
+were wide-ranging
+and included
+findings in the
+direction of benefit
+and harm across all
+review outcomes,
+including 2 trials with
+increased risk of
+hemorrhagic stroke; 1
+cohort study with a
+single assessment of
+vitamin E use found
+an increased risk of
+cataracts, but a
+higher-quality cohort
+study with biennial
+reporting of vitamin
+E use showed no
+increased risk of
+cataracts
+Inconsistent,
+imprecise
+Supplement
+use in cohort
+studies was
+self-reported
+Other than paradoxical
+harm for hemorrhagic
+stroke:
+   Cataracts,
+hospitalization from
+pneumonia, other
+nonserious: low for no
+increased risk
+Most
+included
+participant
+were White
+American o
+European
+adults 45 y
+or older
+Included
+general ris
+samples as
+well as tho
+limited to
+persons at
+increased
+risk for
+cancer or
+CVD due to
+smoking o
+CVD risk
+factors
+Vitamin D
+(with or
+without
+calcium):
+   31 RCTs (n =
+117,100
+observations)
+   3
+Prospective
+cohort
+studies (n =
+289,659
+observations)
+Both trial and cohort
+evidence suggested
+an increased risk of
+kidney stones with
+1000 IU/d or more of
+vitamin D over ≥7 y
+Most evidence
+supported no
+increased risk of GI-
+related symptoms
+Other nonserious
+symptoms also
+generally found no
+group differences,
+and other serious
+harms had too few
+events to draw
+conclusions
+Kidney stones:
+inconsistent,
+imprecise
+GI symptoms:
+consistent, precise
+Other adverse events:
+inconsistent,
+imprecise
+Most studies
+had primary
+aims related to
+bone density,
+fractures, or
+falls
+Supplement
+use in cohort
+studies was
+self-reported
+Kidney stones: low for
+small increased risk
+GI: moderate for no
+increased risk
+Other adverse events:
+low for no increased risk
+Primarily
+White olde
+adults
+
+[page 24]
+Calcium:
+   8 RCTs (n =
+11,930)
+   1
+Prospective
+cohort study
+(n = 121,700
+observations)
+Findings suggested
+an increased risk of
+constipation and GI
+symptoms and
+possibly kidney
+stones
+GI symptoms:
+consistent,
+reasonably precise
+Kidney stones:
+reasonably consistent
+and imprecise
+Reporting of
+any adverse
+effects, any
+serious
+adverse
+effects, and
+withdrawal
+due to adverse
+effects sparely
+reported;
+kidney stone
+evidence
+primarily
+limited to
+observational
+data in women
+only, in whom
+supplement
+use was
+measured by
+self-report
+GI-related symptoms:
+moderate for increased
+risk
+Kidney stones: low for
+increased risk
+Best
+evidence
+limited to
+White adu
+70 y or olde
+with fragili
+fractures
+Other
+studies als
+primarily in
+adults 40 y
+or older,
+White, and
+mostly
+female
+Abbreviations: ARD, absolute risk difference; CARET, Carotene and Retinol Efficacy Trial; CVD, cardiovascular disease;
+GI, gastrointestinal; KQ, key question; NA, not applicable; OR, odds ratio; RCT, randomized clinical trial.

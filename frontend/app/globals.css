@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 隐藏横向卡片流的滚动条，保留滑动 */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+.animate-slideUp {
+  animation: slideUp 0.26s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out;
+}
+
+.fitproof-particle-field::before,
+.fitproof-particle-field::after {
+  content: "";
+  position: absolute;
+  inset: -20%;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle, rgba(32, 205, 182, 0.20) 0 1px, transparent 1.8px),
+    radial-gradient(circle, rgba(32, 205, 182, 0.14) 0 1.4px, transparent 2.4px),
+    radial-gradient(circle, rgba(255, 255, 255, 0.70) 0 1px, transparent 1.9px);
+  background-size: 58px 58px, 92px 92px, 126px 126px;
+  background-position: 0 0, 20px 30px, 40px 12px;
+  opacity: 0.55;
+  filter: blur(0.1px);
+  animation: fitproofParticleDrift 18s linear infinite;
+}
+
+.fitproof-particle-field::after {
+  opacity: 0.34;
+  transform: scale(1.12);
+  animation-duration: 28s;
+  animation-direction: reverse;
+}
+
+@keyframes fitproofParticleDrift {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(46px, -38px, 0);
+  }
+}
+
+.fitproof-cat-float {
+  animation: fitproofCatFloat 3.8s ease-in-out infinite;
+  transform-origin: 50% 70%;
+}
+
+/* The mascot itself owns the line-art; this page only choreographs its evidence-checking motion. */
+.fitproof-loading-cat .fp-cat-magnifier {
+  animation: fitproofMagnifierScan 2s cubic-bezier(0.45, 0, 0.55, 1) infinite !important;
+}
+
+.fitproof-loading-cat .fp-cat-eyes {
+  animation: fitproofLoadingCatBlink 2s steps(1, end) infinite !important;
+}
+
+@keyframes fitproofMagnifierScan {
+  0%,
+  100% {
+    transform: translate3d(-5px, 3px, 0) rotate(-2deg);
+  }
+  50% {
+    transform: translate3d(6px, -3px, 0) rotate(2deg);
+  }
+}
+
+@keyframes fitproofLoadingCatBlink {
+  0%,
+  45%,
+  55%,
+  100% {
+    transform: scaleY(1);
+  }
+  48%,
+  52% {
+    transform: scaleY(0.12);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fitproof-loading-cat .fp-cat-magnifier,
+  .fitproof-loading-cat .fp-cat-eyes {
+    animation: none !important;
+  }
+}
+
+@keyframes fitproofCatFloat {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) rotate(-1deg);
+  }
+  50% {
+    transform: translate3d(0, -5px, 0) rotate(1deg);
+  }
+}

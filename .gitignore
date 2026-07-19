@@ -1,0 +1,37 @@
+# ===== 密钥：绝对不能上传 =====
+**/.env
+**/.env.local
+backend/.env
+frontend/.env.local
+
+# ===== Node / Next =====
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+frontend/tsconfig.tsbuildinfo
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ===== 运行/测试产物 =====
+*.log
+*.bak
+backend/backend.log
+frontend/frontend.log
+backend/test_video.mp4
+backend/test_frame.jpg
+*.mp3
+tmp_video_review/
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
+
+# ===== 本地工具配置（各人机器不同，不共享）=====
+.claude/

@@ -1,0 +1,124 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Fluid management in
+severely malnourished
+children under 5 years
+of age with shock
+Intervention | Last updated: 9 August 2023
+In children who are under 5 years of age, severe acute malnutrition is defined by a very
+low weight-for-height/weight-for-length or clinical signs of bilateral pitting oedema. A
+very low mid-upper arm circumference also indicates severe acute malnutrition in
+children who are 6–59 months of age. Severe acute malnutrition affects an estimated 19
+million children under 5 years of age worldwide and is estimated to account for
+approximately 400,000 child deaths each year.
+
+[page 2]
+Children with severe acute malnutrition may have difficulty keeping themselves
+properly hydrated and may be unable to tolerate the rapid changes in blood volume
+associated with changes in hydration status. This can lead to shock, a medical
+emergency in which the organs and tissues of the body are not receiving an adequate
+flow of blood. Adequately managing fluids is critical for treating shock in children with
+severe acute malnutrition.
+half-strength Darrow’s solution with 5% dextrose, or
+Ringer’s lactate solution with 5% dextrose
+WHO Recommendations
+Children under 5 years of age with severe acute malnutrition and signs of shock or
+severe dehydration and who cannot be rehydrated orally or by nasogastric tube should
+be treated with intravenous fluids, either
+If neither is available, 0.45% saline + 5% dextrose should be used.
+Learn More 
+Guidelines and guidance documents
+Guideline: updates on the management of severe acute malnutrition in
+infants and children
+Pocket book of hospital care for children: Second edition
+GRC-approved guidelines
+Other guidance documents
+
+[page 3]
+The treatment of diarrhoea
+Diarrhoea treatment guidelines including new recommendations for
+the use of ORS and zinc supplementation for clinic-based healthcare
+workers
+Training course on the management of severe malnutrition
+Management of severe malnutrition: a manual for physicians and other
+senior health workers
+Evidence
+Systematic reviews used to develop the guidelines
+Systematic review of the role of fluid infusions and blood transfusions in the care of
+hospitalized children with severe acute malnutrition
+pdf, 431kb Manary M, Trehan I. Geneva: World Health Organization; 2012.
+The effectiveness of interventions to treat severe acute malnutrition in young children: a
+systematic review
+
+[page 4]
+Picot J, Hartwell D , Harris P, Mendes D, Clegg AJ, and Takeda A. Health Technology Assessment. 2012;
+Vol.16:No.19(for Guideline: Updates on the management of severe acute malnutrition in infants and
+children).
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+The analyses listed below were conducted to assess the overall cost-effectiveness of
+inpatient and/or outpatient management of SAM, of which the intervention listed on
+this webpage is a component. The analyses do not assess the cost-effectiveness of this
+specific intervention alone.
+Cost-effectiveness of the community-based management of severe acute malnutrition by
+community health workers in southern Bangladesh
+Puett C, Sadler K, Alderman H, Coates J, Fiedler JL, Myatt M. Health Policy Plan. 2013; 28(4):386-99.
+Cost-effectiveness of community-based management of acute malnutrition in Malawi
+Wilford R, Golden K, Walker DG. Health Policy Plan. 2012; 27(2):127-37.
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K. Health Policy Plan. 1998; 13(3):249-62.
+Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat
+severe acute malnutrition in Ethiopia
+Tekeste A, Wondafrash M, Azene G, Deribe K. Cost Eff Resour Alloc. 2012; 10:4.
+Cost effectiveness of a community based prevention and treatment of acute malnutrition
+programme in Mumbai slums, India
+Goudet S, Jayaraman A, Chanani S, Osrin D, Devleesschauwer B, Bogin B, et al. PLoS One. 2018;
+13(11):e0205688.
+Cost effectiveness of community-based therapeutic care for children with severe acute
+malnutrition in Zambia: decision tree model
+Bachmann MO. Cost Eff Resour Alloc. 2009 Jan; 7:2.
+Costs, cost-effectiveness and financial sustainability of community-based management of
+acute malnutrition in northern Nigeria
+
+[page 5]
+Frankel S, Roland M, Makinen M. Washington DC: Results for Development Institute; 2015.
+Economic Cost of Community-Based Management of Severe Acute Malnutrition in a Rural
+District in Ghana
+Abdul-Latif A-M C, Nonvignon J. Health. 2014; 6: 886-899.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+This intervention is a component of
+managing children with SAM, which is
+an Essential Nutrition Action targeting
+the first 1000 days of life.
+Learn More 
+Category 1 intervention
+Essential Nutrition Actions
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+
+[page 6]
+Report misconduct
+Privacy policy
+© 2026 WHO

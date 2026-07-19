@@ -1,0 +1,1118 @@
+
+
+[page 1]
+Journal of Evidence-Based Medicine
+ARTICLE
+Acupuncture for Treatment of Obesity: An Umbrella Review
+Min Chen1
+RuiRui Wu2
+Rui Chen3
+Qiong Guo4,5
+Ya Deng4
+Yuan Wang6
+Youlin Long4
+1Department of Traditional Chinese Medicine, The Third People’s Hospital of Chengdu, Chengdu, China
+2Changcheng Middle Road Community Health
+Service Center, The Second People’s Hospital of Yinchuan, Yinchuan, China
+3School of Clinical Medicine, Chengdu University of Traditional Chinese
+Medicine, Chengdu, China
+4Innovation Institute for Integration of Medicine and Engineering, West China Hospital, Sichuan University, Chengdu, China
+5West China Medical Publishers, West China Hospital, Sichuan University, Chengdu, China
+6Department of Infectious Diseases, Hospital of Chengdu
+University of Traditional Chinese Medicine, Chengdu, China
+Correspondence: Yuan Wang (Micheal-wy@163.com)
+Youlin Long (longyoulin163@163.com)
+Received: 24 July 2025
+Revised: 22 September 2025
+Accepted: 26 September 2025
+Funding: This work was supported by the Scientific and Technological Research Special Project of Sichuan Administration of Traditional Chinese Medicine
+(No. 2023MS064) and the National Natural Science Foundation of China (No. 72074161 and 81873197).
+Keywords: acupuncture | meta-analysis | obesity | systematic review | umbrella review | weight loss
+ABSTRACT
+Background: Systematic reviews on acupuncture for obesity report conflicting findings, and the certainty of this evidence remains
+unclear. This umbrella review appraises the evidence to identify which effects on body mass index (BMI) and body weight (BW)
+are supported by high-quality findings.
+Methods: We conducted an umbrella review by systematically searching PubMed, Embase, and the Cochrane Library through
+April 28, 2025 to obtain systematic reviews of randomized controlled trials evaluating acupuncture interventions for obesity. Two
+reviewers independently assessed methodological quality using a measurement tool to assess systematic reviews (AMSTAR) and
+evidence quality using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE). We identified best
+evidence from high-quality systematic reviews with high or moderate GRADE ratings.
+Results: Our analysis included 22 systematic reviews encompassing 60 meta-analyses. Seventeen reviews (77.3%) achieved high
+methodological quality ratings according to AMSTAR criteria. Five meta-analyses provided high-quality evidence consistently
+demonstrating significant benefits of acupuncture interventions. The strongest evidence supported acupuncture combined with
+lifestyle interventions compared to lifestyle interventions alone for both BMI and BW outcomes. Additional high-quality evidence
+demonstrated significant benefits for acupuncture versus no treatment and versus sham acupuncture. Fourteen meta-analyses
+provided moderate-quality evidence confirming acupuncture effectiveness, with no significant differences between acupuncture
+and pharmaceutical treatments.
+Conclusions: Based on high-quality evidence, clinicians can recommend acupuncture to patients with obesity, particularly as
+adjunctive therapy to lifestyle interventions. For patients unable to tolerate pharmacological treatments, acupuncture represents
+a reasonable alternative. However, optimal benefits require integration with comprehensive lifestyle modifications rather than
+standalone use.
+© 2025 Chinese Cochrane Center, West China Hospital of Sichuan University and John Wiley & Sons Australia, Ltd.
+Journal of Evidence-Based Medicine, 2025; 18:e70083
+https://doi.org/10.1111/jebm.70083
+1 of 10
+
+[page 2]
+1
+Introduction
+Obesity has long been recognized as “the single greatest threat
+to public health for this century” [1]. In 2013, the American
+Medical Association formally decided to recognize obesity as a
+complex, chronic disease requiring medical attention [2], further
+emphasizing its clinical significance. Obesity ranks among the
+leading causes of preventable morbidity and mortality worldwide
+[3], and obesity is associated with metabolic disorders such
+as hypertension, diabetes, and dyslipidemia as well as cardio-
+vascular disease, obstructive sleep apnea, premature physical
+maturation, polycystic ovarian syndrome, certain cancers, and
+mental health conditions such as anxiety and depression [4,
+5]. According to the World Trade Organization Fact Sheet, an
+estimated 35 million children under the age of 5 years were
+overweight in 2024 [6].
+Successful weight loss maintenance can be difficult to achieve
+through lifestyle interventions alone [7]. Other methods such
+as drugs or surgery have potentially serious adverse events and
+often do not show long term benefits [8–10]. Thus, the need for
+complementary and alternative medicine approaches on weight
+loss is increasing, and acupuncture is one of the most widely
+used approaches [11]. Acupuncture is a Traditional Chinese
+Medicine therapy that involves penetrating the body’s surface by
+one or more needles that encompass manual acupuncture, elec-
+troacupuncture or a combination of both [12]. Existing systematic
+reviews (SRs) on acupuncture for obesity present conflicting
+findings, and critically, the certainty of the evidence supporting
+their conclusions has not been systematically appraised [13, 14].
+Given this variability, a single, comprehensive, and user-friendly
+summary of the best available evidence is urgently needed to
+guide clinical decision-making.
+Therefore, this umbrella review was conducted to identify the
+evidence on acupuncture for obesity and to distinguish outcomes
+supported by high-quality evidence, particularly for body mass
+index (BMI) and body weight (BW), from those based on less reli-
+able findings. To achieve this primary objective, we systematically
+evaluated several key domains: the consistency of findings across
+the included SRs, the overall methodological quality of the SRs
+themselves, the strength of the evidence for each key outcome,
+and the resulting clinical applicability of the most robust findings.
+2
+Methods
+This study adhered to the checklist of reporting guideline for
+overviews of reviews of healthcare interventions (PRIOR) [15].
+The umbrella review was prospectively registered on the Open
+Science Framework (https://osf.io/vsjy5).
+2.1
+Inclusion Criteria
+To be included, articles had to be SRs with meta-analyses meeting
+the following criteria: (1) Population: The studies focused on
+adult or adolescent populations with overweight or obesity.
+(2) Intervention: The intervention was any form of needle-
+based acupuncture (e.g., manual, electroacupuncture, auricular),
+administered either as a standalone therapy or as an adjunct. In
+our overview, the term “acupuncture” was used to mean pene-
+trating the body’s surface by one or more needles, but this was
+not necessarily how the SR authors that have published the SRs
+included in this overview may have referred to “acupuncture.” (3)
+Comparators: Eligible comparators included a range of controls
+such as sham acupuncture, no treatment, pharmacological treat-
+ments, or lifestyle interventions. (4) Outcomes: The SRs provided
+extractable quantitative data for at least one primary outcome,
+specifically BMI or BW. (5) Study design: The included primary
+studies were required to be randomized controlled trials (RCTs).
+2.2
+Exclusion Criteria
+Exclusion criteria were (1) protocols; (2) SRs focused on subjects
+with serious medical conditions, or drug-induced obesity; (3) SRs
+comparing the effects of different acupuncture modalities (e.g.,
+manual vs. electroacupuncture); (4) SRs that pooled heteroge-
+neous control groups (e.g., sham, drug, no treatment) in a single
+meta-analysis; (5) SRs failing to provide the quantitative data; and
+(6) guidelines and conference abstracts.
+2.3
+Search Strategy
+PubMed, EMbase, and the Cochrane Library were searched from
+inception to April 28, 2025. The search strategy for each database
+included a combination of MeSH terms and text word to represent
+the definitions of acupuncture, obesity, and SRs. Details on
+search strategies could be found in Supplementary Material A.
+Additionally, the references of included SRs were also screened
+for further relevant SRs to ensure the comprehensiveness of the
+search. No publication status restriction was made for selecting
+studies.
+2.4
+Data Collection and Analysis
+2.4.1
+Studies Selection
+Two reviewers independently screened for potential articles
+based on title and abstract. All potential studies obtained in full
+text were further assessed. Any discrepancies were resolved by
+consensus or consultation.
+2.4.2
+Data Extraction and Management
+Using a predefined standardized data collection instrument,
+two reviewers independently extracted the data from included
+studies. Disagreements were resolved by discussion between the
+two reviewers or consulting the third reviewer.
+The following data were extracted: title, author, publication year,
+country, interventions and comparators, number of included
+RCTs and participants, whether meta-analysis was conducted,
+outcomes, reported results, and conclusions. In cases of dis-
+crepant or missing data across SRs, we extracted data from all
+included primary studies and addressed the discrepancies or gaps
+by consulting the primary studies cited within the reviews or,
+when necessary, searching relevant registries.
+2 of 10
+Journal of Evidence-Based Medicine, 2025
+
+[page 3]
+2.5
+Assessment of Methodological Quality of
+Included SRs
+Methodological quality of included SRs was evaluated by using a
+measurement tool to assess systematic reviews (AMSTAR) tool by
+two reviewers independently [16]. Disagreements were resolved
+by discussion between the two reviewers or consulting the third
+reviewer. The AMSTAR tool comprises 11 items, with each item
+scored as “Yes,” “No,” “Can’t Answer,” or “Not Applicable.” A
+score of 1 is assigned for each “Yes,” and 0 for all other responses.
+The total score ranges from 0 to 11, and the overall quality of the
+SRs was classified into three levels: high quality (8–11 points),
+medium quality (4–7 points), and low quality (0–3 points).
+2.6
+Quality of Evidence for Each Comparison
+The Grading of Recommendations Assessment, Development,
+and Evaluation (GRADE) tool was used to indicate the quality
+of the evidence for each comparison [17]. The GRADE level
+was determined based on information provided in the included
+SRs, supplemented by examination of primary studies when
+necessary. Evidence was systematically downgraded for serious
+limitations in risk of bias (> 25% of studies with high risk),
+inconsistency (I2 > 50% with unexplained heterogeneity), indi-
+rectness (population / intervention / outcome differences from
+question), imprecision (confidence intervals crossing clinical
+decision thresholds), and publication bias (funnel plot asymmetry
+or significant Egger’s tests as reported in SRs). The assess-
+ment results were classified as high-, moderate- (downgraded
+one level), low- (downgraded two levels), or very-low-quality
+(downgraded three or more levels) evidence.
+2.7
+Data Synthesis
+We presented data as a narrative synthesis. Quantitative analysis
+was not performed because of the overlaps between the RCTs
+included in the SRs. We defined SRs with a high-quality AMSTAR
+score as high-quality SRs. Subsequently, meta-analyses within
+these high-quality SRs that were rated as having high or moderate
+certainty by GRADE were considered to represent the best
+evidence. To better visualize the results, we generated bubble plot
+for the outcomes supported by the best evidence.
+To standardize the direction of effect sizes for meta-analysis, we
+multiplied the mean differences by –1 for studies that reported
+continuous outcomes as a positive value for improvement (e.g.,
+amount of reduction). The corresponding 95% confidence inter-
+vals were transformed accordingly by reversing their upper and
+lower bounds. This ensured that a negative effect size consistently
+represented a favorable outcome for the acupuncture group
+across all pooled studies.
+3
+Results
+3.1
+Study Selection
+The comprehensive literature search and selection process are
+illustrated in Figure 1. Initially, 434 citations were identified for
+screening. After 124 duplicate titles were removed, unique records
+310 remained for screening. Then, 244 were excluded based on
+title and abstract screening, leaving 66 publications for full text
+assessments. Finally, 44 full-text articles were excluded (a list of
+these studies and the specific reasons for exclusion are provided
+in Table S1). A total of 22 SRs, encompassing 60 meta-analyses,
+were included in this umbrella review.
+3.2
+Characteristics
+The characteristics of the 22 included SRs are summarized in
+Table 1. Additional characteristics are described in Table S2. The
+SRs were published between 2009 and 2024, with the majority (n
+= 16, 72.7%) published after 2015, reflecting the growing interest
+in this research area. The SRs originated from various countries,
+with China contributing the highest number of studies (n = 14,
+63.6%), followed by South Korea (n = 3, 13.6%). The number
+of included RCTs in individual SRs ranged from 1 to 22, with
+participant numbers ranging from 60 to 2814. All SRs conducted
+meta-analyses. The included SRs examined various acupuncture
+interventions, including manual acupuncture, electroacupunc-
+ture, auricular acupuncture, acupoint catgut embedding, and
+pharmacopuncture.
+3.3
+Methodological Quality Assessment
+The methodological quality of included SRs assessed using the
+AMSTAR tool is presented in Table 2. Among the 22 SRs, 17
+(77.3%) were rated as high quality, and the remaining 5 (22.7%)
+were rated as medium quality. No SRs were assessed as low
+quality. The total AMSTAR scores ranged from 5 to 11, with a mean
+score of 8.5.
+All (100%) of the included SRs provided the characteristics of
+their included studies (Item 6) and documented the scientific
+quality assessment of these studies (Item 7). Furthermore, a high
+proportion of SRs utilized appropriate methods for combining
+findings (100%, Item 9), conducted duplicate study selection and
+data extraction (90.9%, Item 2), and considered the scientific
+quality of included studies when formulating conclusions (90.9%,
+Item 8) (Figure S1).
+3.4
+Quality of Evidence Assessment
+A comprehensive summary of effect sizes, confidence intervals,
+heterogeneity measures, and corresponding GRADE certainty
+levels are presented in Table S3.
+3.4.1
+High-Quality Evidence
+Five meta-analyses provided high-quality evidence based on SRs
+with high AMSTAR scores and high GRADE ratings (Figure 2).
+These studies demonstrated the effectiveness of acupuncture
+across three key comparisons. Evidence from Zhao (2024) [24]
+indicated that acupuncture combined with lifestyle interventions
+was more effective than lifestyle interventions alone for reducing
+both BW (mean difference [MD] = –4.37 kg, 95% confidence
+Journal of Evidence-Based Medicine, 2025
+3 of 10
+
+[page 4]
+FIGURE 1
+Flow diagram of literature search and selection.
+interval [CI] [–6.32, –3.13]) and BMI (MD = -2.11 kg/m2, 95%
+CI [–2.75, –1.48]). Furthermore, Sui (2012) [14] showed that
+acupuncture was superior to no treatment for decreasing both BW
+(MD = –4.10 kg, 95% CI [–6.19, –2.01]) and BMI (MD = -2.65 kg/m2,
+95% CI [–3.87, –1.43]). Finally, in a comparison against a placebo
+control, Yue (2024) [26] found that acupoint catgut embedding led
+to a significant reduction in BW (MD = -1.68 kg, 95% CI [–2.34,
+–1.01]).
+4 of 10
+Journal of Evidence-Based Medicine, 2025
+
+[page 5]
+TABLE 1
+Characteristics of included systematic reviews on acupuncture for obesity.
+Study
+Country
+Intervention and control
+Outcome
+Kim [13]
+South Korea
+Acupuncture plus lifestyle modification vs. Sham acupuncture plus diet and
+exercise; Acupuncture plus lifestyle modification vs. Lifestyle modification;
+Acupuncture vs. Sham acupuncture; Acupuncture vs. No treatment
+BW
+Sui [14]
+China
+Acupuncture vs. Non-pharmacological treatments; Acupuncture vs.
+Pharmacological treatments, Western drugs
+BW, BMI
+Fang [18]
+China
+Acupuncture vs. Placebo; Acupuncture plus lifestyle modification vs. Lifestyle
+modification
+BMI
+Quan [19]
+China
+Acupuncture vs. Diet plus exercise and lifestyle
+BW, BMI
+Cho [20]
+China
+Acupoint catgut embedding vs. Sham acupoint catgut embedding
+BW, BMI
+Yin [21]
+China
+Acupuncture vs. Non-acupuncture
+BMI
+Sheng [22]
+China
+Acupoint catgut embedding vs. Electroacupuncture; Acupoint catgut
+embedding vs. Sham acupoint catgut embedding; Acupoint catgut embedding
+plus electroacupuncture vs. Electroacupuncture
+BW, BMI
+Mendonça [23]
+Brazil
+Auriculotherapy vs. Placebo
+BW, BMI
+Zhao [24]
+China
+Acupuncture plus lifestyle modification vs. Lifestyle modification
+BW, BMI
+Hua [25]
+Germany
+Auricular stimulation vs. Sham or placebo stimulation
+BW, BMI
+Yue [26]
+China
+Acupoint catgut embedding vs. Sham acupoint catgut embedding
+BW, BMI
+Ng [27]
+Singapore
+Acupuncture vs. Non-acupuncture
+BW, BMI
+Ruan [28]
+China
+Auricular acupuncture vs. No treatment or sham auricular acupuncture;
+Auricular acupuncture plus diet vs. Diet; Auricular acupuncture plus diet and
+exercise vs. Diet and exercise
+BW
+Zhang [29]
+China
+Acupuncture vs. Sham acupuncture; Acupuncture vs. No treatment;
+Acupuncture vs. Diet and exercise
+BW, BMI
+Yao [30]
+China
+Acupuncture vs. Other treatments
+BMI
+Zhong [31]
+China
+Acupuncture vs. Sham acupuncture
+BW, BMI
+Guo [32]
+China
+Acupoint catgut embedding vs. Manual acupuncture; Acupoint catgut
+embedding vs. Drugs; Acupoint catgut embedding vs. Electroacupuncture;
+Acupoint catgut embedding vs. Sham acupoint catgut embedding; Acupoint
+catgut embedding plus electroacupuncture vs. Electroacupuncture
+BW, BMI
+Zhang [33]
+China
+Acupuncture vs. Sham acupuncture
+BW, BMI
+Cho [34]
+South Korea
+Acupuncture vs. Lifestyle modification; Acupuncture vs. Placebo; Acupuncture
+vs. Drugs
+BW
+Chen [35]
+China
+Auriculotherapy vs. No treatment, sham auriculotherapy, lifestyle modification
+BW, BMI
+Sibbritt [36]
+Australia
+Acupuncture vs. No treatment; Acupuncture vs. Sham acupuncture
+BW, BMI
+Park [37]
+South Korea
+Pharmacopuncture vs. Normal saline
+BW, BMI
+Abbreviations: BMI, body mass index; BW, body weight.
+3.4.2
+Moderate-Quality Evidence
+Fourteen meta-analyses provided moderate-quality evidence
+(Figure 3, Table S3), revealing a complex but generally posi-
+tive picture of acupuncture’s effectiveness. The most frequently
+assessed comparison was acupuncture versus a sham control. For
+instance, Zhang (2018) [29] found that acupuncture significantly
+reduced both BMI (MD = –1.22 kg/m2, 95% CI [–1.87, –0.56])
+and BW (MD = –1.54 kg, 95% CI [–2.98, –0.11]). Similarly, Zhong
+(2020) [31] reported significant decreases in both BMI (MD = –
+1.00 kg/m2, 95% CI [–1.40, –0.60]) and BW (MD = –1.85 kg, 95%
+CI [–2.88, –0.82]). The evidence also supported specific forms
+like auriculotherapy over no treatment, with Chen (2022) [35]
+reporting substantial reductions in BMI (MD = –1.08 kg/m2, 95%
+CI [–1.29, –0.86]) and BW (MD = –2.85 kg, 95% CI [–3.34, –
+2.35]). However, the evidence was not uniformly positive; when
+compared against pharmacological treatments, analyses by Guo
+(2015) [32] found no statistically significant difference for either
+BMI or BW.
+Journal of Evidence-Based Medicine, 2025
+5 of 10
+
+[page 6]
+TABLE 2
+AMSTAR assessment of included systematic reviews.
+Author, year
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+A9
+A10
+A11
+Overall score
+Rating overall
+confidence
+Kim, 2018
+0
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+7
+Medium
+Sui, 2012
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+8
+High
+Fang, 2017
+0
+1
+0
+1
+0
+1
+1
+1
+1
+1
+0
+7
+Medium
+Quan, 2023
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+10
+High
+Cho, 2018
+0
+1
+0
+0
+0
+1
+1
+0
+1
+1
+1
+6
+Medium
+Yin, 2022
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+9
+High
+Sheng, 2019
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+5
+Medium
+Mendonça, 2020
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+8
+High
+Zhao, 2024
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+High
+Hua, 2024
+1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+8
+High
+Yue, 2024
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+8
+High
+Ng, 2024
+0
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+8
+High
+Ruan, 2016
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+9
+High
+Zhang, 2018
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+9
+High
+Yao, 2019
+0
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+8
+High
+Zhong, 2020
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+High
+Guo, 2015
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+9
+High
+Zhang, 2017
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+High
+Cho, 2009
+0
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+9
+High
+Chen, 2022
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+10
+High
+Sibbritt, 2018
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+1
+8
+High
+Park, 2016
+0
+1
+1
+0
+0
+1
+1
+1
+1
+0
+1
+7
+Medium
+Note: The 11 items of AMSTAR include: A1, Was an “a priori” design provided?; A2, Was there duplicate study selection and data extraction?; A3, Was a
+comprehensive literature search performed?; A4, Was the status of publication (i.e., gray literature) used as an inclusion criterion?; A5, Was a list of studies
+(included and excluded) provided?; A6, Were the characteristics of the included studies provided?; A7, Was the scientific quality of the included studies assessed
+and documented?; A8, Was the scientific quality of the included studies used appropriately in formulating conclusions?; A9, Were the methods used to combine
+the findings of studies appropriate?; A10, Was the likelihood of publication bias assessed?; A11, Was the conflict of interest stated? AMSTAR, a measurement tool
+to assess systematic reviews.
+3.4.3
+Low- and Very-Low-Quality Evidence
+Twenty-six meta-analyses were classified as providing low-
+quality evidence, and 15 provided very-low-quality evidence
+(Figures S2 and S3, Table S3). These meta-analyses encom-
+passed a wide range of comparisons, including acupuncture
+versus sham controls, lifestyle modifications, exercise, or phar-
+macological treatments. The findings within this group were
+largely inconsistent and often contradictory. While some anal-
+yses suggested minor benefits, many others reported no sta-
+tistically significant differences between acupuncture and con-
+trol conditions for either BMI or BW. Given the significant
+methodological limitations, high risk of bias, and considerable
+heterogeneity reported in these studies, no reliable conclu-
+sions could be drawn from this body of evidence. Therefore,
+these findings were considered secondary to the higher-quality
+evidence.
+4
+Discussion
+This comprehensive umbrella review appraised and summa-
+rized evidence from 22 SRs and 60 meta-analyses to evaluate
+acupuncture’s clinical effectiveness for obesity treatment. High-
+certainty evidence supports the use of acupuncture as an adjunct
+to lifestyle interventions. Specifically, one high-quality meta-
+analysis found that this combination significantly reduced BMI
+by –2.11 kg/m2 and BW by –4.37 kg compared to lifestyle alone, a
+result likely attributable to neurobiological mechanisms such as
+hypothalamic modulation and enhanced leptin sensitivity [24].
+Furthermore, moderate-certainty evidence confirms the benefits
+of acupuncture versus sham or no treatment, while showing
+no significant differences when compared to pharmacological
+treatments. Clinically, these findings position acupuncture as
+a valuable adjunct to lifestyle interventions for enhancing out-
+comes. It also serves as a viable alternative for patients intolerant
+6 of 10
+Journal of Evidence-Based Medicine, 2025
+
+[page 7]
+FIGURE 2
+Bubble plot of high-quality evidence for the effectiveness of acupuncture for obesity. BMI, body mass index; BW, body weight.
+to pharmaceuticals, though evidence for its standalone use is less
+robust.
+The biological plausibility of our effectiveness findings is substan-
+tially corroborated by emerging mechanistic research revealing
+multi-targeted therapeutic pathways through which acupuncture
+exerts its influence on obesity pathophysiology. The evidence
+demonstrates sophisticated neurobiological mechanisms involv-
+ing hypothalamic regulation, particularly targeting the arcuate
+nucleus where acupuncture modulates competing orexigenic
+and anorexigenic neuronal populations [38]. Functional mag-
+netic resonance imaging studies consistently show activation
+in brain regions controlling appetite and metabolism, including
+the basal ganglia, brainstem, and cerebellum, providing neu-
+roimaging validation for acupuncture’s central nervous system
+effects [39].
+Hormonal mechanisms offer particularly compelling explana-
+tions for clinical effectiveness. Leptin sensitivity enhancement
+through improved receptor binding and expression provides a
+mechanistic basis for appetite regulation improvements observed
+in clinical trials [40]. The context-dependent effects on ghre-
+lin, where acupuncture can both increase and decrease levels
+depending on baseline status, suggest sophisticated regulatory
+mechanisms that help restore normal appetite signaling in obesity
+[38]. Insulin sensitivity improvements through AMPK activation
+and enhanced glucose uptake mechanisms support the benefits
+observed in high-certainty evidence [41]. Recent research has
+identified acupuncture’s ability to promote white adipose tissue
+browning through UCP1 induction and thermogenic capacity
+enhancement [39]. This “beiging” effect represents a revolution-
+ary mechanism that converts energy-storing adipocytes to energy-
+releasing thermogenic cells [42], providing a strong biological
+foundation for the sustained weight loss effects in higher-quality
+studies.
+Common methodological weaknesses, derived from AMSTAR
+domain ratings, included Item 5 (providing a list of included
+and excluded studies, met by only 18.18% of SRs), Item 1 (a
+priori design or protocol, 45.45%), Item 4 (inclusion of gray
+literature, 63.64%), and Item 3 (comprehensive literature search,
+68.18%). Low adherence to Item 5, where only four SRs provided
+full lists, limits transparency and reproducibility, potentially
+obscuring selection bias. The lack of a priori protocols (Item 1,
+unmet by 12 SRs) raises concerns about selective reporting, as
+unregistered methods may allow post hoc adjustments. Failure
+to include gray literature (Item 4, unmet by eight SRs) increases
+publication bias risk, potentially overestimating acupuncture’s
+effects. Incomplete search strategies (Item 3, unmet by seven
+SRs) may miss relevant studies, reducing evidence comprehen-
+siveness. These weaknesses, particularly in transparency and
+bias minimization, likely contributed to the downgrading of
+the included meta-analyses to low or very low certainty in
+GRADE assessments, underscoring the need for stricter adher-
+ence to AMSTAR standards in future SRs to enhance evidence
+reliability.
+Journal of Evidence-Based Medicine, 2025
+7 of 10
+
+[page 8]
+FIGURE 3
+Bubble plot of moderate-quality evidence for the effectiveness of acupuncture for obesity. BMI, body mass index; BW, body weight.
+Our comprehensive analysis reveals both consistencies and
+contradictions across the 60 meta-analyses that warrant careful
+consideration. Several key consistencies across different quality
+levels are observed. The most robust and consistent finding is
+that acupuncture combined with lifestyle interventions yields
+significantly greater reductions in both BMI and BW compared
+to lifestyle interventions alone. Furthermore, the evidence con-
+sistently indicates that acupuncture is therapeutically superior
+to no treatment. In contrast, several areas of divergence and
+contradiction emerged from the evidence. The most prominent
+is the effect of acupuncture versus sham controls. While many
+analyses reported a statistically significant, albeit modest, benefit
+for true acupuncture, a substantial number of studies across all
+quality levels found no significant difference. This inconsistency
+suggests that the specific effects of acupuncture beyond placebo
+are variable and may be influenced by the type of sham control
+used. The long-term efficacy of acupuncture for weight main-
+tenance remains largely unaddressed within the current body
+of evidence. The vast majority of included studies focused on
+short-term outcomes (weeks to months), leaving a significant gap
+in our understanding of whether the benefits of acupuncture
+persist after treatment cessation. The predominance of studies
+from East Asian populations limits generalizability, highlighting
+the need for more diverse geographical representation in future
+research. Future high-quality RCTs should therefore prioritize
+standardized and credible sham controls, direct comparisons
+with active medications, and incorporate long-term follow-up
+periods to resolve these crucial uncertainties.
+The most urgent priority for advancing acupuncture obesity
+research is developing evidence-based standardization proto-
+cols that balance intervention reproducibility with traditional
+individualized treatment approaches [43]. Recent expert consen-
+sus recommends implementing STRICTA 2010 guidelines with
+mandatory reporting of all intervention details, from acupuncture
+rationale and needling specifics to practitioner qualifications and
+treatment settings [44]. Outcome measurement standardization
+requires consensus on primary endpoints, with BW reduction (≥
+2 kg) and BMI reduction (≥1.0 kg/m2) emerging as the most
+clinically meaningful targets. Compared to earlier overviews [45],
+our umbrella review incorporates more recently published high-
+quality SRs and applies rigorous evidence-grading, thus providing
+the most current and reliable summary for clinical practice.
+This umbrella review has several limitations. First, the quality of
+an umbrella review is inherently dependent t upon the quality
+of the SRs it includes. Although we used the validated AMSTAR
+tool for quality assessment, persistent issues in the primary RCTs
+can still impact the overall certainty of the evidence. Second,
+there was significant heterogeneity across the included SRs
+regarding acupuncture interventions (e.g., manual acupuncture,
+electroacupuncture, auricular acupuncture, catgut embedding)
+and control groups. This variability makes direct comparisons
+challenging and is why we refrained from conducting a new
+meta-analysis. Third, we did not report the results of different
+types of acupuncture based on the objective of this umbrella
+review.
+8 of 10
+Journal of Evidence-Based Medicine, 2025
+
+[page 9]
+Based on the highest-quality evidence, clinicians can recommend
+acupuncture to patients with obesity, particularly as an effective
+adjunctive therapy to lifestyle interventions such as diet and
+exercise. Furthermore, for patients who are unable to tolerate or
+are unwilling to use pharmacological treatments, acupuncture
+presents a reasonable alternative, supported by moderate-quality
+evidence. For successful clinical application, however, it is crucial
+to communicate to patients that acupuncture is not a standalone
+“magic bullet” for weight loss; its optimal and most durable
+benefits are realized through a sustained commitment to a
+healthy lifestyle. While further high-quality research is needed
+to refine protocols and confirm long-term efficacy, the current
+evidence strongly supports the integration of acupuncture into
+comprehensive weight management strategies.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Data Availability Statement
+The data that support the findings of this study are available in the
+Supplementary Material of this article.
+References
+1. U.S. Department of Health and Human Services. Dietary Guidelines for
+Americans. Washington, DC: U.S. Government Printing Office; 2010.
+2. T. K. Kyle, E. J. Dhurandhar, and D. B. Allison, “Regarding Obesity as
+a Disease: Evolving Policies and Their Implications,” Endocrinology and
+Metabolism Clinics of North America 45, no. 3 (2016): 511–520.
+3. D. W. Haslam and W. P. James, “Obesity,” Lancet 366, no. 9492 (2005):
+1197–1209.
+4. P. M. O’Neil, A. L. Birkenfeld, B. McGowan, et al., “Efficacy and Safety
+of Semaglutide Compared With Liraglutide and Placebo for Weight Loss
+in Patients With Obesity: A Randomised, Double-Blind, Placebo and
+Active Controlled, Dose-Ranging, Phase 2 Trial,” Lancet 392, no. 10148
+(2018): 637–649.
+5. E. A. O’Connor, C. V. Evans, B. U. Burda, E. S. Walsh, M. Eder, and P.
+Lozano, “Screening for Obesity and Intervention for Weight Management
+in Children and Adolescents: Evidence Report and Systematic Review
+for the US Preventive Services Task Force,” Jama 317, no. 23 (2017):
+2427–2444.
+6. Obesity and overweight. WHO Fact sheet [Internet]. [cited 2025
+Jul 23]., http://www.who.int/news-room/fact-sheets/detail/obesity-and-
+overweight.
+7. T. Mann, A. J. Tomiyama, E. Westling, A. M. Lew, B. Samuels, and J.
+Chatman, “Medicare’s Search for Effective Obesity Treatments: Diets Are
+Not the Answer,” American Psychologist 62, no. 3 (2007): 220–233.
+8. I. J. Onakpoya, C. J. Heneghan, and J. K. Aronson, “Post-marketing
+Withdrawal of Anti-Obesity Medicinal Products Because of Adverse Drug
+Reactions: A Systematic Review,” BMC Medicine [Electronic Resource] 14,
+no. 1 (2016): 191–191.
+9. L. L. Ioannides-Demos, J. Proietto, A. M. Tonkin, and J. J. McNeil,
+“Safety of Drug Therapies Used for Weight Loss and Treatment of
+Obesity,” Drug Safety 29, no. 4 (2006): 277–302.
+10. A. Sidhaye and L. J. Cheskin, “Pharmacologic Treatment of Obesity,”
+Advances in Psychosomatic Medicine 27 (2006): 42–52.
+11. M. T. Cabyoglu, N. Ergene, and U. Tan, “The Treatment of Obesity by
+Acupuncture,” International Journal of Neuroscience 116, no. 2 (2006): 165–
+175.
+12. H. M. Langevin, R. Schnyer, H. MacPherson, et al., “Manual and
+Electrical Needle Stimulation in Acupuncture Research: Pitfalls and
+Challenges of Heterogeneity,” Journal of Alternative and Complementary
+Medicine 21, no. 3 (2015): 113–128.
+13. S. Y. Kim, I. S. Shin, and Y. J. Park, “Effect of Acupuncture and Inter-
+vention Types on Weight Loss: A Systematic Review and Meta-Analysis,”
+Obesity Reviews: An Official journal of the International Association for the
+Study of Obesity 19, no. 11 (2018): 1585–1596.
+14. Y. Sui, H. L. Zhao, V. C. Wong, et al., “A Systematic Review on Use
+of Chinese Medicine and Acupuncture for Treatment of Obesity,” Obesity
+Reviews 13, no. 5 (2012): 409–430.
+15. M. Gates, A. Gates, D. Pieper, et al., “Reporting Guideline for
+Overviews of Reviews of Healthcare Interventions: Development of the
+PRIOR Statement,” Bmj 378 (2022): e070849.
+16. B. J. Shea, J. M. Grimshaw, G. A. Wells, et al., “Development of
+AMSTAR: A Measurement Tool to Assess the Methodological Quality
+of Systematic Reviews,” BMC Medical Research Methodology [Electronic
+Resource] 7 (2007): 10.
+17. G. H. Guyatt, A. D. Oxman, G. E. Vist, et al., “GRADE: An
+Emerging Consensus on Rating Quality of Evidence and Strength of
+Recommendations,” Bmj 336, no. 7650 (2008): 924–926.
+18. S. Fang, M. Wang, Y. Zheng, S. Zhou, and G. Ji, “Acupuncture
+and Lifestyle Modification Treatment for Obesity: A Meta-Analysis,”
+American Journal of Chinese Medicine 45, no. 2 (2017): 239–254.
+19. T. Quan, Q. Su, Y. Luo, et al., “Does Acupuncture Improve the
+Metabolic Outcomes of Obese/Overweight Children and Adolescents?:
+A Systematic Review and Meta-Analysis,” Medicine 102, no. 40 (2023):
+e34943.
+20. W. C. Cho, C. Li, and H. Y. Chen, “Clinical Efficacy of Acupoint
+Embedment in Weight Control: A Systematic Review and Meta-Analysis,”
+Medicine 97, no. 36 (2018): e12267.
+21. Y. Yin, Q. Zhao, S. Li, et al., “Efficacy of Acupuncture and Moxibustion
+Therapy for Simple Obesity in Adults: A Meta-Analysis of Randomized
+Controlled Trials,” Medicine 101, no. 43 (2022): e31148.
+22. J. Sheng, X. Jin, J. Zhu, Y. Chen, and X. Liu, “The Effectiveness
+of Acupoint Catgut Embedding Therapy for Abdominal Obesity: A
+Systematic Review and Meta-Analysis,” Evidence-Based Complementary
+and Alternative Medicine: eCAM 2019 (2019): 9714313.
+23. C. R. Mendonça, L. S. Coelho Dos Santos, M. Noll, E. A. Silveira, and
+J. T. Arruda, “Effects of Auriculotherapy on Weight and Body Mass Index
+Reduction in Patients With Overweight or Obesity: Systematic Review
+and Meta-Analysis,” Complementary Therapies in Clinical Practice 38
+(2020): 101069.
+24. X. Zhao, Y. Wang, X. Li, et al., “Acupuncture as an Adjunct to Lifestyle
+Interventions for Weight Loss in Simple Obesity: A Systematic Review
+and Meta-Analysis,” Diabetes, Metabolic Syndrome and Obesity 17 (2024):
+4319–4337.
+25. K. Hua, T. Usichenko, M. Cummings, et al., “Effects of Auricular
+Stimulation on Weight- and Obesity-Related Parameters: A Systematic
+Review and Meta-Analysis of Randomized Controlled Clinical Trials,”
+Frontiers in Neuroscience 18 (2024): 1393826.
+26. J. H. Yue, X. L. Li, Y. Y. Zhang, et al., “Comparing Verum and
+Sham Acupoint Catgut Embedding for Adults With Obesity: A Systematic
+Review and Meta-Analysis of Randomized Clinical Trials,” Medicine 103,
+no. 4 (2024): e36653.
+27. C. Y. J. Ng, W. M. Ng, Y. Zhao, and L. L. Zhong, “The Effectiveness
+of Different Modes of Acupuncture for Mature Adult Females With
+Obesity: A Systematic Review and Meta-Analysis,” Advances in Integrative
+Medicine 11, no. 1 (2024): 24–31.
+28. Z. Ruan, Y. Xiang, J. Li, X. Zhou, Z. Huang, and C. Dong, “Auricular
+Acupuncture for Obesity: A Systematic Review and Meta-Analysis,”
+International Journal of Clinical and Experimental Medicine 9, no. 2 (2016):
+1772–1779.
+Journal of Evidence-Based Medicine, 2025
+9 of 10
+
+[page 10]
+29. K. Zhang, S. Zhou, C. Wang, H. Xu, and L. Zhang, “Acupuncture on
+Obesity: Clinical Evidence and Possible Neuroendocrine Mechanisms,”
+Evidence-Based Complementary and Alternative Medicine 2018 (2018):
+6409389.
+30. J. Yao, Z. He, Y. Chen, et al., “Acupuncture and Weight Loss in Asians:
+A PRISMA-Compliant Systematic Review and Meta-Analysis,” Medicine
+98, no. 33 (2019): e16815.
+31. Y. M. Zhong, X. C. Luo, Y. Chen, et al., “Acupuncture Versus
+Sham Acupuncture for Simple Obesity: A Systematic Review and Meta-
+Analysis,” Postgraduate Medical Journal 96, no. 1134 (2020): 221–227.
+32. T. Guo, Y. Ren, J. Kou, J. Shi, S. Tianxiao, and F. Liang, “Acupoint
+Catgut Embedding for Obesity: Systematic Review and Meta-Analysis,”
+Evidence-Based Complementary and Alternative Medicine: eCAM 2015
+(2015): 401914.
+33. R. Q. Zhang, J. Tan, F. Y. Li, Y. H. Ma, L. X. Han, and X. L. Yang,
+“Acupuncture for the Treatment of Obesity in Adults: A Systematic
+Review and Meta-Analysis,” Postgraduate Medical Journal 93, no. 1106
+(2017): 743–751.
+34. S. H. Cho, J. S. Lee, L. Thabane, and J. Lee, “Acupuncture for Obesity:
+A Systematic Review and Meta-Analysis,” International Journal of Obesity
+33, no. 2 (2009): 183–196.
+35. L. Chen, J. Yao, Z. Chen, et al., “The Efficacy and Safety of Auricu-
+lotherapy for Weight Loss: A Systematic Review and Meta-Analysis,”
+European Journal of Integrative Medicine 49 (2022): 101402.
+36. D. Sibbritt, W. Peng, R. Lauche, C. Ferguson, J. Frawley, and J.
+Adams, “Efficacy of Acupuncture for Lifestyle Risk Factors for Stroke: A
+Systematic Review,” PLoS ONE 13, no. 10 (2018): e0206288.
+37. J. Park, H. Lee, B. C. Shin, M. S. Lee, B. Kim, and J. I. Kim,
+“Pharmacopuncture in Korea: A Systematic Review and Meta-Analysis
+of Randomized Controlled Trials,” Evidence-Based Complementary and
+Alternative Medicine: eCAM 2016 (2016): 4683121.
+38. R. G. Landgraaf, M. N. Bloem, M. Fumagalli, M. A. Benninga, F.
+de Lorijn, and M. Nieuwdorp, “Acupuncture as Multi-Targeted Therapy
+for the Multifactorial Disease Obesity: A Complex Neuro-Endocrine-
+Immune Interplay,” Frontiers in Endocrinology (Lausanne) 14 (2023):
+1236370.
+39. M. N. Wang, M. X. Zhai, Y. T. Wang, et al., “Mechanism of Acupunc-
+ture in Treating Obesity: Advances and Prospects,” American Journal of
+Chinese Medicine 52, no. 1 (2024): 1–33.
+40. Y. Sui, H. L. Zhao, V. C. Wong, et al., “A Systematic Review on Use
+of Chinese Medicine and Acupuncture for Treatment of Obesity,” Obesity
+Reviews 13, no. 5 (2012): 409–430.
+41. L. H. Wang, W. Huang, D. Wei, et al., “Mechanisms of Acupuncture
+Therapy for Simple Obesity: An Evidence-Based Review of Clinical and
+Animal Studies on Simple Obesity,” Evidence-Based Complementary and
+Alternative Medicine 2019 (2019): 5796381.
+42. W. Shen, Y. Wang, S. F. Lu, et al., “Acupuncture Promotes White
+Adipose Tissue Browning by Inducing UCP1 Expression on DIO Mice,”
+BMC Complementary and Alternative Medicine [Electronic Resource] 14
+(2014): 501.
+43. Y. Li, J. Yang, Y. Li, H. Hu, and C. O. L. Ung, “Efficacy and Safety of
+Acupuncture for Weight Management: A Systematic Review and Meta-
+Analysis of Randomized Controlled Trials,” Complementary Therapies in
+Medicine 90 (2025): 103171.
+44. Y. M. Zhong, X. C. Luo, Y. Chen, et al., “Acupuncture Versus
+Sham Acupuncture for Simple Obesity: A Systematic Review and Meta-
+Analysis,” Postgraduate Medical Journal 96, no. 1134 (2020): 221–227.
+45. J. Chen, J. L. Shergis, X. Guo, et al., “Acupuncture Therapies for
+Individuals With Overweight or Obesity: An Overview of Systematic
+Reviews,” Diabetes, Metabolic Syndrome and Obesity 15 (2022): 1651–1666.
+Supporting Information
+Additional supporting information can be found online in the Supporting
+Information section.
+Table S1: List of excludedretractions (with reasons).Table S2:Summary
+of protocol reporting andconclusions in includedsystematic reviews.
+Table S3:Summary of comparisons andoutcomes in includedmeta-
+analyses. Figure S1Percentage of includedstudies meeting each of the 11
+AMSTAR methodological quality criteria. AMSTAR,a measurement tool
+to assess systematic reviews. The 11 items of AMSTAR include:A1,Was an
+“a priori” design provided?; A2,Was there duplicate study selection and
+data extraction?; A3,Was a comprehensive literature search performed?;
+A4,Was the status of publication (i.e.,gray literature) usedas an inclusion
+criterion?; A5,Was a list of studies (includedandexcluded) provided?;
+A6,Were the characteristics of the includedstudies provided?; A7,Was
+the scientific quality of the includedstudies assessedanddocumented?;
+A8,Was the scientific quality of the includedstudies usedappropriately
+in formulating conclusions?; A9,Were the methods usedto combine the
+findings of studies appropriate?; A10,Was the likelihoodof publication
+bias assessed?; A11,Was the conflict of interest stated? Figure S2: Bubble
+plot of low-quality evidence for the effectiveness of acupuncture for
+obesity. BMI,body mass index; BW,body weight. Figure S3: Bubble plot of
+very low-quality evidence for the effectiveness of acupuncture for obesity.
+BMI,body mass index; BW,body weight.
+10 of 10
+Journal of Evidence-Based Medicine, 2025

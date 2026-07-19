@@ -1,0 +1,218 @@
+
+
+[page 1]
+Menu
+An official website of the United States government
+Español
+Home
+About Cancer
+Cancer Causes and Prevention
+Risk Factors 
+Cancer-Causing Substances
+Hair Dyes, Other Hair Products, and Cancer Risk
+Hair Dyes, Other Hair Products, and Cancer Risk
+On This Page
+Why is there concern that hair dyes may cause cancer?
+Do hairdressers and barbers have an increased risk of cancer?
+Do people who have their hair dyed have increased risks of cancer?
+Do people who use hair straighteners or relaxers have increased risks of cancer?
+Why is there concern that hair dyes may cause cancer?
+Hair dyes use chemicals to change the color of the hair. There are three main types of hair dye:
+permanent, semi-permanent, and temporary. 
+Permanent hair dyes, which make up about 80% of currently marketed hair dye products, use
+colorless dye intermediates and dye couplers. In the presence of hydrogen peroxide, the
+intermediates and couplers react with one another to form pigment molecules. Darker colors are
+formed by using higher concentrations of intermediates. 
+The other types of hair dyes, known as semi-permanent and temporary hair dyes, do not involve
+such chemical reactions. Instead, they include colored compounds that stain hair directly.
+Some of the chemicals in hair dye products have been reported to be carcinogenic (cancer-causing)
+(1, 2). These include aromatic amines, which were used as dye intermediates in early permanent hair
+dye formulations. 
+In the mid- to late 1970s, manufacturers changed the components in permanent hair dye products to
+eliminate some of the carcinogenic chemicals used as dye intermediates (1, 3, 4). It is not known
+whether any of the chemicals still used in hair dyes are carcinogenic (5). 
+People who use hair dyes frequently as part of their job, such as professional hairdressers, likely
+have higher exposures to potentially harmful chemicals in these products than people who have
+their hair dyed in a salon or who dye it at home (that is, “personal users” of hair dye). Thus, studies
+have been conducted to understand both exposure to hair dyes in the occupational setting and
+exposure from personal use. 
+It has been estimated that between 50% and 80% of women in the United States, Japan, and the
+European Union have used hair dyes (6). Given the widespread use of hair dye products, if these
+products had even a small effect on cancer risk that could translate into a considerable public health
+impact.
+Do hairdressers and barbers have an increased risk of cancer?
+
+[page 2]
+In 2010, a report from the International Agency for Research on Cancer (IARC) concluded that some
+of the chemicals professional hairdressers are exposed to are “probably carcinogenic to humans” (6).
+This conclusion is based on many studies that have found an increased risk of bladder cancer in
+hairdressers and barbers who were occupationally exposed to hair dye (1, 7). A 2010 meta-analysis of
+42 studies found that the longer someone had worked as a hairdresser, the more likely they were to
+have developed bladder cancer. Those who had been hairdressers for at least 10 years were nearly
+twice as likely to develop bladder cancer as those who had never worked as a hairdresser (7). 
+One study looked at risks among Swedish hairdressers over different time periods. That study found
+no increased risk in recent decades, suggesting that professional use of modern hair dyes, which no
+longer contain aromatic amines, may not be associated with bladder cancer risk (8).
+Do people who have their hair dyed have increased risks of cancer?
+Epidemiologic studies that follow groups of people over time (cohort studies) or that study people
+with and without specific cancers (case–control studies) have examined possible associations
+between personal use of hair dyes and risks of several cancers. Based on a review of existing
+evidence, the IARC Working Group considers personal use of hair dyes overall as “not classifiable as
+to its carcinogenicity to humans” (6).
+Bladder cancer. A 2014 analysis of data pooled from 17 studies found no evidence of an increased
+risk of bladder cancer associated with personal hair dye use (9). However, for personal use of
+permanent hair dyes specifically, the evidence of an association with bladder cancer is mixed. Some
+studies (10–12) found no association, whereas others found an association in specific subgroups of
+users (13–15). 
+Non-Hodgkin lymphoma. A number of studies have investigated the relationship between personal
+use of hair dyes and the risk of non-Hodgkin lymphoma (NHL), with conflicting results. A pooled
+(combined) analysis of four case–control studies found that women who began using hair dye before
+1980 (before formulations were changed to remove carcinogenic compounds) were 1.3 times as
+likely to develop NHL as women who had never used hair dye, whereas no increase in risk was seen
+for women who began using hair dye after 1980 (16). A large 2020 prospective cohort study reported
+no association between personal use of hair dye and the risk of non-Hodgkin lymphoma (12).
+Breast cancer. Many studies have examined possible associations between hair dye use and breast
+cancer, with mixed and inconsistent results. However, more recent studies that have looked at larger
+populations of women with longer follow-up periods and more detailed characterization of hair dyes
+and other breast cancer risk factors have found that certain kinds of exposures may be associated
+with risk. 
+For example, a large US cohort study that included mostly White women reported an increased risk
+of breast cancer overall, and of hormone receptor–negative breast cancers, with increasing exposure
+to hair dye (12). Another prospective study of US women who used dark or permanent hair dyes
+found that risks of breast cancer were higher in those who reported any use of hair dye than in those
+who reported no use (17). When the authors analyzed the data by racial group, they found that
+among non-Hispanic White women, hair dye users were 1.07 times as likely to develop breast cancer
+as non users, and among Black women users were 1.45 times as likely to develop breast cancer as
+nonusers (17). 
+Some studies have found that individuals who apply permanent hair dye themselves at home have a
+higher breast cancer risk than those who have it applied by a professional (17, 18). 
+Other cancers. Although some individual studies have shown associations between hair dye use and
+the risk of leukemia, a meta-analysis of 20 studies showed a small association that was not
+
+[page 3]
+statistically significant (19). In addition, a large cohort study found no association between ever use
+of hair dye and the risk of leukemia but very slightly increased risks of basal cell carcinoma
+(particularly in women with naturally light hair) and ovarian cancer (12).
+Do people who use hair straighteners or relaxers have increased risks of
+cancer?
+Treatments used to straighten or relax hair contain a mixture of chemicals. Some formulations
+contain the carcinogen formaldehyde as an active ingredient. Several studies have found
+associations between the use of hair straighteners or relaxers and the subsequent development of
+breast cancer. 
+In a large case–control study in New York and New Jersey, White women who had ever used chemical
+hair relaxers were 1.7 times as likely as nonusers to develop breast cancer (20), but no such
+association was seen in Black women.
+In another large case–control study, Ghanaian women who had ever used these products were 1.6
+times as likely as nonusers to develop breast cancer (21).
+A large prospective study in the US found that women who used hair straighteners at least once per
+month in the previous 12 months were 1.3 times as likely to develop breast cancer as nonusers (17).
+In that same cohort of women, frequent use of straighteners and perms during adolescence was
+associated with a higher risk of premenopausal breast cancer (22).
+A nationwide prospective study of Black women found evidence that heavy users of lye-containing
+hair relaxers were more likely to develop estrogen receptor–positive breast cancers than never or
+light users (23). 
+Recently, a large cohort study found that women who had used any straightening products in the
+previous 12 months had 1.8 times the risk of developing uterine cancer as those who had never used
+such a product (24).
+Because hair straighteners and relaxers contain varying compositions of chemicals, future studies
+will try to narrow down which chemicals have specific health impacts.
+Selected References
+1. Bolt HM, Golka K. The debate on carcinogenicity of permanent hair dyes: New insights. Critical Reviews in Toxicology
+2007; 37(6):521–536. [PubMed Abstract]
+2. Turesky RJ, Freeman JP, Holland RD, et al. Identification of aminobiphenyl derivatives in commercial hair dyes.
+Chemical Research in Toxicology 2003; 16(9):1162–1173. [PubMed Abstract]
+3. Corbett JF. An historical review of the use of dye precursors in the formulation of commercial oxidation hair dyes.
+Dyes and Pigments 1999; 41(1–2):127–136. doi.org/10.1016/S0143-7208(98)00075-8
+4. Takkouche B, Etminan M, Montes-Martinez A. Personal use of hair dyes and risk of cancer: A meta-analysis.
+JAMA 2005; 293(20):2516–2525. [PubMed Abstract]
+5. He L, Michailidou F, Gahlon HL, Zeng W. Hair dye ingredients and potential health risks from exposure to hair dyeing.
+Chemical Research in Toxicology 2022; 35(6):901–915. [PubMed Abstract]
+6. International Agency for Research on Cancer. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans.
+Volume 99: Some Aromatic Amines, Organic Dyes, and Related Exposures. 2010. Accessed at
+https://publications.iarc.fr/_publications/media/download/2958/04f67887be058cb7ae62b10572bf41e37643b15c.pdf on
+February 22, 2022.
+7. Harling M, Schablon A, Schedlbauer G, Dulon M, Nienhaus A. Bladder cancer among hairdressers: A meta-analysis.
+Occupational and Environmental Medicine 2010; 67(5):351–358. [PubMed Abstract]
+
+[page 4]
+8. Czene K, Tiikkaja S, Hemminki K. Cancer risks in hairdressers: Assessment of carcinogenicity of hair dyes and gels.
+International Journal of Cancer 2003; 105(1):108-112. [PubMed Abstract]
+9. Turati F, Pelucchi C, Galeone C, Decarli A, La Vecchia C. Personal hair dye use and bladder cancer: A meta-analysis.
+Annals of Epidemiology 2014; 24(2):151–159. [PubMed Abstract]
+10. Kogevinas M, Fernandez F, Garcia-Closas M, et al. Hair dye use is not associated with risk for bladder cancer:
+Evidence from a case–control study in Spain. European Journal of Cancer 2006; 42(10):1448–1454. [PubMed Abstract]
+11. Lin J, Dinney CP, Grossman HB, Wu X. Personal permanent hair dye use is not associated with bladder cancer risk:
+Evidence from a case–control study. Cancer Epidemiology, Biomarkers & Prevention 2006; 15(9):1746–1749. [PubMed
+Abstract]
+12. Zhang Y, Birmann BM, Han J, et al. Personal use of permanent hair dyes and cancer risk and mortality in US women:
+Prospective cohort study. British Medical Journal 2020; 370:m2942. [PubMed Abstract]
+13. Koutros S, Silverman DT, Baris D, et al. Hair dye use and risk of bladder cancer in the New England bladder cancer
+study. International Journal of Cancer 2011; 129(12):2894–2904. [PubMed Abstract]
+14. Gago-Dominguez M, Castelao JE, Yuan JM, Yu MC, Ross RK. Use of permanent hair dyes and bladder cancer risk.
+International Journal of Cancer 2001; 91(4):575–579. [PubMed Abstract]
+15. Andrew AS, Schned AR, Heaney JA, Karagas MR. Bladder cancer risk and personal hair dye use. International Journal of
+Cancer 2004; 109(4):581–586. [PubMed Abstract]
+16. Zhang Y, de Sanjose S, Bracci PM, et al. Personal use of hair dye and the risk of certain subtypes of non-Hodgkin
+lymphoma. American Journal of Epidemiology 2008; 167(11):1321–1331. [PubMed Abstract]
+17. Eberle CE, Sandler DP, Taylor KW, White AJ. Hair dye and chemical straightener use and breast cancer risk in a large
+US population of black and white women. International Journal of Cancer 2020; 147(2):383–391. [PubMed Abstract]
+18. Rao R, McDonald JA, Barrett ES, et al. Associations of hair dye and relaxer use with breast tumor clinicopathologic
+features: Findings from the Women's Circle of Health Study. Environmental Research 2022; 203:111863. [PubMed
+Abstract]
+19. Towle KM, Grespin ME, Monnot AD. Personal use of hair dyes and risk of leukemia: A systematic literature review and
+meta-analysis. Cancer Medicine 2017; 6(10):2471–2486. [PubMed Abstract]
+20. Llanos AAM, Rabkin A, Bandera EV, et al. Hair product use and breast cancer risk among African American and White
+women. Carcinogenesis 2017; 38(9):883–892. [PubMed Abstract]
+21. Brinton LA, Figueroa JD, Ansong D, et al. Skin lighteners and hair relaxers as risk factors for breast cancer: Results
+from the Ghana breast health study. Carcinogenesis 2018; 39:571–579. [PubMed Abstract]
+22. White AJ, Gregoire AM, Taylor KW, et al. Adolescent use of hair dyes, straighteners and perms in relation to breast
+cancer risk. International Journal of Cancer 2021; 148(9):2255–2263. [PubMed Abstract]
+23. Coogan PF, Rosenberg L, Palmer JR, et al. Hair product use and breast cancer incidence in the Black Women's Health
+Study. Carcinogenesis 2021; 42(7):924–930. [PubMed Abstract]
+24. Chang CJ, O'Brien KM, Keil AP, et al. Use of straighteners and other hair products and incident uterine cancer. Journal
+of the National Cancer Institute 2022:djac165. doi: 10.1093/jnci/djac165. [PubMed Abstract]
+Related Resources
+What Is Bladder Cancer?
+Leukemia—Patient Version
+Lymphoma—Patient Version
+U.S. Food and Drug Administration page: Hair Dyes
+U.S. Food and Drug Administration page: Hair-Smoothing Products That Release Formaldehyde When Heated
+Reviewed: December 1, 2022
+If you would like to reproduce some or all of this content, see Reuse of NCI Information for guidance about copyright and
+permissions. In the case of permitted digital reproduction, please credit the National Cancer Institute as the source and link to
+
+[page 5]
+the original NCI product using the original product's title; e.g., “Hair Dyes, Other Hair Products, and Cancer Risk was originally
+published by the National Cancer Institute.”
+Want to use this content on your website or other digital platform? Our syndication services page shows you how.
+About
+About This Website
+en Español
+Reuse & Copyright
+Social Media
+Resources
+Contact Us
+Publications
+Dictionary of Cancer Terms
+Find a Clinical Trial
+Policies
+Accessibility
+FOIA
+Privacy & Security
+Disclaimers
+Vulnerability Disclosure
+Sign up for email updates
+Enter your email address
+Sign up
+National Cancer Institute
+at the National Institutes of Health
+Contact Us
+Live Chat
+1-800-4-CANCER
+NCIinfo@nih.gov
+Site Feedback
+Follow us
+U.S. Department of Health and Human Services
+National Institutes of Health
+National Cancer Institute
+USA.gov

@@ -1,0 +1,81 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Vitamin E and C
+supplementation
+during pregnancy
+Intervention | Last updated: 9 August 2023
+Vitamin E functions as a lipid-soluble antioxidant, protecting cells of the body from
+damage by harmful free radicals (i.e. reactive oxygen molecules) and may have other
+physiological functions. Vitamin C has also antioxidant properties, and is additionally
+involved in the synthesis of collagen and metabolism of iron and folate.
+As antioxidants, vitamins E and C act synergistically to help prevent oxidative stress,
+which is an imbalance in the amount of free radicals circulating in the body and the
+availability of antioxidants to counter the free radicals. Vitamin E and C
+supplementation is thus often given concurrently.
+
+[page 2]
+Links have been made between oxidative stress during pregnancy and the development
+of pre-eclampsia, and increased risk of intrauterine growth restriction and pre-labour
+rupture of membranes (PROM). Oxidative stress has also been implicated in many
+disorders common to preterm infants including chronic lung disease, necrotising
+enterocolitis and others. However, currently available evidence indicates that
+supplementation with vitamin E and C together likely has little to no effect on relevant
+outcomes in mothers and infants, and may in fact increase the risk of PROM.
+WHO Recommendations
+Vitamin E and C supplementation is not recommended for pregnant women to improve
+maternal and perinatal outcomes.
+Learn More 
+Guidelines and guidance documents
+WHO recommendations on antenatal care for a positive pregnancy
+experience
+GRC-approved guidelines
+Evidence
+Systematic reviews used to develop the guidelines
+Vitamin C supplementation in pregnancy
+Rumbold A, Ota E, Nagata C, Shahrook S, Crowther CA. Cochrane Database of Systematic Reviews. 2015;
+Issue 9. Art. No.: CD004072.
+Summary of this review 
+Vitamin E supplementation in pregnancy
+Rumbold A, Ota E, Hori H, Miyazaki C, Crowther CA. Cochrane Database of Systematic Reviews. 2015; Issue
+9. Art. No.: CD004069.
+Summary of this review
+
+[page 3]
+Related Cochrane reviews
+Vitamin supplementation for preventing miscarriage
+Balogun OO, da Silva Lopes K, Ota E, Takemoto Y, Rumbold A, Takegata M, Mori R. Cochrane Database of
+Systematic Reviews. 2016; Issue 5. Art. No.: CD004073.
+Summary of this review 
+Learn More 
+Cost-effectiveness
+Implementation of this intervention is not recommended.
+Guidelines have been recently
+approved by the WHO Guidelines
+Review Committee
+Learn More 
+Category 1 Intervention
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+
+[page 4]
+Privacy policy
+© 2026 WHO

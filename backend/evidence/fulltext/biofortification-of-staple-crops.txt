@@ -1,0 +1,85 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Biofortification of
+staple crops
+Intervention | Last updated: 9 August 2023
+Fortification is the practice of deliberately increasing the content of an essential
+micronutrient, i.e. vitamins and minerals (including trace elements) in a food, so as to
+improve the nutritional quality of the food supply and provide a public health benefit
+with minimal risk to health.
+Biofortification is the process by which the nutritional quality of food crops is improved
+through agronomic practices, conventional plant breeding, or modern biotechnology.
+Biofortification differs from conventional fortification in that biofortification aims to
+increase nutrient levels in crops during plant growth rather than through manual
+means during processing of the crops. Biofortification may therefore present a way to
+
+[page 2]
+iron-biofortification of rice, beans, sweet potato, cassava and legumes;
+zinc-biofortification of wheat, rice, beans, sweet potato and maize;
+provitamin A carotenoid-biofortification of sweet potato, maize and cassava; and
+amino acid and protein-biofortification of sourghum and cassava.
+reach populations where supplementation and conventional fortification activities may
+be difficult to implement and/or limited.
+Examples of biofortification projects include:
+WHO Recommendations
+Further research is needed before specific recommendations can be made.
+Learn More 
+Guidelines and guidance documents
+GRC-approved guidelines
+Status: Not currently available
+Evidence
+Related Cochrane reviews
+Staple crops biofortified with increased micronutrient content: effects on vitamin and mineral
+status, as well as health and cognitive function in the general population (protocol)
+Garcia-Casal MN, Peña-Rosas JP, Pachón H, De-Regil LM, Centeno Tablante E, Flores-Urrutia MC. Cochrane
+Database of Systematic Reviews. 2016; Issue 8. Art. No.: CD012311.
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+How Cost-Effective is Biofortification in Combating Micronutrient Malnutrition? An Ex ante
+Assessment
+JMeenakshi JV, Johnson NL, Manyong VM, DeGroote H, Javelosa J, Yanggen DR, et al.World Development.
+2010; 38(1):64-75.
+
+[page 3]
+Cost-Effectiveness of Golden Mustard for Treating Vitamin A Deficiency in India
+Chow J, Klein EY, Laxminarayan R.PLoS One. 2010; 5(8):e12046.
+Potential impact and cost-effectiveness of multi-biofortified rice in China
+De Steur H, Gellynck X, Blancquaert D, Lambert W, Van Der Straeten D, Qaim M. N Biotechnol. 2012;
+29(3):432-42.
+Plant breeding to control zinc deficiency in India: how cost-effective is biofortification?
+Stein AJ, Nestel P, Meenakshi JV, Qaim M, Sachdev HP, Bhutta ZA. Public Health Nutr. 2007; 10(5):492-501.
+Available evidence is limited and
+systematic reviews have not yet been
+conducted
+Learn More 
+Biofortification of crops with
+minerals and vitamins
+Category 3 intervention
+Biological, behavioural and contextual
+rationale
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+
+[page 4]
+Newsletters
+Report misconduct
+Privacy policy
+© 2026 WHO

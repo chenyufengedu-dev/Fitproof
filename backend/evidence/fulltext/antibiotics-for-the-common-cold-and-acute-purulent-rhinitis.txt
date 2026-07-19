@@ -1,0 +1,1091 @@
+
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+of 1147 participants. The RR of adverse eﬀects in the antibiotic group was 1.8, 95% CI 1.01 to 3.21, (random-eﬀects). Adult participants had
+a significantly greater risk of adverse eﬀects with antibiotics than with placebo (RR 2.62, 95% CI 1.32 to 5.18) (random-eﬀects) while there
+was no greater risk in children (RR 0.91, 95% CI 0.51 to 1.63).
+The pooled RR for persisting acute purulent rhinitis with antibiotics compared to placebo was 0.73 (95% CI 0.47 to 1.13) (random-eﬀects),
+based on four studies with 723 participants. There was an increase in adverse eﬀects in the studies of antibiotics for acute purulent rhinitis
+(RR 1.46, 95% CI 1.10 to 1.94).
+Authors' conclusions
+There is no evidence of benefit from antibiotics for the common cold or for persisting acute purulent rhinitis in children or adults. There is
+evidence that antibiotics cause significant adverse eﬀects in adults when given for the common cold and in all ages when given for acute
+purulent rhinitis. Routine use of antibiotics for these conditions is not recommended.
+P L A I N   L A N G U A G E   S U M M A R Y
+Antibiotics for the common cold, an infection of the upper respiratory tract
+Most people around the world will have one or more common cold episodes every year. Except in low-income countries, the common cold
+is one of the most cited reasons for people to use antibiotics, even more so if the mucus from their nose is coloured (acute purulent rhinitis).
+However, common colds are caused by viruses, which do not respond to antibiotics, and antibiotics can cause side eﬀects, especially
+diarrhoea. Overuse of antibiotics leads to bacteria becoming resistant to antibiotics.
+To find out whether antibiotics work for the common cold we identified studies that compared one group of people taking an antibiotic
+with another group of people taking a medication that looked similar but contained no antibiotic (a placebo). We found six studies of the
+common cold, with 1147 participants and five studies of acute purulent rhinitis, with 791 participants. Many of the studies had flaws which
+might have biased the results, especially because many of the participants probably had chest or sinus infections that the researchers did
+not know about.
+Results suggest that antibiotics do not work for either the common cold or for acute purulent rhinitis and many people are aﬀected by
+antibiotic side eﬀects.
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+The International Classification of Health Problems in Primary
+Care (ICHPPC) (Spector 1995) defines an acute upper respiratory
+tract infection (URTI), the common cold, as an illness with
+evidence of acute inflammation of the nasal or pharyngeal
+mucosa and the absence of other specifically defined respiratory
+conditions, for example streptococcal tonsillitis, laryngitis,
+bronchitis, pneumonia, asthma and hay fever (ICHPPC 1986). A
+common cold is commonly regarded as a self limiting viral illness
+that is experienced annually by the majority of the population. A
+practical definition is an acute illness with some of the following
+symptoms: rhinitis (not hay fever or allergic rhinitis), sore throat
+(not streptococcal pharyngitis), with or without fever, cough and/or
+productive sputum/purulent sputum.
+There is evidence of high usage of antibiotics for the common
+cold (viral URTI) in spite of doubts about the eﬀicacy of such
+therapy (McGregor 1995; Spector 1995). Although it is known that
+viruses are the causative agent, many patients presenting to their
+general practitioners receive antibiotics. In one study, URTI was
+the most common reason for new consultations in general practice
+and the second most common reason for the prescribing of an
+antibiotic (McAvoy 1994). In a New Zealand study, computerised
+records of 100,222 consultations from 17 General Practices were
+examined over one year (McGregor 1995). Seventy-eight per cent of
+patients with an URTI received antibiotics. About one-third of these
+medications were expensive broad-spectrum antibiotics. In a more
+recent study, 49% of persons with URTIs received antibiotics (Ochoa
+2000).
+There are two published reviews of antibiotics for treating
+URTIs. One review found no benefit of antibiotics for preventing
+pneumonia in patients with URTI (Gadomski 1993). Another review
+found that antibiotics had no benefit in children and that there was
+no strong evidence of significant adverse eﬀects (Fahey 1998).
+The presence of purulent nasal discharge (or a runny nose with
+coloured discharge) has repeatedly been shown to be an important
+determinant of antibiotic prescribing for respiratory tract infections
+for both adults and children (Arroll 2000; Gonzales 1999; Mainous
+1997). In one study, no General Practitioners said they would give
+antibiotics for clear rhinitis, yet 72% said they would for purulent
+rhinitis (Arroll 2000). A survey found that primary care physicians
+were far more likely to prescribe an antibiotic for a patient with a
+cold involving coloured nasal discharge than for a patient without
+coloured nasal discharge (Mainous 1997). Another study found
+purulent nasal discharge was a stronger predictor of prescribing
+antibiotics than any other patient characteristic (Gonzales 1999).
+Guidelines usually advise against antibiotics for acute purulent
+rhinitis (Rosenstein 1998; Snow 2001) yet evidence supporting
+such recommendations comes from a limited number of small
+studies of varying methodological quality. Some studies have
+found no evidence that antibiotics reduce the duration of acute
+purulent rhinitis (Todd 1984) whereas a recent larger study reported
+that treatment with amoxicillin reduced the duration of purulent
+rhinorrhoea; although there was no significant diﬀerence between
+the groups in terms of general symptom improvement (De Sutter
+2002).
+It is important to obtain an estimate of the eﬀectiveness of
+antibiotics for the common cold to support judicious use of these
+important medicines, particularly because URTIs are so common. If
+ineﬀective, as has long been thought, widespread use of antibiotics
+is not only a poor use of health funds but also a cause of
+unnecessary morbidity from adverse eﬀects and of development
+of resistant strains (Arason 1996; Verkatesum 1995). If antibiotics
+were shown to be eﬀective for the common cold then society
+may be willing to tolerate the increase of resistance with an
+appropriate reduction in the symptoms. Other reviews to date
+have not specifically considered the eﬀect of antibiotics in acute
+purulent rhinitis. The current review expands on previous reviews
+by considering the eﬀects of antibiotics on the speed of resolution
+of common cold symptoms in both adults and children, and by
+examining the evidence for antibiotics in both acute purulent
+rhinitis and acute clear rhinitis.
+Description of the condition
+The common cold, or acute upper respiratory tract infection (URTI),
+is an illness with evidence of acute inflammation of the nasal
+(rhinitis) or pharyngeal mucosa (sore throat) and the absence
+of other specifically defined respiratory conditions, for example
+streptococcal tonsillitis, laryngitis, bronchitis, pneumonia, asthma
+and hay fever. Acute purulent rhinitis is the presence of coloured
+discharge, from one or both nostrils, that has persisted for less than
+10 days. The choice of less than 10 days is based on the inclusion
+criteria for the Cochrane Review on chronic purulent rhinitis which
+included patients with 10 or more days of purulent rhinitis (Morris
+2007).
+Description of the intervention
+The intervention in this review is antibiotics of any kind or placebo
+given to participants within seven days of the onset of common cold
+symptoms.
+How the intervention might work
+Antibiotics are thought to work on bacterial complications of the
+common cold, as they have no direct eﬀect on the viruses.
+Why it is important to do this review
+There is evidence that too many antibiotics are being used. Of the
+top 18 medications prescribed in New Zealand in 2008, three were
+antibiotics. Two of them are mainly used for respiratory infections
+and the number of prescriptions totaled 1,608,000 for a population
+of about four million people (Pharmac 2008).
+O B J E C T I V E S
+1. To determine the eﬀicacy of antibiotics compared with placebo
+for reducing general and specific nasopharyngeal symptoms of
+acute URTIs (common colds).
+2. To determine if antibiotics have any influence on the outcomes
+for acute purulent rhinitis and acute clear rhinitis lasting less
+than 10 days before the intervention.
+3. To determine whether there are significant adverse outcomes
+associated with antibiotic therapy for participants with a clinical
+diagnosis of acute URTI or acute purulent rhinitis.
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+All trials in which participants with the diagnosis of acute upper
+respiratory tract infection (URTI) were randomly assigned to
+treatment with an antibiotic or a placebo; also all trials in which the
+majority of participants had acute purulent rhinitis of less than 10
+days duration. We included trials allowing concurrent use of other
+medications if they allowed equal access for participants in both
+the antibiotic and placebo group.
+We excluded studies for the following reasons.
+1. If they involved the use of an active substance (such as cough
+mixtures or anti-pyretics/analgesics) instead of a placebo as
+these substances may help or suppress symptoms, thereby
+giving a false measure of the antibiotic's eﬀectiveness. Trials
+comparing one antibiotic with another, or trials comparing the
+use of antibiotics versus other medications, were not included.
+2. If antibiotics were given prophylactically, that is given
+to asymptomatic individuals, for many weeks to prevent
+symptoms of acute URTI.
+3. If more than 5% of participants had throat swabs positive
+for beta haemolytic streptococcal infection. In the sore throat
+review by Del Mar 1992, the lowest percentage of participants
+with streptococci on throat swab was 8%, hence our choice of
+5%. Two studies (Haight 1954; Hardy 1956) were excluded by this
+criterion but neither had data that could be analysed. We accept
+the contradiction that some studies may include participants
+with streptococcal infections or colonisation due to the fact
+that they have not performed throat cultures. There is also the
+issue of contaminants, which may be as high as 57% in children
+under 15 years with pharyngitis (Kaplan 1971), hence our desire
+to remove studies with high proportions of participants with
+positive throat cultures.
+4. If not randomised.
+5. If participants had past histories of serious illness, for example
+chronic obstructive respiratory disease where antibiotics have
+been shown to be eﬀective in treating exacerbations.
+6. If the participants had been given the diagnosis of bronchitis.
+The International Classification of Health Problems in Primary
+Care (ICHPPC) definition of bronchitis (Spector 1995) is a definite
+cough with abnormal chest signs: scattered or generalised,
+coarse or moist sounds, or wheeze. This definition is not always
+used by trialists and probably not by General Practitioners (Arroll
+2001).
+7. If the participants had more than seven days of symptoms at the
+time of study entry. This is an arbitrary duration to avoid post
+viral syndromes.
+8. If participants were treated with two or more medications, that
+is in situations where co-interventions could be an issue.
+9. If participants were diagnosed with pharyngitis not conforming
+to the ICHPPC (Spector 1995).
+10.If they did not include a placebo arm.
+Types of participants
+The analysis of the eﬀect of antibiotics on general symptoms of
+the common cold included participants of all ages who had been
+diagnosed with an acute URTI and had symptoms for seven days
+or less. We excluded trials in which the majority of participants
+had been diagnosed with pharyngitis or bronchitis conforming
+to the International Classification of Health Problems in Primary
+Care (ICHPPC 1986) definition. Lower respiratory tract signs were
+accepted in participants with the above symptoms, so long as the
+majority of participants in the study did not have these signs and
+pneumonia was ruled out.
+Types of interventions
+Antibiotic therapy versus placebo. We included trials which allowed
+concurrent use of other medications if they allowed equal access
+for participants in both the antibiotic and placebo group. We
+excluded studies if they did not compare antibiotic with placebo
+but instead used aspirin or antitussives in the control group.
+Types of outcome measures
+The outcome measures included persistence of symptoms of
+nasopharyngeal inflammation (rhinitis, sore throat and sneezing),
+global rating of health and any adverse eﬀects.
+Primary outcomes
+1. For the common cold: persisting symptoms.
+2. For acute purulent rhinitis: persistent purulent rhinitis.
+Secondary outcomes
+1. For both the common cold and acute purulent rhinitis: adverse
+eﬀects.
+2. For the common cold: sore throat, loss of time at work, loss of
+appetite, sneezing.
+3. For purulent rhinitis: persisting purulent rhinitis on currently
+available medication.
+Search methods for identification of studies
+Electronic searches
+For this 2013 update we searched the Cochrane Central Register
+of Controlled Trials (CENTRAL) 2013, Issue 1, part of The Cochrane
+Library, www.thecochranelibrary.com (accessed 26 March 2013),
+which contains the Cochrane Acute Respiratory Infections Group's
+Specialised Register, MEDLINE (March 2005 to February 2013),
+EMBASE (January 2010 to February 2013), CINAHL (2005 to
+February 2013), LILACS (2005 to February 2013) and Biosis Previews
+(2005 to February 2013).
+We used the following search strategy to search MEDLINE
+and CENTRAL. We combined the MEDLINE search strategy with
+the Cochrane Highly Sensitive Search Strategy for identifying
+randomised trials in MEDLINE: sensitivity- and precision-
+maximising version (2008 revision); Ovid format (Lefebvre 2011).
+We adapted this search strategy to search EMBASE (Appendix 1),
+CINAHL (Appendix 2), LILACS (Appendix 3) and Biosis Previews
+(Appendix 4). The search strategy has been amended since the last
+published version as the authors have now extended the review to
+include persistent nasal discharge (rhinosinusitis). Details of earlier
+searches are in Appendix 5.
+MEDLINE (Ovid)
+1 Respiratory Tract Infections/
+2 (upper adj3 respiratory tract infection*).tw.
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+3 (upper adj3 respiratory infection*).tw.
+4 urti.tw.
+5 Common Cold/
+6 common cold*.tw.
+7 head cold*.tw.
+8 coryza.tw.
+9 Rhinitis/
+10 rhinit*.tw.
+11 rhinosinusit*.tw.
+12 nasosinusit*.tw.
+13 (rhinorrhoea or rhinorrhoea).tw.
+14 Nasal Obstruction/
+15 ((runny or running or discharg* or congest* or blocked or stuﬀ*
+or dripping) adj2 (nose* or nasal)).tw.
+16 pharyngitis/ or nasopharyngitis/
+17 (pharyngit* or nasopharyngit*).tw.
+18 rhinopharyngit*.tw.
+19 Paranasal Sinus Diseases/
+20 exp Sinusitis/
+21 sinusit*.tw.
+22 exp Laryngitis/
+23 laryngit*.tw.
+24 sore throat*.tw.
+25 or/1-24
+26 exp Anti-Bacterial Agents/
+27 antibiotic*.tw,nm.
+28 (amoxicillin* or amoxycillin* or ampicillin* or penicillin* or
+tetracycline* or erythromycin* or oxytetracycline* or azithromycin*
+or ciprofloxacin* or pivampicillin* or cefuroxime* or augmentin*
+or co-trimoxazole* or cefoxitin* or cefriaxone* or cefixime* or
+norfloxacin* or cefazidime* or cefaclor* or ofloxacin*).tw,nm.
+29 exp Sulfamethoxazole/
+30 
+(sulphamethoxazole 
+or 
+sulfamethoxazole 
+or
+sulfisoxazole).tw,nm.
+31 or/26-30
+32 25 and 31
+Searching other resources
+We wrote to the trial authors of all the included studies and asked
+them if they knew of any unpublished material. We did not find any
+additional papers by this mechanism.
+Data collection and analysis
+Selection of studies
+The two review authors (BA, TK) independently checked the
+abstracts from the searches and selected the papers. We resolved
+disagreements through discussion. The Herne 1980 trial was
+translated from French to English. One paper was excluded because
+a placebo was not used in the control group (Sutrisna 1991).
+Data extraction and management
+The two review authors (BA, TK) selected the relevant abstracts
+afer the full papers were obtained. The two review authors (BA,
+TK) independently extracted data and we resolved disagreements
+through discussion.
+Assessment of risk of bias in included studies
+We used the Cochrane 'Risk of bias' tool for assessing bias (Higgins
+2011) with consideration of: adequate sequence generation,
+concealment of allocation, adequate blinding, incomplete
+outcome reporting and freedom from selective reporting. The two
+review authors (BA, TK) independently assessed trial quality and
+any diﬀerences were resolved through discussion.
+Measures of treatment eﬀect
+We used the risk ratio (RR) exclusively for dichotomous data.
+Unit of analysis issues
+All trials were standard parallel design randomised controlled trials
+(RCTs). The individual patient was the unit of analysis.
+Dealing with missing data
+None of the trials in this review except De Sutter 2002 conducted
+an intention-to-treat (ITT) analysis. All our results are per protocol
+analyses.
+Assessment of heterogeneity
+We assessed heterogeneity using the I2 statistic. When the I2
+statistic was over 50% we changed the analysis from fixed-eﬀect to
+random-eﬀects.
+Assessment of reporting biases
+The majority of our studies were negative and this, to some
+extent, guards against publication bias. The one positive study
+may have included participants with bacterial conditions such as
+streptococcal tonsillitis.
+Data synthesis
+We conducted a meta-analysis using the Review Manager (RevMan
+2012) sofware.
+Subgroup analysis and investigation of heterogeneity
+There was no subgroup analysis.
+Sensitivity analysis
+We conducted a sensitivity analysis on the main analysis of
+persisting symptoms and omitted the trial by Herne 1980. This
+changed the I2 statistic from 54% to 0%. The Herne trial was
+the outlier in that it was the only statistically significant trial in
+the common cold section of the review and may have contained
+participants with streptococcal tonsillitis. We conducted another
+sensitivity analysis with the adverse eﬀects for all the trials. This
+showed a statistically significant result in adults but not in children.
+The other sensitivity analysis was in the persistent purulent rhinitis
+outcome where the Herne trial was added for both clear and
+purulent rhinitis. When the Herne trial was added as purulent, the
+reduction in symptoms was just statistically significant. This did not
+change the conclusions.
+R E S U L T S
+Description of studies
+Results of the search
+See Appendix 2 for details of previous searches. In the 2009 search
+we identified 545 papers. None of them met the inclusion criteria
+for this review. The 2013 search of the electronic resources retrieved
+1128 records.
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Included studies
+Types of participants
+Ten studies contributed data to the meta-analyses. A further trial
+(Gordon 1974) reported only summary statistics, without providing
+any numerical data that could be included in the meta-analyses.
+Six studies contributed to one or more analyses of common
+cold outcomes (up to 1147 participants) and five contributed to
+one or more analyses of purulent rhinitis outcomes (up to 791
+participants). Two contributed to both (Herne 1980; Taylor 1977).
+One study contributed to the adverse eﬀects but did not contribute
+to the other outcome data (Howie 1970). Four of the trials in this
+review included children only (Gordon 1974; Lexomboon 1971;
+Taylor 1977; Todd 1984). Vogt 1966 included participants recruited
+from paediatricians' oﬀices, so there is an implication that these
+were all children. The remaining studies included:
+•
+adolescents and adults with no upper limit of age (Herne 1980;
+Hoaglund 1950; Kaiser 1996);
+•
+males aged 20 to 49 years (Howie 1970); and
+•
+adults up to 69 years (McKerrow 1961).
+Three studies examined men only (Herne 1980; Hoaglund 1950;
+Howie 1970).
+Types of outcome measures
+Only four studies measured the eﬀect of antibiotics on symptoms
+(Herne 1980; Howie 1970; Taylor 1977; Todd 1984). The
+denominator for one of these, Howie 1970, was episodes of illness
+rather than the number of participants, which prevented these data
+from being pooled with other studies. However, adverse eﬀects
+in this study were based on individuals, hence adverse eﬀects
+reported have been added to those from other studies (except for
+outcomes from five participants who had adverse eﬀects with more
+than one course of antibiotics and were removed from the analysis).
+Types of interventions
+Antibiotics used included:
+•
+a form of tetracycline, in five studies (Herne 1980; Hoaglund
+1950; Howie 1970; Lexomboon 1971; McKerrow 1961);
+•
+penicillin, ampicillin and amoxicillin, and amoxicillin/clavulanic
+acid, in five studies (De Sutter 2002; Gordon 1974; Kaiser 1996;
+Lexomboon 1971; Taylor 1977);
+•
+erythromycin, in one study (Gordon 1974);
+•
+co-trimoxazole, in one study (Taylor 1977);
+•
+cephalosporin, in one study (Todd 1984);
+•
+an antibacterial called xibornol (no longer on the market in
+France or elsewhere) in one study (Herne 1980) and also
+mentioned by Reynolds 1996; and
+•
+topical nitrofurazone, in one study (Vogt 1966).
+Nasopharyngeal cultures
+Kaiser 1996 performed an analysis by culture status of
+three nasopharyngeal pathogens: Haemophilus influenzae (H.
+influenzae), Moraxella catarrhalis (M. catarrhalis) and Streptococcus
+pneumoniae (S. pneumoniae). The only trial to do throat swabs
+on almost all (88 out of 89) participants was Gordon 1974. These
+participants were included in the analysis. Herne 1980 excluded
+some participants from the analysis because they developed a
+red, pustular tonsillitis thought to be due to beta haemolytic
+streptococcus.
+Inclusion criteria
+The inclusion criteria were either contained in the methods section
+or in the title of the study. They were:
+•
+in Gordon 1974, participants with minor respiratory illness (in
+the title) and symptoms referable to the respiratory tract, not
+sick enough for the use of a placebo to be a risk;
+•
+in Herne 1980, non-severe upper respiratory tract infection (in
+the methods);
+•
+in Hoaglund 1950, common cold (in the title) and local and
+constitutional symptoms (in the methods);
+•
+in Howie 1970, minor respiratory illness (in the title) and
+presence of cough, spit, purulent spit and purulent nasal
+discharge;
+•
+in Kaiser 1996, common cold (in the title) and symptoms of nasal
+congestion and rhinorrhoea (in the methods);
+•
+in Lexomboon 1971, upper respiratory tract infection (URTI) (in
+the title) and symptoms of URTI within the last 48 hours (in the
+methods);
+•
+in McKerrow 1961 common cold (in the title);
+•
+in Taylor 1977 participants with presumed viral respiratory
+infection (in the title) and exclusion of participants with beta
+haemolytic streptococcus on throat swabs, otitis media and
+pneumonia;
+•
+in Todd 1984, non-transparent anterior nasal discharge (in the
+methods section).
+Two included studies (De Sutter 2002; Vogt 1966) focused on acute
+purulent rhinitis.
+Excluded studies
+We excluded 31 studies. The major reason for exclusion was that
+they were not placebo-controlled (usually compared to another
+antibiotic or an over-the-counter medication). There were also a
+number of trials conducted in the military which used prophylactic
+antibiotics.
+Risk of bias in included studies
+All of the included trials were double-blind evaluations comparing
+antibiotic with a placebo. It was assumed that blinding was
+satisfactory because all studies included a statement that
+medication was given in a double-blind manner and un-blinding of
+participants was not reported. However, no formal description of
+blinding was included in any of the trials.
+The method of randomisation was marginally satisfactory for
+some of the studies. In Hoaglund 1950 the pharmacist dispensed
+the medication "in rotation". The method of randomisation was
+"haphazard" in the study by Vogt 1966, hence there is some concern
+about the methods of this study. In Lexomboon 1971 the allocation
+was determined by the selection of coloured strips and only the
+pharmacist knew the allocation. The method of randomisation
+for the De Sutter 2002 study was by computer-generated random
+number and the medications (capsules) were identical.
+All but two of the studies had either inclusion criteria that selected
+cases of acute viral respiratory tract infection and/or had the term
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+viral or minor respiratory infection or common cold in the title of the
+study. The exception was Todd 1984, where the children had non-
+transparent nasal discharge. While there was some variation in the
+inclusion criteria (for example, Gordon 1974 found 13% of children
+under two years old and 16% of two- to four-year olds had clinical
+signs in the chest) the study groups generally included participants
+with acute URTIs. There were no extractable data in this study so
+the results were not pooled.
+Loss to follow-up was an issue for a number of the studies; only one
+analysed results on an ITT basis (De Sutter 2002).
+The overall risk of bias is presented graphically in Figure 1 and
+summarised in Figure 2.
+ 
+Figure 1.   'Risk of bias' graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding (performance bias and detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+0%
+25%
+50%
+75%
+100%
+Low risk of bias
+Unclear risk of bias
+High risk of bias
+ 
+ 
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   'Risk of bias' summary: review authors' judgements about each risk of bias item for each included study.
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding (performance bias and detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+De Sutter 2002
++
++
++
++
++
+−
+Gordon 1974
++
+?
++
+?
++
+?
+Herne 1980
++
+?
++
++
++
+−
+Hoaglund 1950
+?
+?
+?
++
++
+−
+Howie 1970
++
++
++
+?
++
++
+Kaiser 1996
++
+?
++
+?
++
+?
+Lexomboon 1971
++
+?
++
+?
++
++
+McKerrow 1961
++
++
++
++
++
+−
+Taylor 1977
++
+?
++
++
++
+−
+Todd 1984
+?
+?
++
+?
++
++
+Vogt 1966
+−
+?
++
++
++
++
+ 
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation
+There was a range of diﬀerent methods of randomisation.
+They ranged from computerised randomisation (De Sutter 2002),
+randomised and no details (Herne 1980), dispensed in rotation by
+the pharmacist (Hoaglund 1950), and random selection of coloured
+strips from a box (only the pharmacists knew the allocation)
+(Lexomboon 1971).
+Blinding
+All trials had identical active and placebo medications.
+Incomplete outcome data
+The drop-out rate ranged from 0% (Gordon 1974; Hoaglund 1950)
+to 25% (Todd 1984). There do not seem to be any diﬀerential drop-
+out rates so it is unlikely that this would aﬀect the outcomes.
+Selective reporting
+There was no evidence of selective reporting.
+Other potential sources of bias
+The potential for bias in a trial of a predominantly viral condition
+is that of bacterial co-morbidity. In the De Sutter 2002 trial more
+then 60% of the participants had facial pain and some of these may
+have had bacterial sinusitis. In the study by Herne 1980 there were
+a number of participants with streptococcal tonsillitis. Both these
+co-morbidities could over estimate the eﬀectiveness of treatment
+and possibly did so in the Herne 1980 trial. The fact that the overall
+pooling showed no eﬀect means that these trials did not aﬀect the
+outcome.
+Eﬀects of interventions
+All analyses used the fixed-eﬀect model unless otherwise stated.
+Lack of cure and persisting symptoms
+Studies reported diﬀerent outcome measures but all those with
+analysable data reported some general aspect of improvement.
+This was defined as:
+•
+persistence of clinical symptoms and signs at day five (Herne
+1980);
+•
+no benefit in 24 hours (Hoaglund 1950);
+•
+symptoms persistent or worse at five days (Kaiser 1996);
+•
+not better at day seven (Lexomboon 1971);
+•
+no cure or not improved in three days (McKerrow 1961);
+•
+not returning to normal activity (Taylor 1977); and
+•
+persistence of purulent nasal discharge at day 10 (De Sutter
+2002).
+The risk ratio (RR) of no cure or persistence was 0.83 (95%
+confidence interval (CI) 0.60 to 1.14, random-eﬀects) (Analysis
+1.1). When we analysed results for children and adults separately,
+there was no significant finding for lack of cure or persistence
+of symptoms in either group (Analysis 1.3; Analysis 1.4). Herne
+1980 was the only study to show a benefit with antibiotics. Seven
+participants were removed from the analysis by the investigators
+because of tonsillitis and the review authors were concerned that
+there may have been more in this study. When Herne 1980 was
+removed from the analysis, the RR of no cure or persistence
+increased to 0.96 (95% CI 0.83 to 1.11) (Analysis 1.2).
+Howie 1970 reported outcomes using episodes of illness as the
+denominator, which meant that the data could not be pooled with
+the other studies. This study analysed antibiotic versus placebo
+by signs and symptoms (cough, purulent nasal discharge, spit and
+purulent spit) and found no significant diﬀerences.
+Analysis by type of antibiotic was not undertaken for any of the
+outcomes. The results for diﬀerent types of antibiotics were added
+together in situations where more than one antibiotic was used in
+a study.
+The only study not to contribute to this lack of cure and persistence
+of symptoms analysis (other than Howie) was Gordon 1974.
+Their results were expressed as P values rather than a count of
+participants with symptoms and they found that placebo was
+better at relief of symptoms than ampicillin (P = 0.05); there was
+no significant diﬀerence between placebo and erythromycin or
+placebo and penicillin. Only two participants grew beta haemolytic
+streptococcus in that study so it was decided to leave the study in
+this review.
+Sensitivity analysis of lack of cure and persisting symptoms
+Delay starting antibiotic and low dose antibiotic
+Hoaglund 1950 assessed the outcome of treatment at 24 hours afer
+medication was started, that is sooner than antibiotics are thought
+to work. McKerrow 1961 used 15 mg tablets three times daily for the
+three tetracycline groups in their study. Today this dose would be
+regarded as sub-therapeutic. Analysis excluding these two studies
+did not significantly change the RR (Analysis 1.5).
+Positive throat swabs
+Kaiser 1996 found a significant benefit (cure) for antibiotics only
+in the subset of participants who had positive nasopharyngeal
+aspirates for any one of three respiratory pathogens (H. influenzae,
+M. catarrhalis and S. pneumoniae), which occurred in 20% of the
+study participants. Open treatment was prescribed for 11 (39%)
+participants on placebo and three (10%) participants assigned
+to amoxicillin/clavulanic acid. When Kaiser 1996 was excluded
+from the analysis there was no significant change in the eﬀect
+(RR 0.74, 95% CI 0.48 to 1.13) (Analysis 1.6). We acknowledge
+the contradiction of including a study with some participants
+who had a bacterial diagnosis on retropharyngeal swabs while
+excluding studies with participants who had positive throat swabs
+for streptococcus.
+Active medication in the control group
+In Ackerman 1968, penicillin and tetracycline were compared with
+a control group taking dextromethorphan (Robitussin), which is a
+cough suppressant and for which there was some evidence that it
+was eﬀective. It thus cannot be assumed to be an inert placebo.
+A sensitivity analysis adding Ackerman 1968 to the other studies
+made no significant diﬀerence to the RR. Also, our review was
+directed at antibiotics versus placebo. Consequently this paper has
+been lef out of the final analysis.
+Smoking
+Six of the 10 reviewed studies were in adults but smoking was
+considered in only one of these studies (Howie 1970). In this study
+there was no significant diﬀerence between active and placebo
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+treatments in terms of benefit to smokers or non smokers (P value
+> 0.05).
+Other outcomes
+Sore throat
+Only two studies reported on sore throat persisting at day seven
+as an outcome (Herne 1980; Taylor 1977). The RR was 0.47 95% CI
+0.12 to 1.82 for persisting sore throat, with no significant diﬀerence
+between the treatment groups (Analysis 4.1).
+Loss of appetite
+There was only one study which reported the lack of return of
+appetite at day eight (Taylor 1977). The RR of a lack of return of
+appetite was 0.97, 95% CI 0.44 to 2.12 (Analysis 6.1). Return of
+appetite was not specified a priori as an item warranting analysis.
+Loss of time at work
+The only study to report loss of time at work was Howie 1970, where
+the RR for any work loss per episode of illness was 0.88, 95% CI 0.69
+to 1.13 (Analysis 5.1).
+Sneezing
+None of the studies reported sneezing as an outcome.
+Adverse eﬀects
+Six studies reported adverse eﬀects experienced by individual
+participants. When all studies were combined there was a
+significant diﬀerence for adverse eﬀects (RR 1.80, 95% CI 1.01
+to 3.21; random-eﬀects model) but there was a high level of
+heterogeneity (Analysis 1.7). This appeared to be due to a diﬀerence
+between adults and children because when analysed separately
+there was a significant diﬀerence for adults (RR 2.62, 95% CI 1.32 to
+5.18; random-eﬀects model) (Analysis 1.8) but not for children (RR
+0.91, 95% CI 0.51 to 1.63) Analysis 1.9; heterogeneity for the child
+analysis was not significant. McKerrow 1961 did not distinguish
+between the pneumoconiosis group and the oﬀice (unit) group
+so the proportion of adverse eﬀects in the oﬀice unit group were
+allocated in proportion to the number of participants in the two
+parts of the study; with this study removed the increase in adverse
+eﬀects with antibiotics was not significant (RR1.68, 95% CI 0.67 to
+4.20) (Analysis 1.10). Some studies did not report adverse eﬀects
+(Gordon 1974; Herne 1980; Hoaglund 1950; Lexomboon 1971; Vogt
+1966). In the purulent rhinitis studies there was a statistically
+significant increase in adverse eﬀects (RR 1.46, 95% CI 1.1 to 1.94)
+(Analysis 3.4).
+Rhinitis purulent and clear
+The study by Herne 1980 did not specify if the rhinitis was purulent
+or not. When this study was excluded, pooling the other four
+antibiotic versus placebo studies for purulent rhinitis gave a RR
+of 0.73 (95% CI 0.47 to 1.13; random-eﬀects model) (Analysis 3.1).
+When Herne 1980 was added to the purulent group, the RR was
+0.67 (95% CI 0.43 to 1.04; random-eﬀects model) for persisting
+purulent rhinitis (Analysis 3.2). Because xibornol and inhaled
+nitrofurazone are no longer available, pooling the three studies plus
+the tetracycline arm of the Herne study gave a RR of 0.74 (95% CI
+0.46 to 1.18; random-eﬀects model) for persisting purulent rhinitis
+on currently available antibiotics (Analysis 3.3). It is worth noting
+that in Howie 1970 there was no significant benefit from antibiotics
+in participants with purulent nasal discharge but this study used
+illnesses, not individuals, as the denominator. Antibiotics also
+appeared to be not eﬀective for clear rhinitis when Herne was
+added as clear rhinitis (RR 0.58, 95% CI 0.23 to 1.48; random-
+eﬀects model) (Analysis 2.1). Five studies reported purulent rhinitis
+with no additional explanation (Howie 1970; Kaiser 1996; Taylor
+1977; Todd 1984; Vogt 1966). De Sutter 2002 defined purulent
+rhinitis on a purely clinical basis (that is, the recruiting doctors
+made the decision). Nineteen per cent of those in Kaiser 1996 had
+radiologically confirmed sinusitis. Fify-three per cent to 56% of
+participants in De Sutter 2002 reported unilateral facial pain. The
+incidence of unilateral facial pain was not reported in six trials
+(Herne 1980; Howie 1970; Kaiser 1996; Taylor 1977; Todd 1984; Vogt
+1966).
+D I S C U S S I O N
+While the International Classification of Health Problems in Primary
+Care (ICHPPC) gives one definition of upper respiratory tract
+infection (URTI), it is not clear how rigidly this definition applies
+in practice. The review authors have accepted that the diagnosis
+of URTI is made on clinical grounds and treatment decisions are
+made on the basis of that clinical decision. Although the range of
+inclusion criteria appears wide, the review authors accept that the
+majority of participants in each study in this review were suﬀering
+from viral URTIs. Only three studies reported their findings in terms
+of the lower respiratory tract. Gordon 1974 reported 13% of children
+under two years old and 13% of those over six years to have
+lower respiratory tract signs. Forty-three per cent (84 out of 197)
+of participants in Taylor 1977 had auscultatory evidence of a more
+extensive peripheral airways disease.
+Herne 1980 included seven participants with bronchitis: four in
+the tetracycline group, two in the xibornol group and one in the
+placebo group. In the context we assumed this diagnosis was
+mainly due to bronchospasm. We excluded studies with significant
+numbers of participants with streptococci on throat swabs (see
+Characteristics of excluded studies table). We included Gordon
+1974, which found 2% of participants (2 of 89) with cultures of beta
+haemolytic streptococci. Seven participants were excluded from
+Herne 1980 because the pharynx looked as though the participants
+had clinical streptococcal tonsillitis.
+Other studies did not test for throat bacteria. Cultures that are
+positive for streptococci may include contaminants as well as cases
+of true infection. The issue of bacterial involvement is a concern
+for reviews of bronchitis, sore throats and upper respiratory tract
+infections. There is no overlap with Fahey's bronchitis review
+(Fahey 1998) but there are two studies (Howie 1970; Kaiser 1996)
+that are also in the Smith 2011 bronchitis review.
+The review by Del Mar 1992 on managing sore throat included
+one study that is in our review (Taylor 1977). Clearly the larger
+the proportion of illnesses caused by bacteria that exist among
+the cases of viral illness the more likely the findings are to show a
+benefit for antibiotics. There is no other way of defining the disease
+of interest other than perhaps doing nasopharyngeal aspirations,
+as done in Kaiser 1996, and throat cultures on all participants. This
+is not current clinical practice and the purpose of our review is to
+be relevant to clinical practice.
+The a priori outcomes for analysis included persistence of
+symptoms of nasopharyngeal inflammation, global rating of health
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+and adverse eﬀects. The summary risk ratio (RR) for general
+improvement or cure was 0.83 (95% CI 0.60 to 1.11) (Analysis 1.1).
+In contrast with the Cochrane Review by Smith 2011, there was no
+over-reporting of significant findings. Indeed, there was a tendency
+to under-report findings and, hence, less likelihood of a type one
+statistical error.
+Most studies did not report adverse eﬀects. However, the summary
+RR for adverse eﬀects from the four studies in adults that had
+analysable data was significant. The majority of adverse eﬀects
+were gastrointestinal, which is consistent with clinical anecdote. In
+the two studies in children there was no significant adverse eﬀect
+from antibiotics, which is consistent with the findings of Fahey
+1998.
+The symptoms of nasopharyngeal inflammation chosen for
+analysis were sore throat and runny nose, either purulent or clear.
+No studies reported sneezing as an outcome. Six trials provided
+outcome data on nasopharyngeal inflammation (De Sutter 2002;
+Herne 1980; Howie 1970; Todd 1984; Taylor 1977; Vogt 1966).
+Data from Howie 1970 were not in a form that could be used in
+this review but indicated no benefit from antibiotics for purulent
+nasal discharge. Pooling the purulent rhinitis data suggested that
+antibiotics are not beneficial for this condition. For runny nose
+with a clear discharge there was no significant benefit when Herne
+1980 and Taylor 1977 were pooled. As noted above, the definition
+of the type of rhinitis in Herne 1980 was not given and hence it
+was added to both clear and purulent rhinitis. There is collateral
+information about this in the literature. In an acute bronchitis study
+(Stott 1976) there was a lower incidence of runny nose at day seven
+in the doxycycline group than in the placebo group (P < 0.01). There
+is a Cochrane Review on persisting rhinosinusitis (more than 10
+days duration) which shows a benefit from treating with antibiotics
+(Morris 2007).
+Sore throats
+The finding of no benefit from antibiotics for sore throat was
+expected. We would suggest the reader read the Cochrane Review
+on antibiotics for sore throat (Spinks 2011). The role of bacteria
+in upper respiratory tract infections, either as a causal factor or
+a complication, is highlighted in Kaiser 1996. The authors make
+a convincing argument for the role of three types of bacteria (H.
+influenzae, M. catarrhalis and S. pneumoniae). It would be helpful
+to see this work repeated in another centre. Treatment in this
+subgroup resulted in one day less of symptoms.
+Sinusitis or purulent rhinitis
+The diﬀerence between sinusitis and acute purulent rhinitis is not
+clear. There is presumably an overlap: 19% of the participants in
+Kaiser 1996 had radiological sinusitis and between 53% and 56%
+of the participants in De Sutter 2002 had unilateral facial pain. In
+one study, which was excluded because of a greater than 10-day
+duration of purulent rhinitis, all participants had to have facial X-
+rays free of abnormalities (Haye 1998). In this study azithromycin
+was significantly more eﬀective than placebo on the outcome of
+purulent rhinitis. This suggests that participants may be able to
+have purulent rhinitis without sinus involvement. These issues
+need to be taken into account in future studies. The methodological
+quality of the studies before 1990 was low and hence it is diﬀicult
+to draw firm conclusions from these.
+Generalisability
+Although only three of the studies were conducted in general
+practice (De Sutter 2002; Howie 1970; Taylor 1977), the others
+seemed to represent a cross-section of participants seen in primary
+care settings. This indicates that our results are generalisable to
+the wider primary care setting if the assumption is made that
+participants can self refer to these secondary care settings and use
+them as primary care providers. Other study settings were:
+•
+a military base (Hoaglund 1950); unit staﬀ (McKerrow 1961);
+•
+hospital outpatients (Kaiser 1996; Lexomboon 1971);
+•
+paediatricians in private practice (Vogt 1966);
+•
+casualty clinic (Gordon 1974); and
+•
+military base (Herne 1980; Todd 1984).
+The heterogeneity of the pooled data for adverse eﬀects from all
+the studies appears to come from the diﬀerence between adverse
+eﬀects in adults and children. There was no heterogeneity when
+they were analysed separately. In one arm of Taylor 1977 the group
+taking co-trimoxazole had more adverse eﬀects than the placebo
+group, while the amoxycillin group had fewer. None of the children
+were given amoxycillin/clavulanic acid, which contributed a lot
+to the adverse eﬀects in Kaiser 1996. This finding in children is
+consistent with Fahey 1998. That review included the two studies
+in our review and three which we excluded. This negative finding in
+children relates mainly to the unexpected findings in Taylor 1977.
+There is no methodological reason for this and our assumption
+would be that this is a chance (and erroneous) finding. The
+expected finding would be for children to get more adverse eﬀects
+in the antibiotic group, as was found in the Cochrane Review on
+antibiotics for acute otitis media (Venekamp 2013). The adverse
+eﬀects in the purulent rhinitis group were statistically significant.
+Summary of main results
+The RR for lack of cure or persistence of symptoms is 0.83, 95%
+CI 0.60 to 1.11 (Analysis 1.1). The overall RR for adverse eﬀects for
+antibiotics given to participants with the common cold is 1.8, 95%
+CI 1.01 to 3.21 (Analysis 1.7) and for purulent rhinitis is 1.46, 95% CI
+1.1 to 1.94 (Analysis 3.4). The overall RR for the antibiotic treatment
+of persisting acute purulent rhinitis is 0.73, 95% CI 0.47 to 1.13
+(Analysis 3.1). In summary, there is no benefit for antibiotics for the
+common cold or acute purulent rhinitis but there is an increase in
+adverse eﬀects.
+Overall completeness and applicability of evidence
+There is unclear risk of bias across the studies. All of the trials
+were randomised controlled trials (RCTs). However, methods of
+randomisation were not always clear. All the medications were
+identical in each trial. Most of the participants had a viral upper
+respiratory tract infection but some may have had bacterial chest
+or sinus infections.
+Quality of the evidence
+See comments in previous section.
+Potential biases in the review process
+The major bias is likely to be the inclusion of participants with
+bacterial disease such as streptococcal tonsillitis or bacterial
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+sinusitis. The fact that the pooled result was not significant may
+mean this is a small consideration.
+Agreements and disagreements with other studies or
+reviews
+The findings of this study are consistent with two reviews in
+children, Gadomski 1993 and Fahey 1998, which found no benefit
+for antibiotics.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+Antibiotics oﬀer no benefit in the initial treatment of the common
+cold (acute upper respiratory tract infections (URTIs)). Antibiotics
+should not be given in the first instance as they will not improve the
+symptoms and adult participants will be aﬀected by their adverse
+eﬀects. Antibiotics oﬀer no benefit for acute purulent rhinitis while
+there is an increase in adverse eﬀects. However, if the symptoms
+persist for more than 10 days then antibiotic therapy may be
+beneficial (Morris 2007) and clinicians may wish to negotiate the
+use of them with patients, taking into account the resistance issues.
+Implications for research
+Further research is needed on the role of pathogenic
+nasopharyngeal bacteria and their presence in URTIs. Studies need
+to be more diligent in reporting adverse eﬀects and symptoms.
+A C K N O W L E D G E M E N T S
+The Charitable Trust of the Auckland Faculty of the Royal New
+Zealand College of General Practice (RNZCGP) for a grant to
+undertake the literature search. Thanks to Elspeth Kay for editing
+the penultimate version in Arroll 2005. The authors also wish to
+thank Leonard Leibovici, Mark Jones, Janet Yarrow and Dennis
+Conrad for commenting on the draf Arroll 2005 review.
+Antibiotics for the common cold and acute purulent rhinitis (Review)
+Copyright © 2026 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12

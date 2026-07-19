@@ -1,0 +1,916 @@
+
+
+[page 1]
+Academic Editors: Josep Masip,
+Ramón Estruch, Attilio Giacosa and
+Ursula Fradera
+Received: 6 January 2026
+Revised: 4 February 2026
+Accepted: 7 February 2026
+Published: 11 February 2026
+Copyright: © 2026 by the author.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Review
+Alcohol, Wine, and Sleep in Adults: Insights from a
+Narrative Review
+Jean-Philippe Chaput 1,2
+1
+Healthy Active Living and Obesity Research Group, Children’s Hospital of Eastern Ontario Research Institute,
+401 Smyth Road, Ottawa, ON K1H 8L1, Canada; jpchaput@cheo.on.ca
+2
+Department of Pediatrics, Faculty of Medicine, University of Ottawa, 401 Smyth Road,
+Ottawa, ON K1H 8L1, Canada
+Abstract
+Alcohol is widely consumed across cultures and is often used to facilitate relaxation or
+sleep initiation. This narrative review critically examines evidence published over the past
+decade (2015–2025) on the effects of alcohol, including wine, on sleep health in community-
+dwelling adults. Priority was given to systematic reviews and meta-analyses, followed
+by high-quality observational and experimental studies. Across study designs, evidence
+consistently shows that although alcohol may reduce sleep onset latency, it disrupts sleep
+architecture, suppresses rapid eye movement sleep, increases sleep fragmentation, and
+impairs breathing during sleep, particularly in the second half of the night. Habitual alcohol
+consumption is associated with poorer subjective sleep quality, insomnia symptoms, and
+increased risk of sleep-disordered breathing. Mechanistic pathways include effects on
+neurotransmission, sleep homeostasis, circadian regulation, thermoregulation, and alcohol
+metabolism during sleep. Evidence also suggests that the timing of alcohol intake and
+alignment with circadian rhythms may modify these effects, with earlier consumption
+potentially reducing some adverse outcomes. A brief section addresses the reciprocal
+relationship, showing that circadian disruption, shift work, and evening chronotype are
+associated with higher alcohol use. Although wine contains bioactive compounds such as
+melatonin and polyphenols, current evidence indicates that these components are present
+at levels insufficient to provide meaningful sleep benefits. Overall, alcohol, including wine,
+should not be considered a sleep aid, and public health messaging should emphasize dose,
+timing, and regularity of alcohol consumption in relation to sleep health.
+Keywords: wine; alcohol; sleep health; insomnia; circadian rhythms; sleep architecture;
+sleep-disordered breathing; alcohol timing; nutrition
+1. Introduction
+Sleep is a core pillar of health and is essential for cardiometabolic regulation, immune
+function, mental health, and cognitive performance. Inadequate or disrupted sleep is
+associated with increased risks of cardiovascular disease, type 2 diabetes, depression, and
+premature mortality. In parallel, alcohol consumption remains deeply embedded in social
+and cultural practices worldwide, with wine often occupying a unique position as a symbol
+of moderation, conviviality, and potential health benefits.
+Within this context, many adults report using alcohol, including wine, to facilitate
+relaxation or sleep initiation. Population surveys indicate that alcohol is among the most
+commonly used non-prescription sleep aids [1,2]. This practice is reinforced by the acute
+Nutrients 2026, 18, 585
+https://doi.org/10.3390/nu18040585
+
+[page 2]
+Nutrients 2026, 18, 585
+2 of 15
+sedative properties of ethanol and by cultural narratives that portray a glass of wine in the
+evening as conducive to good sleep.
+Despite these perceptions, alcohol is increasingly recognized as a substance that
+disrupts normal sleep physiology. Acute effects differ markedly from chronic patterns of
+use, and short-term benefits may mask longer-term adverse consequences. Although the
+effects of alcohol on sleep have been studied for decades, renewed interest has emerged
+due to advances in objective sleep measurement, growing emphasis on sleep regularity
+and circadian health, and evolving public health guidance on alcohol consumption.
+However, existing reviews have several limitations. Most syntheses focus broadly on
+ethanol without considering beverage-specific contexts such as wine, often include hetero-
+geneous populations, or rely on older studies with limited objective sleep measurements.
+Evidence specific to wine is sparse and inconsistent, and methodological heterogeneity
+across studies hampers clear conclusions. This review addresses these gaps by synthesizing
+recent evidence from 2015 to 2025, prioritizing systematic reviews, meta-analyses, and high-
+quality observational and experimental studies focused on community-dwelling adults.
+Wine warrants particular consideration for several reasons. First, it is commonly
+consumed with evening meals, placing ingestion close to bedtime. Second, wine contains
+non-ethanolic components such as polyphenols and small amounts of melatonin, which
+have prompted speculation about potential sleep-related benefits. Third, wine is often per-
+ceived as healthier than other alcoholic beverages, which may influence both consumption
+patterns and risk perception.
+This narrative review synthesizes evidence from the past 10 years on the impact of
+wine and alcohol on sleep in community-dwelling adults. The primary objective is to
+examine effects on sleep initiation, architecture, continuity, and sleep-disordered breathing.
+A secondary objective is to briefly review evidence on how sleep patterns, particularly
+circadian disruption, shift work, and chronotype, may influence alcohol consumption. By
+integrating mechanistic, experimental, and population-level evidence, this review of recent
+evidence aims to inform research, clinical practice, and public health policy, with particular
+relevance to nutrition-focused audiences.
+2. Materials and Methods
+This narrative review was informed by searches of MEDLINE, EMBASE, and
+PsycINFO conducted in December 2025. Eligible studies were published in English between
+January 2015 and December 2025 and focused on human, community-dwelling adults aged
+18 years and older. Search terms included combinations of alcohol, wine, sleep, sleep
+quality, sleep onset latency, sleep fragmentation, sleep architecture, REM sleep, circadian,
+chronotype, shift work, and sleep-disordered breathing. Boolean logic and controlled
+vocabulary terms were applied to maximize capture of relevant studies (e.g., “alcohol OR
+wine” AND “sleep OR sleep quality OR sleep onset latency OR sleep fragmentation OR
+REM OR circadian OR chronotype OR shift work OR sleep-disordered breathing”).
+Priority was given to systematic reviews and meta-analyses, followed by observational
+studies, including cross-sectional and longitudinal designs, and randomized controlled
+trials. Lower-priority evidence was included only when higher-level evidence was un-
+available or when it provided supplementary mechanistic or contextual insights. Only
+peer-reviewed articles were considered. Studies conducted exclusively in clinical popu-
+lations, such as individuals with alcohol use disorder or diagnosed sleep disorders, were
+excluded unless findings were clearly generalizable to the general adult population. Con-
+ference abstracts, editorials, commentaries, book chapters, dissertations, protocols, and
+preprints were excluded.
+https://doi.org/10.3390/nu18040585
+
+[page 3]
+Nutrients 2026, 18, 585
+3 of 15
+For context, a standard glass of wine is often defined as ~150 mL, typically containing
+approximately 12–14 g of ethanol; however, definitions of a “standard drink” vary across
+countries. For example, a standard drink contains ~14 g of ethanol in the United States and
+~10 g in many European countries, with corresponding differences in sex-specific definitions
+of moderate consumption. Accordingly, in the reviewed literature, “moderate consumption”
+generally refers to alcohol intakes equivalent to approximately 10–30 g of ethanol per day,
+most often operationalized as ~1–2 standard drinks per day for women and ~1–3 standard
+drinks per day for men, depending on jurisdiction. These ranges broadly align with inter-
+national low-risk drinking guidelines from Canada (https://www.canada.ca/en/health-
+canada/services/substance-use/alcohol/low-risk-alcohol-drinking-guidelines.html, ac-
+cessed on 26 January 2026), the United States (https://odphp.health.gov/our-work/
+nutrition-physical-activity/dietary-guidelines, accessed on 26 January 2026), Australia
+(https://www.nhmrc.gov.au/guidelines-publications/ds10, accessed on 26 January 2026),
+and general international summaries (https://www.iard.org/science-resources/detail/
+Drinking-Guidelines-General-Population, accessed on 26 January 2026). Jurisdictional vari-
+ability in both standard drink size and recommended limits should therefore be considered
+when interpreting findings and comparing studies. Experimental studies included in this
+review typically administered doses within this approximate range, allowing assessment
+of low-to-moderate as well as higher alcohol intake effects on sleep outcomes.
+3. Acute Effects of Alcohol and Wine on Sleep
+3.1. Sleep Initiation
+Acute alcohol intake, including wine, generally reduces sleep onset latency (SOL),
+reflecting its sedative effects primarily mediated through enhanced gamma-aminobutyric
+acid signaling and increased adenosinergic sleep pressure [3–8]. Laboratory studies and
+systematic reviews suggest that this effect is dose-dependent and most pronounced during
+the first half of the night [2,4]. These findings likely contribute to the widespread perception
+that alcohol, including wine, can serve as a sleep aid.
+However, reductions in SOL do not necessarily equate to improved sleep quality.
+Subjective reports of improved sleep often diverge from objective measures obtained via
+polysomnography or actigraphy [2,3,9–11]. Low doses of alcohol may not meaningfully
+shorten SOL but can still contribute to late-night awakenings and sleep fragmentation.
+Higher doses reliably reduce SOL in the early night due to sedative effects, yet this is
+typically followed by a “rebound effect” in the second half of the night, characterized by
+increased wakefulness, rapid-eye movement (REM) suppression, and fragmentation [2–4].
+Timing relative to bedtime, habitual consumption, sex, age, body composition, and baseline
+sleep status are important moderators of these effects. Clearly defining standardized doses,
+as in the Methods section, allows for better interpretation of these dose-dependent patterns
+and public health guidance.
+3.2. Sleep Continuity and Fragmentation
+As ethanol is metabolized during sleep, initial sedative effects wane and are replaced
+by sympathetic activation, increased arousability, and sleep fragmentation [2,4,7,12]. Frag-
+mentation is defined here as increased frequency or duration of awakenings after sleep
+onset. Meta-analytic evidence indicates increased wake after sleep onset and reduced
+sleep efficiency, particularly during the second half of the night [4]. These effects are ob-
+served even at low-to-moderate doses and are more pronounced when alcohol is consumed
+close to bedtime [13,14]. Both laboratory and free-living studies support these patterns,
+though subjective measures may underestimate fragmentation compared with objective
+polysomnography or actigraphy.
+https://doi.org/10.3390/nu18040585
+
+[page 4]
+Nutrients 2026, 18, 585
+4 of 15
+3.3. Sleep Architecture
+Alcohol produces characteristic changes in sleep architecture. Acute intake tends to
+increase slow-wave sleep early in the night and suppress REM sleep, followed by REM
+rebound later [4,15–18]. REM suppression has implications for emotional regulation, learn-
+ing, and memory consolidation. Evidence specific to wine is limited, but when compared
+at matched ethanol doses, wine appears to produce similar alterations to other alcoholic
+beverages. Very few studies have isolated wine effects independent of ethanol content.
+Wine drinkers often differ from beer or spirit drinkers in socioeconomic status, dietary
+patterns (e.g., adherence to Mediterranean-style diets), and lifestyle, which may themselves
+influence sleep. Consequently, most experimental and epidemiological evidence derives
+from general ethanol exposure, with dose-matched comparisons showing no meaningful
+differences in sleep architecture between wine and other alcoholic beverages [2].
+3.4. Key Recent Evidence on Alcohol and Sleep in Adults
+As summarized in Table 1, recent systematic reviews, meta-analyses, and narrative
+reviews consistently indicate that alcohol, including wine, has a net negative effect on adult
+sleep health. Acute intake reliably reduces SOL in the short term, but this is followed by
+increased wake after sleep onset, reduced sleep efficiency, REM suppression with later
+rebound, and greater sleep fragmentation. Habitual alcohol consumption is associated
+with a higher risk of developing sleep disorders, including insomnia and poorer subjective
+sleep quality. Alcohol also exacerbates snoring and sleep-disordered breathing, increasing
+apnea–hypopnea index, oxygen desaturation, and duration of respiratory events.
+Table 1. Key recent evidence on alcohol (including wine) and sleep in community-dwelling adults.
+Study (Year)
+Design
+Population
+Exposure
+Sleep Outcomes
+Assessed
+Main Findings
+Gardiner et al.
+(2025) [2]
+Systematic review
+and meta-analysis
+Healthy
+adults
+Acute alcohol
+intake
+Sleep onset latency, wake
+after sleep onset, sleep
+efficiency, REM sleep,
+slow-wave sleep
+Alcohol reduced sleep
+onset latency but
+increased wake after
+sleep onset and reduced
+sleep efficiency; REM
+sleep was suppressed
+early with rebound later
+in the night
+Webber et al.
+(2025) [3]
+Systematic review
+Adults
+Alcohol use
+Objective and subjective
+sleep measures
+Subjective sleep
+improvements often
+conflicted with objective
+measures; alcohol was
+consistently associated
+with sleep fragmentation
+Meneo et al.
+(2023) [4]
+Systematic review
+and meta-analysis
+Young and
+middle-aged
+adults
+Sleep habits
+and substance
+use
+Sleep disturbances
+(insomnia symptoms,
+sleep quality), sleep
+health dimensions
+(duration, satisfaction,
+efficiency, timing,
+daytime alertness),
+and circadian
+characteristics (chronotype)
+Poor sleep habits were
+associated with greater
+alcohol use, supporting
+self-medication and
+bidirectional pathways
+Hu et al.
+(2020) [7]
+Systematic review
+and meta-analysis
+of cohort studies
+General adult
+population
+Habitual alcohol
+consumption
+Incident sleep disorders
+Regular alcohol
+consumption was
+associated with increased
+risk of developing sleep
+disorders over time
+https://doi.org/10.3390/nu18040585
+
+[page 5]
+Nutrients 2026, 18, 585
+5 of 15
+Table 1. Cont.
+Study (Year)
+Design
+Population
+Exposure
+Sleep Outcomes
+Assessed
+Main Findings
+Burgos-Sanchez
+et al. (2020) [9]
+Systematic review
+and meta-analysis
+Adults
+Alcohol
+consumption
+Snoring, sleep
+architecture,
+apnea–hypopnea index
+Alcohol consumption
+significantly increased
+snoring and obstructive
+sleep apnea severity
+Kolla et al.
+(2018) [14]
+Systematic review
+and meta-analysis
+Adults
+Alcohol
+consumption
+Breathing parameters
+during sleep
+Alcohol worsened
+nocturnal oxygen
+desaturation and
+increased respiratory
+event duration
+Simou et al.
+(2018) [15]
+Systematic review
+and meta-analysis
+Adults
+Alcohol
+consumption
+Sleep apnea risk
+Alcohol consumption
+was associated with an
+increased risk of
+sleep apnea
+Bolling et al.
+(2025) [1]
+Narrative review
+Adults
+Alcohol use
+Sleep quality,
+insomnia symptoms
+Alcohol and sleep
+disruption showed
+reciprocal effects;
+short-term sedative
+effects masked
+longer-term impairment
+Inkelis et al.
+(2020) [8]
+Narrative review
+Adult
+women
+Alcohol use
+Insomnia symptoms,
+sleep quality
+Women experienced
+greater sleep disruption
+at lower alcohol doses
+than men
+Marhuenda
+et al. (2021) [12]
+Narrative review
+Adults
+Wine (melatonin
+and polyphenols)
+Sleep and
+circadian regulation
+Melatonin and
+polyphenol content in
+wine was far below doses
+required to influence
+sleep; no evidence of
+meaningful sleep benefit
+Studies are ordered by level of evidence, with systematic reviews and meta-analyses presented first, followed by
+narrative reviews. REM: rapid eye movement.
+Subjective perceptions of improved sleep frequently conflict with objective measures,
+highlighting the importance of using polysomnography or actigraphy in research. Women
+generally experience greater sleep disruption at lower doses, likely due to differences
+in body composition, alcohol metabolism, and hormonal influences, while older adults
+may experience amplified late-night rebound effects due to altered metabolism, sleep
+architecture, and increased nocturia. Finally, although wine contains compounds such
+as melatonin and polyphenols, their concentrations are far below therapeutic levels and
+insufficient to confer meaningful sleep or circadian benefits (see Table 1).
+4. Alcohol, Wine, and Sleep-Disordered Breathing
+Alcohol has well-documented effects on respiratory physiology during sleep. By
+relaxing upper airway musculature and blunting ventilatory responses to hypoxia and
+hypercapnia, alcohol increases snoring and can exacerbate obstructive sleep apnea [19–24].
+Systematic reviews and meta-analyses demonstrate increases in apnea–hypopnea index,
+oxygen desaturation, and respiratory event duration following evening alcohol consump-
+tion [9,13–15].
+These effects are dose- and timing-dependent. Low-to-moderate intake (1–2 standard
+drinks for women, 1–3 drinks for men; 12–14 g ethanol per drink) has been associated with
+increases in respiratory events and worsening of obstructive breathing parameters when
+https://doi.org/10.3390/nu18040585
+
+[page 6]
+Nutrients 2026, 18, 585
+6 of 15
+consumed near bedtime [14]. A systematic review and meta-analysis reported that alcohol
+intake prior to sleep significantly increased apnea–hypopnea index and reduced mean oxy-
+gen saturation compared to control nights without alcohol [14]. Moderate drinking within
+30 min before going to bed has also been shown to aggravate apnea-related parameters and
+lower oxygen saturation early in the night compared to alcohol consumed earlier in the
+day [24]. Together, these findings support dose- and timing-dependent effects of alcohol on
+sleep-disordered breathing and highlight the importance of considering both the amount
+of alcohol and its proximity to bedtime when interpreting clinical relevance.
+The impact of alcohol on sleep-disordered breathing is particularly relevant for higher-
+risk groups, including individuals with suspected or undiagnosed sleep apnea, obesity,
+or craniofacial risk factors. Wine-specific data are limited, but when the ethanol dose is
+matched, wine appears to produce effects comparable to other alcoholic beverages. Given
+the high prevalence of undiagnosed sleep-disordered breathing in the general population
+and the common practice of evening alcohol consumption, often with wine at dinner,
+clinicians should consider asking patients about evening alcohol intake as part of routine
+screening for snoring, daytime sleepiness, or other features suggestive of sleep apnea.
+5. Chronic Alcohol Consumption, Insomnia, and Sleep Quality
+Epidemiological studies consistently link habitual alcohol consumption with poorer
+subjective sleep quality, shorter sleep duration, and greater insomnia symptomatology,
+including difficulty initiating or maintaining sleep, non-restorative sleep, and clinically
+diagnosed insomnia in some cohorts [2,25–30]. Prospective cohort studies suggest that
+regular alcohol use increases the risk of incident sleep problems over time, rather than
+serving as an effective long-term coping strategy for sleep complaints [31–34]. Evidence
+also suggests bidirectional associations: poor sleep may lead to increased alcohol con-
+sumption, creating a self-perpetuating cycle. Confounding factors, including comorbid
+medical conditions, lifestyle behaviors, and psychosocial stressors, may further influence
+observed relationships.
+Sex-specific differences have been observed, with women experiencing greater sleep
+disruption at lower doses of alcohol. This is likely due to physiological differences in body
+composition, alcohol metabolism, and hormonal influences [2,8,22]. Women generally
+have lower gastric alcohol dehydrogenase activity, smaller total body water content, and a
+higher proportion of body fat than men, leading to higher peak blood alcohol concentrations
+(BAC) after consuming equivalent amounts of ethanol. Hormonal fluctuations across the
+menstrual cycle and variations in hepatic enzyme activity may further amplify alcohol-
+induced sleep disruption. Together, these factors contribute to more pronounced reductions
+in slow-wave sleep, REM suppression, and late-night sleep fragmentation in women, even
+at relatively low doses.
+Age-related changes in metabolism, sleep architecture, and increased nocturia can
+intensify late-night rebound effects, resulting in more fragmented sleep and awakenings
+in older adults [7,13,16,35–37]. Accounting for these individual differences can help clini-
+cians provide personalized guidance on alcohol consumption and sleep hygiene. Explicit
+consideration of endpoints, confounders, and bidirectional relationships improves the inter-
+pretability of evidence linking chronic alcohol use to insomnia and general sleep quality.
+6. Mechanisms Linking Alcohol to Sleep Disruption
+Alcohol disrupts sleep through multiple interacting biological pathways, primarily
+through its action as a central nervous system depressant, which underlies many of its
+acute and chronic effects on sleep and other physiological functions. These pathways
+include modulation of GABAergic and adenosinergic neurotransmission, circadian timing,
+https://doi.org/10.3390/nu18040585
+
+[page 7]
+Nutrients 2026, 18, 585
+7 of 15
+thermoregulation, autonomic balance, and upper airway physiology [38–44]. The effects of
+alcohol on sleep can be broadly categorized as direct central effects, such as neurotransmit-
+ter modulation and sedation, and indirect effects, such as upper airway relaxation that may
+contribute to sleep-disordered breathing.
+Evening alcohol intake has distinct acute and later or chronic effects on sleep, as
+illustrated in Figure 1. Acutely, alcohol reduces sleep onset latency through its central
+depressant and GABAergic sedative effects and increases slow-wave sleep, while simulta-
+neously suppressing REM sleep. Later in the night and with repeated exposure, alcohol
+disrupts sleep continuity, leading to increased wake after sleep onset, reduced REM re-
+bound, decreased sleep efficiency, heightened insomnia symptoms, and greater risk of
+sleep-disordered breathing. These later effects reflect both waning central depressant ef-
+fects and indirect mechanisms, including upper airway relaxation, as well as sustained
+alterations in neurotransmission, circadian timing, and autonomic balance.
+Figure 1. Conceptual pathways linking evening alcohol (including wine) consumption to sleep disruption.
+Over time, these disruptions may create a bidirectional cycle in which poor sleep
+promotes alcohol use as a coping strategy, and repeated alcohol consumption further
+impairs sleep quality. Chronic exposure and circadian misalignment can exacerbate long-
+term sleep deficits and increase vulnerability to alcohol-related harms [10,45–47].
+7. Wine-Specific Considerations Within a Nutritional Context
+Wine is commonly consumed in the evening, often with dinner, which places ethanol
+exposure close to the biological night, a period when sleep and circadian systems are
+particularly sensitive to disruption [19,42,48,49]. Although moderate wine consumption
+has been associated with certain cardiometabolic outcomes in observational studies, these
+associations are not specific to sleep health and should not be extrapolated to imply sleep-
+https://doi.org/10.3390/nu18040585
+
+[page 8]
+Nutrients 2026, 18, 585
+8 of 15
+related benefits [2,12]. From a sleep perspective, the timing of intake appears more relevant
+than beverage type, as evening consumption increases the likelihood that alcohol’s sedative
+and subsequent arousing effects occur during the main sleep period. Co-ingestion with
+food may modestly slow alcohol absorption and delay peak blood alcohol concentration,
+but available evidence suggests that this does not eliminate late-night sleep fragmentation
+or REM rebound once ethanol is metabolized.
+Wine contains trace amounts of melatonin and a variety of polyphenolic compounds,
+including resveratrol, quercetin, and catechins. Reported melatonin concentrations in
+wine typically range from approximately 0.1 to 15 ng/mL, depending on grape variety,
+fermentation, and storage conditions [12,50]. In practical terms, a standard 150 mL glass
+of wine provides melatonin in the picogram-to-nanogram range, whereas doses shown
+to influence sleep or circadian timing in clinical studies are several orders of magnitude
+higher, typically 0.5–5 mg (500,000–5,000,000 ng) per administration. Polyphenol content in
+wine varies widely, often on the order of 100–500 mg per glass, and while these compounds
+may exert antioxidant or anti-inflammatory effects, there is currently no evidence that
+polyphenols consumed via wine meaningfully improve sleep outcomes. Importantly, the
+established effects of ethanol on sleep continuity and architecture, including reduced slow-
+wave and REM sleep and increased late-night fragmentation, are likely to outweigh any
+theoretical benefit of these non-ethanolic constituents. To date, no randomized controlled
+trials have demonstrated clinically meaningful improvements in sleep attributable to
+melatonin or polyphenols delivered through wine consumption, suggesting that wine’s
+overall impact on sleep is best understood through its ethanol content rather than its
+nutritional components.
+8. Effects of Sleep Patterns on Alcohol Consumption
+A growing literature suggests a bidirectional association between sleep and alcohol
+use; however, evidence supporting sleep patterns as antecedents of alcohol consumption is
+derived largely from observational studies. Systematic reviews and large cohort studies
+indicate that circadian disruption, shift work, and evening chronotype are associated with
+higher overall alcohol intake, later drinking times, and an increased likelihood of haz-
+ardous drinking patterns [5,6,11]. These findings are consistent across cross-sectional and
+longitudinal designs, although causal inference remains limited by residual confounding
+and reliance on self-reported alcohol use.
+Shift workers frequently experience chronic sleep restriction and circadian misalign-
+ment, which have been linked to higher alcohol consumption in epidemiological stud-
+ies [11,27,46]. Proposed mechanisms include increased stress, altered reward sensitivity,
+impaired impulse control, and the use of alcohol as a maladaptive coping strategy for sleep
+or stress-related symptoms. Experimental evidence directly testing these pathways remains
+sparse, and most data do not distinguish between beverage types.
+Evening chronotype has been consistently associated with later timing of alcohol con-
+sumption, higher intake, and poorer sleep outcomes in population-based studies [5,48,49].
+While these associations apply broadly to alcohol use, wine remains a commonly consumed
+beverage in the evening, often with dinner, suggesting contextual relevance rather than
+beverage-specific effects. Overall, available evidence supports an association between
+disrupted sleep or circadian misalignment and increased alcohol consumption, but the
+direction, magnitude, and mechanisms of these relationships require further investiga-
+tion using experimental and longitudinal designs that can better address temporality
+and confounding.
+https://doi.org/10.3390/nu18040585
+
+[page 9]
+Nutrients 2026, 18, 585
+9 of 15
+9. Timing of Alcohol Intake and Sleep Outcomes
+Emerging evidence indicates that the timing of alcohol consumption relative to sleep
+onset meaningfully influences its effects on nocturnal physiology and sleep quality. Sleep
+hygiene guidance from professional organizations, including the American Academy
+of Sleep Medicine (https://sleepeducation.org/healthy-sleep/healthy-sleep-habits/, ac-
+cessed on 26 January 2026) and the National Sleep Foundation (https://www.thensf.org/
+the-link-between-nutrition-and-sleep/, accessed on 26 January 2026), commonly advises
+avoiding alcohol in the hours immediately preceding bedtime to reduce sleep disruption.
+These recommendations are based on experimental and observational evidence showing
+that alcohol’s initial sedative effects dissipate as ethanol is metabolized, revealing its dis-
+ruptive influence on later sleep stages, including increased wake after sleep onset, reduced
+sleep efficiency, and suppression of REM sleep.
+In this context, “timing” typically refers to the interval between the last alcoholic drink
+and intended sleep onset, while a “standard drink” generally corresponds to approximately
+12–14 g of ethanol (e.g., a 150 mL glass of wine). The often-cited recommendation to avoid
+alcohol within approximately 3–4 h of bedtime should be interpreted as harm-reduction
+guidance rather than a proven physiological threshold. Allowing additional time between
+alcohol intake and sleep may permit partial metabolism of ethanol before the biological
+night, potentially attenuating late-night sleep fragmentation and respiratory instability,
+although residual effects may still occur.
+Controlled laboratory studies and meta-analyses also demonstrate clear dose-
+dependent effects of alcohol on sleep, with low doses (≤2 standard drinks) capable of
+suppressing REM sleep and higher doses (≥5 standard drinks) producing more pronounced
+reductions in REM sleep and sleep continuity [2]. Although most experimental protocols
+administer alcohol in the evening, disturbed sleep outcomes are consistently strongest
+when ingestion occurs closer to sleep onset, reinforcing timing as a modifiable factor in
+alcohol-related sleep disruption [2].
+Evidence on alcohol consumed earlier in the day (e.g., with lunch or early dinner)
+remains limited. Available clinical guidance and expert consensus suggest that completing
+alcohol intake several hours before bedtime, ideally beyond the 3–4 h window, may reduce,
+but not eliminate, negative effects on sleep compared with late-evening consumption.
+Nonetheless, abstaining from alcohol remains the most effective strategy for preserving
+sleep quality and normal sleep architecture.
+10. Alcohol, Circadian Pharmacokinetics, and Sleep
+Alcohol’s interaction with circadian biology extends beyond behavioral timing and
+includes circadian modulation of alcohol pharmacokinetics. A recent synthesis of controlled
+laboratory experiments and circadian physiology studies summarizes evidence that both
+peak blood alcohol concentration (BAC) and ethanol elimination rates vary across the
+circadian cycle, likely reflecting time-of-day differences in hepatic enzyme activity, gastric
+emptying, body temperature, and hormonal milieu [51]. This synthesis draws primarily
+on tightly controlled experimental studies in healthy adults, in which alcohol dose and
+ingestion conditions are standardized.
+Quantitative findings from human and animal studies indicate that alcohol consumed
+in the biological morning tends to produce higher peak BACs and altered elimination
+patterns compared with equivalent doses consumed in the evening, despite identical
+ethanol intake, suggesting that circadian timing modulates ethanol pharmacokinetics
+(e.g., higher morning peak BACs in controlled experiments and consistent time-of-day
+effects reviewed in Miller et al., [51]). Although morning drinking is uncommon in most
+https://doi.org/10.3390/nu18040585
+
+[page 10]
+Nutrients 2026, 18, 585
+10 of 15
+populations, these data demonstrate that circadian phase, independent of social context,
+influences alcohol metabolism and clearance.
+These findings have two important implications for sleep research. First, they highlight
+that the internal circadian clock, rather than clock time alone, may influence the physio-
+logical impact of alcohol, such that the same dose could yield different levels of exposure
+depending on circadian phase. Second, circadian modulation of alcohol metabolism may
+interact with sleep and alertness when alcohol intake occurs at biologically inappropriate
+times, such as during circadian misalignment or shift work. However, it is important to
+note that direct human studies examining sleep outcomes following alcohol administra-
+tion at different circadian phases are scarce. As a result, implications for sleep disruption
+under conditions of circadian misalignment are currently inferred from pharmacokinetic
+and mechanistic evidence rather than from controlled sleep outcome trials. Integrating
+chronobiological approaches into future experimental studies will be essential to clarify
+how circadian phase, alcohol metabolism, and sleep outcomes interact [51].
+11. Practical Sleep Hygiene and Harm-Reduction Messaging
+Around Alcohol
+From a clinical and behavioral standpoint, alcohol use is best addressed within broader
+sleep hygiene and insomnia management frameworks that emphasize modifiable lifestyle
+factors. Peer-reviewed sleep medicine guidelines and clinical reviews consistently rec-
+ommend assessing both the quantity and timing of alcohol intake when evaluating sleep
+complaints, alongside other behaviors known to influence sleep, such as caffeine use,
+evening light exposure, and irregular sleep schedules [2,4,7]. Although abstinence remains
+the most reliable strategy for protecting sleep quality, guidance increasingly acknowledges
+harm-reduction approaches for individuals who choose to consume alcohol.
+Within this context, advising patients to avoid alcohol in the hours preceding sleep is
+commonly incorporated into cognitive behavioral therapy for insomnia (CBT-I) and clinical
+sleep hygiene recommendations. The frequently cited suggestion to complete alcohol
+intake several hours before bedtime should be interpreted as pragmatic harm-reduction
+guidance rather than a biologically fixed threshold. This approach aims to reduce late-night
+sleep fragmentation, REM suppression, and respiratory instability associated with ethanol
+metabolism during the main sleep period [2,4].
+Additional harm-reduction strategies supported by clinical and experimental liter-
+ature include limiting overall dose, avoiding alcohol as a sleep aid, and being mindful
+of co-factors that may amplify sleep disruption, such as sedative medications, irregu-
+lar sleep timing, and underlying sleep-disordered breathing. Consuming alcohol with
+food may modestly delay absorption, but does not eliminate adverse sleep effects and
+should not be framed as protective. Framing counseling around specific, modifiable
+behaviors—particularly timing relative to sleep onset—may improve patient engagement
+and adherence compared with blanket prohibitions, especially in primary care and sleep
+clinic settings where alcohol use is common but not always perceived as problematic.
+To summarize, Table 2 provides practical, evidence-informed strategies to prevent or
+mitigate the effects of alcohol on sleep quality, aligned with the behavioral and clinical
+guidance discussed above. These strategies can be readily incorporated into sleep hygiene
+counseling and CBT-I frameworks.
+https://doi.org/10.3390/nu18040585
+
+[page 11]
+Nutrients 2026, 18, 585
+11 of 15
+Table 2. Practical strategies to reduce alcohol-related sleep disruption.
+Strategy
+Rationale/Evidence-Based Mechanism
+Avoid alcohol within 3–4 h of bedtime
+Reduces late-night sleep fragmentation, REM
+suppression, and respiratory instability
+Limit overall alcohol intake
+Lower doses minimize disruption to sleep
+architecture and continuity
+Avoid alcohol as a sleep aid
+Sedative effects are transient and can worsen
+sleep quality
+Maintain consistent sleep–wake schedules
+Supports circadian alignment, mitigating
+alcohol-related disruptions
+Address co-factors that amplify disruption
+(e.g., sedatives, sleep disorders)
+Reduces additive effects that worsen
+sleep fragmentation
+Consume alcohol with caution (e.g., with food)
+May modestly delay absorption but does not
+prevent adverse effects
+REM: rapid eye movement.
+12. Public Health and Clinical Implications
+Perceptions of wine as a sleep aid remain common in surveys of adults, yet experimen-
+tal and epidemiological evidence consistently demonstrates that any short-term sedative
+effects are outweighed by later-night sleep fragmentation, reduced sleep quality, and
+increased risk of sleep-disordered breathing [1,2,12,19,25–27]. Public health messaging
+should emphasize that sleep disruption is a primary consequence of evening alcohol use,
+and that timing represents a modifiable factor. Finishing alcohol intake several hours before
+bedtime is recommended as a pragmatic harm-reduction strategy, not a physiologically
+validated threshold, while complete abstinence remains the most protective approach
+for sleep.
+Clinicians and healthcare staff, including nurses in inpatient and primary care settings,
+should routinely inquire about evening alcohol consumption. Simple screening questions
+regarding timing, quantity, and frequency of alcohol intake can help identify modifiable
+contributors to disrupted sleep and guide patient education on strategies to minimize
+sleep disruption. Time-based counseling can be incorporated into sleep hygiene or CBT-I
+protocols, focusing on limiting evening drinking, spacing alcohol consumption earlier in
+the day, and avoiding alcohol within the hours immediately preceding sleep. Priority
+populations for such counseling include individuals with insomnia symptoms, habitual
+evening drinkers, those with suspected or diagnosed sleep-disordered breathing, older
+adults, and women, who may experience more pronounced alcohol-related sleep disruption
+even at lower doses [2,7,13,22,35–37].
+From a nutritional perspective, any broader cardiometabolic associations of wine do
+not confer sleep benefit. Public health and clinical guidance should focus on evidence-based
+behavioral factors, particularly dose, timing, and frequency of alcohol consumption, to
+mitigate sleep-related harm [2,4,7,52]. Embedding these recommendations into clinical
+workflows, educational materials, and public health campaigns can support both individual
+behavior change and population-level sleep health.
+13. Future Research Directions
+Future research should aim to disentangle beverage-specific effects from ethanol dose
+and to clarify how timing of intake influences sleep outcomes. Standardized exposure
+definitions are needed, including quantification of alcohol in grams per serving, time-from-
+last-drink to sleep onset, and co-ingestion with food. Study designs should prioritize both
+experimental and longitudinal approaches, incorporating randomized controlled trials
+https://doi.org/10.3390/nu18040585
+
+[page 12]
+Nutrients 2026, 18, 585
+12 of 15
+that manipulate dose and timing, as well as well-controlled observational cohorts with
+repeated measurements.
+Key outcomes should include objective indices of sleep architecture and continuity
+(e.g., slow-wave sleep, REM sleep, wake after sleep onset), sleep-disordered breathing
+parameters, and validated subjective sleep measures. Free-living studies should integrate
+objective verification of alcohol intake, such as breathalyzer readings, transdermal alcohol
+sensors, or electronic drink diaries, to complement self-report and improve data reliability.
+Timing effects should be conceptualized in terms of “time-from-last-drink to sleep
+onset” rather than focusing exclusively on beverage type, enabling harmonization across
+studies and more precise harm-reduction guidance. Research that combines circadian biol-
+ogy, chronotype, and sleep regularity with alcohol exposure will be particularly valuable
+for identifying vulnerable populations and informing personalized behavioral recommen-
+dations. Collectively, these approaches can generate actionable evidence to guide both
+clinical counseling and public health messaging on alcohol-related sleep disruption.
+14. Conclusions
+Cultural narratives often portray wine as conducive to sleep; however, the available
+evidence over the past decade indicates that alcohol generally produces short-term reduc-
+tions in SOL followed by impairments in sleep architecture, continuity, and respiratory
+function. The non-ethanolic components of wine, including polyphenols and melatonin,
+are present in concentrations that appear insufficient to meaningfully offset these effects,
+although trial evidence specific to wine remains limited.
+Studies examining timing and circadian influences suggest that earlier consumption
+relative to bedtime may attenuate some adverse outcomes, but alcohol should not be
+considered a sleep aid. Considering alcohol use, intake timing, and individual sleep
+patterns can help guide harm-reduction strategies and inform clinical counseling. Future
+research using standardized exposure definitions, objective verification of alcohol intake,
+and robust sleep measures is needed to clarify mechanisms, optimize guidance, and support
+evidence-informed recommendations for sleep health in adults.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data sharing is not applicable to this article.
+Acknowledgments: J.-P.C. is supported by the CHEO Research Institute and the Canadian Institutes
+of Health Research. During the preparation of this manuscript, the author used ChatGPT 5.2 in order
+to edit the English for clarity, but not for generating content. The author has reviewed and edited the
+output and takes full responsibility for the content of this publication.
+Conflicts of Interest: The author declares no conflicts of interest. The author was invited to present
+at the 2nd Lifestyle, Diet, Wine and Health Congress, held in Rome in 2025, on the topic of sleep and
+healthy aging.
+Abbreviations
+The following abbreviation is used in this manuscript:
+BAC
+Blood alcohol concentration
+CBT-I
+Cognitive behavioral therapy for insomnia
+REM
+Rapid eye movement
+SOL
+Sleep onset latency
+https://doi.org/10.3390/nu18040585
+
+[page 13]
+Nutrients 2026, 18, 585
+13 of 15
+References
+1.
+Bolling, C.; Cardoni, M.E.; Arnedt, J.T. Sleep and Substance Use: Exploring Reciprocal Impacts and Therapeutic Approaches.
+Curr. Psychiatry Rep. 2025, 27, 199–205. [CrossRef]
+2.
+Gardiner, C.; Weakley, J.; Burke, L.M.; Roach, G.D.; Sargent, C.; Maniar, N.; Huynh, M.; Miller, D.J.; Townshend, A.; Halson, S.L.
+The effect of alcohol on subsequent sleep in healthy adults: A systematic review and meta-analysis. Sleep Med. Rev. 2025, 80,
+102030. [CrossRef]
+3.
+Webber, H.E.; Badawi, J.C.; Schmitz, J.M.; Yoon, J.H.; Calvillo, D.J.; Becker, C.I.; Lane, S.D. Objective and subjective measurement
+of sleep in people who use substances: Emerging evidence and recommendations from a systematic review. J. Sleep Res. 2025, 34,
+e14330. [CrossRef]
+4.
+Meneo, D.; Bacaro, V.; Curati, S.; Russo, P.M.; Martoni, M.; Gelfo, F.; Baglioni, C. A systematic review and meta-analysis of the
+association between young adults’ sleep habits and substance use, with a focus on self-medication behaviours. Sleep Med. Rev.
+2023, 70, 101792. [CrossRef]
+5.
+Sirtoli, R.; Mata, G.D.G.; Rodrigues, R.; Martinez-Vizcaíno, V.; López-Gil, J.F.; Guidoni, C.M.; Mesas, A.E. Is evening chronotype
+associated with higher alcohol consumption? A systematic review and meta-analysis. Chronobiol. Int. 2023, 40, 1467–1479.
+[CrossRef]
+6.
+Nelson, M.J.; Soliman, P.S.; Rhew, R.; Cassidy, R.N.; Haass-Koffler, C.L. Disruption of circadian rhythms promotes alcohol use: A
+systematic review. Alcohol Alcohol. 2024, 59, agad083. [CrossRef] [PubMed]
+7.
+Hu, N.; Ma, Y.; He, J.; Zhu, L.; Cao, S. Alcohol consumption and incidence of sleep disorder: A systematic review and meta-analysis
+of cohort studies. Drug Alcohol Depend. 2020, 217, 108259. [CrossRef] [PubMed]
+8.
+Inkelis, S.M.; Hasler, B.P.; Baker, F.C. Sleep and Alcohol Use in Women. Alcohol Res. 2020, 40, 13. [CrossRef]
+9.
+Burgos-Sanchez, C.; Jones, N.N.; Avillion, M.; Gibson, S.J.; Patel, J.A.; Neighbors, J.; Zaghi, S.; Camacho, M. Impact of Alcohol
+Consumption on Snoring and Sleep Apnea: A Systematic Review and Meta-analysis. Otolaryngol. Head Neck Surg. 2020, 163,
+1078–1086. [CrossRef]
+10.
+Koob, G.F.; Colrain, I.M. Alcohol use disorder and sleep disturbances: A feed-forward allostatic framework. Neuropsychopharma-
+cology 2020, 45, 141–165. [CrossRef] [PubMed]
+11.
+Richter, K.; Peter, L.; Rodenbeck, A.; Weess, H.G.; Riedel-Heller, S.G.; Hillemacher, T. Shiftwork and Alcohol Consumption: A
+Systematic Review of the Literature. Eur. Addict. Res. 2021, 27, 9–15. [CrossRef] [PubMed]
+12.
+Marhuenda, J.; Villaño, D.; Arcusa, R.; Zafrilla, P. Melatonin in Wine and Beer: Beneficial Effects. Molecules 2021, 26, 343.
+[CrossRef]
+13.
+He, S.; Hasler, B.P.; Chakravorty, S. Alcohol and sleep-related problems. Curr. Opin. Psychol. 2019, 30, 117–122. [CrossRef]
+14.
+Kolla, B.P.; Foroughi, M.; Saeidifard, F.; Chakravorty, S.; Wang, Z.; Mansukhani, M.P. The impact of alcohol on breathing
+parameters during sleep: A systematic review and meta-analysis. Sleep Med. Rev. 2018, 42, 59–67. [CrossRef]
+15.
+Simou, E.; Britton, J.; Leonardi-Bee, J. Alcohol and the risk of sleep apnoea: A systematic review and meta-analysis. Sleep Med.
+2018, 42, 38–46. [CrossRef]
+16.
+Thakkar, M.M.; Sharma, R.; Sahota, P. Alcohol disrupts sleep homeostasis. Alcohol 2015, 49, 299–310. [CrossRef]
+17.
+Chakravorty, S.; Chaudhary, N.S.; Brower, K.J. Alcohol Dependence and Its Relationship With Insomnia and Other Sleep Disorders.
+Alcohol Clin. Exp. Res. 2016, 40, 2271–2282. [CrossRef] [PubMed]
+18.
+Colrain, I.M.; Nicholas, C.L.; Baker, F.C. Alcohol and the sleeping brain. Handb. Clin. Neurol. 2014, 125, 415–431. [CrossRef]
+[PubMed]
+19.
+Roehrs, T.; Zwyghuizen-Doorenbos, A.; Knox, M.; Moskowitz, H.; Roth, T. Sedating effects of ethanol and time of drinking.
+Alcohol Clin. Exp. Res. 1992, 16, 553–557. [CrossRef]
+20.
+Ebrahim, I.O.; Shapiro, C.M.; Williams, A.J.; Fenwick, P.B. Alcohol and sleep I: Effects on normal sleep. Alcohol Clin. Exp. Res.
+2013, 37, 539–549. [CrossRef]
+21.
+Brower, K.J.; Hoffmann, R.; Conroy, D.A.; Arnedt, J.T.; Armitage, R. Sleep homeostasis in alcohol-dependent, depressed and
+healthy control men. Eur. Arch. Psychiatry Clin. Neurosci. 2011, 261, 559–566. [CrossRef]
+22.
+Arnedt, J.T.; Rohsenow, D.J.; Almeida, A.B.; Hunt, S.K.; Gokhale, M.; Gottlieb, D.J.; Howland, J. Sleep following alcohol
+intoxication in healthy, young adults: Effects of sex and family history of alcoholism. Alcohol Clin. Exp. Res. 2011, 35, 870–878.
+[CrossRef] [PubMed]
+23.
+Hasler, B.P.; Pedersen, S.L. Sleep and circadian risk factors for alcohol problems: A brief overview and proposed mechanisms.
+Curr. Opin. Psychol. 2020, 34, 57–62. [CrossRef]
+24.
+Izumi, I.; Nasermoaddeli, A.; Sekine, M.; Kagamimori, S. Effect of moderate alcohol intake on nocturnal sleep respiratory
+parameters in healthy middle-aged men. Environ. Health Prev. Med. 2005, 10, 16–20. [CrossRef]
+25.
+Hartwell, E.E.; Bujarski, S.; Glasner-Edwards, S.; Ray, L.A. The Association of Alcohol Severity and Sleep Quality in Problem
+Drinkers. Alcohol Alcohol. 2015, 50, 536–541. [CrossRef]
+https://doi.org/10.3390/nu18040585
+
+[page 14]
+Nutrients 2026, 18, 585
+14 of 15
+26.
+Zheng, J.W.; Ai, S.Z.; Chang, S.H.; Meng, S.Q.; Shi, L.; Deng, J.H.; Di, T.Q.; Liu, W.Y.; Chang, X.W.; Yue, J.L.; et al. Association
+between alcohol consumption and sleep traits: Observational and mendelian randomization studies in the UK biobank. Mol.
+Psychiatry 2024, 29, 838–846. [CrossRef]
+27.
+Tucker, P.; Härmä, M.; Ojajärvi, A.; Kivimäki, M.; Leineweber, C.; Oksanen, T.; Salo, P.; Vahtera, J. Association of rotating shift
+work schedules and the use of prescribed sleep medication: A prospective cohort study. J. Sleep Res. 2021, 30, e13349. [CrossRef]
+28.
+Erol, A.; Karpyak, V.M. Sex and gender-related differences in alcohol use and its consequences: Contemporary knowledge and
+future research considerations. Drug Alcohol Depend. 2015, 156, 1–13. [CrossRef]
+29.
+Landolt, H.P. Sleep homeostasis: A role for adenosine in humans? Biochem. Pharmacol. 2008, 75, 2070–2079. [CrossRef] [PubMed]
+30.
+Liu, Y.; Zhang, L.; Yao, M.; Li, Y.; Cao, K.; Deng, Y. Association of alcohol consumption with sleep disturbance among adolescents
+in China: A cross-sectional analysis. Front. Public Health 2025, 13, 1564292. [CrossRef] [PubMed]
+31.
+Hasler, B.P.; Schulz, C.T.; Pedersen, S.L. Sleep-Related Predictors of Risk for Alcohol Use and Related Problems in Adolescents
+and Young Adults. Alcohol Res. 2024, 44, 02. [CrossRef] [PubMed]
+32.
+Drazdowski, T.K.; Kelly, L.; Livingston, N.R.; Sheidow, A.J.; McCart, M.R. Within-Person Bidirectional Relations Between Sleep
+Problems and Alcohol, Cannabis, and Co-Use Problems in a Representative U.S. Sample. Subst. Use Misuse 2025, 60, 1923–1932.
+[CrossRef]
+33.
+Helaakoski, V.; Zellers, S.; Hublin, C.; Ollila, H.M.; Latvala, A. Associations between sleep medication use and alcohol consump-
+tion over 36 years in Finnish twins. Alcohol 2025, 124, 79–88. [CrossRef]
+34.
+Hussain, J.; Ling, L.; Alonzo, R.T.; Rodrigues, R.; Nicholson, K.; Stranges, S.; Anderson, K.K. Associations between sleep patterns,
+smoking, and alcohol use among older adults in Canada: Insights from the Canadian Longitudinal Study on Aging (CLSA).
+Addict. Behav. 2022, 132, 107345. [CrossRef]
+35.
+Block, A.J.; Hellard, D.W.; Slayton, P.C. Minimal effect of alcohol ingestion on breathing during the sleep of postmenopausal
+women. Chest 1985, 88, 181–184. [CrossRef]
+36.
+Strüven, A.; Schlichtiger, J.; Hoppe, J.M.; Thiessen, I.; Brunner, S.; Stremmel, C. The Impact of Alcohol on Sleep Physiology:
+A Prospective Observational Study on Nocturnal Resting Heart Rate Using Smartwatch Technology. Nutrients 2025, 17, 1470.
+[CrossRef]
+37.
+Smith, C.; Smith, D. Ingestion of ethanol just prior to sleep onset impairs memory for procedural but not declarative tasks. Sleep
+2003, 26, 185–191. [CrossRef] [PubMed]
+38.
+Feige, B.; Gann, H.; Brueck, R.; Hornyak, M.; Litsch, S.; Hohagen, F.; Riemann, D. Effects of alcohol on polysomnographically
+recorded sleep in healthy subjects. Alcohol Clin. Exp. Res. 2006, 30, 1527–1537. [CrossRef]
+39.
+Conroy, D.A.; Arnedt, J.T. Sleep and substance use disorders: An update. Curr. Psychiatry Rep. 2014, 16, 487. [CrossRef] [PubMed]
+40.
+Geoffroy, P.A.; Lejoyeux, M.; Rolland, B. Management of insomnia in alcohol use disorder. Expert Opin. Pharmacother. 2020, 21,
+297–306. [CrossRef] [PubMed]
+41.
+Chan, J.K.; Trinder, J.; Andrewes, H.E.; Colrain, I.M.; Nicholas, C.L. The acute effects of alcohol on sleep architecture in late
+adolescence. Alcohol Clin. Exp. Res. 2013, 37, 1720–1728. [CrossRef]
+42.
+McCullar, K.S.; Barker, D.H.; McGeary, J.E.; Saletin, J.M.; Gredvig-Ardito, C.; Swift, R.M.; Carskadon, M.A. Altered sleep
+architecture following consecutive nights of presleep alcohol. Sleep 2024, 47, zsae003. [CrossRef]
+43.
+Pabon, E.; Greenlund, I.M.; Carter, J.R.; de Wit, H. Effects of alcohol on sleep and nocturnal heart rate: Relationships to intoxication
+and morning-after effects. Alcohol Clin. Exp. Res. 2022, 46, 1875–1887. [CrossRef]
+44.
+Payseur, D.K.; Belhumeur, J.R.; Curtin, L.A.; Moody, A.M.; Collier, S.R. The effect of acute alcohol ingestion on systemic
+hemodynamics and sleep architecture in young, healthy men. J. Am. Coll. Health 2022, 70, 509–516. [CrossRef]
+45.
+McCool, M.W.; Martinez, C.E.; Wong, M.M.; Pearson, M.R. Protective Strategies Study Team. Sleep disturbances relate to
+problematic alcohol use via effortful control and negative emotionality. Alcohol Clin. Exp. Res. 2025, 49, 1554–1563. [CrossRef]
+46.
+Dorrian, J.; Heath, G.; Sargent, C.; Banks, S.; Coates, A. Alcohol use in shiftworkers. Accid. Anal. Prev. 2017, 99, 395–400.
+[CrossRef] [PubMed]
+47.
+Roehrs, T.; Papineau, K.; Rosenthal, L.; Roth, T. Ethanol as a hypnotic in insomniacs: Self administration and effects on sleep and
+mood. Neuropsychopharmacology 1999, 20, 279–286. [CrossRef] [PubMed]
+48.
+Burgess, H.J.; Troost, J.P.; Rizvydeen, M.; Kikyo, F.; Kebbeh, N.; Tan, M.; Roecklein, K.A.; King, A.C.; Hasler, B.P. Do sleep and
+circadian characteristics predict alcohol use in adult drinkers? Alcohol Clin. Exp. Res. 2024, 48, 680–691. [CrossRef] [PubMed]
+49.
+Hasler, B.P.; Clark, D.B. Circadian misalignment, reward-related brain function, and adolescent alcohol involvement. Alcohol Clin.
+Exp. Res. 2013, 37, 558–565. [CrossRef]
+50.
+Grao-Cruces, E.; Calvo, J.R.; Maldonado-Aibar, M.D.; Millan-Linares, M.D.C.; Montserrat-de la Paz, S. Mediterranean Diet and
+Melatonin: A Systematic Review. Antioxidants 2023, 12, 264. [CrossRef]
+https://doi.org/10.3390/nu18040585
+
+[page 15]
+Nutrients 2026, 18, 585
+15 of 15
+51.
+Miller, M.B.; Cofresí, R.U.; McCarthy, D.M.; Carskadon, M.A. Sleep and circadian influences on blood alcohol concentration. Sleep
+2023, 46, zsad250. [CrossRef] [PubMed]
+52.
+Barbería-Latasa, M.; Martínez-González, M.A. The Mediterranean diet and cardiovascular disease. Cardiovasc. Res. 2025, 121,
+2465–2475. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+https://doi.org/10.3390/nu18040585

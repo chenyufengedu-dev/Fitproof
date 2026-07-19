@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>FitProof 海报</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;0,800;0,900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink: #0A3A35;        /* 深青近黑：标题/正文 */
+    --teal: #20CDB6;       /* 品牌强调 */
+    --teal-deep: #0B6E63;  /* 医疗深青：大标题 */
+    --teal-soft: #E6F6F3;  /* 卡片浅青底 */
+    --bg: #F3FAF9;         /* 极浅青背景 */
+    --line: #CFE9E4;       /* 细描边 */
+    --amber: #E6A23C;      /* 风险提示（仅小面积） */
+    --cn: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", sans-serif;
+    --latin: "Montserrat", var(--cn);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #5a6a68;
+    font-family: var(--cn);
+    color: var(--ink);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* 导出：截图这块 .poster，或浏览器打印为 PDF（A 系列竖版） */
+  .poster {
+    position: relative;
+    width: 1040px;
+    height: 1456px;
+    background:
+      radial-gradient(120% 60% at 50% -10%, #ffffff 0%, var(--bg) 46%, var(--bg) 100%);
+    overflow: hidden;
+    box-shadow: 0 30px 80px rgba(0,0,0,.35);
+  }
+  /* 顶部医疗细带 + 心电图 */
+  .topbar { position: absolute; top: 0; left: 0; right: 0; height: 8px; background: var(--teal); }
+  .seal {
+    position: absolute; top: 40px; right: 56px; width: 116px; height: 116px;
+    border-radius: 50%; border: 2px solid var(--teal);
+    display: grid; place-items: center; text-align: center;
+    color: var(--teal-deep); background: #fff;
+    box-shadow: 0 8px 24px rgba(11,110,99,.12);
+  }
+  .seal .tick { font-size: 30px; line-height: 1; }
+  .seal .txt { font-size: 13px; letter-spacing: .26em; margin-top: 4px; font-weight: 700; }
+  .seal .ring { position: absolute; inset: 8px; border: 1px dashed var(--teal); border-radius: 50%; opacity: .5; }
+
+  .hero { padding: 70px 64px 0; }
+  .brand {
+    font-family: var(--latin); font-weight: 900; font-style: normal;
+    font-size: 150px; line-height: .9; letter-spacing: -2px; color: var(--teal-deep);
+  }
+  .ecg { margin: 10px 0 0; }
+  .subtitle {
+    display: flex; align-items: center; gap: 16px; margin-top: 22px;
+    font-size: 38px; font-weight: 800; color: var(--ink);
+  }
+  .subtitle .bar { height: 3px; width: 54px; background: var(--teal); border-radius: 2px; }
+  .tagline {
+    display: inline-flex; align-items: center; gap: 10px; margin-top: 20px;
+    padding: 10px 20px; border: 1.5px solid var(--line); border-radius: 999px;
+    background: #fff; font-size: 22px; font-weight: 600; color: var(--teal-deep);
+  }
+  .tagline .cross { color: var(--teal); font-weight: 900; }
+
+  /* 主体区 */
+  .stage { position: relative; height: 760px; margin-top: 26px; }
+
+  /* 小猫图片位：把透明背景 PNG 放到 ./assets/ 下即可自动出现 */
+  .mascot { position: absolute; }
+  .mascot img { width: 100%; height: 100%; object-fit: contain; display: block; }
+  .mascot .ph {
+    width: 100%; height: 100%; border: 2px dashed var(--teal);
+    border-radius: 18px; display: grid; place-items: center; text-align: center;
+    color: var(--teal-deep); font-size: 15px; background: rgba(32,205,182,.06); padding: 8px;
+  }
+  .m1 { top: 6px; left: 56px; width: 230px; height: 250px; }
+  .m2 { top: 250px; left: 380px; width: 280px; height: 300px; }
+  .m3 { bottom: 0px; right: 70px; width: 220px; height: 250px; }
+
+  .bubble {
+    position: absolute; background: #fff; border: 1.5px solid var(--line);
+    border-radius: 16px; padding: 12px 18px; font-size: 22px; font-weight: 700;
+    color: var(--teal-deep); box-shadow: 0 8px 22px rgba(11,110,99,.10);
+  }
+  .bubble::after {
+    content: ""; position: absolute; bottom: -9px; left: 28px;
+    border: 9px solid transparent; border-top-color: #fff;
+  }
+  .b1 { top: 0; left: 150px; }
+
+  .card {
+    position: absolute; background: #fff; border: 1.5px solid var(--line);
+    border-radius: 20px; padding: 18px 20px; box-shadow: 0 10px 28px rgba(11,110,99,.08);
+  }
+  .card .hd { display: flex; align-items: center; gap: 8px; font-size: 19px; font-weight: 800; color: var(--ink); }
+  .card .hd .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--teal); }
+  .skeleton { height: 8px; border-radius: 5px; background: var(--teal-soft); margin-top: 10px; }
+  .skeleton.s2 { width: 70%; } .skeleton.s3 { width: 86%; }
+
+  .c-lit { top: 40px; right: 64px; width: 250px; }
+  .c-exp { top: 40px; right: 64px; }
+  .row-cards { position: absolute; top: 40px; right: 64px; display: flex; gap: 16px; }
+  .row-cards .card { position: static; width: 215px; }
+
+  .c-multi { top: 250px; right: 90px; width: 270px; }
+  .check { display: flex; align-items: center; gap: 10px; margin-top: 12px; font-size: 19px; font-weight: 600; color: var(--ink); }
+  .check .tk { width: 22px; height: 22px; border-radius: 6px; background: var(--teal); color:#fff; display: grid; place-items: center; font-size: 13px; }
+
+  .meter { position: absolute; }
+  .meter .lbl { display: flex; align-items: center; gap: 8px; font-size: 19px; font-weight: 800; }
+  .meter .lbl .ic { color: var(--teal); }
+  .track { height: 12px; border-radius: 999px; background: var(--teal-soft); margin-top: 10px; position: relative; overflow: hidden; }
+  .fill { position: absolute; top: 0; left: 0; bottom: 0; background: var(--teal); border-radius: 999px; }
+  .scale { display: flex; justify-content: space-between; font-size: 15px; color: #6b8480; margin-top: 6px; }
+  .m-risk { top: 470px; left: 64px; width: 250px; }
+  .m-conf { top: 600px; left: 360px; width: 250px; }
+
+  .verdict {
+    position: absolute; bottom: 4px; right: 300px; width: 230px;
+    background: #fff; border: 1.5px solid var(--teal); border-radius: 22px;
+    padding: 20px; text-align: center; box-shadow: 0 14px 34px rgba(11,110,99,.16);
+  }
+  .verdict .ok { width: 56px; height: 56px; border-radius: 50%; background: var(--teal); color: #fff; display: grid; place-items: center; font-size: 30px; margin: 0 auto; }
+  .verdict .t { font-size: 22px; font-weight: 800; margin-top: 12px; }
+  .verdict .d { font-size: 18px; color: #4b635f; margin-top: 6px; line-height: 1.5; }
+
+  /* 底部：二维码（直角）+ 落款 */
+  .footer { position: absolute; left: 0; right: 0; bottom: 0; height: 0; }
+  .qr {
+    position: absolute; bottom: 150px; left: 64px; width: 210px;
+  }
+  .qr .box {
+    width: 210px; height: 210px; background: #fff; border: 2px solid var(--teal);
+    border-radius: 0; /* 直角 */ display: grid; place-items: center; color: #9bb6b1; font-size: 15px;
+  }
+  .qr .cap { text-align: center; font-size: 20px; font-weight: 700; margin-top: 12px; color: var(--ink); }
+
+  .signoff { position: absolute; bottom: 46px; left: 64px; display: flex; align-items: baseline; gap: 16px; }
+  .signoff .win {
+    font-family: var(--latin); font-weight: 900; font-style: normal;
+    font-size: 84px; line-height: .9; color: var(--ink); letter-spacing: 0;
+  }
+  .signoff .team { font-size: 40px; font-weight: 800; color: var(--teal-deep); }
+
+  .disclaimer { position: absolute; bottom: 30px; right: 64px; font-size: 14px; color: #7d9590; }
+</style>
+</head>
+<body>
+  <div class="poster" id="poster">
+    <div class="topbar"></div>
+
+    <!-- 核验印章 -->
+    <div class="seal">
+      <div class="ring"></div>
+      <div>
+        <div class="tick">✓</div>
+        <div class="txt">已核验</div>
+      </div>
+    </div>
+
+    <!-- Hero -->
+    <div class="hero">
+      <div class="brand">FitProof</div>
+      <svg class="ecg" width="560" height="34" viewBox="0 0 560 34" fill="none">
+        <path d="M0 17 H180 l14 -14 l16 28 l14 -22 l12 8 H560"
+              stroke="#20CDB6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <div class="subtitle"><span class="bar"></span>让 AI 替你多看一步</div>
+      <div class="tagline"><span class="cross">✚</span>运动健康短视频 · 争议辨析与证据核验</div>
+    </div>
+
+    <!-- 主体 -->
+    <div class="stage">
+      <!-- 提问小猫 -->
+      <div class="bubble b1">这个说法靠谱吗？</div>
+      <div class="mascot m1">
+        <img src="assets/cat-think.png" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='grid';" />
+        <div class="ph" style="display:none">放「提问小猫」PNG<br/>assets/cat-think.png</div>
+      </div>
+
+      <!-- 调查小猫 -->
+      <div class="mascot m2">
+        <img src="assets/cat-magnify.png" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='grid';" />
+        <div class="ph" style="display:none">放「核验小猫」PNG<br/>assets/cat-magnify.png</div>
+      </div>
+
+      <!-- 右上：文献 / 专家 -->
+      <div class="row-cards">
+        <div class="card">
+          <div class="hd">📄 文献研究</div>
+          <div class="skeleton"></div><div class="skeleton s3"></div><div class="skeleton s2"></div>
+        </div>
+        <div class="card">
+          <div class="hd">👥 专家观点</div>
+          <div class="skeleton"></div><div class="skeleton s3"></div><div class="skeleton s2"></div>
+        </div>
+      </div>
+
+      <!-- 多维度分析 -->
+      <div class="card c-multi">
+        <div class="hd"><span class="dot"></span>多维度分析</div>
+        <div class="check"><span class="tk">✓</span>动作机制</div>
+        <div class="check"><span class="tk">✓</span>适用人群</div>
+        <div class="check"><span class="tk">✓</span>证据强度</div>
+        <div class="check"><span class="tk">✓</span>潜在风险</div>
+      </div>
+
+      <!-- 风险评估 -->
+      <div class="meter m-risk">
+        <div class="lbl"><span class="ic">🛡️</span>风险评估</div>
+        <div class="track"><div class="fill" style="width:55%"></div></div>
+        <div class="scale"><span>低</span><span>中</span><span>高</span></div>
+      </div>
+
+      <!-- 可信度 -->
+      <div class="meter m-conf">
+        <div class="lbl">可信度</div>
+        <div class="track"><div class="fill" style="width:82%"></div></div>
+        <div class="scale"><span>低</span><span>高</span></div>
+      </div>
+
+      <!-- 结论小猫 + 结论卡 -->
+      <div class="bubble" style="bottom:210px; right:120px;">看证据判断</div>
+      <div class="mascot m3">
+        <img src="assets/cat-result.png" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='grid';" />
+        <div class="ph" style="display:none">放「结论小猫」PNG<br/>assets/cat-result.png</div>
+      </div>
+      <div class="verdict">
+        <div class="ok">✓</div>
+        <div class="t">结论</div>
+        <div class="d">证据充分<br/>该说法不成立</div>
+      </div>
+    </div>
+
+    <!-- 二维码（直角） -->
+    <div class="qr">
+      <div class="box" id="qrbox"><img id="qrimg" alt="扫码体验" style="width:100%;height:100%;display:none" /></div>
+      <div class="cap">扫码体验</div>
+    </div>
+
+    <!-- 落款 -->
+    <div class="signoff">
+      <span class="win">WIN1</span>
+      <span class="team">战队</span>
+    </div>
+    <div class="disclaimer">本产品用于运动健康内容辨析，不构成医疗诊断建议</div>
+  </div>
+
+  <script>
+    /* ====== 把下面这行换成你的 Vercel 网址，保存后二维码会自动生成 ====== */
+    const DEMO_URL = "https://你的项目.vercel.app";
+
+    (function () {
+      const img = document.getElementById('qrimg');
+      const box = document.getElementById('qrbox');
+      const ready = DEMO_URL && !DEMO_URL.includes('你的项目');
+      if (ready) {
+        img.src = "https://api.qrserver.com/v1/create-qr-code/?size=440x440&margin=0&data=" + encodeURIComponent(DEMO_URL);
+        img.style.display = 'block';
+      } else {
+        box.innerHTML = '<span style="color:#9bb6b1;font-size:14px;text-align:center;line-height:1.5">把脚本里的<br/>DEMO_URL<br/>改成你的网址</span>';
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+
+
+[page 1]
+Menu
+An official website of the United States government
+Español
+Home
+About Cancer
+Cancer Causes and Prevention
+Risk Factors 
+Common Cancer Myths and Misconceptions
+Fluoridated Water
+Fluoridated Water
+On This Page
+What is fluoride, and where is it found?
+What is water fluoridation?
+When did water fluoridation begin in the United States, and how common is it?
+Can fluoridated water cause cancer?
+What is fluoride, and where is it found?
+Fluoride is the name given to a group of compounds that are composed of the naturally
+occurring element fluorine and one or more other elements. Fluorides are present
+naturally in water and soil at varying levels.
+In the 1940s, scientists discovered that people who lived where drinking water supplies had
+naturally occurring fluoride levels of approximately 1 part fluoride per million parts water
+or greater (≥1.0 ppm) had fewer dental caries (cavities) than people who lived where
+fluoride levels in drinking water were lower. Many more recent studies have supported this
+finding (1). 
+It was subsequently found that fluoride can prevent and even reverse tooth decay by
+inhibiting bacteria that produce acid in the mouth and by enhancing remineralization, the
+process through which tooth enamel is “rebuilt” after it begins to decay (1,2).
+In addition to building up in teeth, ingested fluoride accumulates in bones.
+What is water fluoridation?
+
+[page 2]
+Water fluoridation is the process of adding fluoride to the water supply. The current
+recommendation for the level of fluoridation is 0.7 ppm, or 0.7 milligrams of fluoride per
+liter of water, which has been determined to  prevent tooth decay without discoloring the
+teeth (3). The Centers for Disease Control and Prevention (CDC) has information and
+guidelines on community water fluoridation in the United States.
+When did water fluoridation begin in the United
+States, and how common is it?
+In 1945, the city of Grand Rapids, Michigan, adjusted the fluoride content of its water
+supply to 1.0 ppm and thus became the first U.S. city to implement community water
+fluoridation. In 2022, more than 72% of the U.S. population served by public water systems,
+and more than 62% of the U.S. population overall, had access to fluoridated water.
+Can fluoridated water cause cancer?
+A 1991 study by the National Toxicology Program, part of the National Institute of
+Environmental Health Sciences, showed an increased number of osteosarcomas (bone
+tumors) in male rats given water high in fluoride for 2 years (4). However, two major
+comprehensive reviews of studies in both humans and animals published around the same
+time concluded that there was no association between fluoridated water and cancer (5,6).
+In one of these comprehensive reviews, published in 1991, the Public Health Service (PHS)
+concluded, based on a review of more than 50 human epidemiologic studies conducted in
+the previous 40 years, that optimal fluoridation of drinking water “does not pose a
+detectable cancer risk to humans,” as evidenced by extensive human epidemiologic data
+(5). 
+For example, in one of the studies reviewed by the PHS, scientists at NCI evaluated the
+relationships between water fluoridation and both the number of cancer deaths in the
+United States during a 36-year period and the number of new cancer cases during a 15-
+year period. After examining more than 2.2 million cancer death records and 125,000
+cancer case records in counties using fluoridated water, the researchers found no
+indication of increased cancer risk in people who consumed fluoridated drinking water (5).
+In the second comprehensive review, published in 1993, the Subcommittee on Health
+Effects of Ingested Fluoride of the National Research Council, part of the National Academy
+of Sciences, conducted an extensive literature review of studies on the possible association
+between fluoridated drinking water and cancer risk. The review included not only the data
+from the more than 50 human epidemiologic studies that the PHS had reviewed, but also
+
+[page 3]
+results from six animal studies. The Subcommittee concluded that none of the data
+demonstrated an association between fluoridated drinking water and cancer (6). A 1999
+report by the CDC supported these findings, concluding that studies to date have produced
+“no credible evidence” of an association between fluoridated drinking water and an
+increased risk for cancer (2). 
+Since those extensive reviews, several additional epidemiologic studies have been
+conducted, with no credible evidence of an association between fluoride levels and
+osteosarcoma or Ewing sarcoma (7–12). Most studies relied on historical estimates of
+exposure. However, in 2011, researchers examined the possible relationship between
+fluoride exposure and osteosarcoma in a new way: they measured fluoride concentration
+in samples of normal bone that were adjacent to a person’s tumor. Because fluoride
+naturally accumulates in bone, this method provides a more accurate measure of
+cumulative fluoride exposure than relying on the memory of study participants or
+municipal water treatment records. The analysis showed no difference in bone fluoride
+levels between people with osteosarcoma and people in a control group who had other
+malignant bone tumors (7).
+Selected References
+1. Centers for Disease Control and Prevention. Public Health Service report on fluoride
+benefits and risks. JAMA 1991; 266(8):1061–1067.
+2. Centers for Disease Control and Prevention. Achievements in public health, 1900–1999:
+fluoridation of drinking water to prevent dental caries. Morbidity and Mortality Weekly
+Report 1999; 48(41):933–940.
+3. U.S. Department of Health and Human Services Federal Panel on Community Water
+Fluoridation. U.S. Public Health Service Recommendation for Fluoride Concentration in
+Drinking Water for the Prevention of Dental Caries. Public Health Report 2015;
+130(4):318–831. doi: 10.1177/003335491513000408.
+4. Bucher JR, Hejtmancik MR, Toft JD, et al. Results and conclusions of the National
+Toxicology Program’s rodent carcinogenicity studies with sodium fluoride. International
+Journal of Cancer 1991; 48(5):733–737. [PubMed Abstract]
+5. Committee to Coordinate Environmental Health and Related Programs, Ad Hoc
+Subcommittee on Fluoride (February 1991). Review of Fluoride: Benefits and Risks. Public
+Health Service, Department of Health and Human Services.
+6. National Research Council, Subcommittee on Health Effects of Ingested Fluoride.
+Carcinogenicity of fluoride. In: Health Effects of Ingested Fluoride. Washington, DC:
+National Academy Press, 1993.
+
+[page 4]
+7. Kim FM, Hayes C, Williams PL, et al. An assessment of bone fluoride and osteosarcoma.
+Journal of Dental Research 2011; 90(10):1171–1176. [PubMed Abstract]
+8. Archer NP, Napier TS, Villanacci JF. Fluoride exposure in public drinking water and
+childhood and adolescent osteosarcoma in Texas. Cancer Causes & Control 2016;
+27(7):863–868. [PubMed Abstract]
+9. Kim FM, Hayes C, Burgard SL, et al. A case–control study of fluoridation and
+osteosarcoma. Journal of Dental Research 2020; 99(10):1157–1164. [PubMed Abstract]
+10. Gelberg KH, Fitzgerald EF, Hwang SA, Dubrow R. Fluoride exposure and childhood
+osteosarcoma: A case–control study. American Journal of Public Health 1995;
+85(12):1678–1683. [PubMed Abstract]
+11. Hayes C, Douglass CW, Kim FM,  et al. A case–control study of topical and supplemental
+fluoride use and osteosarcoma risk. Journal of the American Dental Association 2021;
+152(5):344–353.e10. [PubMed Abstract]
+12. Blakey K, Feltbower RG, Parslow RC, et al. Is fluoride a risk factor for bone cancer?
+Small area analysis of osteosarcoma and Ewing sarcoma diagnosed among 0–49-year-
+olds in Great Britain, 1980–2005. International Journal of Epidemiology 2014; 43(1):224–
+234. [PubMed Abstract]
+Reviewed: February 20, 2025
+If you would like to reproduce some or all of this content, see Reuse of NCI Information for
+guidance about copyright and permissions. In the case of permitted digital reproduction, please
+credit the National Cancer Institute as the source and link to the original NCI product using the
+original product's title; e.g., “Fluoridated Water was originally published by the National Cancer
+Institute.”
+Want to use this content on your website or other digital platform? Our syndication
+services page shows you how.
+About
+About This Website
+en Español
+Reuse & Copyright
+Resources
+Contact Us
+Publications
+Dictionary of Cancer Terms
+Sign up for email
+updates
+Enter your email address
+
+[page 5]
+Social Media
+Find a Clinical Trial
+Policies
+Accessibility
+FOIA
+Privacy & Security
+Disclaimers
+Vulnerability Disclosure
+Sign up
+National Cancer Institute
+at the National Institutes of Health
+Contact Us
+Live Chat
+1-800-4-CANCER
+NCIinfo@nih.gov
+Site Feedback
+Follow us
+U.S. Department of Health and Human Services
+National Institutes of Health
+National Cancer Institute
+USA.gov

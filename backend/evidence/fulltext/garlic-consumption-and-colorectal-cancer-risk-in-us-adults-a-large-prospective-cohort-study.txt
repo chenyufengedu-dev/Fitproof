@@ -1,0 +1,71 @@
+
+
+[page 1]
+Garlic consumption and colorectal
+cancer risk in US adults: a large
+prospective cohort study.
+Authors
+Jiang Z, Chen H, Li M, Wang W, Long F, Fan C
+Affiliations
+Department of Gastrointestinal, Bariatric and Metabolic Surgery,
+Research Center for Nutrition, Metabolism and Food Safety, West
+China-PUMC C.C. Chen Institute of Health, West China School of
+Public Health and West China Fourth Hospital, Sichuan University,
+Chengdu, China.
+Department of Immunology, Institute of Basic Medical Sciences,
+Chinese Academy of Medical Sciences, School of Basic Medicine,
+Peking Union Medical College, Beijing, China.
+Abstract
+OBJECTIVE: To clarify the inconsistent findings of epidemiological
+studies on the association between dietary garlic consumption and
+colorectal cancer (CRC) incidence, by prospectively assessing the
+association in a large US population.
+METHODS: Data of 58,508 participants (aged 55-74) from the Prostate,
+Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial were
+analyzed. Dietary data were collected using a validated questionnaire.
+Multivariable Cox regression analysis determined hazard ratio (HR) and
+95% confidence interval (CI). Restricted cubic spline regression was
+used to investigate the non-linear relationship, and subgroup analysis
+was conducted to examine potential effect modifiers.
+RESULTS: During a median follow-up of 12.05 years, 782 CRC cases
+were documented, including 456 proximal colon cancer cases, 322
+distal CRC cases, and 4 CRC cases with an unknown site. Moderate
+
+[page 2]
+Back to Publication Search
+dietary garlic consumption was significantly associated with a reduced
+risk of overall CRC (HR
+: 0.70, 95% CI: 0.54 to 0.91, p = 0.007, P
+for trend: 0.434), exhibiting a U-shaped dose-response pattern, and
+also with overall CRC in males in the stratified Cox regression model
+(Model 2: HR
+: 0.57, 95% CI: 0.40 to 0.81, p = 0.002), but not in
+females. The protective association was more pronounced in men,
+Caucasian, and those with lower alcohol consumption. Notably, these
+protective effects were observed for overall distal CRC (HR
+:
+0.62, 95% CI: 0.42 to 0.93, p = 0.021; and HR
+: 0.63, 95% CI:
+0.43 to 0.92, p = 0.018, P for trend: 0.208); and for distal CRC in males
+(HR
+: 0.40, 95% CI: 0.22 to 0.71, p = 0.002, P for trend: 0.696),
+but not for proximal CRC.
+CONCLUSION: Moderate consumption of dietary garlic is associated
+with a decreased CRC risk in the US population, with variations based
+on CRC anatomic subsites. Further in-depth prospective studies are
+needed to validate these findings in different populations and to
+explore subsites-specific associations.
+quintile 3vs. 1
+quintile 3vs. 1
+quintile 3vs. 1
+quintile 4vs. 1
+quintile 3vs. 1
+Publication Details
+PubMed ID
+38125729
+Digital Object Identifier
+10.3389/fnut.2023.1300330 
+Publication
+Front Nutr. 2023; Volume 10: Pages 1300330
+Related CDAS Studies
+PLCO

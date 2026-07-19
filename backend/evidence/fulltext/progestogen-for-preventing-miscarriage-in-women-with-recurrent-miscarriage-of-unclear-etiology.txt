@@ -1,0 +1,1809 @@
+
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Risk of bias
+Two review authors assessed the studies using the RoB 1 tool for selection, performance, detection, attrition, incomplete outcome data,
+selective reporting and other bias.
+Synthesis methods
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. Two
+reviewers assessed the certainty of the evidence using the GRADE approach. We utilized a random-eﬀects model to synthesize the results.
+Included studies
+Nine trials with 1426 randomized participants met the inclusion criteria. Eight trials included analyzable data for 1276 participants. Overall,
+the risk of bias was low for six trials, while three had areas of concern. Because few studies reported on important outcomes, imprecision
+was high for those outcomes, limiting the certainty of those analyses.
+Synthesis of results
+Seven of the included trials compared treatment with placebo and the other two compared progestogen administration with no treatment.
+The trials were a mix of multicenter and single-center trials, conducted in Jordan, the UK, the Netherlands, and the USA.
+In three trials, participants had three or more consecutive miscarriages and in six trials, participants had two or more consecutive
+miscarriages. Route, dosage and duration of progestogen treatment varied across the trials. The majority of trials were at low risk of bias
+for most domains. Eight trials with 1276 participants contributed data to the analyses.
+Meta-analysis suggests that there is probably little to no diﬀerence in the miscarriage rate for women given progestogen supplementation
+compared to placebo or no treatment (risk ratio (RR) 0.91, 95% confidence interval (CI) 0.76 to 1.07; I2 = 0%; 8 studies, 1276
+participants; moderate-certainty evidence). Subgroup analyses comparing placebo-controlled versus non-placebo-controlled trials, trials
+of participants with three or more prior miscarriages compared to women with two or more miscarriages, and diﬀerent routes of
+administration showed no clear diﬀerences between subgroups for miscarriage.
+For women with recurrent miscarriage of unclear etiology receiving progestogen, there was probably little to no diﬀerence in live birth rate
+compared to placebo (RR 1.04, 95% CI 0.96 to 1.12; 5 trials, 1063 participants; moderate-certainty evidence). We are uncertain about the
+eﬀect on the rate of preterm birth; there was probably little to no diﬀerence (RR 1.15, 95% CI 0.55 to 2.41; 3 trials, 256 participants; very low-
+certainty evidence). No clear diﬀerences were seen for women receiving progestogen for the other important outcomes, including neonatal
+death, fetal genital abnormalities, or stillbirth. There was little or no data on other important outcomes of low birth weight, maternal
+adverse events, teratogenic eﬀects, or admission to a special care unit.
+None of the trials reported on any other important maternal outcomes, including severity of morning sickness, thromboembolic events,
+depression, admission to a special care unit, or subsequent fertility.
+Authors' conclusions
+For women with unexplained recurrent miscarriage, progestogen supplementation therapy probably results in little to no eﬀect on
+outcomes in subsequent pregnancies.
+Funding
+This Cochrane review had no dedicated funding.
+Registration
+Previous versions of this review were published in the Cochrane Library, available at doi.org/10.1002/14651858.CD003511.pub5.
+P L A I N   L A N G U A G E   S U M M A R Y
+Are progestogen medications beneficial for preventing recurrent miscarriage?
+Key messages
+•
+Giving progestogen medication likely makes little to no diﬀerence to the chances of miscarriage or live birth for women who have
+previously had miscarriages for no known reason.
+What is recurrent miscarriage?
+Early pregnancy loss, also known as miscarriage, generally occurs in the first trimester (the first 13 weeks of pregnancy). For some women
+and their partners, miscarriages can happen several times. This is also known as having recurrent miscarriage. While there are sometimes
+causes found for miscarriages, there are ofen no clear reasons why it happens.
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+What are progestogens, and why might they be used?
+The hormone called progesterone prepares the womb (uterus) to receive and support the newly fertilized egg during the early part of
+pregnancy. It has been suggested that some women who miscarry may not make enough progesterone in the early part of pregnancy.
+Supplementation with medications that act like progesterone (called progestogens), which may be natural or synthetic, has been
+suggested as a possible way to prevent recurrent miscarriage. Having miscarriages can be both physically and emotionally diﬀicult for
+women and their partners. Finding a therapy to help reduce recurrent miscarriage could help them avoid a miscarriage and have a live baby.
+What did we want to find out?
+We wanted to find out if giving a progestogen in early pregnancy would be better than giving nothing to improve:
+•
+miscarriage (hoping to reduce this);
+•
+live birth rate (hoping to increase this);
+•
+other problems for moms and babies (hoping to reduce these problems, such as low birthweight or needing special care).
+What did we do?
+We searched for published studies that included women who had experienced recurrent miscarriage and either gave them progestogen
+treatment or no treatment (or a 'dummy' pill). We excluded studies of women who had in-vitro fertilization (IVF) fertility treatment.
+What did we find?
+We found nine studies that enrolled a total of 1426 women with a history of recurrent miscarriage. Eight of the studies contained
+information we could use, for a total of 1276 women. These studies found that giving progestogen medication early in pregnancy to women
+with recurrent miscarriage probably makes little or no diﬀerence to their chance of miscarriage. We did not find that giving the progestogen
+medication by mouth, as a shot (injection), or in the vagina, was likely any better than any of the other ways. The studies also showed that
+giving progestogen to women with prior recurrent miscarriage probably made little or no diﬀerence to the chance of having a live baby in
+the current pregnancy. We are uncertain about the eﬀect of progestogen on the chances of preterm birth, newborn death, newborn birth
+defects, or stillbirth.
+What are the limitations of the evidence?
+We found evidence was ofen from older studies, many of which were somewhat small. This also meant that some of the details about how
+some of the studies were done were not clear. Not all of the studies provided data about all the eﬀects that we were interested in.
+How up to date is the evidence?
+This updated review searched the evidence on 25 July 2024.
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+S U M M A R Y   O F   F I N D I N G S
+ 
+Summary of findings 1.   Summary of findings table - Progestogen compared to placebo/no treatment for women with recurrent miscarriage of
+unclear etiology
+Progestogen compared to placebo/no treatment for women with recurrent miscarriage of unclear etiology
+Patient or population: women with recurrent miscarriage of unclear etiology
+Setting: clinical settings, mainly in Europe, North America, and the UK
+Intervention: progestogen
+Comparison: placebo/no treatment
+Anticipated absolute effects* (95% CI)
+Outcomes
+Risk with placebo/no
+treatment
+Risk with progestogen
+Relative effect
+(95% CI)
+№ of participants
+(studies)
+Certainty of the evi-
+dence
+(GRADE)
+Comments
+Miscarriage
+310 per 1000
+282 per 1000
+(235 to 331)
+RR 0.91
+(0.76 to 1.07)
+1276
+(8 RCTs)
+⊕⊕⊕⊝
+Moderatea
+ 
+Live birth rate
+660 per 1000
+686 per 1000
+(634 to 739)
+RR 1.04
+(0.96 to 1.12)
+1063
+(5 RCTs)
+⊕⊕⊕⊝
+Moderatea
+ 
+Preterm birth
+75 per 1000
+86 per 1000
+(41 to 180)
+RR 1.15
+(0.55 to 2.41)
+256
+(4 RCTs)
+⊕⊝⊝⊝
+Very lowa,b
+ 
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and
+its 95% CI).
+CI: confidence interval; RR: risk ratio
+GRADE Working Group grades of evidence
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is
+substantially different.
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
+See interactive version of this table: https://gdt.gradepro.org/presentations/#/isof/isof_question_revman_web_453523143436048125.
+a We downgraded by one level for serious limitations due to some of the studies being at high or unclear risk for selection bias.
+b We downgraded by two levels for very serious limitations in imprecision due to small number of events, small sample size and wide CI crossing the line of no eﬀect.
+ 
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Description of the condition
+The term miscarriage refers to the loss of a pregnancy prior to the
+fetus being viable. This can be defined as reaching 20 or 24 weeks'
+gestation depending on the source of the data. Vaginal bleeding
+during the first 20 weeks of pregnancy, with or without pain, is
+known as threatened miscarriage. This can present with anything
+from spots of blood to potentially fatal shock [1]. Once dilation of
+the cervix has begun, miscarriage is inevitable [2].
+Of all clinically recognized pregnancies, 10% to 15% end in
+miscarriage [3], with 1% to 2% of couples suﬀering recurrent
+early losses (traditionally defined as three or more spontaneous
+miscarriages [4]). It is thought, however, that the true incidence
+of early spontaneous miscarriage may be much higher [5, 6, 7].
+Miscarriage is an important cause of morbidity and mortality,
+especially in low-income countries [8].
+It has been estimated that a fetal chromosomal abnormality is
+present in over half of miscarriages [9, 10]. Other risk factors include
+maternal age greater than 35 years, multiple pregnancies, uterine
+malformations, polycystic ovaries, autoimmune factors (such as
+phospholipid antibodies, lupus anticoagulant and cardiolipin
+antibodies), genetic disorders, poorly controlled diabetes, and a
+history of two or more miscarriages [2]. Many of these conditions
+can lead to recurrent miscarriage, traditionally defined as three
+or more miscarriages [11]. For many women and their partners,
+a cause of recurrent miscarriage may never be found. With
+the development of ultrasound and improvements in pregnancy
+testing, pregnancies can be diagnosed earlier, even if destined for
+early miscarriage. These may not have been detected in the past.
+Thus, the number of women reporting early pregnancy loss may
+increase.
+A miscarriage may induce significant emotional distress in both
+partners. Initial emotional numbness and denial, anxiety, shock,
+sense of loss, sadness, emptiness, anger, inadequacy, blame,
+jealousy, depression, sleep disturbance, social withdrawal, anger
+and marital disturbance have all been described as emotional
+responses to pregnancy loss [12, 13, 14, 15].
+Description of the intervention and how it might work
+Progesterone and other progestogens can be given to
+women orally, vaginally, intramuscularly, or by other routes.
+Supplementing a pregnancy with progestin ofen begins early in the
+first trimester afer a positive pregnancy test is obtained (under 14
+weeks' gestation) and can continue throughout the first trimester
+and beyond. The therapeutic intervention can be with natural
+progesterone or with any other progestogen that interacts with and
+stimulates the progesterone receptor.
+Progesterone, a female sex hormone, is known to induce secretory
+changes in the lining of the uterus essential for successful
+implantation of a fertilized egg. It is secreted chiefly by the corpus
+luteum, a group of cells formed in the ovary afer the follicle
+ruptures during the release of the egg. It has been suggested that
+a causative factor in many cases of miscarriage may be inadequate
+secretion of progesterone during the luteal phase of the menstrual
+cycle and in the early weeks of pregnancy. Therefore, clinicians
+may use progestogens in an attempt to prevent spontaneous
+miscarriage beginning in the first trimester of pregnancy. Their use
+is particularly common with assisted reproductive technologies.
+For women with recurrent miscarriage whose evaluation has not
+yielded a specific cause, a deficiency in progesterone as a possible
+etiology has led to treatment with supplemental progestogens to
+help 'support' the pregnancy.
+A review of pregnancy rates following hormonal treatments for
+various conditions concluded that the benefits of therapy are
+uncertain [16]. A 1989 meta-analysis of six trials concluded that
+exogenous progesterone supplementation afer conception does
+not improve pregnancy outcomes [3, 17]. It was concluded that low
+levels of progesterone in early pregnancy reflected an already failed
+pregnancy [11].
+Concerns have been raised that the use of progestogens in women
+with fertilized, defective ova may cause a delay in spontaneous
+abortion due to their uterine-relaxant properties. Reports also
+suggest a potential association between intrauterine exposure to
+progesterone-containing drugs in the first trimester of pregnancy
+and genital abnormalities in male and female fetuses. The risk
+of hypospadias (deformities of the penis or urethra, or both) is
+5 to 8 per 1000 male births in the general population, but may
+be increased with exposure to these drugs [18]. However, some
+trials do not report increased risk with exposure to these drugs and
+progesterone supplementation is commonly utilized in assisted
+reproduction settings. There are insuﬀicient data to quantify the
+risk to exposed female fetuses. Due to some of these reports and
+the fact that the urogenital groove is fused by 16 weeks, some have
+recommended that progesterone-containing drugs be avoided in
+the first 16 weeks of pregnancy [18].
+Why it is important to do this review
+Several Cochrane reviews have been initiated to investigate
+diﬀerent interventions for the prevention of miscarriage [2, 19,
+20, 21, 22, 23]. In recent years, the trustworthiness of many
+trials has come into question. Some trials included in previous
+versions of this review have been retracted. The aim of this
+updated review is to incorporate the Cochrane Trustworthiness
+Screening Tool (TST) to re-evaluate the current trials and update
+the trial search in a continued eﬀort to determine the eﬀicacy and
+safety of administering prophylactic progesterone in an attempt to
+prevent pregnancy loss in the population of women with recurrent
+miscarriage. There is a separate Cochrane review on the use of
+progestogens for treating women with threatened miscarriage [24].
+This is an update of a review last published in 2019.
+O B J E C T I V E S
+To assess the benefits and harms of progestogens as a preventative
+therapy against recurrent miscarriage.
+M E T H O D S
+For the 2025 update, we instituted the Cochrane Trustworthiness
+Screening Tool (TST) for all previously included and new studies.
+We updated the search using the terms documented in the
+Supplemental material, choosing to only search for new trials afer
+the 2019 update. We also dropped the ‘recurrent’ or ‘habitual’
+restriction from the search to be more inclusive in an eﬀort to
+potentially identify more trials.
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+We followed the Methodological Expectations of Cochrane
+Intervention Reviews (MECIR) when conducting the review [25], and
+PRISMA 2020 for the reporting [26].
+Criteria for considering studies for this review
+Types of studies
+Randomized or quasi-randomized trials comparing progestogens
+given for the prevention of miscarriage with placebo or no
+treatment were eligible for inclusion. Cluster-randomized trials
+were also eligible for inclusion, but cross-over design trials were not
+eligible.
+Types of participants
+We included women who were diagnosed with recurrent
+miscarriage (usually of unknown origin) and who began treatment
+with progestogens in the first trimester of pregnancy. We placed
+no restriction on the age of participants or past obstetric history
+otherwise. Where specified, we limited the analysis to singleton
+pregnancies. We excluded women achieving pregnancy by in-vitro
+fertilization. We also excluded trials treating women for threatened
+miscarriage symptoms.
+Types of interventions
+We included studies of progestogen therapy, either natural or
+synthetic, given prophylactically to prevent recurrent miscarriage
+(i.e. loss during the first 20 weeks of pregnancy) versus placebo
+therapy or no therapy, regardless of dose, mode of administration
+or treatment duration. We considered trials pertaining to the
+administration of progestogens starting before pregnancy if
+treatment continued afer pregnancy was confirmed.
+Outcome measures
+Critical outcomes
+Critical outcome
+•
+Miscarriage - defined by trial authors but typically as pregnancy
+loss less than 20 weeks' gestation
+Important outcomes
+Main important outcomes
+•
+Live birth rate (defined as number of live births in entire study
+population)
+•
+Preterm birth (< 37 weeks' gestation)
+Other important outcomes
+•
+Neonatal death
+•
+Fetal genital abnormalities
+•
+Stillbirth (fetal loss afer 20 weeks' gestation in women with a
+viable pregnancy afer 20 weeks)
+•
+Low birthweight less than 2500 g
+•
+Maternal adverse events
+•
+Neonatal intensive care unit admission
+Other outcomes (exploratory if data available)
+Maternal
+•
+Severity of 'morning sickness' - intensified headache, nausea,
+breast tenderness
+•
+Reported thromboembolic events
+•
+Depression
+•
+Admission to special care unit
+•
+Subsequent fertility
+Search methods for identification of studies
+The following methods section of this review are a combination
+of the methods used up to and including the 2019 update [27],
+based on a standard template used by Cochrane Pregnancy and
+Childbirth, and then the updated search for this 2024 update,
+which was accomplished by the Cochrane Central Editorial Team
+Information Specialist.
+Electronic searches
+For this update, we contacted the Information Specialist with
+the Cochrane Central Editorial Team Information Specialist to
+perform the trial search. The detailed search terms and strategy
+are presented in the Supplemental Materials. The trial search
+date for the update was 24 July 2024. We filtered for randomized
+controlled trials. Full search details are in Supplementary material
+1. Databases searched included the following.
+•
+Cochrane CENTRAL Register of Controlled Trials (1 January 2017
+to 24 July 2024)
+•
+MEDLINE (2017 to current)
+•
+Embase (2017 to current)
+•
+CINAHL (1 October 2017 to 31 July 2024)
+•
+World Health Organization International Clinical Trials Registry
+Platform
+•
+ClinicalTrials.gov
+For all published versions up to and including the 2019 update, we
+searched Cochrane Pregnancy and Childbirth’s Trials Register by
+contacting their Information Specialist (6 July 2017) [27].
+Searching other resources
+We searched the citation lists of relevant publications, review
+articles, abstracts of scientific meetings and included studies for
+both published and unpublished works but did not find any
+additional references.
+We contacted experts in the field for unpublished works. None were
+revealed to us.
+We obtained all reports that described (or may have described)
+randomized controlled trials of prophylactic progestogen to
+prevent pregnancy loss for women with recurrent pregnancy loss.
+We did not apply any language or date restrictions, and we
+attempted to make contact with the trial authors when we required
+additional information.
+As 
+part 
+of 
+the 
+TST 
+assessment, 
+we 
+searched 
+the
+retractionwatch.com database for retracted studies.
+Data collection and analysis
+For methods used in the previous version of this review, see the
+earlier version of this Cochrane review [27].
+For this update, we used the following methods, based on a
+standard template used by Cochrane (Supplementary material 6).
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Selection of studies
+Two review authors (MB, DH) independently assessed for inclusion
+all the potential trials that we identified as a result of the search
+strategy for this update. We resolved any disagreement through
+discussion or, if required, we consulted a third person.
+Additionally, as this Cochrane review introduced the TST, we re-
+evaluated all previously included trials with the TST.
+Data extraction and management
+We designed a form to extract data. For eligible trials, two review
+authors extracted the data using the agreed form (DH, TH, PR).
+We resolved discrepancies through discussion or, if required, we
+consulted a third person. We entered data into Review Manager
+sofware and checked for accuracy.
+When information regarding any of the above was unclear, we
+attempted to contact the authors of the original reports to provide
+further details.
+Risk of bias assessment in included studies
+Two review authors (DH, TH, PR) independently assessed risk of
+bias for each study using the criteria outlined in the Cochrane
+Handbook for Systematic Reviews of Interventions [28]. We resolved
+any disagreement by discussion or by involving a third assessor. We
+utilized RoB 1 for the risk of bias assessment. Domain descriptions
+can be found in Supplementary material 8.
+Measures of treatment eﬀect
+Dichotomous data
+For dichotomous data, we presented results as a summary risk ratio
+(RR) with 95% confidence intervals (CIs).
+Continuous data
+None of our outcomes have continuous data. If future updates
+add continuous data, we will use the mean diﬀerence if outcomes
+are measured in the same way between trials. We will use the
+standardized mean diﬀerence to combine trials that measure the
+same outcome, but use diﬀerent methods.
+Unit of analysis issues
+Cluster-randomized trials
+We did not include cluster-randomized trials in this Cochrane
+review. In future updates, if we identify any high-quality cluster-
+randomized trials, we will consider including them in the analyses
+along with individually randomized trials. We will adjust their
+sample sizes using the methods described in section 16.3.4 of the
+Cochrane Handbook for Systematic Reviews of Interventions, using
+an estimate of the intracluster correlation coeﬀicient (ICC) derived
+from the trial (if possible), from a similar trial or from a study of
+a similar population [29]. If we use ICCs from other sources, we
+will report this and conduct sensitivity analyses to investigate the
+eﬀect of variation in the ICC. If we identify both cluster-randomized
+trials and individually randomized trials, we plan to synthesize the
+relevant information. We will consider it reasonable to combine the
+results from both if there is little heterogeneity between the study
+designs and the interaction between the eﬀect of intervention and
+the choice of randomization unit is considered to be unlikely.
+We will also acknowledge heterogeneity in the randomization unit
+and perform a sensitivity analysis to investigate the eﬀects of the
+randomization unit.
+Cross-over trials
+Cross-over trials are not included as they are inappropriate to the
+question.
+Other unit of analysis issues
+If we identify and include trials with more than two treatment
+groups, we will assess the most appropriate way to include the
+data. This may be by combining groups to create a pair-wise
+comparison, or to select the most appropriate pair of interventions
+and exclude the others. We did not identify any such trials.
+Dealing with missing data
+For included studies, we noted levels of attrition. In future updates
+we will explore the impact of including studies with high levels of
+missing data in the overall assessment of treatment eﬀects by using
+sensitivity analysis.
+For all outcomes, we carried out analyses, as far as possible,
+on an intention-to-treat basis. That is, we attempted to include
+all participants randomized to each group in the analyses, and
+all participants were analyzed in the group to which they were
+allocated, regardless of whether or not they received the allocated
+intervention. The denominator for each outcome in each trial was
+the number randomized minus any participants whose outcomes
+were known to be missing.
+Reporting bias assessment
+As there were not more than 10 studies in the meta-analysis, we
+did not investigate reporting biases (such as publication bias) using
+funnel plots.
+Synthesis methods
+We carried out statistical analysis using Review Manager sofware
+[30, 31]. We planned to use fixed-eﬀect meta-analysis to combine
+data where it was reasonable to assume that studies were
+estimating the same underlying treatment eﬀect: that is, where
+trials were examining the same intervention, and the trials’
+populations and methods were judged suﬀiciently similar. If there
+was clinical heterogeneity suﬀicient to expect that the underlying
+treatment eﬀects diﬀered between trials, or if we detected
+substantial statistical heterogeneity, we planned to use random-
+eﬀects meta-analysis to produce an overall summary, if an average
+treatment eﬀect across trials was considered clinically meaningful.
+Where we used random-eﬀects meta-analysis, we treated the
+random-eﬀects summary as the average of the range of possible
+treatment eﬀects, and we discussed the clinical implications of
+treatment eﬀects diﬀering between trials. If the average treatment
+eﬀect was not clinically meaningful, we planned not to combine
+trials. If we used random-eﬀects analyses, we presented the results
+as the average treatment eﬀect with 95% CIs, and the estimates of
+Tau2 and I2.
+We assessed statistical heterogeneity in each meta-analysis using
+the Tau2, I2 [32], and Chi2 statistics [33]. We regarded heterogeneity
+as substantial if an I2 statistic was greater than 30% and either the
+Tau2 was greater than zero, or there was a low P value (less than
+0.10) in the Chi2 test for heterogeneity.
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Investigation of heterogeneity and subgroup analysis
+We conducted planned subgroup analyses for the following
+subgroups.
+•
+Placebo-controlled trials only versus trials not having placebo
+control
+•
+Women with at least three previous consecutive miscarriages
+versus women with at least two prior miscarriages
+•
+Route of administration of progestogen: oral, intramuscular or
+vaginal versus placebo
+We used only the critical outcome in subgroup analysis:
+miscarriage.
+We assessed subgroup diﬀerences by interaction tests available
+within Review Manager [30, 31]. We reported the results of
+subgroup analyses quoting the Chi2 statistic and P value, and the
+interaction test I2 value.
+Equity-related assessment
+We did not investigate health inequity in this review as this was not
+planned a priori in the protocol.
+Sensitivity analysis
+We carried out sensitivity analysis to explore the eﬀect of risk of
+bias. This involved analysis of trials based on low risk of bias in
+order to assess for any substantive diﬀerence to the overall results.
+Certainty of the evidence assessment
+Assessment of the certainty of the evidence using the GRADE
+approach
+For this update, we assessed the certainty of the evidence using the
+GRADE approach, as outlined in the GRADE Handbook, in order to
+assess the certainty of the body of evidence [34]. We assessed the
+following outcomes using GRADE.
+•
+Miscarriage
+•
+Live birth rate
+•
+Preterm birth
+We did not assess the certainty of the evidence for other outcomes.
+We used the GRADEpro Guideline Development Tool to import data
+from Review Manager 5 [30], in order to create summary of findings
+tables [35]. We produced a summary of the intervention eﬀect and
+a measure of certainty for the above outcome using the GRADE
+approach [34]. The GRADE approach uses five considerations (study
+limitations, consistency of eﬀect, imprecision, indirectness and
+publication bias) to assess the quality of the body of evidence
+for each outcome. The evidence can be downgraded from 'high
+certainty' by one level for serious (or by two levels for very serious)
+limitations, depending on assessments for risk of bias, indirectness
+of evidence, serious inconsistency, imprecision of eﬀect estimates
+or potential publication bias.
+At least two authors (DH, TH, PR) assessed the GRADE certainty for
+studies. DH reached out to authors for clarification when needed.
+Any disagreements were resolved through consensus discussion.
+Assessment of trustworthiness using the Trustworthiness
+Screening Tool
+We utilized the 3-domain TST assessment [36, 37]. For trials where
+there were concerns in a domain, we attempted to reach out to
+the authors for clarification. For those studies, we moved them to
+the ‘Awaiting further classification’ category. For trials that were
+identified as retracted, we moved them to ‘Excluded’.
+Two authors (DH, MB) assessed the TST for studies. DH reached out
+to authors for clarification when needed. Any disagreements were
+resolved through consensus discussion.
+Consumer involvement
+For this update, there were no consumers involved, other than for
+the review of the Plain Language Summary.
+R E S U L T S
+Description of studies
+Results of the search
+See Figure 1 for full details of the updated search process
+(Supplementary material 1; Supplementary material 7). The trial
+search was performed on 25 July 2024 and covered publications up
+to 24 July 2024.
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   PRISMA flow diagram
+12 studies included 
+in previous version 
+of review
+870 records 
+identified through 
+database searching
+685 records after 
+duplicates removed
+685 records 
+screened
+684 records 
+excluded
+1 full-text article 
+assessed for 
+eligibility
+1 full-text article 
+excluded (Shinwari 
+2024), due to 
+wrong comparator: 
+it compared the 
+route of 
+administration of 
+the intervention 
+without a placebo 
+group.  
+Four previously 
+ongoing studies 
+have been 
+excluded: one due 
+to wrong 
+population, one 
+due to wrong 
+comparator and 
+two due to the very 
+long time since 
+protocol 
+publication (20 
+years) with no 
+further data or 
+publications. 
+No new studies 
+included.  
+ 
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   (Continued)
+No new studies 
+included.  
+One study 
+previously 
+included was 
+excluded due to 
+being retracted 
+(Kumar 2014).
+Two previously 
+included studies 
+were moved to 
+awaiting 
+classification, due 
+to lack of details 
+and no response 
+from the authors 
+to clarify.
+9 studies included 
+in qualitative 
+synthesis
+8 studies included 
+in quantitative 
+synthesis 
+(meta-analysis)
+ 
+The initial search discovered 870 new trial records. In August 2024,
+afer removing duplicates, we screened 685 records. We excluded
+684 records as not relevant. We retrieved one new potential
+study (Shinwari 2024 [38]), but excluded it for having the wrong
+comparator; both groups received the intervention (orally versus
+vaginally) without a placebo or ‘no intervention’ group.
+We used the Cochrane Trustworthiness Screening Tool (TST) to
+assess all studies that appeared to meet the inclusion criteria.
+Figure 2 displays the results of the three domains evaluated for the
+individual studies.
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 2.   Cochrane Trustworthiness Screening Tool results for eligible trials. Evaluation in the three domains.
+Colors: Green represents no concerns, Yellow represents some concerns or uncertainty, Red indicates serious
+concerns
+ 
+We excluded one previously included study (Kumar 2014 [39]), as it
+has been retracted (Supplementary material 3).
+One previously included study was a conference abstract and had
+no published results (Agarwal 2016 [40]); we moved this to awaiting
+classification. We also moved another previously included study to
+awaiting classification (Ghosh 2014 [41, 42, 43]), afer evaluation
+using the TST and needing additional information (Supplementary
+material 4). The authors initially responded to an email query
+(to say that it was received) but never replied to the question.
+Subsequent attempts to contact them over two months were
+unsuccessful. A final study previously categorized as awaiting
+classification has since been retracted (Ismail 2017 [44, 45, 46]), so
+we have now excluded this study.
+We have excluded all the previously ongoing studies. One study
+had the wrong population (women with threatened miscarriage)
+(Mc Lindon 2023 [47]), and one had the wrong intervention as it
+compared cyclosporine to progestogen (NCT02706470 [48]). The
+remaining two studies were published as protocols 20 years ago,
+with no further information or data available (NCT00193674 [49];
+Walch 2005 [50]).
+This resulted in a total of nine included trials, which randomized
+1426 participants. (Table 1, Supplementary material 2).
+Included studies
+Trial design characteristics
+Baseline characteristics of participants
+Number of prior miscarriages
+Three trials required women to have had three or more consecutive
+miscarriages (Coomarasamy 2015 [51, 52, 53]; El-Zibdeh 2005 [54,
+55, 56]; Le Vine 1964 [57]), and six trials required women to have
+suﬀered two or more consecutive miscarriages (Goldzieher 1964
+[58]; Klopper 1965 [59]; MacDonald 1972 [60]; Reijnders 1988 [61];
+Shearman 1963 [62, 63]; Swyer 1953 [64]). In addition, one study
+(MacDonald 1972) required women to have cervical mucus ferning
+as evidence of "significant hormonal imbalance".
+Only one study excluded women who had experienced a live birth
+(Klopper 1965).
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Gestation
+Most other trials recruited women in the first trimester of pregnancy
+with various cutoﬀs of gestational age. One trial accepted women
+to the 16th gestational week (Le Vine 1964).
+Interventions
+Route of administration
+Four trials administered treatment orally (El-Zibdeh 2005;
+Goldzieher 1964; Klopper 1965; MacDonald 1972); three
+administered treatment intramuscularly (Le Vine 1964; Reijnders
+1988; Shearman 1963); one used vaginal micronized progesterone
+(Coomarasamy 2015); and one used progestogen pellets inserted
+into the gluteal muscle (Swyer 1953).
+Dosage and type of progestogen
+Of the trials that administered treatment orally, one study used
+a dose of 10 mg/day medroxyprogesterone (Goldzieher 1964),
+one study used a twice-daily dose of cyclopentyl enol ether of
+progesterone (Enol Luteovis), (Klopper 1965), while two used 10 mg
+of oral dydrogesterone either twice daily (El-Zibdeh 2005) or three
+times daily (MacDonald 1972).
+In the three trials that administered treatment intramuscularly, two
+trials used a dose of 500 mg of hydroxyprogesterone caproate (Le
+Vine 1964; Reijnders 1988), while the third study used a staggered
+dose, also of hydroxyprogesterone caproate, of between 250 mg
+and 500 mg depending on week of gestation (Shearman 1963).
+The remaining two trials delivered treatment via 400 mg micronized
+progesterone vaginally (Coomarasamy 2015), and six doses of 25
+mg progesterone pellets inserted within the gluteal muscle (Swyer
+1953).
+Duration of treatment
+Trials typically began therapy at trial entry. Gestational age
+at entry varied or was not specifically stated (Supplementary
+material 2). There was a wide variation in treatment duration
+between trials. One study continued treatment until the 24th
+week of pregnancy (Shearman 1963); and one study continued
+treatment until miscarriage or until 36 weeks' gestation (Le Vine
+1964). Several trials continued treatment until the 12th week of
+gestation (Coomarasamy 2015; El-Zibdeh 2005; Reijnders 1988).
+In the remaining four trials, treatment duration was either not
+stated or was unclear (Goldzieher 1964; Klopper 1965; MacDonald
+1972; Swyer 1953). Klopper 1965 stated that they hospitalized
+participants starting at under 10 weeks' gestation until they were 18
+weeks' gestation, but it was unclear how long the treatment lasted.
+Placebo/control
+Seven of the included trials compared treatment with placebo
+(Coomarasamy 2015; Goldzieher 1964; Klopper 1965; Le Vine 1964;
+MacDonald 1972; Reijnders 1988; Shearman 1963). The remaining
+two trials compared progestogen administration with no treatment
+(El-Zibdeh 2005; Swyer 1953). The El-Zibdeh 2005 trial had a third
+arm (n = 50) which received human chorionic gonadotropin (HCG)
+injections, which were not included in this analysis.
+Contribution to meta-analysis
+One study included women with recurrent pregnancy loss among
+all recruited women but did not report outcomes for this group
+separately, so did not contribute to the meta-analysis (Reijnders
+1988). All other included trials contributed data to at least one
+comparison (8 trials, 1276 participants with analyzed data).
+Studied outcomes for trials contributing to meta-analysis
+•
+Miscarriage: eight trials included miscarriage as an outcome
+(Coomarasamy 2015; El-Zibdeh 2005; Goldzieher 1964; Klopper
+1965; Le Vine 1964; MacDonald 1972; Shearman 1963; Swyer
+1953).
+•
+Live birth rate: specifically reported by two trials (Coomarasamy
+2015; Swyer 1953). For other trials, extrapolated from data if they
+presented birth data and reported individual or group outcomes
+and either reported a number of stillbirths or did not note
+any stillbirths. Five trials contributed data (Coomarasamy 2015;
+Goldzieher 1964; Le Vine 1964; MacDonald 1972; Swyer 1953).
+•
+Preterm birth: four trials reported preterm delivery (El-Zibdeh
+2005; Goldzieher 1964; Le Vine 1964; Swyer 1953).
+•
+Intrauterine 
+fetal 
+death/stillbirth: 
+two 
+trials 
+reported
+intrauterine fetal death/stillbirth as an outcome (Coomarasamy
+2015; Swyer 1953).
+•
+Fetal 
+genital 
+abnormalities/teratogenic 
+eﬀects, 
+fetal
+deformities: three trials reported fetal or genital abnormalities,
+or both, as an outcome (Coomarasamy 2015; El-Zibdeh 2005; Le
+Vine 1964).
+•
+Neonatal death: three trials contributed data for neonatal death
+(Coomarasamy 2015; El-Zibdeh 2005; Swyer 1953).
+•
+Low birthweight less than 2500 g: several trials reported
+birthweight as an outcome, but none categorized it as less than
+2500 g.
+•
+Severity of morning sickness, intensified headache, nausea,
+or breast tenderness: no trials reported on these as separate
+outcomes.
+•
+Thromboembolic events: no trials reported thromboembolic
+rates as an outcome.
+•
+Admission to special care unit: no trials reported admission to
+special care units as an outcome.
+•
+Maternal depression: no trials reported maternal depression as
+an outcome.
+•
+Subsequent fertility: no trials reported subsequent fertility as an
+outcome.
+Support/sponsorship
+Six trials reported what appeared to be support or sponsorship
+from pharmaceutical companies (Goldzieher 1964; Klopper 1965;
+MacDonald 1972; Reijnders 1988; Shearman 1963; Swyer 1953).
+One reported funding by governmental grants from the UK
+(Coomarasamy 2015). One trial did not mention any support (Le
+Vine 1964). (See Supplementary material 2).
+All the trials either declared no competing interests (Coomarasamy
+2015) or did not state if any interests existed (El-Zibdeh 2005;
+Goldzieher 1964; Klopper 1965; Le Vine 1964; MacDonald 1972;
+Reijnders 1988; Shearman 1963). One study mentioned specifically
+that one of the authors was grateful to a provider of the study drug
+but did not clarify the relationship (Swyer 1953).
+Number of centers
+Some of the trials were multicenter (Coomarasamy 2015;
+Goldzieher 1964; Klopper 1965; Shearman 1963; Swyer 1953), the
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+rest were either single-center trials (El-Zibdeh 2005; MacDonald
+1972), or the number of centers was unclear (Le Vine 1964; Reijnders
+1988).
+Excluded studies
+On obtaining the full papers, we found that five trials were not
+randomized controlled trials (Check 1985 [65]; Check 1987a [66];
+Daya 1988 [67]; Rock 1985 [68]; Sidelnikova 1990 [69]), and it
+was unclear if there was any randomization in another (Check
+1987b [70]). Five trials were not concerned with investigating the
+eﬀects of progestogen for miscarriage, but were concerned with
+investigating other eﬀects of progesterone, such as on preterm
+birth or other outcomes (Brenner 1962 [71]; Johnson 1975 [72];
+Kyrou 2011 [73]; Sondergaard 1985 [74]; Turner 1966 [75]), three
+used progestogen combination therapy rather than progestogen
+alone (Check 1995 [76]; Prietl 1992 [77]; Shu 2002 [78]), one did not
+administer progestogen during pregnancy (Cliﬀord 1996 [79]), and
+one compared two types of progestogen rather than progestogen
+with no treatment or a placebo group (Smitz 1992 [80]). One
+trial was excluded due to using progestogen therapy afer 20
+weeks' gestation to prevent preterm labor (Norman 2006 [81]). We
+excluded one additional trial due to it being terminated before data
+collection was complete (Fuchs 1966 [82]).
+As stated above, for this update, we excluded two trials afer their
+retraction (Ismail 2017; Kumar 2014). Previous updates to this
+review excluded four studies which treated threatened miscarriage
+(Berle 1980 [83]; Gerhard 1987 [84]; Moller 1965 [85]; Tognoni 1980
+[86]), and two with ineligible patient populations (Corrado 2002
+[87]; Nyboe Anderson 2002 [88]). See Supplementary material 3 for
+more details.
+Studies awaiting classification
+We instituted the Cochrane TST for this update. On evaluation of the
+included studies, we found two that needed further information.
+Agarwal 2016 had results available in a trial registry, but the
+data were otherwise unpublished, making it impossible to answer
+several study characteristic questions. We reached out to the
+authors for the last update but did not receive a response. An
+additional query was sent for this update with no response. Ghosh
+2014 had characteristics of the two groups which were very similar,
+and it was not registered. To fully evaluate the TST, we sent emails
+to the contact author. While we received an initial response that
+they would get back to us, subsequent queries over the following
+months did not receive a response. We have now moved these
+studies from 'included studies' to 'studies awaiting classification'
+until a clarification response is received.
+Risk of bias in included studies
+See Figure 3 and Figure 4 for a summary of risk of bias in included
+trials.
+ 
+Figure 3.   Risk of bias graph: review authors' judgments about each risk of bias item presented as percentages
+across all included studies
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding of participants and personnel (performance bias): All outcomes
+Blinding of outcome assessment (detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+0%
+25%
+50%
+75%
+100%
+Low risk of bias
+Unclear risk of bias
+High risk of bias
+ 
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 4.   Risk of bias summary: review authors' judgments about each risk of bias item for each included study
+Random sequence generation (selection bias)
+Allocation concealment (selection bias)
+Blinding of participants and personnel (performance bias): All outcomes
+Blinding of outcome assessment (detection bias): All outcomes
+Incomplete outcome data (attrition bias): All outcomes
+Selective reporting (reporting bias)
+Other bias
+Coomarasamy 2015
++
++
++
++
++
++
++
+El-Zibdeh 2005
+−
+−
++
++
++
++
++
+Goldzieher 1964
+?
++
++
++
++
++
++
+Klopper 1965
++
+?
++
++
++
++
++
+Le Vine 1964
+−
+−
++
++
+−
++
++
+MacDonald 1972
+?
+?
++
++
++
++
++
+Reijnders 1988
+?
++
++
++
++
++
++
+Shearman 1963
+?
+?
++
++
++
++
++
+Swyer 1953
+?
+−
++
++
++
++
++
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Of the nine trials that met the inclusion criteria, two had a low risk
+of bias for random sequence generation. One of the trials reported
+computer-generated or other adequate methods of randomization
+(Coomarasamy 2015), and one used a random table produced by
+a statistician (Klopper 1965). We found a high risk of bias for two
+trials: one used alternation (Le Vine 1964), and one randomized
+by day of the week (El-Zibdeh 2005). The risk of bias for random
+sequence generation was unclear for four other trials, mainly due
+to lack of information (Goldzieher 1964; MacDonald 1972; Reijnders
+1988; Shearman 1963). In one study, two centers took part (Swyer
+1953). One center allocated by alternation, while the paper stated
+that the other used "randomization". However, the method of
+randomization was not stated and thus risk of bias is unclear (Swyer
+1953).
+Regarding allocation concealment, of the nine trials that met the
+inclusion criteria, we assessed three to be at low risk of bias. Two
+of these trials used sequentially numbered ampules provided by
+a central source or the pharmaceutical company (Coomarasamy
+2015; Reijnders 1988). The third study used sequentially numbered
+bottles, and the code was not broken until the end of the trial
+(Goldzieher 1964).
+Three trials used clearly inadequate methods of allocation
+concealment, based on the day of the week or alternating A/
+B groups (El-Zibdeh 2005; Le Vine 1964; Swyer 1953); while the
+allocation in the remaining three trials was unclear (Klopper 1965;
+MacDonald 1972; Shearman 1963).
+Some trials blinded participants and providers, but the majority
+of trials did not report on blinding of participants, providers,
+or outcome assessors. However, because the outcomes of
+miscarriage, live birth, etc. are unlikely to be influenced by
+knowledge of assignment group, in line with the Cochrane
+Handbook for Systematic Reviews of Interventions [28], we also
+assessed these to be at low risk of bias, even when blinding was not
+explicitly stated.
+Seven trials used double-blinding, where both the participant and
+treating provider did not know the allocation (Coomarasamy 2015;
+Goldzieher 1964; Klopper 1965; Le Vine 1964; MacDonald 1972;
+Reijnders 1988; Shearman 1963). The remaining two trials did not
+mention eﬀorts at blinding, but as the outcomes were unlikely to
+be influenced by blinding eﬀorts, we assessed both to be at low risk
+of bias (El-Zibdeh 2005; Swyer 1953).
+Few trials stated whether outcome assessors specifically were
+blinded. However, two stated that "study personnel" of some type
+were blinded (Coomarasamy 2015; Shearman 1963). The remainder
+did not clearly state that outcome assessors were blinded, but it is
+unlikely that knowledge of assignment would influence outcomes
+being assessed, so we assessed these to be at low risk of bias.
+Most trials had low rates of attrition and accounted for participants
+well.
+One study reported a large number of dropouts (Le Vine 1964). Fify-
+six women were randomized, but 26 women were excluded from
+the analysis: 16 were found not to be pregnant afer they had been
+randomized, and 10 failed to return for injections.
+The majority of trials reported on all planned outcomes relevant to
+this review.
+We assessed all trials to be at low risk of other potential sources of
+bias.
+Publication bias
+We were unable to assess publication bias due to there being too
+few studies included.
+See Supplementary material 2 tables for individual details.
+Synthesis of results
+Nine trials (1340 participants) met the inclusion criteria. Only
+eight trials (1276 participants) contributed data to the analyses
+(Supplementary material 5). Because of clinical heterogeneity in
+the interventions identified, we used random-eﬀects models for all
+comparisons.
+Progestogen versus placebo/no treatment
+Critical outcomes
+Miscarriage
+The meta-analysis of the eight included trials (1276 participants)
+and suggests that progestogen supplementation probably makes
+little to no diﬀerence to the miscarriage rate compared to placebo
+or no treatment (27.2% versus 30.9%, risk ratio (RR) 0.91, 95%
+confidence interval (CI) 0.76 to 1.07; I2 = 0%; moderate-certainty
+evidence; Analysis 1.1, Summary of findings 1). This is based on
+moderate-certainty evidence, with evidence being downgraded for
+limitations in study design.
+A sensitivity analysis eliminating the three trials at potentially
+higher risk of bias (having one or more areas assessed as potentially
+high risk of bias: El-Zibdeh 2005; Le Vine 1964; Swyer 1953)
+confirmed there was little to no diﬀerence in miscarriage outcomes
+(RR 0.98, 95% CI 0.82 to 1.18).
+Trials with placebo controls
+We carried out a subgroup analysis comparing trials that did use
+a placebo control (Coomarasamy 2015; Goldzieher 1964; Klopper
+1965; Le Vine 1964; MacDonald 1972; Shearman 1963) and those
+that did not use a placebo (El-Zibdeh 2005; Swyer 1953). There was
+no strong evidence of a subgroup diﬀerence as indicated by the
+subgroup interaction test (test for subgroup diﬀerences: Chi2 = 3.32,
+df = 1 (P = 0.07), I2 = 69.9%; Analysis 1.2).
+Women with a history of three or more consecutive miscarriages
+Three trials enrolled only participants who had suﬀered three
+or more consecutive miscarriages (Coomarasamy 2015; El-Zibdeh
+2005; Le Vine 1964). The rest of the trials enrolled participants
+with two or more prior miscarriages or did not specify. The
+largest trial enrolled participants with three or more prior
+miscarriages (Coomarasamy 2015). There was no evidence of
+subgroup diﬀerences in these groups of trials in their eﬀects for the
+two populations (test for subgroup diﬀerences: Chi2 = 1.05, df = 1 (P
+= 0.31), I2 = 4.7%).
+Route of administration of progestogen
+There was no evidence of a subgroup diﬀerence based on the route
+of administration of the progestogen as indicated by the subgroup
+interaction test (test for subgroup diﬀerences: Chi2 = 1.28, df = 2 (P
+= 0.53), I2 = 0%).
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Important outcomes
+Live birth rate
+Two trials specifically reported live birth rate (Coomarasamy 2015;
+Swyer 1953), and we were able to extrapolate the live birth rate from
+the results given in a further three trials (Goldzieher 1964; Le Vine
+1964; MacDonald 1972). The evidence suggested that progestogen
+supplementation made little to no diﬀerence in live birth rates for
+women with recurrent miscarriage of unclear etiology compared to
+placebo or no treatment (69.0% vs 66.0%, RR 1.04, 95% CI 0.96 to
+1.12; 5 trials, 1063 women; moderate-certainty evidence; Analysis
+1.5).
+Preterm birth
+Four trials reported an incidence of premature birth (El-Zibdeh
+2005; Goldzieher 1964; Le Vine 1964; Swyer 1953). We are uncertain
+about the eﬀect on the rate of preterm birth due to very low-
+certainty evidence (9.4% vs. 7.5%, RR 1.15, 95% CI 0.55 to 2.41, 4
+trials, 256 participants, very low-certainty evidence; Analysis 1.6).
+Neonatal death
+Three trials reported neonatal death as an outcome (Coomarasamy
+2015; El-Zibdeh 2005; Swyer 1953) (RR 1.67, 95% CI 0.33 to 8.52; 3
+trials, 724 participants; Analysis 1.7).
+Fetal genital abnormalities
+Three trials reported fetal genital abnormalities or virilization as
+an outcome (Coomarasamy 2015; El-Zibdeh 2005; Le Vine 1964)
+(RR 1.04, 95% CI 0.07 to 16.50; 3 trials, 665 participants; Analysis
+1.8). Two trials reported no incidence of fetal abnormalities (El-
+Zibdeh 2005; Le Vine 1964). One study reported a single case of
+fetal genital abnormality in both groups (Coomarasamy 2015). One
+study reported two anomalies in the progestogen group (neural
+tube defect and non-immune hydrops) and one case of multiple
+anomalies in the control group in a baby with Down's syndrome (El-
+Zibdeh 2005). No genital anomalies were noted in that study.
+Stillbirth
+Two trials reported rates of stillbirth (Coomarasamy 2015; Swyer
+1953) (RR 0.53, 95% CI 0.05 to 5.79; 2 trials, 644 participants;
+Analysis 1.9).Swyer 1953 did not have any cases of stillbirth.
+Low birthweight (less than 2500 g)
+No included studies reported low birthweight by this definition.
+Maternal adverse events
+One study listed maternal adverse eﬀects as outcomes (Le Vine
+1964), but did not note any events.
+Other important outcomes
+None of the trials reported on our remaining planned important
+mother or child outcomes.
+•
+Severity of 'morning sickness' - intensified headache, nausea,
+breast tenderness
+•
+Reported thromboembolic events
+•
+Depression
+•
+Admission to special care unit
+•
+Subsequent fertility
+Equity assessment
+Not performed.
+Reporting biases
+None noted.
+D I S C U S S I O N
+Summary of main results
+The aim of this review was to assess the eﬀectiveness of
+progestogens in preventing recurrent miscarriage. This update
+imposed the Cochrane Trustworthiness Screening Tool (TST) on
+the evidence, which eliminated trials and changed the conclusion
+of the review. While there has been much speculation that
+progestogens may reduce the miscarriage recurrence rate, the
+results of this updated meta-analysis provide moderate-certainty
+evidence that progestogen supplementation probably makes little
+to no diﬀerence to the miscarriage rate for women with recurrent
+miscarriage. Subgroup analyses comparing placebo-controlled
+versus non-placebo-controlled trials, trials of women with three
+or more prior miscarriages compared to women with two or more
+miscarriages, and diﬀerent routes of administration showed no
+clear diﬀerences between subgroups for reducing miscarriage.
+All the important outcomes reported likely also showed little to
+no diﬀerences with progesterone therapy (moderate-to very low-
+certainty evidence).
+The meta-analyses showed there may be little or no diﬀerence
+in stillbirths, neonatal death or the number of fetal abnormalities
+(including virilization and hypospadias) in babies whose mothers
+had been given progestogens whilst in utero.
+No trials reported any adverse maternal eﬀects. There were many
+other planned important outcomes not reported. Recently, a core
+outcome set was developed through international consensus for
+trials of miscarriage prevention [89]. The final proposed core
+outcomes for miscarriage prevention by the consensus group
+comprise 12 outcomes: pregnancy loss < 24 weeks’ gestation, live
+birth, gestation at birth, preterm birth, congenital abnormalities,
+fetal growth restriction, maternal (antenatal) complications,
+compliance with intervention, patient satisfaction, maternal
+hospitalization, neonatal or infant hospitalization, and neonatal or
+infant death.
+Limitations of the evidence included in the review
+Overall, we judged most of the trials to be at low risk of bias for
+most of the domains. The majority of the trials were conducted
+before robust reporting of methods was instituted. For many of
+the older trials, the overall quality appears to be reasonable within
+the context of standards at the time at which the trials were
+performed. The more recent publications were generally of better
+quality, with low risks of bias. This diﬀerence in reporting standards
+is commonly seen in reviews that include trials published before
+uniform reporting guidelines such as CONSORT were developed
+[90]. Additionally, imposing the Cochrane TST on this review
+excluded two retracted trials and moved others to 'awaiting
+classification', as authors have not yet responded to us. Ensuring
+only trustworthy trials are included is important, as we have now
+seen with this review, as the conclusions have changed with the
+exclusion of some large trials.
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Overall, the evidence ranged from very low to moderate certainty,
+based on the GRADE system [34]. We assessed the certainty of
+evidence for the critical outcome of miscarriage and the main
+important outcomes of live birth rate and preterm birth. Limitations
+in study design led to the downgrading of evidence to moderate
+certainty for the outcomes miscarriage and live birth rate. While
+the 95% confidence intervals for these outcomes did cross 1.0,
+we deemed them not to be wide and thus did not downgrade
+for imprecision. Limitations in study design and very serious
+limitations in imprecision led to the downgrading of evidence to
+very low certainty for the outcome preterm birth.
+This updated review did not add any new trials, but did exclude
+others, which altered conclusions. All the previous trials that were
+listed as ongoing have now been categorized.
+As most of the included trials had diﬀerent entry criteria and
+duration of therapy, determining a uniform protocol for treatment
+would be diﬀicult.
+The trials were mostly from Europe, North America, and the UK,
+with one trial in Jordan. This potentially limits the generalizability
+to low- and middle-income countries, or to people not well
+represented in the trials.
+Limitations of the review processes
+We took steps to minimize bias at every step of the review process:
+a comprehensive search of the literature was performed in order
+to identify all relevant studies and two authors independently
+assessed the studies, performed data extraction and GRADE
+assessments. None of the review authors were involved in any of
+the included or excluded trials. We are unaware of any potential
+biases inherent in refocusing this update on women with recurrent
+pregnancies alone. The addition of a fourth review author in
+this update allowed for assessment and consensus around the
+study assessments and inclusion of the TST. There was no funding
+provided for this review.
+Agreements and disagreements with other studies or
+reviews
+Two previously published systematic reviews agreed with our prior
+version's findings [91] [92]. However, those reviews included trials
+now excluded afer retraction. A separate Cochrane review has also
+been conducted on the use of progestogens for treating women
+with threatened miscarriage, and this suggests a potential benefit
+in live birth for women with early pregnancy bleeding and previous
+miscarriages treated with progestogens [93].
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+For 
+women 
+with 
+unexplained 
+recurrent 
+miscarriage,
+supplementation with progestogen therapy probably has little to
+no eﬀect on the rate of miscarriage in subsequent pregnancies.
+Equity-related implications for practice
+Progestogen supplementation for recurrent miscarriage of unclear
+etiology will increase costs either for the health system or for
+the pregnant person. Many forms of progestogen may require
+compounding pharmacies and may be diﬀicult to obtain in low-
+resource settings. However, given the findings of little to no benefit,
+equity-related implications may be less relevant.
+Implications for research
+As noted, the included trials utilized many diﬀerent treatment
+protocols, including when the progestogen was started and how
+long into gestation it was continued. Future trials would benefit
+from a more standard treatment protocol using the published core
+outcome set [89]. This would also aid the translation into practice.
+Additionally, as many of the trials were published before 1990
+and the methods to evaluate patients with recurrent miscarriage
+have evolved, trials including participants who have undergone a
+complete modern evaluation (similar to the Coomarasamy 2015
+trial) may be needed. Including patient-centered outcomes such
+as progestogen tolerability and comparing the diﬀerent routes
+or types of progestogens may also be beneficial. It is unclear if
+the therapy might be beneficial (or harmful) for diﬀerent patient
+groups.
+S U P P L E M E N T A R Y   M A T E R I A L S
+Supplementary materials are available with the online version of
+this article: 10.1002/14651858.CD003511.pub5.
+Supplementary material 1 Search strategies
+Supplementary material 2 Characteristics of included studies
+Supplementary material 3 Characteristics of excluded studies
+Supplementary material 4 Characteristics of studies awaiting
+classification
+Supplementary material 5 Analyses
+Supplementary material 6 Data package
+Supplementary material 7 Trial Search Report for 2024 update
+Supplementary material 8 Risk of Bias 1 Domains evaluated in this
+review
+A D D I T I O N A L   I N F O R M A T I O N
+Acknowledgements
+The review authors would like to thank Charlene Bridges for her
+comprehensive updated trial search for this update.
+The views and opinions expressed therein are those of the authors.
+Editorial and peer-reviewer contributions
+Cochrane Central Editorial Services and the Cochrane Maternal,
+Newborn, Child Health Thematic Group supported the authors in
+the development of this review.
+The following people conducted the editorial process for this
+article.
+•
+Sign-oﬀ Editor (final editorial decision): Signed oﬀ by Senior
+Editor Zarko Alfirevic
+•
+Managing Editor (selected peer reviewers, provided editorial
+guidance to authors, edited the article): Sue Marcus, Cochrane
+Central Editorial Service
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+Editorial Assistant (conducted editorial policy checks, collated
+peer-reviewer comments and supported editorial team):
+Cynthia Staﬀord, Cochrane Central Editorial Service
+•
+Copy Editor (copy editing and production): Andrea Takeda,
+Cochrane Central Production Service
+•
+Peer-reviewers (provided comments and recommended an
+editorial decision): Ka Wang Cheung, Department of Obstetrics
+and Gynaecology, the University of Hong Kong (clinical/
+content review); Sameeksha Shetty, Tufs University (consumer
+review); Jo-Ana Chase, Cochrane Evidence Production and
+Methods Directorate (methods review); Jo Platt, Central
+Editorial Information Specialist (search review). One additional
+peer reviewer provided clinical/content review peer-review but
+chose not to be publicly acknowledged.
+Contributions of authors
+David Haas: is the guarantor of the review; prepared the 2013
+update and all subsequent updates; performed independent data
+extraction and quality assessment of the included trials, and
+commented on all drafs of the review.
+Magdalena Bofill: performed independent trial evaluation and
+quality assessment of included trials and updated ongoing trial
+categorization; contributed to and commented on the drafs for this
+update.
+Taylor Hathaway: performed independent data extraction and
+quality assessment of included trials for the updates; commented
+on the drafs for this update.
+Patrick Ramsey: performed independent data extraction and
+quality assessment of included trials for the updates; commented
+on the drafs for this update.
+Declarations of interest
+David M Haas: none known related to this work. He is a Senior
+Editor with the Cochrane Central Editorial Unit but receives no
+compensation for that work. Additionally, he had no editorial
+responsibilities or influence on this review.
+Magdalena Bofill: Royal Australian and New Zealand College of
+Obstetricians and Gynaecologists (RANZCOG). Description: I am
+employed to prepare evidence summaries for RANZCOG guidelines
+and the review is used as evidence. End Date: ongoing/no known
+end date.
+Taylor J Hathaway: none known related to this work.
+Patrick S Ramsey: Texas Collaborative for Healthy Mothers and
+Babies: I serve as Chief Medical Oﬀicer for TCHMB - TCHMB is the
+state perinatal quality collaborative. I receive 0.2 FTE to protect
+my time for my work in this role. UpToDate web-based resource -
+Author of ‘Obesity in Pregnancy’ chapter.
+Sources of support
+Internal sources
+•
+Indiana University School of Medicine, Department of Obstetrics
+and Gynecology, USA
+In-kind support
+External sources
+•
+None, Other
+No external sources of support received.
+Registration and protocol
+Per Cochrane review standard procedure.
+Previous versions of this review are published [94, 95, 96].
+Data, code and other materials
+Not applicable.
+What's new
+ 
+Date
+Event
+Description
+11 June 2025
+New citation required and conclusions
+have changed
+Review updated. New search performed. Additional author in-
+cluded (MB). Trustworthiness Screening Tool implemented for all
+studies, leading to two being excluded for study withdrawal and
+two previously included studies being moved to Awaiting Classi-
+fication. Conclusions changed.
+11 June 2025
+New search has been performed
+New search performed, up to July 25, 2024.
+ 
+History
+Protocol first published: Issue 1, 2002
+Review first published: Issue 4, 2003
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Date
+Event
+Description
+19 November 2019
+Amended
+Since publication of the 2018 update of this review, we have
+been advised that the Ismail 2017 study is currently the subject
+of an investigation by the Journal of Maternal-Fetal & Neonatal
+Medicine. We have now moved this study from 'included studies'
+to 'Supplementary material 4' until the outcome of the investiga-
+tion is known. We have also highlighted this in the abstract and
+plain language summary.
+19 November 2019
+New citation required but conclusions
+have not changed
+We have republished the amended version with a new citation
+14 November 2019
+Amended
+We have made further amendments to this review to clarify the
+reasons for moving Ismail 2017 from Included to Supplemen-
+tary material 4. We have edited text in results/studies awaiting
+classification', characteristics of studies awaiting classification,
+and published notes, in order to make the following information
+more visible.
+Since publication of the 2018 update of this review, we have
+been advised that the Ismail 2017 study is currently the subject
+of an investigation by the Journal of Maternal-Fetal & Neonatal
+Medicine. We have now moved this study from 'included studies'
+to 'Supplementary material 4' until the outcome of the investiga-
+tion is known.
+16 October 2019
+Amended
+One study, previously included (Ismail 2017), has been moved to
+Supplementary material 4, pending clarification about the study
+data.
+We have added a Published notes to clarify that this review will
+no longer be updated in its current form.
+6 July 2017
+New search has been performed
+Search updated. 'Summary of findings' table incorporated
+6 July 2017
+New citation required but conclusions
+have not changed
+Title amended and focus of review changed from treatment of all
+miscarriage to treatment of recurrent miscarriage. This was done
+to eliminate treatment for threatened miscarriage as that is cov-
+ered in a separate Review [24].
+Five trials added (Agarwal 2016; Coomarasamy 2015; Ghosh
+2014; Ismail 2017a; Kumar 2014); six trials previously includ-
+ed are now excluded (Berle 1980; Corrado 2002; Gerhard 1987;
+Moller 1965; Nyboe Anderson 2002; Tognoni 1980). They were ex-
+cluded as they dealt strictly with women with threatened miscar-
+riage or a different population. Co-author added.
+1 August 2013
+New search has been performed
+Search updated and four new trials identified. One was includ-
+ed (MacDonald 1972), two excluded (Kyrou 2011; Shu 2002), and
+one is ongoing (Coomarasamy 2012). Three previously included
+trials (Moller 1965a; Moller 1965b; Moller 1965c) are in fact three
+separate reports from one trial (Moller 1965a).
+1 August 2013
+New citation required but conclusions
+have not changed
+No changes to conclusions.
+12 May 2009
+Amended
+Contact details updated
+11 February 2008
+Amended
+Converted to new review format
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Date
+Event
+Description
+31 January 2008
+New citation required but conclusions
+have not changed
+This update has been prepared by a new review team.
+31 January 2008
+New search has been performed
+Search updated. Four new trials identified: we included El-
+Zibdeh 2005 and excluded Norman 2006. Two are ongoing
+(NCT00193674; Walch 2005).
+The inclusion of El-Zibdeh 2005 narrows the confidence intervals
+(CI) of the outcomes it contained, including narrowing the CI for
+women with a history of three or more miscarriages; thus leading
+to the strengthening of the conclusions somewhat.
+ 
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+1.  McBride WZ. Spontaneous abortion. American Family
+Physician 1991;43:175-82.
+2.  Lede R, Duley L. Uterine muscle relaxant drugs
+for threatened miscarriage. Cochrane Database of
+Systematic Reviews 2005, Issue 3. Art. No: CD002857. [DOI:
+10.1002/14651858.CD002857.pub2]
+3.  Regan L, Braude PB, Trembath PR. Influences of past
+reproductive performance on risk of spontaneous abortion. BMJ
+1989;299:541-5.
+4.  Coulam CB. Epidemiology of recurrent spontaneous
+abortion. American Journal of Reproductive Immunology
+1991;26:23-7.
+5.  Grudzinskas JG. Endocrinocolgical and metabolical
+assessment of early pregnancy. In: Chamberlain G, editor(s).
+Tumbull's Obstetrics. London: Pearson Professional Ltd, 1995.
+6.  Howie PG. Abortion and ectopic pregnancy. In: Whitfield CR,
+editor(s). Dewhurst's Textbook of Obstetrics and Gynaecology
+for Postgraduates. Oxford: Blackwell Science Ltd, 1995.
+7.  Simpson JL. Fetal wastage. In: Gabe SG, Simpson JL,
+editor(s). Obstetrics. Normal and Problem Pregnancies. New
+York: Churchill Livingstone Inc, 1991.
+8.  Neilson JP, Hickey M, Vazquez J. Medical treatment for
+early fetal death (less than 24 weeks). Cochrane Database of
+Systematic Reviews 2006, Issue 3. Art. No: CD002253. [DOI:
+10.1002/14651858.CD002253.pub3]
+9.  Burgoyne PS, Holland K, Stephens R. Incidence of numerical
+chromosome anomalies in human pregnancy estimation from
+induced and spontaneous abortion data. Human Reproduction
+1991;6(4):555-65.
+10.  Szabo I, Szilagyi A. Management of threatened abortion.
+Early Pregnancy 1996;2(4):233-40.
+11.  Royal College of Obstetricians and Gynaecologists. The
+management of recurrent miscarriage. www.rcog.org.uk/
+guidelines/recurrent.html (accessed 2001).
+12.  Atkin LC, Arcelus M, Fernandez A, Tolbert K. La Psicologia en
+el Ambito Perinatal. Mexico D.F: INPER, 1988.
+13.  Dyregrove A, Mathieson SB. Stillbirth, neonatal death and
+SIDS: parental reactions. Scandanavian Journal of Psychology
+1987;28:104-14.
+14.  Vance JC, Foster WJ, Najman JM, Embelton, Thearle MJ,
+Hogden FM. Early parental responses to sudden infant death,
+stillbirth or neonatal death. Medical Journal of Australia
+1991;155(5):292-7.
+15.  Woods JR, Esposito JL. Pregnancy Loss: Medical
+Therapeutics and Practical Considerations. Baltimore: Williams
+and Wilkins, 1987.
+16.  Karamadian LM, Grimes DA. Luteal phase deficiency. Eﬀect
+of treatment on pregnancy rates. American Journal of Obstetrics
+and Gynecology 1992;167:1391-8.
+17.  Goldstein P, Berrier J, Rosen S, Sacks HS, Chalmers TC. A
+meta-analysis of randomised control trials of progestational
+agents in pregnancy. British Journal of Obstetrics and
+Gynaecology 1989;96:265-74.
+18.  Briggs GG, Freeman RK, Yaﬀe SJ. Drugs in Pregnancy and
+Lactation. 9th edition. Philadelphia: Lippincott Williams &
+Wilkins, 2011.
+19.  Alfirevic Z, Stampalija T, Roberts D, Jorgensen AL.
+Cervical stitch (cerclage) for preventing preterm
+birth in singleton pregnancy. Cochrane Database of
+Systematic Reviews 2012, Issue 4. Art. No: CD008991. [DOI:
+10.1002/14651858.CD008991.pub2]
+20.  Bamigboye AA, Morris J. Oestrogen supplementation,
+mainly diethylstilbestrol, for preventing miscarriages and
+other adverse pregnancy outcomes. Cochrane Database of
+Systematic Reviews 2003, Issue 3. Art. No: CD004353. [DOI:
+10.1002/14651858.CD004353]
+21.  Morley LC, Simpson N, Tang T. Human chorionic
+gonadotrophin (hCG) for preventing miscarriage. Cochrane
+Database of Systematic Reviews 2013, Issue 1. Art. No:
+CD008611. [DOI: 10.1002/14651858.CD008611.pub2]
+22.  Porter TF, LaCoursiere Y, Scott JR. Immunotherapy
+for recurrent miscarriage. Cochrane Database of
+Systematic Reviews 2006, Issue 2. Art. No: CD000112. [DOI:
+10.1002/14651858.CD000112.pub2]
+23.  Rumbold A, Middleton P, Pan N, Crowther CA. Vitamin
+supplementation for preventing miscarriage. Cochrane
+Database of Systematic Reviews 2011, Issue 1. Art. No:
+CD004073. [DOI: 10.1002/14651858.CD004073.pub3]
+24.  Wahabi HA, Fayed AA, Esmaeil SA, Bahkali KH. Progestogen
+for treating threatened miscarriage. Cochrane Database of
+Systematic Reviews 2018, Issue 8. Art. No: CD005943. [DOI:
+10.1002/14651858.CD005943.pub5]
+25.  Higgins JP, Lasserson T, Thomas J, Flemyng E, Churchill R.
+Methodological Expectations of Cochrane Intervention Reviews.
+Cochrane: London, Version August 2023.
+26.  Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoﬀmann TC,
+Mulrow CD, et al. The PRISMA 2020 statement: an updated
+guideline for reporting systematic reviews. BMJ 2021;71:372.
+[DOI: 10.1136/bmj.n71]
+27.  Haas DM, Hathaway TJ, Ramsey PS. Progestogen
+for preventing miscarriage in women with recurrent
+miscarriage of unclear etiology. Cochrane Database of
+Systematic Reviews 2019, Issue 11. Art. No: CD003511. [DOI:
+10.1002/14651858.CD003511.pub5]
+28.  Higgins JPT=, Altman DG, Sterne JA, editor(s). Chapter
+8: Assessing risk of bias in included studies. In: Higgins JP,
+Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology (Review)
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+openai
+openai-whisper
+dashscope
+ffmpeg-python
+rapidocr-onnxruntime
+numpy
+sentence-transformers
+Pillow

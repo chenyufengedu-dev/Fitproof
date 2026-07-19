@@ -1,0 +1,1332 @@
+
+
+[page 1]
+Journal of Affective Disorders 378 (2025) 109–118
+Available online 26 February 2025
+0165-0327/© 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+Review article
+Association of weekend catch-up sleep with depression: A systematic 
+review and meta-analysis
+Yue Zhou , YuJian Sun , YuFan Pan , Yu Dai , Yi Xiao , YuFeng Yu *
+College of Nursing, Chengdu University of Traditional Chinese Medicine, Chengdu, China
+A R T I C L E  I N F O
+Keywords:
+Depression
+Weekend catch-up sleep
+Sleep debt
+Systematic review
+Meta-analysis
+A B S T R A C T
+Background: Weekend catch-up sleep (WCS) may alleviate weekday sleep deprivation, but its relationship with 
+depression risk remains unclear. This systematic review and meta-analysis aims to explore the association be­
+tween WCS and depression risk.
+Methods: A comprehensive search was conducted in PubMed, Cochrane Library, Embase, Web of Science, and 
+Scopus for observational studies published up to June 1, 2024. Data extraction and bias assessment were 
+independently performed by two reviewers. Odds ratios (ORs) and 95 % confidence intervals (CIs) were 
+calculated, with model selection based on the I2 statistic. Sensitivity analyses and publication bias tests were also 
+conducted.
+Results: A total of ten cross-sectional studies (326,871 participants) were included. Meta-analysis showed that 
+WCS was significantly associated with a reduced risk of depression (OR = 0.80, 95 % CI: 0.68–0.90). Subgroup 
+analyses showed moderate amounts of WCS (0–2 h) may be protective, but WCS beyond 2 h had limited pro­
+tective effects against depression. Qualitative analyses showed that the protective effect of WCS against 
+depression was more pronounced in men and middle-aged adults, and was particularly applicable to those who 
+were sleep-deprived on weekdays.
+Limitations: The cross-sectional design of included studies limits causality inference, and the sample primarily 
+represents populations from the United States and South Korea, potentially affecting generalizability.
+Conclusions: Moderate WCS is associated with lower depression risk in those with weekday sleep deficits, while 
+excessive WCS may have diminishing or adverse effects. Further research should examine optimal WCS duration 
+and underlying mechanisms.
+1. Background
+Depression is the most common mental disorder and has become a 
+public health problem of wide concern globally, with serious implica­
+tions for individuals, families, and society (Liu et al., 2024a, 2024b). 
+Depression is usually characterized by negative mood, weight changes, 
+cognitive changes, poor quality of life, and increased risk of suicide, 
+which not only affects an individual's mental health but also triggers a 
+series of physiological problems such as decreased immune function and 
+cardiovascular disease (Harshfield et al., 2020). The World Health Or­
+ganization (WHO) estimates that >300 million people are affected by 
+depression globally, and this number continues to rise, with lifetime 
+prevalence rates ranging from 15 % to 18 %, and suicide rates as high as 
+15 % (WHO, 2023). While there are various ways to treat major 
+depression, unfortunately, around 30 % of individuals who undergo two 
+or more sessions remain unrelieved (Chaudhri et al., 2024; Komariah 
+et al., 2022). Therefore, the prevention of depression is of irreplaceable 
+importance. Numerous studies have shown that there is a close associ­
+ation between sleep and mental health, and in particular, the relation­
+ship between sleep deprivation and depression has been widely 
+confirmed (Hill et al., 2022; Zhang et al., 2022).
+In the fast-paced life of modern society, many people often lack 
+sufficient sleep during weekdays, resulting in lower work efficiency, 
+increased mood swings, and even symptoms of depression (Hu et al., 
+2021). To compensate for the lack of sleep on weekdays, many people 
+catch up on sleep on weekends, a particularly prevalent phenomenon 
+among adolescents and adults (Choi et al., 2023). Weekend catch-up 
+sleep (WCS), i.e., compensating for weekday sleep deprivation by 
+sleeping longer on weekends, is an effective way to recover from fatigue 
+(Hirshkowitz et al., 2015). Implementing such measures may mitigate 
+* Corresponding author at: Chengdu University of Traditional Chinese Medicine, 1166 Liutai Avenue, Wenjiang District, Chengdu, Sichuan, China.
+E-mail address: 19902026@cdutcm.edu.cn (Y. Yu). 
+Contents lists available at ScienceDirect
+Journal of Affective Disorders
+journal homepage: www.elsevier.com/locate/jad
+https://doi.org/10.1016/j.jad.2025.02.080
+Received 9 July 2024; Received in revised form 24 January 2025; Accepted 23 February 2025
+
+[page 2]
+Journal of Affective Disorders 378 (2025) 109–118
+110
+the negative consequences associated with sleep indebtedness, such as 
+obesity, metabolic syndrome, and cardiovascular disease (Im et al., 
+2017; Jang et al., 2023; Son et al., 2020). However, the effects of WCS on 
+mental health, especially the association with depression, have not been 
+fully studied and concluded. Some studies suggest that WCS may help 
+alleviate fatigue and mood problems caused by sleep deprivation, 
+thereby improving mental health to some extent (Kitamura et al., 2016). 
+For example, some studies have found that catching up on sleep over the 
+weekend may improve mood states and reduce anxiety and depressive 
+symptoms (Larson and Gehrman, 2024). However, other studies present 
+a different perspective. They argue that WCS may disrupt the biological 
+clock and lead to disrupted sleep rhythms, which can exacerbate 
+depressive symptoms (Akerstedt et al., 2019). Chronic sleep irregularity 
+may negatively affect brain function and the nervous system, which in 
+turn increases the risk of depression (Depner et al., 2019). Additionally, 
+the effects of catching up on sleep over the weekend may vary depending 
+on individual differences. Factors such as an individual's sleep needs, 
+lifestyle, and health status may influence the effectiveness of WCS. Some 
+studies have found that younger people and those with more severe 
+sleep deprivation may benefit more from WCS, whereas for those with 
+less severe sleep problems or more sensitive biological clocks, WCS may 
+have negative effects (Yoshiike et al., 2023).
+Although existing studies provide some preliminary evidence on the 
+relationship between WCS and depression, there are some differences in 
+the results of these studies, which may be related to factors such as the 
+study population, methodology, and sample size. Therefore, it is 
+necessary to conduct a systematic review and meta-analysis of existing 
+studies to comprehensively assess the effects of WCS on depression. A 
+systematic review and meta-analysis may reveal whether WCS is indeed 
+effective in alleviating depressive symptoms or whether it may lead to 
+more serious psychological problems. Additionally, such an analysis 
+could help identify which groups may benefit most from WCS and which 
+groups may require different sleep management strategies. Ultimately, 
+this will help develop more precise health interventions and provide a 
+scientific basis for improving the public's sleep quality and mental health 
+and reducing the burden of depression.
+2. Methods
+This systematic review was conducted and reported according to the 
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) guidelines (Page et al., 2021). The methodology of this 
+study is registered on the PROSPERO website (registration number: 
+CRD42024553471).
+2.1. Search strategy
+PubMed, Cochrane Library, Embase, Web of Science, and Scopus 
+were searched for observational studies published from the database's 
+inception to June 1, 2024. There were no language restrictions and the 
+search strategy combined the use of medical subject headings (MeSH) 
+and keywords. Search terms included weekend catch-up sleep, weekend 
+recovery sleep, catch-up sleep, sleep compensation, sleep debt recovery, 
+weekend sleep extension, sleep rebound, sleep patterns, depression, 
+depressive, depression disorder, dysthymia, mood disorder, and affec­
+tive disorder. The full search strategy using Pubmed as an example is 
+included in Appendix Fig. A.1. References of included studies were also 
+examined to identify relevant studies.
+2.2. Eligibility criteria
+Inclusion criteria: (1) Type of study: observational studies, including 
+but not limited to cohort studies, cross-sectional studies, etc.; (2) Sub­
+jects: can include individuals of any age, sex, and demographic char­
+acteristics, but must explicitly report WCS behavior as well as their 
+depressive symptoms; (3) Content of the study: a study on the 
+correlation between WCS and depression; and (4) Depression or 
+depressive symptoms as an outcome variable.
+Exclusion criteria: (1) reviews, research protocols, editorials, and 
+conference papers; (2) inaccessibility of full text; and (3) failure to 
+provide complete or detailed information.
+2.3. Study selection
+Study selection was conducted by two reviewers who independently 
+screened the literature based on eligibility and exclusion criteria. 
+Duplicate and irrelevant articles were first excluded based on title and 
+abstract. Subsequently, the full text of potentially eligible articles was 
+downloaded and read to identify all eligible studies. Any disagreements 
+were resolved by the third reviewer, who acted as an arbiter.
+2.4. Data extraction
+Two reviewers independently followed the data extraction guide­
+lines for systematic review and meta-analysis, using pre-designed forms 
+to extract and summarize relevant information about eligible studies, 
+such as author, year of publication, country, source of the sample, 
+sample size, age, WCS assessment, depression assessment tool, out­
+comes, covariates, main findings, and subgroup findings. In cases of 
+disagreement, the opinion of a third reviewer was sought to reach a 
+consensus.
+2.5. Risk of bias assessment
+Two researchers evaluated the risk of bias in the included studies 
+using the Agency for Healthcare Research and Quality (AHRQ) quality 
+assessment tool and cross-checked the results (Zeng et al., 2015). The 
+tool includes 11 entries to systematically assess the quality of cross- 
+sectional studies. According to the scoring criteria, 0 to 3 was catego­
+rized as low quality, 4 to 7 as moderate quality, and 8 to 11 as high 
+quality. By using this tool, we were able to comprehensively assess the 
+quality of the included studies and ensure the reliability of the analyzed 
+results.
+2.6. Statistical analysis
+In this study, we will assess the overall relationship between WCS 
+and depression risk through meta-analysis. Odds ratios (ORs) and 95 % 
+confidence intervals (CIs) will be extracted from the included studies. 
+The level of heterogeneity will be assessed using the I2 statistic. If I2 <
+50 %, a fixed-effects model will be used; if I2 > 50 %, a random-effects 
+model will be applied. For studies reporting multiple ORs for different 
+WCS durations, OR values with statistical significance (P < 0.05) were 
+prioritized for inclusion in the overall quantitative analysis. Addition­
+ally, subgroup analyses will be conducted on all reported WCS durations 
+to explore the relationship between different WCS durations and 
+depression risk. Where data are insufficient for quantitative subgroup 
+analyses, the relationship between WCS and depression risk across 
+different groups will be summarized qualitatively. Publication bias will 
+be assessed using funnel plots and Egger's test. Sensitivity analysis will 
+involve excluding each study individually and recalculating the com­
+bined effect size to ensure robustness and explore potential biases.
+3. Results
+3.1. Literature search process and results
+A total of 836 relevant studies were retrieved from the initial search 
+through electronic and manual searches, of which 97 were duplicates 
+and 713 unrelated studies were excluded after reading the titles and 
+abstracts. After screening eligible articles by reading the full text, ten 
+studies (Kim et al., 2021; Koo et al., 2021; Lee et al., 2022; Liu et al., 
+Y. Zhou et al.
+
+[page 3]
+Journal of Affective Disorders 378 (2025) 109–118
+111
+2024a, 2024b; Luo et al., 2024; Oh et al., 2023; Oh et al., 2019; Park 
+et al., 2022; Wang et al., 2021; Zheng et al., 2024) were included in the 
+systematic review. The study selection process is shown in Fig. 1.
+3.2. Basic characteristics of included studies
+This systematic review included ten cross-sectional studies, 
+comprising a total of 326,871 participants. The studies were published 
+between 2019 and 2024, with sample sizes ranging from 1836 to 
+270,619 participants. The majority of the studies utilized the Sleep 
+Disorders Questionnaire (SDQ) or the Pittsburgh Sleep Quality Index 
+(PSQI) to assess WCS. Depression was evaluated using the Patient Health 
+Questionnaire-9 (PHQ-9), the Center for Epidemiologic Studies 
+Depression Scale (CES-D), or the Beck Depression Inventory (BDI). 
+Additionally, two studies employed the anxiety/depression domain of 
+the EQ-5D from the Health-Related Quality of Life (HRQoL) instrument. 
+Commonly reported covariates included age, sex, and alcohol con­
+sumption. The key characteristics of the included studies are summa­
+rized in Table 1.
+3.3. Risk of bias
+We evaluated the quality of the included studies, all of which 
+received a score of 7 or higher, indicating that they were of high quality. 
+The specific scores for all included observational studies are provided in 
+Table 2.
+3.4. Results of meta-analysis
+Ten observational studies were included in this analysis. Two studies 
+were excluded from the quantitative analysis due to their focus on 
+anxiety/depression rather than depression alone. Meta-analysis was 
+conducted on data from the remaining eight studies. The results showed 
+a significant association between WCS and reduced depression risk (OR 
+= 0.80, 95 % CI: 0.68–0.90, P = 0.013), suggesting a protective effect of 
+WCS (Fig. 2). Regarding publication bias, the funnel plot showed 
+asymmetry (Fig. 3), and Egger's test was significant (P = 0.009), indi­
+cating potential publication bias. However, no additional studies were 
+identified using the Trim and Fill method, suggesting that data were 
+insufficient for adjustment. Sensitivity analysis revealed that excluding 
+any single study did not significantly alter the overall effect size, con­
+firming the robustness of the results (Appendix Fig. A.2).
+3.5. Subgroup analysis
+The subgroup analysis revealed a significant reduction in depression 
+Fig. 1. Literature screening process and results.
+Y. Zhou et al.
+
+[page 4]
+Journal of Affective Disorders 378 (2025) 109–118
+112
+Table 1 
+Characteristics of included studies.
+Reference
+Country
+Source of the 
+sample
+Sample 
+size/ 
+Male
+Age
+WCS 
+measurement
+Depression 
+Assessment 
+Tool
+Outcomes
+Covariates
+Main finding
+Subgroup 
+findings
+Yanxu 
+Zheng, 
+2024
+America
+NHANES
+5510/ 
+2657
+≤20 to 
+>60
+Questionnaire- 
+WCS > 0 h
+PHQ-9
+Depression
+Sex, race, BMI, 
+education level, 
+high blood 
+pressure, high 
+cholesterol, 
+diabetes, MET, 
+age, alcohol use, 
+household size
+WCS is 
+significantly 
+negatively 
+correlated with 
+the risk of 
+depression (OR 
+= 0.81, 95 % CI 
+0.66–1.00, P =
+0.048)
+Men (OR = 0.70, 
+95 % CI 
+0.05–0.99, P =
+0.04), In middle 
+age (>40, ≤60) 
+(OR: 0.57, 95 % 
+CI: 0.40–0.81, P 
+= 0.002), 
+Married or living 
+with parents 
+(OR: 0.61, 95 % 
+CI: 0.44–0.86, P 
+= 0.004), ≥3 
+family members 
+(OR: 0.69, 95 % 
+CI: 0.52–0.93, P 
+= 0.01), non- 
+drinkers (OR: 
+0.24, 95 % CI: 
+0.09–0.67, P =
+0.006). Weekday 
+sleep duration 
+<7 h (OR: 0.66, 
+95 % CI: 
+0.43–1.00, P =
+0.047). When 
+restricted 
+population to 
+depression only, 
+the negative 
+correlation 
+between WCS 
+and suicidal 
+ideation was 
+found significant 
+(OR: 0.68, 95 % 
+CI: 0.49–0.95, P 
+= 0.02)
+Zhicheng 
+Luo, 
+2024
+America
+NHANES
+7719/ 
+3819
+≥18
+Sleep Disorders 
+Questionnaire- 
+WCS > 0 h
+PHQ-9
+Depression
+Sex, age, race, 
+education level, 
+marital status, 
+smoking status, 
+alcohol 
+consumption, 
+leisure time, 
+physical activity 
+level and 
+weekday sleep 
+duration, 
+obesity
+WCS was not 
+statistically 
+significantly 
+associated with 
+depressive 
+symptoms (OR 
+= 0.746, 95 % CI 
+0.462–1.204, P 
+= 0.218)
+WCS 0-2 h (OR 
+= 0.627, 95 % CI 
+0.433–0.908, P 
+= 0.016), WCS 
+≥2 h (OR =
+0.907, 95 % CI 
+0.450–1.830, P 
+= 0.777). The 
+beneficial effects 
+of WCS on 
+depressive 
+symptoms are 
+mainly stronger 
+among men, 
+adults aged 
+younger than 65 
+years, and those 
+with short 
+weekday sleep 
+duration.
+Yecun 
+Liu, 
+2024
+America
+NHANES
+8039/ 
+3892
+≥18
+Sleep Disorders 
+Questionnaire- 
+WCS > 1 h
+PHQ-9
+Depression
+Age, sex, race, 
+educational 
+level, body mass 
+index, poverty 
+income ratio, 
+smoking, 
+alcohol 
+drinking, 
+marital status, 
+physical 
+activity, 
+diabetes, 
+hypertension, 
+weekly working 
+1–2 h of WCS 
+had a 
+substantially low 
+prevalence of 
+depression (OR 
+= 0.22 95 % CI 
+0.08–0.59, P =
+0.007)
+WCS 0–1 h (OR 
+= 0.67, 95 % CI 
+0.44–1.04, P =
+0.069), WCS 1–2 
+h (OR = 0.22, 95 
+% CI 0.08–0.59, 
+P = 0.007), WCS 
+≥2 h (OR =
+1.15, 95 % CI 
+0.70–1.88, P =
+0.546); Weekday 
+sleep duration 7- 
+8 h: WCS1–2 h 
+(OR = 0.09, 95 
+(continued on next page)
+Y. Zhou et al.
+
+[page 5]
+Journal of Affective Disorders 378 (2025) 109–118
+113
+Table 1 (continued)
+Reference 
+Country 
+Source of the 
+sample 
+Sample 
+size/ 
+Male 
+Age 
+WCS 
+measurement 
+Depression 
+Assessment 
+Tool 
+Outcomes 
+Covariates 
+Main finding 
+Subgroup 
+findings
+hours, average 
+sleep duration
+% CI 0.05–0.55, 
+P = 0.015), 
+Weekday sleep 
+duration>8 h: 
+WCS 1–2 h (OR 
+= 0.14, 95 % CI 
+0.03–0.68, P =
+0.021), WCS ≥2 
+h (OR = 2.71, 95 
+% CI 1.14–6.45, 
+P = 0.03)
+Jinkyung 
+Oh, 
+2023
+Korea
+KNHANES
+15,837/ 
+6959
+≥38.09
+Questionnaire- 
+WCS > 0 h
+HRQoL-EQ- 
+5D 
+subdomains 
+of anxiety/ 
+depression
+Anxiety/ 
+Depression
+NR
+Short (0−1 h) 
+and medium 
+(1−2 h) WCS 
+were positively 
+associated with 
+the anxiety/ 
+depression 
+subdomains in 
+women.
+Female: 0<WCS 
+≤1 h (OR =
+1.28, 95 % CI 
+1.02–1.60), 
+1<WCS ≤2 h 
+(OR = 1.42, 95 
+% CI 1.08–1.87)
+Jung Ha 
+Park, 
+2022
+Korea
+KNHANES
+3196/ 
+1352
+35–65
+Sleep Disorders 
+Questionnaire- 
+WCS > 2 h
+PHQ-9
+Depression
+Age, sex, 
+education level, 
+marital status, 
+monthly 
+income, 
+smoking status, 
+alcohol 
+consumption, 
+physical activity
+In the group 
+with weekday 
+sleep duration 
+<6 h, WCS 
+significantly 
+reduced the risk 
+of depression 
+(OR = 0.51, 95 
+% CI 0.27–0.96, 
+P = 0.039)
+Weekday sleep 
+duration<6 h 
+(OR = 0.51, 95 
+% CI 0.27–0.96, 
+P = 0.039), 
+Weekday sleep 
+duration 6–8 h 
+(OR = 1.83, 95 
+% CI 0.92–3.66, 
+P = 0.083), 
+Weekday sleep 
+duration ≥8 h 
+(OR = 0.66, 95 
+% CI 0.24–1.81, 
+P = 0.428)
+Hyunseo 
+Lee, 
+2022
+Korea
+KNHANES
+270,619/ 
+136316
+12–18
+Questionnaire
+Self-made 
+questionnaire
+Depression
+Grade, average 
+weekday and 
+weekend sleep 
+durations, 
+economic status, 
+residence type, 
+academic 
+achievement, 
+alcohol status, 
+smoking status, 
+physical 
+activity, self- 
+reported health 
+status, and 
+perception of 
+stress
+when the WCS 
+ratio was ≥1.50, 
+females (OR =
+1.04, 95 % CI 
+1.01–1.08) had 
+significantly 
+higher odds of 
+developing 
+depressive 
+symptoms than 
+males.
+WCS ratio < 1 
+(male: OR =
+1.05, 95 % CI 
+1.00–1.11; 
+female: OR =
+1.10, 95 % CI 
+1.04–1.16); WCS 
+ratio >1.5 (male: 
+OR = 1.02, 95 % 
+CI (0.98–1.06), 
+female: OR =
+1.04, 95 % CI 
+1.01–1.08)
+Kyung 
+Min 
+Kim, 
+2021
+Korea
+KNHANES
+5550/ 
+2328
+19–80
+Questionnaire- 
+WCS > 0 h
+PHQ-9
+Depression
+Age, sex, work 
+status, alcohol 
+consumption, 
+education level, 
+physical activity 
+and smoking
+1–2 h of WCS 
+had a 
+significantly 
+decreased risk of 
+depression (OR 
+= 0.517, 95 % CI 
+0.309–0.865), 
+Only moderate 
+WCS duration 
+significantly 
+reduced the OR 
+of depression.
+WCS 0-1 h (OR 
+= 0.731, 95 % CI 
+0.505–1.060), 
+WCS >2 h (OR =
+1.164, 95 % CI 
+0.718–1.886)
+Wanxin 
+Wang, 
+2021
+China
+A certain 
+junior and 
+senior high 
+school in 
+Guangzhou, 
+China
+1836/ 
+963
+13.6 ±
+1.5
+PSQI- 
+(weekend sleep 
+time - weekday 
+sleep time) 
+absolute value
+CES-D
+Depression
+Sex, age, 
+ethnicity, serum 
+cortisol levels, 
+and symptoms 
+of mental 
+disorders
+WCS is 
+significantly 
+associated with 
+depression (OR 
+= 1.11, 95 % CI 
+1.00–1.22), and 
+the longer the 
+duration of WCS, 
+the higher the 
+risk of 
+Not reported
+(continued on next page)
+Y. Zhou et al.
+
+[page 6]
+Journal of Affective Disorders 378 (2025) 109–118
+114
+risk associated with WCS of 0–1 h, with a pooled effect size of OR = 0.70 
+(95 % CI: 0.53–0.93), indicating a 30 % reduction in depression risk. For 
+1–2 h of WCS, the pooled effect size was OR = 0.38 (95 % CI: 0.17–0.85), 
+reflecting a 62 % reduction in depression risk. However, WCS beyond 2 
+h did not show a significant protective effect (OR = 0.92, 95 % CI: 
+0.61–1.38, P > 0.05), and exhibited high heterogeneity (I2 = 69.1 %, P 
+= 0.039). These results are summarized in Table 3.
+3.6. Qualitative analysis
+Due to the inability to perform quantitative subgroup analyses, the 
+main findings of the included studies are presented qualitatively as 
+follows:
+Sex: (Zheng et al., 2024) found that WCS was significantly negatively 
+associated with depression risk in men (OR = 0.70; 95 % CI: 0.05–0.99). 
+Similar results were reported by (Luo et al., 2024) and (Liu et al., 2024a, 
+2024b) (male OR = 0.63; 95 % CI: 0.47–0.83), where WCS was signif­
+icantly negatively associated with depressive symptoms in men. In 
+contrast, (Lee et al., 2022) reported that a ratio of weekend sleep time to 
+weekday sleep time >1.5 in women was associated with increased 
+depressive symptoms. Similarly, (Oh et al., 2023) found that female 
+WCS was positively associated with the anxiety/depression dimension of 
+the HRQoL.
+Age: (Zheng et al., 2024) noted a significant negative correlation in 
+the middle-aged 40–60-year-old group (OR = 0.57; 95 % CI: 0.40–0.81). 
+(Luo et al., 2024) noted that WCS was more negatively correlated with 
+the risk of depression for those younger than 65 years of age. (Park et al., 
+2022) for the 35–65-year-old group reached a similar conclusion, with a 
+significantly increased risk of depression in the non-WCS group (OR =
+2.28; 95 % CI: 1.31–3.98) (Koo et al., 2021; Lee et al., 2022; Wang et al., 
+2021). Conducted studies in adolescent populations showed that sus­
+tained WCS was associated with a lower risk of depressive moods.
+Weekday sleep duration: (Zheng et al., 2024) noted that in the 
+group with a weekday sleep duration of <7 h, WCS was significantly 
+negatively associated with depression compared to the non-WCS group. 
+(Luo et al., 2024) observed that WCS was more strongly negatively 
+associated with the risk of depression in individuals with shorter 
+weekday sleep durations. (Park et al., 2022) found a benefit of WCS on 
+depression risk only in the group with a weekday sleep duration of <6 h, 
+with no significant association in the other groups. (Lee et al., 2022) 
+noted that adolescents with a weekday sleep duration of <5 h and a WCS 
+ratio < 1.00 exhibited higher levels of depressive symptoms and suicidal 
+ideation.
+Lifestyle factors: (Zheng et al., 2024) reported an OR of 0.61 (95 % 
+CI: 0.44–0.86) for individuals not living alone, and an OR of 0.24 for 
+non-drinking individuals. Liu et al. (2024a, 2024b) found that the 
+Table 1 (continued)
+Reference 
+Country 
+Source of the 
+sample 
+Sample 
+size/ 
+Male 
+Age 
+WCS 
+measurement 
+Depression 
+Assessment 
+Tool 
+Outcomes 
+Covariates 
+Main finding 
+Subgroup 
+findings
+depressive 
+symptoms
+Dae Lim 
+Koo, 
+2021
+Korea
+KNHANES
+8565/ 
+4461
+16.8 ±
+0.9
+Questionnaire
+BDI
+Depression
+Not reported
+WCS ≥2 h is 
+significantly 
+associated with 
+depression (OR 
+= 0.68, 95 % CI 
+0.55–0.85, P =
+0.001)
+WCS 0-2 h (OR 
+= 0.84, 95 % CI 
+0.66–1.60 P =
+0.142), WCS ≥2 
+h (OR = 1.45, 95 
+% CI 0.55–0.85, 
+P = 0.001)
+Yun 
+Hwan 
+Oh, 
+2019
+Korea
+KNHANES
+4871/ 
+2160
+≥19
+Questionnaire
+HRQoL-EQ- 
+5D 
+subdomains 
+of anxiety/ 
+depression
+Anxiety/ 
+depression
+Not reported
+WCS is 
+significantly 
+associated with 
+anxiety/ 
+depression (OR 
+= 1.45, 95 % CI 
+1.11–1.90, P =
+0.006)
+Not reported
+Abbreviation: BMI, Body Mass Index; BDI, Beck Depression Inventory; CES-D, Center for Epidemiologic Studies Depression Scale; EQ-5D, European Quality of Life-5 
+Dimensions index; h, hours; HRQoL, Health-Related Quality of Life; KNHANES: Korean National Health and Nutrition Examination Survey; NHANES: National Health 
+and Nutrition Examination Survey; OR, Odds Ratio; MET, Metabolic Equivalent; PHQ-9, Patient Health Questionnaire-9; PSQI, Pittsburgh Sleep Quality Index.
+Table 2 
+Evaluation of the risk of bias for inclusion studies.
+Reference
+①
+②
+③
+④
+⑤
+⑥
+⑦
+⑧
+⑨
+⑩
+⑪
+Total
+Yanxu Zheng, 2024
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+9
+Zhicheng Luo, 2024
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+8
+Yecun Liu, 2024
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+9
+Jinkyung Oh, 2023
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+0
+7
+Jung Ha Park, 2022
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+0
+9
+Hyunseo Lee, 2022
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+7
+Kyung Min Kim, 2021
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+7
+Wanxin Wang, 2021
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+7
+Dae Lim Koo, 2021
+1
+1
+1
+1
+0
+1
+1
+0
+0
+1
+0
+7
+Yun Hwan Oh, 2019
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+0
+7
+Note: The AHRQ criteria for evaluating the quality of cross-sectional studies include the following aspects: ① Define the source of information used, such as surveys or 
+record reviews. ② List inclusion and exclusion criteria for both exposed and unexposed subjects (cases and controls) or refer to previous publications. ③ Specify the 
+time period used for identifying patients. ④ Indicate whether subjects were selected consecutively if not population-based. ⑤ Confirm if evaluators of subjective 
+components of the study were masked to other participant aspects. ⑥ Describe any assessments conducted for quality assurance purposes, such as test/retest of primary 
+outcome measurements. ⑦ Explain any patient exclusions from the analysis. ⑧ Discuss how confounding was assessed and/or controlled. ⑨ If applicable, detail how 
+missing data were addressed in the analysis. ⑩ Summarize patient response rates and completeness of data collection. ⑪ Clarify any expected follow-up, including the 
+percentage of patients with incomplete data or follow-up.
+Y. Zhou et al.
+
+[page 7]
+Journal of Affective Disorders 378 (2025) 109–118
+115
+prevalence of depression was higher among non-drinking individuals 
+(OR = 0.40; 95 % CI: 0.22–0.73) and single individuals (OR = 2.01; 95 % 
+CI: 1.56–2.60).
+Dose-response relationship: (Luo et al., 2024) used a generalized 
+additive model to demonstrate an L-shaped association between WCS 
+duration and depressive symptoms (EDF = 1.774, P = 0.058).
+Fig. 2. Forest plot of meta-analysis of WCS and depression.
+Fig. 3. Publication bias in the association between WCS and depression.
+Y. Zhou et al.
+
+[page 8]
+Journal of Affective Disorders 378 (2025) 109–118
+116
+4. Discussion
+This study is the first to systematically summarize the relationship 
+between WCS and depression risk, incorporating ten cross-sectional 
+studies with a total of 326,871 participants. Pooled analyses revealed 
+a significant negative association between WCS and depression risk (OR 
+= 0.80, 95 % CI: 0.68–0.90), suggesting that WCS may offer some pro­
+tective effect against depression. Subgroup analyses further showed that 
+a moderate amount of WCS (0–2 h) was significantly associated with a 
+reduction in depression risk, while WCS durations longer than 2 h did 
+not show a significant protective effect, suggesting that extended WCS 
+may have a limited protective effect or even an adverse impact on 
+depression.
+WCS mitigates the negative effects of workday sleep deprivation by 
+increasing slow-wave and REM sleep, which helps regulate mood and 
+relieve stress (Horne, 2020). This is particularly beneficial for those who 
+experience sleep deprivation during the workweek (Muto et al., 2016). 
+This physiological mechanism supports the depressive protective effect 
+of moderate WCS. In recent years, global organizations such as WHO 
+have focused on work-life balance, promoting healthy working hours 
+and rest policies, and emphasizing the importance of adequate sleep for 
+mental health (Piso et al., 2024; Matsumoto et al., 2023). Particularly in 
+Western countries, many studies have examined the negative impact of 
+‘social jet lag’ on emotional and mental health (Caliandro et al., 2021).
+Social jet lag refers to the significant difference in sleep time and 
+patterns between weekdays and weekends (Wittmann et al., 2006). This 
+irregular sleep schedule may lead to misalignment of the biological 
+clock, which in turn can result in mood swings, cognitive decline, and an 
+increased risk of depression (Vrabec et al., 2022). There are mechanistic 
+similarities between social jet lag and WCS, as both involve adjustments 
+to sleep patterns to restore balance to the biological clock. However, 
+long-term studies of social jet lag have shown that frequent sleep pattern 
+adjustments can increase mental health problems (Caliandro et al., 
+2021). Moderate WCS, as a biorhythmic adjustment strategy, may 
+mitigate the negative effects caused by social jet lag and provide some 
+protection against mood swings and depression risk (Akerstedt et al., 
+2019). However, excessive or long-term reliance on WCS may disrupt 
+the biological clock and hinder the establishment of stable sleep pat­
+terns, leading to negative effects instead (Gershon et al., 2019).
+In addition, the occupational demands of different industries also 
+influence the need for and effectiveness of WCS. The healthcare in­
+dustry, often challenged by sleep deprivation due to shift work, may 
+benefit from moderate WCS to restore energy (Chang and Li, 2022). 
+However, persistent disruption of circadian rhythms may still increase 
+the risk of depression (Yeo et al., 2024). In the technology industry, 
+where sleep deprivation is common due to high-pressure work and 
+prolonged screen exposure, moderate WCS may provide some psycho­
+logical protection (Sato et al., 2020). This suggests that the effects of 
+WCS are influenced by different occupational demands and work envi­
+ronments, indicating that WCS as a compensatory mechanism is not 
+equally effective across all occupational groups. Therefore, WCS should 
+be carefully tailored to individual occupational characteristics, life 
+rhythms, and global healthy work style recommendations to maximize 
+psychological health and avoid potential negative effects.
+Sex showed significant differences in the relationship between WCS 
+and depression risk. Studies have indicated that, despite a higher prev­
+alence of depression in women, the negative correlation between WCS 
+and depression risk is more pronounced in men (Zheng et al., 2024; Luo 
+et al., 2024). WCS may affect mental health by modulating hormone 
+levels, such as increasing testosterone levels in men, which is thought to 
+help mitigate depression to some extent (Leproult and Van Cauter, 
+2011). However, men over the age of 60 may not experience significant 
+benefits from WCS due to hormonal changes and aging factors. Addi­
+tionally, middle-aged men often rely on WCS to make up for sleep debt 
+accumulated during the workweek, alleviating the dual stresses associ­
+ated with their careers and family responsibilities (Zhao et al., 2024).
+In contrast, women tend to have shorter sleep durations, longer WCS, 
+and more severe depression on weekdays, possibly due to the com­
+pounded pressures and emotional complexities arising from their family 
+and professional roles (Caetano et al., 2021). Particularly during the 
+luteal phase and menopause, the decline in estrogen levels may increase 
+cortisol levels, which in turn heightens stress responses and affects mood 
+(Salari et al., 2023). (Lee et al., 2022) noted that weekend-to-weekday 
+sleep ratios above 1.5 in adolescent females aged 12–18 years were 
+associated with an increase in depression symptoms, suggesting that 
+WCS in adolescent females may not alleviate depression and could even 
+exacerbate mood problems. Similarly, (Oh et al., 2023) found that 
+women's WCS was positively associated with the anxiety/depression 
+dimension of HRQoL, further highlighting the complexity of women's 
+mental health challenges. These findings emphasize the variability of 
+WCS effects across sexes, but further validation is needed in different 
+cultural contexts, given the diverse sources of study samples.
+The effect of WCS on depression risk varies across different age 
+groups. Middle-aged individuals often experience sleep deprivation due 
+to work and family pressures (Yoshiike et al., 2023). A moderate amount 
+of WCS can act as a compensatory mechanism, helping restore energy 
+and alleviate depression and other negative emotions. Adolescents, in a 
+rapid stage of physical and cognitive development, have a higher need 
+for sleep. In addition to supporting physical growth and cognitive 
+functioning, they must also manage academic pressures and social de­
+mands (Tonetti et al., 2022). WCS can help adolescents reduce the risk of 
+depressive symptoms caused by weekday sleep deprivation. However, 
+older adults have difficulty adapting to sudden changes in their sleep 
+schedules as the regulation of their circadian rhythm diminishes with 
+age (Hoyos et al., 2020). As a result, older adults may not experience the 
+same benefits from WCS as younger adults, and the disruption of their 
+biological clock may exacerbate sleep problems and depression risk 
+(Kim et al., 2021).
+Future research should explore the interaction between sex and age 
+in the relationship between WCS and depression risk to develop more 
+targeted intervention strategies. Longitudinal studies analyzing the 
+changes in social roles and health needs with age would provide valu­
+able insights for improving mental health support for different groups.
+4.1. Limitations
+The limitations of this study include the following: ① The association 
+between WCS and depression risk showed variability across studies, 
+likely due to differences in sample characteristics and potential biases, 
+highlighting the need for more standardized and rigorous study designs. 
+② All included studies were cross-sectional and relied on self-reported 
+sleep data, which is prone to recall bias and subjective interpretation, 
+limiting causal inferences. The cross-sectional design also precludes the 
+examination of the duration and long-term protective effects of WCS, 
+and the strength of its protective effect over time. ③ There was notable 
+heterogeneity among studies in terms of diagnostic tools, sample char­
+acteristics, and statistical methods, which could affect the robustness of 
+the meta-analysis results. Although Egger's test did not show significant 
+publication bias, funnel plot asymmetry suggests potential bias. ④ The 
+majority of the sample came from the United States and South Korea, 
+and the lack of data from other regions (e.g., Europe, Africa, South 
+Table 3 
+Subgroup analysis of the association between WCS and depression risk.
+WCS 
+duration
+Studies 
+included (n)
+Heterogeneity test 
+results
+Effect 
+model
+OR (95 % CI)
+0 < WCS ≤
+1 h
+2
+P = 0.766, I2 =
+0.00 %
+Fixed
+0.70 
+(0.53–0.93)
+1 < WCS <
+2 h
+2
+P = 0.134, I2 =
+55.5 %
+Random
+0.38 
+(0.17–0.85)
+WCS ≥2 h
+3
+P = 0.039, I2 =
+69.1 %
+Random
+0.92 
+(0.61–1.38)
+Y. Zhou et al.
+
+[page 9]
+Journal of Affective Disorders 378 (2025) 109–118
+117
+America) limits the global applicability of the findings.
+5. Conclusion
+In summary, there is a potential association between WCS and a 
+reduced risk of depression, particularly in alleviating the negative ef­
+fects of workday sleep deprivation. To maximize the benefits and 
+minimize potential negative effects, it is recommended to maintain a 
+moderate WCS duration while establishing and maintaining good daily 
+sleep habits. Future studies should explore the causal relationship be­
+tween WCS and depression risk through large-sample, multicenter lon­
+gitudinal designs, and investigate how factors such as sex, age, and 
+lifestyle may moderate this relationship. Such studies will help provide a 
+more comprehensive understanding of the mechanisms by which WCS 
+affects depression risk, leading to the development of more scientific and 
+personalized sleep interventions to improve depressive symptoms and 
+enhance mental health.
+CRediT authorship contribution statement
+Yue Zhou: Writing – original draft, Visualization, Methodology, 
+Formal analysis, Conceptualization. YuJian Sun: Software, Formal 
+analysis, Data curation. YuFan Pan: Validation, Data curation. Yu Dai: 
+Validation, Formal analysis. Yi Xiao: Validation, Data curation. YuFeng 
+Yu: Writing – review & editing, Supervision, Project administration, 
+Methodology.
+Author agreement
+All authors have read and agreed to the published version of the 
+manuscript.
+Funding information
+This study did not receive any specific grant from funding agencies in 
+the public, commercial, or not-for-profit sectors.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+The authors have no acknowledgements to declare.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.jad.2025.02.080.
+Data availability
+The data that support the findings of this study are available from the 
+corresponding author upon reasonable request.
+References
+Akerstedt, T., Ghilotti, F., Grotta, A., Zhao, H., Adami, H.O., Trolle-Lagerros, Y., 
+Bellocco, R., 2019. Sleep duration and mortality - does weekend sleep matter? 
+J. Sleep Res. 28 (1), e12712.
+Caetano, G., Bozinovic, I., Dupont, C., Leger, D., Levy, R., Sermondade, N., 2021. Impact 
+of sleep on female and male reproductive functions: a systematic review. Fertil. 
+Steril. 115 (3), 715–731.
+Caliandro, R., Streng, A.A., van Kerkhof, L., van der Horst, G., Chaves, I., 2021. Social 
+jetlag and related risks for human health: a timely review. Nutrients 13 (12), 4543.
+Chang, W.P., Li, H.B., 2022. Influence of shift work on rest-activity rhythms, sleep 
+quality, and fatigue of female nurses. Chronobiol. Int. 39 (4), 557–568.
+Chaudhri, S.I., Amin, A., Panjiyar, B.K., Al-Taie, D.S., Aledani, E.M., Gurramkonda, J., 
+Hamid, P., 2024. A comparison of the efficacy and adverse effects of ketamine and 
+electroconvulsive therapy in the management of treatment-resistant depression: a 
+systematic review. Cureus J Med Sci 16 (3), e55596.
+Choi, Y., Kim, S., Lee, M., Lee, H.I., Song, K., Suh, J., Chae, H.W., Kim, H.S., Kwon, A., 
+2023. Effect of catch-up sleep on obesity in Korean adolescents: a nationwide cross- 
+sectional study. Front. Pediatr. 11, 1213558.
+Depner, C.M., Melanson, E.L., Eckel, R.H., Snell-Bergeon, J.K., Perreault, L., Bergman, B. 
+C., Higgins, J.A., Guerin, M.K., Stothard, E.R., Morton, S.J., Wright, K.J., 2019. Ad 
+libitum weekend recovery sleep fails to prevent metabolic dysregulation during a 
+repeating pattern of insufficient sleep and weekend recovery sleep. Curr. Biol. 29 (6), 
+957–967.
+Gershon, A., Johnson, S.L., Thomas, L., Singh, M.K., 2019. Double trouble: weekend 
+sleep changes are associated with increased impulsivity among adolescents with 
+bipolar I disorder. Bipolar Disord. 21 (2), 132–141.
+Harshfield, E.L., Pennells, L., Schwartz, J.E., Willeit, P., Kaptoge, S., Bell, S., Shaffer, J.A., 
+Bolton, T., Spackman, S., Wassertheil-Smoller, S., Kee, F., Amouyel, P., Shea, S.J., 
+Kuller, L.H., Kauhanen, J., van Zutphen, E.M., Blazer, D.G., Krumholz, H., Nietert, P. 
+J., Kromhout, D., Laughlin, G., Berkman, L., Wallace, R.B., Simons, L.A., 
+Dennison, E.M., Barr, E., Meyer, H.E., Wood, A.M., Danesh, J., Di Angelantonio, E., 
+Davidson, K.W., 2020. Association between depressive symptoms and incident 
+cardiovascular diseases. JAMA 324 (23), 2396–2405.
+Hill, A.L., Flicker, L., Hankey, G.J., Golledge, J., Yeap, B.B., Almeida, O.P., 2022. 
+Disrupted sleep and risk of depression in later life: a prospective cohort study with 
+extended follow up and a systematic review and meta-analysis. J. Affect. Disord. 
+309, 314–323.
+Hirshkowitz, M., Whiton, K., Albert, S.M., Alessi, C., Bruni, O., Doncarlos, L., Hazen, N., 
+Herman, J., Adams, H.P., Katz, E.S., Kheirandish-Gozal, L., Neubauer, D.N., 
+O'Donnell, A.E., Ohayon, M., Peever, J., Rawding, R., Sachdeva, R.C., Setters, B., 
+Vitiello, M.V., Ware, J.C., 2015. National Sleep Foundation's updated sleep duration 
+recommendations: final report. Sleep Health 1 (4), 233–243.
+Horne, J., 2020. REM sleep vs exploratory wakefulness: alternatives within adult ‘sleep 
+debt’? Sleep Med. Rev. 50, 101252.
+Hoyos, C.M., Gordon, C., Terpening, Z., Norrie, L., Lewis, S., Hickie, I.B., Naismith, S.L., 
+2020. Circadian rhythm and sleep alterations in older people with lifetime 
+depression: a case-control study. BMC Psychiatry 20 (1), 192.
+Hu, B., Liu, C., Mou, T., Luo, F., Lv, T., Qian, C., Zhang, J., Ye, M., Liu, Z., 2021. Meta- 
+analysis of sleep deprivation effects on patients with depression. Front. Psych. 12, 
+783091.
+Im, H.J., Baek, S.H., Chu, M.K., Yang, K.I., Kim, W.J., Park, S.H., Thomas, R.J., Yun, C.H., 
+2017. Association between weekend catch-up sleep and lower body mass: 
+population-based study. Sleep 40 (7). https://doi.org/10.1093/sleep/zsx089.
+Jang, Y.S., Park, Y.S., Hurh, K., Park, E.C., Jang, S.I., 2023. Association between weekend 
+catch-up sleep and dyslipidemia among Korean workers. Sci. Rep. 13 (1), 925.
+Kim, K.M., Han, S.M., Min, I.K., Heo, K., Kim, W.J., Chu, M.K., 2021. Weekend catch-up 
+sleep and depression: results from a nationally representative sample in Korea. Sleep 
+Med. 87, 62–68.
+Kitamura, S., Katayose, Y., Nakazaki, K., Motomura, Y., Oba, K., Katsunuma, R., 
+Terasawa, Y., Enomoto, M., Moriguchi, Y., Hida, A., Mishima, K., 2016. Estimating 
+individual optimal sleep duration and potential sleep debt. Sci. Rep. 6, 35812.
+Komariah, M., Amirah, S., Faisal, E.G., Prayogo, S.A., Maulana, S., Platini, H., Suryani, S., 
+Yosep, I., Arifin, H., 2022. Efficacy of Internet-based cognitive behavioral therapy for 
+depression and anxiety among global population during the COVID-19 pandemic: a 
+systematic review and meta-analysis of a randomized controlled trial study. 
+Healthcare 10 (7), 1224.
+Koo, D.L., Yang, K.I., Kim, J.H., Kim, D., Sunwoo, J.S., Hwangbo, Y., Lee, H.R., Hong, S. 
+B., 2021. Association between morningness-eveningness, sleep duration, weekend 
+catch-up sleep and depression among Korean high-school students. J. Sleep Res. 30 
+(1), e13063.
+Larson, O., Gehrman, P.R., 2024. Keeping the balance: the benefits of catch-up sleep 
+versus the risks of sleep irregularity. Sleep 47 (9), zsae046.
+Lee, H., Kim, Y.J., Jeon, Y.H., Kim, S.H., Park, E.C., 2022. Association of weekend catch- 
+up sleep ratio and subjective sleep quality with depressive symptoms and suicidal 
+ideation among Korean adolescents. Sci. Rep. 12 (1), 10235.
+Leproult, R., Van Cauter, E., 2011. Effect of 1 week of sleep restriction on testosterone 
+levels in young healthy men. JAMA 305 (21), 2173–2174.
+Liu, J., Liu, Y., Ma, W., Tong, Y., Zheng, J., 2024a. Temporal and spatial trend analysis of 
+all-cause depression burden based on Global Burden of Disease (GBD) 2019 study. 
+Sci. Rep. 14 (1), 12346.
+Liu, Y., Yin, J., Li, X., Yang, J., Liu, Y., 2024b. Examining the connection between 
+weekend catch-up sleep and depression: insights from 2017 to 2020 NHANES 
+information. J Affective Disord 358, 61–69.
+Luo, Z., Wang, T., Wu, W., Yan, S., Chen, L., 2024. Association between weekend catch- 
+up sleep and depressive symptoms in American adults: finding from NHANES 
+2017–2020. J. Affect. Disord. 354, 36–43.
+Matsumoto, Y., Kumadaki, K., Hino, A., Itani, O., Otsuka, Y., Kaneita, Y., 2023. Optimal 
+telework frequency in terms of sleep and labor productivity depends on the workers’ 
+psychological distress: a cross-sectional study in Tokyo, Japan. PLoS One 18 (6), 
+e286699.
+Muto, V., Jaspar, M., Meyer, C., Kusse, C., Chellappa, S.L., Degueldre, C., Balteau, E., 
+Shaffii-Le, B.A., Luxen, A., Middleton, B., Archer, S.N., Phillips, C., Collette, F., 
+Vandewalle, G., Dijk, D.J., Maquet, P., 2016. Local modulation of human brain 
+responses by circadian rhythmicity and sleep debt. Science 353 (6300), 687–690.
+Y. Zhou et al.
+
+[page 10]
+Journal of Affective Disorders 378 (2025) 109–118
+118
+Oh, Y.H., Kim, H.J., Kong, M.H., Oh, B., Moon, J.H., 2019. Association between weekend 
+catch-up sleep and health-related quality of life of Korean adults. Medicine 98 (13).
+Oh, J., Kim, E., Huh, I., 2023. Associations between weekend catch-up sleep and health- 
+related quality of life with focusing on gender differences. Sci. Rep. 13 (1), 20280.
+Page, M.J., Mckenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., 
+Shamseer, L., Tetzlaff, J.M., Akl, E.A., Brennan, S.E., Chou, R., Glanville, J., 
+Grimshaw, J.M., Hrobjartsson, A., Lalu, M.M., Li, T., Loder, E.W., Mayo-Wilson, E., 
+Mcdonald, S., Mcguinness, L.A., Stewart, L.A., Thomas, J., Tricco, A.C., Welch, V.A., 
+Whiting, P., Moher, D., 2021. The PRISMA 2020 statement: an updated guideline for 
+reporting systematic reviews. J. Clin. Epidemiol. 134, 178–189.
+Park, J.H., Moon, J.H., Kim, H.J., Kong, M.H., Oh, B., Kim, S., Oh, Y.H., 2022. 
+Association between weekend catch-up sleep and the risk of depression among 
+Korean middle-aged adults. Sleep Biol. Rhythms 21 (1), 51–58.
+Piso, B., Nußbaumer-Streit, B., Gartlehner, G., 2024. WHO guidelines on mental health at 
+work. Gesundheitswesen 86 (3), 216–219.
+Salari, N., Hasheminezhad, R., Hosseinian-Far, A., Rasoulpoor, S., Assefi, M., Nankali, S., 
+Nankali, A., Mohammadi, M., 2023. Global prevalence of sleep disorders during 
+menopause: a meta-analysis. Sleep Breath. 27 (5), 1883–1897.
+Sato, K., Kuroda, S., Owan, H., 2020. Mental health effects of long work hours, night and 
+weekend work, and short rest periods. Soc. Sci. Med. 246, 112774.
+Son, S.M., Park, E.J., Cho, Y.H., Lee, S.Y., Choi, J.I., Lee, Y.I., Kim, Y.J., Lee, J.G., Yi, Y. 
+H., Tak, Y.J., Hwang, H.R., Lee, S.H., Kwon, R.J., Kim, C., 2020. Association between 
+weekend catch-up sleep and metabolic syndrome with sleep restriction in Korean 
+adults: a cross-sectional study using KNHANES. Diabetes Metab Syndr Obes 13, 
+1465–1471.
+Tonetti, L., Andreose, A., Bacaro, V., Grimaldi, M., Natale, V., Crocetti, E., 2022. 
+Different effects of social jetlag and weekend catch-up sleep on well-being of 
+adolescents according to the actual sleep duration. Int. J. Environ. Res. Public Health 
+20 (1), 574.
+Vrabec, A., Yuhas, M., Deyo, A., Kidwell, K., 2022. Social jet lag and eating styles in 
+young adults. Chronobiol. Int. 39 (9), 1277–1284.
+Wang, W., Du, X., Guo, Y., Li, W., Teopiz, K.M., Shi, J., Guo, L., Lu, C., Mcintyre, R.S., 
+2021. The associations between sleep situations and mental health among Chinese 
+adolescents: a longitudinal study. Sleep Med. 82, 71–77.
+WHO, 2023. Depressive disorder (depression). https://www.who.int/news-room/fact-sh 
+eets/detail/depression (accessed.2024/7/1). 
+Wittmann, M., Dinich, J., Merrow, M., Roenneberg, T., 2006. Social jetlag: misalignment 
+of biological and social time. Chronobiol. Int. 23 (1–2), 497–509.
+Yeo, H., Lee, J., Jeon, S., Hwang, Y., Kim, J., Lee, S., Kim, S.J., 2024. Moderating effect of 
+shift work on sleep and depression in individuals at high risk of bipolar disorder. 
+J. Affect. Disord. 359, 206–214.
+Yoshiike, T., Kawamura, A., Utsumi, T., Matsui, K., Kuriyama, K., 2023. A prospective 
+study of the association of weekend catch-up sleep and sleep duration with mortality 
+in middle-aged adults. Sleep Biol. Rhythms 21 (4), 409–418.
+Zeng, X., Zhang, Y., Kwong, J.S., Zhang, C., Li, S., Sun, F., Niu, Y., Du, L., 2015. The 
+methodological quality assessment tools for preclinical and clinical studies, 
+systematic review and meta-analysis, and clinical practice guideline: a systematic 
+review. J. Evid. Based Med. 8 (1), 2–10.
+Zhang, M.M., Ma, Y., Du, L.T., Wang, K., Li, Z., Zhu, W., Sun, Y.H., Lu, L., Bao, Y.P., Li, S. 
+X., 2022. Sleep disorders and non-sleep circadian disorders predict depression: a 
+systematic review and meta-analysis of longitudinal studies. Neurosci. Biobehav. 
+Rev. 134, 104532.
+Zhao, N., Lund, H.N., Jespersen, K.V., 2024. A systematic review and meta-analysis of 
+music interventions to improve sleep in adults with mental health problems. Eur 
+Psychiat 67 (1), e62.
+Zheng, Y., Bao, J., Tang, L., Chen, C., Guo, W., Li, K., Zhang, R., Wu, J., 2024. Association 
+between weekend catch-up sleep and depression of the United States population 
+from 2017 to 2018: a cross-sectional study. Sleep Med. 119, 9–16.
+Y. Zhou et al.

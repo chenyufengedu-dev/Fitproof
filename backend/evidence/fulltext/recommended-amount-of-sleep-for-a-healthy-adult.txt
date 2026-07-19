@@ -1,0 +1,145 @@
+
+
+[page 1]
+591
+Journal of Clinical Sleep Medicine, Vol. 11, No. 6, 2015
+Sleep is essential for optimal health. The American Academy 
+of Sleep Medicine (AASM) and Sleep Research Society (SRS) 
+developed a consensus recommendation for the amount 
+of sleep needed to promote optimal health in adults, using 
+a modifi ed RAND Appropriateness Method process. The 
+recommendation is summarized here. A manuscript detailing 
+the conference proceedings and evidence supporting the fi nal 
+recommendation statement will be published in SLEEP and 
+the Journal of Clinical Sleep Medicine.
+Citation: Watson NF, Badr MS, Belenky G, Bliwise DL, 
+Buxton OM, Buysse D, Dinges DF, Gangwisch J, Grandner 
+MA, Kushida C, Malhotra RK, Martin JL, Patel SR, Quan SF, 
+Tasali E. Recommended amount of sleep for a healthy adult: 
+a joint consensus statement of the American Academy of 
+Sleep Medicine and Sleep Research Society. J Clin Sleep 
+Med 2015;11(6):591–592.
+pii: jc-0X231-15
+http://dx.doi.org/10.5664/jcsm.4758 
+CONSENSUS STATEMENT
+• Adults should sleep 7 or more hours per night on a regular 
+basis to promote optimal health.
+• Sleeping less than 7 hours per night on a regular basis 
+is associated with adverse health outcomes, including 
+weight gain and obesity, diabetes, hypertension, heart 
+disease and stroke, depression, and increased risk of 
+death. Sleeping less than 7 hours per night is also asso-
+ciated with impaired immune function, increased pain, 
+impaired performance, increased errors, and greater 
+risk of accidents.
+• Sleeping more than 9 hours per night on a regular 
+basis may be appropriate for young adults, individu-
+als recovering from sleep debt, and individuals with 
+illnesses. For others, it is uncertain whether sleeping 
+more than 9 hours per night is associated with health 
+risk.
+• People concerned they are sleeping too little or too 
+much should consult their healthcare provider.
+Recommended Amount of Sleep for a Healthy Adult: A Joint 
+Consensus Statement of the American Academy of Sleep 
+Medicine and Sleep Research Society
+Consensus Conference Panel: Nathaniel F. Watson, MD, MSc, Moderator1; M. Safwan Badr, MD2; Gregory Belenky, MD3; 
+Donald L. Bliwise, PhD4; Orfeu M. Buxton, PhD5; Daniel Buysse, MD6; David F. Dinges, PhD7; James Gangwisch, PhD8; 
+Michael A. Grandner, PhD, MSTR, CBSM7; Clete Kushida, MD, PhD9; Raman K. Malhotra, MD10; Jennifer L. Martin, PhD11; 
+Sanjay R. Patel, MD, MSc12; Stuart F. Quan, MD12; Esra Tasali, MD13
+Non-Participating Observers: Michael Twery, PhD14,*; Janet B. Croft, PhD15,*; Elise Maher, RPSGT16,*
+American Academy of Sleep Medicine Staff: Jerome A. Barrett17; Sherene M. Thomas, PhD17; Jonathan L. Heald, MA17
+1University of Washington, Seattle, WA; 2Wayne State University, Detroit, MI; 3Washington State University, Spokane, WA; 
+4Emory University, Atlanta, GA; 5Pennsylvania State University, University Park, PA; 6University of Pittsburgh, Pittsburgh, PA; 
+7University of Pennsylvania, Philadelphia, PA; 8Columbia University, New York, NY; 9Stanford University, Stanford, CA; 10Saint 
+Louis University, St. Louis, MO; 11University of California, Los Angeles, Los Angeles, CA;12Harvard Medical School, Boston, 
+MA; 13The University of Chicago, Chicago, IL; 14National Heart, Lung, Blood Institute, NIH, Bethesda, MD; 15Centers for Disease 
+Control and Prevention, Atlanta, GA; 16Sleep Disorders Institute, New York, NY; 17American Academy of Sleep Medicine, Darien, 
+IL; *attendance by these individuals does not constitute endorsement of this statement by their afﬁ liated institutions or organizations
+METHODOLOGY
+Healthy sleep requires adequate duration, good quality, ap-
+propriate timing and regularity, and the absence of sleep dis-
+turbances or disorders. Sleep duration is the most frequently 
+investigated sleep measure in relation to health. Furthermore, 
+the US Department of Health and Human Services created a 
+Sleep Health Objective to “increase the proportion of adults 
+who get suffi cient sleep” in Healthy People 2020, a federal ini-
+tiative to improve the nation’s health.1 Thus our recommenda-
+tion focuses on this sleep parameter. A panel of 15 experts in 
+sleep medicine and research used a modifi ed RAND Appropri-
+ateness Method2 to develop a recommendation regarding the 
+sleep duration, or sleep duration range, that promotes optimal 
+health in adults aged 18 to 60 years.
+The expert panel reviewed published scientifi c evidence ad-
+dressing the relationship between sleep duration and health, 
+using a broad set of National Library of Medicine Medi-
+cal Subject Headings (MeSH) terms and no date restrictions, 
+which resulted in a total of 5,314 scientifi c articles. The process 
+CONSENSUS STATEMENT
+
+[page 2]
+592
+Journal of Clinical Sleep Medicine, Vol. 11, No. 6, 2015
+NF Watson, MS Badr, G Belenky et al.
+was further guided by the Oxford grading system.3 The panel 
+focused on nine health categories with the best available evi-
+dence in relation to sleep duration: general health, cardiovas-
+cular health, metabolic health, mental health, immunologic 
+function, human performance, cancer, pain, and mortality. 
+Consistent with the RAND Appropriateness Method, multiple 
+rounds of evidence review, discussion, and voting were con-
+ducted to arrive at the final recommendation. The process to 
+develop this statement was conducted over a 12-month period 
+and concluded with a consensus meeting held in February 2015 
+in Chicago, Illinois.
+DISCUSSION & FUTURE DIRECTIONS
+Current evidence supports the general recommendation for 
+obtaining 7 or more hours of sleep per night on a regular basis 
+to promote optimal health among adults aged 18 to 60 years. 
+Individual variability in sleep need is influenced by genetic, 
+behavioral, medical, and environmental factors. A clearer un-
+derstanding of the precise biological mechanisms underlying 
+sleep need continues to require further scientific investigation.
+This recommendation creates a foundation to raise aware-
+ness and improve understanding of sleep effects on health. The 
+recommendation provides a basis for:
+•	 Educating the public and healthcare providers on the im-
+portance of adequate sleep duration for health.
+•	 Encouraging individuals to obtain adequate sleep duration.
+•	 Discussing the economic and social benefits of adequate 
+sleep duration, thereby informing public policy.
+•	 Promoting research on the role of sleep duration in health 
+and well-being.
+Research that directly examines the effects of sleep dura-
+tion on health may lead to revisions of this recommendation 
+in the future.
+NOTES
+This consensus statement was previously published in Vol-
+ume 38, Number 6 of the journal SLEEP.4 In the interest of the 
+widest dissemination possible, the editors and publishers of the 
+journals SLEEP and Journal of Clinical Sleep Medicine have 
+agreed to allow for its dual publication.
+REFERENCES
+1.	 US Department of Health and Human Services. Sleep Health Objectives. 
+March 6, 2015. Available from: https://www.healthypeople.gov/2020/topics-
+objectives/topic/sleep-health/objectives.
+2.	 Fitch K, Bernstein SJ, Aguilar MD, et al. The RAND/UCLA Appropriateness 
+Method User’s Manual. Santa Monica, CA: RAND, 2001.
+3.	 OCEBM Levels of Evidence Working Group. The Oxford Levels of Evidence 
+2. [cited February 9, 2015]. Available from: http://www.cebm.net/wp-content/
+uploads/2014/06/CEBM-Levels-of-Evidence-2.1.pdf.
+4.	 Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a 
+healthy adult: a joint consensus statement of the American Academy of Sleep 
+Medicine and Sleep Research Society. Sleep 2015;38:843–4.
+SUBMISSION & CORRESPONDENCE INFORMATION
+Submitted for publication April, 2015
+Accepted for publication April, 2015
+Address correspondence to: Nathaniel F. Watson, MD, MSc; 2510 N. Frontage Road, 
+Darien, IL 60561; Tel: (630) 737-9700; Fax: (630) 737-9790; Email: research@
+aasmnet.org.
+DISCLOSURE STATEMENT
+Funding for this project was provided by the American Academy of Sleep 
+Medicine and Sleep Research Society, and by the cooperative agreement number 
+1U50DP004930-01 from the Centers for Disease Control and Prevention (CDC). Its 
+contents are solely the responsibility of the authors and do not necessarily repre-
+sent the official views of the CDC.

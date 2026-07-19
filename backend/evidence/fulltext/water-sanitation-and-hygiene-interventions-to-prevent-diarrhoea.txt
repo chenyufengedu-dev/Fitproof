@@ -1,0 +1,196 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Water, sanitation and
+hygiene interventions
+to prevent diarrhoea
+Intervention | Last updated: 9 August 2023
+Diarrhoea remains a leading cause of death globally among children under five years of
+age. Diarrhoea contributes to nutritional deficiencies, reduced resistance to infections
+and impaired growth and development. Severe diarrhoea leads to fluid loss, and may
+be life-threatening, particularly in young children and people who are already
+malnourished or have impaired immunity.
+Diarrhoea mostly results from lack of safe drinking-water, adequate sanitation and
+hygiene. A number of interventions are effective in preventing diarrhoeal diseases,
+thereby positively impacting the nutritional status of those most vulnerable. These are:
+
+[page 2]
+Access to safe drinking water (e.g. water safety planning (the management of water
+from the source to tap); household water treatment and safe storage)
+Access to improved sanitation facilities
+Hand washing with soap at critical times (e.g. after toilet use and before the
+preparation of food)
+Hygiene promotion, along with access to safe drinking water and adequate sanitation
+should be accessible by all.
+WHO Recommendations
+Guidance information can be found in the guidelines and guidance documents below.
+Learn More 
+Guidelines and guidance documents
+Guidelines on sanitation and health
+Guidelines for drinking-water quality, 4th edition
+GRC-approved guidelines
+Other guidance documents
+
+[page 3]
+Water safety plan manual (WSP manual): Step-by-step risk
+management for drinking-water suppliers (1st edition)
+Evidence
+Systematic reviews used to develop the guidelines
+Hand washing promotion for preventing diarrhoea
+Ejemot-Nwadiaro RI, Ehiri JE, Arikpo D, Meremikwu MM, Critchley JA. Cochrane Database of Systematic
+Reviews. 2015; Issue 9. Art. No.: CD004265.
+Summary of this review 
+Exploring the relationship between sanitation and mental and social well-being: A systematic
+review and qualitative synthesis
+Sclar GD, Penakalapati G, Caruso BA, Rehfuess EA, Garn JV, Alexander KT, et al. Soc Sci Med. 2018;217:121-
+134.
+The Impact of Water, Sanitation, and Hygiene Interventions on the Health and WellBeing of
+People Living With HIV: A Systematic Review
+Yates T, Lantagne D, Mintz E, Quick R. J Acquir Immune Defic Syndr. 2015;68 Suppl 3:S318-30.
+Effect of sanitation and water treatment on intestinal protozoa infection: a systematic review
+and meta-analysis
+Speich B, Croll D, Fürst T, Utzinger J, Keiser J. Lancet Infect Dis. 2016;16(1):87-99.
+Effects of sanitation on cognitive development and school absence: A systematic review
+Sclar GD, Garn JV, Penakalapati G, Alexander KT, Krauss J, Freeman MC, et al. Int J Hyg Environ Health.
+2017;220(6):917-927.
+Assessing the impact of sanitation on indicators of faecal exposure along principal
+transmission pathways: A systematic review
+
+[page 4]
+Sclar GD, Penakalapati G, Amato HK, Garn JV, Alexander K, Freeman MC, et al. Int J Hyg Environ Health.
+2016;219(8):709-723.
+Community-Led Total Sanitation: A Mixed-Methods Systematic Review of Evidence and Its
+Quality
+Venkataramanan V, Crocker J, Karon A, Bartram J. Environ Health Perspect. 2018;126(2):026001.
+Unsafe return of human excreta to the environment: A literature review
+Williams AR, Overbo A. Chapel Hill: The Water Institute at UNC, Chapel Hill; 2015.
+The impact of sanitation interventions on latrine coverage and latrine use: A systematic
+review and metaanalysis
+Garn JV, Sclar GD, Freeman MC, Penakalapati G, Alexander KT, Brooks P, et al. Int J Hyg Environ Health.
+2017;220(2 Pt B):329-340.
+The impact of sanitation on infectious disease and nutritional status: A systematic review and
+meta-analysis
+Freeman MC, Garn JV, Sclar GD, Boisson S, Medlicott K, Alexander KT, et al. Int J Hyg Environ Health.
+2017;220(6):928-949.
+Interventions to improve disposal of child faeces for preventing diarrhoea and soil‐
+transmitted helminth infection (protocol)
+Majorin F, Torondel B, Ka Seen Chan G, Clasen TF. Cochrane Database of Systematic Reviews. 2014; Issue 4.
+Art. No.: CD011055.
+What factors affect sustained adoption of safe water, hygiene and sanitation technologies? A
+systematic review of literature
+Hulland K, Martin N, Dreibelbis R, DeBruicker Valliant J, Winch P. London: EPPI-Centre, Social Science
+Research Unit, UCL Institute of Education, University College London; 2015.
+Related Cochrane reviews
+Interventions to improve water quality for preventing diarrhoea
+Clasen TF, Alexander KT, Sinclair D, Boisson S, Peletz R, Chang HH, et al. Cochrane Database of Systematic
+Reviews 2015, Issue 10. Art. No.: CD004794.
+Summary of this review
+
+[page 5]
+Interventions to improve water quality and supply, sanitation and hygiene practices, and their
+effects on the nutritional status of children
+Dangour AD, Watson L, Cumming O, Boisson S, Che Y, Velleman Y, et al. Cochrane Database of Systematic
+Reviews. 2013; Issue 8. Art. No.: CD009382.
+Summary of this review 
+Other related systematic reviews
+Effectiveness and sustainability of water, sanitation, and hygiene interventions in combating
+diarrhoea
+Waddington H & Snilstveit B. Journal of Development Effectiveness. 2009; Vol.1 No3:295-335.
+Impact of drinking water, sanitation and handwashing with soap on childhood diarrhoeal
+disease: updated meta‐analysis and meta‐regression
+Wolf J, Hunter PR, Freeman MC, Cumming O, Clasen T, Bartram J, et al. Trop Med Int Health.
+2018;23(5):508-525.
+Water, sanitation and hygiene for the prevention of diarrhoea
+Cairncross S, Hunt C, Boisson S, Bostoen K, Curtis V, Fung ICH and Schmidt WP. International Journal of
+Epidemiology. 2010; 39 suppl 1:i193-i205.
+Interventions to improve water quality for preventing diarrhoea: systematic review and meta-
+analysis
+Clasen T, Schmidt WP, Rabie T, Roberts I, Cairncross S. BMJ. 2007; 334(7597):782.
+Effect of hand hygiene on infectious disease risk in the community setting: a meta-analysis
+Aiello AE, Coulborn RM, Perez V, and Larson EL. American Journal of Public Health. 2008; 98(8):1372–1381.
+Water, sanitation, and hygiene interventions to reduce diarrhoea in less developed countries:
+a systematic review and meta-analysis
+Fewtrell l, Kaufmann RB, Kay D, Enanoria W, Haller L, Colford JM Jr . The Lancet Infectious Diseases. 2005;
+Vol5, Issue1:42-52.
+Learn More 
+Cost-effectiveness
+Systematic reviews
+
+[page 6]
+The impact of water, sanitation, and hygiene interventions on the health and well-being of
+people living with HIV: a systematic review
+Yates T, Lantagne D, Mintz E, Quick R. J Acquir Immune Defic Syndr. 2015; 68 Suppl 3:S318-30.
+Cost-effectiveness analyses
+Cost-effectiveness of oral cholera vaccine in a stable refugee population at risk for epidemic
+cholera and in a population with endemic cholera
+Murray J, McFarland DA, Waldman RJ. Bull World Health Organ. 1998; 76(4):343-52.
+The cost-effectiveness of forty health interventions in Guinea
+Jha P, Bangoura O, Ranson K. Health Policy Plan. 1998; 13(3):249-62.
+Cost-benefit comparisons of investments in improved water supply and cholera vaccination
+programs
+Jeuland M, Whittington D. Vaccine. 2009; 27(23):3109-20.
+Provision of bednets and water filters to delay HIV-1 progression: cost-effectiveness analysis
+of a Kenyan multisite study
+Kern E, Verguet S, Yuhas K, Odhiambo FH, Kahn JG, Walson J. Trop Med Int Health. 2013; 18(8):916-24.
+Cost-effectiveness of water quality interventions for preventing diarrhoeal disease in
+developing countries
+Clasen T, Haller L, Walker D, Bartram J, Cairncross S. J Water Health. 2007; 5(4):599-608.
+A reassessment of the cost-effectiveness of water and sanitation interventions in programmes
+for controlling childhood diarrhoea
+Varley RC, Tarvid J, Chao DN. Bull World Health Organ. 1998; 76(6):617-31.
+Integrated HIV testing, malaria, and diarrhea prevention campaign in Kenya: modeled health
+impact and cost-effectiveness
+Kahn JG, Muraguri N, Harris B, Lugada E, Clasen T, Grabowsky M, et al. PLoS One. 2012; 7(2):e31316.
+Cost-effectiveness and benefit–cost analyses of some water interventions in Nigeria: the case
+of Bauchi State
+
+[page 7]
+Uneze E, Tajudeen I, Iweala O. Cost-effectiveness and benefit–cost analyses of some water interventions in
+Nigeria: the case of Bauchi State. Journal of Development Effectiveness. 2012; 4(4):497-514.
+Saving a Life-Year and Reaching MDG 4 with Investments in Water and Sanitation: A Cost-
+Effective Policy?
+Günther I, Fink G. Eur J Dev Res. 2013; 25(1):129–153.
+Cost-effectiveness of home-based chlorination and safe water storage in reducing diarrhea
+among HIV-affected households in rural Uganda
+Shrestha RK, Marseille E, Kahn JG, Lule JR, Pitter C, Blandford JM, et al. Am J Trop Med Hyg. 2006; 74(5):884-
+90.
+Is hygiene promotion cost-effective? A case study in Burkina Faso
+Borghi J, Guinness L, Ouedraogo J, Curtis V. Trop Med Int Health. 2002; 7(11):960-9.
+Global costs and benefits of reaching universal coverage of sanitation and drinking-water
+supply
+Hutton G. J Water Health. 2013; 11(1):1-12.
+Systematic review(s) have been
+conducted but no recent guidelines yet
+available that have been approved by
+the WHO Guidelines Review Committee
+Learn More 
+Water, sanitation and hygiene
+interventions and the prevention of
+diarrhoea
+Category 2 intervention
+Biological, behavioural and contextual
+rationale
+
+[page 8]
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+Report misconduct
+Privacy policy
+© 2026 WHO

@@ -1,0 +1,266 @@
+[
+  {
+    "caseId": "FP-C-001",
+    "sourceType": "official",
+    "publisher": {
+      "displayName": "FitProof 官方精选",
+      "badge": "已审核"
+    },
+    "title": "孕妇吃鸡蛋，到底要不要丢掉蛋黄？",
+    "topic": "孕妇能不能吃蛋黄",
+    "categoryIds": ["孕期", "饮食"],
+    "publishTime": "2026-07-17",
+    "video": {
+      "coverLabel": "鸡蛋与孕期营养",
+      "duration": 75,
+      "sourceName": "营养科普样例",
+      "timepoints": [12, 26, 43, 62],
+      "keyframes": [
+        {
+          "time": 12,
+          "screenText": "视频在这里提出“孕妇每天吃一个鸡蛋不用扔蛋黄”的核心说法。"
+        },
+        {
+          "time": 26,
+          "screenText": "视频在这里讨论蛋黄、胆固醇与血脂风险之间的关系。"
+        },
+        {
+          "time": 43,
+          "screenText": "视频在这里提到孕中晚期可适当增加鱼、禽、蛋、瘦肉等优质蛋白。"
+        },
+        {
+          "time": 62,
+          "screenText": "视频在这里把鸡蛋与其他蛋白质来源的关系做了进一步表达。"
+        }
+      ]
+    },
+    "originalClaim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+    "signal": "较公认",
+    "verdict": {
+      "type": "credible",
+      "label": "基本可信",
+      "summary": "一般孕妇不必因为胆固醇担忧而主动丢弃蛋黄，重点是适量和食物多样化。"
+    },
+    "risk": {
+      "level": "low",
+      "label": "低风险"
+    },
+    "correctedExpression": "孕妇可以把鸡蛋作为优质蛋白来源，一般不必丢弃蛋黄；但仍应结合鱼、禽、肉、奶、豆等多样化食物，而不是只靠鸡蛋。",
+    "evidence": [
+      {
+        "id": "E-中国居民膳食指南-202-128",
+        "level": "guideline",
+        "sourceTitle": "中国居民膳食指南（2022）",
+        "organization": "中国营养学会",
+        "year": "2022",
+        "summary": "吃鸡蛋不应丢弃蛋黄，蛋黄富含磷脂和胆碱，对健康有益。",
+        "chapter": "准则四：适量吃鱼、禽、蛋、瘦肉",
+        "page": "90-92",
+        "officialUrl": "http://dg.cnsoc.org/imgnewslist_0602_1.htm"
+      },
+      {
+        "id": "E-中国居民膳食指南-202-344",
+        "level": "guideline",
+        "sourceTitle": "中国居民膳食指南（2022）",
+        "organization": "中国营养学会",
+        "year": "2022",
+        "summary": "孕中晚期应适当增加奶、鱼、禽、蛋、瘦肉等食物摄入，并结合孕期阶段安排整体膳食。",
+        "chapter": "孕期需摄入多少奶、鱼、禽、蛋、瘦肉",
+        "page": "176-178",
+        "officialUrl": "http://dg.cnsoc.org/imgnewslist_0602_1.htm"
+      }
+    ],
+    "analysisSnapshot": {
+      "snapshotId": "SNAP-FP-C-001",
+      "claimCount": 4,
+      "reviewedAt": "2026-07-17",
+      "evidenceVersion": "FitProof Evidence 2026.07",
+      "reviewStatus": "approved"
+    },
+    "claims": [
+      {
+        "claim": "孕妇每天吃一个鸡蛋不用扔蛋黄",
+        "time": "00:12",
+        "signal": "较公认",
+        "verdict": "基本可信",
+        "risk": "低风险",
+        "correction": "一般孕妇可以吃完整鸡蛋，不必主动丢弃蛋黄，同时要保持食物来源多样化。"
+      },
+      {
+        "claim": "蛋黄里的胆固醇会直接让血脂升高，所以孕妇最好别吃",
+        "time": "00:26",
+        "signal": "疑似夸大",
+        "verdict": "需要加条件",
+        "risk": "中风险",
+        "correction": "不能把蛋黄和血脂风险直接画等号；已有血脂异常或慢性病的人群需要结合整体饮食和专业建议。"
+      },
+      {
+        "claim": "孕中晚期需要适当增加鱼、禽、蛋、瘦肉等优质蛋白",
+        "time": "00:43",
+        "signal": "较公认",
+        "verdict": "可信",
+        "risk": "低风险",
+        "correction": "方向符合膳食指南，但具体摄入应结合孕期阶段和整体饮食安排。"
+      },
+      {
+        "claim": "只要吃够鸡蛋，孕期就不用管其他蛋白质来源",
+        "time": "01:02",
+        "signal": "有条件",
+        "verdict": "不建议采纳",
+        "risk": "中风险",
+        "correction": "鸡蛋只是优质蛋白来源之一，不能替代奶、鱼、禽、肉、豆等多类食物。"
+      }
+    ],
+    "discussion": [
+      {
+        "role": "FitProof 编辑补充",
+        "content": "鸡蛋是孕期优质蛋白来源之一，判断重点不是单一食物的好坏，而是食物安全、摄入量与整体膳食结构。",
+        "evidenceIds": ["E-中国居民膳食指南-2022-344"]
+      },
+      {
+        "role": "官方说明",
+        "content": "本案例适用于一般健康孕妇；存在血脂异常、过敏或其他特殊情况时，应结合专业医疗建议。",
+        "evidenceIds": ["E-中国居民膳食指南-2022-128", "E-中国居民膳食指南-2022-344"]
+      }
+    ],
+    "allowComments": false
+  },
+  {
+    "caseId": "FP-C-002",
+    "sourceType": "official",
+    "publisher": {
+      "displayName": "FitProof 官方精选",
+      "badge": "已审核"
+    },
+    "title": "怀孕到底能不能吃螃蟹？关键是这点，就能安心解馋啦~",
+    "topic": "孕妇能不能吃螃蟹",
+    "categoryIds": ["孕期", "饮食"],
+    "publishTime": "2026-07-18",
+    "video": {
+      "coverLabel": "螃蟹与孕期饮食",
+      "coverEmoji": "🦀",
+      "duration": 58,
+      "sourceName": "段涛医生",
+      "timepoints": [17, 20, 40, 48],
+      "keyframes": [
+        {
+          "time": 17,
+          "screenText": "视频在这里提到有人螃蟹吃多后胃会不舒服，属于个体反应提醒。"
+        },
+        {
+          "time": 20,
+          "screenText": "视频在这里表达“孕妇可以吃螃蟹”，包括海蟹和大闸蟹。"
+        },
+        {
+          "time": 40,
+          "screenText": "视频在这里讨论大闸蟹内脏包、蟹胃肠道等部位是否需要剔除。"
+        },
+        {
+          "time": 48,
+          "screenText": "视频在这里提醒不要一次吃太多螃蟹，以免身体不适。"
+        }
+      ]
+    },
+    "originalClaim": "孕妇可以吃螃蟹，无论是海里面的蟹还是大闸蟹。",
+    "signal": "有条件",
+    "verdict": {
+      "type": "conditional",
+      "label": "有条件成立",
+      "summary": "孕期并非绝对不能吃螃蟹；更稳妥的前提是充分煮熟、来源可靠、适量，并避开生或未熟海鲜以及个人过敏或明显不适情况。"
+    },
+    "risk": {
+      "level": "medium",
+      "label": "中风险"
+    },
+    "correctedExpression": "一般孕妇可以把充分煮熟、来源可靠的螃蟹作为海产品选择之一，但不宜把“能吃”理解为可以随意多吃；若对甲壳类过敏、吃后明显胃肠不适，或食材不新鲜、未熟，应避免食用。",
+    "evidence": [
+      {
+        "id": "E-FDA-EPA-FISH-PREGNANCY-2021-CRAB",
+        "level": "guideline",
+        "sourceTitle": "FDA/EPA Advice about Eating Fish",
+        "organization": "U.S. Food and Drug Administration / Environmental Protection Agency",
+        "year": "2021",
+        "summary": "FDA/EPA 建议孕期或哺乳期每周选择 2-3 份低汞鱼类/海产品；螃蟹被列为 Best Choices。",
+        "chapter": "Advice About Eating Fish - Choices Table",
+        "page": "Best Choices",
+        "officialUrl": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "id": "E-NHS-FISH-SHELLFISH-PREGNANCY-2026",
+        "level": "guideline",
+        "sourceTitle": "NHS Fish and shellfish",
+        "organization": "NHS",
+        "year": "2026",
+        "summary": "NHS 提醒孕期可通过避免生贝类、确保贝类和熏鱼充分煮熟来降低食物中毒风险；并提示褐蟹肉含镉，不宜摄入过多。",
+        "chapter": "Eating fish while trying to get pregnant, and during pregnancy and breastfeeding",
+        "page": "Fish and shellfish",
+        "officialUrl": "https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/"
+      },
+      {
+        "id": "E-ACOG-LISTERIA-PREGNANCY-FOOD-SAFETY",
+        "level": "guideline",
+        "sourceTitle": "ACOG Listeria and Pregnancy",
+        "organization": "American College of Obstetricians and Gynecologists",
+        "year": "2026",
+        "summary": "ACOG 建议孕期避免所有生或未充分烹调的海鲜、蛋、肉和禽类；烹调和巴氏消毒是杀灭李斯特菌的重要方式。",
+        "chapter": "Food safety guidelines",
+        "page": "Listeria and Pregnancy",
+        "officialUrl": "https://www.acog.org/womens-health/faqs/listeria-and-pregnancy"
+      }
+    ],
+    "analysisSnapshot": {
+      "snapshotId": "SNAP-FP-C-002",
+      "claimCount": 4,
+      "reviewedAt": "2026-07-18",
+      "evidenceVersion": "FitProof Evidence + FDA/NHS/ACOG 2026.07",
+      "reviewStatus": "approved"
+    },
+    "claims": [
+      {
+        "claim": "有人螃蟹吃多了胃会受不了。",
+        "time": "00:17",
+        "signal": "较公认",
+        "verdict": "基本可信",
+        "risk": "低风险",
+        "correction": "部分人吃螃蟹后胃肠不适可能与个体耐受、过敏、食材新鲜度或一次摄入量有关；如果吃后明显不舒服，应减少或避免。"
+      },
+      {
+        "claim": "孕妇可以吃螃蟹，无论是海里面的蟹还是大闸蟹。",
+        "time": "00:20",
+        "signal": "有条件",
+        "verdict": "有条件成立",
+        "risk": "中风险",
+        "correction": "孕期不是绝对不能吃螃蟹；前提是充分煮熟、来源可靠、适量，并避免生或未熟海鲜。"
+      },
+      {
+        "claim": "大闸蟹的内脏包、蟹胃肠道如果能剔除掉，大闸蟹吃起来没问题。",
+        "time": "00:40",
+        "signal": "有争议",
+        "verdict": "需要加条件",
+        "risk": "中风险",
+        "correction": "剔除蟹内脏可以降低部分卫生和污染物风险，但不能替代充分加热、食材新鲜和适量食用；“剔除后就完全没问题”的表达过于绝对。"
+      },
+      {
+        "claim": "不要吃太多螃蟹，蛋白质吃太多可能会给身体带来不适。",
+        "time": "00:48",
+        "signal": "较公认",
+        "verdict": "基本可信",
+        "risk": "低风险",
+        "correction": "不建议一次大量食用螃蟹；孕期海产品应作为整体均衡饮食的一部分，注意种类、份量、烹调安全和个人耐受。"
+      }
+    ],
+    "discussion": [
+      {
+        "role": "FitProof 编辑补充",
+        "content": "这条视频的核心不是“孕妇绝对能吃或绝对不能吃螃蟹”，而是把条件说清楚：充分煮熟、来源可靠、适量，并避开生或未熟海鲜。",
+        "evidenceIds": ["E-NHS-FISH-SHELLFISH-PREGNANCY-2026", "E-ACOG-LISTERIA-PREGNANCY-FOOD-SAFETY"]
+      },
+      {
+        "role": "官方说明",
+        "content": "螃蟹在 FDA/EPA 孕期海产品建议中属于低汞 Best Choices，但这不等于可以不看新鲜度、烹调方式和个人过敏或胃肠反应。",
+        "evidenceIds": ["E-FDA-EPA-FISH-PREGNANCY-2021-CRAB", "E-NHS-FISH-SHELLFISH-PREGNANCY-2026"]
+      }
+    ],
+    "allowComments": false
+  }
+]

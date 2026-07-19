@@ -1,0 +1,409 @@
+
+
+[page 1]
+U.S. Department of Health and Human Services
+National Institutes of Health
+NCCIH Clinical Digest
+An official website of the United States government Here’s how you know
+
+[page 2]
+for health professionals
+Dietary Supplements for Eye
+Conditions: What the Science Says
+July 2024
+Clinical Guidelines, Scientific Literature, Info for Patients:
+
+[page 3]
+Dietary Supplements for Eye Conditions
+Age-Related Macular
+Degeneration (AMD)
+Many people turn to dietary
+supplements to prevent or slow the
+progression of certain eye
+diseases, such as age-related
+macular degeneration (AMD),
+cataract, dry eye disease, and
+glaucoma. There is evidence that a
+combination of vitamins E and C, beta-carotene, and zinc (known as
+the AREDS formulation) may reduce the risk of developing advanced
+AMD. There is also some limited evidence that for less well-nourished
+populations, the carotenoids lutein/zeaxanthin may be associated with
+a reduction in progression to cataract surgery; however, whether
+supplementation would be beneficial for this population requires
+further study. Current data do not support dietary supplementation
+with vitamins A, C, and E for glaucoma or the use of cannabinoids for
+glaucoma treatment. 
+What Does the Research Show?
+The available data on efficacy of dietary supplements for delaying the
+progression of or reducing the risk of developing AMD consist of
+several randomized controlled trials and systematic reviews.
+A 2023 Cochrane review of 26 studies conducted in the United
+States, Europe, China, and Australia and involving a total of
+11,952 people aged 65 to 75 years found moderate-certainty
+evidence suggesting that antioxidant vitamin and mineral
+supplementation (AREDS: vitamin C, E, beta-carotene, and
+zinc) probably slows progression to late AMD. The reviewers
+noted that people with intermediate AMD have a higher chance of
+benefiting from antioxidant supplements because their risk of
+progression is higher than people with early AMD. Although low-
+certainty evidence suggested little effect with lutein/zeaxanthin
+alone compared with placebo, subgroup analyses from a single
+large American study suggests that lutein/zeaxanthin may be a
+suitable replacement for the beta-carotene used in the original
+AREDS formula.
+
+[page 4]
+A 2022 multicenter epidemiologic follow-up study of the AREDS2
+clinical trial involving 3,882 participants found that
+lutein/zeaxanthin was a suitable replacement for beta carotene in
+AREDS2 supplements. Beta carotene usage nearly doubled the
+risk of lung cancer in those who were current smokers, and former
+smokers had higher rates of developing of lung cancer than
+nonsmokers; however, there was no statistically significant
+increased risk with lutein/zeaxanthin When compared with beta
+carotene, lutein/zeaxanthin had a potential beneficial association
+with late AMD progression. 
+A 2012 randomized controlled trial of 14,236 male physicians
+aged 50 years and older concluded that long-term (8 years) use of
+vitamin E and/or vitamin C has no appreciable beneficial or
+harmful effect on risk of incident diagnosis of AMD.
+A 2013 Cochrane review of two small randomized controlled trials
+involving a total of 119 participants concluded that current
+available research has not yet answered the question as to
+whether Ginkgo biloba supplements benefit people with AMD.
+A 2021 post hoc analysis of two controlled clinical trial cohorts—
+Age-Related Eye Disease Study (AREDS) and AREDS2—involving
+a total of 14,135 eyes, found that higher dietary intake of multiple
+nutrients, including minerals, vitamins, and carotenoids, is
+associated with decreased risk of progression to late AMD.  
+A 2015 Cochrane systematic review of two randomized controlled
+trials involving 2,343 participants found that omega-3 fatty acid
+supplementation in people with AMD for periods up to 5 years
+does not reduce the risk of progression to advanced AMD or the
+development of moderate-to-severe visual loss.
+A 2021 review found that there are some data from experimental
+studies in animals that Fructus lycii (F. lycii), a “berry-type” fruit of
+the plant Lycium barbarum, may show promise in preventing or
+delaying the onset of retinal diseases such as AMD. However, the
+reviewers noted that there is a paucity of data from human trials
+and that there are a number of concerns that need to be
+addressed before F. lycii establishes its place in the clinical
+management of retinal diseases. 
+Safety
+Vitamin C has low toxicity and is not believed to cause serious
+adverse effects at high intakes. The most common complaints are
+diarrhea, nausea, abdominal cramps, and other gastrointestinal
+
+[page 5]
+disturbances due to the osmotic effect of unabsorbed vitamin C in
+the gastrointestinal tract.
+Research has not found any adverse effects from consuming
+vitamin E in food. However, high doses of alpha-tocopherol
+supplements can cause hemorrhage and interrupt blood
+coagulation in animals, and in vitro data suggest that high doses
+inhibit platelet aggregation. Two meta-analyses of randomized
+trials have also raised questions about the safety of large doses of
+vitamin E, including doses lower than the Tolerable Upper Intake
+Level (UL). These meta-analyses linked supplementation to small
+but statistically significant increases in all-cause mortality. Results
+from the large SELECT trial show that vitamin E supplements (400
+IU/day) may harm adult men in the general population by
+increasing their risk of prostate cancer.
+Use of beta-carotene has been linked to an increased risk of lung
+cancer in current and former smokers. In nonsmokers, however,
+large amounts of beta-carotene and other provitamin A
+carotenoids are not associated with major adverse effects. Even
+large supplemental doses (20–30 mg/day) of beta-carotene or
+diets with high levels of carotenoid-rich food for long periods are
+not associated with toxicity. The most significant effect of long-
+term, excess beta-carotene is carotenodermia, a harmless
+condition in which the skin becomes yellow-orange. Lutein and
+zeaxanthin appear to be safe regardless of smoking status.
+For many healthy adults, Ginkgo biloba appears to be safe when
+taken orally in moderate amounts. Adverse effects may include
+headache, gastrointestinal upset, and allergic skin reactions. In a
+2013 study, rodents given ginkgo had an increased risk of
+developing liver and thyroid cancer at the end of the 2-year tests.
+Raw or roasted ginkgo seeds can be poisonous.
+Omega-3 fatty acid supplements usually do not have adverse
+effects. When side effects do occur, they typically consist of minor
+gastrointestinal symptoms. 
+F. lycii is generally considered to be a safe supplement when
+taken in the appropriate dosage. Allergic reactions to F. lycii are
+rare; however, a few cases have been reported with symptoms
+such as generalized urticaria, toxic hepatitis, and a rare life-
+threatening anaphylactic reaction.
+Cataract
+In the Age-Related Eye Disease Studies (AREDS and AREDS2), neither
+
+[page 6]
+omega-3 fatty acids nor lutein/zeaxanthin, when added to the original
+AREDS formulation (vitamins E and C, beta-carotene, and zinc), had
+any overall effect on the need for cataract surgery. However, when the
+participants were ranked into five equal-sized groups according to
+their dietary lutein/zeaxanthin intake, supplementation with
+lutein/zeaxanthin appeared to make a difference for the group with the
+lowest dietary levels. Within that group, lutein/zeaxanthin was
+associated with a 32 percent reduction in progression to cataract
+surgery.
+Although there are some data from observational research that dietary
+vitamin B12 supplements may slow or prevent cataract development,
+no dietary supplements have been recommended for the treatment of
+cataracts.
+What Does the Research Show?
+The available data on efficacy of dietary supplements for preventing or
+slowing the progression of cataracts consist of several randomized
+controlled trials, observational studies, and systematic reviews.
+A 2012 Cochrane review of 9 randomized controlled trials
+involving 117,272 participants aged 35 years or older found no
+evidence that antioxidant vitamin supplementation (vitamin C,
+vitamin E, or beta-carotene) reduced the risk of cataract, cataract
+extraction, or cataract progression or slowed the loss of visual
+acuity.
+A 2013 randomized controlled trial (Age-Related Eye Disease
+Study—AREDS2) of 3,159 participants found that daily
+supplementation with lutein/zeaxanthin had no statistically
+significant overall effect on rates of cataract surgery or vision loss.
+Findings from 2015 observational data (Age-Related Eye Disease
+Study—AREDS) of 3,159 participants examining the association
+of dietary lutein plus zeaxanthin and B12 vitamins with cataracts
+suggest that dietary intake of B12 vitamins may affect the
+occurrence of age-related lens opacities. Specifically, the study
+showed increased dietary riboflavin and B12 were associated with
+less nuclear and cortical lens opacities.
+Findings from a 2015 randomized controlled trial of 11,267 men
+from the Selenium and Vitamin E Cancer Prevention Trial
+(SELECT) Eye Endpoints Study indicate that long-term daily
+supplementation with selenium and/or vitamin E is unlikely to have
+a large beneficial effect on age-related cataract.
+
+[page 7]
+A 2020 review concluded that in general, clinical trials have not
+been able to show convincing therapeutic effects of vitamin C
+supplementation on cataract incidence, except in those cases in
+which individuals may have had low vitamin C levels at the start of
+the trial.
+Safety
+Vitamin C has low toxicity and is not believed to cause serious
+adverse effects at high intakes. The most common complaints are
+diarrhea, nausea, abdominal cramps, and other gastrointestinal
+disturbances due to the osmotic effect of unabsorbed vitamin C in
+the gastrointestinal tract.
+Research has not found any adverse effects from consuming
+vitamin E in food. However, high doses of alpha-tocopherol
+supplements can cause hemorrhage and interrupt blood
+coagulation in animals, and in vitro data suggest that high doses
+inhibit platelet aggregation. Two meta-analyses of randomized
+trials have also raised questions about the safety of large doses of
+vitamin E, including doses lower than the Tolerable Upper Intake
+Level (UL). These meta-analyses linked supplementation to small
+but statistically significant increases in all-cause mortality. Results
+from the large SELECT trial show that vitamin E supplements (400
+IU/day) may harm adult men in the general population by
+increasing their risk of prostate cancer.
+Use of beta-carotene has been linked to an increased risk of lung
+cancer in current and former smokers. In nonsmokers, however,
+large amounts of beta-carotene and other provitamin A
+carotenoids are not associated with major adverse effects. Even
+large supplemental doses (20–30 mg/day) of beta-carotene or
+diets with high levels of carotenoid-rich food for long periods are
+not associated with toxicity. The most significant effect of long-
+term, excess beta-carotene is carotenodermia, a harmless
+condition in which the skin becomes yellow-orange. 
+No adverse effects have been associated with excess vitamin
+B12 intake from food and supplements in healthy individuals.
+
+[page 8]
+Chronically high intakes of the organic and inorganic forms of
+selenium have similar effects. Early indicators of excess intake
+are a garlic odor in the breath and a metallic taste in the mouth.
+The most common clinical signs of chronically high selenium
+intakes, or selenosis, are hair and nail loss or brittleness. Other
+symptoms include lesions of the skin and nervous system,
+nausea, diarrhea, skin rashes, mottled teeth, fatigue, irritability,
+and nervous system abnormalities.
+Dry Eye Disease
+There is some limited evidence suggesting that omega-3 supplements
+may have a role in managing dry eye; however, more research is
+needed before any firm conclusions can be drawn.
+What Does the Research Show?
+A 2019 Cochrane review
+ of 34 randomized controlled trials
+involving more than 4,314 adult participants concluded that long-
+chain omega-3 supplements may have a role in managing dry
+eye; however, the evidence is currently inconsistent and more
+research is needed.
+A 2022 randomized clinical trial of 23,523 adults without dry eye
+disease found that daily supplementation with 1 g of marine
+omega-3 fatty acids for a median of 5.3 years had no significant
+effect on the incidence of diagnosed dry eye disease or reported
+dry eye disease symptoms.
+Safety
+Omega-3 fatty acid supplements usually do not have adverse
+effects. When side effects do occur, they typically consist of minor
+gastrointestinal symptoms. 
+Glaucoma
+Current data do not support dietary supplementation with vitamins A,
+C, and E for glaucoma or the use of cannabinoids as glaucoma
+treatment.
+What Does the Research Show?
+The available data on efficacy of dietary supplements for delaying the
+progression of glaucoma consist of several laboratory studies, but only
+a few randomized controlled trials and a cross-sectional study.
+
+[page 9]
+Findings from a 2013 cross-sectional study involving 2,912
+participants aged 40 years and older in the 2005–2006 National
+Health and Nutrition Examination Survey indicate that neither
+supplementary consumption with nor serum levels of vitamins A
+and E were found to be associated with glaucoma prevalence.
+However, individuals reporting either low vitamin C (≤100 mg/day)
+and or high (>900 mg/day) supplementation levels had
+significantly lower adjusted odds of being diagnosed with
+glaucoma than those reporting no vitamin C supplementation. No
+dose-response relationship was demonstrated, and serum levels
+of vitamin C did not correlate with glaucoma prevalence. Low-
+and high-dose supplementary consumption of vitamin C,
+however, was found to be associated with decreased odds of
+developing glaucoma. While vitamin C intake, relative to no
+vitamin C intake, may be associated with decreased odds of
+glaucoma development, findings should be reproducible in further
+studies before therapeutic recommendations can be made.
+Studies conducted in the 1970s and 1980s showed that cannabis
+or substances derived from it could lower pressure in the eye, but
+not as effectively as treatments already in use (see NCCIH’s fact
+sheet, “Cannabis (Marijuana) and Cannabinoids: What You Need
+To Know” for more information). 
+A 2006 small crossover trial compared delta-9-
+tetrahydrocannabinol (delta-9-THC; 5mg), cannabidiol (CBD; 20
+mg and 40 mg) oromucosal spray, and placebo with six patients
+with ocular hypertension or early primary open angle glaucoma.
+The study found an intraocular pressure (IOP)-lowering effect of
+delta-9-THC, but it was not considered to be clinically relevant.
+CBD did not reduce IOP.     
+A 2020 crossover randomized trial involving 57 participants with
+glaucoma found that nicotinamide (vitamin B3) supplementation
+may improve inner retinal function in glaucoma. Additional studies
+are underway to determine the effects of long-term nicotinamide
+supplementation.
+Safety
+Vitamin C has low toxicity and is not believed to cause serious
+adverse effects at high intakes. The most common complaints are
+diarrhea, nausea, abdominal cramps, and other gastrointestinal
+disturbances due to the osmotic effect of unabsorbed vitamin C in
+the gastrointestinal tract.
+
+[page 10]
+Research has not found any adverse effects from consuming
+vitamin E in food. However, high doses of alpha-tocopherol
+supplements can cause hemorrhage and interrupt blood
+coagulation in animals, and in vitro data suggest that high doses
+inhibit platelet aggregation. Two meta-analyses of randomized
+trials have also raised questions about the safety of large doses of
+vitamin E, including doses lower than the Tolerable Upper Intake
+Level (UL). These meta-analyses linked supplementation to small
+but statistically significant increases in all-cause mortality. Results
+from the large SELECT trial show that vitamin E supplements (400
+IU/day) may harm adult men in the general population by
+increasing their risk of prostate cancer.
+There is risk of adverse events with cannabinoid use, including
+asthenia, balance problems, confusion, dizziness, disorientation,
+diarrhea, euphoria, drowsiness, dry mouth, fatigue, hallucination,
+nausea, somnolence, and vomiting. For additional information on
+safety, see NCCIH’s fact sheet, “Cannabis (Marijuana) and
+Cannabinoids: What You Need To Know.”
+References
+Age-Related Eye Disease Study 2 (AREDS2) Research Group, Chew EY,
+SanGiovanni JP, et al. Lutein/zeaxanthin for the treatment of age-
+related cataract: AREDS2 randomized trial report n. 4. JAMA
+Ophthalmology. 2013;131(7):843-850.
+Age-Related Eye Disease Study 2 (AREDS2) Research Group, Chew EY,
+Clemons TE, et al. Secondary analyses of the effects of
+lutein/zeaxanthin on age-related macular degeneration
+progression: AREDS2 report no. 3. JAMA
+Ophthalmology. 2014;132(2):142-149.
+Agrón E, Mares J, Clemons TE, et al. Dietary nutrient intake and
+progression to late age-related macular degeneration in the Age-
+Related Eye Disease Studies 1 and 2. Ophthalmology.
+2021;128(3):425-442.
+Chew EY, Clemons TE, Agrón E, et al. Long-term outcomes of adding
+lutein/zeaxanthin and ω-3 fatty acids to the AREDS supplements
+on age-related macular degeneration progression: AREDS2
+Report 28. JAMA Ophthalmology. 2022;140(7):692-698.
+
+[page 11]
+Christen WG, Cook NR, Manson JE, et al. Efficacy of marine ω-3 fatty
+acid supplementation vs placebo in reducing incidence of dry eye
+disease in healthy US adults: a randomized clinical trial. JAMA
+Ophthalmology. 2022;140(7):707-714.
+Christen WG, Glynn RJ, Gaziano JM, et al. Age-related cataract in men
+in the selenium and vitamin E cancer prevention trial eye endpoint
+study: a randomized clinical trial. JAMA
+Ophthalmology. 2015;133(1):17-24.
+Christen WG, Glynn RJ, Sesso HD, et al. Vitamins E and C and medical
+record-confirmed age-related macular degeneration in a
+randomized trial of male
+physicians. Ophthalmology. 2012;119(8):1642-1649.
+Downie LE, Ng SM, Lindsley KB, Akpek EK. Omega-3 and omega-6
+polyunsaturated fatty acids for dry eye disease. Cochrane
+Database of Systematic Reviews.2019;12(12):CD011016.
+Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements
+for slowing the progression of age-related macular degeneration.
+Cochrane Database of Systematic Reviews. 2023;9(9):CD000254. 
+Evans JR. Ginkgo biloba extract for age-related macular
+degeneration. Cochrane Database of Systematic Reviews. 2013;
+(1):CD001775.
+Glaser TS, Doss LE, Shih G, et al. The association of dietary lutein plus
+zeaxanthin and B vitamins with cataracts in the Age-Related Eye
+Disease Study: AREDS report no.
+37. Ophthalmology. 2015;122(7):1471-1479.
+Hui F, Tang J, Williams PA, et al. Improvement in inner retinal function in
+glaucoma with nicotinamide (vitamin B3) supplementation: a
+crossover randomized clinical trial. Clinical and Experimental
+Ophthalmology. 2020;48(7):903-914.
+Lawrenson JG, Evans JR. Omega-3 fatty acids for preventing or
+slowing the progression of age-related macular
+degeneration. Cochrane Database of Systematic Reviews. 2015;
+(4):CD10015.
+
+[page 12]
+Lim JC, Caballero Arredondo M, Braakhuis AJ, et al. Vitamin C and the
+lens: new insights into delaying the onset of cataract. Nutrients.
+2020;12(10):3142.
+Mathew MC, Ervin A-M, Tao J, et al. Antioxidant vitamin
+supplementation for preventing and slowing the progression of
+age-related cataract. Cochrane Database of Systematic
+Reviews. 2012;(6):CD004567.
+Neelam K, Dey S, Sim R, et al. Fructus lycii: a natural dietary
+supplement for amelioration of retinal diseases. Nutrients.
+2021;13(1):246.
+Tomida I, Azuara-Blanco A, House H, et al. Effect of sublingual
+application of cannabinoids on intraocular pressure: a pilot
+study. Journal of Glaucoma. 2006;15(5):349-353.
+Wang SY, Singh K, Lin SC. Glaucoma and vitamins A, C, and E
+supplement intake and serum levels in a population-based sample
+of the United States. Eye (London). 2013;27(4):487-494.
+NCCIH Clinical Digest is a service of the National Center for
+Complementary and Integrative Health, NIH, DHHS. NCCIH
+Clinical Digest, a monthly e-newsletter, offers evidence-based
+information on complementary health approaches, including
+scientific literature searches, summaries of NCCIH-funded
+research, fact sheets for patients, and more.
+The National Center for Complementary and Integrative Health is
+dedicated to exploring complementary health products and
+practices in the context of rigorous science, training
+complementary health researchers, and disseminating
+authoritative information to the public and professionals. For
+additional information, call NCCIH’s Clearinghouse toll-free at 1-
+888-644-6226, or visit the NCCIH website at nccih.nih.gov.
+NCCIH is 1 of 27 institutes and centers at the National Institutes
+of Health, the Federal focal point for medical research in the
+United States.
+Copyright
+Content is in the public domain and may be reprinted, except if
+marked as copyrighted (©). Please credit the National Center for
+Complementary and Integrative Health as the source. All
+
+[page 13]
+copyrighted material is the property of its respective owners and
+may not be reprinted without their permission.

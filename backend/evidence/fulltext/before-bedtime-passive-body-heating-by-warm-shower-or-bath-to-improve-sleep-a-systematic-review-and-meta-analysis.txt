@@ -1,0 +1,856 @@
+
+
+[page 4]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+3 
+ 
+Abbreviations 
+ 
+OSA 
+PBH 
+PBHWB 
+PRISMA 
+ 
+PSG 
+RCT 
+REM 
+SE 
+SOL 
+SWS 
+TIB 
+TST 
+WASO 
+y 
+ 
+Oguri-Shirakawa-Azumi questionnaire 
+passive body heating 
+water-based passive body heating 
+preferred reporting items for 
+systematic reviews and meta-analysis 
+polysomnography 
+randomized control trial 
+rapid eye movement 
+sleep efficiency 
+sleep onset latency 
+slow wave sleep 
+traumatic brain injury 
+total sleep time 
+wake after sleep onset 
+year 
+AVA 
+CBT 
+CI 
+∆CBT 
+ 
+DPG 
+ 
+EEG 
+EMG 
+EOG 
+ES 
+h 
+ICU 
+JBI 
+min 
+arteriovenous anastomoses 
+core body temperature 
+confidence interval 
+attenuation in core body 
+temperature 
+distal-to-proximal skin 
+temperature gradient 
+electroencephalogram 
+electromyography 
+electrooculogram 
+effect size 
+hour 
+intensive care unit 
+Joanna Briggs Institute 
+Minutes
+
+[page 5]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+4 
+ 
+INTRODUCTION 
+Bathing has long been linked not only with cleanliness and spiritual and religious purification 
+[1] but health preservation and rehabilitation [2]. During the Homeric era of 1200 to 800 BC 
+55 
+bathing was viewed exclusively as hygienic [2]; however, Hippocrates (460–370 BC) regarded it 
+as health promoting and therapeutic. The Romans also considered it to be curative, in addition to 
+relaxing and pleasurable [2]. During the 16th century, bathing, especially in spring waters, was 
+pursued for healing, and commencing in the 19th century spas specializing in hot and cold 
+mineral baths, commonly combined with mud packs, physical exercise, massage, and special 
+60 
+diets, became popular as a holistic remedy of diverse maladies [2]. Indeed, at this time warm 
+baths were extensively extolled for their healthful benefits, being advocated, for example, in the 
+United States by Dr. John Gunn in his popular home medical handbook, ‘Gunn’s Domestic 
+Medicine’ [3]. However, there seems to be no evidence warm or hot baths were specifically used 
+to facilitate or improve sleep until the 20th century, as reviewed by Raymann et al. [4].  
+65 
+In this content, the relationship between blood distribution, body temperature, and states of 
+sleep and wakefulness has long been of interest. The Greek philosopher Alcmeaon of Croton, 
+~500 BC, associated the state of sleep with the withdrawal of blood from the periphery to the 
+larger “blood-flowing” vessels and waking with its “rediffusion” [5], and the 7th century essayist 
+Robert Burton wrote “A hot brain does not sleep” [6]. In the 19th century Davy and Jürgensen 
+70 
+described the human temperature circadian rhythm characterized by elevated daytime and 
+depressed nighttime level [7,8], and Dalton elucidated the “normal variations of temperature in 
+the living body”, with differences between central and peripheral sites [9]. Collectively, these 
+theoretical conceptualizations and scientific discoveries laid the foundation for contemporary 
+investigations substantiating association between sleep and decline at the end of the activity span 
+75
+
+[page 6]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+5 
+ 
+of core and brain temperature achieved by circadian rhythms governing the dissipation of body 
+heat [10–13]. Accordingly, alteration of the temperature circadian rhythm, e.g., by disease, work 
+schedule, and transmeridian travel, is commonly associated with episodic or chronic insomnia -- 
+prolonged sleep onset latency (SOL) and/or poor sleep maintenance [14–18]. The estimated 
+prevalence of insomnia of various etiology, including that directly or indirectly associated with 
+80 
+perturbed temperature circadian rhythm, is substantial, being 1.5-fold higher in women than men 
+and much higher in the elderly than young [4,19–23]. The consequent sleep deprivation 
+compromises quality of life and productivity and increases vulnerability for accidents and injury 
+[24]. Moreover, it is implicated as a cause or effect of psychiatric, cardiovascular, metabolic, and 
+other medical conditions, whose healthcare expenditures globally amount to billions of dollars 
+85 
+annually [19,21,25].  
+Water-based passive body heating (PBHWB) accomplished by warm/hot showers or body or 
+foot bathing is often recommended as a simple and low-cost nonpharmacological means of 
+managing insomnia [26–28]. Such advice largely derives from findings of questionnaire and 
+observation-based investigations. For example, Aritake-Okada et al. [29] found bathing to be an 
+90 
+effective means of improving nighttime sleep and decreasing excessive daytime sleepiness; 
+Ojima et al. [30] reported good subjective sleep quality of persons who regularly bathe; 
+Hayasaka et al. [31] detected positive relationship between frequent bathing and self-assessed 
+sleep quality and Goto et al. [32] likewise demonstrated positive association between frequent 
+bathing combined with onsen (hot springs) facilities and self-rated sleep quality; and Camilleri 
+95 
+and Barrett [33] observed better sleep of seniors with late-day bathing. Findings of objective 
+laboratory studies complement the positive effects of PBHWB inferred by subjective measures. 
+Yu et al. [34] found footbath PBHWB more acceptable by men than women and more effective in
+
+[page 7]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+6 
+ 
+winter than summer; Raymann et al. [35] showed skin temperature manipulation by PBHWB 
+strongly influences amount of rapid eye movement (REM) and slow wave sleep (SWS); and 
+100 
+Deguchi et al. [36] described immediate (after 2 weeks) and more substantial long-term (after 4-
+6 weeks) improvement in sleep, along with reduction in restlessness, wandering, and/or 
+aggression, in 60-90% of a small cohort of senile dementia patients when bathed twice weekly in 
+the early evening (18:00-19:00h) than early afternoon (14:00-15:00h). Nonetheless, while many 
+investigations demonstrate improvement of various sleep parameters by evening or before 
+105 
+bedtime PBHWB treatment, some do not [4,37,38]. The goal of this article is to review the 
+published research concerning the potential beneficial effects of PBHWB on nighttime sleep and 
+proposed mechanisms. 
+ 
+METHODS 
+110 
+The review was conducted in adherence with the Preferred Reporting Items for Systematic 
+reviews and Meta Analyses (PRISMA) statement [39]. The PRISMA checklist is provided in 
+Appendix A. 
+Search strategy. We performed online searches in April 2018 of PubMed, CINAHL, 
+Cochran, Medline, PsycInfo, and Web of Science databases, without restriction of date or 
+115 
+language of publication, using the keywords and their combinations presented in Table S1 to 
+retrieve studies pertaining to sleep outcomes of bath and shower PBHWB interventions. 
+References of qualifying investigations and related review papers were additionally examined for 
+eligible publications. An example of the strategy used for the PubMed search is illustrated in 
+Appendix B of the supplementary materials.  
+120
+
+[page 8]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+7 
+ 
+Eligibility criteria. Inclusion of retrieved publications for systematic review required 
+satisfaction of the following criteria: 1) full-night investigation of the effect of PBHWB on sleep 
+quality and/or sleep parameters, 2) body heating by a water-based, i.e., showering or bathing, 
+method alone, and 3) report of original data and findings of statistical analyses. Exclusion criteria 
+were: 1) continued body warming during sleep, 2) unreported or insufficient details of 
+125 
+investigative methods or results, 3) unspecified interval of time between PBHWB treatment and 
+bedtime, 4) absence of information on duration of PBHWB, 5) lack of information on temperature 
+of the intervention, 6) PBHWB combined with another treatment, 7) non-provision of control or 
+baseline data, 8) treatment other than water-based methods of showering or bathing, such as 
+heating blankets, 9) duplicate report based on same data, and 10) published review of the 
+130 
+literature. The same inclusion and exclusion criteria were also used for meta-analysis of retrieved 
+publications specifically relating to sleep parameters. However, the variable of “subjective sleep 
+quality” and the studies where sleep parameters were measured by questionnaire or interview 
+check list were excluded from meta-analyses. This is because the scoring system and range of the 
+diverse methods utilized in the different studies are dissimilar and not quantitatively comparable. 
+135 
+Nonetheless, we include the findings of these studies in our systematic review, since they 
+provide valuable perspective about the utility of PBHWB as a sleep aid. 
+ 
+Study selection. Retrieved citations were imported into Mendeley reference manager 
+software. After removal of redundant reports from search of the multiple databases, irrelevant 
+140 
+publications were eliminated by review of titles, abstracts, and keywords by one of the authors 
+(SH). Full text review of all remaining published articles was accomplished independently by 
+two authors (SH and SK). Decisions regarding eligibility of investigations were based on the
+
+[page 9]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+8 
+ 
+above-outlined a priori established inclusion and exclusion criteria, and reasons for exclusion 
+were recorded. Disagreements were resolved by discussion. Three studies trialed two different 
+145 
+temperatures; in this case the resulting data of only the highest (≥40 oC) temperature intervention 
+were included in meta-analyses. 
+ 
+Data extraction and data items. A data extraction sheet was developed and revised after 
+pilot-testing on five randomly selected eligible studies. One author (SH) extracted data and a 
+150 
+second (SK) checked accuracy. The following particulars were extracted: first author and year of 
+publication; research questions/study aims; number, type, sex, and age of subjects; temperature, 
+method, and duration of PBHWB intervention; interval between application of PBHWB treatment 
+and bedtime; mode of sleep assessment, and effect of PBHWB therapy on SOL, wake after sleep 
+onset (WASO), total sleep time (TST), sleep efficiency (SE), slow wave sleep (SWS), and 
+155 
+subjective sleep quality.  
+  
+Bias assessment (Tables S2 and S3). Each included study was independently evaluated for 
+risk of bias due to deficiencies of investigative methods and procedures using the Joanna Briggs 
+Institute (JBI) checklist for quasi-experimental studies [40]. Adapted JBI checklists were applied 
+160 
+for randomized control trials (RCT) [40] and prospective cohort studies [41]. We additionally 
+created a checklist for crossover studies based on JBI recommendations for RCT [40]. 
+Disagreements between raters were resolved by discussion.  
+ 
+Statistical analysis. For studies amenable to meta-analysis, effect size (ES, Cohen’s d) of the 
+165 
+sleep parameters of SOL, WASO, TST, SE, and SWS was calculated by deriving the mean
+
+[page 10]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+9 
+ 
+difference between the baseline and treatment nights and dividing it by the pooled standard 
+deviation [42]. Some trials reported values for each experimental night or individual groups of 
+subjects rather than aggregate ones; in these cases, we combined or pooled data to derive a single 
+mean and standard deviation per experimental, i.e., baseline and PHBWB, condition  [43,44]. A 
+170 
+positive ES infers lower value of a given parameter on baseline than treatment nights. ES values 
+equal to 0.2, 0.5, and 0.8 are considered, respectively, small, medium, and large effects [45]. We 
+used a random effect model to calculate the summary effect per evaluated sleep parameter [44]. 
+P<0.05 is considered sufficient evidence to reject the null hypothesis ES equals zero. Presence of 
+heterogeneity was assessed by calculation of the Q statistic, which follows the χ2 distribution. 
+175 
+The null hypothesis for this test is all studies share a common ES [44]. The derived τ2 and I2 
+statistics represent, respectively, the overall variance of the true effect size and proportion of 
+observed variance indicative of the actual variation among studies [44]. When heterogeneity was 
+substantiated, potential explanations were explored post hoc by both random-effect subgroup and 
+meta-regression analyses [44]. Subgroup analysis assesses the disparity across subgroup effects 
+180 
+relative to the precision of the difference in values for variables of interest within subgroups [44]. 
+The precision of this difference is affected by within-study variance and total number of subjects, 
+between-study variance and total number of studies, and between-subgroup variance and number 
+of subgroups [46]. Several studies and guidelines [47–49] recommend the meta-regression 
+method as a more advance approach of higher statistical power compared to subgroup analysis 
+185 
+[50] to evaluate potential significance of independent categorical effect-modifier variables. 
+Moreover, this method allows us to simultaneously investigate the effect of multiple effect 
+modifiers [47]. As recommended, we used a cut-off of 10% (P=0.1) for testing the significance 
+of heterogeneity and also for subsequent post-hoc evaluation of effect modifiers [51,52]. Forest
+
+[page 11]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+10 
+ 
+plots, i.e., graphical display of findings of individual investigations plus composite overall 
+190 
+findings per sleep parameter, were created by Microsoft Excel for Mac (version 16.8, Microsoft 
+Corporation, Redmond, Washington, USA). The meta-regression was done using R (R Core 
+Team, 2018). Publication bias was assessed by the funnel plot regression method [53] for all 
+sleep parameters using STATA software (version SE 14.2, StataCorp LLC, College Station, 
+Texas, USA). 
+195 
+ 
+ 
+RESULTS 
+Search results  
+The flow diagram of Figure 1 depicts the PRISMA-based process of selecting investigations 
+200 
+of relevance utilizing the search words depicted in Table S1. A total of 5316 publications were 
+retrieved, of which 1451 were replicates. Six additional publications were identified through 
+reference lists or other sources. Abstracts of the potentially relevant 3865 total publications were 
+individually screened, yielding 121 for full text appraisal, of which 17 met all inclusion criteria. 
+Some 13 [37,38,54–64] of the qualifying 17 investigations enabled quantitative synthesis and 
+205 
+meta-analyses. One of these studies utilized two -- body and foot bath -- PBHWB treatments, 
+thereby increasing the number of possible comparisons to 14. 
+ 
+[Figure 1 goes here] 
+ 
+210 
+Overview of included studies (Table 1)
+
+[page 12]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+11 
+ 
+Study design. Of the 17 studies that met inclusion criteria, 11 were designed as a crossover 
+[37,38,54–58,60–63], three as a quasi-experimental [59,65,66], one as a randomized control [67], 
+and two as a prospective [64,68] cohort trial. 
+ 
+215 
+Study population. Participants of the 17 investigations, which entailed 18 PHBWB trials in 
+total, were diverse, ranging from young healthy soccer athletes to middle-age traumatic brain 
+injury, older sleep apnea, sleep disturbed, acute coronary syndrome, intensive care unit (ICU), 
+insomniac, and cancer patients. Sample size varied markedly among the trials, from 5 to 70 
+subjects (median=13), with six of them (~35%) involving more than 20 subjects. The average 
+220 
+age of participants also varied greatly: older than 40 y in 12 studies, with six of them greater than 
+60 y. 
+ 
+Nature of PBHWB interventions. PBHWB was achieved by shower in one study, footbath in 
+nine, body bath in six, and both body bath and footbath in one. Water temperature in 16 of the 18 
+225 
+experiments varied from 40 to 42oC, with those of two studies testing two different temperatures.  
+PBHWB commenced and ended 1 to 2h before bedtime in five trials, and it commenced and ended 
+1h or less or 2h or more before bedtime in thirteen trials. PBHWB in nine trials lasted 20 min or 
+less and lasted more than 20 min in nine trials. 
+ 
+230 
+Sleep assessment methods. Polysomnography (PSG) entailing electroencephalogram (EEG), 
+electromyography (EMG), and electrooculogram (EOG) was utilized in nine studies, wrist 
+actigraphy in five studies, self-assessment questionnaires in nine studies, and observation check
+
+[page 13]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+12 
+ 
+list and home-sleep tracker each in one study. Most (~65%) investigations relied only on one of 
+these methods. 
+235 
+[Table 1 goes here] 
+ 
+Sleep outcomes.  
+Sleep onset latency (SOL). Figure 2 presents the forest plot of effect size plus overall pooled 
+estimated effect size for the individual 11 PBHWB trials in which SOL was objectively assessed. 
+240 
+The pooled estimate reveals PBHWB achieved significant decrease of SOL independent of the 
+temperature, duration, and interval of time before bedtime of its scheduling (mean of baseline 
+nights 24.6 min vs. mean of PBHWB nights 17.4 min; ES: -0.43; 95% CI=-0.76 to -0.10; 
+P=0.010). Studies that utilized questionnaire and/or observation checklist methods also reported 
+PBHWB improved SOL [66,67]. As recommended, we used a cut-off of P=0.1 when conducting 
+245 
+heterogeneity analyses for between-subgroup differences [51,52]. The test of heterogeneity for 
+findings of the studies assessing SOL rejected the null hypothesis of shared common ES 
+(P=0.088), and the test for publication bias was insignificant (P=0.604). 
+ 
+[Figure 2 goes here] 
+250 
+ 
+The finding of heterogeneity in the ES of studies entailing objective assessment of SOL 
+prompted post hoc exploration of two hypotheses to explain its origin. First, we hypothesized an 
+important source of variation in ES derives from difference across trials in the interval of time 
+between the application of PBHWB and bedtime. We tested this hypothesis by categorizing the  
+255 
+11 trials into two groups: (i) those in which PBHWB commenced and ended 1 to 2h before
+
+[page 14]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+13 
+ 
+bedtime (N=2) and (ii) those in which PBHWB commenced and ended 1h or less plus those in 
+which PBHWB commenced and ended 2h or more before bedtime (N=9). The random effect 
+model Q test for heterogeneity with separate estimate of τ2 [44] reveals significant difference in 
+effect size between the two groups (χ2=7.42, df=1, P=0.006), thereby indicating the timing of 
+260 
+PBHWB 1-2 h before bedtime is associated with statistically significant shortening of SOL. 
+Second, we evaluated the hypothesis the duration of PBHWB acts as an effect modifier upon 
+SOL. The duration of PBHWB across the 11 trials ranged between 10 min to three successive 
+blocks each of 30 min, i.e., 90 min in total. We categorized the 11 trials into two groups, ones 
+(N=4) that applied PBHWB for shortest duration, i.e., 10-20 mins, and ones (N=7) that applied 
+265 
+PBHWB for longest duration, i.e., 20-90 min. However, as reported in Table 2 no statistically 
+significant between-group difference in effect on SOL is detected according to duration of 
+PBHWB (χ2=1.01, df=1, P=0.314). We further evaluated the source of heterogeneity by 
+conducting a random-effect model meta-regression analysis that simultaneously included both 
+effect modifiers -- duration of PBHWB and interval of time between the application of PBHWB 
+270 
+and bedtime -- categorized in the same manner as done for the subgroup analyses. It yielded the 
+same conclusion, i.e., significant effect of timing (P=0.075, i.e., below the cut-off of P=0.1 
+recommended for evaluation of effect modifiers) and no significant effect according to duration 
+(P=0.822). We also attempted to evaluate the water temperature as an effect modifier; however, 
+the range of water temperature across the 11 trials was too small, mostly 40oC (N=6) and 41oC 
+275 
+(N=3), for conduct of a meaningful statistical analysis. 
+    
+[Table 2 goes here]
+
+[page 15]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+14 
+ 
+Wake after sleep onset (WASO). Figure 3 shows the forest plot of the 9 investigations in 
+280 
+which the WASO variable was explored. The pooled estimate of all studies indicates non-
+significant improvement by PBHWB in WASO relative to baseline conditions (mean of baseline 
+nights 49.2 min vs. mean of PBHWB nights 41.3 min; ES: -0.23; 95% CI=-0.48 to 0.02; P=0.067). 
+The test for heterogeneity fails to reject the null hypothesis the studies share a common ES 
+(P=0.924), and the test for publication bias was not significant (P=0.534). 
+285 
+[Figure 3 goes here] 
+ 
+Total sleep time (TST). Figure 4 displays the forest plot of the 10 different trials in which 
+TST was measured. The pooled estimate discloses non-significant improvement by PBHWB in 
+TST relative to baseline conditions (mean of baseline nights 389.0 min vs. mean of PBHWB 
+290 
+nights 395.1 min; ES: 0.15; 95% CI=-0.08 to 0.39; P=0.199). The test for heterogeneity fails to 
+reject the null hypothesis the studies share a common ES (P=0.787), and the test for publication 
+bias was not significant (P=0.091). 
+[Figure 4 goes here] 
+ 
+295 
+Sleep efficiency (SE). Figure 5 depicts the forest plot of the 11 different trials in which SE 
+was evaluated. The pooled estimate reveals significant improvement by PBHWB in SE (mean of 
+baseline nights 83.1% vs. mean of PBHWB nights 84.9%; ES: 0.26; 95% CI=0.02 to 0.51; 
+P=0.035). This finding based on objective assessment of SE is in line with that of Seyyedrasooli 
+et al. [67], which measured SE by questionnaire; they found a tendency of improved SE by 
+300 
+PBHWB relative to control conditions. The test for heterogeneity fails to reject the null hypothesis 
+the studies share a common ES (P=0.500), and the test for publication bias was insignificant 
+(P=0.212).
+
+[page 16]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+15 
+ 
+ 
+[Figure 5 goes here] 
+305 
+ 
+ 
+Slow wave sleep (SWS). Figure 6 conveys the forest plot of the 10 trials in which SWS 
+was examined. The pool estimate shows non-significant increase in SWS by PBHWB relative to 
+the baseline condition (mean of baseline nights 33.6 min vs. mean of PBHWB nights 40.3 min; 
+ES: 0.23; 95% CI=-0.13 to 0.60; P=0.213). The test for heterogeneity fails to reject the null 
+310 
+hypothesis the studies share a common ES (P=0.279), and the test for publication bias was not 
+significant (P=0.057). 
+ 
+[Figure 6 goes here] 
+ 
+315 
+Subjective sleep quality. Subjective sleep quality assessed by diverse methods was found to 
+be improved by PBHWB interventions in eight trials [54,55,58–60,65,67,68] and unaffected in 
+one trial [56]. Meta-analysis of the data of these trials was not feasible due to application of 
+greatly disparate methods to quantify sleep quality that varied numerically in scale and range of 
+scores.  One study involved an interview method [54], one study Oguri-Shirakawa-Azumi (OSA) 
+320 
+questionnaire [55], two studies Post Sleep Inventory questionnaire [58,59], two studies Veran 
+Snyder Halpern questionnaire [65,68], one study OSA sleep inventory for middle age and aged 
+version [60], one study Pittsburgh Sleep Quality Index questionnaire [67], and one study 
+Consensus sleep diary [56]. 
+ 
+325 
+Bias assessment. Table S2 summarizes the appraisal by JBI check list for quasi-
+experimental studies of the methods and conduct of each PBHWB investigation. The major 
+deficiency of most of them is lack of follow-up assessment. Additional ones are incomplete or
+
+[page 17]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+16 
+ 
+inappropriate statistical methods, i.e., absence of power analysis, effect size, and/or other 
+relevant calculations, insufficient information regarding reliability of measurements, and 
+330 
+inappropriate control group. Studies lacking a control group, before-treatment baseline, and/or 
+appropriate detailed description of experimental methods according to the inclusion and 
+exclusion criteria (Figure 1) had already been excluded during the screening process. The only 
+qualifying RCT was that of Seyyedrasooli et al. [67]. It adhered to all requirements for a RCT, 
+except blinding of subjects, examiner, and data analysis personnel. Compliance with the first two 
+335 
+requirements was impossible due to the nature of the treatment, but noncompliance with the 
+latter might have been a source of bias (Table S3). Almost all of the crossover trials randomized 
+subjects for order of baseline and treatment procedures; however, less than half of them 
+incorporated a wash-out period of one to seven nights between the two experimental conditions. 
+The deficiencies of non-randomized order of treatment, absence of non-treatment baseline 
+340 
+nights, and lack of wash-out period are risks for carry-over bias (Table S3). Finally, the 
+investigation of Yang et al. [68] failed to report a reliable measure of the temperature of the 
+PHBWB intervention, thereby potentially introducing bias into the interpretation of findings 
+(Table S3). 
+ 
+345 
+DISCUSSION 
+A warm shower or foot or body bath before bedtime is often suggested by medical and 
+paramedical professionals to improve sleep [26–28]. The beneficial effect of such interventions 
+has been researched in various settings utilizing a variety of measures, ranging from subjective 
+self-report questionnaires and objective check lists to wrist actigraphy/home sleep trackers to 
+350 
+clinical PSG. Many, but not all, of the diverse investigations report significant improvement in
+
+[page 18]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+17 
+ 
+objectively assessed sleep parameters and/or subjectively rated sleep quality and sleep 
+parameters. Thus, an aspect of our review of the literature included identification of factors 
+associated with successful improvement of sleep by PBHWB treatments. 
+Our meta-analyses reveal PBHWB tends to improve SOL, WASO, TST, SWS, and SE; 
+355 
+although a statistically significant effect was verified only upon SOL and SE. The largest and 
+most statistically significant effect was attenuation of SOL, on average by 8.6 min (~36%) from 
+that of baseline nights, when applied 1 to 2h before bedtime. A major finding regarding SOL 
+across the 17 reviewed studies is the optimal interval of time of 1 to 2h between PBHWB 
+intervention and customary bedtime. However, this finding is based upon data of only two 
+360 
+investigations that entailed a total of 36 subjects -- elderly insomniac subjects with mild to 
+moderate vascular dementia whose average age was 77 y in one study [64] and traumatic brain 
+injury patients (TBI) whose average age was 36 y in the other study [57]. Nonetheless, the 
+findings based on these two studies are seemingly meaningful, since the prevalence of sleep 
+disturbances increases with age [69], and it is higher in patients with dementia [70,71] and TBI, 
+365 
+the prevalence rate being as great as 50%, which is much higher than that of the normal 
+population [72,73]. Our findings are consistent with the observations of Kräuchi et al. [74], who 
+reported the distal-to-proximal skin temperature gradient (DPG) during the 1.5h period prior to 
+lights-off for bedtime is the strongest predictor of SOL. It is also consistent with the proposal by 
+the Van Someren group [4,13] it is the heat-loss dissipation induced by PBH-enhanced skin 
+370 
+blood flow with consequent increase of skin temperature that in large part fosters sleep 
+propensity as measured by shortened SOL. 
+ DPG, an indicator of distal blood flow and indirect measure of distal heat loss [12], is 
+elevated by PBHWB [10,38,63]. Thus, it is not surprising PBHWB treatment of proper temperature
+
+[page 19]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+18 
+ 
+when applied at this optimal circadian time, 1-2h before bedtime, is associated with 
+375 
+improvement in SOL. When applied too early, 2h or more before bedtime, it may induce feelings 
+of sleepiness but it does not significantly shorten SOL. This finding is illustrated by the work of 
+Horne and Reid [61], who applied baths of two different water temperatures (41oC and 35.5oC) 
+5h or more prior to bedtime. Significant increase in before-bedtime tiredness was observed only 
+after the heated bath (41oC), although without significant shortening of SOL by this or the cooler 
+380 
+35.5oC bath when applied so long before intended nighttime sleep. Overall, these results are in 
+line with the observation that warm feet are associated with short SOL [4,12]. Nonetheless, it is 
+noteworthy most studies that relied on subjective ratings reported improved sleep quality 
+independent of the time before bedtime when PBHWB was applied and whether or not objective 
+sleep parameters when also measured were improved [54,55,58–60,65,67,68]. The greater 
+385 
+subjective satisfaction of sleep associated with PBHWB interventions might be indicative of a 
+relaxation, in addition to physiological, effect. For example, a questionnaire survey by Goto et al. 
+[32] of 2779 respondents found hot bath treatment associated with attenuated self-perceived 
+stress. 
+The studies of Kim et al. [75] and Seo and Sohng [76] concerning the effect of a footbath on 
+390 
+different sleep parameters were excluded from our systematic review and meta-analysis because 
+they failed to satisfy inclusion criteria, i.e., they incorporated, in combination with PBHWB, the 
+wearing of socks as an additional treatment. Nonetheles, the findings of these studies are relevant 
+because they illustrate the role of influential variables on outcomes. Kim et al. [75], who utilized 
+a footbath intervention 1.5h before bedtime, failed to detect significant attenuation of SOL. A 
+395 
+possible explanation could be the donning of socks by subjects immediately following footbath 
+heating. Hands and feet are the body’s principal sites of controlled heat exchange [77] due to the
+
+[page 20]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+19 
+ 
+high density of capillary bed and arteriovenous anastomoses (AVAs) of the palms and soles [78]. 
+AVAs are vascular shunts that connect arterioles to venules; when vasodilated their diameter can 
+enlarge 10-fold more than that of capillaries to shunt a very large volume of blood from core to 
+400 
+peripheral skin sites [78]. The increased distal blood flow enhances transfer of heat to the hands 
+and feet where it can be efficiently dissipated, resulting in rapid core body temperature (CBT) 
+decline. PBHWB accomplished by footbath induces AVA vasodilation that under normal 
+conditions naturally improves heat loss; however, socks, especially ones of dense fabric, can act 
+as an insulating layer at the foot-air boundary and obstruct body heat dissipation. Thus, the 
+405 
+donning of socks immediately following warm foot bathing in the Kim et al. study [75] could 
+explain lack of improvement in SOL. Seo and Sohng [76] also used socks to maintain the 
+warmth of the feet of their subjects following warm footbath intervention. However, unlike the 
+study of Kim et al. [64],  Seo and Sohng [76] observed significant reduction in SOL relative to 
+baseline nights. It is unclear whether the baseline nights of this latter investigation also included 
+410 
+wearing of socks. The differences in outcomes between the Kim et al. [75] and Seo and Sohng 
+[76] trials suggest involvement of socks of varying insulating quality or undisclosed 
+methodological or participant-dependent factors.  
+Morris et al. [79] observed phase delay of the circadian CBT rhythm of insomniacs compared 
+to normal sleepers, resulting in higher CBT at bedtime and later occurrence of CBT nadir during 
+415 
+sleep than expected. On the other hand, Monroe [80] found poor sleepers have a lower CBT 
+compared to good sleepers. These observations suggest the absolute CBT level at bedtime is the 
+variable most strongly associated with SOL duration. However, the results of several other 
+studies indicate extent of CBT attenuation (∆CBT), rather than actual CBT, achieved before 
+bedtime by a warm bath or shower is most strongly associated with shortening of SOL. Mishima 
+420
+
+[page 21]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+20 
+ 
+et al. [64], who used a warm bath to the mid-thorax level to increase the CBT to a higher level 
+before bedtime on treatment than baseline nights, reported shorter SOL on treatment than 
+baseline nights. This implies as a hypothesis amount of the PBHWB-induced lowering of CBT 
+before bedtime is a potential mechanism of the significant shortening of SOL we found through 
+our statistical analysis of previously published data. The findings of Campbell and Broughton 
+425 
+[81] are consistent with this hypothesis; they demonstrated association between sleep initiation 
+and ∆CBT decline. Jordan et al. [62] scheduled PBHWB 5.75h before lights-off for sleep. CBT 
+was significantly higher on treatment nights, even after sleep onset, compared to baseline nights; 
+nonetheless, the SOL was unchanged. The graphs shown in this publication indicate the decline 
+in CBT consequent to PBHWB occurred primarily during the 2h after its application, i.e., almost 
+430 
+4h before bedtime. These findings are consistent with the observation that poor compared to 
+good sleepers exhibit a smaller ∆CBT just before the commencement of sleep [80,82] and also 
+the hypothesis ∆CBT and its rate of change rather than the actual CBT achieved by PBHWB is 
+responsible for the shortening of SOL. This hypothesis is consistent with the one proposed 
+earlier by the von Someren group [4,13] that heat-loss activation is a causal mechanism of sleep 
+435 
+propensity and maintenance. In this regard, Gillberg and Akerstedt [83] reported a favorable 
+effect of PBHWB on SWS in association with enhanced decline of CBT around the time of sleep 
+onset, and Sewitch [84] and Horne and Staff [85] reported favorable effect of PBHWB on 
+increased time spent in Stage 4 sleep in association with substantial drop in CBT. 
+Some investigators cite the importance of the magnitude of the heat load conveyed by 
+440 
+PBHWB treatment, which is a function of both its duration and temperature, in affecting sleep. 
+Liao et al. [86], who investigated the optimal temperature for footbath interventions, reported 
+those of 40o or 41oC significantly increased DPG, even within 10 min of application, but that
+
+[page 22]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+21 
+ 
+only the higher temperature 41oC footbath increased CBT. Horne and Shackell [87] applied 0.5 
+and 1.5h warm bath interventions to the mid-thorax level between 20:00 and 22:00h before 
+445 
+bedtime at 23:45h, finding the longer 1.5h-duration, i.e., higher heat load, treatment relative to 
+the baseline condition not only increased SOL but disturbed sleep with multiple awakenings. In 
+contrast, the shorter 0.5h duration warm bath, i.e., lower heat load, increased the amount of 
+SWS. The findings of this investigation emphasize the potential importance of the total heat load 
+delivered by the PBHWB in relation to sleep outcomes. They also highlight the need for further 
+450 
+investigation to determine the optimal duration and temperature of such interventions.  
+This review is based on a thorough search of the most relevant databases for pertinent 
+investigations without filter for publication date or language. A total of 17 publications met 
+inclusion and exclusion criteria; nonetheless, we are obligated to acknowledge deficiencies in 
+their methods and conduct based on JBI checklists established for quasi-experimental, 
+455 
+randomized control, and prospective cohort studies [40,41]. Common deficiencies are 
+incomplete or inappropriate statistical methods – absence of power analysis, effect size, and/or 
+other calculations, lack of control group, insufficient information concerning reliability of 
+measurements, and no or insufficient follow-up assessment. Moreover, the measured sleep 
+parameters of TST, SE, WASO, SOL are interdependent such that changes in one can cause 
+460 
+change in others. Moreover, there were only two studies entailing objective measurement of SOL 
+in which PBHWB commenced and ended 1 to 2h before bedtime. Furthermore, the sample size of 
+the diverse investigations varied greatly with only ~35% of them involving more than 20 
+participants. Additionally, the subjects of many studies were quite young, even though PBHWB 
+methods are more likely to be recommended to elderly insomniacs than middle-age and young 
+465 
+adults. The average age of participants of five of the 17 studies (~30%) was less than 40 y, and
+
+[page 23]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+22 
+ 
+although ~35% of the reviewed investigations entailed individuals older than 60-65 y of age, 
+only three pertained specifically to elderly insomniacs. Finally, there was marked difference 
+among the 17 studies as to the means of PBHWB exposure, water temperature, timing, and 
+duration. In spite of the many differences between the reviewed investigations, the collective 
+470 
+findings implicate the potential worthiness of PBHWB treatment of optimal temperature and 
+timing as a simple and low-cost nonpharmacological means of managing sleep-onset insomnia 
+and improving overall sleep quality. Nonetheless, long-term, large sample-sized trials, 
+particularly entailing elderly persons and chronic disease patients who experience difficulty 
+falling asleep and who may be differentially responsive to PBHWB strategies [4], are 
+475 
+recommended to properly assess their merit and limitations. 
+ 
+CONCLUSION 
+Our systematic review of the literature supports the conclusion nightly warm showering, foot 
+bathing, or full body bathing scheduled 1-2h before bedtime for a duration as short as 10 mins 
+480 
+can improve sleep, especially shortening of SOL, most likely by enhancing decrement in CBT 
+before bedtime. Our conclusion regarding the proper scheduling of PBHWB before bedtime, 
+however, is based on the findings of only two studies entailing in total 36 subjects, thereby 
+highlighting the need for more extensive investigation. The investigations reviewed herein 
+reconfirm association between PBHWB-induced warming of the palms and soles and shortening 
+485 
+of SOL. Additionally, a small number of PBHWB trials indicates achieved ∆CBT around bedtime 
+is more important than achieved absolute CBT in determining the beneficial effect on SOL and 
+perhaps other sleep parameters, such SWS and SE. Future research is required to confirm the 
+optimal circadian stage/interval of time before bedtime; duration, temperature, means (footbath
+
+[page 24]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+23 
+ 
+or other) of PBHWB treatment. Future investigation is also required to assess the impact upon 
+490 
+PBHWB outcomes exerted by influential factors and conditions that may affect outcomes, such as 
+after-intervention donning of socks and attributes of sleep ware. Study is also encouraged to 
+determine the types of sleep complaints as well as medical and demographic characteristics of 
+those most likely to benefit from PBHWB intervention. 
+ 
+495 
+ 
+Conflict of interest 
+The authors have no conflicts of interest that influence the content of this review.
+
+[page 25]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+24 
+ 
+Practice Points 
+• Warming of hands and feet achieved by warm shower or foot or body baths for a 
+duration as short as 10 min scheduled 1-2 hours before bedtime is associated with 
+shortened sleep onset latency and increased sleep efficiency. 
+• Warm shower or foot or body baths can enhance subjective sleep quality, perhaps not 
+only through shortened sleep onset latency and increased sleep efficiency, but through 
+increased slow wave sleep and improvement of other sleep parameters, such as wake 
+after sleep onset and total sleep time. 
+• Passive body heating effects on sleep readiness and sleep onset latency seem to be 
+most strongly associated with achieved extent of decline in core body temperature 
+rather than achieved level of core body temperature. 
+ 
+ 
+ 
+ 
+500
+
+[page 26]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+25 
+ 
+ 
+Research Agenda 
+• Clarify physiological mechanisms -- level, amount, and rate of change of core body 
+temperature -- of improvements in sleep parameters and quality attributed to water-
+based passive body heating. 
+•  Confirm the optimal timing, duration, temperature, and total heat load of water-based 
+passive body heating interventions. 
+• Determine the effect of sleep ware and socks on the therapeutic impact of water-based 
+passive body heating interventions.   
+• Determine the spectrum of sleep disorders for which water-based passive body heating 
+is beneficial and factors of individuals that affect outcomes.    
+• Conduct long-term, large sample trials entailing elderly and chronic-diseased 
+individuals with complaint of sleep dissatisfaction.
+
+[page 27]
+MANUSCRIPT
+ 
+ACCEPTED
+ACCEPTED MANUSCRIPT
+26 
+ 
+References 
+[1] 
+Feinstein EL. Bathing in the Hebrew Bible. 
+https://www.bibleodyssey.org/en/people/related-articles/bathing-in-the-hebrew-bible 
+505 
+(accessed August 20, 2018). 
+[2] 
+van Tubergen A, van der Linden S. A brief history of spa therapy. Ann Rheum Dis 
+2002;61:273–5. 
+[3] 
+Gunn JC. Gunn’s domestic medicine. Philadelphia: G. V. Raymond; 1840. 
+*[4] Raymann RJEM, Swaab DF, Van Someren EJW. Skin temperature and sleep-onset 
+510 
+latency: changes with age and insomnia. Physiol Behav 2007;90:257–66. 
+doi:10.1016/j.physbeh.2006.09.008. 
+[5] 
+Huffman C. “Alcmaeon”, The Stanford Encyclopedia of Philosophy (Spring 2017). 
+https://plato.stanford.edu/archives/spr2017/entries/alcmaeon/. 
+[6] 
+Finkbeiner AK. Getting through the sleep gate. The Sciences 1998;38:14–8. 
+515 
+doi:10.1002/j.2326-1951.1998.tb03657.x. 
+[7] 
+Jürgensen T. Die Körperwärme des gesunden Menschen: Studien. FCW Vogel; 1873.  
+[8] 
+Davy J. On the temperature of man. Philos Trans R Soc London 1845;135:319–33. 
+doi:10.1098/rstl.1845.0014. 
+[9] 
+Dalton JC. Treatise on human physiology. Philadelphia: Henry C. Lea; 1875. 
+520 
+*[10] Raymann RJEM, Swaab DF, Van Someran EJW. Cutaneous warming promotes sleep 
+onset. Am J Physiol Integr Comp Physiol 2005;288:R1589–97. 
+doi:10.1152/ajpregu.00492.2004. 
+*[11] Van Someren EJW. Mechanisms and functions of coupling between sleep and temperature 
+rhythms. Prog Brain Res 2006;153:309–24. doi:10.1016/S0079-6123(06)53018-3.  
+525

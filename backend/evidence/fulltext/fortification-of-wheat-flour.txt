@@ -1,0 +1,135 @@
+
+
+[page 1]
+e-Library of Evidence for Nutrition Actions
+(eLENA)
+An online library of evidence-informed guidelines for nutrition interventions and single
+point of reference for the latest nutrition guidelines, recommendations and related
+information.
+Overview
+Interventions
+Glossary
+About
+ All interventions
+Fortification of wheat
+flour
+Intervention | Last updated: 9 August 2023
+Fortification is the practice of deliberately increasing the content of an essential
+micronutrient, i.e. vitamins and minerals (including trace elements) in a food, so as to
+improve the nutritional quality of the food supply and provide a public health benefit
+with minimal risk to health.
+Wheat is an important cereal crop and together with maize and rice account for 94% of
+total cereal consumption worldwide. Fortification of industrially processed wheat flour,
+when appropriately implemented, is an effective, simple, and inexpensive strategy for
+supplying vitamins and minerals to the diets of large segments of the world’s
+population.
+
+[page 2]
+WHO Recommendations
+Wheat flour fortification should be considered when industrially produced flour is
+regularly consumed by large population groups in a country.
+Decisions about which nutrients to add and the appropriate amounts to add should be
+based on a number of factors including i) the nutritional needs and deficiencies of the
+population; ii) the usual consumption profile of “fortifiable” flour (i.e. the total estimated
+amount of flour milled by industrial roller mills, produced domestically or imported,
+which could in principle be fortified); iii) sensory and physical effects of the added
+nutrients on flour and flour products; iv) fortification of other food vehicles; and v)
+costs.
+Learn More 
+Guidelines and guidance documents
+Recommendations on wheat and maize flour fortification meeting
+report: interim consensus statement
+Guidelines on food fortification with micronutrients
+GRC-approved guidelines
+Status: Not currently available
+Other guidance documents
+Evidence
+Related Cochrane reviews
+
+[page 3]
+Fortification of wheat and maize flour with folic acid for population health outcomes
+Centeno Tablante E, Pachón H, Guetterman HM, Finkelstein JL. Cochrane Database of Systematic Reviews.
+2019; Issue 7. Art. No.: CD012150.
+Fortification of staple foods with vitamin A for preventing vitamin A deficiency (protocol)
+Hombali AS, Venkatesh BT, Nair S, Peña-Rosas JP. Cochrane Database of Systematic Reviews. 2012; Issue 9.
+Art. No.: CD010068. (Update has been submitted for publication)
+Fortification of staple foods with zinc for improving zinc status and other health outcomes in
+the general population
+Shah D, Sachdev HS, Gera T, De-Regil LM, Peña-Rosas JP.Cochrane Database of Systematic Reviews 2016,
+Issue 6. Art. No.: CD010697.
+Summary of this review 
+Wheat flour fortification with iron for reducing anaemia and improving iron status in
+populations
+Field MS, Mithra P, Estevez D, Peña-Rosas JP. Cochrane Database of Systematic Reviews. 2020; Issue 7. Art.
+No.: CD011302.
+Other related systematic reviews
+Global birth prevalence of spina bifida by folic acid fortification status: a systematic review
+and meta-analysis
+Atta CA, Fiest KM, Frolkis AD, Jette N, Pringsheim T, St Germaine-Smith C et al. Am J Public Health.
+2016;106:e24–34.
+Micronutrient fortification of food and its impact on woman and child health: a systematic
+review
+Das JK, Salam RA, Kumar R, Bhutta ZA. Syst Rev 2013;2:67–93.
+Effect of iron-fortified foods on hematologic and biological outcomes: systematic review of
+randomized controlled trials
+Gera T, Sachdev H, Boy E. Am J Clin Nutr. 2012;96:309–24.
+Evidence of the effectiveness of flour fortification programs on iron status and anemia: a
+systematic review
+
+[page 4]
+Pachón H, Spohrer R, Mei Z, Serdula MK. Nutrition Reviews. 2015; 73(11):780-95.
+Learn More 
+Cost-effectiveness
+Cost-effectiveness analyses
+Decline in the prevalence of neural tube defects following folic acid fortification and its cost-
+benefit in South Africa
+Sayed AR, Bourne D, Pattinson R, Nixon J, Henderson B. Birth Defects Res A Clin Mol Teratol. 2008;
+82(4):211-6.
+Cost-effectiveness of mandatory folate fortification v. other options for the prevention of
+neural tube defects: results from Australia and New Zealand
+Dalziel K, Segal L, Katz R. Public Health Nutr. 2010; 13(4):566-78.
+Cost-effectiveness of a folic acid fortification program in Chile
+Llanos A, Hertrampf E, Cortes F, Pardo A, Grosse SD, Uauy R. Health Policy. 2007; 83(2-3):295-303.
+Cost effectiveness analysis of strategies for child health in developing countries
+Edejer TT, Aikins M, Black R, Wolfson L, Hutubessy R, Evans DB. BMJ. 2005; 331(7526):1177.
+A strategic approach to the unfinished fortification agenda: Feasibility, costs, and cost-
+effectiveness analysis of fortification programs in 48 countries
+Fiedler JL, Macdonald B. Food Nutr Bull. 2009; 30(4):283-316.
+Retrospective Assessment of Cost Savings From Prevention
+Grosse SD, Berry RJ, Mick Tilford J, Kucik JE, Waitzman NJ. Am J Prev Med. 2016; 50(5 Suppl 1):S74-S80.
+Reevaluating the Benefits of Folic Acid Fortification in the United States: Economic Analysis,
+Regulation, and Public Health
+Grosse SD, Waitzman NJ, Romano PS, Mulinare J. Am J Public Health. 2005; 95(11):1917-22.
+Iron fortification and iron supplementation are cost-effective interventions to reduce iron
+deficiency in four subregions of the world
+Baltussen R, Knai C, Sharan M. J Nutr. 2004; 134(10):2678-84.
+
+[page 5]
+Systematic review(s) have been
+conducted but no recent guidelines yet
+available that have been approved by
+the WHO Guidelines Review Committee
+Learn More 
+This intervention is an Essential
+Nutrition Action targeting the first 1000
+days of life.
+Learn More 
+Fortification of wheat flour
+Category 2 intervention
+Essential Nutrition Actions
+Biological, behavioural and contextual
+rationale
+Regions
+
+Policies
+
+About us
+
+Contact us
+
+Newsletters
+
+[page 6]
+Report misconduct
+Privacy policy
+© 2026 WHO

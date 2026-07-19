@@ -1,0 +1,9 @@
+evidence/raw/
+evidence/cache/
+evidence/entries/
+
+# 本地产物：备份、回收站、脚本快照 —— 都是一次性的，不进仓库
+evidence/entries.bak-*/
+evidence/_trash-*/
+evidence/registry.csv.bak-*
+evidence/registry_new.csv

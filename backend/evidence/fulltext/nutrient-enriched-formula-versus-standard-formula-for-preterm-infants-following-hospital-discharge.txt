@@ -1,0 +1,5629 @@
+
+
+[page 1]
+Cochrane
+Library
+ 
+Cochrane Database of Systematic Reviews
+ 
+Nutrient-enriched formula versus standard formula for preterm
+infants following hospital discharge (Review)
+ 
+ 
+Young L, Embleton ND, McGuire W
+ 
+ 
+Young L, Embleton ND, McGuire W. 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge. 
+Cochrane Database of Systematic Reviews 2016, Issue 12. Art. No.: CD004696. 
+DOI: 10.1002/14651858.CD004696.pub5.
+ 
+ 
+www.cochranelibrary.com
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+ 
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+[page 2]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+T A B L E   O F   C O N T E N T S
+ABSTRACT.....................................................................................................................................................................................................
+1
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+2
+SUMMARY OF FINDINGS..............................................................................................................................................................................
+3
+BACKGROUND..............................................................................................................................................................................................
+5
+OBJECTIVES..................................................................................................................................................................................................
+5
+METHODS.....................................................................................................................................................................................................
+6
+RESULTS........................................................................................................................................................................................................
+8
+Figure 1..................................................................................................................................................................................................
+9
+Figure 2..................................................................................................................................................................................................
+10
+Figure 3..................................................................................................................................................................................................
+12
+Figure 4..................................................................................................................................................................................................
+13
+Figure 5..................................................................................................................................................................................................
+14
+Figure 6..................................................................................................................................................................................................
+16
+Figure 7..................................................................................................................................................................................................
+17
+Figure 8..................................................................................................................................................................................................
+18
+DISCUSSION..................................................................................................................................................................................................
+19
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+19
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+20
+REFERENCES................................................................................................................................................................................................
+21
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+24
+DATA AND ANALYSES....................................................................................................................................................................................
+37
+Analysis 1.1. Comparison 1 Postdischarge formula versus standard term formula, Outcome 1 Growth rates during trial period.....
+39
+Analysis 1.2. Comparison 1 Postdischarge formula versus standard term formula, Outcome 2 Weight (grams)............................
+40
+Analysis 1.3. Comparison 1 Postdischarge formula versus standard term formula, Outcome 3 Crown-heel length (mm).............
+41
+Analysis 1.4. Comparison 1 Postdischarge formula versus standard term formula, Outcome 4 Head circumference (mm)..........
+42
+Analysis 1.5. Comparison 1 Postdischarge formula versus standard term formula, Outcome 5 Development...............................
+43
+Analysis 1.6. Comparison 1 Postdischarge formula versus standard term formula, Outcome 6 Bone mineralisation....................
+44
+Analysis 2.1. Comparison 2 Preterm formula versus standard term formula, Outcome 1 Growth rates during trial period...........
+46
+Analysis 2.2. Comparison 2 Preterm formula versus standard term formula, Outcome 2 Weight (grams)......................................
+46
+Analysis 2.3. Comparison 2 Preterm formula versus standard term formula, Outcome 3 Crown-heel length (mm).......................
+47
+Analysis 2.4. Comparison 2 Preterm formula versus standard term formula, Outcome 4 Head circumference (mm)....................
+48
+Analysis 2.5. Comparison 2 Preterm formula versus standard term formula, Outcome 5 Development........................................
+49
+WHAT'S NEW.................................................................................................................................................................................................
+49
+HISTORY........................................................................................................................................................................................................
+50
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+50
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+50
+SOURCES OF SUPPORT...............................................................................................................................................................................
+50
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+51
+INDEX TERMS...............................................................................................................................................................................................
+51
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+i
+
+[page 3]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+[Intervention Review]
+Nutrient-enriched formula versus standard formula for preterm infants
+following hospital discharge
+Lauren Young1, Nicholas D Embleton2, William McGuire3
+1Paediatric Intensive Care Unit, Birmingham Children's Hospital, Birmingham, UK. 2Newcastle Neonatal Service, Newcastle Hospitals
+NHS Foundation Trust and University of Newcastle, Newcastle upon Tyne, UK. 3Centre for Reviews and Dissemination, York, UK
+Contact: William McGuire, Centre for Reviews and Dissemination, The University of York, York, Y010 5DD, UK.
+William.McGuire@hyms.ac.uk.
+Editorial group: Cochrane Neonatal Group.
+Publication status and date: New search for studies and content updated (no change to conclusions), published in Issue 12, 2016.
+Citation:  Young L, Embleton ND, McGuire W. Nutrient-enriched formula versus standard formula for preterm infants following hospital
+discharge. Cochrane Database of Systematic Reviews 2016, Issue 12. Art. No.: CD004696. DOI: 10.1002/14651858.CD004696.pub5.
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Preterm infants are ofen growth-restricted at hospital discharge. Feeding nutrient-enriched formula rather than standard formula to
+infants afer hospital discharge might facilitate 'catch-up' growth and might improve development.
+Objectives
+To compare the eﬀects of nutrient-enriched formula versus standard formula on growth and development of preterm infants afer hospital
+discharge.
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of
+Controlled Trials (2016, Issue 8) in the Cochrane Library, MEDLINE, Embase and the Cumulative Index to Nursing and Allied Health Literature
+(CINAHL; to 8 September 2016), as well as conference proceedings and previous reviews.
+Selection criteria
+Randomised and quasi-randomised controlled trials that compared the eﬀects of feeding nutrient-enriched formula (postdischarge
+formula or preterm formula) versus standard term formula to preterm infants afer hospital discharge .
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and extracted data independently. We analysed treatment eﬀects as
+described in the individual trials and reported risk ratios and risk diﬀerences for dichotomous data, and mean diﬀerences (MDs) for
+continuous data, with respective 95% confidence intervals (CIs). We used a fixed-eﬀect model in meta-analyses and explored potential
+causes of heterogeneity by performing sensitivity analyses. We assessed quality of evidence at the outcome level using the Grading of
+Recommendations Assessment, Development and Evaluation (GRADE) approach.
+Main results
+We included 16 eligible trials with a total of 1251 infant participants. Trials were of variable methodological quality, with lack of allocation
+concealment and incomplete follow-up identified as major potential sources of bias. Trials (N = 11) that compared feeding infants with
+'postdischarge formula' (energy density about 74 kcal/100 mL) versus standard term formula (about 67 kcal/100 mL) did not find consistent
+evidence of eﬀects on growth parameters up to 12 to 18 months post term. GRADE assessments indicated that evidence was of moderate
+quality, and that inconsistency within pooled estimates was the main quality issue.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+1
+
+[page 4]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Trials (N = 5) that compared feeding with 'preterm formula' (about 80 kcal/100 mL) versus term formula found evidence of higher rates
+of growth throughout infancy (weighted mean diﬀerences at 12 to 18 months post term: about 500 g in weight, 5 to 10 mm in length, 5
+mm in head circumference). GRADE assessments indicated that evidence was of moderate quality, and that imprecision of estimates was
+the main quality issue.
+Few trials assessed neurodevelopmental outcomes, and these trials did not detect diﬀerences in developmental indices at 18 months post
+term. Data on growth or development through later childhood have not been provided.
+Authors' conclusions
+Recommendations to prescribe 'postdischarge formula' for preterm infants afer hospital discharge are not supported by available
+evidence. Limited evidence suggests that feeding 'preterm formula' (which is generally available only for in-hospital use) to preterm infants
+afer hospital discharge may increase growth rates up to 18 months post term.
+P L A I N   L A N G U A G E   S U M M A R Y
+Nutrient-enriched formula versus standard term formula for preterm infants following hospital discharge
+Review question: Does feeding preterm infants formula enriched with extra nutrients versus standard formula (designed for term infants)
+afer hospital discharge increase growth rate and improve development?
+Background: By the time preterm infants are ready to go home from the hospital afer receiving care since birth, many are smaller and
+weigh less than they would have had they stayed in the womb instead of being born early. It may be that feeding preterm infants a formula
+enriched with extra nutrients (rather than standard formula used to feed term infants) helps them grow more quickly (and catch up with
+infants born at term) while improving their development.
+Study characteristics: We identified 16 eligible trials enrolling a total of 1251 infants through searches updated to 8 September 2016.
+Key findings: These trials provide moderate-quality evidence that unrestricted feeding with nutrient-enriched (vs standard) formula does
+not have important eﬀects on growth and development up to about 18 months of age. Long-term growth and development have not yet
+been assessed.
+Conclusions: Current recommendations to prescribe nutrient-enriched formula for preterm infants afer hospital discharge are not
+supported by available evidence.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+2
+
+[page 5]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+S U M M A R Y   O F   F I N D I N G S
+ 
+Summary of findings for the main comparison.   Postdischarge formula compared with standard term formula for
+preterm infants afer hospital discharge
+Postdischarge formula compared with standard term formula for preterm infants after hospital discharge
+Patient or population: preterm infants after hospital discharge
+Setting: community
+Intervention: postdischarge formula
+Comparison: standard term formula
+Anticipated absolute effects*
+(95% CI)
+Outcomes
+Postdischarge formula vs stan-
+dard term formula
+Number of par-
+ticipants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+Weight (grams) 3-4
+months post term
+MD 7.45 g lower
+(141.84 lower to 126.93 higher)
+523
+(6 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for moder-
+ate inconsistency (I2 =
+62%)
+Weight (grams) 6 months
+post term
+MD 35.54 g higher
+(113.71 lower to 184.78 higher)
+576
+(7 studies)
+⊕⊕⊕⊝
+Moderate
+Downgraded for incon-
+sistency moderate (I2 =
+64%).
+Crown-heel length (mm)
+3-4 months post term
+MD 2.45 mm higher
+(2.01 lower to 6.9 higher)
+523
+(6 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for high
+inconsistency (I2 = 81%)
+Crown-heel length (mm) 6
+months post term
+MD 2.12 mm higher
+(2.16 lower to 6.41 higher)
+576
+(7 studies)
+⊕⊕⊕⊝
+Moderate
+Downgraded for moder-
+ate inconsistency (I2 =
+75%)
+Head circumference (mm)
+3-4 months post term
+MD 0.3 mm lower
+(2.86 lower to 2.26 higher)
+523
+(6 studies)
+⊕⊕⊕⊝
+Moderate
+Downgraded for moder-
+ate inconsistency (I2 =
+71%)
+Head circumference (mm)
+6 months post term
+MD 2.28 mm higher
+(0.28 lower to 4.83 higher)
+576
+(7 studies)
+⊕⊕⊕⊝
+Moderate
+Downgraded for moder-
+ate inconsistency (I2 =
+69%)
+Development - Bayley
+Scales of Infant Develop-
+ment II: Mental Develop-
+ment Index
+MD 0.9 higher
+(3.24 lower to 5.04 higher)
+184
+(1 RCT)
+⊕⊕⊕⊕
+High
+ 
+ 
+ 
+Summary of findings 2.   Preterm formula compared with standard term formula for preterm infants afer hospital
+discharge
+Preterm formula compared with standard term formula for preterm infants after hospital discharge
+Patient or population: preterm infants after hospital discharge
+Setting: community
+Intervention: preterm formula
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+3
+
+[page 6]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Comparison: standard term formula
+Anticipated absolute effects* (95%
+CI)
+Outcomes
+Preterm formula vs standard term
+formula
+Number of par-
+ticipants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+Weight (grams) 3-4 months
+post term
+MD 74.41 g higher
+(267.1 lower to 415.93 higher)
+130
+(3 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Weight (grams) 6 months
+post term
+MD 74.6 g higher
+(164.73 lower to 313.92 higher)
+273
+(4 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Crown-heel length (mm) 3-4
+months post term
+MD 2.27 mm lower
+(13.09 lower to 8.56 higher)
+130
+(3 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Crown-heel length (mm) 6
+months post term
+MD 1.83 mm higher
+(6.25 lower to 9.92 higher)
+160
+(3 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Head circumference (mm)
+3-4 months post term
+MD 3.61 mm higher
+(2.09 lower to 9.31 higher)
+130
+(3 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Head circumference (mm) 6
+months post term
+MD 5.82 mm higher
+(1.32 higher to 10.32 higher)
+160
+(3 RCTs)
+⊕⊕⊕⊝
+Moderate
+Downgraded for
+imprecision
+Development - Bayley Scales
+of Infant Development II:
+Mental Development Index
+MD 1.44 lower
+(6.22 lower to 3.35 higher)
+143
+(2 RCTs)
+⊕⊕⊕⊕
+High
+ 
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+4
+
+[page 7]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+B A C K G R O U N D
+Compared with term infants, preterm infants have limited nutrient
+reserves at birth. Also, preterm infants, especially very preterm and
+very low birth weight (VLBW) infants, are subject to a variety of
+physiological and metabolic stresses that increase their nutrient
+needs. Recommended nutrient requirements for preterm infants
+are based on intrauterine growth studies and assume that the
+optimal rate of postnatal growth should be about the same as that
+of uncompromised fetuses of an equivalent postmenstrual age.
+Evidence indicates, however, that recommended target levels of
+nutrient input are rarely achieved in practice, and that most very
+preterm or VLBW infants accumulate significant energy, protein,
+mineral and other nutrient deficits during their initial hospital stay
+(Embleton 2001). By the time they are ready to go home, typically
+at around 36 to 40 weeks' postmenstrual age, many infants are
+substantially growth-restricted relative to their term-born peers
+(Clark 2003; Dusick 2003; Lucas 1984).
+Description of the condition
+Afer hospital discharge, responsively (demand) fed preterm infants
+ofen consume relatively more milk than term infants to attain
+'catch-up' growth (Lucas 1992a). Despite this, growth deficits
+can persist through childhood and adolescence (Bracewell 2008;
+Farooqi 2006; Ford 2000; Trebar 2007). Slow or incomplete catch-
+up growth is associated with higher risk of neurodevelopmental
+impairment in later childhood, and with poorer cognitive and
+educational outcomes (Cooke 2003; Hack 1991; Leppanen 2014).
+Preterm infants who have accumulated mineral deficits have
+higher risks of metabolic bone disease and slower skeletal growth
+compared with infants born at term, although uncertainty remains
+about long-term eﬀects of such deficits on bone mass and
+health (Fewtrell 2011). Furthermore, nutritional deficiency and
+growth restriction in utero and during early infancy may have
+consequences for long-term metabolic and cardiovascular health
+(Embleton 2013; Lapillonne 2013).
+Description of the intervention
+Because slow or incomplete catch-up growth is associated with
+prolonged growth restriction and slower neurodevelopmental
+progression, attention has focused on nutritional interventions
+that might promote growth during the putative ‘critical window’
+of early infancy in the post-hospital discharge period. Two broad
+strategies for nutritional interventions are known (Dusick 2003;
+Fewtrell 2003; Klingenberg 2011).
+•
+Multi-nutrient fortification of expressed milk for infants fed with
+human breast milk.
+•
+Nutrient-enriched formula for formula-fed infants.
+Another Cochrane review addresses the question of whether
+multi-nutrient fortification of human breast milk aﬀects growth
+and development in preterm infants afer hospital discharge
+(McCormick 2013). This review focuses on the comparison of
+nutrient-enriched formula versus standard formula for formula-fed
+preterm infants afer hospital discharge.
+A variety of standard and nutrient-enriched formula preparations
+are available (Aggett 2006; Griﬀin 2007). These can be categorised
+broadly as:
+•
+standard term formula: designed for term infants, based on the
+composition of mature human breast milk. The typical energy
+content is 66 to 68 kcal/100 mL. The concentration of protein -
+approximately 1.4 to 1.7 g/100 mL - and calcium and phosphate
+content (about 50 mg/100 mL and 30 mg/100 mL, respectively)
+are not suﬀicient to satisfy recommended nutrient needs for
+stable and growing preterm infants;
+•
+postdischarge formula: specifically designed for preterm infants
+post discharge from the hospital. These are energy (about 72
+to 74 kcal/100 mL) and protein (about 1.8 to 1.9 g/100 mL)
+enriched and are variably enriched with minerals, vitamins and
+trace elements compared with standard term formula. Expert
+bodies and authorities recommend these formulas for preterm
+infants for three to 12 months post discharge (Aggett 2006); and
+•
+preterm formula: energy-enriched (about 80 kcal/100 mL),
+protein-enriched (2.0 to 2.4 g/100 mL) and variably enriched
+with minerals, vitamins and trace elements to support
+intrauterine nutrient accretion rates. These formulas are
+commonly used for nutrition of preterm infants before
+hospital discharge and generally are not recommended for
+postdischarge feeding.
+How the intervention might work
+Feeding preterm infants afer hospital discharge formula enriched
+with extra energy, protein, minerals and vitamins may be expected
+to promote rapid catch-up growth. However, because preterm
+infants fed in response to hunger and satiation cues (demand or
+responsive feeding) adjust their volume of intake according to the
+energy density of formula, infants may consume less nutrient-
+enriched milk than standard formula (Lucas 1992a). Consequently,
+infants fed responsively with preterm or postdischarge formula
+may not receive any more energy (or other nutrients, depending on
+the nutrient:energy ratio) than infants fed standard term formula.
+Feeding of nutrient-enriched formula may be associated with
+disordered gastric motility and emptying (Hancock 1984; Siegel
+1984). Nutrient-enriched formula may therefore be poorly
+tolerated, thereby reducing nutrient delivery and potentially
+removing any benefit for growth and development. Furthermore,
+catch-up growth with accelerated weight gain and crossing of body
+mass index (BMI) percentiles might be associated with altered fat
+distribution and related ‘programmed’ metabolic consequences
+that may increase the risk of insulin resistance and cardiovascular
+disease (Doyle 2004; Euser 2005; Euser 2008; Hack 2003; Saigal
+2006).
+Why it is important to do this review
+Given the potential for postdischarge nutrition strategies to aﬀect
+growth and development in preterm infants, and the fact that
+uncertainty surrounds the balance between putative benefits
+and harms, this review was undertaken to detect, appraise and
+synthesise available evidence from randomised controlled trials to
+inform practice and research.
+O B J E C T I V E S
+To compare the eﬀects of nutrient-enriched formula versus
+standard formula on growth and development of preterm infants
+afer hospital discharge.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+5
+
+[page 8]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+We included controlled trials using random or quasi-random
+patient allocation, including cluster-randomised controlled trials.
+We did not include cross-over trials. Studies published as abstracts
+were eligible for inclusion only if assessment of study quality was
+possible, and if other criteria for inclusion were fulfilled.
+Types of participants
+We included preterm infants fed formula (exclusively or as a
+supplement to human breast milk) afer discharge from hospital.
+The intervention may have commenced up to one week before
+planned discharge from hospital. We did not include in this review
+trials that randomly assigned infants to nutrient-enriched formula
+versus standard term formula more than one week before hospital
+discharge (and then continued the intervention afer hospital
+discharge).
+Types of interventions
+•
+Standard term formula: energy content ≤ 72 kcal/100 mL and
+protein content ≤ 1.7 g/100 mL
+versus
+•
+Postdischarge formula: energy content > 72 kcal/100 mL (but ≤
+75 kcal/100 mL) and protein content > 1.7 g /100 mL; or
+•
+Preterm formula: energy content > 75 kcal/100 mL and protein
+content > 2.0 g/100 mL.
+The formula could be fed as the sole diet or as a supplement to
+human breast milk. Infants in trial groups should have received
+similar care other than the type of formula. Target levels prescribed
+for volume of intake and advice or support for demand feeding
+should have been no diﬀerent among groups.
+Types of outcome measures
+Primary outcomes
+•
+Growth: weight, length, head growth, skinfold thickness, BMI
+and measures of body composition (lean/fat mass) and growth
+restriction (proportion of infants who remain < 10th percentile
+for distribution of weight, length or head circumference in the
+index population). Long-term growth and growth restriction
+(proportion of infants who remain below the 10th percentile for
+distribution of weight, height or head circumference in the index
+population)
+•
+Development
+◦Neurodevelopmental outcomes assessed by validated tools
+at ≥ 12 months' corrected age; classifications of disability,
+including non-ambulant cerebral palsy, developmental delay
+and auditory and visual impairment
+◦Cognitive and educational outcomes at ≥ 5 years: intelligence
+quotient and/or indices of educational achievement
+measured by a validated tool (including school examination
+results)
+Secondary outcomes
+•
+Feed intolerance such as vomiting or diarrhoea that necessitates
+ceasing the study formula
+•
+Measures of bone mineralisation such as serum alkaline
+phosphatase level, or assessment of bone mineral content by
+dual-energy X-ray absorptiometry and clinical or radiological
+evidence of rickets on long-term follow-up
+•
+Blood pressure on long-term follow-up
+•
+Body mass index or other measures of overweight or obesity on
+long-term follow-up
+Search methods for identification of studies
+We used the standard search strategy of the Cochrane Neonatal
+Review Group.
+Electronic searches
+We updated the search on 8 September 2016 using a combination of
+the following terms: (infant nutrition OR infant formula OR milk OR
+formula OR nutrient OR fortif* OR supplemt*) AND (postdischarge
+OR post-discharge OR discharge) plus the following database-
+specific terms limited by relevant search filters for clinical trials, as
+recommended in the Cochrane Handbook for Systematic Reviews of
+Interventions.
+•
+PubMed: ((infant, newborn[MeSH] OR newborn OR neonate OR
+neonatal OR premature OR low birth weight OR VLBW OR LBW
+or infan* or neonat*) AND (randomized controlled trial [pt] OR
+controlled clinical trial [pt] OR randomized [tiab] OR placebo
+[tiab] OR drug therapy [sh] OR randomly [tiab] OR trial [tiab] OR
+groups [tiab]) NOT (animals [mh] NOT humans [mh]))
+•
+Embase: (infant, newborn or newborn or neonate or neonatal
+or premature or very low birth weight or low birth weight or
+VLBW or LBW or Newborn or infan* or neonat*) AND (human not
+animal) AND (randomized controlled trial or controlled clinical
+trial or randomized or placebo or clinical trials as topic or
+randomly or trial or clinical trial)
+•
+Cumulative Index to Nursing and Allied Health Literature
+(CINAHL): (infant, newborn OR newborn OR neonate OR
+neonatal OR premature OR low birth weight OR VLBW OR LBW
+or Newborn or infan* or neonat*) AND (randomized controlled
+trial OR controlled clinical trial OR randomized OR placebo OR
+clinical trials as topic OR randomly OR trial OR PT clinical trial)
+•
+Cochrane Library: (infant or newborn or neonate or neonatal or
+premature or very low birth weight or low birth weight or VLBW
+or LBW)
+We applied no language restrictions.
+We searched ClinicalTrials.gov and Current Controlled Trials for
+completed and ongoing trials.
+Searching other resources
+We examined the references provided in studies identified as
+potentially relevant. We searched abstracts from annual meetings
+of the Pediatric Academic Societies (1993 to 2016), the European
+Society for Pediatric Research (1995 to 2016), the UK Royal
+College of Paediatrics and Child Health (2000 to 2016) and the
+Perinatal Society of Australia and New Zealand (2000 to 2016).
+We considered trials reported only as abstracts to be eligible
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6
+
+[page 9]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+if suﬀicient information was available from the report, or from
+contact with study authors, to fulfil the inclusion criteria.
+Data collection and analysis
+We used the standard methods of the Cochrane Neonatal Review
+Group.
+Selection of studies
+Two review authors screened the titles and abstracts of all studies
+identified by the above search strategy. We reassessed the full texts
+of potentially eligible reports and excluded studies that did not
+meet all of the inclusion criteria. We discussed disagreements until
+consensus was achieved.
+Data extraction and management
+We used a data collection form to aid extraction of relevant
+information from each included study. Two review authors
+extracted study data separately. We discussed disagreements
+until consensus was achieved and asked investigators for further
+information if data provided in the trial reports were insuﬀicient.
+Assessment of risk of bias in included studies
+We used criteria and standard methods of the Cochrane Neonatal
+Review Group to assess the methodological quality of included
+trials. Two review authors conducted assessment of risk of bias and
+resolved disagreements by discussion. We requested additional
+information from trial authors to clarify methods and results if
+necessary.
+We made explicit judgements about whether studies were at high
+risk of bias across four domains, according to the criteria suggested
+in the Cochrane Handbook for Systematic Reviews of Interventions
+(Higgins 2011).
+•
+Random sequence generation: We categorised the method used
+to generate the allocation sequence as:
+◦low risk - any truly random process (e.g. random number
+table, computer random number generator);
+◦high risk - any non-random process (e.g. odd or even date of
+birth, hospital or clinic record number); or
+◦unclear risk - no or unclear information provided.
+•
+Allocation concealment: We categorised the method used to
+conceal the allocation sequence as:
+◦low risk (e.g. telephone or central randomisation,
+consecutively numbered sealed opaque envelopes);
+◦high risk - open random allocation (e.g. unsealed or non-
+opaque envelopes, alternation; date of birth); or
+◦unclear - no or unclear information provided.
+•
+Blinding: We assessed blinding of participants, clinicians and
+caregivers and outcome assessors separately for diﬀerent
+outcomes and categorised the methods as:
+◦low risk;
+◦high risk; or
+◦unclear risk.
+•
+Incomplete outcome data: We described completeness of
+data, including attrition and exclusions from analysis for each
+outcome and reasons for attrition or exclusion, when reported.
+We assessed whether missing data were balanced across groups
+or were related to outcomes. When suﬀicient information
+was reported or was supplied by trial authors, we planned
+to reinstate missing data to the analyses. We categorised
+completeness as:
+•
+low risk: ≤ 10% missing data;
+•
+high risk: > 10% missing data; or
+•
+unclear risk: no or unclear information provided.
+We assessed the likely magnitude and direction of bias and whether
+we considered it likely for bias to impact study findings. We planned
+to explore the impact of the level of bias by performing sensitivity
+analyses.
+Measures of treatment eﬀect
+We analysed treatment eﬀects in individual trials by using Review
+Manager 5.3 and reported risk ratios (RRs) and risk diﬀerences
+(RDs) for dichotomous data and mean diﬀerences (MDs) for
+continuous data, with respective 95% confidence intervals (CIs). We
+determined the number needed to treat for an additional beneficial
+outcome (NNTB) or an additional harmful outcome (NNTH) for
+analyses with statistically significant diﬀerences among RDs.
+Unit of analysis issues
+The unit of analysis was the participating infant in individually
+randomised trials. For cluster-randomised trials (had we identified
+any for inclusion), we planned to undertake analyses at the level
+of the individual while accounting for clustering of data by using
+methods recommended in the Cochrane Handbook for Systematic
+Reviews of Interventions (Higgins 2011).
+Dealing with missing data
+We requested additional data from trial investigators if data on
+important outcomes were missing or were reported unclearly.
+When data were still missing, we examined the impact of this on
+eﬀect size estimates by performing sensitivity analyses.
+Assessment of heterogeneity
+We examined treatment eﬀects in individual trials and
+heterogeneity between trial results by inspecting forest plots
+if more than one trial was included in a meta-analysis. We
+calculated the I2 statistic for each analysis to quantify inconsistency
+across studies and to describe the percentage of variability
+in eﬀect estimates that may be due to heterogeneity rather
+than to sampling error. If we detected moderate or high (I2 >
+50%) heterogeneity, we explored possible causes (e.g. diﬀerences
+in study design, participants or interventions; completeness of
+outcome assessments) by performing sensitivity analyses.
+Assessment of reporting biases
+If more than five trials were included in a meta-analysis, we
+conducted a funnel plot analysis.
+Data synthesis
+We used the fixed-eﬀect model in RevMan 5.1 to perform meta-
+analysis.
+Quality of evidence
+We assessed the quality of evidence for the main comparison
+at the outcome level by using the Grading of Recommendations
+Assessment, Development and Evaluation (GRADE) approach
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+7
+
+[page 10]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+(Guyatt 2011a), which considers evidence from randomised
+controlled trials as of high quality that may be downgraded on the
+basis of consideration of any of five areas.
+•
+Design (risk of bias).
+•
+Consistency across studies.
+•
+Directness of the evidence.
+•
+Precision of estimates.
+•
+Presence of publication bias.
+The GRADE approach is used to assess the quality of a body of
+evidence according to four grades (Schünemann 2013).
+•
+High: We are very confident that the true eﬀect lies close to the
+estimate of eﬀect.
+•
+Moderate: We are moderately confident in the eﬀect estimate:
+The true eﬀect is likely to be close to the estimate of eﬀect but
+may be substantially diﬀerent.
+•
+Low: Our confidence in the eﬀect estimate is limited: The true
+eﬀect may be substantially diﬀerent from the estimate of eﬀect.
+•
+Very low: We have very little confidence in the eﬀect estimate:
+The true eﬀect is likely to be substantially diﬀerent from the
+estimate of eﬀect.
+Two review authors assessed independently the quality of the
+evidence for outcomes identified as critical or important for clinical
+decision making (growth, development).
+In cases for which we considered risk of bias to arise from
+inadequate concealment of allocation, randomised assignment,
+complete follow-up or blinded outcome assessment, to reduce our
+confidence in the eﬀect estimates, we downgraded the quality
+of evidence accordingly (Guyatt 2011b). We evaluated consistency
+on the basis of similarity of point estimates, extent of overlap of
+confidence intervals and statistical criteria, including measurement
+of heterogeneity (I2). We downgraded the quality of evidence when
+inconsistency across study results was large and unexplained (i.e.
+some studies suggested important benefit, and others no eﬀect or
+harm with no explanation) (Guyatt 2011c). We assessed precision
+accordingly with the 95% confidence interval (CI) around the
+pooled estimation (Guyatt 2011d). When trials were conducted in
+populations other than the target population, we downgraded the
+quality of evidence because of indirectness (Guyatt 2011e).
+We entered data (pooled estimates of eﬀects and 95% CIs) and
+explicit judgements for each of the above aspects assessed into
+the Guideline Development Tool, the sofware used to create
+'Summary of findings (SoF)' tables (GRADEpro 2008). We explained
+our assessment of study characteristics in footnotes in the SoF
+table.
+Subgroup analysis and investigation of heterogeneity
+We prespecified the following subgroup analyses.
+•
+Very preterm (< 32 weeks' gestation) or VLBW (< 1500 g) infants
+(vs infants at 32 to 36 weeks' gestation or birth weight 1500 to
+2499 g).
+•
+Infants who were small for gestational age (< 10th percentile for
+weight) at hospital discharge (vs infants ≥ 10th percentile).
+•
+Infants with chronic lung disease receiving supplemental oxygen
+therapy at hospital discharge (vs infants without chronic lung
+disease).
+R E S U L T S
+Description of studies
+We identified two potentially eligible study reports. We included
+one new trial (Roggero 2011). We have not yet been able to
+obtain the full article reporting a potentially eligible trial and have
+categorised this as a 'study awaiting classification' (Ekcharoen
+2015). See Figure 1.
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+8
+
+[page 11]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 1.   Study flow diagram: review update.
+ 
+Included studies
+In total, we identified 16 trials that fulfil review eligibility criteria
+(Agosti 2003; Atkinson 1999; Atkinson 2004; Carver 2001; Cooke
+2001; De Curtis 2002; Jeon 2011; Koo 2006; Litmanovitz 2004; Lucas
+1992; Lucas 2001; Peng 2004; Picaud 2005; Roggero 2011; Roggero
+2012; Taroni 2009). See Characteristics of included studies.
+Participants
+Trials were undertaken within the past 20 years by investigators
+attached to perinatal centres in Europe, North America and the
+Middle East. In total, 1251 infants participated in these trials (range
+20 to 229).
+Most trials specified a maximum birth weight as the primary
+eligibility criterion.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+9
+
+[page 12]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+1500 g: Agosti 2003; Litmanovitz 2004; Jeon 2011; Taroni 2009.
+•
+1750 g: Cooke 2001; De Curtis 2002; Lucas 2001; Picaud 2005.
+•
+1800 g: Atkinson 1999; Carver 2001.
+•
+1850 g: Lucas 1992; Peng 2004.
+Four trials specified gestational age as an eligibility criterion.
+•
+< 35 weeks: Koo 2006.
+•
+< 37 weeks: Atkinson 2004; Roggero 2011; Roggero 2012.
+Three trials specifically recruited participants who were small for
+gestational age.
+•
+Birth weight < 5th percentile: Atkinson 2004.
+•
+Birth weight < 10th percentile: Taroni 2009; Roggero 2012.
+Although most reports of the other trials did not specify intrauterine
+or postnatal growth restriction as an exclusion criterion, it appears
+that very few participants in the trials were small for gestational age
+at birth or enrolment. Generally, infants with additional problems
+at discharge, particularly those with inadequate independent oral
+feeding or receipt of supplemental oxygen secondary to chronic
+lung disease, were not eligible to participate.
+Interventions
+Postdischarge formula versus standard term formula (Comparison 1)
+Eleven trials (N = 885): Atkinson 1999; Atkinson 2004; Carver 2001;
+De Curtis 2002; Koo 2006; Litmanovitz 2004; Lucas 1992; Lucas 2001;
+Roggero 2011; Roggero 2012; Taroni 2009.
+Preterm formula versus standard term formula (Comparison 2)
+Five trials (N = 366): Agosti 2003; Cooke 2001; Jeon 2011; Peng 2004;
+Picaud 2005.
+All participating infants were fed ad libitum. These feeds were
+intended to be the principal source of milk for a range of periods
+post term (or post hospital discharge).
+•
+One month: Taroni 2009.
+•
+Two months: De Curtis 2002; Picaud 2005.
+•
+Three months: Agosti 2003; Jeon 2011.
+•
+Six months: Cooke 2001; Litmanovitz 2004; Peng 2004; Roggero
+2011; Roggero 2012.
+•
+Nine months: Lucas 1992; Lucas 2001.
+•
+Up to 12 months: Atkinson 1999; Atkinson 2004; Carver 2001;
+Koo 2006.
+Outcomes
+The main outcomes assessed were growth parameters (weight,
+length and occipitofrontal head circumference) assessed up
+to 12 to 18 months' corrected age. Three trials assessed
+neurodevelopmental outcomes at 18 months using Bayley Scales
+of Infant Development II (Cooke 2001; Jeon 2011; Lucas 2001).
+One trial used Griﬀiths' Developmental Scales at six, nine and 12
+months' corrected age (Agosti 2003).
+Excluded studies
+We excluded nine studies (Amesz 2010; Bernbaum 1989; Bhatia
+1991; Brunton 1998; Chan 1994; Cooper 1985; Friel 1993; Lapillonne
+2004; Wheeler 1996) and listed reasons for exclusion in the
+Characteristics of excluded studies table.
+Risk of bias in included studies
+Trials were of variable methodological quality (Figure 2).
+ 
+Figure 2.   Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+ 
+Allocation
+In eight trials (Atkinson 1999; Atkinson 2004; Cooke 2001; Koo
+2006; Lucas 2001; Picaud 2005; Roggero 2011; Roggero 2012),
+the method of randomisation described was likely to ensure
+blinding of allocation. In the other trials, it is not clear whether
+allocation concealment was adequate. In one of these trials,
+substantial between-group diﬀerences in baseline demographic
+characteristics were evident, most likely due to allocation bias
+(Jeon 2011). This trial originally randomised participants to one
+of three intervention groups. We elected to discard data from the
+group in which infant characteristics were statistically significantly
+diﬀerent from those of other groups at enrolment.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10
+
+[page 13]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding
+Most trials blinded families to the type of milk that the infant
+received. In three trials (Agosti 2003; Jeon 2011; Peng 2004), it is
+likely that families were aware of which type of milk their infant
+had been allocated to receive. It is unclear whether blinding was
+satisfactory in another four trials (Litmanovitz 2004; Roggero 2011;
+Roggero 2012; Taroni 2009).
+Most trials blinded outcome assessors and investigators to the
+type of milk that the infant received, but in five trials (Jeon 2011;
+Litmanovitz 2004; Roggero 2011; Roggero 2012; Taroni 2009), it is
+unclear whether blinding was satisfactory. In one trial (Peng 2004),
+physicians were unblinded.
+Incomplete outcome data
+Eleven trials (Atkinson 2004; Cooke 2001; De Curtis 2002; Jeon 2011;
+Litmanovitz 2004; Lucas 1992; Lucas 2001; Peng 2004; Roggero
+2011; Roggero 2012; Taroni 2009) achieved complete or near-
+complete (> 90%) assessment. In two other trials (Atkinson 1999;
+Koo 2006), 75% of infants underwent outcome assessments at
+latest follow-up. In another two trials (Agosti 2003; Carver 2001),
+less than 50% of infants completed the planned 12-month follow-
+up assessment. In Picaud 2005, loss to follow-up by 12 months in
+the control group was substantial (35%) and was greater than in the
+intervention group (9%).
+Eﬀects of interventions
+See: Summary of findings for the main comparison
+Postdischarge formula compared with standard term formula for
+preterm infants afer hospital discharge; Summary of findings 2
+Preterm formula compared with standard term formula for preterm
+infants afer hospital discharge
+Postdischarge formula versus standard term formula
+(Comparison 1)
+Growth (Outcomes 1.1 to 1.4)
+Lucas 1992 detected no statistically significantly diﬀerences in
+weight, length or head circumference at the end of intervention and
+follow-up periods (nine months' corrected age).
+Atkinson 1999 reported that infants who received postdischarge
+formula were statistically significantly heavier at six, nine and
+12 months' corrected age, and researchers noted no statistically
+significant diﬀerences in length or head circumference.
+Carver 2001 detected no statistically significant diﬀerences in
+weight, length or head circumference at six and 12 months'
+corrected age. Loss to follow-up during the trial was substantial,
+and as the published report does not state how many infants were
+assessed at various time points, we could not use data to calculate
+mean diﬀerences.
+Lucas 2001 reported that at completion of the intervention period
+(nine months' corrected age), weight and length were statistically
+significantly greater among infants who received postdischarge
+formula but noted no statistically significant diﬀerences in head
+circumference. At 18 months, results showed no statistically
+significant diﬀerences in weight or head circumference. The
+group of infants who received postdischarge formula remained
+statistically significantly longer on average than infants in the
+control group (MD 9.0, 95% CI 0.3 to 17.7 mm).
+De Curtis 2002 found no statistically significant diﬀerences in rate of
+gain of weight, length or head circumference during the two-month
+trial period.
+Atkinson 2004 reported no statistically significant diﬀerences in rate
+of gain of weight, length or head circumference up to 12 months'
+corrected age (growth data reported as z scores).
+Litmanovitz 2004 noted no statistically significant diﬀerences in
+weight, length or head circumference at six months' corrected age.
+Koo 2006 reported that mean weight, head circumference and
+length were less in the nutrient-enriched formula group at six, nine
+and 12 months afer hospital discharge.
+Taroni 2009 found no statistically significant diﬀerences in weight,
+length or head circumference at one month corrected age.
+Roggero 2011 reported no statistically significant diﬀerences in
+weight, length or head circumference at three, six or 12 months'
+corrected age.
+Roggero 2012 noted no statistically significant diﬀerences in
+weight, length or head circumference at three, six or 12 months'
+corrected age.
+Meta-analyses of growth data
+•
+Weight (Outcome 1.2; Figure 3): Meta-analyses detected no
+statistically significant diﬀerences in weight at three to four and
+six months' corrected age. At nine months, meta-analysis of data
+from four trials (Atkinson 1999; Koo 2006; Lucas 1992; Lucas
+2001) indicated that infants in the postdischarge formula group
+were heavier (weighted mean diﬀerence (WMD) 244, 95% CI 17
+to 471 g). At 12-month follow-up, results showed no statistically
+significant diﬀerences.
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+11
+
+[page 14]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 3.   Forest plot of comparison: 1 Postdischarge formula versus standard term formula, outcome: 1.2 Weight
+(grams).
+ 
+•
+Length (Outcome 1.3; Figure 4): Meta-analyses detected no
+statistically significant diﬀerences in weight at three to four and
+six months' corrected age. At nine months, meta-analysis of data
+from four trials (Atkinson 1999; Koo 2006; Lucas 1992; Lucas
+2001) indicated that infants in the postdischarge formula group
+were longer (WMD 7.3, 95% CI 1.8 to 12.9 mm). At 12-month
+follow-up, results showed no statistically significant diﬀerences.
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+12
+
+[page 15]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 4.   Forest plot of comparison: 1 Postdischarge formula versus standard term formula, outcome: 1.3 Crown-
+heel length (mm).
+ 
+•
+Head circumference (Outcome 1.4; Figure 5): Meta-analyses
+detected no statistically significant diﬀerences at three to four,
+six, nine or 12 months.
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+13
+
+[page 16]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 5.   Forest plot of comparison: 1 Postdischarge formula versus standard term formula, outcome: 1.4 Head
+circumference (mm).
+ 
+All meta-analyses showed substantial statistical heterogeneity (I2 >
+50%).
+Development (Outcome 1.5)
+Lucas 2001 did not detect a statistically significant diﬀerence in
+the Bayley Scales Mental or Psychomotor Development Index at 18
+months' corrected age. None of the included trials assessed later
+cognitive and educational outcomes.
+Feed intolerance
+Only one trial assessed this outcome (Lucas 1992) and reported no
+statistically significant diﬀerence in the mean number of vomits or
+possets per day. None of the participating infants ceased taking a
+study formula because of feed intolerance.
+Bone mineralisation (Outcome 1.6)
+Atkinson 2004 found no statistically significant diﬀerences in bone
+mineral content assessed at 12 months' corrected age (numerical
+data not available).
+De Curtis 2002 reported no statistically significant diﬀerences in
+bone mineral content nor in bone area at the end of the two-month
+study period.
+Koo 2006 reported that at the end of the 12-month study period,
+infants who received nutrient-enriched formula had statistically
+significantly lower bone mass (measured by dual-energy X-ray
+absorptiometry). Investigators presented data in graphs only, and
+data could not be extracted or obtained for calculation of mean
+diﬀerences.
+Lucas 1992 assessed bone width and bone mineral content of
+the radius at nine months' corrected age. Bone width was not
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+14
+
+[page 17]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+statistically significantly diﬀerent between groups. Bone mineral
+content was statistically significantly greater in the group of infants
+who received the postdischarge formula: mean diﬀerence 20.6, 95%
+CI 7.8 to 33.4 mg/cm.
+Litmanovitz 2004 found no statistically significant diﬀerences in
+bone strength assessed as 'bone speed of sound' on measurement
+with ultrasonography, nor in serum levels of bone-specific alkaline
+phosphatase, at six months' corrected age.
+No trials assessed the eﬀect of the intervention on clinical or
+radiological evidence of rickets.
+Blood pressure on long-term follow-up
+No included trials performed this assessment.
+Body mass index on long-term follow-up
+No included trials performed this assessment.
+Subgroup analyses
+•
+VLBW or very preterm infants: Two trials (Litmanovitz 2004;
+Taroni 2009) recruited exclusively VLBW infants. As described
+above, investigators found no statistically significant diﬀerences
+in weight, length or head circumference, nor in measures of
+bone mineralisation, up to six months' corrected age.
+•
+Infants who remain small for gestational age at hospital
+discharge: Three trials (Atkinson 2004; Roggero 2012; Taroni
+2009) recruited infants who were growth-restricted at birth.
+These trials detected no statistically significant eﬀects on weight
+up to 12 months' corrected age, but meta-analyses of data from
+the two trials that undertook follow-up at six months (Atkinson
+2004; Roggero 2012) revealed statistically significant eﬀects on
+crown-heel length (WMD 8.88, 95% CI 0.94 to 16.83 mm) and on
+head circumference (WMD 5.36, 95% CI 0.62 to 10.11 mm).
+•
+Infants with chronic lung disease requiring home supplemental
+oxygen therapy: No trials exclusively recruited infants with
+chronic lung disease. Subgroup data were not available.
+Preterm formula versus standard term formula (Comparison
+2)
+Growth (Outcomes 2.1-2.4)
+Cooke 2001 found no statistically significant diﬀerences in rate of
+weight gain during the trial period. Researchers presented data
+in graphs only, and data could not be extracted or obtained for
+calculation of the mean diﬀerence. At 18 months' corrected age,
+the nutrient-enriched formula group was statistically significantly
+heavier than the control group (MD 500, 95% CI 26 to 974 g), but
+investigators noted no statistically significant diﬀerences in length
+or head circumference.
+Agosti 2003 reported no statistically significant diﬀerences in mean
+weight, length or head circumference at four, six and 12 months
+afer hospital discharge.
+Peng 2004 noted no statistically significant diﬀerences in mean
+weight, length or head circumference at monthly intervals up to six
+months' corrected age.
+Picaud 2005 observed no statistically significant diﬀerences in rate
+of gain of weight, length or head circumference during the first four
+months of the trial period and no statistically significant diﬀerences
+in weight, length or head circumference between groups at four
+months. At 12 months post discharge, infants in the preterm
+formula group were heavier (MD 1007, 95% CI 211 to 1803 g)
+(Outcome 2.2), were longer (MD 27, 95% CI 2 to 52 mm) (Outcome
+2.3) and had larger head circumference (MD 12, 95% CI 0.2 to 24
+mm) (Outcome 2.4) than control infants. However, loss to follow-up
+by 12 months was substantial in the control group (35%) and was
+greater than that reported for the intervention group (9%).
+Jeon 2011 found no statistically significant diﬀerences in mean
+weight, length or head circumference at three, 12 and 18 months
+afer hospital discharge.
+Meta-analyses of growth data
+•
+Weight (Outcome 2.2; Figure 6): Meta-analysis of data from four
+trials (Agosti 2003; Cooke 2001; Jeon 2011; Picaud 2005) showed
+statistically significantly higher weight in the preterm formula
+group at 12 months' corrected age (WMD 540, 95% CI 255 to 824
+g). Meta-analysis of data from two trials (Cooke 2001; Jeon 2011)
+revealed statistically significantly higher weight in the preterm
+formula group at 18 months (WMD 491, 95% CI 142 to 839 g)
+(Outcome 2.2).
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+15
+
+[page 18]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 6.   Forest plot of comparison: 2 Preterm formula versus standard term formula, outcome: 2.2 Weight (grams).
+ 
+•
+Length (Outcome 2.3; Figure 7): Meta-analysis of data from
+three trials (Agosti 2003; Jeon 2011; Picaud 2005) showed no
+statistically significant diﬀerence at 12 months' corrected age
+(WMD 5.1, 95% CI -4.2 to 14.5 mm). Meta-analysis of data
+from two trials (Cooke 2001; Jeon 2011) revealed statistically
+significantly longer crown-heel length in the preterm formula
+group at 18 months (WMD 11, 95% CI 2 to 20 mm).
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+16
+
+[page 19]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 7.   Forest plot of comparison: 2 Preterm formula versus standard term formula, outcome: 2.3 Crown-heel
+length (mm).
+ 
+•
+Head circumference (Outcome 2.4; Figure 8): Meta-analysis of
+data from three trials (Agosti 2003; Jeon 2011; Picaud 2005)
+showed a statistically significantly larger head circumference in
+the preterm formula group at 12 months' corrected age (WMD
+6.1, 95% CI 1.1 to 11.1 mm). Meta-analysis of data from two trials
+(Cooke 2001; Jeon 2011) revealed a statistically significantly
+larger head circumference in the preterm formula group at 18
+months (WMD 5.4, 95% CI 0.7 to 10.1 mm).
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+17
+
+[page 20]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Figure 8.   Forest plot of comparison: 2 Preterm formula versus standard term formula, outcome: 2.4 Head
+circumference (mm).
+ 
+Development (Outcome 2.5)
+Neither Cooke 2001 nor Jeon 2011 nor a meta-analysis of data
+from both trials detected a statistically significant diﬀerence in
+the Bayley Scales Mental Development Index (WMD -1.4, 95% CI
+-6.2 to 3.4) or in the Psychomotor Development Index (WMD -1.1,
+95% CI -4.2 to 1.93). Agosti 2003 noted no statistically significant
+diﬀerences in Griﬀiths' Developmental Scale evaluations at six, nine
+and 12 months' corrected age (numerical data not available from
+report nor from trialists).
+Feed intolerance
+No included trials performed this assessment.
+Bone mineralisation
+Cooke 2001 assessed body composition with dual-energy X-ray
+absorptiometry at six and 12 months' corrected age and noted
+no statistically significant diﬀerences in bone area, bone mineral
+mass or bone mineral density measurements between groups. In
+the published report, all data were presented in graphs and could
+not be extracted for estimation of mean diﬀerences. Investigators
+also reported that they found no statistically significant diﬀerences
+in serum phosphorus, calcium and alkaline phosphatase levels
+measured at intervals during the study period (up to six months
+post term). These data were presented mainly in graphs and could
+not be extracted for estimation of mean diﬀerences.
+Blood pressure on long-term follow-up
+No included trials performed this assessment.
+Body mass index on long-term follow-up
+No included trials performed this assessment.
+Subgroup analyses
+•
+VLBW or very preterm infants: Two trials (Agosti 2003; Jeon
+2011) exclusively recruited VLBW infants. See details of findings
+described above. Subgroup data from the other trials were not
+available.
+•
+Infants who remain small for gestational age at hospital
+discharge: Subgroup data were not available.
+•
+Infants with chronic lung disease requiring home supplemental
+oxygen therapy: Subgroup data were not available.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+18
+
+[page 21]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+D I S C U S S I O N
+Summary of main results
+Data from 11 randomised controlled trials with a total of 885
+participants provided no evidence that feeding postdischarge
+formula (˜74 kcal/100 mL) versus standard term formula (˜67
+kcal/100 mL) to preterm infants afer hospital discharge aﬀects
+growth parameters up to 12 to 18 months post term.
+The five trials that examined the eﬀect of feeding preterm formula
+(˜80 kcal/100 mL) versus standard term formula provided some
+evidence of an eﬀect on growth parameters. Meta-analyses showed
+a weighted mean diﬀerence of about 500 g for weight, 11 mm for
+length and 5 to 6 mm for head circumference at 12 to 18 months
+post term. It is not yet known whether any of these diﬀerences
+persist through later childhood.
+Evidence of the eﬀects of nutrient-enriched formula on long-
+term development is unclear. The only trial of postdischarge
+versus term formula conducted to assess developmental outcomes
+showed no diﬀerence in the Bayley Scales Mental or Psychomotor
+Development Index assessed at 18 months' corrected age (Lucas
+2001). Similarly, meta-analyses of data from two trials provided
+no evidence that feeding preterm versus term formula aﬀects
+neurodevelopmental outcomes at 18 months' corrected age. Data
+on longer-term cognitive and educational outcomes are not yet
+available.
+Overall completeness and applicability of evidence
+We identified 11 eligible trials that compared feeding with
+postdischarge formula versus term formula, but studies generally
+were small and of variable methodological quality. Quantitative
+synthesis was limited, as only seven of these trials (Atkinson 1999;
+Koo 2006; Litmanovitz 2004; Lucas 1992; Lucas 2001; Roggero 2011;
+Roggero 2012) presented data that could be included in meta-
+analyses of growth outcomes. Interpretation of meta-analyses was
+further limited by heterogeneity. The source of heterogeneity is
+not clear, as these trials were of similar design (intervention given
+for six to 12 months) and methodological quality (satisfactory
+processes to ensure allocation concealment and achievement of
+about 70% to 80% follow-up at longer than six months post term).
+Meta-analyses of data from the five trials that compared preterm
+formula versus term formula were more complete and revealed no
+statistical heterogeneity.
+Diﬀerences in measured eﬀects on growth parameters between
+postdischarge formula and preterm formula may simply be related
+to total nutrient content and intake. An additional factor is
+that whereas postdischarge formula contains about 10% more
+calories and 20% to 25% more protein and bone minerals than
+term formula, preterm formula is about 20% energy-enriched
+and contains 40% to 60% more protein and minerals than term
+formula. Demand (responsively) fed infants regulate their volume
+of milk intake relative to its calorie density; therefore, infants
+in comparison groups may have had similar total energy intake.
+However, infants fed postdischarge formula would still have
+received about 10% more protein and minerals than those fed term
+formula, but infants fed preterm formula would have received up
+to about 25% more protein and minerals than those given term
+formula. It is possible that protein and mineral intake (per unit of
+energy) is the key factor in determining catch-up growth rates and,
+specifically, lean and skeletal growth, in this population of infants.
+The applicability of currently available data is limited by the short
+duration of follow-up reported in clinical trials. No trials planned
+to undertake or undertook assessment of growth or development
+beyond 12 to 18 months' corrected age, and some trials reported
+growth outcomes only up to six months. Similarly, no trials have
+reported data related to possible adverse metabolic consequences
+of nutrient supplementation in early infancy, nor to any long-term
+measures of obesity (such as body mass index (BMI), fat mass)
+or risk factors for cardiovascular disease (such as elevated blood
+pressure).
+Quality of the evidence
+Interpretation of review findings is limited by methodological
+weaknesses associated with potential for bias in some trials (Figure
+2). Methods used to preserve allocation concealment are uncertain
+for some trials. Only one trial (Jeon 2011) reported substantial
+between-group diﬀerences in baseline demographics that are likely
+due to allocation bias. We elected to exclude one arm of this
+three-arm trial because of substantial diﬀerences in mean birth
+weight, gestational age and proportion of growth-restricted infants.
+The other methodological limitation apparent in six trials was
+incomplete outcome assessment (loss to follow-up > 20%). In most
+of these trials (Atkinson 1999; Koo 2006; Peng 2004; Picaud 2005),
+loss to follow-up was less than 30% and was distributed evenly
+between intervention and control groups. In two trials (Agosti 2003;
+Carver 2001), loss to follow-up at 12-month assessment was greater
+than 50%. However, these trials did not contribute substantially to
+any meta-analyses.
+The GRADE assessment revealed that evidence for key growth
+outcomes was of moderate quality because of inconsistency
+(moderate or high heterogeneity in meta-analyses of trials of
+postdischarge formula vs standard formula; Summary of findings
+for the main comparison) and imprecision (few trials with low
+numbers of participants included in meta-analyses of preterm
+formula vs standard formula; Summary of findings 2).
+Potential biases in the review process
+Our main concern with the review process is that findings may be
+subject to publication and other reporting biases, including greater
+availability of numerical data for inclusion in meta-analyses from
+trials that reported statistically significant or clinically important
+eﬀects (Hopewell 2009). We attempted to minimise this threat
+by searching the proceedings of major international perinatal
+conferences to identify trial reports that were not (or were not yet)
+published in full form in academic journals. However, we cannot be
+sure whether other trials have been undertaken but not reported,
+and we remain concerned that such trials are less likely than
+published trials to have detected statistically significant or clinically
+important eﬀects. The meta-analyses that we performed did not
+include suﬀicient trials to explore the symmetry of funnel plots as
+a means of identifying possible publication or reporting bias.
+A U T H O R S '   C O N C L U S I O N S
+Implications for practice
+These findings do not support expert group and consensus
+recommendations that formula-fed preterm infants should receive
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+19
+
+[page 22]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+a postdischarge formula for up to 12 months afer discharge
+from the hospital (Aggett 2006; Bhatia 2005; Carver 2005; Dusick
+2003; Griﬀin 2007; Kleinman 2004). In contrast, available trial
+data indicate that feeding with 'preterm formula', which generally
+is licensed and available only for in-hospital use, may increase
+weight, length and head circumference growth up to 12 to 18
+months post term.
+Infants who participated in the trials included in this review were
+fed responsively (on demand), and study findings may not be
+applicable to infants who cannot feed responsively, for example,
+because of oro-motor dysmotility or chronic lung disease.
+Implications for research
+Follow-up of infants who participated in the trials identified in this
+review might provide further data on the eﬀect of this intervention
+on growth through later childhood, specifically, whether final
+height is aﬀected; on eﬀects on later neurodevelopmental
+outcomes; and on long-term eﬀects on metabolic or cardiovascular
+outcomes (Euser 2005; Greer 2007). If additional large randomised
+controlled trials are undertaken to evaluate the eﬀects of feeding
+preterm infants with nutrient-enriched formula afer hospital
+discharge, it may be appropriate to include in these research eﬀorts
+preterm infants who are not able to feed ad libitum afer hospital
+discharge, and who have extra metabolic demands, for example,
+because of severe growth restriction or chronic lung disease. Trials
+should aim to assess long-term clinically important outcomes
+such as final height and body composition and neurodevelopment
+(including cognitive and educational outcomes).
+Further research is needed to determine which specific nutrients
+(including appropriate energy:protein balance) are key to
+promoting lean mass and linear growth and to improving
+developmental outcomes. As a first step, it may be worthwhile to
+review systematically trials that could not be included in this review
+because the nutrient-enriched formula examined diﬀered only in
+protein and mineral content (but not in energy) from standard term
+formula.
+A C K N O W L E D G E M E N T S
+We thank Dr Litmanovitz for clarifying aspects of Litmanovitz 2004.
+We thank Dr Roggero for kindly providing unpublished data from
+Roggero 2011 for inclusion in this review.
+We thank Yolanda Brosseau and Colleen Ovelman of the Cochrane
+Neonatal Review Group for help in preparing this updated review.
+Editorial support of the Cochrane Neonatal Review Group has
+been provided with Federal funds from the Eunice Kennedy
+Shriver National Institute of Child Health and Human Development,
+National Institutes of Health, Department of Health and Human
+Services, USA, under Contract No. HHSN275201100016C.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+20
+
+[page 23]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+R E F E R E N C E S
+ 
+References to studies included in this review
+Agosti 2003 {published data only}
+Agosti M, Vegni C, Calciolari G, Marini A, GAMMA Study
+Group. Post-discharge nutrition of the very low-birthweight
+infant: interim results of the multicentric GAMMA study. Acta
+Paediatrica Supplement 2003;91:39-43.
+Atkinson 1999 {published data only}
+Atkinson SA, Randall-Simpson J, Chang M, Paes B. Randomised
+trial of feeding nutrient-enriched versus standard formula to
+premature infants during the first year of life. Pediatric Research
+1999;45:276A.
+Atkinson 2004 {published data only}
+Atkinson SA, Paes B, Saigal S, Hussey T, Lee D. Nutrient-enriched
+discharge formula compared to standard term formula does not
+benefit growth, bone mineral accretion or trace element status
+in preterm small for gestational age (SGA) infants to one year
+corrected age: an RCT. Pediatric Research 2004;55:383A.
+Carver 2001 {published data only}
+Carver JD, Wu PY, Hall RT, Ziegler EE, Sosa R, Jacobs J, et
+al. Growth of preterm infants fed nutrient-enriched or term
+formula afer hospital discharge. Pediatrics 2001;107:683-9.
+Cooke 2001 {published data only}
+*  Cooke RJ, Embleton ND, Griﬀin IJ, Wells JC, McCormick KP.
+Feeding preterm infants afer hospital discharge: growth
+and development at 18 months of age. Pediatric Research
+2001;49:719-22.
+Cooke RJ, Griﬀin IJ, McCormick K. Adiposity is not altered in
+preterm infants fed with a nutrient-enriched formula afer
+hospital discharge. Pediatric Research 2010;67:660-4. [PUBMED:
+20216105]
+Cooke RJ, Griﬀin IJ, McCormick K, Wells JC, Smith JS,
+Robinson SJ, Leighton M. Feeding preterm infants afer hospital
+discharge: eﬀect of dietary manipulation on nutrient intake and
+growth. Pediatric Research 1998;43:355-60.
+Cooke RJ, McCormick K, Griﬀin IJ, Embleton N, Faulkner K,
+Wells JC, et al. Feeding preterm infants afer hospital discharge:
+eﬀect of diet on body composition. Pediatric Research
+1999;46:461-4.
+De Curtis 2002 {published data only}
+De Curtis M, Pieltain C, Rigo J. Body composition in preterm
+infants fed standard term or enriched formula afer hospital
+discharge. European Journal of Nutrition 2002;41:177-82.
+Jeon 2011 {published data only}
+Jeon GW, Jung YJ, Koh SY, Lee YK, Kim KA, Shin SM, et al.
+Preterm infants fed nutrient-enriched formula until six
+months show improved growth and development. Pediatrics
+International 2011;53:683-8. [PUBMED: 21342352]
+Koo 2006 {published data only}
+Koo WW, Hockman EM. Posthospital discharge feeding for
+preterm infants: eﬀects of standard compared with enriched
+milk formula on growth, bone mass, and body composition.
+American Journal of Clinical Nutrition 2006;84:1357-64.
+Litmanovitz 2004 {published data only}
+*  Litmanovitz I, Dolfin T, Arnon S, Bauer S, Regev R, Shainkin-
+Kestenbaum R, et al. Bone strength and growth of preterm
+infants fed nutrient-enriched or term formula afer hospital
+discharge. Pediatric Research 2004;55:274A.
+Litmanovitz I, Eliakim A, Arnon S, Regev R, Bauer S, Shainkin-
+Kestenbaum R, et al. Enriched post-discharge formula versus
+term formula for bone strength in very low birth weight
+infants: a longitudinal pilot study. Journal of Perinatal Medicine
+2007;35:431-5. [PUBMED: 17605597]
+Lucas 1992 {published data only}
+Bishop NJ, King FJ, Lucas A. Increased bone mineral content
+of preterm infants fed with a nutrient enriched formula afer
+discharge from hospital. Archives of Disease in Childhood
+1993;68:573-8.
+*  Lucas A, Bishop NJ, King FJ, Cole TJ. Randomised trial of
+nutrition for preterm infants afer discharge. Archives of Disease
+in Childhood 1992;67:324-7.
+Lucas 2001 {published data only}
+Lucas A, Fewtrell MS, Morley R, Singhal A, Abbott RA, Isaacs E,
+et al. Randomized trial of nutrient-enriched formula versus
+standard formula for postdischarge preterm infants. Pediatrics
+2001;108:703-11.
+Peng 2004 {published data only}
+Peng CC, Hsu CH, Kao HA, Hung HY, Chang JH. Feeding
+with premature or infant formula in premature infants afer
+discharge: comparison of growth and nutrition status. Acta
+Paediatrica Taiwanica 2004;45:151-7. [PUBMED: 15493734]
+Picaud 2005 {published data only}
+Picaud JC, Plan O, Pidoux O, Reygrobellet B. Chapuis F,
+Salle BL, et al. Eﬀect of post-discharge nutrition on growth and
+whole body mineralization in very low birth weight (VLBW)
+infants. Pediatric Academic Societies Conference Proceedings.
+PAS2005:57:1326.
+Roggero 2011 {published data only (unpublished sought but not
+used)}
+Gianni ML, Roggero P, Amato O, Picciolini O, Piemontese P,
+Liotto N, et al. Randomized outcome trial of nutrient-enriched
+formula and neurodevelopment outcome in preterm infants.
+BMC Pediatrics 2014;14:74. [PUBMED: 24645671]
+*  Roggero P, Gianni ML, Amato O, Liotto N, Morlacchi L,
+Orsi A, et al. Growth and fat-free mass gain in preterm infants
+afer discharge: a randomized controlled trial. Pediatrics
+2012;130:e1215-21. [PUBMED: 23109680]
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+21
+
+[page 24]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Roggero 2012 {published data only}
+Roggero P, Giannì ML, Liotto N, Taroni F, Morniroli D, Mosca F.
+Small for gestational age preterm infants: nutritional strategies
+and quality of growth afer discharge. Journal of Maternal-
+Fetal and Neonatal Medicine 2011;24(Suppl 1):144-6. [PUBMED:
+21888510]
+Taroni 2009 {published data only}
+Taroni E, Liotto N, Orsi A, Piemontese P, Amato O, Morlacchi L,
+et al. Quality of post-discharge growth in small for gestational
+age preterm infants: an explorative study [Qualita della
+crescita post-dimissione in prematuri nati piccoli per eta
+gestazionale: studio esplorativo]. La Pediatria Medica e
+Chirurgica 2009;31:121-5. [PUBMED: 19739491]
+ 
+References to studies excluded from this review
+Amesz 2010 {published data only}
+Amesz EM, Schaafsma A, Cranendonk A, Lafeber HN. Optimal
+growth and lower fat mass in preterm infants fed a protein-
+enriched postdischarge formula. Journal of Pediatric
+Gastroenterology and Nutrition 2010;50:200-7. [PUBMED:
+19881394]
+Bernbaum 1989 {published data only}
+Bernbaum JC, Sasanow SR, Churella HR, Daf A. Growth
+and metabolic response of premature infants fed whey- or
+casein-dominant formulas afer hospital discharge. Journal of
+Pediatrics 1989;115:652-6. [PUBMED: 2795362]
+Bhatia 1991 {published data only}
+Bhatia J, Rassin DK. Feeding the premature infant afer hospital
+discharge: growth and biochemical responses. Journal of
+Pediatrics 1991;118:515-9.
+Brunton 1998 {published data only}
+Brunton JA, Saigal S, Atkinson SA. Growth and body
+composition in infants with bronchopulmonary dysplasia up
+to 3 months corrected age: a randomized trial of a high-energy
+nutrient-enriched formula fed afer hospital discharge. Journal
+of Pediatrics 1988;133:340-5.
+Chan 1994 {published data only}
+Chan GM. Growth and bone mineral status of discharged very
+low birth weight infants fed diﬀerent formulas or human milk.
+Journal of Pediatrics 1993;123:439-43.
+Chan GM, Borschel MW, Jacobs JR. Eﬀects of human milk or
+formula feeding on the growth, behavior, and protein status of
+preterm infants discharged from the newborn intensive care
+unit. American Journal of Clinical Nutrition 1994;60:710-6.
+Cooper 1985 {published data only}
+Cooper PA, Rothberg AD. Feeding of very-low-birth-weight
+infants with special formula - continued use beyond 2000 g
+and eﬀects on growth to 1 year. South African Medical Journal
+1985;67:716-8.
+Friel 1993 {published data only}
+Friel JK, Andrews WL, Matthew D, McKim E, French S, Long DR.
+Improved growth of very low birthweight infants. Nutrition
+Research 1993;13:611-20.
+Lapillonne 2004 {published data only}
+Lapillonne A, Salle BL, Glorieux FH, Claris O. Bone
+mineralization and growth are enhanced in preterm infants
+fed an isocaloric, nutrient-enriched preterm formula through
+term. American Journal of Clinical Nutrition 2004;80(6):1595-603.
+[PUBMED: 15585774]
+Wheeler 1996 {published data only}
+Wheeler RE, Hall RT. Feeding of premature infant formula afer
+hospital discharge of infants weighing less than 1800 grams at
+birth. Journal of Perinatology 1996;16:111-6.
+ 
+References to studies awaiting assessment
+Ekcharoen 2015 {published data only}
+Ekcharoen C, Tantibhaedhyangkul R. Comparing growth rates
+afer hospital discharge of preterm infants fed with either post-
+discharge formula or high-protein, medium-chain triglyceride
+containing formula. Journal of the Medical Association of
+Thailand 2015;98(12):1179-86. [PUBMED: 27004302]
+ 
+Additional references
+Aggett 2006
+Aggett PJ, Agostoni C, Axelsson I, De Curtis M, Goulet O,
+Hernell O, et al. Feeding preterm infants afer hospital
+discharge: a commentary by the ESPGHAN Committee on
+Nutrition. Journal of Pediatric Gastroenterology and Nutrition
+2006;42:596-603. [PUBMED: 16707992]
+Bhatia 2005
+Bhatia J. Post-discharge nutrition of preterm infants. Journal
+of Perinatology 2005;25 Suppl 2:S15-6; discussion S17-8.
+[PUBMED: 15861162]
+Bracewell 2008
+Bracewell MA, Hennessy EM, Wolke D, Marlow N. The EPICure
+study: growth and blood pressure at 6 years of age following
+extremely preterm birth. Archives of Disease in Childhood. Fetal
+and Neonatal Edition 2008;93:F108-14. [PUBMED: 17660214]
+Carver 2005
+Carver JD. Nutrition for preterm infants afer hospital discharge.
+Advances in Pediatrics 2005;52:23-47. [PUBMED: 16124335]
+Clark 2003
+Clark RH, Thomas P, Peabody J. Extrauterine growth restriction
+remains a serious problem in prematurely born neonates.
+Pediatrics 2003;111:986-90.
+Cooke 2003
+Cooke RWI, Foulder-Hughes L. Growth impairment in the very
+preterm and cognitive and motor performance at 7 years.
+Archives of Disease in Childhood 2003;88:482-7.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+22
+
+[page 25]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Doyle 2004
+Doyle LW, Faber B, Callanan C, Ford GW, Davis NM. Extremely
+low birth weight and body size in early adulthood. Archives of
+Disease in Childhood 2004;89:347-50. [PUBMED: 15033844]
+Dusick 2003
+Dusick AM, Poindexter BB, Ehrenkranz RA, Lemons JA. Growth
+failure in the preterm infant: can we catch up?. Seminars in
+Perinatology 2003;27(4):302-10. [PUBMED: 14510321]
+Embleton 2001
+Embleton NE, Pang N, Cooke RJ. Postnatal malnutrition
+and growth retardation: an inevitable consequence of
+current recommendations in preterm infants?. Pediatrics
+2001;107:270-3.
+Embleton 2013
+Embleton ND. Early nutrition and later outcomes in preterm
+infants. World Review of Nutrition and Dietetics 2013;106:26-32.
+[PUBMED: 23428677]
+Euser 2005
+Euser AM, Finken MJ, Keijzer-Veen MG, Hille ET, Wit JM,
+Dekker FW. Associations between prenatal and infancy weight
+gain and BMI, fat mass, and fat distribution in young adulthood:
+a prospective cohort study in males and females born very
+preterm. American Journal of Clinical Nutrition 2005;81:480-7.
+[PUBMED: 15699238]
+Euser 2008
+Euser AM, de Wit CC, Finken MJ, Rijken M, Wit JM. Growth of
+preterm born children. Hormone Research 2008;70(6):319-28.
+[PUBMED: 18953169]
+Farooqi 2006
+Farooqi A, Hagglof B, Sedin G, Gothefors L, Serenius F. Growth
+in 10- to 12-year-old children born at 23 to 25 weeks' gestation
+in the 1990s: a Swedish national prospective follow-up study.
+Pediatrics 2006;118:e1452-65. [PUBMED: 17079546]
+Fewtrell 2003
+Fewtrell MS. Growth and nutrition afer discharge. Seminars in
+Neonatology 2003;8(2):169-76. [PUBMED: 15001153]
+Fewtrell 2011
+Fewtrell M. Early nutritional predictors of long-term bone health
+in preterm infants. Current Opinion in Clinical Nutrition and
+Metabolic Care 2011;14(3):297-301. [PUBMED: 21378555]
+Ford 2000
+Ford GW, Doyle LW, Davis NM, Callanan C. Very low birth
+weight and growth into adolescence. Archives of Pediatrics and
+Adolescent Medicine 2000;154:778-84.
+GRADEpro 2008 [Computer program]
+Brozek J, Oxman A, Schünemann H. GRADEpro [Version 3.2 for
+Windows]. The GRADE Working Group, 2008.
+Greer 2007
+Greer FR. Post-discharge nutrition: what does the evidence
+support?. Seminars in Perinatology 2007;31:89-95. [PUBMED:
+17462493]
+Griﬀin 2007
+Griﬀin IJ, Cooke RJ. Nutrition of preterm infants afer hospital
+discharge. Journal of Pediatric Gastroenterology and Nutrition
+2007;45 Suppl 3:S195-203. [PUBMED: 18185092]
+Guyatt 2011a
+Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J, et
+al. GRADE guidelines: 1. Introduction - GRADE evidence
+profiles and summary of findings tables. Journal of Clinical
+Epidemiology 2011;64(4):383-94. [PUBMED: 21195583]
+Guyatt 2011b
+Guyatt GH, Oxman AD, Vist G, Kunz R, Brozek J, Alonso-Coello P,
+et al. GRADE guidelines: 4. Rating the quality of evidence -
+study limitations (risk of bias). Journal of Clinical Epidemiology
+2011;64(4):407-15. [PUBMED: 21247734]
+Guyatt 2011c
+Guyatt GH, Oxman AD, Kunz R, Brozek J, Alonso-Coello P,
+Rind D, et al. GRADE guidelines 6. Rating the quality of
+evidence - imprecision. Journal of Clinical Epidemiology
+2011;64(12):1283-93. [PUBMED: 21839614]
+Guyatt 2011d
+Guyatt GH, Oxman AD, Kunz R, Woodcock J, Brozek J,
+Helfand M, et al. GRADE guidelines: 7. Rating the quality of
+evidence - inconsistency. Journal of Clinical Epidemiology
+2011;64(12):1294-302. [PUBMED: 21803546]
+Guyatt 2011e
+Guyatt GH, Oxman AD, Kunz R, Woodcock J, Brozek J,
+Helfand M, et al. GRADE guidelines: 8. Rating the quality of
+evidence - indirectness. Journal of Clinical Epidemiology
+2011;64(12):1303-10. [PUBMED: 21802903]
+Hack 1991
+Hack M, Breslau N, Weissman B, Aram D, Klein N, Borawski E.
+Eﬀect of very low birthweight and subnormal head size on
+cognitive abilities at school age. New England Journal of
+Medicine 1991;325:231–7.
+Hack 2003
+Hack M, Schluchter M, Cartar L, Rahman M, Cuttler L,
+Borawski E. Growth of very low birth weight infants to age 20
+years. Pediatrics 2003;112:e30–8.
+Hancock 1984
+Hancock PJ, Bancalari E. Gastric motility in premature infants
+fed two diﬀerent formulas. Journal of Pediatric Gastroenterology
+and Nutrition 1984;3:696-9.
+Higgins 2011
+Higgins JPT, Green S (editors). Cochrane Handbook for
+Systematic Reviews of Interventions Version 5.1.0 [updated
+March 2011]. The Cochrane Collaboration, 2011. www.cochrane-
+handbook.org.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+23
+
+[page 26]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Hopewell 2009
+Hopewell S, Loudon K, Clarke MJ, Oxman AD, Dickersin K.
+Publication bias in clinical trials due to statistical significance
+or direction of trial results. Cochrane Database of Systematic
+Reviews 2009, Issue 1. [DOI: 10.1002/14651858.MR000006.pub3]
+Kleinman 2004
+Kleinman RE. Nutritional needs of the preterm infant. Pediatric
+Nutrition Handbook. 5th Edition. Chicago, Illinois, USA:
+American Academy of Pediatrics, 2004.
+Klingenberg 2011
+Klingenberg C, Embleton ND, Jacobs SE, O'Connell LA,
+Kuschel CA. Enteral feeding practices in very preterm infants: an
+international survey. Archives of Disease in Childhood. Fetal and
+Neonatal Edition 2011;97:F56-61. [PUBMED: 21856644]
+Lapillonne 2013
+Lapillonne A, Griﬀin IJ. Feeding preterm infants today for later
+metabolic and cardiovascular outcomes. Journal of Pediatrics
+2013;162(3 Suppl):S7-16. [PUBMED: 23445851]
+Leppanen 2014
+Leppanen M, Lapinleimu H, Lind A, Matomaki J, Lehtonen L,
+Haataja L, et al. Antenatal and postnatal growth and 5-
+year cognitive outcome in very preterm infants. Pediatrics
+2014;133(1):63-70. [PUBMED: 24344103]
+Lucas 1984
+Lucas A, Gore SM, Cole TJ, Bamford MF, Dossetor JF, Barr I,
+et al. Multicentre trial on feeding low birthweight infants:
+eﬀects of diet on early growth. Archives of Disease in Childhood
+1984;59:722-30.
+Lucas 1992a
+Lucas A, King F, Bishop NB. Postdischarge formula consumption
+in infants born preterm. Archives of Disease in Childhood
+1992;67:691-2.
+McCormick 2013
+Young L, Embleton ND, McCormick FM, McGuire W. Multinutrient
+fortification of human breast milk for preterm infants following
+hospital discharge. Cochrane Database of Systematic Reviews
+2013, Issue 2. [DOI: 10.1002/14651858.CD004866.pub3]
+Saigal 2006
+Saigal S, Stoskopf B, Streiner D, Paneth N, Pinelli J, Boyle M.
+Growth trajectories of extremely low birth weight infants from
+birth to young adulthood: a longitudinal, population-based
+study. Pediatric Research 2006;60:751-8. [PUBMED: 17065570]
+Schünemann 2013
+Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GWG.
+GRADE Handbook for Grading Quality of Evidence and Strength
+of Recommendations. www.guidelinedevelopment.org/
+handbook. Updated October 2013.
+Siegel 1984
+Siegel M, Lebenthal E, Krantz B. Eﬀect of caloric density on
+gastric emptying in premature infants. Journal of Pediatrics
+1984;104:118-22.
+Trebar 2007
+Trebar B, Traunecker R, Selbmann HK, Ranke MB. Growth
+during the first two years predicts pre-school height in children
+born with very low birth weight (VLBW): results of a study of
+1,320 children in Germany. Pediatric Research 2007;62:209-14.
+[PUBMED: 17597641]
+ 
+References to other published versions of this review
+McGuire 2007
+Henderson G, Fahey T, McGuire W. Nutrient-enriched formula
+versus standard formula for preterm infants following hospital
+discharge. Cochrane Database of Systematic Reviews 2007, Issue
+4. [DOI: 10.1002/14651858.CD004696.pub3]
+Young 2012
+Young L, Morgan J, McCormick FM, McGuire W. Nutrient-
+enriched formula versus standard term formula for
+preterm infants following hospital discharge. Cochrane
+Database of Systematic Reviews 2012, Issue 3. [DOI:
+10.1002/14651858.CD004696.pub4]
+ 
+* Indicates the major publication for the study
+ 
+C H A R A C T E R I S T I C S   O F   S T U D I E S
+Characteristics of included studies [ordered by study ID]
+ 
+Methods
+Randomised controlled trial
+Participants
+121 formula milk-fed VLBW (< 1500 g) infants
+Interventions
+Preterm formula (energy content 80 kcal/100 mL, protein content 2.4 g/100 mL, calcium and phospho-
+rus content 100 mg/100 mL and 50 mg/100 mL, respectively) (N = 69) or standard term formula (energy
+content 70 kcal/100 mL, protein content 1.7 g/100 mL) (N = 52). The intention was for the allocated for-
+mula to be the only milk source from 40 weeks until 55 weeks postmenstrual age (PMA)
+Agosti 2003 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+24
+
+[page 27]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcomes
+Growth parameters and Griffiths Developmental Scale at 40 weeks, 55 weeks PMA and 6 and 12
+months' corrected age
+Notes
+Setting: multi-centre trial in Italy (2001)
+Research supported by Milupa (formula milk manufacturing company)
+Numerical growth data obtained from primary investigators (June 2011)
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Report states simply that infants were "randomised" to study groups.
+Allocation concealment
+(selection bias)
+Unclear risk
+Randomisation method was not mentioned.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+Loss to follow-up was 34% at 6 months and 66% at 12 months.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+High risk
+Families and caregivers were aware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were unlikely to have been aware of which formula milk in-
+fants received.
+Agosti 2003  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+70 formula milk-fed preterm infants of birth weight < 1800 g and 'appropriate for gestational age'
+Interventions
+Postdischarge formula (energy content 74 kcal/100 mL, protein content 1.8 g/100 mL) (N = 34) vs stan-
+dard term formula (N = 36) for 12 months post discharge
+Outcomes
+Growth parameters at 6, 9 and 12 months' corrected age
+Notes
+Published in abstract form only. Additional information and data courtesy of Dr Stephanie Atkinson
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Random sequence was independently generated.
+Allocation concealment
+(selection bias)
+Low risk
+Allocation was drawn from sequential sealed opaque envelopes.
+Atkinson 1999 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25
+
+[page 28]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+Growth outcome data to 12 months were available for 24 (71%) intervention
+group and 29 (81%) control group infants.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were not aware of which formula milk infants received.
+Atkinson 1999  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+53 formula milk-fed preterm 'small for gestational age' infants
+Interventions
+Postdischarge formula (energy content 74 kcal/100 mL, protein content 1.8 g/100 mL) (N = 24) vs stan-
+dard term formula (Ross Similac With Fe) (N = 29) for 12 months post discharge
+Outcomes
+Growth parameters at 6, 9 and 12 months' corrected age
+Notes
+Published in abstract form only. Additional information and data courtesy of Dr Stephanie Atkinson
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Random sequence was independently generated.
+Allocation concealment
+(selection bias)
+Low risk
+Allocation was drawn from sequential sealed opaque envelopes.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up growth parameter outcome assessments were completed.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcomes assessors were not aware of which formula milk infants received.
+Atkinson 2004 
+ 
+ 
+Methods
+Randomised controlled trial
+Carver 2001 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+26
+
+[page 29]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Participants
+125 preterm infants (birth weight < 1800 g or gestation < 37 weeks). Infants with severe bronchopul-
+monary dysplasia or cardiac, respiratory, gastrointestinal or other systemic diseases at time of dis-
+charge were not eligible to participate.
+Interventions
+Postdischarge formula (energy content 74 kcal/100 mL, protein content 1.9 g/100 mL, calcium and
+phosphorus content 78 mg/100 mL and 46 mg/100 mL, respectively) (N = 67) or standard term formula
+(energy content 68 kcal/100 mL, protein content 1.5 g/100 mL) (N = 56). The intention was for the allo-
+cated formula to be the main milk source from hospital discharge until 12 months' corrected age.
+Outcomes
+Growth parameters assessed at intervals until the end of the 12-month study period
+Notes
+Setting: multi-centre - 6 perinatal centres in North America
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+31 of 67 in postdischarge formula group and 26 of 56 in standard term formula
+group lef the study early (plus 2 other infants, who were randomised but did
+not take part in the study). Total loss of follow-up for growth parameters as-
+sessed at 12 months was 60% in the intervention group and 52% in the control
+group.
+Infants exited the study early (without growth parameters measured) for a va-
+riety of reasons, including study non-compliance (not defined or described),
+gastrointestinal upset and "illness unrelated to the study feedings" (not de-
+fined or described).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were not aware of which formula milk infants received.
+Carver 2001  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+103 preterm infants (birth weight < 1750 g or gestation < 35 weeks). Only infants who were 'growing
+normally' (rate of weight gain > 25 g/kg/d) at the time of discharge were eligible to participate.
+Interventions
+Preterm formula (energy content 80 kcal/100 mL, protein content 2.2 g/100 mL, calcium and phospho-
+rus content 108 mg/100 mL and 54 mg/100 mL, respectively) (N = 49) or standard term formula (energy
+content 66 kcal/100 mL, protein content 1.4 g/100 mL) (N = 54) from hospital discharge until 6 months'
+corrected age
+Cooke 2001 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27
+
+[page 30]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcomes
+Anthropometric and developmental parameters (including Bayley Scales of Infant Development II),
+measures of bone mineralisation
+Notes
+Setting: Royal Victoria Hospital, Newcastle upon Tyne, UK
+Research supported by Nutricia (formula milk manufacturer)
+Article reported growth data for boys and girls separately. We combined data for inclusion in this re-
+view.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Random sequence was centrally generated.
+Allocation concealment
+(selection bias)
+Low risk
+Sealed opaque envelopes were used.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up was near complete (> 80%).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were not aware of which formula milk infants received.
+Cooke 2001  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+33 formula milk-fed preterm infants (birth weight < 1750 g or gestation < 35 weeks)
+Interventions
+Postdischarge formula (energy content 74 kcal/100 mL, protein content 1.8 g/100 mL, calcium and
+phosphorus content 80 mg/100 mL and 40 mg/100 mL, respectively) (N = 16) or standard term formula
+(energy content 66 kcal/100 mL, protein content 1.4 g/100 mL) (N = 17) from hospital discharge until 2
+months' corrected age
+Outcomes
+Growth parameters and bone mineralisation measured by dual-energy X-ray absorptiometry at the end
+of the 2-month study period
+Notes
+Setting: Department of Pediatrics, University of Liege, Belgium
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+De Curtis 2002 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+28
+
+[page 31]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up was near complete (> 90%).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were not aware of which formula milk infants received.
+De Curtis 2002  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+59 preterm very low birth weight infants
+Interventions
+Preterm formula (energy content 80 kcal/100 mL, protein content 2.3 g/100 mL, calcium and phospho-
+rus content 128 mg/100 mL and 64 mg/100 mL, respectively) (N = 34) or standard term formula (energy
+content 67 kcal/100 mL, protein content 1.6 g/100 mL) (N = 34) from hospital discharge until 3 months
+post term, then both groups continued with standard term formula until at least 6 months post term
+Outcomes
+Growth parameters at 3-monthly intervals until 18 months post term, Bayley Scales of Infant Develop-
+ment II at 18 months' corrected age
+Notes
+Setting: multi-centre trial in 4 hospitals in South Korea
+Research supported by Maeli Dairy Industry Co. Ltd. (formula milk manufacturer)
+Initially, 3 groups were randomly allocated to receive (1) standard term formula, (2) preterm formula
+for 3 months or (3) preterm formula for 6 months. However, results showed substantial and significant
+between-group differences in baseline demographic characteristics, especially between group (3) and
+the other groups. Group (3) infants had statistically significantly lower birth weight and were more like-
+ly to be small for gestational age. We therefore chose to discard data from this arm and to restrict com-
+parison of outcomes to group (1) vs group (3).
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Growth outcome data to 18 months were available for 30 (88%) intervention
+group and 29 (85%) control group infants.
+Jeon 2011 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+29
+
+[page 32]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+High risk
+Families and caregivers were likely to have been aware of which formula milk
+infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+Outcome assessors may have been aware of which formula milk infants re-
+ceived.
+Jeon 2011  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+89 preterm infants ready for hospital discharge (gestational age at birth < 35 weeks). Infants with ma-
+jor congenital malformation, previous gastrointestinal surgery or abnormal suck and swallow actions
+were not eligible to participate.
+Interventions
+Nutrient-enriched formula (energy content 74 kcal/100 mL, protein content 1.9 g/100 mL, calcium and
+phosphorus content 78 mg/100 mL and 46 mg/100 mL, respectively) (N = 44) or standard term formula
+(energy content 67 kcal/100 mL, protein content 1.5 g/100 mL) (N = 45). The intention was for the allo-
+cated formula to be fed ad libitum until 12 months after discharge.
+Outcomes
+Growth parameters and bone mineral content at intervals until the end of the 12-month study period
+Notes
+Setting: Department of Pediatrics, Wayne State University, and Hutzel Hospital, Detroit, Michigan, USA
+Research supported by Ross Products Division, Abbott Laboratories (formula milk manufacturer)
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Low risk
+Allocation was drawn from sequential sealed opaque envelopes.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+Growth outcome data to 12 months were available for 31 (70%) intervention
+group and 36 (80%) control group infants.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were not aware of which formula milk infants received.
+Koo 2006 
+ 
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+30
+
+[page 33]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Methods
+Randomised controlled trial
+Participants
+20 healthy very low birth weight infants at hospital discharge
+Interventions
+Nutrient-enriched formula (energy content 74 kcal/100 mL, protein content 1.9 g/100 mL) (N = 10) or
+standard term formula (energy content 67 kcal/100 mL, protein content 1.5 g/100 mL) (N = 10) after
+hospital discharge. Formula was intended to provide sole milk intake up to 6 months' corrected age.
+Outcomes
+Weight, length, head circumference and measures of bone mineralisation at term and at 6 months' cor-
+rected age
+Notes
+Setting: Meir General Hospital, Kfar-saba, Israel
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up was near complete (> 80%).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+No information was provided on whether families and caregivers were aware
+of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No information was provided on whether outcome assessors were aware of
+which formula milk infants received.
+Litmanovitz 2004 
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+32 exclusively formula milk-fed preterm infants, birth weight < 1850 g, weight < 3000 g at hospital dis-
+charge
+Interventions
+Nutrient-enriched formula (energy content 72 kcal/100 mL, protein content 1.8 g/100 mL, calcium and
+phosphorus content 70 mg/100 mL and 35 mg/100 mL, respectively) (N = 16) or standard term formula
+(energy content 68 kcal/100 mL, protein content 1.4 g/100 mL) (N = 16) after hospital discharge. Formu-
+la was intended to provide sole milk intake up to 9 months' corrected age.
+Outcomes
+Measures of growth (weight, crown-heel length and head circumference), feed tolerance, bone mineral-
+isation during trial period
+Notes
+Setting: Department of Paediatrics, Rosie Maternity Hospital, Cambridge
+Research supported by Farley Health Products (formula milk company)
+One infant who was randomised to the standard term formula group was transferred to another hospi-
+tal before planned hospital discharge and could not be included in follow-up assessments.
+Lucas 1992 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+31
+
+[page 34]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Data were presented graphically. We extracted numerical data (mean and SD) from the graphs to calcu-
+late mean differences.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up was near complete (1 infant from the standard term formula group
+was withdrawn).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+It is likely that families and caregivers were unaware of which formula milk in-
+fants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+It is likely that outcome assessors were unaware of which formula milk infants
+received.
+Lucas 1992  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+229 formula milk-fed preterm infants, birth weight < 1750 g, weight < 3000 g at hospital discharge
+Interventions
+Nutrient-enriched formula (energy content 72 kcal/100 mL, protein content 1.85 g/100 mL, calcium and
+phosphorus content 70 mg/100 mL and 35 mg/100 mL, respectively) (N = 113) or standard term formula
+(energy content 68 kcal/100 mL, protein content 1.5 g/100 mL) (N = 116) from hospital discharge until 9
+months post term
+Outcomes
+Growth parameters up to 18 months post term, neurodevelopment (Bayley Scales) at 18 months' cor-
+rected age
+Notes
+Setting: 5 neonatal centres in the UK (1993-1995)
+Research supported by Farley Health Products (formula milk company)
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+A member of the clinical team not involved in the trial prepared randomisation
+assignments.
+Allocation concealment
+(selection bias)
+Low risk
+Allocation was drawn from sequential sealed opaque envelopes.
+Incomplete outcome data
+(attrition bias) 
+Low risk
+Growth and developmental outcomes were assessed in > 80% of participating
+infants.
+Lucas 2001 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+32
+
+[page 35]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were unaware of which formula milk infants received.
+Lucas 2001  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+34 preterm infants with gestational age of ≤ 35 weeks and birth weight ≤ 1850 g
+Interventions
+Nutrient-enriched formula (energy content 81 kcal/100 mL, protein content 2.40 g/100 mL, calcium and
+phosphorus content 95 mg/100 mL and 53 mg/100 mL, respectively) (N = 19) or standard term formula
+(energy content 67.6 kcal/100 mL, protein content 1.4 g/100 mL) (N = 15) from hospital-discharge until
+6 months' corrected age
+Outcomes
+Measures of growth (weight, crown-heel length and head circumference), feed tolerance, bone mineral-
+isation during trial period
+Notes
+Setting: Mackay Memorial Hospital, Taipei, Taiwan
+Research supported by Mead Johnson (formula milk company)
+No differences were found between the 2 groups in weight, length or head circumference at baseline
+or on follow-up. Infants fed premature formula had higher blood urea nitrogen and phosphorus at 3
+months' corrected age. Those on the premature formula also had higher energy intake at 1 month cor-
+rected age.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+Method used to generate random sequence was not described.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information on randomisation method was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+Growth outcome data to 6 months were available for 29 of the 40 infants ini-
+tially enrolled (73%).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+High risk
+Families and caregivers were likely to have been aware of which formula milk
+infants received, as parents were not blinded to infant assignment.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+High risk
+Outcome assessors may have been aware of which formula milk infants re-
+ceived, as physicians were not blinded to infant assignment.
+Peng 2004 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+33
+
+[page 36]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+49 formula milk-fed preterm infants, birth weight < 1750 g or gestation at birth < 33 weeks
+Interventions
+Preterm formula (energy content 81 kcal/100 mL, protein content 2.3 g/100 mL, calcium and phospho-
+rus content 100 mg/100 mL and 53 mg/100 mL, respectively) (N = 23) or standard term formula (energy
+content 67 kcal/100 mL, protein content 1.7 g/100 mL) (N = 26) from hospital discharge until 2 months
+post term
+Outcomes
+Growth parameters and measures of bone mineralisation up to 4 months' corrected age
+Notes
+Setting: 2 tertiary care neonatal units in France (2001-2004)
+Research supported by Nestlé France (formula milk manufacturer)
+From 2 months post discharge, both groups received standard term formula milk.
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Clinical trials unit was generated.
+Allocation concealment
+(selection bias)
+Low risk
+Pharmacy was coded.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+High risk
+Loss to follow-up by 12 months in the control group was substantial (35%) and
+was greater than in the intervention group (9%).
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Families and caregivers were unaware of which formula milk infants received.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Low risk
+Outcome assessors were unaware of which formula milk infants received.
+Picaud 2005 
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+123 formula fed preterm infants who were 'appropriate (birth weight) for gestational age'
+Interventions
+Postdischarge formula (energy content 75 kcal/100 mL, protein content 2.0 g/100 mL, calcium and
+phosphorus content 100 mg/100 mL and 56 mg/100 mL, respectively) (N = 59) or standard term formula
+(energy content 67 kcal/100 mL, protein content 1.4 g/100 mL) (N = 64) from hospital discharge until 6
+months' corrected age
+Outcomes
+Growth parameters and fat mass up to (at least) 12 months' corrected age
+Roggero 2011 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+34
+
+[page 37]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Notes
+Trial was registered with Current Controlled Trials (http://www.controlledtrials.com/ISRCTN30189842).
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Randomisation was performed by an independent investigator using comput-
+er-generated randomisation lists.
+Allocation concealment
+(selection bias)
+Low risk
+Randomisation was performed by an independent investigator using comput-
+er-generated randomisation lists.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Unclear risk
+Follow-up until 12 months post term was complete.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Roggero 2011  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+84 formula milk-fed preterm infants born 'small for gestational age' (< 10th percentile)
+Interventions
+Postdischarge formula (energy content 75 kcal/100 mL, protein content 2.0 g/100 mL, calcium and
+phosphorus content 100 mg/100 mL and 56 mg/100 mL, respectively) (N = 40) or standard term formula
+(energy content 67 kcal/100 mL, protein content 1.4 g/100 mL) (N = 44) from hospital discharge until 6
+months' corrected age
+Outcomes
+Growth parameters and fat mass up to 6 months' corrected age
+Notes
+Setting: Neonatal Intensive Care Unit, Department of Maternal and Paediatric Sciences, Milan, Italy
+(2008-2010)
+These trialists also conducted an RCT of nutrient-enriched vs standard formula in appropriate for ges-
+tational age infants (N = 123). These data are not yet published or available from study authors (re-
+ferred to in conference abstract: Roggero 2011c).
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Unclear risk
+No information was provided.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information was provided.
+Incomplete outcome data
+(attrition bias) 
+Low risk
+Follow-up until 6 months post term was complete.
+Roggero 2012 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+35
+
+[page 38]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+All outcomes
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Roggero 2012  (Continued)
+ 
+ 
+Methods
+Randomised controlled trial
+Participants
+27 formula milk-fed preterm infants, birth weight < 1500 g or gestation at birth < 33 weeks, 'small for
+gestational age' (< 10th percentile)
+Interventions
+Postdischarge formula (energy content 75 kcal/100 mL, protein content 2.0 g/100 mL, calcium and
+phosphorus content 100 mg/100 mL and 56 mg/100 mL, respectively) (N = 14) or standard term formula
+(energy content 67 kcal/100 mL, protein content 1.4 g/100 mL) (N = 13) from hospital discharge until 1
+month corrected age
+Outcomes
+Growth parameters and fat mass up to 1 month corrected age
+Notes
+Setting: 4 Italian neonatal units (2008-2009)
+Risk of bias
+Bias
+Authors' judgement
+Support for judgement
+Random sequence genera-
+tion (selection bias)
+Low risk
+Random sequence was pre-prepared.
+Allocation concealment
+(selection bias)
+Unclear risk
+No information was provided.
+Incomplete outcome data
+(attrition bias) 
+All outcomes
+Low risk
+Follow-up until 1 month post term was complete.
+Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Blinding of outcome as-
+sessment (detection bias) 
+All outcomes
+Unclear risk
+No information was provided.
+Taroni 2009 
+PMA: postmenstrual age.
+RCT: randomised controlled trial.
+VLBW: very low birth weight.
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+36
+
+[page 39]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Characteristics of excluded studies [ordered by study ID]
+ 
+Study
+Reason for exclusion
+Amesz 2010
+The protein content of both formula milks was ≤ 1.7 g/100 mL.
+Bernbaum 1989
+The energy content of both formula milks was < 70 kcal/100 mL.
+Bhatia 1991
+The protein content of both formula milks was ≤ 1.7 g/100 mL.
+Brunton 1998
+Both formula milks were calorie-enriched (90 kcal/100 mL).
+Chan 1994
+The energy content of both formula milks was < 70 kcal/100 mL.
+Cooper 1985
+The energy content of both formula milks was < 70 kcal/100 mL.
+Friel 1993
+The energy content of both formula milks was < 70 kcal/100 mL.
+Lapillonne 2004
+Both formula milks were calorie-enriched (81 kcal/100 mL) and protein-enriched (> 2.0 g/100 mL).
+Wheeler 1996
+The energy content of both formula milks was < 70 kcal/100 mL.
+ 
+Characteristics of studies awaiting assessment [ordered by study ID]
+ 
+Methods
+Randomised controlled trial
+Participants
+Preterm infants who had postconceptional age 35 to 36 weeks and weight 1.8 to 3 kg at hospital
+discharge
+Interventions
+Postdischarge formula vs high-energy, high-protein, medium-chain triglyceride-containing formula
+Outcomes
+Growth rate at days 28, 56 and 84 after hospital discharge
+Notes
+Abstract only; full-text article not available (study authors contacted September 2016)
+Ekcharoen 2015 
+ 
+ 
+D A T A   A N D   A N A L Y S E S
+ 
+Comparison 1.   Postdischarge formula versus standard term formula
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Growth rates during trial peri-
+od
+1
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+1.1 Weight gain (g/kg/d)
+1
+33
+Mean Difference (IV, Fixed, 95%
+CI)
+0.0 [-1.37, 1.37]
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+37
+
+[page 40]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1.2 Linear growth (mm/wk)
+1
+33
+Mean Difference (IV, Fixed, 95%
+CI)
+0.0 [-1.07, 1.07]
+1.3 Head circumference (mm/
+wk)
+1
+33
+Mean Difference (IV, Fixed, 95%
+CI)
+0.0 [-0.68, 0.68]
+2 Weight (grams)
+7
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+2.1 3-4 months post term
+6
+523
+Mean Difference (IV, Fixed, 95%
+CI)
+-7.45 [-141.84,
+126.93]
+2.2 6 months post term
+7
+576
+Mean Difference (IV, Fixed, 95%
+CI)
+35.54 [-113.71,
+184.78]
+2.3 9 months post term
+4
+347
+Mean Difference (IV, Fixed, 95%
+CI)
+244.09 [16.95,
+471.23]
+2.4 12 months post term
+4
+314
+Mean Difference (IV, Fixed, 95%
+CI)
+-14.87 [-243.18,
+213.43]
+2.5 18-24 months post term
+1
+192
+Mean Difference (IV, Fixed, 95%
+CI)
+100.0 [-246.90,
+446.90]
+3 Crown-heel length (mm)
+7
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+3.1 3-4 months post term
+6
+523
+Mean Difference (IV, Fixed, 95%
+CI)
+2.45 [-2.01, 6.90]
+3.2 6 months post term
+7
+576
+Mean Difference (IV, Fixed, 95%
+CI)
+2.12 [-2.16, 6.41]
+3.3 9 months post term
+4
+347
+Mean Difference (IV, Fixed, 95%
+CI)
+7.33 [1.80, 12.87]
+3.4 12 months post term
+4
+314
+Mean Difference (IV, Fixed, 95%
+CI)
+-0.66 [-6.43, 5.10]
+3.5 18-24 months post term
+1
+192
+Mean Difference (IV, Fixed, 95%
+CI)
+9.0 [0.32, 17.68]
+4 Head circumference (mm)
+7
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+4.1 3-4 months post term
+6
+523
+Mean Difference (IV, Fixed, 95%
+CI)
+-0.30 [-2.86, 2.26]
+4.2 6 months post term
+7
+576
+Mean Difference (IV, Fixed, 95%
+CI)
+2.28 [-0.28, 4.83]
+4.3 9 months post term
+4
+347
+Mean Difference (IV, Fixed, 95%
+CI)
+0.16 [-3.21, 3.53]
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38
+
+[page 41]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+4.4 12 months post term
+4
+314
+Mean Difference (IV, Fixed, 95%
+CI)
+2.11 [-1.52, 5.75]
+4.5 18-24 months post term
+1
+192
+Mean Difference (IV, Fixed, 95%
+CI)
+-3.0 [-8.24, 2.24]
+5 Development
+1
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+5.1 Bayley Scales of Infant De-
+velopment II: Mental Develop-
+ment Index
+1
+184
+Mean Difference (IV, Fixed, 95%
+CI)
+0.90 [-3.24, 5.04]
+5.2 Bayley Scales of Infant De-
+velopment II: Psychomotor De-
+velopment Index
+1
+184
+Mean Difference (IV, Fixed, 95%
+CI)
+2.70 [-1.28, 6.68]
+6 Bone mineralisation
+3
+ 
+Mean Difference (IV, Fixed, 95%
+CI)
+Subtotals only
+6.1 Bone area at 2 months post
+term (cm2)
+1
+33
+Mean Difference (IV, Fixed, 95%
+CI)
+7.0 [-15.46, 29.46]
+6.2 Bone mineral content at 2
+months post term (grams)
+1
+33
+Mean Difference (IV, Fixed, 95%
+CI)
+3.20 [-4.73, 11.13]
+6.3 Bone 'speed of sound' as-
+sessed on ultrasonography at 6
+months post term (mm/s)
+1
+20
+Mean Difference (IV, Fixed, 95%
+CI)
+45.0 [-18.48, 108.48]
+6.4 Bone specific serum alkaline
+phosphatase at 6 months post
+term (units/L)
+1
+20
+Mean Difference (IV, Fixed, 95%
+CI)
+-9.0 [-42.01, 24.01]
+6.5 Bone width at 9 months post
+term (cm)
+1
+31
+Mean Difference (IV, Fixed, 95%
+CI)
+0.05 [-0.01, 0.11]
+6.6 Bone mineral content at 9
+months post term (mg/cm)
+1
+31
+Mean Difference (IV, Fixed, 95%
+CI)
+20.60 [7.78, 33.42]
+ 
+ 
+Analysis 1.1.   Comparison 1 Postdischarge formula versus standard
+term formula, Outcome 1 Growth rates during trial period.
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.1.1 Weight gain (g/kg/d)
+ 
+De Curtis 2002
+16
+10 (2)
+17
+10 (2)
+100%
+0[-1.37,1.37]
+Subtotal ***
+16
+ 
+17
+ 
+100%
+0[-1.37,1.37]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+Favours term formula
+1
+0.5
+-1
+-0.5
+0
+Favours postdischarge for
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+39
+
+[page 42]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+ 
+ 
+1.1.2 Linear growth (mm/wk)
+ 
+De Curtis 2002
+16
+10 (1)
+17
+10 (2)
+100%
+0[-1.07,1.07]
+Subtotal ***
+16
+ 
+17
+ 
+100%
+0[-1.07,1.07]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+ 
+ 
+1.1.3 Head circumference (mm/wk)
+ 
+De Curtis 2002
+16
+6 (1)
+17
+6 (1)
+100%
+0[-0.68,0.68]
+Subtotal ***
+16
+ 
+17
+ 
+100%
+0[-0.68,0.68]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Not applicable
+ 
+Test for subgroup differences: Not applicable
+ 
+Favours term formula
+1
+0.5
+-1
+-0.5
+0
+Favours postdischarge for
+ 
+ 
+Analysis 1.2.   Comparison 1 Postdischarge formula versus standard term formula, Outcome 2 Weight (grams).
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.2.1 3-4 months post term
+ 
+Koo 2006
+31
+5170 (784)
+36
+5826 (918)
+10.87%
+-656[-1063.54,-248.46]
+Litmanovitz 2004
+10
+5471 (1050)
+10
+5700 (595)
+3.23%
+-229[-977.01,519.01]
+Lucas 1992
+16
+5900 (1400)
+15
+5500 (1350)
+1.93%
+400[-568.15,1368.15]
+Lucas 2001
+103
+5370 (740)
+103
+5210 (790)
+41.33%
+160[-49.04,369.04]
+Roggero 2011
+54
+5537 (848)
+61
+5557 (669)
+22.76%
+-20[-301.67,261.67]
+Roggero 2012
+40
+4793 (700)
+44
+4783 (708)
+19.88%
+10[-291.37,311.37]
+Subtotal ***
+254
+ 
+269
+ 
+100%
+-7.45[-141.84,126.93]
+Heterogeneity: Tau2=0; Chi2=13.23, df=5(P=0.02); I2=62.21%
+ 
+Test for overall effect: Z=0.11(P=0.91)
+ 
+ 
+ 
+1.2.2 6 months post term
+ 
+Atkinson 1999
+24
+7783 (928)
+29
+7182 (912)
+8.98%
+601[102.99,1099.01]
+Koo 2006
+31
+6492 (1024)
+36
+7210 (1156)
+8.17%
+-718[-1240.05,-195.95]
+Litmanovitz 2004
+10
+6948 (975)
+10
+7313 (694)
+4.05%
+-365[-1106.75,376.75]
+Lucas 1992
+16
+7150 (1500)
+15
+6700 (1400)
+2.14%
+450[-570.86,1470.86]
+Lucas 2001
+103
+7200 (910)
+103
+7010 (900)
+36.46%
+190[-57.17,437.17]
+Roggero 2011
+54
+7159 (851)
+61
+7202 (937)
+20.85%
+-43[-369.82,283.82]
+Roggero 2012
+40
+6233 (736)
+44
+6310 (850)
+19.35%
+-77[-416.27,262.27]
+Subtotal ***
+278
+ 
+298
+ 
+100%
+35.54[-113.71,184.78]
+Heterogeneity: Tau2=0; Chi2=16.85, df=6(P=0.01); I2=64.4%
+ 
+Test for overall effect: Z=0.47(P=0.64)
+ 
+ 
+ 
+1.2.3 9 months post term
+ 
+Atkinson 1999
+24
+8788 (1011)
+29
+8137 (1005)
+17.35%
+651[105.66,1196.34]
+Koo 2006
+31
+7765 (1120)
+36
+8629 (1297)
+15.4%
+-864[-1442.75,-285.25]
+Lucas 1992
+16
+8250 (1400)
+15
+7600 (1350)
+5.5%
+650[-318.15,1618.15]
+Lucas 2001
+98
+8360 (1100)
+98
+7990 (960)
+61.75%
+370[80.94,659.06]
+Subtotal ***
+169
+ 
+178
+ 
+100%
+244.09[16.95,471.23]
+Favours term formula
+1000
+500
+-1000
+-500
+0
+Favours postdischarge for
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+40
+
+[page 43]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Heterogeneity: Tau2=0; Chi2=17.63, df=3(P=0); I2=82.98%
+ 
+Test for overall effect: Z=2.11(P=0.04)
+ 
+ 
+ 
+1.2.4 12 months post term
+ 
+Atkinson 1999
+24
+9571 (1016)
+29
+8853 (1031)
+17.03%
+718[164.8,1271.2]
+Koo 2006
+31
+8562 (1300)
+36
+9328 (1324)
+13.15%
+-766[-1395.66,-136.34]
+Roggero 2011
+54
+8965 (909)
+61
+9057 (1109)
+38.26%
+-92[-461.1,277.1]
+Roggero 2012
+38
+8222 (880)
+41
+8226 (963)
+31.56%
+-4[-410.42,402.42]
+Subtotal ***
+147
+ 
+167
+ 
+100%
+-14.87[-243.18,213.43]
+Heterogeneity: Tau2=0; Chi2=12.38, df=3(P=0.01); I2=75.77%
+ 
+Test for overall effect: Z=0.13(P=0.9)
+ 
+ 
+ 
+1.2.5 18-24 months post term
+ 
+Lucas 2001
+96
+10200
+(1280)
+96
+10100
+(1170)
+100%
+100[-246.9,446.9]
+Subtotal ***
+96
+ 
+96
+ 
+100%
+100[-246.9,446.9]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.56(P=0.57)
+ 
+Test for subgroup differences: Chi2=3.91, df=1 (P=0.42), I2=0%
+ 
+Favours term formula
+1000
+500
+-1000
+-500
+0
+Favours postdischarge for
+ 
+ 
+Analysis 1.3.   Comparison 1 Postdischarge formula versus
+standard term formula, Outcome 3 Crown-heel length (mm).
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.3.1 3-4 months post term
+ 
+Koo 2006
+31
+554 (22)
+36
+576 (29)
+13.28%
+-22[-34.24,-9.76]
+Litmanovitz 2004
+10
+589 (37)
+10
+586 (29)
+2.34%
+3[-26.14,32.14]
+Lucas 1992
+16
+610 (27)
+15
+590 (25)
+5.93%
+20[1.69,38.31]
+Lucas 2001
+103
+580 (25)
+103
+574 (26)
+40.98%
+6[-0.97,12.97]
+Roggero 2011
+54
+577 (28)
+61
+582 (28)
+18.91%
+-5[-15.25,5.25]
+Roggero 2012
+40
+558 (26)
+44
+544 (22)
+18.55%
+14[3.65,24.35]
+Subtotal ***
+254
+ 
+269
+ 
+100%
+2.45[-2.01,6.9]
+Heterogeneity: Tau2=0; Chi2=26.68, df=5(P<0.0001); I2=81.26%
+ 
+Test for overall effect: Z=1.08(P=0.28)
+ 
+ 
+ 
+1.3.2 6 months post term
+ 
+Atkinson 1999
+24
+662 (20)
+29
+651 (23)
+13.7%
+11[-0.58,22.58]
+Koo 2006
+31
+612 (24.5)
+36
+636 (27.6)
+11.8%
+-24[-36.48,-11.52]
+Litmanovitz 2004
+10
+659 (36)
+10
+656 (20)
+2.82%
+3[-22.52,28.52]
+Lucas 1992
+16
+660 (36)
+15
+645 (34)
+3.02%
+15[-9.64,39.64]
+Lucas 2001
+103
+658 (28)
+103
+651 (23)
+37.5%
+7[0,14]
+Roggero 2011
+54
+649 (28)
+61
+654 (31)
+15.79%
+-5[-15.78,5.78]
+Roggero 2012
+40
+625 (26)
+44
+618 (25)
+15.37%
+7[-3.93,17.93]
+Subtotal ***
+278
+ 
+298
+ 
+100%
+2.12[-2.16,6.41]
+Heterogeneity: Tau2=0; Chi2=24.46, df=6(P=0); I2=75.47%
+ 
+Test for overall effect: Z=0.97(P=0.33)
+ 
+Favours term formula
+40
+20
+-40
+-20
+0
+Favours postdischarge for
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+41
+
+[page 44]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+ 
+ 
+1.3.3 9 months post term
+ 
+Atkinson 1999
+24
+705 (23)
+29
+696 (26)
+17.57%
+9[-4.2,22.2]
+Koo 2006
+31
+668 (30.6)
+36
+695 (35.4)
+12.26%
+-27[-42.8,-11.2]
+Lucas 1992
+16
+720 (18)
+15
+705 (16)
+21.36%
+15[3.03,26.97]
+Lucas 2001
+98
+709 (32)
+98
+697 (24)
+48.81%
+12[4.08,19.92]
+Subtotal ***
+169
+ 
+178
+ 
+100%
+7.33[1.8,12.87]
+Heterogeneity: Tau2=0; Chi2=21.1, df=3(P=0); I2=85.78%
+ 
+Test for overall effect: Z=2.6(P=0.01)
+ 
+ 
+ 
+1.3.4 12 months post term
+ 
+Atkinson 1999
+24
+742 (23)
+29
+729 (26)
+19.05%
+13[-0.2,26.2]
+Koo 2006
+31
+714 (32.3)
+36
+735 (34.2)
+13.06%
+-21[-36.94,-5.06]
+Roggero 2011
+54
+734 (23)
+61
+735 (27)
+39.73%
+-1[-10.14,8.14]
+Roggero 2012
+38
+712 (26)
+41
+712 (23)
+28.15%
+0[-10.86,10.86]
+Subtotal ***
+147
+ 
+167
+ 
+100%
+-0.66[-6.43,5.1]
+Heterogeneity: Tau2=0; Chi2=10.39, df=3(P=0.02); I2=71.12%
+ 
+Test for overall effect: Z=0.23(P=0.82)
+ 
+ 
+ 
+1.3.5 18-24 months post term
+ 
+Lucas 2001
+96
+806 (34)
+96
+797 (27)
+100%
+9[0.32,17.68]
+Subtotal ***
+96
+ 
+96
+ 
+100%
+9[0.32,17.68]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.03(P=0.04)
+ 
+Test for subgroup differences: Chi2=5.94, df=1 (P=0.2), I2=32.61%
+ 
+Favours term formula
+40
+20
+-40
+-20
+0
+Favours postdischarge for
+ 
+ 
+Analysis 1.4.   Comparison 1 Postdischarge formula versus
+standard term formula, Outcome 4 Head circumference (mm).
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.4.1 3-4 months post term
+ 
+Koo 2006
+31
+395 (16)
+36
+406 (17)
+10.47%
+-11[-18.91,-3.09]
+Litmanovitz 2004
+10
+399 (19)
+10
+404 (8)
+4.01%
+-5[-17.78,7.78]
+Lucas 1992
+16
+411 (18)
+15
+408 (13)
+5.41%
+3[-8,14]
+Lucas 2001
+103
+400 (14)
+103
+402 (14)
+44.8%
+-2[-5.82,1.82]
+Roggero 2011
+54
+399 (17)
+61
+397 (14)
+19.91%
+2[-3.74,7.74]
+Roggero 2012
+40
+401 (17)
+44
+392 (13)
+15.41%
+9[2.48,15.52]
+Subtotal ***
+254
+ 
+269
+ 
+100%
+-0.3[-2.86,2.26]
+Heterogeneity: Tau2=0; Chi2=17.09, df=5(P=0); I2=70.74%
+ 
+Test for overall effect: Z=0.23(P=0.82)
+ 
+ 
+ 
+1.4.2 6 months post term
+ 
+Atkinson 1999
+24
+447 (13)
+29
+440 (13)
+13.2%
+7[-0.03,14.03]
+Koo 2006
+31
+419 (18)
+36
+429 (19)
+8.3%
+-10[-18.87,-1.13]
+Litmanovitz 2004
+10
+430 (18)
+10
+440 (22)
+2.1%
+-10[-27.62,7.62]
+Lucas 1992
+16
+440 (18)
+15
+432 (13)
+5.39%
+8[-3,19]
+Favours term formula
+20
+10
+-20
+-10
+0
+Favours postdischarge for
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+42
+
+[page 45]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Lucas 2001
+103
+433 (16)
+103
+434 (15)
+36.39%
+-1[-5.24,3.24]
+Roggero 2011
+54
+430 (17)
+61
+421 (15)
+18.8%
+9[3.11,14.89]
+Roggero 2012
+40
+423 (15)
+44
+419 (15)
+15.82%
+4[-2.42,10.42]
+Subtotal ***
+278
+ 
+298
+ 
+100%
+2.28[-0.28,4.83]
+Heterogeneity: Tau2=0; Chi2=19.57, df=6(P=0); I2=69.35%
+ 
+Test for overall effect: Z=1.75(P=0.08)
+ 
+ 
+ 
+1.4.3 9 months post term
+ 
+Atkinson 1999
+24
+461 (13)
+29
+455 (13)
+22.97%
+6[-1.03,13.03]
+Koo 2006
+31
+439 (19)
+36
+450 (19)
+13.64%
+-11[-20.12,-1.88]
+Lucas 1992
+16
+460 (20)
+15
+456 (16)
+7.03%
+4[-8.71,16.71]
+Lucas 2001
+98
+456 (17)
+98
+456 (15)
+56.36%
+0[-4.49,4.49]
+Subtotal ***
+169
+ 
+178
+ 
+100%
+0.16[-3.21,3.53]
+Heterogeneity: Tau2=0; Chi2=8.75, df=3(P=0.03); I2=65.72%
+ 
+Test for overall effect: Z=0.09(P=0.93)
+ 
+ 
+ 
+1.4.4 12 months post term
+ 
+Atkinson 1999
+24
+472 (14)
+29
+465 (14)
+23%
+7[-0.57,14.57]
+Koo 2006
+31
+451 (18)
+36
+460 (19)
+16.76%
+-9[-17.87,-0.13]
+Roggero 2011
+54
+465 (17)
+61
+456 (17)
+34.02%
+9[2.77,15.23]
+Roggero 2012
+38
+445 (17)
+41
+449 (15)
+26.22%
+-4[-11.09,3.09]
+Subtotal ***
+147
+ 
+167
+ 
+100%
+2.11[-1.52,5.75]
+Heterogeneity: Tau2=0; Chi2=15.19, df=3(P=0); I2=80.24%
+ 
+Test for overall effect: Z=1.14(P=0.25)
+ 
+ 
+ 
+1.4.5 18-24 months post term
+ 
+Lucas 2001
+96
+476 (18)
+96
+479 (19)
+100%
+-3[-8.24,2.24]
+Subtotal ***
+96
+ 
+96
+ 
+100%
+-3[-8.24,2.24]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.12(P=0.26)
+ 
+Test for subgroup differences: Chi2=4.65, df=1 (P=0.33), I2=13.96%
+ 
+Favours term formula
+20
+10
+-20
+-10
+0
+Favours postdischarge for
+ 
+ 
+Analysis 1.5.   Comparison 1 Postdischarge formula versus standard term formula, Outcome 5 Development.
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.5.1 Bayley Scales of Infant Development II: Mental Development Index
+ 
+Lucas 2001
+91
+92.3 (14.7)
+93
+91.4 (13.9)
+100%
+0.9[-3.24,5.04]
+Subtotal ***
+91
+ 
+93
+ 
+100%
+0.9[-3.24,5.04]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.43(P=0.67)
+ 
+ 
+ 
+1.5.2 Bayley Scales of Infant Development II: Psychomotor Development Index
+ 
+Lucas 2001
+91
+91.7 (12.7)
+93
+89 (14.8)
+100%
+2.7[-1.28,6.68]
+Subtotal ***
+91
+ 
+93
+ 
+100%
+2.7[-1.28,6.68]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.33(P=0.18)
+ 
+Favours term formula
+5
+2.5
+-5
+-2.5
+0
+Favours postdischarge for
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+43
+
+[page 46]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Test for subgroup differences: Chi2=0.38, df=1 (P=0.54), I2=0%
+ 
+Favours term formula
+5
+2.5
+-5
+-2.5
+0
+Favours postdischarge for
+ 
+ 
+Analysis 1.6.   Comparison 1 Postdischarge formula versus standard term formula, Outcome 6 Bone mineralisation.
+Study or subgroup
+Post-dis-
+charge formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+1.6.1 Bone area at 2 months post term (cm2)
+ 
+De Curtis 2002
+16
+351 (21)
+17
+344 (42)
+100%
+7[-15.46,29.46]
+Subtotal ***
+16
+ 
+17
+ 
+100%
+7[-15.46,29.46]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.61(P=0.54)
+ 
+ 
+ 
+1.6.2 Bone mineral content at 2 months post term (grams)
+ 
+De Curtis 2002
+16
+68.2 (10.6)
+17
+65 (12.6)
+100%
+3.2[-4.73,11.13]
+Subtotal ***
+16
+ 
+17
+ 
+100%
+3.2[-4.73,11.13]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.79(P=0.43)
+ 
+ 
+ 
+1.6.3 Bone 'speed of sound' assessed on ultrasonography at 6 months post
+term (mm/s)
+ 
+Litmanovitz 2004
+10
+3032 (60)
+10
+2987 (83)
+100%
+45[-18.48,108.48]
+Subtotal ***
+10
+ 
+10
+ 
+100%
+45[-18.48,108.48]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.39(P=0.16)
+ 
+ 
+ 
+1.6.4 Bone specific serum alkaline phosphatase at 6 months post term (units/L)
+ 
+Litmanovitz 2004
+10
+125 (41)
+10
+134 (34)
+100%
+-9[-42.01,24.01]
+Subtotal ***
+10
+ 
+10
+ 
+100%
+-9[-42.01,24.01]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.53(P=0.59)
+ 
+ 
+ 
+1.6.5 Bone width at 9 months post term (cm)
+ 
+Lucas 1992
+16
+0.7 (0.1)
+15
+0.6 (0.1)
+100%
+0.05[-0.01,0.11]
+Subtotal ***
+16
+ 
+15
+ 
+100%
+0.05[-0.01,0.11]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.55(P=0.12)
+ 
+ 
+ 
+1.6.6 Bone mineral content at 9 months post term (mg/cm)
+ 
+Lucas 1992
+16
+115.3 (21.6)
+15
+94.7 (14.3)
+100%
+20.6[7.78,33.42]
+Subtotal ***
+16
+ 
+15
+ 
+100%
+20.6[7.78,33.42]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=3.15(P=0)
+ 
+Test for subgroup differences: Chi2=13.06, df=1 (P=0.02), I2=61.71%
+ 
+Favours term formula
+100
+50
+-100
+-50
+0
+Favours postdischarge for
+ 
+ 
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+44
+
+[page 47]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Comparison 2.   Preterm formula versus standard term formula
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+1 Growth rates during trial
+period
+1
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+1.1 Weight gain (g/d)
+1
+42
+Mean Difference (IV, Fixed, 95% CI)
+3.70 [-0.16, 7.56]
+1.2 Linear growth (mm/wk)
+1
+42
+Mean Difference (IV, Fixed, 95% CI)
+1.0 [0.09, 1.91]
+1.3 Head circumference
+(mm/wk)
+1
+42
+Mean Difference (IV, Fixed, 95% CI)
+0.5 [-0.04, 1.04]
+2 Weight (grams)
+5
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+2.1 3-4 months post term
+3
+130
+Mean Difference (IV, Fixed, 95% CI)
+74.41 [-267.10,
+415.93]
+2.2 6 months post term
+4
+273
+Mean Difference (IV, Fixed, 95% CI)
+74.60 [-164.73,
+313.92]
+2.3 9 months post term
+1
+59
+Mean Difference (IV, Fixed, 95% CI)
+112.0 [-482.69,
+706.69]
+2.4 12 months post term
+4
+265
+Mean Difference (IV, Fixed, 95% CI)
+539.48 [255.03,
+823.92]
+2.5 18 months post term
+2
+162
+Mean Difference (IV, Fixed, 95% CI)
+490.81 [142.19,
+839.44]
+3 Crown-heel length (mm)
+5
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+3.1 3-4 months post term
+3
+130
+Mean Difference (IV, Fixed, 95% CI)
+-2.27 [-13.09, 8.56]
+3.2 6 months post term
+3
+160
+Mean Difference (IV, Fixed, 95% CI)
+1.83 [-6.25, 9.92]
+3.3 9 months post term
+1
+59
+Mean Difference (IV, Fixed, 95% CI)
+-3.0 [-17.03, 11.03]
+3.4 12 months post term
+3
+152
+Mean Difference (IV, Fixed, 95% CI)
+5.13 [-4.23, 14.49]
+3.5 18 months post term
+2
+162
+Mean Difference (IV, Fixed, 95% CI)
+11.00 [1.89, 20.11]
+4 Head circumference (mm)
+5
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+4.1 3-4 months post term
+3
+130
+Mean Difference (IV, Fixed, 95% CI)
+3.61 [-2.09, 9.31]
+4.2 6 months post term
+3
+160
+Mean Difference (IV, Fixed, 95% CI)
+5.82 [1.32, 10.32]
+4.3 9 months post term
+1
+59
+Mean Difference (IV, Fixed, 95% CI)
+8.0 [0.85, 15.15]
+4.4 12 months post term
+3
+152
+Mean Difference (IV, Fixed, 95% CI)
+6.07 [1.07, 11.06]
+4.5 18 months post term
+2
+162
+Mean Difference (IV, Fixed, 95% CI)
+5.42 [0.69, 10.14]
+5 Development
+2
+ 
+Mean Difference (IV, Fixed, 95% CI)
+Subtotals only
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+45
+
+[page 48]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Outcome or subgroup title
+No. of studies
+No. of partici-
+pants
+Statistical method
+Effect size
+5.1 Bayley Scales of Infant
+Development II: Mental De-
+velopment Index
+2
+143
+Mean Difference (IV, Fixed, 95% CI)
+-1.44 [-6.22, 3.35]
+5.2 Bayley Scales of Infant
+Development II: Psychomo-
+tor Development Index
+2
+143
+Mean Difference (IV, Fixed, 95% CI)
+-1.13 [-4.19, 1.93]
+ 
+ 
+Analysis 2.1.   Comparison 2 Preterm formula versus standard
+term formula, Outcome 1 Growth rates during trial period.
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+2.1.1 Weight gain (g/d)
+ 
+Picaud 2005
+21
+31.8 (7.3)
+21
+28.1 (5.3)
+100%
+3.7[-0.16,7.56]
+Subtotal ***
+21
+ 
+21
+ 
+100%
+3.7[-0.16,7.56]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.88(P=0.06)
+ 
+ 
+ 
+2.1.2 Linear growth (mm/wk)
+ 
+Picaud 2005
+21
+13 (1.5)
+21
+12 (1.5)
+100%
+1[0.09,1.91]
+Subtotal ***
+21
+ 
+21
+ 
+100%
+1[0.09,1.91]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.16(P=0.03)
+ 
+ 
+ 
+2.1.3 Head circumference (mm/wk)
+ 
+Picaud 2005
+21
+7 (0.9)
+21
+6.5 (0.9)
+100%
+0.5[-0.04,1.04]
+Subtotal ***
+21
+ 
+21
+ 
+100%
+0.5[-0.04,1.04]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=1.8(P=0.07)
+ 
+Test for subgroup differences: Chi2=3.25, df=1 (P=0.2), I2=38.48%
+ 
+Favours term
+5
+2.5
+-5
+-2.5
+0
+Favours preterm
+ 
+ 
+Analysis 2.2.   Comparison 2 Preterm formula versus standard term formula, Outcome 2 Weight (grams).
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+2.2.1 3-4 months post term
+ 
+Jeon 2011
+30
+6030 (973)
+29
+6219 (864)
+52.99%
+-189[-658.16,280.16]
+Peng 2004
+16
+6150 (1254)
+13
+6100 (864)
+19.5%
+50[-723.39,823.39]
+Picaud 2005
+21
+6139 (1254)
+21
+5540 (863)
+27.51%
+599[-52.07,1250.07]
+Subtotal ***
+67
+ 
+63
+ 
+100%
+74.41[-267.1,415.93]
+Heterogeneity: Tau2=0; Chi2=3.71, df=2(P=0.16); I2=46.07%
+ 
+Test for overall effect: Z=0.43(P=0.67)
+ 
+ 
+ 
+2.2.2 6 months post term
+ 
+Favours term formula
+1000
+500
+-1000
+-500
+0
+Favours preterm formula
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+46
+
+[page 49]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Agosti 2003
+38
+7113 (825)
+34
+7056 (1053)
+29.51%
+57[-383.55,497.55]
+Cooke 2001
+56
+7242 (1124)
+57
+7078 (935)
+39.34%
+164[-217.55,545.55]
+Jeon 2011
+30
+7644 (1013)
+29
+7723 (1025)
+21.17%
+-79[-599.16,441.16]
+Peng 2004
+16
+7100 (1013)
+13
+7000 (1053)
+9.98%
+100[-657.64,857.64]
+Subtotal ***
+140
+ 
+133
+ 
+100%
+74.6[-164.73,313.92]
+Heterogeneity: Tau2=0; Chi2=0.56, df=3(P=0.91); I2=0%
+ 
+Test for overall effect: Z=0.61(P=0.54)
+ 
+ 
+ 
+2.2.3 9 months post term
+ 
+Jeon 2011
+30
+8848 (1211)
+29
+8736 (1119)
+100%
+112[-482.69,706.69]
+Subtotal ***
+30
+ 
+29
+ 
+100%
+112[-482.69,706.69]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.37(P=0.71)
+ 
+ 
+ 
+2.2.4 12 months post term
+ 
+Agosti 2003
+31
+9717 (1192)
+24
+9256 (1146)
+20.95%
+461[-160.52,1082.52]
+Cooke 2001
+56
+9203 (1213)
+57
+8649 (943)
+50.3%
+554[152.92,955.08]
+Jeon 2011
+30
+9667 (1520)
+29
+9444 (1260)
+15.99%
+223[-488.44,934.44]
+Picaud 2005
+21
+9486 (1310)
+17
+8479 (1189)
+12.77%
+1007[211.15,1802.85]
+Subtotal ***
+138
+ 
+127
+ 
+100%
+539.48[255.03,823.92]
+Heterogeneity: Tau2=0; Chi2=2.15, df=3(P=0.54); I2=0%
+ 
+Test for overall effect: Z=3.72(P=0)
+ 
+ 
+ 
+2.2.5 18 months post term
+ 
+Cooke 2001
+49
+10400
+(1400)
+54
+9900 (1000)
+54.07%
+500[25.87,974.13]
+Jeon 2011
+30
+10713 (895)
+29
+10233
+(1106)
+45.93%
+480[-34.4,994.4]
+Subtotal ***
+79
+ 
+83
+ 
+100%
+490.81[142.19,839.44]
+Heterogeneity: Tau2=0; Chi2=0, df=1(P=0.96); I2=0%
+ 
+Test for overall effect: Z=2.76(P=0.01)
+ 
+Test for subgroup differences: Chi2=9.07, df=1 (P=0.06), I2=55.89%
+ 
+Favours term formula
+1000
+500
+-1000
+-500
+0
+Favours preterm formula
+ 
+ 
+Analysis 2.3.   Comparison 2 Preterm formula versus standard term formula, Outcome 3 Crown-heel length (mm).
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+2.3.1 3-4 months post term
+ 
+Jeon 2011
+30
+598 (30)
+29
+609 (26)
+57.2%
+-11[-25.31,3.31]
+Peng 2004
+16
+620 (36)
+13
+610 (35)
+17.4%
+10[-15.94,35.94]
+Picaud 2005
+21
+598 (36)
+21
+589 (35)
+25.4%
+9[-12.47,30.47]
+Subtotal ***
+67
+ 
+63
+ 
+100%
+-2.27[-13.09,8.56]
+Heterogeneity: Tau2=0; Chi2=3.35, df=2(P=0.19); I2=40.24%
+ 
+Test for overall effect: Z=0.41(P=0.68)
+ 
+ 
+ 
+2.3.2 6 months post term
+ 
+Agosti 2003
+38
+656 (31)
+34
+653 (25)
+38.95%
+3[-9.95,15.95]
+Jeon 2011
+30
+667 (25)
+29
+669 (22)
+45.33%
+-2[-14.01,10.01]
+Peng 2004
+16
+680 (31)
+13
+670 (25)
+15.73%
+10[-10.38,30.38]
+Favours term formula
+50
+25
+-50
+-25
+0
+Favours preterm formula
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+47
+
+[page 50]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Subtotal ***
+84
+ 
+76
+ 
+100%
+1.83[-6.25,9.92]
+Heterogeneity: Tau2=0; Chi2=1.04, df=2(P=0.59); I2=0%
+ 
+Test for overall effect: Z=0.44(P=0.66)
+ 
+ 
+ 
+2.3.3 9 months post term
+ 
+Jeon 2011
+30
+720 (28)
+29
+723 (27)
+100%
+-3[-17.03,11.03]
+Subtotal ***
+30
+ 
+29
+ 
+100%
+-3[-17.03,11.03]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=0.42(P=0.68)
+ 
+ 
+ 
+2.3.4 12 months post term
+ 
+Agosti 2003
+31
+756 (22)
+24
+747 (30)
+42.91%
+9[-5.28,23.28]
+Jeon 2011
+30
+753 (28)
+29
+759 (28)
+42.87%
+-6[-20.29,8.29]
+Picaud 2005
+21
+747 (42)
+17
+720 (36)
+14.22%
+27[2.19,51.81]
+Subtotal ***
+82
+ 
+70
+ 
+100%
+5.13[-4.23,14.49]
+Heterogeneity: Tau2=0; Chi2=5.6, df=2(P=0.06); I2=64.27%
+ 
+Test for overall effect: Z=1.07(P=0.28)
+ 
+ 
+ 
+2.3.5 18 months post term
+ 
+Cooke 2001
+49
+801 (29)
+54
+790 (29)
+65.93%
+11[-0.21,22.21]
+Jeon 2011
+30
+812 (22)
+29
+801 (37)
+34.07%
+11[-4.6,26.6]
+Subtotal ***
+79
+ 
+83
+ 
+100%
+11[1.89,20.11]
+Heterogeneity: Tau2=0; Chi2=0, df=1(P=1); I2=0%
+ 
+Test for overall effect: Z=2.37(P=0.02)
+ 
+Test for subgroup differences: Chi2=4.8, df=1 (P=0.31), I2=16.67%
+ 
+Favours term formula
+50
+25
+-50
+-25
+0
+Favours preterm formula
+ 
+ 
+Analysis 2.4.   Comparison 2 Preterm formula versus standard term formula, Outcome 4 Head circumference (mm).
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+2.4.1 3-4 months post term
+ 
+Jeon 2011
+30
+405 (18)
+29
+400 (14)
+48.18%
+5[-3.21,13.21]
+Peng 2004
+16
+415 (18)
+13
+418 (16)
+21.18%
+-3[-15.39,9.39]
+Picaud 2005
+21
+407 (18)
+21
+401 (16)
+30.63%
+6[-4.3,16.3]
+Subtotal ***
+67
+ 
+63
+ 
+100%
+3.61[-2.09,9.31]
+Heterogeneity: Tau2=0; Chi2=1.41, df=2(P=0.49); I2=0%
+ 
+Test for overall effect: Z=1.24(P=0.21)
+ 
+ 
+ 
+2.4.2 6 months post term
+ 
+Agosti 2003
+38
+433 (12)
+34
+427 (19)
+36.55%
+6[-1.44,13.44]
+Jeon 2011
+30
+435 (14)
+29
+426 (13)
+42.6%
+9[2.11,15.89]
+Peng 2004
+16
+426 (14)
+13
+427 (13)
+20.85%
+-1[-10.85,8.85]
+Subtotal ***
+84
+ 
+76
+ 
+100%
+5.82[1.32,10.32]
+Heterogeneity: Tau2=0; Chi2=2.66, df=2(P=0.26); I2=24.88%
+ 
+Test for overall effect: Z=2.54(P=0.01)
+ 
+ 
+ 
+2.4.3 9 months post term
+ 
+Jeon 2011
+30
+451 (14)
+29
+443 (14)
+100%
+8[0.85,15.15]
+Favours term formula
+20
+10
+-20
+-10
+0
+Favours preterm formula
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+48
+
+[page 51]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+Subtotal ***
+30
+ 
+29
+ 
+100%
+8[0.85,15.15]
+Heterogeneity: Not applicable
+ 
+Test for overall effect: Z=2.19(P=0.03)
+ 
+ 
+ 
+2.4.4 12 months post term
+ 
+Agosti 2003
+31
+464 (15)
+24
+461 (17)
+33.63%
+3[-5.61,11.61]
+Jeon 2011
+30
+460 (13)
+29
+454 (15)
+48.47%
+6[-1.17,13.17]
+Picaud 2005
+21
+465 (19)
+17
+453 (18)
+17.91%
+12[0.2,23.8]
+Subtotal ***
+82
+ 
+70
+ 
+100%
+6.07[1.07,11.06]
+Heterogeneity: Tau2=0; Chi2=1.46, df=2(P=0.48); I2=0%
+ 
+Test for overall effect: Z=2.38(P=0.02)
+ 
+ 
+ 
+2.4.5 18 months post term
+ 
+Cooke 2001
+49
+485 (15)
+54
+480 (17)
+58.47%
+5[-1.18,11.18]
+Jeon 2011
+30
+470 (11)
+29
+464 (17)
+41.53%
+6[-1.33,13.33]
+Subtotal ***
+79
+ 
+83
+ 
+100%
+5.42[0.69,10.14]
+Heterogeneity: Tau2=0; Chi2=0.04, df=1(P=0.84); I2=0%
+ 
+Test for overall effect: Z=2.25(P=0.02)
+ 
+Test for subgroup differences: Chi2=0.95, df=1 (P=0.92), I2=0%
+ 
+Favours term formula
+20
+10
+-20
+-10
+0
+Favours preterm formula
+ 
+ 
+Analysis 2.5.   Comparison 2 Preterm formula versus standard term formula, Outcome 5 Development.
+Study or subgroup
+Preterm formula
+Term formula
+Mean Difference
+Weight
+Mean Difference
+ 
+N
+Mean(SD)
+N
+Mean(SD)
+Fixed, 95% CI
+ 
+Fixed, 95% CI
+2.5.1 Bayley Scales of Infant Development II: Mental Development Index
+ 
+Cooke 2001
+49
+102 (14)
+54
+103 (14)
+78.22%
+-1[-6.41,4.41]
+Jeon 2011
+21
+98 (16)
+19
+101 (17)
+21.78%
+-3[-13.26,7.26]
+Subtotal ***
+70
+ 
+73
+ 
+100%
+-1.44[-6.22,3.35]
+Heterogeneity: Tau2=0; Chi2=0.11, df=1(P=0.74); I2=0%
+ 
+Test for overall effect: Z=0.59(P=0.56)
+ 
+ 
+ 
+2.5.2 Bayley Scales of Infant Development II: Psychomotor Development Index
+ 
+Cooke 2001
+49
+102 (8)
+54
+103 (9)
+86.87%
+-1[-4.28,2.28]
+Jeon 2011
+21
+109 (16)
+19
+111 (11)
+13.13%
+-2[-10.44,6.44]
+Subtotal ***
+70
+ 
+73
+ 
+100%
+-1.13[-4.19,1.93]
+Heterogeneity: Tau2=0; Chi2=0.05, df=1(P=0.83); I2=0%
+ 
+Test for overall effect: Z=0.72(P=0.47)
+ 
+Test for subgroup differences: Chi2=0.01, df=1 (P=0.92), I2=0%
+ 
+Favours term formula
+10
+5
+-10
+-5
+0
+Favours preterm formula
+ 
+W H A T ' S   N E W
+ 
+Date
+Event
+Description
+8 September 2016
+New citation required but conclusions
+have not changed
+Search updated; 1 new trial added; conclusion unchanged
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+49
+
+[page 52]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+Date
+Event
+Description
+8 September 2016
+New search has been performed
+One new trial added (Roggero 2011)
+ 
+H I S T O R Y
+Protocol first published: Issue 2, 2004
+Review first published: Issue 2, 2005
+ 
+Date
+Event
+Description
+28 October 2011
+New citation required and conclusions
+have changed
+Updated search; included 8 new trials as reported by trial au-
+thors
+Revised review structure; specified separate comparisons of
+preterm formula and postdischarge formula vs standard term
+formula
+Modified conclusions
+Added new review authors
+28 October 2011
+New search has been performed
+This updates the review, "Nutrient-enriched formula versus stan-
+dard term formula for preterm infants following hospital dis-
+charge" (McGuire 2007).
+28 April 2008
+Amended
+Converted to new review format
+25 June 2007
+New citation required but conclusions
+have not changed
+Made substantive amendments
+ 
+C O N T R I B U T I O N S   O F   A U T H O R S
+William McGuire and Lauren Young undertook the electronic search and identified citations for possible inclusion. Lauren Young, William
+McGuire and Nick Embleton reviewed the citation list (title and abstract) for inclusion and undertook methodological appraisal and data
+extraction, entry and analysis. William McGuire acted as an arbiter for disagreements, reviewed data entered and analysed and completed
+the review.
+D E C L A R A T I O N S   O F   I N T E R E S T
+Nick Embleton has conducted research with support from manufacturers of infant formula including Nestec SA (Switzerland), Wyeth UK
+and Nutricia UK, but did not receive payment, support nor benefit in kind for contributions to this review.
+S O U R C E S   O F   S U P P O R T
+Internal sources
+•
+Centre for Reviews and Dissemination, University of York, UK.
+•
+Royal Victoria Infirmary, Newcastle upon Tyne, UK.
+External sources
+•
+NIHR, UK.
+This report is independent research funded by a UK National Institute of Health Research Grant (NIHR) Cochrane Programme Grant
+(13/89/12). The views expressed in this publication are those of the review authors and are not necessarily those of the NHS, the NIHR
+or the UK Department of Health.
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+50
+
+[page 53]
+Cochrane
+Library
+Trusted evidence.
+Informed decisions.
+Better health.
+ 
+ 
+Cochrane Database of Systematic Reviews
+•
+Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Department of Health
+and Human Services, USA.
+Editorial support of the Cochrane Neonatal Review Group has been provided by Federal funds from the Eunice Kennedy Shriver National
+Institute of Child Health and Human Development, National Institutes of Health, Department of Health and Human Services, USA, under
+Contract No. HHSN275201600005C.
+D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W
+We added the methods and plan for Summary of findings tables and GRADE recommendations, which were not included in the original
+protocol nor in the previously published review.
+I N D E X   T E R M S
+Medical Subject Headings (MeSH)
+Child Development  [*physiology];  Dietary Proteins  [administration & dosage];  Energy Intake  [*physiology];  Humans;  Infant;  *Infant
+Formula  [standards];  Infant Nutritional Physiological Phenomena;  Infant, Low Birth Weight  [growth & development];  Infant, Newborn; 
+Infant, Premature  [*growth & development];  Patient Discharge;  Randomized Controlled Trials as Topic
+Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge (Review)
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+51
