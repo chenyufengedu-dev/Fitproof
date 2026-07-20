@@ -10,6 +10,7 @@ import SingleResultPage from '@/components/SingleResultPage'
 import { analyzeSingle, verifyClaim } from '@/lib/api'
 import BottomNav from '@/components/BottomNav'
 import CommunityTab from '@/components/CommunityTab'
+import KnowledgeTab from '@/components/KnowledgeTab'
 import ProfileTab from '@/components/ProfileTab'
 import { appendHistory } from '@/lib/history'
 
@@ -17,7 +18,7 @@ import { appendHistory } from '@/lib/history'
 // 云端（Vercel）：不设该变量，走同源的 Next 云函数 /api/*（预置话题 + AI 答疑）
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 const MIN_LOADING_MS = 5600
-type TabId = 'verify' | 'community' | 'profile'
+type TabId = 'verify' | 'community' | 'knowledge' | 'profile'
 
 function wait(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms))
@@ -33,11 +34,13 @@ export default function Home() {
   const [singleData, setSingleData] = useState<SingleAnalyzeResponse | null>(null)
   const [sampleVerifyResults, setSampleVerifyResults] = useState<VerifyResult[] | null>(null)
   const [activeTab, setActiveTab] = useState<TabId>('verify')
+  const [loadingMode, setLoadingMode] = useState<'single' | 'dual'>('dual')
 
   async function handleAnalyze(links: string[], topicName: string) {
     setInputError('')
     setTopic(topicName)
     setHistory([])
+    setLoadingMode('dual')
     setPageState('loading')
     const loadingStartedAt = Date.now()
     try {
@@ -65,6 +68,7 @@ export default function Home() {
     setInputError('')
     setTopic(topicName)
     setHistory([])
+    setLoadingMode('dual')
     setAnalysis(data)
     setPageState('loading')
     // 展示完整的模拟核验流程，避免 demo 中只闪过前几步
@@ -77,6 +81,7 @@ export default function Home() {
     setHistory([])
     setSingleData(null)
     setSampleVerifyResults(null)
+    setLoadingMode('single')
     setPageState('loading')
     try {
       const data = await analyzeSingle(link, topicName)
@@ -105,6 +110,11 @@ export default function Home() {
         (sample.sample_verify_result ? [sample.sample_verify_result] : []),
     )
     setPageState('singleClaims')
+  }
+
+  function handleOpenVerifiedCase(sample: SingleSampleData) {
+    handleSingleSampleLoaded(sample)
+    setActiveTab('verify')
   }
 
   async function handleVerifySingleClaim(claim: Claim, index: number): Promise<VerifyResult> {
@@ -158,7 +168,7 @@ export default function Home() {
   }
 
   function renderVerifyContent(): ReactNode {
-    if (pageState === 'loading') return <LoadingPage topic={topic} />
+    if (pageState === 'loading') return <LoadingPage topic={topic} mode={loadingMode} />
     if (pageState === 'result' && analysis) {
       return <ResultPage analysis={analysis} topic={topic} history={history} onFollowup={handleFollowup} onViewRefs={viewRefs} onBack={() => setPageState('input')} />
     }
@@ -173,8 +183,11 @@ export default function Home() {
 
   return (
     <div className="min-h-[100dvh] bg-white">
-      <div className="pb-16">
-        {activeTab === 'verify' ? renderVerifyContent() : activeTab === 'community' ? <CommunityTab /> : <ProfileTab />}
+      <div className="pb-[54px]">
+        {activeTab === 'verify' ? renderVerifyContent()
+          : activeTab === 'community' ? <CommunityTab onOpenVerifiedCase={handleOpenVerifiedCase} />
+          : activeTab === 'knowledge' ? <KnowledgeTab />
+          : <ProfileTab />}
       </div>
       <BottomNav activeTab={activeTab} onChange={setActiveTab} />
     </div>

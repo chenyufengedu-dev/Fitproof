@@ -28,6 +28,12 @@ export interface Conflict {
 export interface Recommendation {
   condition: string
   advice: string
+  steps?: Array<string | { text: string; icon?: string }>
+  /** 推荐的具体做法（快走/慢跑/血糖监测）。没有可选做法的话题为空数组。 */
+  methods?: Array<string | { text: string; icon?: string }>
+  /** 适用分档，决定卡片配色。后端已做白名单校验，异常值回落「谨慎理解」。 */
+  tier?: '适用参考' | '谨慎理解' | string
+  cautions?: string[]
   video_refs?: VideoRef[]
   authority_ids?: string[]
   screen_evidence?: string
@@ -58,6 +64,8 @@ export interface Claim {
   claim: string
   video_refs: VideoRef[]
   signal: '疑似夸大' | '有条件' | '较公认' | '有争议' | string
+  /** 语义配图标签，对应 public/claim-icons/{icon}.webp。老数据可能没有，前端回落 general。 */
+  icon?: string
   why: string
 }
 
@@ -89,6 +97,21 @@ export interface VerifyResult {
   claim?: string
   topic?: string
   video_refs?: VideoRef[]
+}
+
+export interface SingleActionStep {
+  title: string
+  note?: string
+  icon?: string
+}
+
+export interface SingleActionAdvice {
+  level: 'normal' | 'caution' | 'urgent' | string
+  condition: string
+  steps: SingleActionStep[]
+  caution?: string
+  claim_indices: number[]
+  evidence_ids: string[]
 }
 
 export interface Keyframe {

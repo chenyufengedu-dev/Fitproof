@@ -67,6 +67,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# 知识库目录接口独立在 knowledge.py，这里只挂载
+from knowledge import router as knowledge_router  # noqa: E402
+
+app.include_router(knowledge_router)
+
 # ---------------------------------------------------------------------------
 # Lazy singletons
 # ---------------------------------------------------------------------------
@@ -172,6 +177,12 @@ class VerifyClaimRequest(BaseModel):
     topic: str = ""
     video_refs: list[VideoRefModel] = Field(default_factory=list)
     top_k: int = 5
+
+
+class BuildSingleActionsRequest(BaseModel):
+    reference: dict = Field(default_factory=dict)
+    topic: str = ""
+    claims: list[dict] = Field(default_factory=list)
 
 
 class ChatMessage(BaseModel):
@@ -1091,6 +1102,12 @@ def build_analysis_prompt(topic: str, videos: list[dict]) -> str:
 4. 【权威背书 authorities】**仅在纠正错误、或给出“主流证据”判断时**，列出支撑你的权威来源（如 ACSM 美国运动医学会指南、ISSN 国际运动营养学会立场声明、WHO 身体活动指南、权威期刊系统综述等）。
    要求：只引用你高度确信真实存在的权威机构/指南/立场声明，**宁可笼统也不要编造具体论文标题、年份或 DOI**。把它们列在 authorities，并在相应条目用 authority_ids 引用其 id（如 ["A1"]）。普通的视频观点**不需要** authority_ids。
 5. 如果某条目主要依据了上面的「画面文字」（音频没说、只在画面出现），加 "screen_evidence"，格式："视频{{n}} {{时间}} 画面：{{识别到的关键文字}}"。没用到就不加。
+N. recommendations 中的 steps 是这条建议的具体操作步骤，必须按实际时间或操作先后顺序排列，最多 3 条；每条 text 只写动作核心（≤8字），不要写成完整句子。正确示例："先补水" / "40分钟慢跑" / "运动后进食"；错误示例："起床后喝一杯水或黑咖啡"。如果一条建议超过 3 步，合并成最关键的 3 步；不足以支撑步骤时输出空数组 []，绝对不要为了填满而编造。steps 的每项必须给 icon，且 icon 只能从下列动作标签中选择：water（喝水）、food（进食）、fruit（水果/加餐）、pill（服药）、run（跑步）、walk（快走）、bike（骑行）、stretch（拉伸）、rest（休息）、sleep（睡觉）、time（计时/控制时长）、measure（测量监测）、carry（随身携带）、check（检查/咨询医生）、general（其它）。icon 表示这一步正在做什么动作；拿不准时填 general。
+N+1. recommendations 中的 methods 是这条建议**推荐的具体做法/方式**，每项必须为 {{"text": "方式名称", "icon": "动作标签"}}，每条 text 2~6 字（如"快走"、"慢跑"、"血糖监测"），icon 必须复用上面的 STEP_ICONS 白名单。只有当话题本身存在可选做法时才填；像"要不要吃某种食物"这类没有"方式"可言的话题，一律输出空数组 []。
+N+2. recommendations 中的 tier 表示这条建议对该人群的适用程度，**只能二选一**：
+   - "适用参考"：该人群按此执行风险低，属于常规可参考的做法。
+   - "谨慎理解"：该人群存在健康风险、需先咨询专业人员、或证据不足以放心推荐。
+   有慢病、孕产、儿童、用药等风险因素的人群建议，通常应为"谨慎理解"。拿不准时填"谨慎理解"。
 
 严格按以下 JSON 输出，不输出任何其他内容（authority_ids / screen_evidence 为可选，仅在确有依据时出现）：
 {{
@@ -1106,6 +1123,10 @@ def build_analysis_prompt(topic: str, videos: list[dict]) -> str:
   "recommendations": [ {{
       "condition": "如果你是 XX 情况",
       "advice": "具体可执行建议，有明确边界条件",
+      "steps": [{{"text": "按先后排列的动作核心（≤8字）", "icon": "water"}}],
+      "methods": [{{"text": "推荐方式（2~6字）", "icon": "walk"}}],
+      "tier": "适用参考 或 谨慎理解",
+      "cautions": ["需要注意的边界条件或身体反应，每条不超过20字"],
       "video_refs": [{{"id":1,"time":"1:05"}}],
       "authority_ids": ["A2"]
   }} ],
@@ -1142,6 +1163,117 @@ def parse_json_loose(text: str) -> dict | None:
         return None
 
 
+# 建议的适用分档。前端用它决定卡片配色，取值必须受约束，不能让模型自由发挥。
+RECOMMENDATION_TIERS = {"适用参考", "谨慎理解"}
+STEP_ICONS = {
+    "water", "food", "fruit", "pill", "run", "walk", "bike", "stretch",
+    "rest", "sleep", "time", "measure", "carry", "check", "general",
+}
+SINGLE_ACTION_LEVELS = {"normal", "caution", "urgent"}
+SINGLE_ACTION_ICONS = {
+    "home", "shower", "hairdryer", "bandage", "tub", "doctor",
+    "stop", "thermometer", "hospital", "water", "food", "rest",
+    "check", "general",
+}
+
+
+def normalize_recommendations(items: Any) -> list[dict]:
+    """Keep model-provided recommendation structure safe without deriving new content."""
+    if not isinstance(items, list):
+        return []
+
+    def clean_list(value: Any) -> list[str]:
+        if not isinstance(value, list):
+            return []
+        return [text for text in (str(item).strip() for item in value) if text][:4]
+
+    def clean_steps(value: Any, limit: int = 3) -> list[dict[str, str]]:
+        """Accept legacy strings while keeping new step icons in a safe whitelist."""
+        if not isinstance(value, list):
+            return []
+        cleaned: list[dict[str, str]] = []
+        for item in value:
+            if isinstance(item, str):
+                text = item.strip()
+                icon = "general"
+            elif isinstance(item, dict):
+                text = str(item.get("text") or "").strip()
+                icon = str(item.get("icon") or "").strip()
+                if icon not in STEP_ICONS:
+                    icon = "general"
+            else:
+                continue
+            if text:
+                cleaned.append({"text": text, "icon": icon})
+            if len(cleaned) == limit:
+                break
+        return cleaned
+
+    normalized: list[dict] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        copy = dict(item)
+        copy["steps"] = clean_steps(item.get("steps"))
+        copy["methods"] = clean_steps(item.get("methods"), limit=4)
+        copy["cautions"] = clean_list(item.get("cautions"))
+        # tier 决定卡片配色，必须是受约束取值。模型给了别的词就回落到更保守的一档，
+        # 宁可显示「谨慎理解」，也不要把有风险的人群标成「适用参考」。
+        tier = str(item.get("tier") or "").strip()
+        copy["tier"] = tier if tier in RECOMMENDATION_TIERS else "谨慎理解"
+        normalized.append(copy)
+    return normalized
+
+
+def normalize_single_actions(items: Any) -> list[dict]:
+    """Normalize model-provided single-video actions without deriving content."""
+    if not isinstance(items, list):
+        return []
+    normalized: list[dict] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        condition = str(item.get("condition") or "").strip()
+        if not condition:
+            continue
+        steps: list[dict[str, str]] = []
+        raw_steps = item.get("steps")
+        if isinstance(raw_steps, list):
+            for raw_step in raw_steps:
+                if not isinstance(raw_step, dict):
+                    continue
+                title = str(raw_step.get("title") or "").strip()
+                if not title:
+                    continue
+                icon = str(raw_step.get("icon") or "").strip()
+                steps.append({
+                    "title": title,
+                    "note": str(raw_step.get("note") or "").strip(),
+                    "icon": icon if icon in SINGLE_ACTION_ICONS else "general",
+                })
+                if len(steps) == 3:
+                    break
+        claim_indices = []
+        for value in item.get("claim_indices") if isinstance(item.get("claim_indices"), list) else []:
+            if isinstance(value, int) and value >= 0:
+                claim_indices.append(value)
+        if not claim_indices:
+            continue
+        evidence_ids = [str(value).strip() for value in item.get("evidence_ids") if str(value).strip()] if isinstance(item.get("evidence_ids"), list) else []
+        level = str(item.get("level") or "").strip()
+        normalized.append({
+            "level": level if level in SINGLE_ACTION_LEVELS else "caution",
+            "condition": condition,
+            "steps": steps,
+            "caution": str(item.get("caution") or "").strip(),
+            "claim_indices": claim_indices,
+            "evidence_ids": evidence_ids,
+        })
+        if len(normalized) == 3:
+            break
+    return normalized
+
+
 def run_analysis(topic: str, videos: list[dict]) -> dict:
     prompt = build_analysis_prompt(topic, videos)
     raw = llm_chat(prompt, json_mode=True)
@@ -1157,6 +1289,8 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 
     if data is None or not all(k in data for k in ANALYSIS_FIELDS):
         raise HTTPException(status_code=500, detail="AI 返回的分析结果格式无效")
+
+    data["recommendations"] = normalize_recommendations(data.get("recommendations"))
 
     # 用真实提取到的视频信息回填 references，保证可溯源
     if videos:
@@ -1181,6 +1315,25 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 # Single-video claim extraction + RAG verification
 # ---------------------------------------------------------------------------
 CLAIM_SIGNALS = {"疑似夸大", "有条件", "较公认", "有争议"}
+# 说法配图的语义标签白名单。前端拿这个词查 public/claim-icons/{icon}.webp。
+# 模型只需从这里选一个「这条说法在讲什么东西」，不在白名单内一律回落 general。
+# 只表示名词主体，不含好坏判断（判断由 signal 和核验负责）。
+CLAIM_ICONS = {
+    # 食物饮品
+    "egg", "milk", "meat", "veggie", "grain", "oil-salt-sugar", "water", "tea-coffee", "alcohol",
+    # 医疗健康
+    "pill", "vaccine", "lab-report", "blood-pressure", "blood-sugar", "heart", "supplement",
+    # 人群
+    "pregnancy", "baby", "elderly", "cancer",
+    # 身体部位
+    "skin", "hair", "eye", "teeth", "stomach", "bone-joint",
+    # 症状不适
+    "headache", "fever-cold", "pain", "immunity", "mood",
+    # 生活行为
+    "exercise", "sleep", "weight", "bath",
+    # 兜底
+    "general",
+}
 VERIFY_FIELDS = ["verdict", "risk_level", "confidence", "strength", "correction", "cited_evidence_ids"]
 
 
@@ -1206,11 +1359,22 @@ def video_to_claim_prompt(topic: str, video: dict) -> str:
 2. video_refs 标出该主张来自视频1的大致时间，格式 {{"id":1,"time":"0:12"}}。
 3. signal 只能从 ["疑似夸大","有条件","较公认","有争议"] 中选择。
 4. why 用一句话说明为什么值得核验。
-5. 只输出 JSON，不输出解释。
+5. icon 表示「这条说法主要在讲什么东西」，只能从下面清单里选一个，拿不准就填 general：
+   egg(蛋) milk(奶) meat(肉禽鱼) veggie(蔬菜水果) grain(米面主食) oil-salt-sugar(油盐糖)
+   water(水/饮料) tea-coffee(茶/咖啡) alcohol(酒) pill(药丸/吃药) vaccine(打针/疫苗)
+   lab-report(化验单/指标报告) blood-pressure(血压) blood-sugar(血糖) heart(心脏/心血管)
+   supplement(保健品/补剂) pregnancy(孕产) baby(婴幼儿) elderly(中老年) cancer(癌症/肿瘤)
+   skin(皮肤/美白祛痘) hair(头发/脱发) eye(眼睛/视力) teeth(牙齿/口腔)
+   stomach(肠胃/消化) bone-joint(骨骼/关节) headache(头痛) fever-cold(感冒/发烧)
+   pain(疼痛/酸痛) immunity(免疫力/抵抗力) mood(情绪/压力/焦虑)
+   exercise(运动/健身) sleep(睡眠) weight(体重/减肥) bath(洗澡/洗头/清洁)
+   general(其它/通用)
+   icon 只表示话题对象，不代表好坏。
+6. 只输出 JSON，不输出解释。
 
 JSON 格式：
 {{"claims":[
-  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","why":"为什么值得核验"}}
+  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","icon":"egg","why":"为什么值得核验"}}
 ]}}"""
 
 
@@ -1237,10 +1401,15 @@ def normalize_claims(data: dict) -> list[dict]:
         signal = str(item.get("signal") or "").strip()
         if signal not in CLAIM_SIGNALS:
             signal = "有条件"
+        # 白名单校验：模型迟早会自创一个词，不在清单内一律回落 general
+        icon = str(item.get("icon") or "").strip().lower()
+        if icon not in CLAIM_ICONS:
+            icon = "general"
         normalized.append({
             "claim": claim,
             "video_refs": good_refs,
             "signal": signal,
+            "icon": icon,
             "why": str(item.get("why") or "").strip(),
         })
     return normalized
@@ -1383,6 +1552,81 @@ def verify_single_claim(
     return data
 
 
+def build_single_actions_prompt(req: BuildSingleActionsRequest, verified_claims: list[dict]) -> str:
+    """Ask for actions only from already-verified material supplied by the caller."""
+    return f"""你是 FitProof 健康信息核验助手。请只根据下面“已完成核验”的内容，生成用户可执行的行动建议。
+
+【视频信息】
+{json.dumps(req.reference, ensure_ascii=False)}
+
+【话题】
+{req.topic or "健康信息"}
+
+【已完成核验】
+{json.dumps(verified_claims, ensure_ascii=False)}
+
+严格规则：
+1. 只能使用上方已完成核验的 claim、correction、风险等级与证据；不得使用未核验内容，不得补充猜测性医疗建议。
+2. 证据不足、说法之间无法形成具体行动建议时，输出空数组 []；宁可少，不可编。
+3. 每条建议必须列出它依据的 claim_indices，索引必须来自上方数据；没有依据索引的建议不得输出。
+4. level 只能是 normal（常规可参考）、caution（需要谨慎）、urgent（应停止/就医等高风险提醒）之一。
+5. steps 最多 3 条，按先后顺序；每项 title 不超过 10 个字，note 不超过 10 个字，icon 只能是：home、shower、hairdryer、bandage、tub、doctor、stop、thermometer、hospital、water、food、rest、check、general。icon 仅表示动作，不表示风险等级。
+6. caution 仅写一条最重要边界或身体反应；没有则为空字符串。
+7. evidence_ids 只能填写上方已完成核验中已有的证据 ID；没有则为空数组。
+
+只输出 JSON：
+{{
+  "actions": [
+    {{
+      "level": "normal",
+      "condition": "适合谁/什么情境",
+      "steps": [{{"title":"动作","note":"补充说明","icon":"general"}}],
+      "caution": "需要注意的边界",
+      "claim_indices": [0],
+      "evidence_ids": ["E1"]
+    }}
+  ]
+}}"""
+
+
+def generate_single_actions(req: BuildSingleActionsRequest) -> list[dict]:
+    verified_claims: list[dict] = []
+    for index, item in enumerate(req.claims):
+        if not isinstance(item, dict):
+            continue
+        correction = str(item.get("correction") or "").strip()
+        claim = str(item.get("claim") or "").strip()
+        if not claim or not correction:
+            continue
+        source_index = item.get("claim_index")
+        source_index = source_index if isinstance(source_index, int) and source_index >= 0 else index
+        verified_claims.append({
+            "index": source_index,
+            "claim": claim,
+            "verdict": str(item.get("verdict") or "").strip(),
+            "risk_level": str(item.get("risk_level") or "").strip(),
+            "correction": correction,
+            "video_refs": item.get("video_refs") if isinstance(item.get("video_refs"), list) else [],
+            "cited_evidence_ids": item.get("cited_evidence_ids") if isinstance(item.get("cited_evidence_ids"), list) else [],
+        })
+    if not verified_claims:
+        return []
+    raw = llm_chat(build_single_actions_prompt(req, verified_claims), max_tokens=4096, json_mode=True, model=DEEPSEEK_REASONING_MODEL)
+    data = parse_json_loose(raw) or {}
+    actions = normalize_single_actions(data.get("actions"))
+    allowed_indices = {item["index"] for item in verified_claims}
+    allowed_evidence = {str(evidence_id) for item in verified_claims for evidence_id in item["cited_evidence_ids"]}
+    safe_actions: list[dict] = []
+    for action in actions:
+        claim_indices = [index for index in action["claim_indices"] if index in allowed_indices]
+        if not claim_indices:
+            continue
+        action["claim_indices"] = claim_indices
+        action["evidence_ids"] = [evidence_id for evidence_id in action["evidence_ids"] if evidence_id in allowed_evidence]
+        safe_actions.append(action)
+    return safe_actions
+
+
 # ---------------------------------------------------------------------------
 # Routes
 # ---------------------------------------------------------------------------
@@ -1506,6 +1750,18 @@ async def verify_claim(req: VerifyClaimRequest):
         raise HTTPException(status_code=500, detail="AI 核验失败，请重试")
 
 
+@app.post("/api/build_single_actions")
+async def build_single_actions(req: BuildSingleActionsRequest):
+    if not any(isinstance(item, dict) and str(item.get("correction") or "").strip() for item in req.claims):
+        return {"actions": []}
+    try:
+        return {"actions": await asyncio.to_thread(generate_single_actions, req)}
+    except Exception as e:
+        print(f"[build_single_actions] 生成失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="行动建议生成失败，请稍后重试")
+
+
 @app.post("/api/followup")
 async def followup(req: FollowupRequest):
     history_text = "\n".join(f"{m.role}: {m.content}" for m in req.history)
@@ -1524,7 +1780,8 @@ async def followup(req: FollowupRequest):
    请用通俗、准确的方式做名词解释/科普，帮助用户看懂，可以补充必要的常识性背景知识。
 3. 如果用户问的是与本话题相关的延伸问题，结合已分析内容尽量解答，并指出哪些有视频支撑、哪些是通用常识。
 4. 只有当问题与该运动健康话题**完全无关**时（例如问天气、问股票），才回复：这个问题和当前分析的视频话题无关哦。
-5. 回答简洁清楚，避免空话。"""
+5. 回答简洁清楚，避免空话。
+6. 可适度使用 Markdown 提升可读性：仅用 **加粗** 标出关键结论、用 - 列出要点；不要输出 HTML、表格或复杂标题。"""
     try:
         answer = await asyncio.to_thread(llm_chat, prompt, 8192)
     except Exception as e:
@@ -1557,7 +1814,8 @@ def build_followup_single_prompt(req: FollowupSingleRequest) -> str:
 2. 若问题超出已核验范围，可以做通俗的名词或常识解释，但必须明确说明这部分没有权威证据支撑、属于常识判断。
 3. 绝不编造机构、指南、论文、数据、证据编号或来源；没有依据时要诚实说明。
 4. 只有问题与这条视频的健康话题完全无关时，例如天气或股票，才回复：这个问题和当前视频无关哦。
-5. 使用简洁、清楚的中文回答。"""
+5. 使用简洁、清楚的中文回答。
+6. 可适度使用 Markdown 提升可读性：仅用 **加粗** 标出关键结论、用 - 列出要点；不要输出 HTML、表格或复杂标题。"""
 
 
 @app.post("/api/followup_single")
