@@ -1,6 +1,8 @@
 'use client'
 
 import { useLayoutEffect, useMemo, useRef, useState } from 'react'
+import ChatMarkdown from '@/components/ChatMarkdown'
+import { StepIcon } from '@/components/StepIcon'
 import type { Analysis, Authority, ChatMessage, Misleading, Reference, VideoRef } from '@/types'
 
 interface ResultPageProps {
@@ -33,6 +35,19 @@ function authorityIndexForId(id: string, authorities: Authority[]) {
   return byNumber >= 0 && byNumber < authorities.length ? byNumber : -1
 }
 
+function normalizeRecommendationActionItems(items: Array<string | { text: string; icon?: string }> | undefined, limit: number) {
+  if (!Array.isArray(items)) return []
+  return items.flatMap((item) => {
+    const step = item
+    if (typeof step === 'string') {
+      const text = step.trim()
+      return text ? [{ text, icon: 'general' }] : []
+    }
+    const text = step?.text?.trim()
+    return text ? [{ text, icon: step.icon || 'general' }] : []
+  }).slice(0, limit)
+}
+
 /* ---------- 引用小标签：点击弹底部抽屉 ---------- */
 function VideoChip({ refs, onOpen }: { refs?: VideoRef[]; onOpen: (r: VideoRef[]) => void }) {
   if (!refs || refs.length === 0) return null
@@ -62,12 +77,12 @@ function AuthChips({
     .map((i) => i + 1)
   if (nums.length === 0) return null
   return (
-    <span className="ml-1 inline-flex flex-wrap gap-1 align-top">
+    <span className="ml-1 inline-flex flex-wrap items-center gap-1 align-middle">
       {nums.map((n) => (
         <button
           key={n}
           onClick={() => onOpen(n)}
-          className="relative -top-1 inline-flex min-w-[1.35rem] items-center justify-center rounded-full border border-[#20CDB6]/30 bg-[#e9fbf8] px-1.5 py-0.5 text-[10px] font-bold leading-none text-[#0b6e63] shadow-sm transition hover:border-[#128f80] hover:bg-[#20CDB6] hover:text-white"
+          className="inline-flex min-w-[1.35rem] items-center justify-center rounded-full border border-[#20CDB6]/30 bg-[#e9fbf8] px-1.5 py-0.5 text-[10px] font-bold leading-none text-[#0b6e63] shadow-sm transition hover:border-[#128f80] hover:bg-[#20CDB6] hover:text-white"
         >
           [{n}]
         </button>
@@ -168,7 +183,7 @@ function VideoSourceMark({
       : 'border-sky-200 bg-sky-50 text-sky-700'
   const src = tone === 'teal' ? '/brand/portrait-teal.png' : '/brand/portrait-blue.png'
   return (
-    <div className={`relative flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-2xl border shadow-sm ${cls}`}>
+    <div className={`relative flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-full border shadow-sm ${cls}`}>
       <img src={src} alt="" aria-hidden className="h-9 w-9 object-contain" />
       <span className="sr-only">{label}</span>
     </div>
@@ -219,6 +234,7 @@ export default function ResultPage({
   const [expandedConclusion, setExpandedConclusion] = useState(false)
   const [expandedConsensus, setExpandedConsensus] = useState<Record<number, boolean>>({})
   const [expandedConflictDetail, setExpandedConflictDetail] = useState<Record<string, boolean>>({})
+  const [expandedMisleadingEvidence, setExpandedMisleadingEvidence] = useState<Record<number, boolean>>({})
 
   const exportRef = useRef<HTMLDivElement>(null)
   const frontRef = useRef<HTMLDivElement>(null)
@@ -627,69 +643,49 @@ export default function ResultPage({
                 <span className="shrink-0 rounded-full bg-[#E6F8F4] px-2 py-1 text-[10px] font-black text-[#078C7E]">
                   分歧 {i + 1}
                 </span>
-                <p className="pt-0.5 text-[14px] font-semibold leading-snug text-slate-950">{c.topic}</p>
+                <p className="pt-0.5 text-[14px] font-semibold leading-snug text-[#536F9C]">{c.topic}</p>
               </div>
 
               <div className="space-y-3 text-[13px] leading-relaxed">
                 <div className="flex items-start gap-2">
-                  <div className="flex w-11 shrink-0 flex-col items-center gap-1 pt-0.5"><VideoSourceMark label={String(first.position.video_refs?.[0]?.id ?? first.fallback)} tone={first.tone} /><span className="max-w-full truncate text-[8px] text-[#078C7E]">{firstCreator}</span></div>
+                  <div className="flex w-12 shrink-0 flex-col items-center gap-1 pt-0.5"><VideoSourceMark label={String(first.position.video_refs?.[0]?.id ?? first.fallback)} tone={first.tone} /><span className="w-full text-center text-[10px] leading-[1.2] text-[#078C7E]">{firstCreator}</span></div>
                   <div className="relative min-w-0 flex-1 rounded-[18px] rounded-tl-[6px] border border-[#BFECE5] bg-[#F4FCFA] px-3 py-2.5 shadow-sm"><span className="absolute -left-2 top-4 h-3 w-3 rotate-45 border-b border-l border-[#BFECE5] bg-[#F4FCFA]" />
-                    <p className="text-slate-800">{first.position.argument}</p>
-                    <div className="relative mt-1.5 flex flex-wrap items-center gap-1.5">
-                      <button
-                        type="button"
-                        onClick={() => first.position.video_refs && first.position.video_refs.length > 0 && openVideo(first.position.video_refs)}
-                        disabled={!first.position.video_refs || first.position.video_refs.length === 0}
-                        className="rounded-full border border-[#BFECE5] bg-white px-2 py-0.5 text-[9px] font-medium text-[#078C7E] transition hover:bg-[#20CDB6] hover:text-white disabled:cursor-default disabled:opacity-60"
-                      >
-                        查看出处
-                      </button>
-                      <ScreenChip text={first.position.screen_evidence} onOpen={openScreen} />
-                    </div>
+                    <p className="text-slate-800">{first.position.argument} <button type="button" onClick={() => first.position.video_refs?.length && openVideo(first.position.video_refs)} disabled={!first.position.video_refs?.length} className="inline-flex align-middle rounded-full border border-[#BFECE5] bg-white px-2 py-0.5 text-[9px] font-medium leading-none text-[#078C7E] disabled:opacity-50">查看出处</button></p>
+                    {first.position.screen_evidence && <div className="relative mt-1"><ScreenChip text={first.position.screen_evidence} onOpen={openScreen} /></div>}
                   </div>
                 </div>
 
                 <div className="flex items-start justify-end gap-2">
                   <div className="relative min-w-0 flex-1 rounded-[18px] rounded-tr-[6px] border border-sky-200 bg-[#F5F9FF] px-3 py-2.5 text-left shadow-sm"><span className="absolute -right-2 top-4 h-3 w-3 rotate-45 border-r border-t border-sky-200 bg-[#F5F9FF]" />
-                    <p className="text-slate-800">{second.position.argument}</p>
-                    <div className="relative mt-1.5 flex flex-wrap items-center justify-end gap-1.5">
-                      <ScreenChip text={second.position.screen_evidence} onOpen={openScreen} />
-                      <button
-                        type="button"
-                        onClick={() => second.position.video_refs && second.position.video_refs.length > 0 && openVideo(second.position.video_refs)}
-                        disabled={!second.position.video_refs || second.position.video_refs.length === 0}
-                        className="rounded-full border border-sky-200 bg-white px-2 py-0.5 text-[9px] font-medium text-sky-700 transition hover:bg-sky-500 hover:text-white disabled:cursor-default disabled:opacity-60"
-                      >
-                        查看出处
-                      </button>
-                    </div>
+                    <p className="text-slate-800">{second.position.argument} <button type="button" onClick={() => second.position.video_refs?.length && openVideo(second.position.video_refs)} disabled={!second.position.video_refs?.length} className="inline-flex align-middle rounded-full border border-sky-200 bg-white px-2 py-0.5 text-[9px] font-medium leading-none text-sky-700 disabled:opacity-50">查看出处</button></p>
+                    {second.position.screen_evidence && <div className="relative mt-1 flex justify-end"><ScreenChip text={second.position.screen_evidence} onOpen={openScreen} /></div>}
                   </div>
-                  <div className="flex w-11 shrink-0 flex-col items-center gap-1 pt-0.5"><VideoSourceMark label={String(second.position.video_refs?.[0]?.id ?? second.fallback)} tone={second.tone} /><span className="max-w-full truncate text-[8px] text-sky-700">{secondCreator}</span></div>
+                  <div className="flex w-12 shrink-0 flex-col items-center gap-1 pt-0.5"><VideoSourceMark label={String(second.position.video_refs?.[0]?.id ?? second.fallback)} tone={second.tone} /><span className="w-full text-center text-[10px] leading-[1.2] text-sky-700">{secondCreator}</span></div>
                 </div>
 
                 {/* 分歧根源 */}
-                <div className="rounded-[15px] border border-[#DCE7F2] bg-[#F8FAFC] px-3 py-2.5">
-                  <p className="flex items-center gap-1.5 text-[12px] font-black text-slate-800"><svg className="h-4 w-4 text-[#64748B]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M9 18h6M10 22h4M8 14h8c0-2.1 2-3.1 2-6a6 6 0 0 0-12 0c0 2.9 2 3.9 2 6Z" strokeLinecap="round" strokeLinejoin="round" /></svg>分歧根源</p>
+                <div className="rounded-[15px] border border-[#D8E1EE] bg-[#F6F8FC] px-3 py-2.5">
+                  <p className="relative -top-px flex items-center gap-2 text-[12px] font-black text-[#263B5B]"><svg className="h-5 w-5 shrink-0 text-[#3C5274]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9"><path d="M9 18h6M10 21h4M8 14h8c0-2.1 2-3.1 2-6a6 6 0 0 0-12 0c0 2.9 2 3.9 2 6Z" strokeLinecap="round" strokeLinejoin="round" /></svg>分歧根源</p>
                   <div className="mt-1 flex items-end gap-1"><p className="min-w-0 flex-1 text-[11px] leading-[1.55] text-[#52627E]" style={expandedConflictDetail[`${i}-root`] ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 3, overflow: 'hidden' }}>一方强调“{first.position.argument}”，另一方强调“{second.position.argument}”，核心差异主要来自适用人群、运动目标、运动强度与风险边界不同。</p><button type="button" onClick={() => setExpandedConflictDetail((current) => ({ ...current, [`${i}-root`]: !current[`${i}-root`] }))} className="mb-0.5 shrink-0 text-[#64748B]" aria-label="展开或收起分歧根源"><svg className={`h-3.5 w-3.5 ${expandedConflictDetail[`${i}-root`] ? 'rotate-180' : ''}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" /></svg></button></div>
                 </div>
 
                 {/* FitProof 核验判断：浅青绿医学报告风 */}
-                <div className="rounded-[16px] border border-[#BFECE5] bg-[#f3fbf9] px-3 py-3">
-                  <div className="mb-2 flex items-center gap-2">
-                    <span className="h-2 w-2 rounded-full bg-[#20CDB6]" />
-                    <p className="text-[10px] font-black uppercase tracking-[0.16em] text-[#128f80]">
+                <div className="rounded-[15px] border border-[#BFECE5] bg-[#f3fbf9] px-2.5 py-2">
+                  <div className="mb-1.5 flex items-center gap-1.5">
+                    <svg className="h-5 w-5 text-[#078C7E]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9"><path d="m12 3 7 3v5c0 4.2-2.8 8-7 10-4.2-2-7-5.8-7-10V6l7-3Z" strokeLinejoin="round" /><path d="m8.5 12 2.2 2.2 4.8-4.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
+                    <p className="text-[12px] font-black uppercase tracking-[0.14em] text-[#078C7E]">
                       FitProof 核验判断
                     </p>
                   </div>
 
-                  <dl className="space-y-1.5 text-[11px]">
-                    <div className="flex items-center gap-2">
-                      <dt className="w-16 shrink-0 text-slate-400">判定</dt>
-                      <dd className="font-medium text-slate-900">{decision}</dd>
+                  <dl className="overflow-hidden rounded-[12px] border border-[#DCEFED] bg-white text-[11px]">
+                    <div className="flex min-h-7 items-center border-b border-[#EEF6F4]">
+                      <dt className="flex w-16 shrink-0 self-stretch items-center border-r border-[#EEF6F4] px-1.5 text-slate-400">判定</dt>
+                      <dd className="px-2.5 font-medium text-slate-900">{decision}</dd>
                     </div>
-                    <div className="flex items-center gap-2">
-                      <dt className="w-16 shrink-0 text-slate-400">误导风险</dt>
-                      <dd>
+                    <div className="flex min-h-7 items-center border-b border-[#EEF6F4]">
+                      <dt className="flex w-16 shrink-0 self-stretch items-center border-r border-[#EEF6F4] px-1.5 text-slate-400">误导风险</dt>
+                      <dd className="px-2.5">
                         <span
                           className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${
                             caution ? 'bg-amber-100 text-amber-700' : 'bg-[#20CDB6]/15 text-[#128f80]'
@@ -699,9 +695,9 @@ export default function ResultPage({
                         </span>
                       </dd>
                     </div>
-                    <div className="flex items-center gap-2">
-                      <dt className="w-16 shrink-0 text-slate-400">依据强度</dt>
-                      <dd className="flex flex-1 items-center gap-2">
+                    <div className="flex min-h-7 items-center">
+                      <dt className="flex w-16 shrink-0 self-stretch items-center border-r border-[#EEF6F4] px-1.5 text-slate-400">依据强度</dt>
+                      <dd className="flex flex-1 items-center gap-2 px-2.5">
                         <span className="font-medium text-[#128f80]">{supportLevel}</span>
                         <span className="h-1.5 flex-1 overflow-hidden rounded-full bg-[#20CDB6]/15">
                           <span className="block h-1.5 rounded-full bg-[#20CDB6]" style={{ width: `${strength}%` }} />
@@ -713,10 +709,10 @@ export default function ResultPage({
                   {c.evidence_note && (
                     <div className="mt-2 border-t border-[#20CDB6]/15 pt-2">
                       <p className="mb-1 text-[10px] font-medium text-slate-400">主流证据说明</p>
-                      <div className="flex items-end gap-1"><p className="min-w-0 flex-1 text-[11px] leading-[1.5] text-slate-700" style={expandedConflictDetail[`${i}-evidence`] ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 3, overflow: 'hidden' }}>
+                      <p className="text-[11px] leading-[1.5] text-slate-700">
                         {c.evidence_note}
                         <AuthChips ids={c.authority_ids} authorities={authorities} onOpen={openAuthority} />
-                      </p><button type="button" onClick={() => setExpandedConflictDetail((current) => ({ ...current, [`${i}-evidence`]: !current[`${i}-evidence`] }))} className="mb-0.5 shrink-0 text-[#078C7E]" aria-label="展开或收起证据说明"><svg className={`h-3.5 w-3.5 ${expandedConflictDetail[`${i}-evidence`] ? 'rotate-180' : ''}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" /></svg></button></div>
+                      </p>
                     </div>
                   )}
                 </div>
@@ -737,61 +733,58 @@ export default function ResultPage({
       authorityIds: analysis.recommendations.flatMap((r) => r.authority_ids || []),
     }),
     node: (
-      <div className="space-y-4">
-        <p className="px-1 text-sm leading-relaxed text-slate-500">
+      <div className="space-y-2.5">
+        <p className="px-1 text-[11px] leading-[1.55] text-slate-500">
           根据视频内容与专业依据，FitProof 将建议按人群和目标拆开。请结合自身健康状况理解。
         </p>
-        <div className="space-y-3">
+        {/* 固定说明条：讲的是这张卡的组织方式，不随分析结果变化，不暗示是 AI 得出的结论 */}
+        <div className="grid grid-cols-3 rounded-[14px] border border-[#CDEDE7] bg-white/70 px-1 py-1.5">
+          {[
+            { t: '按人群区分', d: '匹配不同需求', icon: <><circle cx="12" cy="7" r="3" fill="currentColor" /><circle cx="5.5" cy="10" r="2.3" fill="currentColor" opacity=".82" /><circle cx="18.5" cy="10" r="2.3" fill="currentColor" opacity=".82" /><path d="M6.5 20c.5-4 2.4-6 5.5-6s5 2 5.5 6" fill="currentColor" stroke="none" /><path d="M1.5 19c.3-2.7 1.6-4.2 3.9-4.6M22.5 19c-.3-2.7-1.6-4.2-3.9-4.6" strokeLinecap="round" /></> },
+            { t: '按目标匹配', d: '各有侧重', icon: <><circle cx="12" cy="12" r="8.5" strokeWidth="2.1" /><circle cx="12" cy="12" r="4.6" strokeWidth="2.1" /><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none" /><path d="m12 12 7-7M16.7 5H19v2.3" strokeWidth="2.3" /></> },
+            { t: '关注身体反应', d: '安全第一', icon: <><path d="M12 21s-8-5-8-10.4A4.55 4.55 0 0 1 12 7.5a4.55 4.55 0 0 1 8 3.1C20 16 12 21 12 21Z" fill="currentColor" stroke="none" /><path d="M4.7 13h3l1.6-2.7 2.2 5 1.7-3H19" stroke="white" strokeWidth="1.75" /></> },
+          ].map((item, index) => (
+            <div key={item.t} className={`flex min-w-0 items-center gap-1 px-1 ${index > 0 ? 'border-l border-[#DCF0EC]' : ''}`}>
+              <svg className="h-5 w-5 shrink-0 text-[#20CDB6]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">{item.icon}</svg>
+              <span className="min-w-0">
+                <span className="block truncate text-[9px] font-black leading-tight text-[#078C7E]">{item.t}</span>
+              </span>
+            </div>
+          ))}
+        </div>
+        <div className="space-y-2">
           {analysis.recommendations.map((r, i) => {
-            const tone = boundaryTone(`${r.condition} ${r.advice}`)
-            const cautious = tone === '谨慎理解'
+            const steps = normalizeRecommendationActionItems(r.steps, 3)
+            const methods = normalizeRecommendationActionItems(r.methods, 4)
+            const cautions = Array.isArray(r.cautions) ? r.cautions.filter((caution) => caution.trim()) : []
+            // tier 由模型输出、后端白名单校验过；这里只做配色映射，不在前端推断适用程度。
+            const wary = r.tier === '谨慎理解'
+            const tone = wary
+              ? { card: 'border-[#F3DCBB] bg-[linear-gradient(135deg,#FFFFFF_0%,#FFFAF3_100%)] shadow-[0_10px_24px_rgba(153,94,18,0.08)]', accent: 'bg-[#E58A22]', text: 'text-[#B4690E]', chip: 'border-[#F3DCBB] bg-[#FDF3E6] text-[#B4690E]', panel: 'border-[#F3DCBB]', soft: 'bg-[#FFF7EC]', dot: 'bg-[#E58A22]', avatar: 'bg-[#E58A22]' }
+              : { card: 'border-[#CDEDE7] bg-[linear-gradient(135deg,#FFFFFF_0%,#F4FCFA_100%)] shadow-[0_10px_24px_rgba(18,116,103,0.08)]', accent: 'bg-[#20CDB6]', text: 'text-[#078C7E]', chip: 'border-[#BFECE5] bg-[#E6F8F4] text-[#078C7E]', panel: 'border-[#CDEDE7]', soft: 'bg-[#EAF8F5]', dot: 'bg-[#20CDB6]', avatar: 'bg-[#20CDB6]' }
             return (
-              <div
-                key={i}
-                className={`rounded-[24px] border p-4 shadow-sm ${
-                  cautious ? 'border-amber-200 bg-amber-50/70' : 'border-[#20CDB6]/15 bg-white'
-                }`}
-              >
-                <div className="mb-3 flex items-start justify-between gap-3">
-                  <div>
-                    <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">
-                      人群建议 {i + 1}
-                    </p>
-                  </div>
-                  <span
-                    className={`shrink-0 rounded-full px-2.5 py-1 text-[11px] font-semibold ${
-                      cautious ? 'bg-amber-100 text-amber-800' : 'bg-[#20CDB6]/10 text-[#128f80]'
-                    }`}
-                  >
-                    {tone}
-                  </span>
-                </div>
-                <div className="space-y-3 text-[14px] leading-relaxed">
-                  <div>
-                    <p className="mb-1 text-[11px] font-semibold text-slate-400">适合谁</p>
-                    <p className="font-medium text-slate-950">{r.condition}</p>
-                  </div>
-                  <div>
-                    <p className="mb-1 text-[11px] font-semibold text-slate-400">建议怎么做</p>
-                    <p className="text-slate-700">{r.advice}</p>
-                  </div>
-                  <div className="rounded-2xl border border-[#20CDB6]/15 bg-[#f3fbf9] px-3 py-2.5">
-                    <p className="mb-1 text-[11px] font-semibold text-[#128f80]">需要注意</p>
-                    <p className="text-[13px] text-slate-600">{actionAttention(r.advice)}</p>
-                  </div>
-                </div>
+              <article key={i} className={`rounded-[18px] border p-2 ${tone.card}`}>
+                <header className="flex items-center gap-1.5">
+                  <span className={`grid h-6 w-6 shrink-0 place-items-center rounded-full text-white ${tone.avatar}`}><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="7.6" r="3.7" fill="currentColor" stroke="none" /><path d="M4.7 20.7c.6-4.4 3.2-6.7 7.3-6.7s6.7 2.3 7.3 6.7" fill="currentColor" stroke="none" /></svg></span>
+                  <h3 className={`text-[14px] font-black ${tone.text}`}>人群建议 {i + 1}</h3>
+                  {r.tier && <span className={`ml-auto shrink-0 rounded-full border px-2 py-0.5 text-[10px] font-black ${tone.chip}`}>{r.tier}</span>}
+                </header>
+                <div className="mt-1.5 flex items-start gap-1.5"><span className={`shrink-0 rounded-full border px-1.5 py-0.5 text-[10px] font-black ${tone.chip}`}>适合谁</span><p className="pt-0.5 text-[12px] leading-[1.35] text-[#34435B]">{r.condition}</p></div>
+                {steps.length > 0 ? <section className={`mt-1.5 rounded-[13px] border bg-white/75 px-2 py-1.5 ${tone.panel}`}><p className={`text-[11px] font-black ${tone.text}`}>建议动作</p><div className="mt-1 flex gap-1 overflow-x-auto pb-0.5 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">{steps.map((step, stepIndex) => <div key={`${step.text}-${stepIndex}`} className="flex shrink-0 items-center gap-1"><div className={`relative flex min-h-[40px] w-[116px] items-center gap-1 rounded-[8px] border bg-white py-1 pl-[18px] pr-1 ${tone.panel}`}><span className={`absolute left-1 top-1 grid h-3 w-3 place-items-center rounded-full text-[7px] font-black text-white ${tone.accent}`}>{stepIndex + 1}</span><StepIcon name={step.icon} className={`h-5 w-5 shrink-0 ${tone.text}`} /><span className="line-clamp-2 text-left text-[9px] font-semibold leading-[1.2] text-[#34435B]">{step.text}</span></div>{stepIndex < steps.length - 1 && <svg className={`h-3.5 w-3.5 shrink-0 ${tone.text}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m9 5 7 7-7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>}</div>)}</div></section> : <section className={`mt-1.5 rounded-[13px] border bg-white/75 px-2 py-1.5 ${tone.panel}`}><p className={`text-[11px] font-black ${tone.text}`}>行动建议</p><p className="mt-0.5 text-[12px] leading-[1.45] text-[#52627E]">{r.advice}</p></section>}
+                {methods.length > 0 && <div className="mt-1.5 flex items-center gap-1.5"><span className={`shrink-0 text-[10px] font-black ${tone.text}`}>推荐方式</span><div className="flex gap-1 overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">{methods.map((method, methodIndex) => <span key={`${method.text}-${methodIndex}`} className={`inline-flex shrink-0 items-center gap-1 rounded-[8px] border bg-white px-2 py-0.5 text-[10px] font-semibold text-[#34435B] ${tone.panel}`}><StepIcon name={method.icon} className={`h-3.5 w-3.5 ${tone.text}`} />{method.text}</span>)}</div></div>}
+                {cautions.length > 0 && <section className={`relative mt-1.5 overflow-hidden rounded-[12px] border px-2 py-1.5 pr-14 ${tone.panel} ${tone.soft}`}><svg className={`absolute right-1.5 top-1/2 h-12 w-12 -translate-y-1/2 opacity-25 ${tone.text}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" aria-hidden="true"><rect x="3.4" y="5.4" width="12.8" height="14.8" rx="1.7" /><path d="M7.5 5.4V3.7c0-.8.6-1.4 1.4-1.4h2.2c.8 0 1.4.6 1.4 1.4v1.7" fill="currentColor" opacity=".35" /><path d="M7 9.5h5.7M7 12.8h5.7M7 16h4" /><path d="M16.1 13.15 20.6 15v3.15c0 1.9-1.45 3.25-4.5 4.55-3.05-1.3-4.5-2.65-4.5-4.55V15l4.5-1.85Z" fill="currentColor" stroke="none" opacity=".75" /><path d="m13.9 18 1.55 1.55 3.05-3.25" stroke="white" strokeWidth="1.45" /></svg><p className={`flex items-center gap-1.5 text-[11px] font-black ${tone.text}`}><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 4 4.5 19h15L12 4Z" strokeLinejoin="round" /><path d="M12 9v4M12 16v.1" strokeLinecap="round" /></svg>需要注意</p><ul className="mt-0.5 space-y-0.5">{cautions.map((caution, cautionIndex) => <li key={`${caution}-${cautionIndex}`} className="flex gap-1.5 text-[11px] leading-[1.35] text-[#52627E]"><span className={`mt-[5px] h-1.5 w-1.5 shrink-0 rounded-full ${tone.dot}`} />{caution}</li>)}</ul></section>}
 
-                <div className="mt-3 flex flex-wrap gap-2 text-[11px]">
+                <div className="mt-1.5 flex flex-wrap gap-1.5 text-[10px]">
                   <button
                     type="button"
                     onClick={() => r.video_refs && r.video_refs.length > 0 && openVideo(r.video_refs)}
                     disabled={!r.video_refs || r.video_refs.length === 0}
-                    className="rounded-full border border-[#20CDB6]/20 bg-[#20CDB6]/10 px-2.5 py-1 text-[#128f80] transition hover:border-[#20CDB6] hover:bg-[#20CDB6] hover:text-white disabled:cursor-default disabled:opacity-60"
+                    className="inline-flex items-center gap-1 rounded-full border border-[#20CDB6]/30 bg-white px-2.5 py-1 text-[#078C7E] transition hover:border-[#20CDB6] hover:bg-[#20CDB6] hover:text-white disabled:cursor-default disabled:opacity-60"
                   >
-                    {r.video_refs && r.video_refs.length > 0 ? '查看视频依据' : '视频依据待展开'}
+                    <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="12" r="8.5" /><path d="m10 8 5 4-5 4V8Z" fill="currentColor" stroke="none" /></svg>{r.video_refs && r.video_refs.length > 0 ? '查看视频依据' : '视频依据待展开'}
                   </button>
                   {r.authority_ids && r.authority_ids.length > 0 && (
-                    <span className="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 text-slate-500">
+                    <span className="rounded-full border border-[#CDEDE7] bg-white px-2.5 py-1 text-[#52627E]">
                       含专业依据
                     </span>
                   )}
@@ -799,13 +792,13 @@ export default function ResultPage({
                     <button
                       type="button"
                       onClick={() => openScreen(r.screen_evidence || '')}
-                      className="rounded-full border border-violet-200 bg-violet-50 px-2.5 py-1 text-violet-600 transition hover:border-violet-500"
+                      className="rounded-full border border-[#CDEDE7] bg-white px-2.5 py-1 text-[#52627E] transition hover:border-[#20CDB6]"
                     >
                       含画面依据
                     </button>
                   )}
                 </div>
-              </div>
+              </article>
             )
           })}
         </div>
@@ -823,7 +816,7 @@ export default function ResultPage({
     }),
     node: (
       <div className="space-y-4">
-        <p className="px-1 text-[13px] leading-relaxed text-slate-500">
+        <p className="px-1 text-[11px] leading-[1.55] text-slate-500">
           这里单独标出视频中可能被夸大、说得过满或存在风险的表达，帮助你避开误解。
         </p>
         {misleading.length === 0 ? (
@@ -831,64 +824,31 @@ export default function ResultPage({
             当前材料中未识别到需要单独标出的高风险表达，可继续查看行动建议。
           </div>
         ) : (
-          misleading.map((m, i) => (
-            <div key={i} className="overflow-hidden rounded-3xl border border-[#20CDB6]/15 bg-white p-3 shadow-sm">
-              <div className="rounded-2xl border border-amber-200 bg-amber-50/70 px-4 py-3">
-                <div className="mb-1.5 flex items-center justify-between gap-2">
-                  <span className="inline-flex items-center gap-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-amber-600">
-                    <span>⚠</span>原视频说法
-                  </span>
-                  <span className="shrink-0 rounded-full bg-amber-100 px-2.5 py-1 text-[10px] font-semibold text-amber-700">
-                    疑似不准确
-                  </span>
+          misleading.map((m, i) => {
+            const hasSafetyRisk = /低血糖|晕厥|风险|危险|受伤|不适/.test(`${m.claim}${m.correction}`)
+            const videoCount = m.video_refs?.length || 0
+            const authorityCount = m.authority_ids?.length || 0
+            const expanded = Boolean(expandedMisleadingEvidence[i])
+            return (
+              <article key={i} className="overflow-hidden rounded-[20px] border border-[#E5E9ED] bg-white shadow-[0_8px_20px_rgba(18,116,103,0.05)]">
+                <div className="flex items-center justify-between gap-2 bg-[linear-gradient(90deg,#FFFAF0_0%,#FFFDF8_100%)] px-3 py-2">
+                  <span className="flex items-center gap-2 text-[12px] font-black text-[#C86B00]"><span className="grid h-5 w-5 place-items-center rounded-full bg-[#E88900] text-[12px] text-white">{i + 1}</span>原视频说法</span>
+                  <span className={`shrink-0 rounded-full px-2.5 py-1 text-[10px] font-black ${hasSafetyRisk ? 'bg-[#FFF0CB] text-[#CF7900]' : 'bg-[#FFF4D9] text-[#D07A06]'}`}>{hasSafetyRisk ? '存在风险' : '疑似不准确'}</span>
                 </div>
-                <p className="text-[14px] leading-relaxed text-slate-500 line-through decoration-amber-400/70">
-                  {m.claim}
-                </p>
-                {m.video_refs && m.video_refs.length > 0 && (
-                  <button
-                    type="button"
-                    onClick={() => openVideo(m.video_refs!)}
-                    className="mt-2.5 rounded-full bg-white px-2.5 py-1 text-[11px] font-medium text-amber-700 shadow-sm transition hover:bg-amber-500 hover:text-white"
-                  >
-                    查看出处
-                  </button>
-                )}
-              </div>
-
-              <div className="my-2 rounded-2xl border border-amber-200/70 bg-white px-4 py-3">
-                <p className="mb-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-amber-600">
-                  风险点
-                </p>
-                <p className="text-[13px] leading-relaxed text-slate-700">{riskPointForMisleading(m)}</p>
-              </div>
-
-              <div className="rounded-2xl border border-[#20CDB6]/25 bg-[#f3fbf9] px-4 py-3">
-                <div className="mb-1.5 flex items-center gap-2">
-                  <span className="grid h-5 w-5 place-items-center rounded-full bg-[#20CDB6] text-[11px] text-white">
-                    ✓
-                  </span>
-                  <span className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#128f80]">
-                    更准确的说法
-                  </span>
+                <div className="px-3 py-2.5">
+                  <p className="text-[13px] leading-[1.55] text-[#34435B]">{m.claim}</p>
+                  <section className="mt-2.5 rounded-[16px] border border-[#AEEAE0] bg-[#F4FCFA] px-3 py-2.5">
+                    <div className="flex items-center gap-2"><span className="grid h-5 w-5 shrink-0 place-items-center rounded-full bg-[#20CDB6] text-[13px] text-white">✓</span><span className="text-[11px] font-black tracking-[0.08em] text-[#078C7E]">更准确的说法</span></div>
+                    <p className="mt-1.5 text-[13px] leading-[1.55] text-[#34435B]">{m.correction}<AuthChips ids={m.authority_ids} authorities={authorities} onOpen={openAuthority} /></p>
+                    <div className="mt-2 rounded-[11px] border border-[#E0E8EE] bg-[#F7F9FB]">
+                      <button type="button" onClick={() => setExpandedMisleadingEvidence((current) => ({ ...current, [i]: !current[i] }))} className="flex w-full items-center gap-1 px-2 py-1.5 text-left text-[10px] text-[#64748B]" aria-expanded={expanded}><svg className="h-4 w-4 shrink-0 text-[#71829C]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="5" y="3" width="14" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" strokeLinecap="round" /></svg><span className="min-w-0 flex-1 truncate">相关依据　涉及 {videoCount} 处视频出处，{authorityCount ? `含专业依据` : '缺少文献支持 · AI 常识判断'}</span><svg className={`h-3.5 w-3.5 shrink-0 text-[#71829C] transition-transform ${expanded ? 'rotate-180' : ''}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" /></svg></button>
+                      {expanded && <div className="space-y-1 border-t border-[#E0E8EE] px-2 py-1.5 text-[10px] leading-[1.45] text-[#52627E]">{videoCount > 0 && <p><b className="font-medium text-[#34435B]">视频出处：</b>{m.video_refs?.map((ref) => refById[ref.id]?.title || `视频 ${ref.id}`).join('、')}</p>}{authorityCount > 0 ? <p><b className="font-medium text-[#34435B]">专业依据：</b>{m.authority_ids?.map((id) => { const position = authorityIndexForId(id, authorities); return position >= 0 ? authorities[position].name : id }).join('、')}</p> : <p>当前未关联专业文献，以下结论为 AI 常识判断。</p>}</div>}
+                    </div>
+                  </section>
                 </div>
-                <p className="text-[14px] leading-relaxed text-slate-800">
-                  {m.correction}
-                  <AuthChips ids={m.authority_ids} authorities={authorities} onOpen={openAuthority} />
-                </p>
-              </div>
-              <div className="mt-2 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3">
-                <p className="mb-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">
-                  相关依据
-                </p>
-                <p className="text-[13px] leading-relaxed text-slate-600">
-                  {m.video_refs && m.video_refs.length > 0 ? `涉及 ${m.video_refs.length} 处视频出处` : '视频出处待补充'}
-                  {m.authority_ids && m.authority_ids.length > 0 ? '，含专业依据' : '，暂无专业依据编号'}
-                  <AuthChips ids={m.authority_ids} authorities={authorities} onOpen={openAuthority} />
-                </p>
-              </div>
-            </div>
-          ))
+              </article>
+            )
+          })
         )}
       </div>
     ),
@@ -899,32 +859,48 @@ export default function ResultPage({
     label: 'AI 答疑',
     exportable: false,
     node: (
-      <div className="flex h-full flex-col">
-        <p className="mb-3 text-[13px] leading-relaxed text-slate-500">
-          只基于以上已核验内容作答，不引入外部信息；看不懂的概念可以直接问。
+      <div className="-mt-2 flex h-full flex-col">
+        <p className="mb-1.5 truncate whitespace-nowrap px-1 text-[12px] leading-relaxed text-slate-500">
+          基于数据库与权威文献回答，不引入无关外部信息。
         </p>
 
         <div className="flex-1 space-y-2.5 overflow-y-auto">
           {history.length === 0 && (
             <div className="space-y-2.5">
-              <div className="flex items-end justify-between gap-3 px-1">
-                <p className="pb-1 text-[12px] text-slate-400">试试这些问题：</p>
-                <img
-                  src="/brand/cat-lie.png"
-                  alt=""
-                  aria-hidden
-                  className="fitproof-cat-float pointer-events-none w-20 shrink-0 drop-shadow-[0_12px_18px_rgba(15,118,110,0.12)]"
-                />
+              <div className="rounded-[22px] border border-[#CDEDE7] bg-[#EFFAF8] px-3.5 py-2">
+                <div className="flex items-center gap-3">
+                  <div className="min-w-0 flex-1">
+                  <p className="text-[18px] font-extrabold tracking-[-0.02em] text-[#17243B]">FitProof AI <span className="text-[#20CDB6]">✦</span></p>
+                  <p className="mt-1.5 text-[12px] leading-[1.55] text-[#52627E]">
+                    你的健康知识助手，结合医学数据库<br />与权威文献为你答疑解惑。
+                  </p>
+                  </div>
+                  <div
+                    role="img"
+                    aria-label="FitProof 小猫正在思考"
+                    className="fitproof-answer-cat pointer-events-none mt-1 shrink-0 self-center"
+                  />
+                </div>
+                <div className="mt-2 flex w-full flex-nowrap justify-between gap-1 text-[9px] font-medium text-[#078C7E]">
+                  <span className="inline-flex min-w-0 flex-1 items-center justify-center gap-1 rounded-full border border-[#BFECE5] bg-white/80 px-1 py-1 whitespace-nowrap"><svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.1"><path d="m12 3 7 3v5c0 4.2-2.8 8-7 10-4.2-2-7-5.8-7-10V6l7-3Z" strokeLinejoin="round" /><path d="m8.5 12 2.2 2.2 4.8-4.8" strokeLinecap="round" strokeLinejoin="round" /></svg>已核验内容</span>
+                  <span className="inline-flex min-w-0 flex-1 items-center justify-center gap-1 rounded-full border border-[#BFECE5] bg-white/80 px-1 py-1 whitespace-nowrap"><svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9"><ellipse cx="12" cy="5.5" rx="6.5" ry="2.5" /><path d="M5.5 5.5v6c0 1.4 2.9 2.5 6.5 2.5s6.5-1.1 6.5-2.5v-6M5.5 11.5v6C5.5 18.9 8.4 20 12 20s6.5-1.1 6.5-2.5v-6" /></svg>医学数据库</span>
+                  <span className="inline-flex min-w-0 flex-1 items-center justify-center gap-1 rounded-full border border-[#BFECE5] bg-white/80 px-1 py-1 whitespace-nowrap"><svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9"><path d="M4 5.5c2.5-1.2 5.1-.9 8 1v12c-2.9-1.9-5.5-2.2-8-1V5.5ZM20 5.5c-2.5-1.2-5.1-.9-8 1v12c2.9-1.9 5.5-2.2 8-1V5.5Z" strokeLinejoin="round" /></svg>权威文献</span>
+                </div>
               </div>
-              <div className="flex flex-wrap gap-2">
+              <div className="space-y-2">
+                <p className="flex items-center gap-2 px-1 text-[15px] font-black text-[#17243B]"><span className="grid h-7 w-7 place-items-center rounded-full bg-[linear-gradient(135deg,#3BD6C6,#17B8AD)] text-white shadow-[0_5px_10px_rgba(32,205,182,0.20)]"><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 18.5 3.5 21l3.2-.9A8.5 8.5 0 1 0 5 18.5Z" strokeLinejoin="round" /><circle cx="8" cy="12" r=".7" fill="currentColor" /><circle cx="12" cy="12" r=".7" fill="currentColor" /><circle cx="16" cy="12" r=".7" fill="currentColor" /></svg></span>你可以这样问</p>
                 {QUICK_QUESTIONS.map((q) => (
                   <button
                     key={q}
                     onClick={() => void ask(q)}
                     disabled={sending}
-                    className="rounded-full border border-[#20CDB6]/25 bg-[#20CDB6]/[0.08] px-3 py-1.5 text-[13px] text-[#128f80] transition hover:bg-[#20CDB6] hover:text-white disabled:opacity-50"
+                    className="flex w-full items-center gap-2.5 rounded-[15px] border border-[#CDEDE7] bg-white px-3 py-0.5 text-left text-[13px] text-[#52627E] shadow-[0_4px_12px_rgba(11,110,99,0.04)] transition hover:border-[#20CDB6] hover:bg-[#F7FFFD] disabled:opacity-50"
                   >
-                    {q}
+                    <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-[radial-gradient(circle_at_35%_30%,#F9FFFE_0%,#DDF7F2_68%,#C9EEE8_100%)] text-[#16B8AC] shadow-[inset_0_1px_0_rgba(255,255,255,.8)]">
+                      {QUICK_QUESTIONS.indexOf(q) === 0 ? <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" aria-hidden="true"><text x="12" y="10" fill="currentColor" fontSize="10" fontWeight="900" textAnchor="middle">?</text><circle cx="7.2" cy="15.2" r="2.45" fill="currentColor" opacity=".9" /><circle cx="16.8" cy="15.2" r="2.45" fill="currentColor" opacity=".9" /><path fill="currentColor" d="M3.7 21c.5-2.2 1.7-3.3 3.5-3.3s3 1.1 3.5 3.3H3.7Zm9.6 0c.5-2.2 1.7-3.3 3.5-3.3s3 1.1 3.5 3.3h-7.0Z" opacity=".9" /></svg> : QUICK_QUESTIONS.indexOf(q) === 1 ? <svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="11" r="4.8" fill="currentColor" /><path fill="currentColor" d="M9.2 15h5.6v3H9.2zM10.2 19h3.6l-.8 1.3h-2l-.8-1.3Z" /><path d="M12 2.4v1.8M4.8 5.4l1.3 1.3M19.2 5.4l-1.3 1.3M2.4 12h1.8M19.8 12h1.8" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" /></svg> : <svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path fill="currentColor" d="M3 5.3c2.8-.9 5.7-.4 8.5 1.2v10.9c-2.7-1.5-5.6-1.9-8.5-1V5.3Zm18 0c-2.8-.9-5.7-.4-8.5 1.2v10.9c2.7-1.5 5.6-1.9 8.5-1V5.3Z" /><path d="M12 6.5v10.1" stroke="white" strokeOpacity=".68" strokeWidth="1.25" /></svg>}
+                    </span>
+                    <span className="min-w-0 flex-1">{q}</span>
+                    <svg className="h-5 w-5 shrink-0 text-[#20CDB6]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m9 5 7 7-7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>
                   </button>
                 ))}
               </div>
@@ -940,7 +916,7 @@ export default function ResultPage({
                   : 'mr-auto rounded-bl-md border border-[#20CDB6]/20 bg-[#f3fbf9] text-slate-700'
               }`}
             >
-              {m.content}
+              {m.role === 'user' ? m.content : <ChatMarkdown content={m.content} />}
             </div>
           ))}
 
@@ -951,18 +927,18 @@ export default function ResultPage({
           )}
         </div>
 
-        <div className="mt-3 flex gap-2">
+        <div className="mt-0 flex translate-y-1.5 gap-2">
           <input
             value={question}
             onChange={(e) => setQuestion(e.target.value)}
             onKeyDown={(e) => e.key === 'Enter' && handleSend()}
-            placeholder="输入你的疑问，如某个名词是什么意思…"
-            className="flex-1 select-text rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2.5 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+            placeholder="输入你的疑问"
+            className="flex-1 select-text rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
           />
           <button
             onClick={handleSend}
             disabled={sending}
-            className="rounded-full bg-[#20CDB6] px-5 py-2.5 text-sm font-medium text-white shadow-[0_8px_20px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-40"
+            className="rounded-full bg-[#20CDB6] px-5 py-2 text-sm font-medium text-white shadow-[0_8px_20px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-40"
           >
             {sending ? '…' : '发送'}
           </button>
@@ -1124,7 +1100,7 @@ export default function ResultPage({
         </div>
         <div className="mx-5 mt-1 h-px bg-[#20CDB6]/10" />
         <div
-          className="flex-1 touch-pan-y overflow-y-auto px-5 pb-4 pt-3"
+          className={`flex-1 touch-pan-y overflow-y-auto px-5 pt-3 ${section.key === 'followup' ? 'pb-0' : 'pb-4'}`}
           onPointerDown={onContentPointerDown}
           onPointerMove={onContentPointerMove}
           onPointerUp={onContentPointerUp}
@@ -1158,7 +1134,7 @@ export default function ResultPage({
   }
 
   return (
-    <main className="fitproof-particle-field relative flex h-[100dvh] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)]">
+    <main className="fitproof-particle-field relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)]">
       <header className="relative z-10 flex items-center justify-between px-5 py-3">
         <button onClick={onBack} aria-label="返回" className="flex h-10 w-10 items-center justify-center rounded-full text-[#078C7E] transition hover:bg-white/70">
           <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true"><path d="m14.5 5-7 7 7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>
@@ -1193,8 +1169,8 @@ export default function ResultPage({
         </div>
       </div>
 
-      <footer className="relative z-10 flex flex-col items-center gap-1.5 px-5 pb-3 pt-1">
-        <div className="flex w-full max-w-[300px] items-center gap-2 rounded-full border border-white/70 bg-white/[0.70] px-3 py-2 shadow-sm backdrop-blur">
+      <footer className="relative z-10 flex flex-col items-center gap-1 px-5 pb-3 pt-1">
+        <div className="flex h-[26px] w-full max-w-[300px] items-center gap-2 rounded-full border border-white/70 bg-white/[0.70] px-3 shadow-sm backdrop-blur">
           {sections.map((s, i) => (
             <button
               key={s.key}
@@ -1206,7 +1182,7 @@ export default function ResultPage({
             />
           ))}
         </div>
-        <span className="text-xs text-slate-400">← 左右滑动翻页 →</span>
+        <span className="text-[11px] leading-none text-slate-400">← 左右滑动翻页 →</span>
         {exportError && <p className="text-xs text-red-600">{exportError}</p>}
       </footer>
 

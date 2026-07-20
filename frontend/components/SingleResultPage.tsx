@@ -1,9 +1,11 @@
 'use client'
 
-import { useEffect, useId, useRef, useState, type MouseEvent as ReactMouseEvent, type PointerEvent as ReactPointerEvent } from 'react'
-import type { Claim, EvidenceEntry, Keyframe, SingleAnalyzeResponse, VerifyResult } from '@/types'
+import { useEffect, useId, useLayoutEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from 'react'
+import type { Claim, EvidenceEntry, Keyframe, SingleActionAdvice, SingleAnalyzeResponse, VerifyResult } from '@/types'
 import { citedEvidence, isEvidenceDowngraded } from '@/lib/single'
-import { followupSingle } from '@/lib/api'
+import { buildSingleActions, followupSingle } from '@/lib/api'
+import ChatMarkdown from '@/components/ChatMarkdown'
+import { ActionIcon } from '@/components/StepIcon'
 import CourtCardShell from '@/components/CourtCardShell'
 import FitProofCat from '@/components/FitProofCat'
 
@@ -25,8 +27,13 @@ type CardDescriptor =
   | { kind: 'profile' }
   | { kind: 'overview' }
   | { kind: 'confrontation'; claimIndex: number }
+  | { kind: 'actions' }
   | { kind: 'summary' }
   | { kind: 'followup' }
+
+function isInteractiveTarget(target: EventTarget | null) {
+  return target instanceof Element && Boolean(target.closest('button,a,input,textarea,select,[role="button"]'))
+}
 
 interface DrawerData {
   evidence: EvidenceEntry[]
@@ -770,6 +777,29 @@ function FollowupAvatar({ compact = false }: { compact?: boolean }) {
   return <span className={`relative z-10 inline-flex shrink-0 rounded-full border border-[#BFECE5] bg-[#EEF9F6] ${compact ? 'h-9 w-9' : 'h-16 w-16'}`} aria-label="FitProof AI 头像占位" />
 }
 
+const SINGLE_ACTION_TONES = {
+  normal: { border: 'border-[#9FE4D9]', text: 'text-[#078C7E]', soft: 'bg-[#EAF8F5]', dot: 'bg-[#20CDB6]' },
+  caution: { border: 'border-[#F6CF8C]', text: 'text-[#C87608]', soft: 'bg-[#FFF6E7]', dot: 'bg-[#F2A11C]' },
+  urgent: { border: 'border-[#F5B2B6]', text: 'text-[#C53B43]', soft: 'bg-[#FFF0F1]', dot: 'bg-[#E6535B]' },
+}
+
+function ActionAdviceCard({ actions, claims, states, loading, requested, onGenerate, onEvidence }: { actions: SingleActionAdvice[]; claims: Claim[]; states: VerifyState[]; loading: boolean; requested: boolean; onGenerate: () => void; onEvidence: (evidence: EvidenceEntry[]) => void }) {
+  const verifiedCount = states.filter((state) => state.status === 'done' && state.result).length
+  const evidenceFor = (action: SingleActionAdvice) => action.evidence_ids.flatMap((id) => states.flatMap((state) => state.result?.evidence || []).filter((item) => item.id === id))
+  const locked = verifiedCount === 0
+  const verificationSettled = states.every((state) => state.status === 'done' || state.status === 'error')
+  useEffect(() => {
+    if (!locked && verificationSettled && !loading && !requested && actions.length === 0) onGenerate()
+  }, [actions.length, loading, locked, onGenerate, requested, verificationSettled])
+  return <div className="space-y-3">
+    <div>
+      <div className="inline-flex items-center rounded-full bg-[#EAF8F5] px-3 py-1 text-[13px] font-black text-[#078C7E]">{locked ? '完成核验后生成建议' : '结合已核验内容，优先关注这些做法'}</div>
+      <p className="mt-2 flex items-center gap-1.5 text-[11px] leading-relaxed text-[#71839E]"><svg className="h-4 w-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" /></svg>{locked ? '至少完成 1 条说法核验后，再根据已核验内容生成建议；不输出猜测性内容。' : '建议只基于已核验说法与对应证据生成，不包含未核验内容。'}</p>
+    </div>
+    {locked ? <div className="rounded-[18px] border border-[#D9E7E7] bg-[linear-gradient(135deg,#FFFFFF,#F8FCFC)] px-4 py-6 text-center"><div className="mx-auto grid h-14 w-14 place-items-center rounded-full bg-[#EFF8F7] text-[#0B8F82]"><svg className="h-8 w-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><rect x="5" y="10" width="14" height="10" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v2" /></svg></div><p className="mt-3 text-[18px] font-black text-slate-900">完成核验后生成建议</p><p className="mt-1 text-sm text-slate-400">当前尚无可用建议</p><div className="mt-5 space-y-2 text-left">{[['◉', '适合谁'], ['›', '建议动作'], ['!', '需要注意']].map(([icon, label]) => <div key={label} className="flex items-center gap-3 rounded-xl border border-slate-100 bg-white/75 px-3 py-2 text-slate-300"><span className="grid h-7 w-7 place-items-center rounded-lg bg-slate-100 text-sm font-black">{icon}</span><span className="text-[13px] font-bold">{label}</span><span className="ml-auto rounded-full bg-slate-100 px-2 py-1 text-[10px] font-semibold">待生成</span></div>)}</div></div> : actions.length === 0 && loading ? <div className="rounded-[18px] border border-[#91DDD1] bg-[linear-gradient(135deg,#FFFFFF,#F0FBF8)] px-4 py-7 text-center"><span className="mx-auto grid h-12 w-12 place-items-center rounded-full bg-[#E7F8F4] text-[#078C7E]"><svg className="h-6 w-6 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg></span><span className="mt-3 block text-[17px] font-black text-[#0B6E63]">正在生成行动建议…</span></div> : actions.length === 0 && requested ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[17px] font-black text-slate-900">当前尚无可用建议</p><p className="mt-1 text-sm text-slate-400">已核验内容不足以形成具体行动建议。</p></div> : actions.length === 0 ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[16px] font-black text-[#0B6E63]">正在等待核验完成…</p></div> : actions.map((action, actionIndex) => { const tone = SINGLE_ACTION_TONES[action.level as keyof typeof SINGLE_ACTION_TONES] || SINGLE_ACTION_TONES.caution; const evidence = evidenceFor(action); return <section key={`${action.condition}-${actionIndex}`} className={`rounded-[18px] border bg-white p-3 shadow-[0_8px_20px_rgba(15,90,82,.05)] ${tone.border}`}><header className="flex items-center gap-2"><span className={`grid h-9 w-9 place-items-center rounded-xl text-lg font-black text-white ${tone.dot}`}>{actionIndex + 1}</span><h3 className="min-w-0 flex-1 text-[16px] font-black text-slate-900">{action.condition}</h3><span className={`rounded-full px-2 py-1 text-[10px] font-black ${tone.soft} ${tone.text}`}>适合谁</span></header>{action.steps.length > 0 && <div className="mt-3 border-y border-slate-100 py-3"><p className={`text-[12px] font-black ${tone.text}`}>› 建议动作</p><div className="mt-2 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">{action.steps.map((step, index) => <div key={`${step.title}-${index}`} className="flex shrink-0 items-center gap-2"><div className="w-[92px] text-center"><ActionIcon name={step.icon} className={"mx-auto h-9 w-9 " + tone.text} /><div className="mt-1 flex items-start justify-center gap-1"><span className={`grid h-4 w-4 shrink-0 place-items-center rounded-full text-[9px] font-black text-white ${tone.dot}`}>{index + 1}</span><span className="text-left text-[11px] font-bold leading-tight text-slate-700">{step.title}<small className="mt-0.5 block text-[9px] font-normal text-slate-400">{step.note}</small></span></div></div>{index < action.steps.length - 1 && <span className={`text-xl ${tone.text}`}>›</span>}</div>)}</div></div>}{action.caution && <div className="mt-2 flex gap-2 text-[11px] leading-relaxed text-slate-600"><span className={`shrink-0 font-black ${tone.text}`}>◉ 需要注意</span><span>• {action.caution}</span></div>}<div className="mt-2 flex items-center gap-1.5 overflow-x-auto border-t border-slate-100 pt-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"><span className={`shrink-0 text-[11px] font-black ${tone.text}`}>▣ 查看依据</span>{action.claim_indices.map((claimIndex) => claims[claimIndex] && <span key={claimIndex} className={`shrink-0 rounded-full px-2 py-1 text-[10px] font-bold ${tone.soft} ${tone.text}`}>已核验说法 {claimIndex + 1}</span>)}{evidence.map((item) => <button key={item.id} type="button" onClick={() => onEvidence([item])} className={`shrink-0 rounded-full px-2 py-1 text-[10px] font-bold ${tone.soft} ${tone.text}`}>[{item.id}]</button>)}</div></section> })}
+  </div>
+}
+
 function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResponse; topic: string; claims: Claim[]; states: VerifyState[] }) {
   const [messages, setMessages] = useState<FollowupMessage[]>([])
   const [input, setInput] = useState('')
@@ -884,7 +914,7 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
           {messages.map((message, index) => message.role === 'user' ? (
             <div key={`${message.role}-${index}`} className="flex justify-end">
               <div className="max-w-[82%] rounded-[14px_14px_4px_14px] bg-[#20CDB6] px-4 py-3 text-sm leading-relaxed text-white">
-                {message.content}
+                <ChatMarkdown content={message.content} />
               </div>
             </div>
           ) : (
@@ -947,7 +977,10 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   const [cardIndex, setCardIndex] = useState(0)
   const [drawer, setDrawer] = useState<DrawerData | null>(null)
   const [visualImage, setVisualImage] = useState<VisualImage | null>(null)
-  const [slideDirection, setSlideDirection] = useState<'next' | 'previous' | null>(null)
+  const [dragDir, setDragDir] = useState<-1 | 1 | null>(null)
+  const [singleActions, setSingleActions] = useState<SingleActionAdvice[]>([])
+  const [actionsLoading, setActionsLoading] = useState(false)
+  const [actionsRequested, setActionsRequested] = useState(false)
 
   const mountedRef = useRef(false)
   const startedRef = useRef(false)
@@ -956,28 +989,25 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   const retryQueueRef = useRef<number[]>([])
   const statesRef = useRef<VerifyState[]>(initialStates())
   const pumpRef = useRef<() => void>(() => undefined)
-  const gestureStartRef = useRef<{ x: number; y: number } | null>(null)
-  const suppressClickRef = useRef(false)
+  const frontRef = useRef<HTMLDivElement | null>(null)
+  const behindRef = useRef<HTMLDivElement | null>(null)
+  const dragDirRef = useRef<-1 | 1 | null>(null)
+  const startXRef = useRef(0)
+  const startYRef = useRef(0)
+  const moveXRef = useRef(0)
+  const axisLockRef = useRef<'x' | 'y' | null>(null)
+  const draggingRef = useRef(false)
+  const animatingRef = useRef(false)
 
   const cards: CardDescriptor[] = [
     { kind: 'profile' },
     { kind: 'overview' },
-    ...data.claims.map((_, claimIndex) => ({ kind: 'confrontation' as const, claimIndex })),
+    ...(data.claims.length > 0 ? [{ kind: 'confrontation' as const, claimIndex: 0 }, { kind: 'actions' as const }, ...data.claims.slice(1).map((_, offset) => ({ kind: 'confrontation' as const, claimIndex: offset + 1 }))] : [{ kind: 'actions' as const }]),
     { kind: 'summary' },
     { kind: 'followup' },
   ]
   const totalCards = cards.length
-  const currentCard = cards[Math.min(cardIndex, totalCards - 1)]
-  const currentCardLabel = currentCard.kind === 'profile'
-    ? '视频档案'
-    : currentCard.kind === 'overview'
-      ? '说法全景'
-        : currentCard.kind === 'confrontation'
-        ? `对质 ${currentCard.claimIndex + 1}`
-        : currentCard.kind === 'summary'
-          ? '避坑总结'
-          : '继续追问'
-  const confrontationClaim = currentCard.kind === 'confrontation' ? data.claims[currentCard.claimIndex] : null
+  const behindCard = dragDir === 1 ? cards[cardIndex - 1] : cards[cardIndex + 1]
 
   function updateVerifyState(index: number, next: VerifyState) {
     statesRef.current = statesRef.current.map((state, stateIndex) => stateIndex === index ? next : state)
@@ -1042,45 +1072,194 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
   function goToCard(nextIndex: number) {
     const boundedIndex = Math.max(0, Math.min(totalCards - 1, nextIndex))
     if (boundedIndex === cardIndex) return
-    setSlideDirection(boundedIndex > cardIndex ? 'next' : 'previous')
     setCardIndex(boundedIndex)
   }
 
   function openClaimFromOverview(claimIndex: number) {
-    goToCard(2 + claimIndex)
+    goToCard(claimIndex === 0 ? 2 : claimIndex + 3)
+  }
+
+  async function generateActions() {
+    const verifiedClaims = data.claims.flatMap((claim, index) => {
+      const result = statesRef.current[index]?.result
+      if (!result || statesRef.current[index]?.status !== 'done') return []
+      return [{
+        claim_index: index,
+        claim: claim.claim,
+        verdict: result.verdict,
+        risk_level: result.risk_level,
+        correction: result.correction,
+        cited_evidence_ids: result.cited_evidence_ids || [],
+        video_refs: claim.video_refs || [],
+      }]
+    })
+    if (verifiedClaims.length === 0 || actionsLoading) return
+    setActionsLoading(true)
+    setActionsRequested(true)
+    try {
+      const result = await buildSingleActions({ reference: data.reference, topic: topic || data.topic, claims: verifiedClaims })
+      setSingleActions(Array.isArray(result.actions) ? result.actions : [])
+    } finally {
+      setActionsLoading(false)
+    }
+  }
+
+  const BEHIND_BASE = 'scale(0.94) translateY(12px)'
+
+  function setBehindDirection(direction: -1 | 1 | null) {
+    if (dragDirRef.current === direction) return
+    dragDirRef.current = direction
+    setDragDir(direction)
+  }
+
+  useLayoutEffect(() => {
+    if (frontRef.current) {
+      frontRef.current.style.transition = 'none'
+      frontRef.current.style.transform = 'translateX(0px) rotate(0deg)'
+      frontRef.current.style.opacity = '1'
+    }
+    if (behindRef.current) {
+      behindRef.current.style.transition = 'none'
+      behindRef.current.style.transform = BEHIND_BASE
+    }
+    draggingRef.current = false
+    moveXRef.current = 0
+    axisLockRef.current = null
+    setBehindDirection(null)
+  }, [cardIndex])
+
+  function setFront(x: number) {
+    if (frontRef.current) frontRef.current.style.transform = `translateX(${x}px) rotate(${x * 0.02}deg)`
+    if (behindRef.current) {
+      const progress = Math.min(Math.abs(x) / 240, 1)
+      behindRef.current.style.transform = `scale(${0.94 + 0.06 * progress}) translateY(${12 * (1 - progress)}px)`
+    }
+  }
+
+  function springBack() {
+    if (!draggingRef.current && !animatingRef.current) return
+    if (frontRef.current) {
+      frontRef.current.style.transition = 'transform 0.28s cubic-bezier(0.22,1,0.36,1)'
+      frontRef.current.style.transform = 'translateX(0px) rotate(0deg)'
+    }
+    if (behindRef.current) {
+      behindRef.current.style.transition = 'transform 0.28s cubic-bezier(0.22,1,0.36,1)'
+      behindRef.current.style.transform = BEHIND_BASE
+    }
+    draggingRef.current = false
+    moveXRef.current = 0
+    axisLockRef.current = null
+    window.setTimeout(() => setBehindDirection(null), 280)
+  }
+
+  function flyOff(direction: -1 | 1) {
+    if (animatingRef.current) return
+    animatingRef.current = true
+    const width = typeof window !== 'undefined' ? window.innerWidth : 480
+    if (frontRef.current) {
+      frontRef.current.style.transition = 'transform 0.24s ease-out, opacity 0.24s ease-out'
+      frontRef.current.style.transform = `translateX(${direction * width * 1.1}px) rotate(${direction * 10}deg)`
+      frontRef.current.style.opacity = '0'
+    }
+    if (behindRef.current) {
+      behindRef.current.style.transition = 'transform 0.24s ease-out'
+      behindRef.current.style.transform = 'scale(1) translateY(0px)'
+    }
+    window.setTimeout(() => {
+      setCardIndex((current) => direction < 0 ? Math.min(current + 1, totalCards - 1) : Math.max(current - 1, 0))
+      draggingRef.current = false
+      moveXRef.current = 0
+      axisLockRef.current = null
+      setBehindDirection(null)
+      animatingRef.current = false
+    }, 230)
   }
 
   function handlePointerDown(event: ReactPointerEvent<HTMLDivElement>) {
     if (event.pointerType === 'mouse' && event.button !== 0) return
-    gestureStartRef.current = { x: event.clientX, y: event.clientY }
+    if (animatingRef.current || isInteractiveTarget(event.target)) return
+    startXRef.current = event.clientX
+    startYRef.current = event.clientY
+    moveXRef.current = 0
+    axisLockRef.current = null
+    draggingRef.current = true
+    setBehindDirection(null)
+    if (frontRef.current) frontRef.current.style.transition = 'none'
+    if (behindRef.current) behindRef.current.style.transition = 'none'
+    event.currentTarget.setPointerCapture?.(event.pointerId)
   }
 
-  function handlePointerUp(event: ReactPointerEvent<HTMLDivElement>) {
-    const start = gestureStartRef.current
-    gestureStartRef.current = null
-    if (!start) return
-    const dx = event.clientX - start.x
-    const dy = event.clientY - start.y
-    if (Math.abs(dx) <= Math.abs(dy) || Math.abs(dx) <= 50) return
-
-    suppressClickRef.current = true
-    goToCard(dx < 0 ? cardIndex + 1 : cardIndex - 1)
-    window.setTimeout(() => {
-      suppressClickRef.current = false
-    }, 0)
+  function handlePointerMove(event: ReactPointerEvent<HTMLDivElement>) {
+    if (!draggingRef.current || event.buttons === 0 || animatingRef.current) return
+    const x = event.clientX - startXRef.current
+    const y = event.clientY - startYRef.current
+    if (axisLockRef.current === null && (Math.abs(x) > 6 || Math.abs(y) > 6)) axisLockRef.current = Math.abs(x) > Math.abs(y) ? 'x' : 'y'
+    if (axisLockRef.current !== 'x') return
+    moveXRef.current = x
+    if (x < -4 && cardIndex < totalCards - 1) setBehindDirection(-1)
+    else if (x > 4 && cardIndex > 0) setBehindDirection(1)
+    else setBehindDirection(null)
+    setFront(x)
   }
 
-  function handleClickCapture(event: ReactMouseEvent<HTMLDivElement>) {
-    if (!suppressClickRef.current) return
-    event.preventDefault()
-    event.stopPropagation()
-    suppressClickRef.current = false
+  function handlePointerUp() {
+    if (!draggingRef.current) return
+    const threshold = 70
+    if (axisLockRef.current === 'x' && moveXRef.current <= -threshold && cardIndex < totalCards - 1) return flyOff(-1)
+    if (axisLockRef.current === 'x' && moveXRef.current >= threshold && cardIndex > 0) return flyOff(1)
+    springBack()
+  }
+
+  function renderCard(card: CardDescriptor, displayIndex: number) {
+    const label = card.kind === 'profile'
+      ? '视频档案'
+      : card.kind === 'overview'
+        ? '说法全景'
+        : card.kind === 'confrontation'
+          ? `对质 ${card.claimIndex + 1}`
+          : card.kind === 'actions'
+            ? '行动建议'
+            : card.kind === 'summary'
+              ? '避坑总结'
+              : '继续追问'
+    const claim = card.kind === 'confrontation' ? data.claims[card.claimIndex] : null
+
+    return (
+      <CourtCardShell
+        label={label}
+        index={displayIndex + 1}
+        subtitle={card.kind === 'profile' ? '来自抖音的单条视频' : card.kind === 'overview' ? '逐条查看本视频拆出的说法' : claim ? `视频片段 ${firstTime(claim)}` : undefined}
+        subtitleLeading={claim ? <span className="flex h-3 w-3 shrink-0 items-center justify-center rounded-full border border-[#20CDB6] bg-white text-[#20CDB6]"><svg className="ml-px h-1.5 w-1.5" viewBox="0 0 10 10" fill="currentColor" aria-hidden="true"><path d="M2 1.4 8.2 5 2 8.6V1.4Z" /></svg></span> : undefined}
+        headerBadge={claim ? <span className={`rounded-xl px-2.5 py-1 text-[11px] font-semibold ${overviewSignalClass(claim.signal)}`}>{claimGroupsLabel(claim)}</span> : undefined}
+        hideIndex={Boolean(claim)}
+        contentScrollable={card.kind !== 'followup'}
+        visualVariant="dual"
+      >
+        {card.kind === 'profile' && <ProfileCard data={data} onOpenClaim={openClaimFromOverview} />}
+        {card.kind === 'overview' && <OverviewCard data={data} onOpenClaim={openClaimFromOverview} />}
+        {card.kind === 'confrontation' && claim && (
+          <ConfrontationCard
+            claim={claim}
+            claimIndex={card.claimIndex}
+            total={data.claims.length}
+            state={verifyStates[card.claimIndex] || { status: 'pending' }}
+            keyframes={data.keyframes}
+            onRetry={() => retryClaim(card.claimIndex)}
+            onEvidence={(evidence) => setDrawer({ evidence })}
+            onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
+          />
+        )}
+        {card.kind === 'actions' && <ActionAdviceCard actions={singleActions} claims={data.claims} states={verifyStates} loading={actionsLoading} requested={actionsRequested} onGenerate={() => void generateActions()} onEvidence={(evidence) => setDrawer({ evidence })} />}
+        {card.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
+        {card.kind === 'followup' && <FollowupCard data={data} topic={topic} claims={data.claims} states={verifyStates} />}
+      </CourtCardShell>
+    )
   }
 
   return (
-    <main className="fitproof-particle-field relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)] px-3 pt-4 text-slate-950">
+    <main className="fitproof-particle-field relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)] text-slate-950">
       <div className="mx-auto flex min-h-0 w-full max-w-2xl flex-1 flex-col">
-        <header className="relative z-10 mb-4 flex shrink-0 items-center justify-between gap-3">
+        <header className="relative z-10 flex shrink-0 items-center justify-between gap-3 px-5 py-3">
           <button type="button" onClick={onBack} className="shrink-0 rounded-full bg-white/75 px-3 py-1.5 text-sm font-medium text-[#128f80] shadow-sm backdrop-blur transition hover:bg-[#20CDB6] hover:text-white">‹ 返回</button>
           <div className="min-w-0 max-w-[42%] truncate rounded-full border border-[#20CDB6]/15 bg-white/75 px-3 py-1 text-center text-sm font-semibold text-[#128f80] shadow-sm backdrop-blur">
             <span className="mr-1 text-[#20CDB6]">●</span>
@@ -1089,50 +1268,31 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim }:
           <span className="shrink-0 rounded-full bg-white/75 px-3 py-1.5 text-sm font-bold text-[#0B6E63] shadow-sm backdrop-blur">{cardIndex + 1} / {totalCards}</span>
         </header>
 
-        <div
-          className="flex min-h-0 flex-1 touch-pan-y"
-          onPointerDown={handlePointerDown}
-          onPointerUp={handlePointerUp}
-          onPointerCancel={() => { gestureStartRef.current = null }}
-          onClickCapture={handleClickCapture}
-        >
-          <div key={cardIndex} className={`h-full w-full ${slideDirection === 'next' ? 'card-slide-from-right' : slideDirection === 'previous' ? 'card-slide-from-left' : ''}`}>
-            <CourtCardShell
-              label={currentCardLabel}
-              index={cardIndex + 1}
-              subtitle={currentCard.kind === 'profile' ? '来自抖音的单条视频' : currentCard.kind === 'overview' ? '逐条查看本视频拆出的说法' : confrontationClaim ? `视频片段 ${firstTime(confrontationClaim)}` : undefined}
-              subtitleLeading={confrontationClaim ? <span className="flex h-3 w-3 shrink-0 items-center justify-center rounded-full border border-[#20CDB6] bg-white text-[#20CDB6]"><svg className="ml-px h-1.5 w-1.5" viewBox="0 0 10 10" fill="currentColor" aria-hidden="true"><path d="M2 1.4 8.2 5 2 8.6V1.4Z" /></svg></span> : undefined}
-              headerBadge={confrontationClaim ? <span className={`rounded-xl px-2.5 py-1 text-[11px] font-semibold ${overviewSignalClass(confrontationClaim.signal)}`}>{claimGroupsLabel(confrontationClaim)}</span> : undefined}
-              hideIndex={Boolean(confrontationClaim)}
-              contentScrollable={currentCard.kind !== 'followup'}
-            >
-            {currentCard.kind === 'profile' && <ProfileCard data={data} onOpenClaim={(index) => goToCard(2 + index)} />}
-            {currentCard.kind === 'overview' && <OverviewCard data={data} onOpenClaim={openClaimFromOverview} />}
-            {currentCard.kind === 'confrontation' && (
-              <ConfrontationCard
-                claim={data.claims[currentCard.claimIndex]}
-                claimIndex={currentCard.claimIndex}
-                total={data.claims.length}
-                state={verifyStates[currentCard.claimIndex] || { status: 'pending' }}
-                keyframes={data.keyframes}
-                onRetry={() => retryClaim(currentCard.claimIndex)}
-                onEvidence={(evidence) => setDrawer({ evidence })}
-                onOpenImage={(frame) => frame.image && setVisualImage({ image: frame.image, screenText: frame.screen_text, time: frame.time })}
-              />
-            )}
-            {currentCard.kind === 'summary' && <SummaryCard claims={data.claims} states={verifyStates} />}
-            {currentCard.kind === 'followup' && <FollowupCard data={data} topic={topic} claims={data.claims} states={verifyStates} />}
-            </CourtCardShell>
+        <div className="relative z-10 min-h-0 flex-1 overflow-hidden px-5 py-1">
+          {behindCard && (
+            <div ref={behindRef} className="absolute inset-x-5 inset-y-1 opacity-75 will-change-transform" style={{ transform: BEHIND_BASE }}>
+              {renderCard(behindCard, dragDir === 1 ? cardIndex - 1 : cardIndex + 1)}
+            </div>
+          )}
+          <div
+            ref={frontRef}
+            className="absolute inset-x-5 inset-y-1 cursor-grab touch-pan-y will-change-transform active:cursor-grabbing"
+            onPointerDown={handlePointerDown}
+            onPointerMove={handlePointerMove}
+            onPointerUp={handlePointerUp}
+            onPointerCancel={springBack}
+          >
+            {renderCard(cards[cardIndex], cardIndex)}
           </div>
         </div>
 
-        <div className="mt-4 flex shrink-0 flex-col items-center gap-2" aria-label={`当前第 ${cardIndex + 1} 张，共 ${totalCards} 张`}>
-          <div className="flex max-w-full flex-wrap justify-center gap-1.5" aria-hidden="true">
+        <div className="relative z-10 flex shrink-0 flex-col items-center gap-1 px-5 pb-3 pt-1" aria-label={`当前第 ${cardIndex + 1} 张，共 ${totalCards} 张`}>
+          <div className="flex h-[26px] w-full max-w-[300px] items-center gap-2 rounded-full border border-white/70 bg-white/[0.70] px-3 shadow-sm backdrop-blur" aria-hidden="true">
             {cards.map((card, index) => (
-              <span key={`${card.kind}-${index}`} className={`h-2 w-2 rounded-full ${index === cardIndex ? 'bg-[#20CDB6]' : 'bg-[#D8F0EC]'}`} />
+              <span key={`${card.kind}-${index}`} className={`h-1.5 flex-1 rounded-full ${index === cardIndex ? 'bg-[#20CDB6] shadow-[0_0_10px_rgba(32,205,182,0.45)]' : 'bg-[#20CDB6]/[0.18]'}`} />
             ))}
           </div>
-          <p className="text-[11px] text-slate-400">← 左右滑动翻页 →</p>
+          <p className="text-[11px] leading-none text-slate-400">← 左右滑动翻页 →</p>
         </div>
       </div>
 

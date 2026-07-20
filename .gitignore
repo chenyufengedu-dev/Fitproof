@@ -33,3 +33,31 @@ Thumbs.db
 # ===== 本地工具配置（各人机器不同，不共享）=====
 .claude/
 .worktrees/
+
+# 浏览器预览工具的临时 profile
+.tmp-chrome/
+
+# 临时调试产物
+tmp-*.json
+tmp-*.png
+tmp_*.py
+browser-log.txt
+
+# 本地界面验收截图 / 调试备份（保留在本机，不进入仓库）
+/*-before.png
+/*-before-fix.png
+/*-after.png
+/*-preview.png
+/*-final.png
+/*-unified.png
+*.bak
+.superpowers/
+frontend/tsconfig.tsbuildinfo
+
+# 动画/图标制作源包：页面只引用整理后的 public/brand、public/animations 等运行时资源
+docs/superpowers/
+frontend/public/FitProof-thinking/
+frontend/public/FitProof-v14-cat-animation/
+frontend/public/claim-icons-v2/
+frontend/public/materials/
+frontend/public/fitproof-loading-cat-handoff/

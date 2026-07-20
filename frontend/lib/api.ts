@@ -1,4 +1,4 @@
-import type { SingleAnalyzeResponse, VerifyResult, VideoRef } from '@/types'
+import type { SingleActionAdvice, SingleAnalyzeResponse, VerifyResult, VideoRef } from '@/types'
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
@@ -31,6 +31,22 @@ export function verifyClaim(
   top_k = 5,
 ): Promise<VerifyResult> {
   return postJson<VerifyResult>('/api/verify_claim', { claim, topic, video_refs, top_k })
+}
+
+export function buildSingleActions(payload: {
+  reference: { author: string; title: string; url: string }
+  topic: string
+  claims: Array<{
+    claim_index: number
+    claim: string
+    verdict: string
+    risk_level: string
+    correction: string
+    cited_evidence_ids: string[]
+    video_refs: VideoRef[]
+  }>
+}): Promise<{ actions: SingleActionAdvice[] }> {
+  return postJson<{ actions: SingleActionAdvice[] }>('/api/build_single_actions', payload)
 }
 
 export function followupSingle(payload: {

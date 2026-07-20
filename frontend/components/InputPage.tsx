@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import ThinkingCatAnimation from "@/components/ThinkingCatAnimation";
 import type { Analysis, PresetData, SingleSampleData } from "@/types";
 
 interface InputPageProps {
@@ -149,12 +150,7 @@ export default function InputPage({
             <h1 className="text-6xl font-bold leading-none tracking-tight text-[#13b8a5] drop-shadow-[0_10px_26px_rgba(32,205,182,0.16)] sm:text-7xl">
               FitProof
             </h1>
-            <img
-              src="/brand/cat-thinking.png"
-              alt=""
-              aria-hidden
-              className="fitproof-cat-float pointer-events-none absolute left-[calc(100%+1.15rem)] top-3 w-14 opacity-90 drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)] sm:top-5 sm:w-20"
-            />
+            <ThinkingCatAnimation className="pointer-events-none absolute left-[calc(100%+1.15rem)] top-3 h-[65px] w-14 opacity-90 drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)] sm:top-5 sm:h-[93px] sm:w-20" />
           </div>
           <p className="mt-4 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
           <p className="mt-3 text-[15px] leading-relaxed text-slate-500">

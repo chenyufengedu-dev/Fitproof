@@ -81,6 +81,41 @@ body {
   transform-origin: 50% 70%;
 }
 
+/* AI 答疑区的小猫使用 5×4 PNG 精灵图，而不是 GIF：一轮包含 20 帧，约 11.5 秒。 */
+.fitproof-answer-cat {
+  width: 92px;
+  height: 54px;
+  background-image: url('/animations/fitproof-answer-cat-sprite.png');
+  background-repeat: no-repeat;
+  background-size: 500% 400%;
+  background-position: 0 0;
+  filter: drop-shadow(0 8px 11px rgba(15, 118, 110, 0.11));
+  animation: fitproofAnswerCatFrames 11.5s steps(1, end) infinite;
+}
+
+@keyframes fitproofAnswerCatFrames {
+  0%, 4% { background-position: 0 0; }
+  5%, 9% { background-position: 25% 0; }
+  10%, 14% { background-position: 50% 0; }
+  15%, 19% { background-position: 75% 0; }
+  20%, 24% { background-position: 100% 0; }
+  25%, 29% { background-position: 0 33.333%; }
+  30%, 34% { background-position: 25% 33.333%; }
+  35%, 39% { background-position: 50% 33.333%; }
+  40%, 44% { background-position: 75% 33.333%; }
+  45%, 49% { background-position: 100% 33.333%; }
+  50%, 54% { background-position: 0 66.667%; }
+  55%, 59% { background-position: 25% 66.667%; }
+  60%, 64% { background-position: 50% 66.667%; }
+  65%, 69% { background-position: 75% 66.667%; }
+  70%, 74% { background-position: 100% 66.667%; }
+  75%, 79% { background-position: 0 100%; }
+  80%, 84% { background-position: 25% 100%; }
+  85%, 89% { background-position: 50% 100%; }
+  90%, 94% { background-position: 75% 100%; }
+  95%, 100% { background-position: 100% 100%; }
+}
+
 @keyframes videoSpeakingRing {
   0%, 100% { box-shadow: 0 0 0 0 rgba(237, 185, 111, 0.10); opacity: 0.62; }
   50% { box-shadow: 0 0 0 5px rgba(237, 185, 111, 0.18); opacity: 1; }
@@ -153,6 +188,7 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .fitproof-loading-cat .fp-cat-magnifier,
   .fitproof-loading-cat .fp-cat-eyes,
+  .fitproof-answer-cat,
   .video-speaking-ring,
   .evidence-speaking-ring,
   .fitproof-stamp {
