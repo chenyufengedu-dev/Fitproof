@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState, type CSSProperties } from "react";
+import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties } from "react";
+import AiMagnifier from "@/components/AiMagnifier";
 
 export type FitProofIntroPhase = "preparing" | "playing" | "complete";
 
@@ -27,6 +28,19 @@ export default function FitProofIntroAnimation({
   onPhaseChange,
 }: FitProofIntroAnimationProps) {
   const [phase, setPhase] = useState<FitProofIntroPhase>("preparing");
+  const [logoWidth, setLogoWidth] = useState(220);
+  const wordmarkRef = useRef<HTMLSpanElement>(null);
+
+  useLayoutEffect(() => {
+    const measure = () => {
+      const width = wordmarkRef.current?.getBoundingClientRect().width;
+      if (width) setLogoWidth(Math.ceil(width));
+    };
+    measure();
+    document.fonts?.ready.then(measure);
+    window.addEventListener("resize", measure);
+    return () => window.removeEventListener("resize", measure);
+  }, []);
 
   useEffect(() => {
     onPhaseChange?.(phase);
@@ -55,10 +69,10 @@ export default function FitProofIntroAnimation({
   }, []);
 
   return (
-    <div aria-hidden="true" className={`fitproof-ai-intro is-${phase} ${className}`}>
+    <div aria-hidden="true" className={`fitproof-ai-intro is-${phase} ${className}`} style={{ "--fitproof-logo-width": `${logoWidth}px` } as CSSProperties}>
       <div className="fitproof-ai-intro__lockup">
         <div className="fitproof-ai-intro__logo" aria-label="FitProof">
-          {FITPROOF_LETTERS.map((letter, index) => (
+          <span className="fitproof-ai-intro__wordmark" ref={wordmarkRef}>{FITPROOF_LETTERS.map((letter, index) => (
             <span
               className="fitproof-ai-intro__letter"
               key={`${letter}-${index}`}
@@ -66,8 +80,8 @@ export default function FitProofIntroAnimation({
             >
               {letter}
             </span>
-          ))}
-          <span className="fitproof-ai-intro__scanner" />
+          ))}</span>
+          <AiMagnifier className="fitproof-ai-intro__magnifier" />
         </div>
 
         <div className="fitproof-ai-intro__line">
@@ -78,7 +92,6 @@ export default function FitProofIntroAnimation({
         <div className="fitproof-ai-intro__cat">
           <img alt="" className="fitproof-ai-intro__cat-image" draggable={false} src={CAT_COMPANION_FRAME} />
           <span className="fitproof-ai-intro__eye-signal" />
-          <span className="fitproof-ai-intro__scan-ray" />
         </div>
       </div>
     </div>
