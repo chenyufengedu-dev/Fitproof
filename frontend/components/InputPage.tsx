@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Analysis, PresetData, SingleSampleData } from "@/types";
+import FitProofTitleAnimation from "@/components/FitProofTitleAnimation";
 
 interface InputPageProps {
   apiBaseUrl: string;
@@ -144,23 +145,16 @@ export default function InputPage({
           健康说法核验 · AI 证据校验
         </div>
 
-        <section className="relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white p-6 shadow-[0_22px_70px_rgba(18,116,103,0.12)]">
-          <div className="relative inline-block">
-            <h1 className="text-6xl font-bold leading-none tracking-tight text-[#13b8a5] drop-shadow-[0_10px_26px_rgba(32,205,182,0.16)] sm:text-7xl">
-              FitProof
-            </h1>
-            <img
-              src="/brand/cat-thinking.png"
-              alt=""
-              aria-hidden
-              className="fitproof-cat-float pointer-events-none absolute left-[calc(100%+1.15rem)] top-3 w-14 opacity-90 drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)] sm:top-5 sm:w-20"
-            />
+        <section className="relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white px-6 pt-[10px] pb-[14px] shadow-[0_22px_70px_rgba(18,116,103,0.12)]">
+          <div className="relative -ml-1 w-full">
+            <h1 className="sr-only">FitProof</h1>
+            <FitProofTitleAnimation />
           </div>
-          <p className="mt-4 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
-          <p className="mt-3 text-[15px] leading-relaxed text-slate-500">
+          <p className="mt-[6px] text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
+          <p className="mt-2 text-[15px] leading-relaxed text-slate-500">
             粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
           </p>
-          <div className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-sm font-medium text-[#0B6E63]">
+          <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm font-medium text-[#0B6E63]">
             <span>权威健康指南</span>
             <span>风险分层提示</span>
             <span>视频出处溯源</span>

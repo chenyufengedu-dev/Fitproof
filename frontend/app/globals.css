@@ -129,3 +129,247 @@ body {
     transform: translate3d(0, -5px, 0) rotate(1deg);
   }
 }
+
+/* Homepage brand entrance: V3 AI verification assistant. */
+.fitproof-intro {
+  --fitproof-teal: #12b5a6;
+  --fitproof-line: #263238;
+  --fitproof-bg: #f7fcfb;
+  --fitproof-duration: 2600ms;
+  display: grid;
+  width: 100%;
+  height: 116px;
+  padding: 0 16px;
+  place-items: center;
+  overflow: hidden;
+  background: transparent;
+}
+
+.fitproof-intro__lockup {
+  position: relative;
+  width: 252px;
+  max-width: min(252px, calc(100vw - 32px));
+  height: 96px;
+  margin: auto;
+  overflow: hidden;
+  transform-origin: center center;
+}
+
+.fitproof-intro__logo-mask {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: flex;
+  width: 220px;
+  height: 54px;
+  align-items: center;
+  overflow: hidden;
+  clip-path: inset(0 100% 0 0);
+  will-change: clip-path;
+}
+
+.fitproof-wordmark {
+  display: block;
+  color: var(--fitproof-teal);
+  font-family: "Inter", "SF Pro Display", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: -2.9px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.fitproof-intro__line {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 220px;
+  height: 3px;
+  overflow: visible;
+}
+
+.fitproof-intro__line-track,
+.fitproof-intro__line-path {
+  fill: none;
+  stroke-linecap: round;
+  stroke-width: 3px;
+}
+
+.fitproof-intro__line-track {
+  opacity: 0;
+  stroke: rgba(18, 181, 166, 0.2);
+}
+
+.fitproof-intro__line-path {
+  stroke: var(--fitproof-teal);
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+}
+
+.fitproof-intro__cat-companion {
+  position: absolute;
+  right: 0;
+  top: 18px;
+  width: 44px;
+  height: 52px;
+  opacity: 0;
+  transform: translateX(10px) rotate(-2deg);
+  transform-origin: 50% 82%;
+  will-change: opacity, transform;
+  pointer-events: none;
+}
+
+.fitproof-intro__cat-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  user-select: none;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+}
+
+.is-complete .fitproof-intro__logo-mask {
+  clip-path: inset(0);
+}
+
+.is-complete .fitproof-intro__line-path {
+  stroke-dashoffset: 0;
+}
+
+.is-complete .fitproof-intro__cat-companion {
+  opacity: 1;
+  transform: translateX(0) rotate(0);
+}
+
+.is-playing .fitproof-intro__logo-mask {
+  animation: fitproofLogoReveal 750ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.is-playing .fitproof-intro__line-path {
+  animation: fitproofLineSettle 400ms cubic-bezier(0.4, 0, 0.2, 1) 650ms forwards;
+}
+
+.is-playing .fitproof-intro__cat-companion {
+  animation:
+    fitproofCatCompanionEnter 520ms cubic-bezier(0.4, 0, 0.2, 1) 180ms forwards,
+    fitproofCatCompanionSettle 320ms cubic-bezier(0.4, 0, 0.2, 1) 1050ms forwards;
+}
+
+.is-playing .fitproof-intro__cat-image {
+  animation: fitproofCatReadyNod 260ms cubic-bezier(0.4, 0, 0.2, 1) 1450ms forwards;
+}
+
+@keyframes fitproofLogoReveal {
+  to { clip-path: inset(0); }
+}
+
+@keyframes fitproofLineSettle {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes fitproofCatCompanionEnter {
+  0% {
+    opacity: 0;
+    transform: translateX(10px) rotate(-2deg);
+  }
+
+  55% {
+    opacity: 0.86;
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(2px) rotate(-0.8deg);
+  }
+}
+
+@keyframes fitproofCatCompanionSettle {
+  to {
+    opacity: 1;
+    transform: translateX(0) rotate(0);
+  }
+}
+
+@keyframes fitproofCatReadyNod {
+  0%, 100% {
+    transform: translateY(0) rotate(0);
+  }
+
+  50% {
+    transform: translateY(-2px) rotate(-1.2deg);
+  }
+}
+
+@media (max-width: 374px) {
+  .fitproof-intro__lockup {
+    width: 242px;
+    max-width: calc(100vw - 32px);
+    height: 92px;
+  }
+
+  .fitproof-wordmark {
+    font-size: 48px;
+    letter-spacing: -2.7px;
+  }
+
+  .fitproof-intro__logo-mask {
+    top: 6px;
+    width: 210px;
+  }
+
+  .fitproof-intro__line {
+    top: 66px;
+    width: 210px;
+  }
+
+  .fitproof-intro__cat-companion {
+    right: 0;
+    top: 19px;
+    width: 42px;
+    height: 50px;
+  }
+}
+
+@media (min-width: 400px) {
+  .fitproof-intro__lockup {
+    width: 256px;
+    max-width: calc(100vw - 40px);
+  }
+
+  .fitproof-intro__logo-mask {
+    width: 224px;
+  }
+
+  .fitproof-intro__line {
+    width: 224px;
+  }
+
+  .fitproof-intro__cat-companion {
+    right: 0;
+    top: 18px;
+    width: 46px;
+    height: 54px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fitproof-intro__logo-mask {
+    clip-path: inset(0) !important;
+  }
+
+  .fitproof-intro__line-path {
+    stroke-dashoffset: 0 !important;
+  }
+
+  .fitproof-intro__cat-companion,
+  .fitproof-intro__cat-image {
+    animation: none !important;
+  }
+
+  .fitproof-intro__cat-companion {
+    opacity: 1 !important;
+    transform: translateX(0) rotate(0) !important;
+  }
+}
