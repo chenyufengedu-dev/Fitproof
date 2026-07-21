@@ -1,13 +1,15 @@
 "use client";
 
-import FitProofIntro from "@/components/FitProofIntro/FitProofIntro";
+import FitProofIntroAnimation, { type FitProofIntroPhase } from "@/components/FitProofIntroAnimation";
 
 interface FitProofTitleAnimationProps {
   className?: string;
+  onPhaseChange?: (phase: FitProofIntroPhase) => void;
 }
 
 export default function FitProofTitleAnimation({
   className = "",
+  onPhaseChange,
 }: FitProofTitleAnimationProps) {
-  return <FitProofIntro className={className} />;
+  return <FitProofIntroAnimation className={className} onPhaseChange={onPhaseChange} />;
 }

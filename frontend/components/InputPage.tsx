@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import type { Analysis, PresetData, SingleSampleData } from "@/types";
 import FitProofTitleAnimation from "@/components/FitProofTitleAnimation";
+import type { FitProofIntroPhase } from "@/components/FitProofIntroAnimation";
 
 interface InputPageProps {
   apiBaseUrl: string;
@@ -56,6 +57,7 @@ export default function InputPage({
   const [singleSubmitting, setSingleSubmitting] = useState(false);
   const [presetLoading, setPresetLoading] = useState<string | null>(null);
   const [selectedPresetId, setSelectedPresetId] = useState(PRESETS[0].id);
+  const [introPhase, setIntroPhase] = useState<FitProofIntroPhase>("preparing");
 
   const selectedPreset = PRESETS.find((p) => p.id === selectedPresetId) || PRESETS[0];
 
@@ -145,12 +147,12 @@ export default function InputPage({
           健康说法核验 · AI 证据校验
         </div>
 
-        <section className="relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white px-6 pt-[10px] pb-[14px] shadow-[0_22px_70px_rgba(18,116,103,0.12)]">
+        <section className={`fitproof-brand-card is-${introPhase} relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white px-6 pt-[10px] pb-[14px] shadow-[0_22px_70px_rgba(18,116,103,0.12)]`}>
           <div className="relative -ml-1 w-full">
             <h1 className="sr-only">FitProof</h1>
-            <FitProofTitleAnimation />
+            <FitProofTitleAnimation onPhaseChange={setIntroPhase} />
           </div>
-          <p className="mt-[6px] text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
+          <p className="fitproof-ai-title mt-[6px] text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
           <p className="mt-2 text-[15px] leading-relaxed text-slate-500">
             粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
           </p>

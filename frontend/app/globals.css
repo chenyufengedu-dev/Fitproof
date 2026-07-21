@@ -373,3 +373,281 @@ body {
     transform: translateX(0) rotate(0) !important;
   }
 }
+
+/* Homepage brand entrance: V4 AI scan generation. */
+.fitproof-ai-intro {
+  --fitproof-ai-teal: #12c8b1;
+  --fitproof-logo-width: 220px;
+  position: relative;
+  display: grid;
+  width: 100%;
+  height: 116px;
+  padding: 0 16px;
+  place-items: center;
+  overflow: visible;
+}
+
+.fitproof-ai-intro__lockup {
+  position: relative;
+  width: 270px;
+  max-width: min(270px, calc(100vw - 32px));
+  height: 96px;
+}
+
+.fitproof-ai-intro__logo {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  display: flex;
+  width: var(--fitproof-logo-width);
+  height: 56px;
+  align-items: center;
+  overflow: hidden;
+  color: var(--fitproof-ai-teal);
+  font-family: "Inter", "SF Pro Display", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: -2.9px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.fitproof-ai-intro__letter {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(10px) scale(0.95);
+  filter: blur(4px);
+  will-change: opacity, transform, filter;
+}
+
+.fitproof-ai-intro__scanner {
+  position: absolute;
+  top: 3px;
+  left: -24px;
+  width: 20px;
+  height: 50px;
+  opacity: 0;
+  pointer-events: none;
+  background: rgba(18, 200, 177, 0.62);
+  box-shadow: 0 0 12px rgba(18, 200, 177, 0.38);
+  filter: blur(1.5px);
+  will-change: left, opacity;
+}
+
+.fitproof-ai-intro__line {
+  position: absolute;
+  top: 74px;
+  left: 0;
+  width: var(--fitproof-logo-width);
+  height: 3px;
+  overflow: visible;
+}
+
+.fitproof-ai-intro__line-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--fitproof-ai-teal);
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
+}
+
+.fitproof-ai-intro__line-dot {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  opacity: 0;
+  background: var(--fitproof-ai-teal);
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 8px rgba(18, 200, 177, 0.58);
+  will-change: left, opacity;
+}
+
+.fitproof-ai-intro__cat {
+  position: absolute;
+  top: 15px;
+  left: 224px;
+  width: 44px;
+  height: 52px;
+  opacity: 0;
+  transform: translateX(20px);
+  will-change: opacity, transform;
+}
+
+.fitproof-ai-intro__cat-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  user-select: none;
+  will-change: transform;
+}
+
+.fitproof-ai-intro__eye-signal {
+  position: absolute;
+  top: 14px;
+  left: 28px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  opacity: 0;
+  background: #4fd8ff;
+  box-shadow: 0 0 8px rgba(79, 216, 255, 0.9);
+}
+
+.fitproof-ai-intro__scan-ray {
+  position: absolute;
+  top: 41px;
+  left: 15px;
+  width: 2px;
+  height: 0;
+  opacity: 0;
+  pointer-events: none;
+  transform: rotate(57deg);
+  transform-origin: top center;
+  background: linear-gradient(to bottom, #12c8b1, #4fd8ff, transparent);
+  will-change: height, opacity;
+}
+
+.is-playing .fitproof-ai-intro__letter {
+  animation: fitproofLetterGenerate 340ms cubic-bezier(.20, .75, .34, .94) calc(300ms + var(--fitproof-letter-index) * 80ms) forwards;
+}
+
+.is-playing .fitproof-ai-intro__scanner {
+  animation: fitproofScannerSweep 1200ms ease-in-out 300ms forwards;
+}
+
+.is-playing .fitproof-ai-intro__line-fill {
+  animation: fitproofLineLoad 800ms cubic-bezier(.20, .75, .34, .94) 1500ms forwards;
+}
+
+.is-playing .fitproof-ai-intro__line-dot {
+  animation: fitproofLineDot 500ms linear 2300ms forwards;
+}
+
+.is-playing .fitproof-ai-intro__cat {
+  animation: fitproofCatAssistantEnter 600ms cubic-bezier(.20, .75, .34, .94) 2000ms forwards;
+}
+
+.is-playing .fitproof-ai-intro__cat-image {
+  animation: fitproofCatAssistantLife 5s ease-in-out 3500ms infinite;
+}
+
+.is-playing .fitproof-ai-intro__eye-signal {
+  animation: fitproofEyeSignal 340ms ease-out 2600ms forwards;
+}
+
+.is-playing .fitproof-ai-intro__scan-ray {
+  animation: fitproofTitleScan 800ms cubic-bezier(.20, .75, .34, .94) 2700ms forwards;
+}
+
+.fitproof-brand-card.is-playing .fitproof-ai-title {
+  animation: fitproofTitleVerified 800ms ease-out 3050ms both;
+}
+
+.is-complete .fitproof-ai-intro__letter,
+.is-complete .fitproof-ai-intro__cat {
+  opacity: 1;
+  transform: none;
+  filter: none;
+}
+
+.is-complete .fitproof-ai-intro__line-fill {
+  transform: scaleX(1);
+}
+
+.is-complete .fitproof-ai-intro__line-dot {
+  left: 100%;
+  opacity: 0;
+}
+
+@keyframes fitproofLetterGenerate {
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+@keyframes fitproofScannerSweep {
+  0% { left: -24px; opacity: 0; }
+  8%, 92% { opacity: 1; }
+  100% { left: calc(100% + 4px); opacity: 0; }
+}
+
+@keyframes fitproofLineLoad {
+  to { transform: scaleX(1); }
+}
+
+@keyframes fitproofLineDot {
+  0% { left: 0; opacity: 0; }
+  8%, 88% { opacity: 1; }
+  100% { left: 100%; opacity: 0; }
+}
+
+@keyframes fitproofCatAssistantEnter {
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fitproofCatAssistantLife {
+  0%, 86%, 100% { transform: translateY(0) rotate(0); }
+  90% { transform: translateY(-1px) rotate(-0.8deg); }
+  94% { transform: translateY(0) rotate(0); }
+}
+
+@keyframes fitproofEyeSignal {
+  0% { opacity: 0; transform: scale(.4); }
+  55% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(.6); }
+}
+
+@keyframes fitproofTitleScan {
+  0% { height: 0; opacity: 0; }
+  10%, 86% { opacity: .78; }
+  100% { height: 130px; opacity: 0; }
+}
+
+@keyframes fitproofTitleVerified {
+  0%, 100% { color: rgb(30 41 59); text-shadow: none; }
+  50% { color: #0b6e63; text-shadow: 0 0 12px rgba(18, 200, 177, .22); }
+}
+
+@media (max-width: 374px) {
+  .fitproof-ai-intro__lockup { width: 254px; }
+  .fitproof-ai-intro { --fitproof-logo-width: 208px; }
+  .fitproof-ai-intro__logo { font-size: 48px; letter-spacing: -2.7px; }
+  .fitproof-ai-intro__cat { left: 212px; width: 42px; height: 50px; }
+}
+
+@media (min-width: 400px) {
+  .fitproof-ai-intro__lockup { width: 274px; }
+  .fitproof-ai-intro { --fitproof-logo-width: 224px; }
+  .fitproof-ai-intro__cat { left: 228px; width: 46px; height: 54px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fitproof-ai-intro__letter,
+  .fitproof-ai-intro__cat {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    animation: none !important;
+  }
+
+  .fitproof-ai-intro__line-fill {
+    transform: scaleX(1) !important;
+  }
+
+  .fitproof-ai-intro__scanner,
+  .fitproof-ai-intro__line-dot,
+  .fitproof-ai-intro__eye-signal,
+  .fitproof-ai-intro__scan-ray {
+    display: none;
+  }
+}
