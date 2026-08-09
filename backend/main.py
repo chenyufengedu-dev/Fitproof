@@ -1559,14 +1559,8 @@ def normalize_claims(data: dict) -> list[dict]:
     return normalized
 
 
-def extract_claims_from_video(video: dict, topic: str = "") -> dict:
-    prompt = video_to_claim_prompt(topic, video)
-    raw = llm_chat(prompt, max_tokens=4096, json_mode=True, model=DEEPSEEK_FAST_MODEL)
-    data = parse_json_loose(raw) or {}
-    claims = normalize_claims(data)
-    if not claims:
-        raise HTTPException(status_code=500, detail="AI 未能拆出可核验主张")
-    reference = {
+def video_reference(video: dict) -> dict:
+    return {
         "id": video.get("id", 1),
         "author": video.get("author", ""),
         "author_avatar_url": video.get("author_avatar_url"),
@@ -1575,11 +1569,45 @@ def extract_claims_from_video(video: dict, topic: str = "") -> dict:
         "duration_seconds": video.get("duration_seconds"),
         "published_at": video.get("published_at"),
     }
+
+
+def extract_claims_from_video(video: dict, topic: str = "") -> dict:
+    prompt = video_to_claim_prompt(topic, video)
+    raw = llm_chat(prompt, max_tokens=4096, json_mode=True, model=DEEPSEEK_FAST_MODEL)
+    data = parse_json_loose(raw) or {}
+    claims = normalize_claims(data)
+    if not claims:
+        raise HTTPException(status_code=500, detail="AI 未能拆出可核验主张")
     return {
-        "reference": reference,
+        "reference": video_reference(video),
         "claims": claims,
         "keyframes": video.get("keyframes") or [],
     }
+
+
+def finish_single_analysis(video: dict, topic: str) -> dict:
+    route = video.get("content_route")
+    if not isinstance(route, dict):
+        raise ContentRoutingError("视频缺少内容路由结果")
+    if route.get("decision") == "stop":
+        return {
+            "status": "rejected",
+            "scope": route.get("scope"),
+            "reason": route.get("reason") or "该内容不属于健康信息核验范围",
+            "matched_text": route.get("quotes") or [],
+            "reference": video_reference(video),
+        }
+    if route.get("decision") != "continue":
+        raise ContentRoutingError("视频内容路由尚未完成")
+    if not video.get("clean_text"):
+        raise HTTPException(status_code=502, detail="未能提取到视频文本内容")
+    result = extract_claims_from_video(video, topic)
+    result.update({
+        "status": "accepted",
+        "scope": route.get("scope"),
+        "topic": topic,
+    })
+    return result
 
 
 def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5, on_event=None) -> tuple[list[dict], str, str, list[dict]]:
@@ -2060,25 +2088,25 @@ async def analyze_single(req: AnalyzeSingleRequest):
         raise HTTPException(status_code=400, detail="请提供一条视频链接")
     try:
         video = await asyncio.to_thread(extract_one_video, 1, req.link)
+    except ContentRoutingError as e:
+        print(f"[analyze_single] 内容路由失败: {e}")
+        raise HTTPException(status_code=503, detail="暂时无法判断视频是否属于核验范围，请重试")
     except Exception as e:
         print(f"[analyze_single] 视频提取失败: {e}")
         traceback.print_exc()
         raise HTTPException(status_code=502, detail="视频内容提取失败，请检查链接或稍后重试")
 
-    if not video.get("clean_text"):
-        raise HTTPException(status_code=502, detail="未能提取到视频文本内容")
-
     try:
-        result = await asyncio.to_thread(extract_claims_from_video, video, req.topic)
+        return await asyncio.to_thread(finish_single_analysis, video, req.topic)
     except HTTPException:
         raise
+    except ContentRoutingError as e:
+        print(f"[analyze_single] 内容路由结果无效: {e}")
+        raise HTTPException(status_code=503, detail="暂时无法判断视频是否属于核验范围，请重试")
     except Exception as e:
         print(f"[analyze_single] 主张拆解失败: {e}")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="AI 拆解主张失败，请重试")
-
-    result["topic"] = req.topic
-    return result
 
 
 @app.post("/api/analyze_single_upload")
@@ -2127,25 +2155,25 @@ async def analyze_single_upload(topic: str = Form(...), file: UploadFile = File(
     try:
         # media 已含 cleanup_paths（含上传文件与临时音频），由 extract_one_video 的 finally 统一清理
         video = await asyncio.to_thread(extract_one_video, 1, "", media)
+    except ContentRoutingError as e:
+        print(f"[analyze_single_upload] 内容路由失败: {e}")
+        raise HTTPException(status_code=503, detail="暂时无法判断视频是否属于核验范围，请重试")
     except Exception as e:
         print(f"[analyze_single_upload] 视频提取失败: {e}")
         traceback.print_exc()
         raise HTTPException(status_code=502, detail="视频内容提取失败，请重试")
 
-    if not video.get("clean_text"):
-        raise HTTPException(status_code=502, detail="未能从视频中提取到语音文本（可能是纯画面无口播）")
-
     try:
-        result = await asyncio.to_thread(extract_claims_from_video, video, topic)
+        return await asyncio.to_thread(finish_single_analysis, video, topic)
     except HTTPException:
         raise
+    except ContentRoutingError as e:
+        print(f"[analyze_single_upload] 内容路由结果无效: {e}")
+        raise HTTPException(status_code=503, detail="暂时无法判断视频是否属于核验范围，请重试")
     except Exception as e:
         print(f"[analyze_single_upload] 主张拆解失败: {e}")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="AI 拆解主张失败，请重试")
-
-    result["topic"] = topic
-    return result
 
 
 @app.post("/api/verify_claim")

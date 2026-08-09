@@ -245,6 +245,58 @@ class SingleVideoPipelineTests(unittest.TestCase):
             with self.assertRaises(main.ContentRoutingError):
                 main.route_video_content({"title": "视频"}, "普通口播文本")
 
+    def test_finish_single_analysis_returns_rejection_without_extracting_claims(self):
+        from backend import main
+
+        video = {
+            "id": 1,
+            "author": "作者",
+            "title": "旅行记录",
+            "url": "https://example.test/video",
+            "clean_text": "今天去海边看日落。",
+            "content_route": {
+                "scope": "unrelated",
+                "decision": "stop",
+                "need_visual": False,
+                "reason": "与健康核验无关",
+                "quotes": ["今天去海边看日落"],
+            },
+        }
+
+        with patch.object(main, "extract_claims_from_video") as extract_claims:
+            result = main.finish_single_analysis(video, "减脂")
+
+        extract_claims.assert_not_called()
+        self.assertEqual(result["status"], "rejected")
+        self.assertEqual(result["scope"], "unrelated")
+        self.assertEqual(result["matched_text"], ["今天去海边看日落"])
+        self.assertEqual(result["reference"]["title"], "旅行记录")
+
+    def test_finish_single_analysis_marks_accepted_result(self):
+        from backend import main
+
+        video = {
+            "id": 1,
+            "title": "减脂餐",
+            "clean_text": "减脂期我每天这样吃。",
+            "content_route": {
+                "scope": "implicit_guidance",
+                "decision": "continue",
+                "need_visual": False,
+                "reason": "健康目标导向方案",
+                "quotes": ["减脂期我每天这样吃"],
+            },
+        }
+        claims = {"reference": {"id": 1}, "claims": [{"claim": "示例"}], "keyframes": []}
+
+        with patch.object(main, "extract_claims_from_video", return_value=claims):
+            result = main.finish_single_analysis(video, "减脂")
+
+        self.assertEqual(result["status"], "accepted")
+        self.assertEqual(result["scope"], "implicit_guidance")
+        self.assertEqual(result["topic"], "减脂")
+        self.assertEqual(result["claims"], [{"claim": "示例"}])
+
     def test_sample_keyframes_removes_frames_over_hard_cap(self):
         from backend import main
 
