@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test:mobile-layout": "node scripts/check-mobile-layout.mjs"
   },
   "dependencies": {
     "html2canvas": "^1.4.1",
