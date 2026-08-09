@@ -1,15 +1,12 @@
 'use client'
 
 import { useState, type ReactNode } from 'react'
-import type { Analysis, ChatMessage, Claim, PageState, SingleAnalyzeResponse, SingleSampleData, VerifyResult } from '@/types'
+import type { Claim, PageState, SingleAnalyzeResponse, SingleSampleData, VerifyResult } from '@/types'
 import InputPage from '@/components/InputPage'
 import LoadingPage from '@/components/LoadingPage'
-import ResultPage from '@/components/ResultPage'
-import RefsPage from '@/components/RefsPage'
 import SingleResultPage from '@/components/SingleResultPage'
-import { analyzeSingle, verifyClaim } from '@/lib/api'
+import { analyzeSingle, analyzeSingleUpload, verifyClaim, verifyClaimStream } from '@/lib/api'
 import BottomNav from '@/components/BottomNav'
-import CommunityTab from '@/components/CommunityTab'
 import KnowledgeTab from '@/components/KnowledgeTab'
 import ProfileTab from '@/components/ProfileTab'
 import { appendHistory } from '@/lib/history'
@@ -17,71 +14,23 @@ import { appendHistory } from '@/lib/history'
 // 本地完整版：.env.local 设 NEXT_PUBLIC_API_URL=http://localhost:8000，走 Python 后端（含真实链接分析）
 // 云端（Vercel）：不设该变量，走同源的 Next 云函数 /api/*（预置话题 + AI 答疑）
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
-const MIN_LOADING_MS = 5600
-type TabId = 'verify' | 'community' | 'knowledge' | 'profile'
-
-function wait(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
+type TabId = 'verify' | 'knowledge' | 'profile'
 
 export default function Home() {
   const [pageState, setPageState] = useState<PageState>('input')
-  const [analysis, setAnalysis] = useState<Analysis | null>(null)
   const [topic, setTopic] = useState('')
-  const [refsFocusId, setRefsFocusId] = useState<number | null>(null)
-  const [history, setHistory] = useState<ChatMessage[]>([])
   const [inputError, setInputError] = useState<string>('')
   const [singleData, setSingleData] = useState<SingleAnalyzeResponse | null>(null)
   const [sampleVerifyResults, setSampleVerifyResults] = useState<VerifyResult[] | null>(null)
   const [activeTab, setActiveTab] = useState<TabId>('verify')
-  const [loadingMode, setLoadingMode] = useState<'single' | 'dual'>('dual')
-
-  async function handleAnalyze(links: string[], topicName: string) {
-    setInputError('')
-    setTopic(topicName)
-    setHistory([])
-    setLoadingMode('dual')
-    setPageState('loading')
-    const loadingStartedAt = Date.now()
-    try {
-      const res = await fetch(`${API_BASE_URL}/api/analyze`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ links, topic: topicName }),
-      })
-      if (!res.ok) {
-        const data = await res.json().catch(() => ({}))
-        throw new Error(data.detail || '分析失败，请稍后重试')
-      }
-      const data: Analysis = await res.json()
-      await wait(Math.max(0, MIN_LOADING_MS - (Date.now() - loadingStartedAt)))
-      setAnalysis(data)
-      setPageState('result')
-    } catch (e) {
-      const msg = e instanceof Error ? e.message : '分析失败，请改用预置话题体验'
-      setInputError(msg)
-      setPageState('input')
-    }
-  }
-
-  function handlePresetLoaded(data: Analysis, topicName: string) {
-    setInputError('')
-    setTopic(topicName)
-    setHistory([])
-    setLoadingMode('dual')
-    setAnalysis(data)
-    setPageState('loading')
-    // 展示完整的模拟核验流程，避免 demo 中只闪过前几步
-    setTimeout(() => setPageState('result'), MIN_LOADING_MS)
-  }
-
+  // 加载进度起点：由永不卸载的 Home 持有，切 Tab 再回来进度条能续算而非归零
+  const [loadingStartedAt, setLoadingStartedAt] = useState<number>(0)
   async function handleAnalyzeSingle(link: string, topicName: string) {
     setInputError('')
     setTopic(topicName)
-    setHistory([])
     setSingleData(null)
     setSampleVerifyResults(null)
-    setLoadingMode('single')
+    setLoadingStartedAt(Date.now())
     setPageState('loading')
     try {
       const data = await analyzeSingle(link, topicName)
@@ -90,6 +39,26 @@ export default function Home() {
       setPageState('singleClaims')
     } catch (e) {
       const msg = e instanceof Error ? e.message : '单视频分析失败，请稍后重试'
+      // 链接分析失败常因抖音链接失效/风控，提示改用本地文件上传这条更稳的路径
+      setInputError(`${msg}。若链接反复失败，可点下方「从相册选择视频」上传本地文件分析。`)
+      setPageState('input')
+    }
+  }
+
+  async function handleAnalyzeUpload(file: File, topicName: string) {
+    setInputError('')
+    setTopic(topicName)
+    setSingleData(null)
+    setSampleVerifyResults(null)
+    setLoadingStartedAt(Date.now())
+    setPageState('loading')
+    try {
+      const data = await analyzeSingleUpload(file, topicName)
+      setSingleData(data)
+      setTopic(data.topic || topicName)
+      setPageState('singleClaims')
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : '本地视频分析失败，请稍后重试'
       setInputError(msg)
       setPageState('input')
     }
@@ -98,7 +67,6 @@ export default function Home() {
   function handleSingleSampleLoaded(sample: SingleSampleData) {
     setInputError('')
     setTopic(sample.topic)
-    setHistory([])
     setSingleData({
       reference: sample.reference,
       claims: sample.claims,
@@ -112,15 +80,10 @@ export default function Home() {
     setPageState('singleClaims')
   }
 
-  function handleOpenVerifiedCase(sample: SingleSampleData) {
-    handleSingleSampleLoaded(sample)
-    setActiveTab('verify')
-  }
-
-  async function handleVerifySingleClaim(claim: Claim, index: number): Promise<VerifyResult> {
+  async function handleVerifySingleClaim(claim: Claim, index: number, onStep?: (step: { label: string; detail?: string; tone?: 'ok' | 'warn'; sources?: string[] }) => void, onResult?: (result: VerifyResult) => void): Promise<VerifyResult> {
     const sampleResult = sampleVerifyResults?.[index]
     try {
-      const result = sampleResult || await verifyClaim(claim.claim, topic, claim.video_refs, 5)
+      const result = sampleResult || await verifyClaimStream(claim.claim, topic, claim.video_refs, 5, onStep, onResult).catch(() => verifyClaim(claim.claim, topic, claim.video_refs, 5))
       if (singleData) {
         appendHistory({
           id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
@@ -142,50 +105,42 @@ export default function Home() {
     }
   }
 
-  async function handleFollowup(question: string) {
-    if (!analysis) return
-    const userMsg: ChatMessage = { role: 'user', content: question }
-    const nextHistory = [...history, userMsg]
-    setHistory(nextHistory)
+  async function handleReverifySingleClaim(claim: Claim, index: number, onStep?: (step: { step?: string; label: string; detail?: string; tone?: 'ok' | 'warn'; status?: 'done' | 'working'; sources?: string[] }) => void): Promise<VerifyResult> {
     try {
-      const res = await fetch(`${API_BASE_URL}/api/followup`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ analysis, question, history }),
-      })
-      if (!res.ok) throw new Error('追问失败，请重试')
-      const data: { answer: string } = await res.json()
-      setHistory([...nextHistory, { role: 'assistant', content: data.answer }])
+      const result = await verifyClaimStream(claim.claim, topic, claim.video_refs, 5, onStep)
+      if (singleData) {
+        appendHistory({
+          id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+          claim: claim.claim,
+          signal: claim.signal,
+          topic,
+          reference: {
+            author: singleData.reference.author,
+            title: singleData.reference.title,
+            url: singleData.reference.url,
+          },
+          result,
+          createdAt: new Date().toISOString(),
+        })
+      }
+      return result
     } catch (e) {
-      const msg = e instanceof Error ? e.message : '追问失败，请重试'
-      setHistory([...nextHistory, { role: 'assistant', content: msg }])
+      throw new Error(e instanceof Error ? e.message : `第 ${index + 1} 条观点核验失败，请重试`)
     }
-  }
-
-  function viewRefs(focusId?: number) {
-    setRefsFocusId(focusId ?? null)
-    setPageState('refs')
   }
 
   function renderVerifyContent(): ReactNode {
-    if (pageState === 'loading') return <LoadingPage topic={topic} mode={loadingMode} />
-    if (pageState === 'result' && analysis) {
-      return <ResultPage analysis={analysis} topic={topic} history={history} onFollowup={handleFollowup} onViewRefs={viewRefs} onBack={() => setPageState('input')} />
-    }
-    if (pageState === 'refs' && analysis) {
-      return <RefsPage references={analysis.references} authorities={analysis.authorities} topic={topic} focusId={refsFocusId} onBack={() => setPageState('result')} />
-    }
+    if (pageState === 'loading') return <LoadingPage topic={topic} mode="single" startedAt={loadingStartedAt} />
     if (pageState === 'singleClaims' && singleData) {
-      return <SingleResultPage data={singleData} topic={topic} onBack={() => setPageState('input')} onVerifyClaim={handleVerifySingleClaim} />
+      return <SingleResultPage data={singleData} topic={topic} onBack={() => setPageState('input')} onVerifyClaim={handleVerifySingleClaim} onReverifyClaim={handleReverifySingleClaim} />
     }
-    return <InputPage apiBaseUrl={API_BASE_URL} onAnalyze={handleAnalyze} onPresetLoaded={handlePresetLoaded} onAnalyzeSingle={handleAnalyzeSingle} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} />
+    return <InputPage apiBaseUrl={API_BASE_URL} onAnalyzeSingle={handleAnalyzeSingle} onAnalyzeUpload={handleAnalyzeUpload} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} />
   }
 
   return (
     <div className="min-h-[100dvh] bg-white">
       <div className="pb-[54px]">
         {activeTab === 'verify' ? renderVerifyContent()
-          : activeTab === 'community' ? <CommunityTab onOpenVerifiedCase={handleOpenVerifiedCase} />
           : activeTab === 'knowledge' ? <KnowledgeTab />
           : <ProfileTab />}
       </div>

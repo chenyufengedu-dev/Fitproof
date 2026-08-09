@@ -24,6 +24,11 @@ interface KnowledgeLibrary {
   docs: KnowledgeDoc[]
 }
 
+interface ContributionStats {
+  pending: number
+  approved: number
+}
+
 const svgBase = {
   viewBox: '0 0 24 24',
   fill: 'none',
@@ -178,6 +183,7 @@ export default function KnowledgeTab() {
   const [shownEntries, setShownEntries] = useState(50)
   const [showOrgSheet, setShowOrgSheet] = useState(false)
   const [showTopicSheet, setShowTopicSheet] = useState(false)
+  const [contributionStats, setContributionStats] = useState<ContributionStats | null>(null)
 
   useEffect(() => {
     if (cachedLibrary) return
@@ -192,6 +198,20 @@ export default function KnowledgeTab() {
         if (alive) setLibrary(data)
       })
       .catch((e: unknown) => { if (alive) setError(e instanceof Error ? e.message : '加载失败') })
+    return () => { alive = false }
+  }, [])
+
+  useEffect(() => {
+    let alive = true
+    fetch(`${API_BASE_URL}/api/contrib/stats`)
+      .then((response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`)
+        return response.json()
+      })
+      .then((data: ContributionStats) => {
+        if (alive && Number.isInteger(data.pending) && Number.isInteger(data.approved)) setContributionStats(data)
+      })
+      .catch(() => { /* 知识库本身仍可在贡献服务不可用时正常展示。 */ })
     return () => { alive = false }
   }, [])
 
@@ -266,7 +286,7 @@ export default function KnowledgeTab() {
 
         {/* 页面标题栏 */}
         <header className="px-1">
-          <h1 className="text-[18px] font-extrabold leading-tight tracking-tight text-slate-900">知识库</h1>
+          <h1 data-knowledge-title className="text-[18px] font-extrabold leading-tight tracking-tight text-[#078C7E]">知识库</h1>
           <p className="mt-0.5 text-[11px] leading-tight text-slate-500">基于权威文献，给出可靠、可溯源的健康依据</p>
         </header>
 
@@ -308,6 +328,11 @@ export default function KnowledgeTab() {
             <p className="mt-1.5 text-[10px] font-semibold text-slate-500">
               共 {library.stats.docs} 份文献 · {library.stats.orgs} 家机构
             </p>
+            {contributionStats && (
+              <p className="t-meta mt-1 text-slate-500">
+              其中 <span data-approved-contribution-count className="t-body !font-black text-[#078C7E]">{contributionStats.approved}</span> 条来自用户贡献并经专家复核{contributionStats.approved === 0 ? ' · 机制已就绪，等待第一条' : ''}
+              </p>
+            )}
           </div>
         </section>
 
@@ -461,8 +486,8 @@ export default function KnowledgeTab() {
                 <div className="flex items-start gap-2.5">
                   <ClosedBookIcon className="mt-0.5 h-4 w-4 shrink-0 text-[#5FC9B6]" />
                   <div className="min-w-0 flex-1">
-                    <p className="line-clamp-2 text-[12.5px] font-semibold leading-snug text-slate-900">{item.doc}</p>
-                    <p className="mt-1 truncate text-[10.5px] text-slate-400">
+                    <p className="font-cite line-clamp-2 text-[12.5px] font-semibold leading-snug text-slate-900">{item.doc}</p>
+                    <p className="font-cite mt-1 truncate text-[10.5px] text-slate-400">
                       {shortOrg(item.org)}{item.year ? ` · ${item.year}` : ''}{item.pages ? ` · 第 ${item.pages} 页` : ''}
                     </p>
                   </div>
@@ -591,7 +616,7 @@ export default function KnowledgeTab() {
 
           <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3">
             <section className="rounded-[16px] border border-[#EDF3F2] bg-white px-3.5 py-3">
-              <p className="text-[14px] font-extrabold leading-snug text-slate-900">{detail.doc}</p>
+              <p className="font-cite text-[14px] font-semibold leading-snug text-slate-900">{detail.doc}</p>
               <dl className="mt-2">
                 {([
                   ['bankIcon', '发布机构', detail.org],
@@ -605,7 +630,7 @@ export default function KnowledgeTab() {
                       ? <BankIcon className="h-3.5 w-3.5 shrink-0 text-[#3FB49C]" />
                       : <Icon name={icon} className="h-3.5 w-3.5 shrink-0 text-[#3FB49C]" />}
                     <dt className="w-[60px] shrink-0 text-[11.5px] text-slate-400">{label}</dt>
-                    <dd className="min-w-0 flex-1 text-[11.5px] font-semibold text-slate-700">{value}</dd>
+                    <dd className="font-cite min-w-0 flex-1 text-[11.5px] font-semibold text-slate-700">{value}</dd>
                   </div>
                 ))}
               </dl>

@@ -2,6 +2,7 @@
 **/.env
 **/.env.local
 backend/.env
+backend/data/contributions.db
 frontend/.env.local
 
 # ===== Node / Next =====
@@ -53,6 +54,23 @@ browser-log.txt
 *.bak
 .superpowers/
 frontend/tsconfig.tsbuildinfo
+
+# 本地部署包、模型与凭据（不进入 GitHub）
+*.env
+*.zip
+*.tar.gz
+*.pid
+
+# 本地生成、浏览器验收与临时工作目录
+/output/
+/tmp/
+/skills/
+/stdout
+/action-icon-replacement-options.html
+/loading-card-visual.html
+/loading-card-visual.css
+/loading-*.png
+/poster-*.png
 
 # 动画/图标制作源包：页面只引用整理后的 public/brand、public/animations 等运行时资源
 docs/superpowers/

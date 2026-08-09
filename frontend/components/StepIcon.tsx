@@ -58,5 +58,60 @@ export function StepIcon({ name, className = 'h-4 w-4' }: { name?: string; class
   )
 }
 
-/** 单视频行动建议卡用同一套图标，避免两处各画一份「喝水」。 */
-export const ActionIcon = StepIcon
+const ACTION_ICON_ASSETS = {
+  // 生活场景
+  home: '/icon-raw/home.svg',
+  shower: '/icon-raw/shower.svg',
+  hairdryer: '/icon-raw/hairdryer.svg',
+  bandage: '/icon-raw/bandage.svg',
+  tub: '/icon-raw/tub.svg',
+  doctor: '/icon-raw/doctor.svg',
+  stop: '/icon-raw/stop.svg',
+  thermometer: '/icon-raw/thermometer.svg',
+  hospital: '/icon-raw/hospital.svg',
+  // 活动动作（与后端 STEP_ICONS 词表对齐，之前缺这些导致全回落 general）
+  water: '/icon-raw/water.svg',
+  food: '/icon-raw/food.svg',
+  fruit: '/icon-raw/fruit.svg',
+  pill: '/icon-raw/pill.svg',
+  run: '/icon-raw/run.svg',
+  walk: '/icon-raw/walk.svg',
+  bike: '/icon-raw/bike.svg',
+  stretch: '/icon-raw/stretch.svg',
+  rest: '/icon-raw/rest.svg',
+  sleep: '/icon-raw/sleep.svg',
+  time: '/icon-raw/time.svg',
+  measure: '/icon-raw/scale.svg',
+  carry: '/icon-raw/carry.svg',
+  check: '/icon-raw/check.svg',
+  elliptical: '/icon-raw/elliptical.svg',
+  firstAid: '/icon-raw/firstAid.svg',
+  glucose: '/icon-raw/glucose.svg',
+  jog: '/icon-raw/jog.svg',
+  snack: '/icon-raw/snack.svg',
+  toast: '/icon-raw/toast.svg',
+  general: '/icon-raw/general.svg',
+} as const
+
+/** 单视频行动建议卡只使用 icon-raw 资源；未知动作安全回落到 general。 */
+export function ActionIcon({ name, className = 'h-4 w-4' }: { name?: string; className?: string }) {
+  const asset = ACTION_ICON_ASSETS[name as keyof typeof ACTION_ICON_ASSETS] || ACTION_ICON_ASSETS.general
+
+  return (
+    <span
+      className={`inline-block shrink-0 ${className}`}
+      style={{
+        backgroundColor: 'currentColor',
+        maskImage: `url("${asset}")`,
+        WebkitMaskImage: `url("${asset}")`,
+        maskRepeat: 'no-repeat',
+        WebkitMaskRepeat: 'no-repeat',
+        maskPosition: 'center',
+        WebkitMaskPosition: 'center',
+        maskSize: 'contain',
+        WebkitMaskSize: 'contain',
+      }}
+      aria-hidden="true"
+    />
+  )
+}

@@ -93,6 +93,32 @@ body {
   animation: fitproofAnswerCatFrames 11.5s steps(1, end) infinite;
 }
 
+/* Result-card scrolling uses one visible, softly rounded teal rail everywhere. */
+.fitproof-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #56C6BB transparent;
+  scrollbar-gutter: stable;
+}
+
+.fitproof-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.fitproof-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 999px;
+}
+
+.fitproof-scrollbar::-webkit-scrollbar-thumb {
+  background: #56C6BB;
+  background-clip: padding-box;
+  border: 2px solid transparent;
+  border-radius: 999px;
+}
+
+.fitproof-scrollbar::-webkit-scrollbar-thumb:vertical { min-height: 24px; }
+
 @keyframes fitproofAnswerCatFrames {
   0%, 4% { background-position: 0 0; }
   5%, 9% { background-position: 25% 0; }
@@ -208,4 +234,292 @@ body {
 /* 横向标签仅支持手势滚动，不显示浏览器滚动条。 */
 .core-tip-tags::-webkit-scrollbar {
   display: none;
+}
+
+/* ── Source Serif 4（自托管）─────────────────────────────────────
+   Adobe 开源学术衬线体，OFL-1.1，专为屏幕优化。只含 latin 子集，
+   共 41KB，中文不受影响（中文会落到 .font-cite 后面的黑体）。
+   font-display: swap —— 字体没到之前先用 Georgia 显示，不留白块。 */
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/source-serif-4-latin-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+    U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/source-serif-4-latin-600.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+    U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ── 字阶（type scale）────────────────────────────────────────────
+   全项目只允许用这 6 档。相邻层级至少差 2px 或一个字重档，
+   否则合并。一屏内同时出现的字号不超过 4 档。 */
+:root {
+  --fs-display: 20px;   /* 卡片主标题 */
+  --fs-verdict: 17px;   /* 判定语、更准确的说法 */
+  --fs-body: 15px;      /* 正文（行高 1.75，中文长句最吃行高）*/
+  --fs-label: 13px;     /* 小节标题、按钮 */
+  --fs-meta: 12px;      /* 机构名、页码、免责声明 */
+  --fs-micro: 11px;     /* 角标、页码指示 */
+}
+
+.t-display { font-size: var(--fs-display); font-weight: 600; line-height: 1.4; }
+.t-verdict { font-size: var(--fs-verdict); font-weight: 600; line-height: 1.5; }
+.t-body    { font-size: var(--fs-body);    font-weight: 400; line-height: 1.75; }
+.t-label   { font-size: var(--fs-label);   font-weight: 500; line-height: 1.4; }
+.t-meta    { font-size: var(--fs-meta);    font-weight: 400; line-height: 1.5; }
+.t-micro   { font-size: var(--fs-micro);   font-weight: 500; line-height: 1.3; }
+
+/* ── 引证字体 ──────────────────────────────────────────────────
+   衬线体只用于「引用的文献」——文献标题、编号、页码、正文角标，
+   把"原文"和"我们的界面"在视觉上分开。
+   衬线族没有中文字形，中文会自动落到后面的黑体，形成中英混排。
+   不用 Times New Roman：它是 Word 默认字体（读作廉价）、为窄报栏
+   设计（小字号在屏幕上糊）、且 Win/Mac fallback 不一致。 */
+.font-cite,
+.font-cite-num {
+  font-family: "Source Serif 4", Charter, "Noto Serif", Georgia, Cambria,
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", serif;
+  /* 用等高数字（lining）。oldstyle 数字带升降部，在 12px 的页码/年份上
+     会显得高低参差，且和界面里其他 tabular-nums 数字对不齐。 */
+  font-variant-numeric: lining-nums;
+}
+.font-cite-num {
+  font-feature-settings: "tnum" 1;
+}
+
+/* 报告体：诊断结论等正式内容用中文宋体，营造印刷版诊断报告质感。
+   只给大字用（结论/更准确说法），小字仍走黑体，避免宋体在小字号下发糊。 */
+.font-report {
+  font-family: "Source Serif 4", "Songti SC", "STSong", SimSun,
+    "Source Han Serif SC", "Noto Serif SC", "Noto Serif CJK SC", serif;
+}
+
+/* FitProof homepage brand entrance. The existing ThinkingCatAnimation remains a separate sibling. */
+.fitproof-brand-intro {
+  --fitproof-brand-teal: #13b8a5;
+  --fitproof-brand-logo-width: 226px;
+  position: relative;
+  display: inline-block;
+  width: var(--fitproof-brand-logo-width);
+  height: 60px;
+  overflow: visible;
+  vertical-align: top;
+}
+
+.fitproof-brand-intro-logo {
+  position: absolute;
+  inset: 0 auto auto 0;
+  display: flex;
+  width: var(--fitproof-brand-logo-width);
+  height: 60px;
+  align-items: center;
+  overflow: visible;
+  color: var(--fitproof-brand-teal);
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1;
+  white-space: nowrap;
+  filter: drop-shadow(0 10px 26px rgba(32, 205, 182, 0.16));
+}
+
+.fitproof-brand-intro-wordmark {
+  display: inline-flex;
+  width: max-content;
+}
+
+.fitproof-brand-intro-letter {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(10px) scale(0.95);
+  filter: blur(4px);
+  will-change: opacity, transform, filter;
+}
+
+.fitproof-brand-intro-magnifier {
+  position: absolute;
+  z-index: 2;
+  top: 3px;
+  left: -42px;
+  display: block;
+  width: 42px;
+  height: 52px;
+  opacity: 0;
+  pointer-events: none;
+  filter: drop-shadow(0 3px 6px rgba(18, 181, 166, 0.16));
+  will-change: left, opacity, transform;
+}
+
+.fitproof-brand-ai-magnifier > svg {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.fitproof-brand-intro-line {
+  position: absolute;
+  top: 57px;
+  left: 0;
+  width: var(--fitproof-brand-logo-width);
+  height: 3px;
+}
+
+.fitproof-brand-intro-line-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--fitproof-brand-teal);
+  box-shadow: 0 0 6px rgba(18, 200, 177, 0.22);
+  transform: scaleX(0);
+  transform-origin: left center;
+}
+
+.fitproof-brand-intro-line-dot {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  opacity: 0;
+  background: var(--fitproof-brand-teal);
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 8px rgba(18, 200, 177, 0.58);
+}
+
+.fitproof-brand-intro.is-playing .fitproof-brand-intro-letter {
+  animation:
+    fitproofBrandLetterGenerate 340ms cubic-bezier(0.2, 0.75, 0.34, 0.94) calc(var(--fitproof-brand-letter-index) * 55ms) forwards,
+    fitproofBrandLetterInspect 300ms cubic-bezier(0.2, 0.75, 0.34, 0.94) calc(1200ms + var(--fitproof-brand-letter-index) * 200ms);
+}
+
+.fitproof-brand-intro.is-playing .fitproof-brand-intro-magnifier {
+  animation: fitproofBrandMagnifierInspect 1800ms cubic-bezier(0.2, 0.75, 0.34, 0.94) 1200ms forwards;
+}
+
+.fitproof-brand-intro.is-playing .fitproof-brand-intro-line-fill {
+  animation: fitproofBrandLineLoad 1800ms cubic-bezier(0.2, 0.75, 0.34, 0.94) 1200ms forwards;
+}
+
+.fitproof-brand-intro.is-playing .fitproof-brand-intro-line-dot {
+  animation: fitproofBrandLineDot 1800ms linear 1200ms forwards;
+}
+
+.fitproof-brand-card.is-playing .fitproof-brand-tagline {
+  animation: fitproofBrandTaglineVerified 800ms ease-out 3050ms both;
+}
+
+.fitproof-brand-intro.is-complete .fitproof-brand-intro-letter,
+.fitproof-brand-intro.is-scanning .fitproof-brand-intro-letter {
+  opacity: 1;
+  transform: none;
+  filter: none;
+}
+
+.fitproof-brand-intro.is-complete .fitproof-brand-intro-line-fill,
+.fitproof-brand-intro.is-scanning .fitproof-brand-intro-line-fill {
+  transform: scaleX(1);
+}
+
+.fitproof-brand-intro.is-scanning .fitproof-brand-intro-letter {
+  animation: fitproofBrandLetterInspect 300ms cubic-bezier(0.2, 0.75, 0.34, 0.94) calc(var(--fitproof-brand-letter-index) * 200ms) both;
+}
+
+.fitproof-brand-intro.is-scanning .fitproof-brand-intro-magnifier {
+  animation: fitproofBrandMagnifierInspect 1800ms cubic-bezier(0.2, 0.75, 0.34, 0.94) both;
+}
+
+.fitproof-brand-intro.is-scanning .fitproof-brand-intro-line-dot {
+  animation: fitproofBrandLineDot 1800ms linear both;
+}
+
+@keyframes fitproofBrandLetterGenerate {
+  to { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+}
+
+@keyframes fitproofBrandLetterInspect {
+  0%, 100% { color: var(--fitproof-brand-teal); filter: brightness(1) saturate(1); transform: scale(1); }
+  50% { color: #0cbcac; filter: brightness(1.1) saturate(1.08); transform: scale(1.08); }
+}
+
+@keyframes fitproofBrandMagnifierInspect {
+  0% { left: -42px; opacity: 0; transform: translateY(-2px) rotate(-6deg); }
+  7%, 88% { opacity: 1; }
+  35% { transform: translateY(2px) rotate(-2deg); }
+  65% { transform: translateY(-2px) rotate(2deg); }
+  100% { left: calc(100% - 30px); opacity: 0; transform: translateY(1px) rotate(4deg); }
+}
+
+@keyframes fitproofBrandLineLoad {
+  to { transform: scaleX(1); }
+}
+
+@keyframes fitproofBrandLineDot {
+  0% { left: 0; opacity: 0; }
+  8%, 88% { opacity: 1; }
+  100% { left: 100%; opacity: 0; }
+}
+
+@keyframes fitproofBrandTaglineVerified {
+  0%, 100% { color: rgb(30 41 59); text-shadow: none; }
+  50% { color: #0b6e63; text-shadow: 0 0 12px rgba(18, 200, 177, 0.22); }
+}
+
+@media (min-width: 640px) {
+  .fitproof-brand-intro,
+  .fitproof-brand-intro-logo {
+    height: 72px;
+  }
+
+  .fitproof-brand-intro-logo {
+    font-size: 72px;
+  }
+
+  .fitproof-brand-intro-line {
+    top: 69px;
+  }
+
+  .fitproof-brand-intro-magnifier {
+    top: 7px;
+    width: 46px;
+    height: 56px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fitproof-brand-intro-letter {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    animation: none !important;
+  }
+
+  .fitproof-brand-intro-line-fill {
+    transform: scaleX(1) !important;
+    animation: none !important;
+  }
+
+  .fitproof-brand-intro-magnifier,
+  .fitproof-brand-intro-line-dot {
+    display: none !important;
+  }
+
+  .fitproof-brand-tagline {
+    animation: none !important;
+  }
 }

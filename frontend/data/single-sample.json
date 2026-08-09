@@ -3,6 +3,7 @@
   "reference": {
     "id": 1,
     "author": "营养科普样例",
+    "author_avatar_url": "/brand/cat-doctor-transparent.png",
     "title": "孕妇吃鸡蛋到底要不要丢蛋黄",
     "url": "https://www.douyin.com/video/sample-single-fitproof"
   },
@@ -10,7 +11,8 @@
     {
       "time": 18,
       "reason": "画面出现蛋黄和胆固醇提示",
-      "screen_text": "蛋黄 胆碱 优质蛋白"
+      "screen_text": "蛋黄 胆碱 优质蛋白",
+      "image": "/sample-assets/egg-cover.svg"
     }
   ],
   "claims": [
@@ -57,6 +59,17 @@
       ],
       "signal": "有条件",
       "why": "说法可能过于单一，需核验是否符合食物多样化原则。"
+    },
+    {
+      "claim": "孕妇吃蛋黄会让胎儿出生后得黄疸，必须完全忌口",
+      "video_refs": [
+        {
+          "id": 1,
+          "time": "1:18"
+        }
+      ],
+      "signal": "疑似夸大",
+      "why": "把孕期食用蛋黄与新生儿黄疸直接关联，是常见的民间说法，当前证据库未收录可直接核验的权威依据。"
     }
   ],
   "sample_verify_results": [
@@ -115,22 +128,6 @@
           "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
           "page": "176-178",
           "score": 0.594
-        },
-        {
-          "id": "E-中国居民膳食指南-202-031",
-          "claim": "禁食减肥常以丢失水分和肌肉为代价，不能维持长久。",
-          "section": "体重过重或过轻怎么办",
-          "strength": "指南推荐",
-          "topics": [
-            "膳食营养",
-            "禁食减肥"
-          ],
-          "source_doc": "中国居民膳食指南（2022）",
-          "org": "中国营养学会",
-          "year": "2022",
-          "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
-          "page": "48-50",
-          "score": 0.451
         }
       ]
     },
@@ -207,7 +204,11 @@
           "page": "105-107",
           "score": 0.58
         }
-      ]
+      ],
+      "claim_origin": {
+        "type": "concept_confusion",
+        "explanation": "容易把食物中的胆固醇和血脂变化直接画等号。"
+      }
     },
     {
       "verdict": "可信",
@@ -322,6 +323,48 @@
           "url": "http://dg.cnsoc.org/imgnewslist_0602_1.htm",
           "page": "90-92",
           "score": 0.56
+        }
+      ]
+    },
+    {
+      "verdict": "证据不足",
+      "risk_level": "中",
+      "confidence": "低",
+      "strength": "低",
+      "correction": "未命中已收录权威依据，以下为 AI 常识判断：目前不能据此断言孕妇食用蛋黄会导致胎儿出生后黄疸，也不宜仅凭这一说法要求孕妇完全忌口；如担心孕期饮食或新生儿黄疸，应咨询产科或儿科专业人员。",
+      "cited_evidence_ids": [],
+      "evidence_status": "not_found",
+      "evidence_tier": "无",
+      "claim": "孕妇吃蛋黄会让胎儿出生后得黄疸，必须完全忌口",
+      "topic": "孕妇能不能吃蛋黄",
+      "video_refs": [
+        {
+          "id": 1,
+          "time": "1:18"
+        }
+      ],
+      "evidence": [],
+      "claim_origin": {
+        "type": "overgeneralized",
+        "explanation": "个别新生儿黄疸经历容易被归因到孕期某种食物，并在口耳相传中被放大。"
+      },
+      "trace": [
+        {
+          "step": "retrieve_conclusion_topic",
+          "label": "检索话题内结论库",
+          "hit_count": 0,
+          "tone": "miss"
+        },
+        {
+          "step": "retrieve_conclusion_all",
+          "label": "检索全库结论",
+          "hit_count": 0,
+          "tone": "miss"
+        },
+        {
+          "step": "downgrade_common_sense",
+          "label": "库中未收录相关权威依据，转为 AI 常识判断",
+          "tone": "warn"
         }
       ]
     }

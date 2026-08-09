@@ -4,6 +4,8 @@ import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import VerifyResultCard from '@/components/VerifyResultCard'
 import FitProofCat from '@/components/FitProofCat'
 import { clearHistory, loadHistory, removeHistory, type HistoryRecord } from '@/lib/history'
+import { demoFootprintHistory, demoHistory } from '@/lib/profileDemo'
+import { createAnonymousClientId } from '@/lib/clientId.mjs'
 import {
   bucketOf,
   heatmap,
@@ -18,7 +20,30 @@ import {
   type VerdictBucket,
 } from '@/lib/profile'
 
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
+const CONTRIBUTION_CLIENT_ID_KEY = 'fitproof.contrib.client_id'
+const HISTORY_PREVIEW_LIMIT = 3
+const CONTRIBUTION_PREVIEW_LIMIT = 3
+
 type Filter = '全部' | VerdictBucket
+
+type ContributionStatus = 'pending' | 'approved' | 'rejected'
+
+interface ContributionRecord {
+  id: string
+  created_at: string
+  topic: string
+  claim: string
+  status: ContributionStatus
+}
+
+function contributionClientId(): string {
+  const existing = window.localStorage.getItem(CONTRIBUTION_CLIENT_ID_KEY)
+  if (existing) return existing
+  const clientId = createAnonymousClientId()
+  window.localStorage.setItem(CONTRIBUTION_CLIENT_ID_KEY, clientId)
+  return clientId
+}
 
 const BUCKETS: VerdictBucket[] = ['不实', '需留意', '站得住脚']
 
@@ -259,16 +284,35 @@ export default function ProfileTab() {
   const [dayCell, setDayCell] = useState<HeatCell | null>(null)
   const [filter, setFilter] = useState<Filter>('全部')
   const [showAll, setShowAll] = useState(false)
+  const [contributions, setContributions] = useState<ContributionRecord[]>([])
+  const [showAllContributions, setShowAllContributions] = useState(false)
+  const demoFootprintRecords = useMemo(() => demoFootprintHistory(), [])
+  const demoTopicRecords = useMemo(() => demoHistory(), [])
 
   useEffect(() => {
     setRecords(loadHistory())
     setIdentity(loadIdentity())
   }, [])
 
+  useEffect(() => {
+    let alive = true
+    const clientId = contributionClientId()
+    fetch(`${API_BASE_URL}/api/contrib?client_id=${encodeURIComponent(clientId)}`)
+      .then((response) => response.ok ? response.json() : { records: [] })
+      .then((data: { records?: ContributionRecord[] }) => {
+        if (alive) setContributions(Array.isArray(data.records) ? data.records : [])
+      })
+      .catch(() => { if (alive) setContributions([]) })
+    return () => { alive = false }
+  }, [])
+
   const streak = useMemo(() => streakDays(records), [records])
   const level = useMemo(() => levelOf(records.length), [records.length])
-  const topics = useMemo(() => topicStats(records), [records])
-  const grid = useMemo(() => heatmap(records), [records])
+  const topicRecords = useMemo(() => [...records, ...demoTopicRecords], [records, demoTopicRecords])
+  const topics = useMemo(() => topicStats(topicRecords), [topicRecords])
+  // 游园会演示只给足迹图补日期分布，不参与等级、统计、话题与核验历史。
+  const footprintRecords = useMemo(() => [...records, ...demoFootprintRecords], [records, demoFootprintRecords])
+  const grid = useMemo(() => heatmap(footprintRecords), [footprintRecords])
   const counts = useMemo(() => ({
     全部: records.length,
     不实: records.filter((r) => bucketOf(r) === '不实').length,
@@ -279,7 +323,8 @@ export default function ProfileTab() {
     () => (filter === '全部' ? records : records.filter((record) => bucketOf(record) === filter)),
     [records, filter],
   )
-  const shown = showAll ? visible : visible.slice(0, 5)
+  const shown = showAll ? visible : visible.slice(0, HISTORY_PREVIEW_LIMIT)
+  const shownContributions = showAllContributions ? contributions : contributions.slice(0, CONTRIBUTION_PREVIEW_LIMIT)
   const detail = useMemo(() => records.find((record) => record.id === detailId) || null, [records, detailId])
 
   // 详情页打开时锁滚动，否则底层列表会跟着手指一起动
@@ -383,8 +428,14 @@ export default function ProfileTab() {
           </svg>
 
           <div className="relative flex items-start gap-3">
-            {/* 头像内容待定，先只做白色外框和底 */}
-            <div className="grid h-[72px] w-[72px] shrink-0 place-items-center rounded-full border-[3px] border-white bg-[#DCF0EC] shadow-[0_2px_10px_rgba(11,110,99,0.14)]" aria-label="头像占位" />
+            <div className="grid h-[72px] w-[72px] shrink-0 place-items-center overflow-hidden rounded-full border-[3px] border-white bg-[#DCF0EC] shadow-[0_2px_10px_rgba(11,110,99,0.14)]" role="img" aria-label="FitProof 医生猫头像">
+              <img
+                src="/brand/cat-doctor-transparent.png"
+                alt=""
+                aria-hidden="true"
+                className="pointer-events-none h-[92px] w-[92px] max-w-none shrink-0 -translate-x-[11.5px] object-contain"
+              />
+            </div>
             <div className="min-w-0 flex-1 pt-1">
               <div className="flex min-w-0 items-center gap-1.5">
                 {editingName ? (
@@ -599,7 +650,7 @@ export default function ProfileTab() {
                 ))}
               </div>
 
-              <div className="mt-2">
+              <div data-profile-history-list className="mt-2">
                 {shown.map((record) => {
                   const bucket = bucketOf(record)
                   const style = BUCKET_STYLE[bucket]
@@ -649,13 +700,15 @@ export default function ProfileTab() {
                 {visible.length === 0 && (
                   <p className="py-8 text-center text-[11.5px] text-slate-400">这个分类下还没有记录</p>
                 )}
-                {visible.length > 5 && (
+                {visible.length > HISTORY_PREVIEW_LIMIT && (
                   <button
                     type="button"
                     onClick={() => setShowAll(!showAll)}
-                    className="mt-2 w-full py-2 text-center text-[11.5px] font-bold text-[#0B6E63]"
+                    aria-expanded={showAll}
+                    className="mt-2 flex w-full items-center justify-center gap-1 py-2 text-center text-[11.5px] font-bold text-[#0B6E63]"
                   >
-                    {showAll ? '收起 ⌃' : `查看全部 ${visible.length} 条 ›`}
+                    {showAll ? '收起' : `展开全部 ${visible.length} 条`}
+                    <Icon name="chevron" className={`h-3.5 w-3.5 transition-transform ${showAll ? '-rotate-90' : 'rotate-90'}`} />
                   </button>
                 )}
               </div>
@@ -663,17 +716,45 @@ export default function ProfileTab() {
           )}
         </Card>
 
-        {/* 我的分享 —— 占位。社区目前是只读静态 JSON，没有分享功能，
-            数据结构里也没有「分享者」字段。这里先摆好位置和空态，
-            等分享功能落地后把 records 换成真实分享数据即可，绝不用假数据占坑。 */}
+        {/* 我的贡献只读取用户主动授权提交的真实待审记录；它不属于权威指南库。 */}
         <Card>
-          <CardTitle icon="share" title="我的分享" extra={<span className="shrink-0 text-[10.5px] text-slate-400">分享到社区</span>} />
-          <div className="mt-2 rounded-[14px] border border-dashed border-[#D3E5E1] bg-[#F9FCFB] px-4 py-6 text-center">
-            <p className="text-[12.5px] font-bold text-slate-600">还没有分享过</p>
-            <p className="mx-auto mt-1.5 max-w-[16rem] text-[11px] leading-relaxed text-slate-400">
-              分享功能还在开发中。做好之后，你分享到社区的核验会出现在这里。
-            </p>
-          </div>
+          <CardTitle icon="share" title="我的贡献" extra={<span className="t-meta shrink-0 text-slate-400">专家复核</span>} />
+          {contributions.length === 0 ? (
+            <div className="mt-2 rounded-[10px] border border-dashed border-[#D3E5E1] bg-[#F9FCFB] px-4 py-6 text-center">
+              <p className="t-label text-slate-600">还没有贡献过</p>
+              <p className="t-meta mx-auto mt-1.5 max-w-[16rem] text-slate-400">主动授权提交的核验，会在这里显示专家复核进度。</p>
+            </div>
+          ) : (
+            <div data-profile-contribution-list className="mt-2 space-y-2">
+              {shownContributions.map((contribution) => {
+                const status = contribution.status === 'approved'
+                  ? { label: '已入库', className: 'bg-[#E6F7F4] text-[#20CDB6]' }
+                  : contribution.status === 'rejected'
+                    ? { label: '未通过', className: 'bg-slate-100 text-slate-500' }
+                    : { label: '审核中', className: 'bg-slate-100 text-slate-500' }
+                return (
+                  <article key={contribution.id} className="rounded-[10px] border border-[#E8EFED] bg-[#FAFCFC] px-3 py-2.5">
+                    <div className="flex items-start gap-2">
+                      <p className="t-label min-w-0 flex-1 line-clamp-2 text-slate-800">“{contribution.claim}”</p>
+                      <span className={`t-micro shrink-0 rounded-full px-2 py-1 ${status.className}`}>{status.label}</span>
+                    </div>
+                    <p className="t-meta mt-1 text-slate-400">{formatDate(contribution.created_at)}{contribution.topic ? ` · ${contribution.topic}` : ''}</p>
+                  </article>
+                )
+              })}
+              {contributions.length > CONTRIBUTION_PREVIEW_LIMIT && (
+                <button
+                  type="button"
+                  onClick={() => setShowAllContributions(!showAllContributions)}
+                  aria-expanded={showAllContributions}
+                  className="flex w-full items-center justify-center gap-1 py-2 text-center text-[11.5px] font-bold text-[#0B6E63]"
+                >
+                  {showAllContributions ? '收起' : `展开全部 ${contributions.length} 条`}
+                  <Icon name="chevron" className={`h-3.5 w-3.5 transition-transform ${showAllContributions ? '-rotate-90' : 'rotate-90'}`} />
+                </button>
+              )}
+            </div>
+          )}
         </Card>
 
         {/* 数据与隐私 */}
@@ -812,8 +893,8 @@ export default function ProfileTab() {
                 这天核验了 <b className="text-[15px] font-extrabold tabular-nums text-[#0B6E63]">{dayCell.count}</b> 条
               </p>
               <ul className="space-y-1.5 pb-1">
-                {records
-                  .filter((record) => record.createdAt.slice(0, 10) === dayCell.date)
+                    {footprintRecords
+                      .filter((record) => record.createdAt.slice(0, 10) === dayCell.date)
                   .map((record) => {
                     const bucket = bucketOf(record)
                     return (

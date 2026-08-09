@@ -1,6 +1,6 @@
 'use client'
 
-type TabId = 'verify' | 'community' | 'knowledge' | 'profile'
+type TabId = 'verify' | 'knowledge' | 'profile'
 
 type BottomNavProps = {
   activeTab: TabId
@@ -9,7 +9,6 @@ type BottomNavProps = {
 
 const tabs: { id: TabId; label: string }[] = [
   { id: 'verify', label: '核验' },
-  { id: 'community', label: '社区' },
   { id: 'knowledge', label: '知识库' },
   { id: 'profile', label: '我的' },
 ]
@@ -27,9 +26,6 @@ function TabIcon({ id, active }: { id: TabId; active: boolean }) {
   if (id === 'verify') {
     return <svg {...common}><path d="M12 3 5 6v5c0 4.7 2.9 8.1 7 10 4.1-1.9 7-5.3 7-10V6l-7-3Z" /><path d="m8.7 12 2.1 2.1 4.6-4.6" /></svg>
   }
-  if (id === 'community') {
-    return <svg {...common}><path d="M6 18.5 3.5 21l.8-3.8A7.8 7.8 0 0 1 4 13c0-4.4 3.6-8 8-8s8 3.6 8 8-3.6 8-8 8c-1.4 0-2.8-.4-4-1l-2 .5Z" /><path d="M8 13h.01M12 13h.01M16 13h.01" strokeWidth="2.4" strokeLinecap="round" /></svg>
-  }
   if (id === 'knowledge') {
     return <svg {...common}><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H19v15H6.5A2.5 2.5 0 0 0 4 20.5Z" /><path d="M4 20.5A2.5 2.5 0 0 1 6.5 18H19v3H6.5A2.5 2.5 0 0 1 4 20.5Z" /><path d="M8.5 7.5h6" /></svg>
   }
@@ -39,7 +35,7 @@ function TabIcon({ id, active }: { id: TabId; active: boolean }) {
 export default function BottomNav({ activeTab, onChange }: BottomNavProps) {
   return (
     <nav className="fixed inset-x-0 bottom-0 z-50 border-t border-[#D8F0EC] bg-white pb-[env(safe-area-inset-bottom)]" aria-label="主导航">
-      <div className="mx-auto grid h-[54px] max-w-lg grid-cols-4">
+      <div className="mx-auto grid h-[54px] max-w-lg grid-cols-3">
         {tabs.map((tab) => {
           const active = activeTab === tab.id
           return (

@@ -1,38 +1,17 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import ThinkingCatAnimation from "@/components/ThinkingCatAnimation";
-import type { Analysis, PresetData, SingleSampleData } from "@/types";
+import FitProofBrandIntro, { type FitProofIntroPhase } from "@/components/brand/FitProofBrandIntro";
+import type { SingleSampleData } from "@/types";
 
 interface InputPageProps {
   apiBaseUrl: string;
-  onAnalyze: (links: string[], topic: string) => Promise<void>;
-  onPresetLoaded: (analysis: Analysis, topic: string) => void;
   onAnalyzeSingle: (link: string, topic: string) => Promise<void>;
+  onAnalyzeUpload: (file: File, topic: string) => Promise<void>;
   onSingleSampleLoaded: (sample: SingleSampleData) => void;
   initialError?: string;
 }
-
-const PRESETS = [
-  {
-    id: "1",
-    label: "空腹有氧好不好",
-    links: [
-      "https://www.douyin.com/video/7629357840607595819?previous_page=web_code_link",
-      "https://www.douyin.com/video/7598823080103000250?previous_page=web_code_link",
-    ],
-  },
-  {
-    id: "5",
-    label: "鱼油是不是智商税",
-    links: [
-      "https://www.douyin.com/video/7605528198700971171?previous_page=web_code_link",
-      "https://www.douyin.com/video/7539112531555306793?previous_page=web_code_link",
-    ],
-  },
-];
-
-type Mode = "single" | "dual";
 
 function findDouyinLink(text: string) {
   const match = text.match(/https?:\/\/[^\s"'<>]*(?:v\.douyin\.com|douyin\.com\/video)[^\s"'<>]*/i);
@@ -41,23 +20,20 @@ function findDouyinLink(text: string) {
 
 export default function InputPage({
   apiBaseUrl,
-  onAnalyze,
-  onPresetLoaded,
   onAnalyzeSingle,
+  onAnalyzeUpload,
   onSingleSampleLoaded,
   initialError,
 }: InputPageProps) {
-  const [mode, setMode] = useState<Mode>("single");
-  const [topic, setTopic] = useState("");
   const [singleLink, setSingleLink] = useState("");
   const [clipboardLink, setClipboardLink] = useState("");
+  const [localVideo, setLocalVideo] = useState<File | null>(null);
+  const [localVideoError, setLocalVideoError] = useState("");
   const [error, setError] = useState(initialError || "");
-  const [submitting, setSubmitting] = useState(false);
   const [singleSubmitting, setSingleSubmitting] = useState(false);
-  const [presetLoading, setPresetLoading] = useState<string | null>(null);
-  const [selectedPresetId, setSelectedPresetId] = useState(PRESETS[0].id);
-
-  const selectedPreset = PRESETS.find((p) => p.id === selectedPresetId) || PRESETS[0];
+  const [introPhase, setIntroPhase] = useState<FitProofIntroPhase>("preparing");
+  const [brandLayoutReady, setBrandLayoutReady] = useState(false);
+  const handleBrandLayoutReady = useCallback(() => setBrandLayoutReady(true), []);
 
   useEffect(() => {
     let cancelled = false;
@@ -87,13 +63,28 @@ export default function InputPage({
     setError("");
     setSingleSubmitting(true);
     try {
-      await onAnalyzeSingle(clean, topic.trim() || "健康说法核验");
+      await onAnalyzeSingle(clean, "健康说法核验");
+    } finally {
+      setSingleSubmitting(false);
+    }
+  }
+
+  async function startUpload(file: File) {
+    setError("");
+    setSingleSubmitting(true);
+    try {
+      await onAnalyzeUpload(file, "健康说法核验");
     } finally {
       setSingleSubmitting(false);
     }
   }
 
   async function handleSingleSubmit() {
+    // 选了本地视频优先走上传；否则走链接分析
+    if (localVideo) {
+      await startUpload(localVideo);
+      return;
+    }
     await startSingle(singleLink);
   }
 
@@ -112,94 +103,75 @@ export default function InputPage({
     }
   }
 
-  async function loadPreset(id: string, label: string) {
-    setError("");
-    setPresetLoading(id);
-    try {
-      const res = await fetch(`${apiBaseUrl}/api/preset/${id}`);
-      if (!res.ok) throw new Error("预置话题加载失败");
-      const data: PresetData = await res.json();
-      onPresetLoaded(data.analysis, topic.trim() || data.topic || label);
-    } catch (e) {
-      setError(e instanceof Error ? e.message : "预置话题加载失败");
-    } finally {
-      setPresetLoading(null);
+  function selectLocalVideo(file: File | null) {
+    if (!file) return;
+    if (!file.type.startsWith("video/")) {
+      setLocalVideo(null);
+      setLocalVideoError("请选择视频文件");
+      return;
     }
+    if (file.size > 500 * 1024 * 1024) {
+      setLocalVideo(null);
+      setLocalVideoError("视频文件请控制在 500MB 以内");
+      return;
+    }
+    setLocalVideo(file);
+    setLocalVideoError("");
   }
 
-  async function handleDualSubmit() {
-    setError("");
-    setSubmitting(true);
-    try {
-      await loadPreset(selectedPreset.id, selectedPreset.label);
-    } finally {
-      setSubmitting(false);
-    }
+  function formatFileSize(bytes: number) {
+    return bytes < 1024 * 1024
+      ? `${Math.max(1, Math.round(bytes / 1024))} KB`
+      : `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
   }
 
   return (
-    <main className="min-h-screen bg-[#f7fffd] px-4 py-8 text-slate-950 sm:px-5 sm:py-10">
-      <div className="mx-auto flex min-h-[calc(100vh-4rem)] max-w-2xl flex-col justify-center">
-        <div className="mb-7 inline-flex w-fit items-center gap-2 rounded-full border border-[#20CDB6]/25 bg-white px-3 py-1.5 text-xs font-medium text-[#0B6E63] shadow-sm">
+    <main className="min-h-screen bg-[#f7fffd] px-4 py-4 text-slate-950 sm:px-5 sm:py-8">
+      <div className="mx-auto flex min-h-[calc(100vh-2rem)] max-w-2xl flex-col justify-start sm:min-h-[calc(100vh-4rem)] sm:justify-center">
+        <div className="mb-3 inline-flex w-fit items-center gap-2 rounded-full border border-[#20CDB6]/25 bg-white px-3 py-1.5 text-xs font-medium text-[#0B6E63] shadow-sm sm:mb-5">
           <span className="h-2 w-2 rounded-full bg-[#20CDB6]" />
           健康说法核验 · AI 证据校验
         </div>
 
-        <section className="relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white p-6 shadow-[0_22px_70px_rgba(18,116,103,0.12)]">
-          <div className="relative inline-block">
-            <h1 className="text-6xl font-bold leading-none tracking-tight text-[#13b8a5] drop-shadow-[0_10px_26px_rgba(32,205,182,0.16)] sm:text-7xl">
-              FitProof
-            </h1>
-            <ThinkingCatAnimation className="pointer-events-none absolute left-[calc(100%+1.15rem)] top-3 h-[65px] w-14 opacity-90 drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)] sm:top-5 sm:h-[93px] sm:w-20" />
+        <section className={`fitproof-brand-card is-${introPhase} relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white p-6 shadow-[0_22px_70px_rgba(18,116,103,0.12)]`}>
+          <div className="relative -mt-2 inline-block">
+            <h1 className="sr-only">FitProof</h1>
+            <FitProofBrandIntro onLayoutReady={handleBrandLayoutReady} onPhaseChange={setIntroPhase} />
+            <ThinkingCatAnimation
+              className={`pointer-events-none absolute -top-1 left-[calc(100%+1.75rem)] h-[65px] w-14 transition-opacity duration-300 ease-out motion-reduce:transition-none sm:top-0 sm:h-[93px] sm:w-20 ${
+                brandLayoutReady ? "opacity-90" : "opacity-0"
+              } drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)]`}
+            />
           </div>
-          <p className="mt-4 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
+          <p className="fitproof-brand-tagline mt-3 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
           <p className="mt-3 text-[15px] leading-relaxed text-slate-500">
             粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
           </p>
-          <div className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-sm font-medium text-[#0B6E63]">
-            <span>权威健康指南</span>
-            <span>风险分层提示</span>
-            <span>视频出处溯源</span>
+          <div className="mt-5 flex flex-nowrap items-center justify-between gap-1.5 whitespace-nowrap text-[11px] font-medium min-[420px]:text-xs">
+            <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-[#E5C455]/55 bg-[#FFFDF5] px-1 py-1 font-semibold text-[#D2A517] shadow-[0_1px_3px_rgba(180,139,14,0.05)]">
+              <svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 1.75c.5 6.7 3.55 9.75 10.25 10.25C15.55 12.5 12.5 15.55 12 22.25 11.5 15.55 8.45 12.5 1.75 12 8.45 11.5 11.5 8.45 12 1.75Z" />
+              </svg>
+              权威指南核验
+            </span>
+            <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-slate-200 bg-[#F8FAFB] px-1 py-1 text-slate-600 shadow-[0_1px_3px_rgba(15,23,42,0.04)]">
+              <svg className="h-3.5 w-3.5 shrink-0 text-[#19BCA9]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <path d="M4 19v-4M9 19v-7M14 19V9M19 19V5" /><path d="m4 10 5-4 4 2 7-5" /><path d="m16 3 4 .1-.1 4" />
+              </svg>
+              健康风险分层
+            </span>
+            <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-slate-200 bg-[#F8FAFB] px-1 py-1 text-slate-600 shadow-[0_1px_3px_rgba(15,23,42,0.04)]">
+              <svg className="h-3.5 w-3.5 shrink-0 text-[#19BCA9]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <path d="m9.5 12.5 5.3-5.3a3.2 3.2 0 1 1 4.5 4.5l-7.1 7.1a5 5 0 0 1-7.1-7.1l7.2-7.2" /><path d="m7.8 14.2 6.4-6.4" />
+              </svg>
+              视频出处溯源
+            </span>
           </div>
         </section>
 
-        <section className="mt-5 rounded-[28px] border border-[#20CDB6]/15 bg-white p-4 shadow-[0_16px_54px_rgba(18,116,103,0.10)]">
-          <div className="grid grid-cols-2 gap-2 rounded-2xl border border-[#20CDB6]/15 bg-[#f3fbf9] p-1">
-            {[
-              { id: "single" as const, label: "单视频核验" },
-              { id: "dual" as const, label: "双视频预置" },
-            ].map((item) => {
-              const active = mode === item.id;
-              return (
-                <button
-                  key={item.id}
-                  type="button"
-                  onClick={() => {
-                    setMode(item.id);
-                    setError("");
-                  }}
-                  className={`rounded-xl px-3 py-2.5 text-sm font-semibold transition ${
-                    active
-                      ? "bg-[#20CDB6] text-white shadow-[0_8px_18px_rgba(32,205,182,0.24)]"
-                      : "text-[#0B6E63] hover:bg-white"
-                  }`}
-                >
-                  {item.label}
-                </button>
-              );
-            })}
-          </div>
+        <section className="mt-3 rounded-[28px] border border-[#20CDB6]/15 bg-white p-4 shadow-[0_12px_36px_rgba(18,116,103,0.08)]">
 
-          <input
-            type="text"
-            value={topic}
-            onChange={(e) => setTopic(e.target.value)}
-            placeholder="输入感兴趣的话题，如：孕妇能不能吃蛋黄（选填）"
-            className="mt-4 w-full rounded-2xl border border-[#20CDB6]/20 bg-white px-4 py-3 outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
-          />
-
-          {mode === "single" ? (
-            <div className="mt-4 space-y-3">
+          <div className="mt-1 space-y-3">
               {clipboardLink && (
                 <button
                   type="button"
@@ -212,94 +184,60 @@ export default function InputPage({
                 </button>
               )}
 
-              <input
-                type="text"
-                value={singleLink}
-                onChange={(e) => setSingleLink(e.target.value)}
-                placeholder="粘贴单条抖音链接，如：https://v.douyin.com/..."
-                className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white px-4 py-3 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
-              />
-              <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-                <button
-                  type="button"
-                  onClick={() => void handleSingleSubmit()}
-                  disabled={singleSubmitting || presetLoading !== null || submitting}
-                  className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
-                >
-                  {singleSubmitting ? "正在拆解主张…" : "分析单视频"}
-                </button>
-                <button
-                  type="button"
-                  onClick={loadSingleSample}
-                  disabled={singleSubmitting || presetLoading !== null || submitting}
-                  className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-sm font-semibold text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-[#f3fbf9] disabled:opacity-50"
-                >
-                  用样例数据
-                </button>
+              <div className="relative">
+                <span className="pointer-events-none absolute left-3.5 top-1/2 grid h-7 w-7 -translate-y-1/2 place-items-center rounded-lg border border-slate-100 bg-white shadow-[0_2px_6px_rgba(15,23,42,0.06)]" aria-hidden="true">
+                  <svg className="h-[17px] w-[17px]" viewBox="0 0 24 24">
+                    <path d="M14.1 3.2c.5 2.7 2.1 4.3 4.8 4.8v3.1a8.6 8.6 0 0 1-4.7-1.5v5.2a5.2 5.2 0 1 1-4.5-5.1v3.2a2.1 2.1 0 1 0 1.3 1.9V3.2h3.1Z" fill="#25F4EE" transform="translate(-0.8 0.6)" />
+                    <path d="M14.1 3.2c.5 2.7 2.1 4.3 4.8 4.8v3.1a8.6 8.6 0 0 1-4.7-1.5v5.2a5.2 5.2 0 1 1-4.5-5.1v3.2a2.1 2.1 0 1 0 1.3 1.9V3.2h3.1Z" fill="#FE2C55" transform="translate(0.6 -0.3)" />
+                    <path d="M14.1 3.2c.5 2.7 2.1 4.3 4.8 4.8v3.1a8.6 8.6 0 0 1-4.7-1.5v5.2a5.2 5.2 0 1 1-4.5-5.1v3.2a2.1 2.1 0 1 0 1.3 1.9V3.2h3.1Z" fill="#111827" />
+                  </svg>
+                </span>
+                <input
+                  type="text"
+                  value={singleLink}
+                  onChange={(e) => setSingleLink(e.target.value)}
+                  placeholder="粘贴单条抖音链接，如：https://v.douyin.com/..."
+                  className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white py-3 pl-12 pr-4 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+                />
               </div>
-              <p className="text-xs leading-relaxed text-slate-400">
-                真实链接会先转写视频并拆出主张，可能需要 1 到 3 分钟；样例数据可用于离线演示。
-              </p>
-            </div>
-          ) : (
-            <div className="mt-4 space-y-4">
-              <div>
-                <p className="mb-2 text-sm font-semibold text-slate-900">试试这些话题</p>
-                <div className="flex flex-wrap gap-2">
-                  {PRESETS.map((p) => {
-                    const active = p.id === selectedPresetId;
-                    return (
-                      <button
-                        key={p.id}
-                        type="button"
-                        onClick={() => {
-                          setSelectedPresetId(p.id);
-                          setError("");
-                        }}
-                        disabled={presetLoading !== null || submitting}
-                        className={`rounded-full border px-3 py-1.5 text-sm font-medium transition disabled:opacity-50 ${
-                          active
-                            ? "border-[#20CDB6] bg-[#20CDB6] text-white shadow-[0_8px_20px_rgba(32,205,182,0.24)]"
-                            : "border-[#20CDB6]/25 bg-white text-[#0B6E63] hover:border-[#20CDB6] hover:bg-[#f3fbf9]"
-                        }`}
-                      >
-                        {p.label}
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-
+              <label className="flex min-h-14 cursor-pointer items-center gap-3 rounded-2xl border border-dashed border-[#20CDB6]/35 bg-[#F5FCFB] px-4 py-3 text-left transition active:scale-[0.99]">
+                <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-white text-[#0B8F82] shadow-sm" aria-hidden="true">
+                  <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="4" y="6" width="16" height="12" rx="2" /><path d="m10 10 5 2-5 2v-4Z" fill="currentColor" stroke="none" /></svg>
+                </span>
+                <span className="min-w-0 flex-1">
+                  {localVideo ? <><span className="t-label block truncate text-slate-800">{localVideo.name}</span><span className="t-meta mt-0.5 block text-slate-500">{formatFileSize(localVideo.size)} · 点下方「分析本地视频」</span></> : <><span className="t-label block text-slate-800">从手机相册选择视频</span><span className="t-meta mt-0.5 block text-slate-500">选择后可直接上传分析</span></>}
+                </span>
+                <span className="t-label shrink-0 text-[#0B8F82]">{localVideo ? "更换" : "+"}</span>
+                <input type="file" accept="video/*" className="sr-only" onChange={(event) => selectLocalVideo(event.target.files?.[0] || null)} />
+              </label>
+              {localVideoError && <p className="t-meta text-amber-700">{localVideoError}</p>}
               <div className="space-y-2">
-                {selectedPreset.links.map((link, i) => (
-                  <div
-                    key={link}
-                    className="flex items-start gap-2 rounded-2xl border border-[#20CDB6]/15 bg-[#f3fbf9] px-3 py-2.5"
+                <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+                  <button
+                    type="button"
+                    onClick={() => void handleSingleSubmit()}
+                    disabled={singleSubmitting}
+                    className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
                   >
-                    <span className="mt-1 rounded-full bg-[#20CDB6]/15 px-2 py-0.5 text-[11px] font-semibold text-[#0B6E63]">
-                      视频 {i + 1}
-                    </span>
-                    <a
-                      href={link}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="min-w-0 flex-1 break-all text-xs leading-relaxed text-slate-500 transition hover:text-[#0B6E63]"
-                    >
-                      {link}
-                    </a>
-                  </div>
-                ))}
+                    {singleSubmitting ? "正在拆解主张…" : localVideo ? "分析本地视频" : "分析单视频"}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={loadSingleSample}
+                    disabled={singleSubmitting}
+                    className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-sm font-semibold text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-[#f3fbf9] disabled:opacity-50"
+                  >
+                    用样例数据
+                  </button>
+                </div>
+                <p className="flex items-center justify-center gap-1 whitespace-nowrap text-[10px] leading-none tracking-tight text-slate-400">
+                  <svg className="h-3 w-3 shrink-0 text-[#20CDB6]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <path d="M12 3 5 6v5c0 4.7 2.8 8.3 7 10 4.2-1.7 7-5.3 7-10V6l-7-3Z" /><path d="m9 12 2 2 4-4" />
+                  </svg>
+                  <span>AI 核验结果仅供参考，不能替代医生诊断或个体化治疗建议</span>
+                </p>
               </div>
-
-              <button
-                onClick={handleDualSubmit}
-                disabled={submitting || presetLoading !== null}
-                className="w-full rounded-2xl bg-[#20CDB6] px-4 py-3 font-semibold text-white shadow-[0_14px_34px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-50"
-              >
-                {submitting || presetLoading ? "正在加载预置核验…" : "开始核验双视频"}
-              </button>
-            </div>
-          )}
+          </div>
 
           {error && <p className="mt-4 rounded-2xl bg-red-50 px-4 py-3 text-sm text-red-600">{error}</p>}
         </section>

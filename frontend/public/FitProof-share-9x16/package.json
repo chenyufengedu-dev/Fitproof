@@ -1,0 +1,17 @@
+{
+  "name": "fitproof-share-9x16-handoff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FitProof 900x1600 share-poster renderer and browser preview helpers",
+  "main": "poster/render_mobile_v9_6_9x16.js",
+  "scripts": {
+    "render": "node renderer/render.js",
+    "render:example": "node renderer/render.js examples/poster-data.json docs/preview.png"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}

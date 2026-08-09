@@ -1,0 +1,6 @@
+/* 统一顶部品牌区与主体的浅青背景，避免左上角出现纯白色块。 */
+.poster{
+  background:
+    radial-gradient(circle at 92% 8%, rgba(10,139,126,.06), transparent 28%),
+    linear-gradient(180deg, #f3faf8 0%, #f3faf8 100%);
+}

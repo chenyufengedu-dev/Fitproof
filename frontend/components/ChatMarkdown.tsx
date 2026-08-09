@@ -5,6 +5,8 @@ import remarkGfm from 'remark-gfm'
 type ChatMarkdownProps = {
   content: string
   className?: string
+  /** AI chat content deliberately omits source markers that cannot be opened in a bubble. */
+  stripCitations?: boolean
 }
 
 function Paragraph({ children }: ComponentPropsWithoutRef<'p'>) {
@@ -12,7 +14,11 @@ function Paragraph({ children }: ComponentPropsWithoutRef<'p'>) {
 }
 
 /** Safely renders the small Markdown subset used by AI answer messages. */
-export default function ChatMarkdown({ content, className = '' }: ChatMarkdownProps) {
+export default function ChatMarkdown({ content, className = '', stripCitations = false }: ChatMarkdownProps) {
+  const displayContent = stripCitations
+    ? content.replace(/(^|\s)\[\d+\](?=\s|$|[，。；、,.!！?？])/g, '$1').replace(/\s{2,}/g, ' ').trim()
+    : content
+
   return (
     <div className={`chat-markdown whitespace-normal break-words ${className}`}>
       <ReactMarkdown
@@ -34,7 +40,7 @@ export default function ChatMarkdown({ content, className = '' }: ChatMarkdownPr
           h3: ({ children }) => <p className="mb-1.5 font-black">{children}</p>,
         }}
       >
-        {content}
+        {displayContent}
       </ReactMarkdown>
     </div>
   )

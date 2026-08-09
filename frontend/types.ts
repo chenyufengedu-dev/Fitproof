@@ -55,9 +55,12 @@ export interface Authority {
 export interface Reference {
   id: number
   author: string
+  author_avatar_url?: string
   title: string
   claim: string
   url: string
+  duration_seconds?: number
+  published_at?: string
 }
 
 export interface Claim {
@@ -84,6 +87,22 @@ export interface EvidenceEntry {
   evidence_tier?: '结论' | '全文' | '无' | string
 }
 
+export interface TraceStep {
+  step?: string
+  label: string
+  detail?: string
+  hit_count?: number
+  ms?: number
+  tone?: 'ok' | 'miss' | 'warn'
+}
+
+export type ClaimOriginType = 'traditional' | 'outdated_science' | 'concept_confusion' | 'overgeneralized' | 'commercial'
+
+export interface ClaimOrigin {
+  type: ClaimOriginType
+  explanation: string
+}
+
 export interface VerifyResult {
   verdict: string
   risk_level: string
@@ -97,6 +116,8 @@ export interface VerifyResult {
   claim?: string
   topic?: string
   video_refs?: VideoRef[]
+  trace?: TraceStep[]
+  claim_origin?: ClaimOrigin | null
 }
 
 export interface SingleActionStep {

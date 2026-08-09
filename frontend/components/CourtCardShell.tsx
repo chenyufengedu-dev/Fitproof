@@ -25,7 +25,7 @@ export default function CourtCardShell({ label, index, subtitle, subtitleLeading
       {!hideHeader && (
         <div className={dualShell ? 'px-5 pt-3' : 'px-4 pt-2.5'}>
         <div className="flex items-start justify-between gap-3">
-          <div className={`mt-[2px] min-w-0 ${headerBadge && !hideIndex ? 'min-h-[74px]' : 'min-h-[46px]'}`}>
+          <div className={`min-w-0 ${subtitle ? (headerBadge && !hideIndex ? 'min-h-[74px]' : 'min-h-[46px]') : 'min-h-[23px]'}`}>
             <div className="flex min-w-0 items-center gap-1.5">
               <span className={dualShell ? 'h-2 w-2 shrink-0 rounded-full bg-[#20CDB6] shadow-[0_0_16px_rgba(32,205,182,0.65)]' : 'h-1.5 w-1.5 shrink-0 rounded-full bg-[#20CDB6]'} />
               <h2 className="truncate text-[18px] font-bold leading-[23px] tracking-wide text-slate-950">{label}</h2>
@@ -34,8 +34,8 @@ export default function CourtCardShell({ label, index, subtitle, subtitleLeading
               {subtitle && <p className="mt-1.5 flex items-center gap-1 truncate text-[11px] leading-[14px] text-slate-400">{subtitleLeading}{subtitle}</p>}
             </div>
           </div>
-            <div className={`flex shrink-0 flex-col items-end gap-1 ${hideIndex ? 'mt-[10px]' : ''}`}>
-              {!hideIndex && <span className={`${dualShell ? 'text-[25px]' : 'text-[46px]'} font-black leading-none tracking-tight text-[#20CDB6]/25`}>
+            <div className={`flex shrink-0 flex-col items-end gap-1 ${hideIndex ? 'mt-[10px]' : 'pt-px'}`}>
+              {!hideIndex && <span className={`${dualShell ? 'text-[20px] leading-[23px]' : 'text-[38px]'} font-black tracking-tight text-[#20CDB6]/25`}>
                 {String(index).padStart(2, '0')}
               </span>}
               {headerBadge}
@@ -44,14 +44,16 @@ export default function CourtCardShell({ label, index, subtitle, subtitleLeading
         </div>
       )}
       {!hideHeader && !subtitle && <div className={`${dualShell ? 'mx-5 mt-1' : 'mx-4 mt-2'} h-px bg-[#20CDB6]/10`} />}
-      <div className={`min-h-0 flex-1 ${contentScrollable ? 'overflow-y-auto' : 'overflow-hidden'} ${hideHeader ? 'px-5 pb-4 pt-5' : dualShell ? 'px-5 pb-2 pt-3' : 'px-4 pb-2 pt-2'}`}>
+      {/* touch-pan-y：内容区只允许纵向原生滚动，横向手势留给外层做翻页/退出拖拽（否则滚动容器会吞掉横滑、
+          导致「只能在标题或空白处才能滑卡」）。select-none：拖动时不选中文字。 */}
+      <div className={`min-h-0 flex-1 touch-pan-y select-none ${contentScrollable ? 'fitproof-scrollbar overflow-y-auto' : 'overflow-hidden'} ${hideHeader ? 'px-5 pb-4 pt-5' : dualShell ? 'px-5 pb-2 pt-3' : 'px-4 pb-2 pt-2'}`}>
         {children}
       </div>
       {/* 免责声明压成一行：删掉「本产品用于健康说法核验」这句自我介绍（顶栏胶囊已写），
           保留真正有法律意义的半句，给上面的内容腾高度。 */}
       <div className={`${dualShell ? 'mx-5' : 'mx-4'} border-t border-[#20CDB6]/10 py-2`}>
         <p className="flex items-center justify-center gap-1.5 text-center text-[10px] leading-tight text-slate-400">
-          <svg className="h-4 w-4 shrink-0 text-slate-400" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+          <svg className="h-4 w-4 shrink-0 text-[#9DDDD4]" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
             <path d="M10 2.5 4 5v4.5c0 3.6 2.5 6.9 6 8 3.5-1.1 6-4.4 6-8V5l-6-2.5Z" strokeLinejoin="round" />
             <path d="m7.3 10 1.8 1.8 3.8-3.8" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />
           </svg>

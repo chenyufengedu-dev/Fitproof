@@ -3,6 +3,8 @@
 import { useLayoutEffect, useMemo, useRef, useState } from 'react'
 import ChatMarkdown from '@/components/ChatMarkdown'
 import { StepIcon } from '@/components/StepIcon'
+import VerifyTopBar from '@/components/VerifyTopBar'
+import CardPager from '@/components/CardPager'
 import type { Analysis, Authority, ChatMessage, Misleading, Reference, VideoRef } from '@/types'
 
 interface ResultPageProps {
@@ -21,6 +23,10 @@ interface DrawerItem {
   hrefLabel?: string
 }
 interface DrawerData {
+  title: string
+  items: DrawerItem[]
+}
+interface MetricDetail {
   title: string
   items: DrawerItem[]
 }
@@ -191,30 +197,76 @@ function VideoSourceMark({
 }
 
 function ComparisonVideoTile({ label, reference, tone }: { label: string; reference?: Reference; tone: 'teal' | 'blue' }) {
-  const palette = tone === 'teal'
-    ? 'border-[#CDEDE7] bg-[#F4FCFA] text-[#078C7E]'
-    : 'border-[#DCE8F8] bg-[#F5F9FF] text-[#5C7EB4]'
-  return (
-    <div className={`min-w-0 rounded-[13px] border p-1 ${palette}`}>
-      <p className="text-[10px] font-black">{label}</p>
-      <div className="mt-0.5 flex items-stretch gap-1">
-        <span className={`flex h-10 w-12 shrink-0 items-center justify-center rounded-[9px] border bg-white/80 ${tone === 'teal' ? 'border-[#BFECE5]' : 'border-sky-200'}`} aria-label={`${label} 画面占位`}>
-          <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="12" r="8.5" /><path d="m10 8 5 4-5 4V8Z" fill="currentColor" stroke="none" /></svg>
-        </span>
-        <p className="h-[30px] min-w-0 flex-1 overflow-hidden text-[10px] font-medium leading-[15px] text-slate-800" style={{ display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 2 }}>{shortVideoPoint(reference?.claim || reference?.title || '视频观点待补充')}</p>
+  const palette = tone === 'teal' ? 'text-[#078C7E]' : 'text-[#5C7EB4]'
+  const uid = `vt-${tone}`
+  // 丝绸质感的底纹：用连续贝塞尔曲线画三条宽窄不一的光带，靠渐变自身的浓淡产生体积，
+  // 不再用「旋转的椭圆 + 半透明白边」堆叠（那种做法边缘会露出生硬的椭圆弧，是廉价感的来源）。
+  const wash = tone === 'teal'
+    ? { a: '#F4FDFB', b: '#DCF3EE', c: '#B6E4DA', glow: 'rgba(255,255,255,0.95)' }
+    : { a: '#F7FBFF', b: '#E4EFFC', c: '#C3D9F4', glow: 'rgba(255,255,255,0.95)' }
+  const body = <div className="relative z-10 flex aspect-[4/3] items-center justify-center overflow-hidden rounded-[0_14px_14px_14px] shadow-[0_1px_2px_rgba(16,24,40,0.06),0_10px_24px_-12px_rgba(12,90,82,0.30)]">
+    <svg className="absolute inset-0 h-full w-full" viewBox="0 0 200 150" preserveAspectRatio="none" aria-hidden="true">
+      <defs>
+        <linearGradient id={`${uid}-bg`} x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stopColor={wash.a} />
+          <stop offset="55%" stopColor={wash.b} />
+          <stop offset="100%" stopColor={wash.c} />
+        </linearGradient>
+        <linearGradient id={`${uid}-silk`} x1="0" y1="0" x2="1" y2="0.4">
+          <stop offset="0%" stopColor={wash.glow} stopOpacity="0" />
+          <stop offset="45%" stopColor={wash.glow} stopOpacity="0.85" />
+          <stop offset="100%" stopColor={wash.glow} stopOpacity="0.05" />
+        </linearGradient>
+        <linearGradient id={`${uid}-silk2`} x1="0.1" y1="0" x2="0.9" y2="1">
+          <stop offset="0%" stopColor={wash.c} stopOpacity="0.55" />
+          <stop offset="100%" stopColor={wash.c} stopOpacity="0" />
+        </linearGradient>
+      </defs>
+      <rect width="200" height="150" fill={`url(#${uid}-bg)`} />
+      <path d="M-10 96C28 74 52 108 92 88s60-46 122-30v100H-10Z" fill={`url(#${uid}-silk2)`} />
+      <path d="M-10 62C30 40 58 78 96 60s62-40 118-22" stroke={`url(#${uid}-silk)`} strokeWidth="13" fill="none" strokeLinecap="round" />
+      <path d="M-10 84C34 64 56 98 100 80s66-34 116-18" stroke={`url(#${uid}-silk)`} strokeWidth="6" fill="none" strokeLinecap="round" opacity="0.75" />
+      <path d="M-10 116C36 98 60 128 104 112s62-24 112-12" stroke={`url(#${uid}-silk)`} strokeWidth="9" fill="none" strokeLinecap="round" opacity="0.5" />
+    </svg>
+    <span className="relative grid h-[46px] w-[46px] place-items-center rounded-full bg-white shadow-[0_6px_16px_rgba(12,90,82,0.18)]">
+      <svg className="ml-[2px] h-[22px] w-[22px]" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M7.2 4.4C6.1 3.75 4.7 4.55 4.7 5.83v8.35c0 1.29 1.4 2.08 2.5 1.43l7.1-4.18c1.12-.66 1.12-2.26 0-2.92L7.2 4.4Z" fill="currentColor" /></svg>
+    </span>
+  </div>
+  // 文件夹标签页效果。标签和视频框是两个独立盒子上下堆叠，不是一整段 SVG path——
+  // 整体轮廓画成一条 path 再缩放，圆角会被非等比拉伸、且和下方方框对不齐。
+  // 三个要点：①标签底边和框顶边重叠 1px（-mb-px）消除接缝
+  //          ②框的左上角必须是直角，否则标签根部会露出缺口
+  //          ③标签尺寸写死 64×23 不参与缩放，所以这里用 SVG path 画反而是安全的，
+  //            且只有 path 能做出圆润斜肩（clip-path polygon 的顶点永远是尖角）
+  // 四个转角均为二次贝塞尔倒角：左上 r7、斜肩起收各 r4。
+  // 斜肩在 20px 高度上只右移 7px（约 19°），接近矩形——斜度一大就成了「梯形吊牌」。
+  // 宽度 58 = 左内边距 10 + 文字墨迹约 31 + 斜肩占 7 + 余量 10，收住不空。
+  const tabTop = tone === 'teal' ? '#12A697' : '#6094D2'
+  const tabBottom = tone === 'teal' ? '#068275' : '#4A7CBE'
+  return <div className={`relative min-w-0 ${palette}`}>
+    <div className="flex flex-col">
+      <div className="relative -mb-px h-[20px] w-[58px] drop-shadow-[0_3px_6px_rgba(7,132,119,0.16)]">
+        <svg className="absolute inset-0 h-full w-full" viewBox="0 0 58 20" aria-hidden="true">
+          <defs>
+            <linearGradient id={`${uid}-tab`} x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stopColor={tabTop} />
+              <stop offset="100%" stopColor={tabBottom} />
+            </linearGradient>
+          </defs>
+          <path d="M0 20V7Q0 0 7 0H47Q51 0 52.3 3.8L56.7 16.2Q58 20 54 20Z" fill={`url(#${uid}-tab)`} />
+        </svg>
+        <span className="absolute inset-0 flex items-center pl-2.5 text-[10px] font-bold tracking-[0.02em] text-white">{label}</span>
       </div>
+      {reference?.url
+        ? <a className="relative block" href={reference.url} target="_blank" rel="noreferrer" aria-label={`打开${label}原视频`}>{body}</a>
+        : body}
     </div>
-  )
+  </div>
 }
 
-function shortVideoPoint(text: string) {
-  const compact = text.replace(/\s+/g, '').replace(/[。；;，,].*$/, '').trim()
-  return Array.from(compact).length > 12 ? `${Array.from(compact).slice(0, 12).join('')}…` : compact
-}
-
-function ConclusionMetric({ label, value, tone, icon }: { label: string; value: string; tone: 'teal' | 'dark' | 'amber' | 'blue'; icon: React.ReactNode }) {
+function ConclusionMetric({ label, value, tone, icon, onClick }: { label: string; value: string; tone: 'teal' | 'dark' | 'amber' | 'blue'; icon: React.ReactNode; onClick: () => void }) {
   const cls = tone === 'dark' ? 'border-[#CDEDE7] bg-[#E8F8F5] text-[#078C7E]' : tone === 'amber' ? 'border-amber-200 bg-amber-50 text-amber-700' : tone === 'blue' ? 'border-sky-200 bg-sky-50 text-sky-700' : 'border-[#CDEDE7] bg-[#F3FBF9] text-[#078C7E]'
-  return <div className={`flex min-w-0 items-center justify-center gap-1 rounded-[9px] border px-1 py-1.5 ${cls}`}><span className="shrink-0">{icon}</span><span className="min-w-0"><span className="block truncate text-[8px] leading-none opacity-80">{label}</span><span className="mt-0.5 block text-[13px] font-black leading-none">{value}</span></span></div>
+  return <button type="button" onClick={onClick} className={`flex h-[40px] min-w-0 items-center justify-center gap-2 rounded-[12px] border px-1.5 py-1 text-left transition hover:-translate-y-px hover:brightness-[0.98] ${cls}`}><span className="shrink-0">{icon}</span><span className="min-w-0"><span className="block truncate text-[9px] leading-none opacity-80">{label}</span><span className="mt-1 block text-[14px] font-black leading-none">{value}</span></span></button>
 }
 
 export default function ResultPage({
@@ -230,6 +282,7 @@ export default function ResultPage({
   const [exporting, setExporting] = useState(false)
   const [exportError, setExportError] = useState('')
   const [drawer, setDrawer] = useState<DrawerData | null>(null)
+  const [metricDetail, setMetricDetail] = useState<MetricDetail | null>(null)
   const [dragDir, setDragDir] = useState<-1 | 1 | null>(null)
   const [expandedConclusion, setExpandedConclusion] = useState(false)
   const [expandedConsensus, setExpandedConsensus] = useState<Record<number, boolean>>({})
@@ -502,9 +555,6 @@ export default function ResultPage({
     key: 'conclusion',
     label: '核验结论',
     exportable: true,
-    evidenceItems: makeEvidenceItems({ all: true }),
-    evidenceLabel: '查看全部依据',
-    evidenceTitle: '全部依据',
     node: (
       <div className="space-y-2.5">
         <div className="grid grid-cols-[minmax(0,1fr)_18px_minmax(0,1fr)] items-center gap-1">
@@ -513,36 +563,35 @@ export default function ResultPage({
           <ComparisonVideoTile label="视频 B" reference={secondReference} tone="blue" />
         </div>
 
-        <section className="rounded-[16px] border border-[#CDEDE7] bg-white px-2.5 py-1.5">
+        <section className="rounded-[18px] border border-[#9FE4D9] bg-[linear-gradient(135deg,#FFFFFF_0%,#F0FCF9_100%)] px-3 py-2.5">
           <div className="flex items-center justify-between gap-3">
-            <span className="rounded-full bg-[#078C7E] px-2 py-0.5 text-[9px] font-black tracking-wide text-white">AI 综合结论</span>
-            <span className="rounded-full bg-[#E6F8F4] px-2 py-0.5 text-[9px] font-black text-[#078C7E]">{conclusionVerdict}</span>
+            <span className="inline-flex items-center gap-1 rounded-full bg-[#078C7E] px-2.5 py-1 text-[9px] font-black tracking-wide text-white"><span className="text-[13px] leading-none">✦</span>AI 综合结论</span>
+            <span className="rounded-full bg-[#E6F8F4] px-2.5 py-1 text-[10px] font-black text-[#078C7E]">{conclusionVerdict}</span>
           </div>
-          <p className="mt-1 text-[16px] font-black leading-[1.25] text-slate-950">{roughConclusion}</p>
-          <div className="mt-0.5 flex items-end gap-1">
-            <p className="min-w-0 flex-1 text-[10px] leading-[1.35] text-[#64748B]" style={expandedConclusion ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 2, overflow: 'hidden' }}>更准确的结论：{analysis.one_line_summary}</p>
+          <p className="mt-2 text-[16px] font-black leading-[1.2] text-slate-950">{roughConclusion}</p>
+          <div className="mt-1 flex items-end gap-1">
+            <p className="min-w-0 flex-1 text-[11px] leading-[1.45] text-[#52627E]" style={expandedConclusion ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 1, overflow: 'hidden' }}>更准确的结论：{analysis.one_line_summary}</p>
             {Array.from(analysis.one_line_summary).length > 42 && <button type="button" onClick={() => setExpandedConclusion((open) => !open)} className="mb-0.5 shrink-0 p-0.5 text-[#078C7E]" aria-label={expandedConclusion ? '收起完整结论' : '展开完整结论'}><svg className={`h-3.5 w-3.5 transition-transform ${expandedConclusion ? 'rotate-180' : ''}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" /></svg></button>}
           </div>
         </section>
 
-        <section className="flex items-center gap-2.5 rounded-[15px] border border-[#CDEDE7] bg-white px-2.5 py-1.5">
-          <div className="grid h-[52px] w-[52px] shrink-0 place-items-center rounded-full" style={{ background: `conic-gradient(#20CDB6 ${conclusionScore * 3.6}deg, #DCEFED 0deg)` }}>
-            <div className="flex h-[39px] w-[39px] flex-col items-center justify-center rounded-full bg-white text-center"><span className="text-[15px] font-black leading-none text-[#078C7E]">{conclusionScore}<small className="text-[8px]">%</small></span><span className="mt-0.5 text-[7px] leading-none text-slate-400">结论信度</span></div>
+        <section className="grid grid-cols-[94px_minmax(0,1fr)] items-center gap-3 rounded-[18px] border border-[#CDEDE7] bg-white px-3 py-3">
+          <div className="relative grid h-[88px] w-[88px] place-items-center">
+            <svg className="absolute inset-0 -rotate-90" viewBox="0 0 88 88" aria-label={`结论信度 ${conclusionScore}%`}><circle cx="44" cy="44" r="37" fill="none" stroke="#DCEFED" strokeWidth="11" /><circle cx="44" cy="44" r="37" fill="none" stroke="#20CDB6" strokeWidth="11" strokeLinecap="round" strokeDasharray={`${(conclusionScore / 100) * 232.5} 232.5`} /></svg>
+            <div className="relative flex h-[66px] w-[66px] flex-col items-center justify-center rounded-full bg-white text-center"><span className="text-[24px] font-black leading-none text-[#078C7E]">{conclusionScore}<small className="text-[11px]">%</small></span><span className="mt-1 text-[8px] leading-none text-slate-400">结论信度</span></div>
           </div>
-          <p className="border-l border-[#BFECE5] pl-2.5 text-[10px] leading-[1.35] text-[#5E6E89]">依据视频出处、专业依据与分歧情况综合判断；信度会随证据完整度动态变化。</p>
+          <div className="grid grid-cols-2 gap-2">
+            <ConclusionMetric label="视频观点" value={`${analysis.references.length} 条`} tone="teal" onClick={() => setMetricDetail({ title: '视频观点', items: analysis.references.map((reference) => ({ main: `视频 ${reference.id} · ${reference.author}`, sub: reference.claim, href: reference.url, hrefLabel: '看原视频' })) })} icon={<svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M4 5.5h11A3.5 3.5 0 0 1 18.5 9v5A3.5 3.5 0 0 1 15 17.5H9l-4.5 3v-3.8A3.5 3.5 0 0 1 2 13.5V9A3.5 3.5 0 0 1 5.5 5.5Z" /></svg>} />
+            <ConclusionMetric label="专业依据" value={`${authorities.length} 条`} tone="dark" onClick={() => setMetricDetail({ title: '专业依据', items: authorities.map((authority) => ({ main: authority.name, sub: authority.note })) })} icon={<svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="5" y="3" width="14" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" strokeLinecap="round" /></svg>} />
+            <ConclusionMetric label="风险提示" value={`${misleading.length} 项`} tone="amber" onClick={() => setMetricDetail({ title: '风险提示', items: misleading.map((item) => ({ main: item.claim, sub: item.correction })) })} icon={<svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M12 4 3.5 19h17L12 4Z" strokeLinejoin="round" /><path d="M12 9v4M12 16v.1" strokeLinecap="round" /></svg>} />
+            <ConclusionMetric label="适用条件" value={`${analysis.recommendations.length} 项`} tone="blue" onClick={() => setMetricDetail({ title: '适用条件', items: analysis.recommendations.map((item) => ({ main: item.condition, sub: item.advice })) })} icon={<svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="8" r="3" /><path d="M5.5 21c.7-4.1 3.1-6.2 6.5-6.2s5.8 2.1 6.5 6.2" strokeLinecap="round" /></svg>} />
+          </div>
         </section>
-
-        <div className="grid grid-cols-4 gap-1.5">
-          <ConclusionMetric label="视频观点" value={`${analysis.references.length} 条`} tone="teal" icon={<svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M4 5.5h11A3.5 3.5 0 0 1 18.5 9v5A3.5 3.5 0 0 1 15 17.5H9l-4.5 3v-3.8A3.5 3.5 0 0 1 2 13.5V9A3.5 3.5 0 0 1 5.5 5.5Z" /></svg>} />
-          <ConclusionMetric label="专业依据" value={`${authorities.length} 条`} tone="dark" icon={<svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="5" y="3" width="14" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" strokeLinecap="round" /></svg>} />
-          <ConclusionMetric label="风险提示" value={`${misleading.length} 项`} tone="amber" icon={<svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M12 4 3.5 19h17L12 4Z" strokeLinejoin="round" /><path d="M12 9v4M12 16v.1" strokeLinecap="round" /></svg>} />
-          <ConclusionMetric label="适用条件" value={`${analysis.recommendations.length} 项`} tone="blue" icon={<svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="8" r="3" /><path d="M5.5 21c.7-4.1 3.1-6.2 6.5-6.2s5.8 2.1 6.5 6.2" strokeLinecap="round" /></svg>} />
-        </div>
 
         <section className="rounded-[15px] border border-[#CDEDE7] bg-white p-2">
           <p className="flex items-center gap-1.5 text-[13px] font-black text-slate-900"><span className="grid h-5 w-5 place-items-center rounded-[6px] bg-[#E6F8F4] text-[#078C7E]"><svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="m5 12 4 4L19 6" strokeLinecap="round" strokeLinejoin="round" /></svg></span>判断依据</p>
-          <div className="mt-1 space-y-1">
-            {decisionBasis.map((item, index) => <div key={item.label} className="flex items-center gap-1.5 rounded-[8px] bg-[#F7FBFB] px-1.5 py-1"><span className={`grid h-[15px] w-[15px] shrink-0 place-items-center rounded-full ${item.tone === 'amber' ? 'bg-amber-100 text-amber-600' : item.tone === 'blue' ? 'bg-sky-100 text-sky-600' : 'bg-[#E6F8F4] text-[#078C7E]'}`}>{index === 0 ? <svg className="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="12" r="7" /><circle cx="12" cy="12" r="3" /></svg> : index === 1 ? <svg className="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M4 8h12m0 0-3-3m3 3-3 3M20 16H8m0 0 3-3m-3 3 3 3" strokeLinecap="round" strokeLinejoin="round" /></svg> : index === 2 ? <svg className="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="8" r="3" /><path d="M6.5 20c.7-3.5 2.5-5.2 5.5-5.2s4.8 1.7 5.5 5.2" strokeLinecap="round" /></svg> : <svg className="h-3 w-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 5 4.5 19h15L12 5Z" strokeLinejoin="round" /><path d="M12 10v4M12 16v.1" strokeLinecap="round" /></svg>}</span><p className="min-w-0 truncate text-[9px] leading-tight text-[#5E6E89]"><b className="text-slate-800">{item.label}：</b>{item.text}</p></div>)}
+          <div className="mt-1.5 space-y-1.5">
+            {decisionBasis.map((item, index) => <button key={item.label} type="button" onClick={() => setMetricDetail({ title: item.label, items: [{ main: item.label, sub: item.text }] })} className="relative flex min-h-7 w-full items-center gap-1.5 text-left"><span className={`relative z-10 grid h-6 w-6 shrink-0 place-items-center rounded-full ${item.tone === 'amber' ? 'bg-[#FFF0D1] text-[#E98700]' : item.tone === 'blue' ? 'bg-[#E2EDFF] text-[#3583D9]' : 'bg-[#E4F8F4] text-[#078C7E]'}`}>{index === 0 ? <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="12" r="7" /><circle cx="12" cy="12" r="3" /></svg> : index === 1 ? <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M4 8h12m0 0-3-3m3 3-3 3M20 16H8m0 0 3-3m-3 3 3 3" strokeLinecap="round" strokeLinejoin="round" /></svg> : index === 2 ? <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><circle cx="12" cy="8" r="3" /><path d="M6.5 20c.7-3.5 2.5-5.2 5.5-5.2s4.8 1.7 5.5 5.2" strokeLinecap="round" /></svg> : <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 5 4.5 19h15L12 5Z" strokeLinejoin="round" /><path d="M12 10v4M12 16v.1" strokeLinecap="round" /></svg>}{index < decisionBasis.length - 1 && <span className="absolute left-1/2 top-6 h-[9px] w-px -translate-x-1/2 bg-[#9FE4D9]" />}</span><p className="min-w-0 truncate text-[11px] leading-tight text-[#5E6E89]"><b className="text-slate-800">{item.label}：</b>{item.text}</p></button>)}
           </div>
         </section>
 
@@ -578,7 +627,7 @@ export default function ResultPage({
             const isOpen = Boolean(expandedConsensus[i])
             const canExpand = Array.from(c.point).length > 38
             return (
-              <section key={i} className="rounded-[18px] border border-[#DCEFED] bg-white px-3 py-3 shadow-[0_8px_20px_rgba(18,116,103,0.06)]">
+              <section key={i} className="rounded-[18px] bg-[#FCFFFE] px-3 py-3 shadow-[0_8px_20px_rgba(18,116,103,0.055)]">
                 <div className="flex items-start gap-2.5">
                   <span className="mt-0.5 grid h-10 w-10 shrink-0 place-items-center rounded-full bg-[#E6F8F4] text-[#078C7E]">
                     {i % 2 === 0 ? <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="m12 3 7 3v5c0 4.2-2.8 8-7 10-4.2-2-7-5.8-7-10V6l7-3Z" strokeLinejoin="round" /><path d="m8.5 12 2.2 2.2 4.8-4.8" strokeLinecap="round" strokeLinejoin="round" /></svg> : <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="5" y="4" width="14" height="17" rx="2" /><path d="M9 9h6M9 13h6M9 17h3" strokeLinecap="round" /></svg>}
@@ -586,7 +635,7 @@ export default function ResultPage({
                   <div className="min-w-0 flex-1">
                     <div className="flex items-center justify-between gap-2">
                       <p className="text-[12px] font-black text-[#078C7E]">共识 {i + 1}</p>
-                      <span className="flex items-center gap-1 text-[10px] text-[#64748B]">支持度 <b className="text-[#078C7E]">{support}</b><span className="flex items-end gap-0.5 text-[#20CDB6]"><i className="h-2 w-1 rounded-sm bg-current" /><i className="h-3 w-1 rounded-sm bg-current" /><i className="h-4 w-1 rounded-sm bg-current" /><i className={`h-5 w-1 rounded-sm ${support === '高' ? 'bg-current' : 'bg-slate-200'}`} /></span></span>
+                      <span className="inline-flex h-5 shrink-0 items-end gap-1 text-[10px] text-[#64748B]"><span className="inline-flex translate-y-px items-end gap-1 leading-none">支持度 <b className="font-black text-[#078C7E]">{support}</b></span><span className="flex h-5 items-end gap-0.5 text-[#20CDB6]" aria-label={`支持度${support}`}><i className="h-2 w-1 rounded-sm bg-current" /><i className="h-3 w-1 rounded-sm bg-current" /><i className="h-4 w-1 rounded-sm bg-current" /><i className={`h-5 w-1 rounded-sm ${support === '高' ? 'bg-current' : 'bg-slate-200'}`} /></span></span>
                     </div>
                     <div className="mt-1 flex items-end gap-1">
                       <p className="min-w-0 flex-1 text-[14px] font-medium leading-[1.45] text-slate-900" style={isOpen ? undefined : { display: '-webkit-box', WebkitBoxOrient: 'vertical', WebkitLineClamp: 2, overflow: 'hidden' }}>{c.point}</p>
@@ -864,7 +913,7 @@ export default function ResultPage({
           基于数据库与权威文献回答，不引入无关外部信息。
         </p>
 
-        <div className="flex-1 space-y-2.5 overflow-y-auto">
+        <div className="fitproof-scrollbar flex-1 space-y-2.5 overflow-y-auto">
           {history.length === 0 && (
             <div className="space-y-2.5">
               <div className="rounded-[22px] border border-[#CDEDE7] bg-[#EFFAF8] px-3.5 py-2">
@@ -907,22 +956,27 @@ export default function ResultPage({
             </div>
           )}
 
-          {history.map((m, i) => (
-            <div
-              key={i}
-              className={`max-w-[88%] whitespace-pre-wrap rounded-2xl px-3.5 py-2.5 text-sm leading-relaxed ${
-                m.role === 'user'
-                  ? 'ml-auto rounded-br-md bg-[#20CDB6] text-white'
-                  : 'mr-auto rounded-bl-md border border-[#20CDB6]/20 bg-[#f3fbf9] text-slate-700'
-              }`}
-            >
-              {m.role === 'user' ? m.content : <ChatMarkdown content={m.content} />}
+          {history.map((m, i) => m.role === 'user' ? (
+            <div key={i} className="ml-auto max-w-[88%] whitespace-pre-wrap rounded-2xl rounded-br-md bg-[#20CDB6] px-3.5 py-2.5 text-sm leading-relaxed text-white">
+              {m.content}
+            </div>
+          ) : (
+            <div key={i} className="mr-auto flex max-w-[94%] items-end gap-2">
+              <span className="grid h-8 w-8 shrink-0 place-items-center overflow-hidden rounded-full border border-[#BFECE5] bg-[#EFFAF8]" role="img" aria-label="FitProof AI 头像">
+                <span className="fitproof-answer-cat h-[28px] w-[48px] shrink-0 scale-[0.55]" aria-hidden="true" />
+              </span>
+              <div className="min-w-0 rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-sm leading-relaxed text-slate-700">
+                <ChatMarkdown content={m.content} stripCitations />
+              </div>
             </div>
           ))}
 
           {sending && (
-            <div className="mr-auto rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#f3fbf9] px-3.5 py-2.5 text-sm text-slate-400">
-              正在核验回答…
+            <div className="mr-auto flex items-end gap-2">
+              <span className="grid h-8 w-8 shrink-0 place-items-center overflow-hidden rounded-full border border-[#BFECE5] bg-[#EFFAF8]" role="img" aria-label="FitProof AI 正在思考">
+                <span className="fitproof-answer-cat h-[28px] w-[48px] shrink-0 scale-[0.55]" aria-hidden="true" />
+              </span>
+              <div className="rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-sm text-slate-400">正在核验回答…</div>
             </div>
           )}
         </div>
@@ -1089,18 +1143,18 @@ export default function ResultPage({
     return (
       <div className="flex h-full w-full select-none flex-col overflow-hidden rounded-[28px] border border-[#CDEDE7] bg-white shadow-[0_18px_52px_rgba(18,116,103,0.14)]">
         <div className="h-1.5 bg-gradient-to-r from-[#20CDB6] via-[#20CDB6]/75 to-[#20CDB6]/10" />
-        <div className="flex items-start justify-between px-5 pt-3">
+        <div className="flex items-center justify-between px-5 pt-3">
           <div className="flex items-center gap-2">
             <span className="h-2 w-2 rounded-full bg-[#20CDB6] shadow-[0_0_16px_rgba(32,205,182,0.65)]" />
             <h2 className="text-[18px] font-bold tracking-wide text-slate-950">{section.label}</h2>
           </div>
-          <span className="text-[25px] font-black leading-none tracking-tight text-[#20CDB6]/25">
+          <span className="text-[20px] font-black leading-[23px] tracking-tight text-[#20CDB6]/25">
             {String(sections.indexOf(section) + 1).padStart(2, '0')}
           </span>
         </div>
         <div className="mx-5 mt-1 h-px bg-[#20CDB6]/10" />
         <div
-          className={`flex-1 touch-pan-y overflow-y-auto px-5 pt-3 ${section.key === 'followup' ? 'pb-0' : 'pb-4'}`}
+          className={`fitproof-scrollbar flex-1 touch-pan-y overflow-y-auto px-5 pt-3 ${section.key === 'followup' ? 'pb-0' : 'pb-4'}`}
           onPointerDown={onContentPointerDown}
           onPointerMove={onContentPointerMove}
           onPointerUp={onContentPointerUp}
@@ -1122,7 +1176,7 @@ export default function ResultPage({
         )}
         <div className="mx-5 border-t border-[#20CDB6]/10 py-2">
           <p className="flex items-center justify-center gap-1.5 text-center text-[10px] leading-tight text-slate-400">
-            <svg className="h-4 w-4 shrink-0 text-slate-400" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+            <svg className="h-4 w-4 shrink-0 text-[#9DDDD4]" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
               <path d="M10 2.5 4 5v4.5c0 3.6 2.5 6.9 6 8 3.5-1.1 6-4.4 6-8V5l-6-2.5Z" strokeLinejoin="round" />
               <path d="m7.3 10 1.8 1.8 3.8-3.8" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />
             </svg>
@@ -1134,24 +1188,15 @@ export default function ResultPage({
   }
 
   return (
-    <main className="fitproof-particle-field relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)]">
-      <header className="relative z-10 flex items-center justify-between px-5 py-3">
-        <button onClick={onBack} aria-label="返回" className="flex h-10 w-10 items-center justify-center rounded-full text-[#078C7E] transition hover:bg-white/70">
-          <svg className="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true"><path d="m14.5 5-7 7 7 7" strokeLinecap="round" strokeLinejoin="round" /></svg>
-        </button>
-        <div className="max-w-[42%] truncate rounded-full border border-[#20CDB6]/15 bg-white/75 px-3 py-1 text-sm font-semibold text-[#128f80] shadow-sm backdrop-blur">
-          <span className="mr-1 text-[#20CDB6]">●</span>
-          {topic}
-        </div>
-        <span className="rounded-full border border-[#20CDB6]/25 bg-white/75 px-4 py-1.5 text-[17px] font-black text-[#078C7E] shadow-sm backdrop-blur">{index + 1} / {sections.length}</span>
-      </header>
+    <main className="fitproof-particle-field relative flex h-[calc(100dvh-54px)] flex-col overflow-hidden bg-[radial-gradient(circle_at_50%_0%,rgba(32,205,182,0.18),transparent_42%),linear-gradient(180deg,#f7fffd_0%,#eef8f6_100%)]">
+      <VerifyTopBar topic={topic} page={index + 1} total={sections.length} onBack={onBack} />
 
       {/* 单卡拖拽区 */}
-      <div className="relative z-10 flex-1 overflow-hidden px-5 py-2">
+      <div className="relative z-10 flex-1 overflow-hidden px-5 py-0">
         {behind && (
           <div
             ref={behindRef}
-            className="absolute inset-x-5 inset-y-2 opacity-75 will-change-transform"
+            className="absolute inset-x-5 inset-y-0 opacity-75 will-change-transform"
             style={{ transform: BEHIND_BASE }}
           >
             {renderCard(behind)}
@@ -1159,7 +1204,7 @@ export default function ResultPage({
         )}
         <div
           ref={frontRef}
-          className="absolute inset-x-5 inset-y-2 cursor-grab touch-pan-y will-change-transform active:cursor-grabbing"
+          className="absolute inset-x-5 inset-y-0 cursor-grab touch-pan-y will-change-transform active:cursor-grabbing"
           onPointerDown={onPointerDown}
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
@@ -1169,22 +1214,8 @@ export default function ResultPage({
         </div>
       </div>
 
-      <footer className="relative z-10 flex flex-col items-center gap-1 px-5 pb-3 pt-1">
-        <div className="flex h-[26px] w-full max-w-[300px] items-center gap-2 rounded-full border border-white/70 bg-white/[0.70] px-3 shadow-sm backdrop-blur">
-          {sections.map((s, i) => (
-            <button
-              key={s.key}
-              onClick={() => setIndex(i)}
-              aria-label={s.label}
-              className={`h-1.5 flex-1 rounded-full transition-all ${
-                i === index ? 'bg-[#20CDB6] shadow-[0_0_10px_rgba(32,205,182,0.45)]' : 'bg-[#20CDB6]/[0.18]'
-              }`}
-            />
-          ))}
-        </div>
-        <span className="text-[11px] leading-none text-slate-400">← 左右滑动翻页 →</span>
-        {exportError && <p className="text-xs text-red-600">{exportError}</p>}
-      </footer>
+      <CardPager count={sections.length} activeIndex={index} labels={sections.map((section) => section.label)} onSelect={setIndex} />
+      {exportError && <p className="relative z-10 text-center text-xs text-red-600">{exportError}</p>}
 
       {/* 底部抽屉 */}
       {drawer && (
@@ -1192,7 +1223,7 @@ export default function ResultPage({
           <div className="absolute inset-0 animate-fadeIn bg-black/40" />
           <div
             onClick={(e) => e.stopPropagation()}
-            className="animate-slideUp relative z-50 max-h-[70vh] overflow-y-auto rounded-t-3xl bg-white px-6 pb-8 pt-5"
+            className="fitproof-scrollbar animate-slideUp relative z-50 max-h-[70vh] overflow-y-auto rounded-t-3xl bg-white px-6 pb-8 pt-5"
           >
             <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-zinc-200" />
             <p className="mb-3 text-sm font-medium text-zinc-900">{drawer.title}</p>
@@ -1221,6 +1252,15 @@ export default function ResultPage({
               收起
             </button>
           </div>
+        </div>
+      )}
+
+      {metricDetail && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/25 px-5 backdrop-blur-[2px]" onClick={() => setMetricDetail(null)}>
+          <section onClick={(event) => event.stopPropagation()} className="max-h-[70vh] w-full max-w-sm overflow-y-auto rounded-[24px] border border-[#BFECE5] bg-white p-4 shadow-[0_20px_48px_rgba(11,110,99,0.22)]">
+            <header className="flex items-center justify-between gap-3"><h3 className="text-[17px] font-black text-[#17243B]">{metricDetail.title}</h3><button type="button" onClick={() => setMetricDetail(null)} className="grid h-7 w-7 place-items-center rounded-full bg-[#EFFAF8] text-lg text-[#078C7E]" aria-label="关闭详情">×</button></header>
+            <div className="mt-3 space-y-2">{metricDetail.items.length > 0 ? metricDetail.items.map((item, itemIndex) => <article key={`${item.main}-${itemIndex}`} className="rounded-[14px] border border-[#DCEFED] bg-[#F9FFFD] px-3 py-2.5"><p className="text-[13px] font-bold leading-[1.4] text-[#17243B]">{item.main}</p>{item.sub && <p className="mt-1 text-[11px] leading-[1.5] text-[#52627E]">{item.sub}</p>}{item.href && <a href={item.href} target="_blank" rel="noreferrer" className="mt-1.5 inline-block text-[11px] font-bold text-[#078C7E]">{item.hrefLabel || '查看详情'} ↗</a>}</article>) : <p className="rounded-[14px] bg-[#F4FCFA] px-3 py-4 text-center text-[12px] text-slate-500">当前没有可展开的内容。</p>}</div>
+          </section>
         </div>
       )}
 
