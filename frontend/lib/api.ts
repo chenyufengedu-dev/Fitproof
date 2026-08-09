@@ -1,4 +1,4 @@
-import type { SingleActionAdvice, SingleAnalyzeResponse, VerifyResult, VideoRef } from '@/types'
+import type { SingleActionAdvice, SingleAnalyzeResult, VerifyResult, VideoRef } from '@/types'
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
@@ -26,11 +26,11 @@ async function postJson<T>(path: string, body: unknown, timeoutMs?: number): Pro
   return res.json() as Promise<T>
 }
 
-export function analyzeSingle(link: string, topic: string): Promise<SingleAnalyzeResponse> {
-  return postJson<SingleAnalyzeResponse>('/api/analyze_single', { link, topic })
+export function analyzeSingle(link: string, topic: string): Promise<SingleAnalyzeResult> {
+  return postJson<SingleAnalyzeResult>('/api/analyze_single', { link, topic })
 }
 
-export async function analyzeSingleUpload(file: File, topic: string): Promise<SingleAnalyzeResponse> {
+export async function analyzeSingleUpload(file: File, topic: string): Promise<SingleAnalyzeResult> {
   const form = new FormData()
   form.append('topic', topic)
   form.append('file', file)
@@ -44,7 +44,7 @@ export async function analyzeSingleUpload(file: File, topic: string): Promise<Si
     const data = await res.json().catch(() => ({}))
     throw new Error(data.detail || '本地视频分析失败，请稍后重试')
   }
-  return res.json() as Promise<SingleAnalyzeResponse>
+  return res.json() as Promise<SingleAnalyzeResult>
 }
 
 export function verifyClaim(

@@ -11,6 +11,7 @@ interface InputPageProps {
   onAnalyzeUpload: (file: File, topic: string) => Promise<void>;
   onSingleSampleLoaded: (sample: SingleSampleData) => void;
   initialError?: string;
+  initialNotice?: string;
 }
 
 function findDouyinLink(text: string) {
@@ -24,6 +25,7 @@ export default function InputPage({
   onAnalyzeUpload,
   onSingleSampleLoaded,
   initialError,
+  initialNotice,
 }: InputPageProps) {
   const [singleLink, setSingleLink] = useState("");
   const [clipboardLink, setClipboardLink] = useState("");
@@ -239,6 +241,7 @@ export default function InputPage({
               </div>
           </div>
 
+          {initialNotice && <p className="mt-4 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-6 text-amber-800">{initialNotice}</p>}
           {error && <p className="mt-4 rounded-2xl bg-red-50 px-4 py-3 text-sm text-red-600">{error}</p>}
         </section>
       </div>

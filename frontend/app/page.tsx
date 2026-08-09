@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, type ReactNode } from 'react'
-import type { Claim, PageState, SingleAnalyzeResponse, SingleSampleData, VerifyResult } from '@/types'
+import type { Claim, PageState, SingleAnalyzeRejectedResponse, SingleAnalyzeResponse, SingleSampleData, VerifyResult } from '@/types'
 import InputPage from '@/components/InputPage'
 import LoadingPage from '@/components/LoadingPage'
 import SingleResultPage from '@/components/SingleResultPage'
@@ -20,13 +20,24 @@ export default function Home() {
   const [pageState, setPageState] = useState<PageState>('input')
   const [topic, setTopic] = useState('')
   const [inputError, setInputError] = useState<string>('')
+  const [inputNotice, setInputNotice] = useState<string>('')
   const [singleData, setSingleData] = useState<SingleAnalyzeResponse | null>(null)
   const [sampleVerifyResults, setSampleVerifyResults] = useState<VerifyResult[] | null>(null)
   const [activeTab, setActiveTab] = useState<TabId>('verify')
   // 加载进度起点：由永不卸载的 Home 持有，切 Tab 再回来进度条能续算而非归零
   const [loadingStartedAt, setLoadingStartedAt] = useState<number>(0)
+
+  function rejectionNotice(data: SingleAnalyzeRejectedResponse) {
+    const lead = data.scope === 'health_context_only'
+      ? '这段视频涉及健康场景，但没有发现可核验的健康主张或可模仿方案。'
+      : '这段视频不属于健康信息核验范围。'
+    const quote = data.matched_text[0] ? `识别依据：“${data.matched_text[0]}”。` : ''
+    return `${lead}${data.reason ? ` ${data.reason}。` : ''}${quote}`
+  }
+
   async function handleAnalyzeSingle(link: string, topicName: string) {
     setInputError('')
+    setInputNotice('')
     setTopic(topicName)
     setSingleData(null)
     setSampleVerifyResults(null)
@@ -34,6 +45,11 @@ export default function Home() {
     setPageState('loading')
     try {
       const data = await analyzeSingle(link, topicName)
+      if (data.status === 'rejected') {
+        setInputNotice(rejectionNotice(data))
+        setPageState('input')
+        return
+      }
       setSingleData(data)
       setTopic(data.topic || topicName)
       setPageState('singleClaims')
@@ -47,6 +63,7 @@ export default function Home() {
 
   async function handleAnalyzeUpload(file: File, topicName: string) {
     setInputError('')
+    setInputNotice('')
     setTopic(topicName)
     setSingleData(null)
     setSampleVerifyResults(null)
@@ -54,6 +71,11 @@ export default function Home() {
     setPageState('loading')
     try {
       const data = await analyzeSingleUpload(file, topicName)
+      if (data.status === 'rejected') {
+        setInputNotice(rejectionNotice(data))
+        setPageState('input')
+        return
+      }
       setSingleData(data)
       setTopic(data.topic || topicName)
       setPageState('singleClaims')
@@ -66,8 +88,11 @@ export default function Home() {
 
   function handleSingleSampleLoaded(sample: SingleSampleData) {
     setInputError('')
+    setInputNotice('')
     setTopic(sample.topic)
     setSingleData({
+      status: 'accepted',
+      scope: sample.scope || 'explicit_claim',
       reference: sample.reference,
       claims: sample.claims,
       keyframes: sample.keyframes,
@@ -134,7 +159,7 @@ export default function Home() {
     if (pageState === 'singleClaims' && singleData) {
       return <SingleResultPage data={singleData} topic={topic} onBack={() => setPageState('input')} onVerifyClaim={handleVerifySingleClaim} onReverifyClaim={handleReverifySingleClaim} />
     }
-    return <InputPage apiBaseUrl={API_BASE_URL} onAnalyzeSingle={handleAnalyzeSingle} onAnalyzeUpload={handleAnalyzeUpload} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} />
+    return <InputPage apiBaseUrl={API_BASE_URL} onAnalyzeSingle={handleAnalyzeSingle} onAnalyzeUpload={handleAnalyzeUpload} onSingleSampleLoaded={handleSingleSampleLoaded} initialError={inputError} initialNotice={inputNotice} />
   }
 
   return (

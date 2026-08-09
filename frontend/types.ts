@@ -141,14 +141,29 @@ export interface Keyframe {
   image?: string
 }
 
+export type ContentScope = 'explicit_claim' | 'implicit_guidance' | 'health_context_only' | 'unrelated'
+
 export interface SingleAnalyzeResponse {
+  status: 'accepted'
+  scope: 'explicit_claim' | 'implicit_guidance'
   reference: Omit<Reference, 'claim'> & { claim?: string }
   claims: Claim[]
   keyframes: Keyframe[]
   topic: string
 }
 
-export interface SingleSampleData extends SingleAnalyzeResponse {
+export interface SingleAnalyzeRejectedResponse {
+  status: 'rejected'
+  scope: 'health_context_only' | 'unrelated'
+  reason: string
+  matched_text: string[]
+  reference: Omit<Reference, 'claim'> & { claim?: string }
+}
+
+export type SingleAnalyzeResult = SingleAnalyzeResponse | SingleAnalyzeRejectedResponse
+
+export interface SingleSampleData extends Omit<SingleAnalyzeResponse, 'status' | 'scope'> {
+  scope?: 'explicit_claim' | 'implicit_guidance'
   sample_verify_results: VerifyResult[]
   sample_verified_claim_index?: number
   sample_verify_result?: VerifyResult
