@@ -81,6 +81,10 @@ class AsrProviderTests(unittest.TestCase):
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])) as transcribe, \
+                patch.object(main, "route_video_content", return_value={
+                    "scope": "explicit_claim", "decision": "continue", "need_visual": False,
+                    "reason": "明确主张", "quotes": ["原始文本"],
+                }), \
                 patch.object(main, "extract_keyframes", return_value=[]), \
                 patch.object(main, "clean_transcript", return_value="清洗文本") as clean_transcript:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
@@ -108,6 +112,10 @@ class AsrProviderTests(unittest.TestCase):
                 patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "download_mp3", return_value="local.mp3") as download_mp3, \
                 patch.object(main, "transcribe", return_value=("原始文本", [])) as transcribe, \
+                patch.object(main, "route_video_content", return_value={
+                    "scope": "explicit_claim", "decision": "continue", "need_visual": False,
+                    "reason": "明确主张", "quotes": ["原始文本"],
+                }), \
                 patch.object(main, "clean_transcript", return_value="清洗文本"), \
                 patch.object(os, "remove"):
             main.extract_one_video(1, "https://v.douyin.com/test/")

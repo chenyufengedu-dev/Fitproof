@@ -98,7 +98,7 @@ class KeyframePipelineTests(unittest.TestCase):
             {"time": 15, "screen_text": "表格列出孕期运动频率和注意事项。"},
         ])
 
-    def test_extract_one_video_gates_keyframes_after_asr(self):
+    def test_extract_one_video_routes_keyframes_after_asr(self):
         from backend import main
 
         events = []
@@ -115,9 +115,17 @@ class KeyframePipelineTests(unittest.TestCase):
             events.append("asr")
             return "原始文本", [{"start": 10.0, "text": "原始文本"}]
 
-        def gate_with_trace(clean_text):
-            events.append(("gate", clean_text))
-            return True, "图表线索"
+        def route_with_trace(_media, clean_text, keyframes=None):
+            events.append(("route", clean_text, bool(keyframes)))
+            if keyframes:
+                return {
+                    "scope": "explicit_claim", "decision": "continue",
+                    "need_visual": False, "reason": "画面已确认", "quotes": ["原始文本"],
+                }
+            return {
+                "scope": "pending_visual", "decision": "inspect_visual",
+                "need_visual": True, "reason": "需查看图表", "quotes": ["原始文本"],
+            }
 
         def sampling_with_trace(_video_url, _segments):
             events.append("sample_keyframes")
@@ -128,13 +136,19 @@ class KeyframePipelineTests(unittest.TestCase):
                 patch.object(main, "fetch_media", return_value=detail), \
                 patch.object(main, "transcribe", side_effect=transcribe_with_trace), \
                 patch.object(main, "sample_keyframes", side_effect=sampling_with_trace), \
-                patch.object(main, "should_describe_keyframes", side_effect=gate_with_trace), \
+                patch.object(main, "route_video_content", side_effect=route_with_trace), \
                 patch.object(main, "_describe_frames_parallel", return_value=[{"time": 10, "screen_text": "图表"}]):
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
 
-        self.assertEqual(events, ["asr", ("gate", "原始文本"), "sample_keyframes"])
+        self.assertEqual(events, [
+            "asr",
+            ("route", "原始文本", False),
+            "sample_keyframes",
+            ("route", "原始文本", True),
+        ])
         self.assertEqual(video["clean_text"], "原始文本")
         self.assertEqual(video["keyframes"], [{"time": 10, "screen_text": "图表"}])
+        self.assertEqual(video["content_route"]["scope"], "explicit_claim")
 
     def test_extract_one_video_downloads_video_url_before_keyframes(self):
         from backend import main
@@ -157,7 +171,10 @@ class KeyframePipelineTests(unittest.TestCase):
                 ])), \
                 patch.object(main, "download_video", return_value="local-video.mp4") as download_video, \
                 patch.object(main, "sample_keyframes", return_value=[{"time": 5, "path": "frame.jpg"}]) as keyframes, \
-                patch.object(main, "should_describe_keyframes", return_value=(True, "表格线索")), \
+                patch.object(main, "route_video_content", side_effect=[
+                    {"scope": "pending_visual", "decision": "inspect_visual", "need_visual": True, "reason": "表格线索", "quotes": ["原始文本"]},
+                    {"scope": "explicit_claim", "decision": "continue", "need_visual": False, "reason": "画面已确认", "quotes": ["原始文本"]},
+                ]), \
                 patch.object(main, "_describe_frames_parallel", return_value=[{"time": 5, "screen_text": "表格"}]), \
                 patch.object(main, "remove_file_quietly") as remove_file:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
@@ -187,12 +204,39 @@ class KeyframePipelineTests(unittest.TestCase):
                     {"start": 1.0, "text": "原始文本"}
                 ])), \
                 patch.object(main, "download_video", side_effect=RuntimeError("CDN拒绝")), \
+                patch.object(main, "route_video_content", return_value={
+                    "scope": "pending_visual", "decision": "inspect_visual", "need_visual": True,
+                    "reason": "需查看画面", "quotes": ["原始文本"],
+                }), \
                 patch.object(main, "sample_keyframes") as keyframes:
-            video = main.extract_one_video(1, "https://v.douyin.com/test/")
+            with self.assertRaises(main.ContentRoutingError):
+                main.extract_one_video(1, "https://v.douyin.com/test/")
 
         keyframes.assert_not_called()
-        self.assertEqual(video["clean_text"], "原始文本")
-        self.assertEqual(video["keyframes"], [])
+
+    def test_extract_one_video_stops_before_visual_work(self):
+        from backend import main
+
+        detail = {
+            "source": "tikhub", "title": "普通生活", "author": "作者",
+            "audio_url": "https://example.test/audio.mp3", "video_path": "local-video.mp4",
+            "cleanup_paths": [],
+        }
+        with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
+                patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
+                patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "transcribe", return_value=("今天出去散步", [])), \
+                patch.object(main, "route_video_content", return_value={
+                    "scope": "health_context_only", "decision": "stop", "need_visual": False,
+                    "reason": "只有生活记录", "quotes": ["今天出去散步"],
+                }), \
+                patch.object(main, "sample_keyframes") as sample, \
+                patch.object(main, "_describe_frames_parallel") as describe:
+            video = main.extract_one_video(1, "https://v.douyin.com/test/")
+
+        sample.assert_not_called()
+        describe.assert_not_called()
+        self.assertEqual(video["content_route"]["decision"], "stop")
 
 
 if __name__ == "__main__":

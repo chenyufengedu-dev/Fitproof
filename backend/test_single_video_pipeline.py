@@ -201,44 +201,49 @@ class SingleVideoPipelineTests(unittest.TestCase):
         self.assertEqual(result, {"answer": "回答"})
         self.assertEqual(calls, [8192])
 
-    def test_keyframe_gate_skips_plain_talking_head_transcript(self):
+    def test_content_router_accepts_explicit_health_claim(self):
         from backend import main
 
-        def fake_llm(prompt, max_tokens=8192, json_mode=False, retries=3, model=None):
-            self.assertIn("激进", prompt)
-            self.assertTrue(json_mode)
-            self.assertEqual(model, main.DEEPSEEK_FAST_MODEL)
-            return '{"need_visual": false, "reason": "没有明确画面线索"}'
-
-        with patch.object(main, "llm_chat", side_effect=fake_llm):
-            need_visual, reason = main.should_describe_keyframes("每天走路半小时有助于心血管健康。")
-
-        self.assertFalse(need_visual)
-        self.assertEqual(reason, "没有明确画面线索")
-
-    def test_keyframe_gate_keeps_report_and_numeric_transcript(self):
-        from backend import main
-
-        with patch.object(
-            main,
-            "llm_chat",
-            return_value='{"need_visual": true, "reason": "提到血常规报告单和数值"}',
-        ):
-            need_visual, reason = main.should_describe_keyframes(
-                "请看这张血常规报告单，白细胞数值是 12.5。"
+        with patch.object(main, "llm_chat", return_value=json.dumps({
+            "scope": "explicit_claim",
+            "decision": "continue",
+            "need_visual": False,
+            "reason": "明确健康功效主张",
+            "quotes": ["每天走路半小时有助于心血管健康"],
+        }, ensure_ascii=False)):
+            route = main.route_video_content(
+                {"title": "走路科普"},
+                "每天走路半小时有助于心血管健康。",
             )
 
-        self.assertTrue(need_visual)
-        self.assertEqual(reason, "提到血常规报告单和数值")
+        self.assertEqual(route["scope"], "explicit_claim")
+        self.assertEqual(route["decision"], "continue")
+        self.assertFalse(route["need_visual"])
 
-    def test_keyframe_gate_defaults_to_visual_on_unparseable_response(self):
+    def test_content_router_accepts_implicit_guidance(self):
         from backend import main
 
-        with patch.object(main, "llm_chat", return_value="我认为不需要"):
-            need_visual, reason = main.should_describe_keyframes("纯口播文本")
+        with patch.object(main, "llm_chat", return_value=json.dumps({
+            "scope": "implicit_guidance",
+            "decision": "inspect_visual",
+            "need_visual": True,
+            "reason": "需查看具体食物",
+            "quotes": ["减脂期我每天这样吃"],
+        }, ensure_ascii=False)):
+            route = main.route_video_content(
+                {"title": "减脂饮食"},
+                "减脂期我每天这样吃。",
+            )
 
-        self.assertTrue(need_visual)
-        self.assertIn("解析失败", reason)
+        self.assertEqual(route["scope"], "implicit_guidance")
+        self.assertTrue(route["need_visual"])
+
+    def test_content_router_fails_closed_on_unparseable_response(self):
+        from backend import main
+
+        with patch.object(main, "llm_chat", return_value="无法判断"):
+            with self.assertRaises(main.ContentRoutingError):
+                main.route_video_content({"title": "视频"}, "普通口播文本")
 
     def test_sample_keyframes_removes_frames_over_hard_cap(self):
         from backend import main

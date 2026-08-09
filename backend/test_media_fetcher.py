@@ -101,7 +101,10 @@ class MediaFetcherTests(unittest.TestCase):
                     {"start": 1.0, "text": "原始文本"}
                 ])) as transcribe, \
                 patch.object(main, "sample_keyframes", return_value=[{"time": 5, "path": "frame.jpg"}]) as keyframes, \
-                patch.object(main, "should_describe_keyframes", return_value=(True, "表格线索")), \
+                patch.object(main, "route_video_content", side_effect=[
+                    {"scope": "pending_visual", "decision": "inspect_visual", "need_visual": True, "reason": "表格线索", "quotes": ["原始文本"]},
+                    {"scope": "explicit_claim", "decision": "continue", "need_visual": False, "reason": "画面已确认", "quotes": ["原始文本"]},
+                ]), \
                 patch.object(main, "_describe_frames_parallel", return_value=[{"time": 5, "screen_text": "表格"}]), \
                 patch.object(main, "remove_file_quietly") as remove_file:
             video = main.extract_one_video(1, "https://v.douyin.com/test/")

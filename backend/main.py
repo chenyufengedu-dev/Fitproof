@@ -25,6 +25,21 @@ try:
 except ImportError:
     from backend import evidence_store
 
+try:
+    from content_router import (
+        ContentRoutingError,
+        build_content_route_prompt,
+        metadata_precheck,
+        normalize_content_route,
+    )
+except ImportError:
+    from backend.content_router import (
+        ContentRoutingError,
+        build_content_route_prompt,
+        metadata_precheck,
+        normalize_content_route,
+    )
+
 load_dotenv()
 
 TIKHUB_TOKEN = os.getenv("TIKHUB_TOKEN", "")
@@ -991,26 +1006,24 @@ def _describe_frames_parallel(frames: list[dict]) -> list[dict]:
     return sorted(out, key=lambda item: item["time"])
 
 
-def should_describe_keyframes(clean_text: str) -> tuple[bool, str]:
-    """用快模型激进判断转写是否需要画面核验；失败时保守保留视觉。"""
-    prompt = f"""你是健康视频画面核验闸门。根据下面的语音转录，严格输出 JSON：
-{{"need_visual": true 或 false, "reason": "不超过20字的理由"}}
-
-这是激进省时策略：只有转录中出现明确需要看画面的线索才填 true，例如“看这张图/如图/报告单/化验单/成分表/配料表/数据/数值/百分比/图表/趋势/示范动作”。
-普通口播、泛泛提及健康知识、没有明确画面线索时一律填 false。不要猜测视频可能有画面，不要输出 JSON 以外内容。
-
-转录：
-{clean_text}"""
-    try:
-        raw = llm_chat(prompt, max_tokens=256, json_mode=True, model=DEEPSEEK_FAST_MODEL)
-        data = parse_json_loose(raw)
-        if not isinstance(data, dict) or not isinstance(data.get("need_visual"), bool):
-            return True, "闸门返回解析失败，保守保留视觉"
-        reason = str(data.get("reason") or "模型未提供理由").strip()[:80]
-        return data["need_visual"], reason
-    except Exception as e:
-        print(f"[keyframe-gate] 调用失败，保守保留视觉: {str(e)[:160]}")
-        return True, "闸门调用异常，保守保留视觉"
+def route_video_content(
+    media: dict,
+    clean_text: str,
+    keyframes: list[dict] | None = None,
+) -> dict:
+    """Route a video using grounded title, transcript, and optional visual evidence."""
+    prompt = build_content_route_prompt(media, clean_text, keyframes)
+    raw = llm_chat(prompt, max_tokens=512, json_mode=True, model=DEEPSEEK_FAST_MODEL)
+    data = parse_json_loose(raw)
+    source_text = "\n".join(
+        [
+            str(media.get("title") or ""),
+            str(media.get("description") or ""),
+            clean_text,
+            *[str(item.get("screen_text") or "") for item in (keyframes or [])],
+        ]
+    )
+    return normalize_content_route(data, source_text)
 
 
 def sample_keyframes(
@@ -1123,13 +1136,9 @@ def extract_one_video(index: int, link: str, media: dict | None = None) -> dict:
             if temp_video_path:
                 remove_file_quietly(temp_video_path)
 
-    def build_keyframes(clean_text: str) -> list[dict]:
+    def build_keyframes(need_visual: bool) -> list[dict]:
         if not ENABLE_KEYFRAMES:
             return []
-        need_visual, reason = True, "闸门关闭，按原行为解读"
-        if ENABLE_KEYFRAME_GATE:
-            need_visual, reason = should_describe_keyframes(clean_text)
-        print(f"[keyframe-gate] 视频 {index} need_visual={need_visual}；{reason}")
 
         # 只要封面、且 TikHub 有现成封面：直接用其 URL，零下载零抽帧（最快路径）
         if not need_visual and media.get("cover_url"):
@@ -1150,14 +1159,29 @@ def extract_one_video(index: int, link: str, media: dict | None = None) -> dict:
             for frame in deduped_frames:
                 remove_file_quietly(frame.get("path"))
 
+    clean_text = ""
+    segments: list[dict] = []
+    raw_text = ""
+    keyframes: list[dict] = []
+    content_route: dict | None = None
     try:
-        # 先转写：闸门要用文字稿判断是否需要画面；口播视频因此可完全跳过视频下载
-        clean_text, segments, raw_text = run_audio_line()
-        try:
-            keyframes = build_keyframes(clean_text)
-        except Exception as e:
-            print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
-            keyframes = []
+        content_route = metadata_precheck(media)
+        if content_route is None:
+            clean_text, segments, raw_text = run_audio_line()
+            content_route = route_video_content(media, clean_text)
+            if content_route["decision"] == "inspect_visual":
+                keyframes = build_keyframes(True)
+                if not keyframes:
+                    raise ContentRoutingError("内容路由需要画面，但未能提取有效画面")
+                content_route = route_video_content(media, clean_text, keyframes)
+                if content_route["decision"] == "inspect_visual":
+                    raise ContentRoutingError("查看画面后仍无法判断内容范围")
+            elif content_route["decision"] == "continue":
+                keyframes = build_keyframes(False)
+        print(
+            f"[content-route] 视频 {index} scope={content_route['scope']} "
+            f"decision={content_route['decision']}；{content_route['reason']}"
+        )
     finally:
         for path in media.get("cleanup_paths") or []:
             remove_file_quietly(path)
@@ -1173,6 +1197,7 @@ def extract_one_video(index: int, link: str, media: dict | None = None) -> dict:
         "keyframes": keyframes,
         "duration_seconds": media.get("duration"),
         "published_at": media.get("published_at"),
+        "content_route": content_route,
     }
 
 
