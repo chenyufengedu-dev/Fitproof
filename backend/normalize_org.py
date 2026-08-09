@@ -78,6 +78,44 @@ ORG_MAP = {
     "PubMed / BMJ Open": "英国医学杂志·开放 (BMJ Open)",
     "PMC": "欧亚医学杂志 (Eurasian Journal of Medicine)",  # DOI 10.5152/eurasianjmed.2019.18457
     "NCI (CDAS) / Frontiers in Nutrition": "营养学前沿 (Frontiers in Nutrition)",
+
+    # ===== 2026-07-19 组员新增 103 份文献带来的写法（孕期哺乳/婴幼儿喂养/运动健身/食物谣言）=====
+    # 同一机构被写成多种形式，不合并的话「来源机构」榜单会把一个 WHO 拆成 7 条。
+    # —— WHO 系
+    "World Health Organization": "世界卫生组织 (WHO)",
+    "WHO": "世界卫生组织 (WHO)",
+    "世界卫生组织": "世界卫生组织 (WHO)",
+    "世界卫生组织 WHO": "世界卫生组织 (WHO)",
+    "WHO Regional Office for Europe": "世界卫生组织欧洲区域办事处 (WHO EURO)",
+    "世界卫生组织欧洲区域办事处": "世界卫生组织欧洲区域办事处 (WHO EURO)",
+    "International Agency for Research on Cancer / WHO": "世界卫生组织国际癌症研究机构 (IARC/WHO)",
+    # —— 英文全称 → 中文全称 (缩写)
+    "Cochrane": "Cochrane 协作网",
+    "Centers for Disease Control and Prevention": "美国疾病控制与预防中心 (CDC)",
+    "Mayo Clinic": "妙佑医疗国际 (Mayo Clinic)",
+    "American College of Obstetricians and Gynecologists": "美国妇产科医师学会 (ACOG)",
+    "U.S. Food and Drug Administration": "美国食品药品监督管理局 (FDA)",
+    "American Heart Association": "美国心脏协会 (AHA)",
+    "National Institute of Allergy and Infectious Diseases": "美国国家过敏与传染病研究所 (NIAID)",
+    "NHS": "英国国民保健署 (NHS)",
+    "NICE": "英国国家健康与照护卓越研究院 (NICE)",
+    # —— NIH 系：四种写法合并
+    "National Institutes of Health Office of Dietary Supplements": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+    "NIH Office of Dietary Supplements": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+    "NIH National Library of Medicine": "美国国家医学图书馆 (NIH NLM)",
+    "MedlinePlus / U.S. National Library of Medicine": "美国国家医学图书馆 (MedlinePlus)",
+    # —— PubMed 是数据库不是机构，补上实际运营方，避免「来源：数据库」这种空话
+    "PubMed": "美国国家医学图书馆 (PubMed)",
+    # —— 国内机构
+    "国家卫生健康委员会": "国家卫生健康委员会 (NHC)",
+    "国家卫生和计划生育委员会": "国家卫生健康委员会 (NHC)",  # 2018 年改组前的旧称
+    "国家卫生健康委妇幼司": "国家卫生健康委员会妇幼健康司 (NHC)",
+    "健康中国行动": "健康中国行动推进委员会",
+    # —— 期刊与手册：剥掉书名号，统一成「中文名 (原名)」
+    "The BMJ": "英国医学杂志 (BMJ)",
+    "《BMJ 营养、预防与健康》期刊": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+    "《营养综述》期刊": "营养综述 (Nutrition Reviews)",
+    "默沙东手册 MSD Manual": "默沙东诊疗手册 (MSD Manual)",
 }
 
 

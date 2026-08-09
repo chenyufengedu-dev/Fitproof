@@ -4,6 +4,30 @@ from unittest.mock import patch
 
 
 class MediaFetcherTests(unittest.TestCase):
+    def test_fetch_video_detail_preserves_duration_and_publish_date(self):
+        from backend import main
+
+        class Response:
+            def raise_for_status(self):
+                return None
+
+            def json(self):
+                return {"data": {"aweme_detail": {
+                    "item_title": "测试标题",
+                    "author": {"nickname": "测试作者", "avatar_thumb": {"url_list": ["https://example.test/avatar.jpg"]}},
+                    "music": {"play_url": {"uri": "https://example.test/audio.mp3"}},
+                    "video": {"play_addr": {"url_list": ["https://example.test/video.mp4"]}},
+                    "duration": 76000,
+                    "create_time": 1689638400,
+                }}}
+
+        with patch.object(main.requests, "get", return_value=Response()):
+            detail = main.fetch_video_detail("123")
+
+        self.assertEqual(detail["duration"], 76.0)
+        self.assertEqual(detail["published_at"], "2023-07-18")
+        self.assertEqual(detail["author_avatar_url"], "https://example.test/avatar.jpg")
+
     def test_resolve_url_extracts_link_from_share_text_before_redirect(self):
         from backend import main
 

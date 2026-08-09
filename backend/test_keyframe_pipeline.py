@@ -98,9 +98,10 @@ class KeyframePipelineTests(unittest.TestCase):
             {"time": 15, "screen_text": "表格列出孕期运动频率和注意事项。"},
         ])
 
-    def test_extract_one_video_runs_asr_and_keyframes_in_parallel(self):
+    def test_extract_one_video_gates_keyframes_after_asr(self):
         from backend import main
 
+        events = []
         detail = {
             "source": "tikhub",
             "title": "测试视频",
@@ -110,26 +111,28 @@ class KeyframePipelineTests(unittest.TestCase):
             "cleanup_paths": [],
         }
 
-        def slow_transcribe(_path, audio_url=None):
-            time.sleep(0.25)
+        def transcribe_with_trace(_path, audio_url=None):
+            events.append("asr")
             return "原始文本", [{"start": 10.0, "text": "原始文本"}]
 
-        def slow_sampling(_video_url, _segments):
-            time.sleep(0.25)
+        def gate_with_trace(clean_text):
+            events.append(("gate", clean_text))
+            return True, "图表线索"
+
+        def sampling_with_trace(_video_url, _segments):
+            events.append("sample_keyframes")
             return [{"time": 10, "path": "frame.jpg"}]
 
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
-                patch.object(main, "transcribe", side_effect=slow_transcribe), \
-                patch.object(main, "sample_keyframes", side_effect=slow_sampling), \
-                patch.object(main, "should_describe_keyframes", return_value=(True, "图表线索")), \
+                patch.object(main, "transcribe", side_effect=transcribe_with_trace), \
+                patch.object(main, "sample_keyframes", side_effect=sampling_with_trace), \
+                patch.object(main, "should_describe_keyframes", side_effect=gate_with_trace), \
                 patch.object(main, "_describe_frames_parallel", return_value=[{"time": 10, "screen_text": "图表"}]):
-            start = time.perf_counter()
             video = main.extract_one_video(1, "https://v.douyin.com/test/")
-            elapsed = time.perf_counter() - start
 
-        self.assertLess(elapsed, 0.45)
+        self.assertEqual(events, ["asr", ("gate", "原始文本"), "sample_keyframes"])
         self.assertEqual(video["clean_text"], "原始文本")
         self.assertEqual(video["keyframes"], [{"time": 10, "screen_text": "图表"}])
 

@@ -6,12 +6,16 @@ import base64
 import tempfile
 import subprocess
 import traceback
+import time
+from datetime import datetime, timezone
+from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
 
 import requests
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request, UploadFile, File, Form
+from fastapi.responses import StreamingResponse, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from openai import OpenAI
@@ -66,6 +70,23 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# 知识库目录接口独立在 knowledge.py，这里只挂载
+from knowledge import router as knowledge_router  # noqa: E402
+from contrib import router as contrib_router  # noqa: E402
+
+app.include_router(knowledge_router)
+app.include_router(contrib_router)
+
+
+@app.on_event("startup")
+def warm_evidence_embedding_model() -> None:
+    try:
+        evidence_store.search("预热", top_k=1)
+        print("[startup] 证据库 embedding 预热完成")
+    except Exception as e:
+        print(f"[startup] 证据库 embedding 预热失败: {e}")
+
 
 # ---------------------------------------------------------------------------
 # Lazy singletons
@@ -174,6 +195,12 @@ class VerifyClaimRequest(BaseModel):
     top_k: int = 5
 
 
+class BuildSingleActionsRequest(BaseModel):
+    reference: dict = Field(default_factory=dict)
+    topic: str = ""
+    claims: list[dict] = Field(default_factory=list)
+
+
 class ChatMessage(BaseModel):
     role: str
     content: str
@@ -229,10 +256,21 @@ def fetch_video_detail(aweme_id: str) -> dict:
     resp.raise_for_status()
     detail = resp.json()["data"]["aweme_detail"]
     title = detail.get("item_title") or detail.get("desc") or "未命名视频"
-    author = detail["author"]["nickname"]
+    author_data = detail.get("author") or {}
+    author = author_data.get("nickname") or "作者未标注"
+    avatar_urls = (author_data.get("avatar_thumb") or {}).get("url_list") or []
+    author_avatar_url = next((url for url in avatar_urls if isinstance(url, str) and url.startswith(("http://", "https://"))), None)
     audio_url = detail["music"]["play_url"]["uri"]
-    video_urls = (detail.get("video", {}).get("play_addr", {}) or {}).get("url_list") or []
+    video_obj = detail.get("video", {}) or {}
+    video_urls = (video_obj.get("play_addr", {}) or {}).get("url_list") or []
     video_url = video_urls[0] if video_urls else None
+    # 抖音详情自带封面图 URL：优先用它做卡1封面，就不必下载整段视频再抽帧
+    cover_url = None
+    for cover_key in ("origin_cover", "cover", "dynamic_cover"):
+        cover_list = (video_obj.get(cover_key) or {}).get("url_list") or []
+        cover_url = next((u for u in cover_list if isinstance(u, str) and u.startswith(("http://", "https://"))), None)
+        if cover_url:
+            break
     duration_raw = (
         detail.get("duration")
         or (detail.get("video", {}) or {}).get("duration")
@@ -241,12 +279,22 @@ def fetch_video_detail(aweme_id: str) -> dict:
     duration = None
     if isinstance(duration_raw, (int, float)) and duration_raw > 0:
         duration = float(duration_raw) / 1000 if duration_raw > 1000 else float(duration_raw)
+    published_at = None
+    try:
+        created_at = float(detail.get("create_time"))
+        if created_at > 0:
+            published_at = datetime.fromtimestamp(created_at, tz=timezone.utc).date().isoformat()
+    except (TypeError, ValueError, OSError, OverflowError):
+        pass
     return {
         "title": title,
         "author": author,
+        "author_avatar_url": author_avatar_url,
         "audio_url": audio_url,
         "video_url": video_url,
+        "cover_url": cover_url,
         "duration": duration,
+        "published_at": published_at,
     }
 
 
@@ -264,6 +312,64 @@ def fetch_media_tikhub(link: str) -> dict:
 
 def fetch_media_upload_placeholder(link: str) -> dict:
     raise RuntimeError("文件上传获取层尚未接入")
+
+
+def extract_audio_from_video(video_path: str) -> str:
+    """用 ffmpeg 从本地视频抽出单声道音频，供 ASR 使用。返回临时音频路径。"""
+    fd, audio_path = tempfile.mkstemp(suffix=".wav")
+    os.close(fd)
+    cmd = [
+        "ffmpeg", "-y",
+        "-i", video_path,
+        "-vn",
+        "-ar", str(DASHSCOPE_ASR_SAMPLE_RATE),
+        "-ac", "1",
+        audio_path,
+    ]
+    try:
+        proc = subprocess.run(cmd, capture_output=True, timeout=180)
+    except subprocess.TimeoutExpired as exc:
+        remove_file_quietly(audio_path)
+        raise RuntimeError("从上传视频提取音频超时") from exc
+    if proc.returncode != 0:
+        lines = (proc.stderr or b"").decode("utf-8", "replace").strip().splitlines()
+        reason = lines[-1].strip() if lines else f"ffmpeg 退出码 {proc.returncode}"
+        remove_file_quietly(audio_path)
+        raise RuntimeError(f"从上传视频提取音频失败: {reason[:200]}")
+    return audio_path
+
+
+def probe_video_duration(video_path: str) -> float | None:
+    """用 ffprobe 读取视频时长（秒）。失败返回 None，不阻断主流程。"""
+    try:
+        out = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=nw=1:nk=1", video_path],
+            capture_output=True, timeout=30,
+        )
+        val = (out.stdout or b"").decode("utf-8", "replace").strip()
+        return float(val) if val else None
+    except Exception:
+        return None
+
+
+def fetch_media_upload(video_path: str, title: str | None = None) -> dict:
+    """本地上传获取层：把已落盘的视频文件包装成与 TikHub 同结构的 media dict。
+    下游 transcribe()/grab_frame() 本就支持本地路径，故管线其余部分零改动。"""
+    audio_path = extract_audio_from_video(video_path)
+    return {
+        "author": "本地上传",
+        "author_avatar_url": None,
+        "title": (title or os.path.basename(video_path) or "本地视频").strip(),
+        "url": "",
+        "audio_path": audio_path,
+        "video_path": video_path,
+        "duration": probe_video_duration(video_path),
+        "published_at": None,
+        "source": "upload",
+        # 音频是临时抽取的，视频是上传落盘的，用完都交给上层 finally 清理
+        "cleanup_paths": [audio_path, video_path],
+    }
 
 
 def fetch_media(link: str) -> dict:
@@ -952,10 +1058,14 @@ def extract_keyframes(
             remove_file_quietly(frame.get("path"))
 
 
-def extract_one_video(index: int, link: str) -> dict:
-    """同步阻塞流程，外层用 asyncio.to_thread 包裹。返回视频文本结构。"""
-    full_url = resolve_url(link)
-    media = fetch_media(link)
+def extract_one_video(index: int, link: str, media: dict | None = None) -> dict:
+    """同步阻塞流程，外层用 asyncio.to_thread 包裹。返回视频文本结构。
+    传入 media 时跳过链接获取层（供本地上传等已备好媒体的场景复用同一条管线）。"""
+    if media is None:
+        full_url = resolve_url(link)
+        media = fetch_media(link)
+    else:
+        full_url = media.get("url") or link or ""
 
     def run_audio_line() -> tuple[str, list[dict], str]:
         mp3_path = ""
@@ -993,9 +1103,8 @@ def extract_one_video(index: int, link: str) -> dict:
             print(f"[extract] 视频{index} 清洗后 clean_text={len(cleaned)} 字")
         return cleaned, segs, raw
 
-    def run_visual_line() -> list[dict]:
-        if not ENABLE_KEYFRAMES:
-            return []
+    def grab_and_sample() -> list[dict]:
+        """下载/定位视频并抽帧去重。仅在确实需要画面（视觉解读，或无现成封面兜底）时才调。"""
         video_ref = media.get("video_path")
         temp_video_path = ""
         try:
@@ -1008,42 +1117,47 @@ def extract_one_video(index: int, link: str) -> dict:
             duration_segment = [{"start": float(media["duration"])}] if media.get("duration") else []
             return sample_keyframes(video_ref, duration_segment)
         except Exception as e:
-            print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
+            print(f"[keyframe] 视频 {index} 抽帧流程失败: {e}")
             return []
         finally:
             if temp_video_path:
                 remove_file_quietly(temp_video_path)
 
-    try:
-        with ThreadPoolExecutor(max_workers=2) as pool:
-            audio_future = pool.submit(run_audio_line)
-            keyframe_future = pool.submit(run_visual_line)
-            clean_text, segments, raw_text = audio_future.result()
-            try:
-                deduped_frames = keyframe_future.result()
-            except Exception as e:
-                print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
-                deduped_frames = []
+    def build_keyframes(clean_text: str) -> list[dict]:
+        if not ENABLE_KEYFRAMES:
+            return []
+        need_visual, reason = True, "闸门关闭，按原行为解读"
+        if ENABLE_KEYFRAME_GATE:
+            need_visual, reason = should_describe_keyframes(clean_text)
+        print(f"[keyframe-gate] 视频 {index} need_visual={need_visual}；{reason}")
 
-        keyframes = []
-        if deduped_frames:
-            need_visual = True
-            reason = "闸门关闭，按原行为解读"
-            if ENABLE_KEYFRAME_GATE:
-                need_visual, reason = should_describe_keyframes(clean_text)
-            print(f"[keyframe-gate] 视频 {index} need_visual={need_visual}；{reason}")
-            try:
-                if need_visual:
-                    keyframes = _describe_frames_parallel(deduped_frames)
-                else:
-                    keyframes = _poster_only_keyframe(deduped_frames)
-                    print(
-                        f"[keyframe] 视频 {index} 闸门跳过视觉解读，{len(deduped_frames)} 帧中"
-                        f"保留 {len(keyframes)} 帧仅作封面（不解读）"
-                    )
-            finally:
-                for frame in deduped_frames:
-                    remove_file_quietly(frame.get("path"))
+        # 只要封面、且 TikHub 有现成封面：直接用其 URL，零下载零抽帧（最快路径）
+        if not need_visual and media.get("cover_url"):
+            print(f"[keyframe] 视频 {index} 用现成封面 URL，跳过视频下载与抽帧")
+            return [{"time": 0, "image": media["cover_url"], "screen_text": ""}]
+
+        # 需要视觉解读，或无现成封面需回退抽帧：才下载/抽帧
+        deduped_frames = grab_and_sample()
+        if not deduped_frames:
+            return []
+        try:
+            if need_visual:
+                return _describe_frames_parallel(deduped_frames)
+            kf = _poster_only_keyframe(deduped_frames)
+            print(f"[keyframe] 视频 {index} 无现成封面，抽一帧兜底做封面（不解读），保留 {len(kf)} 帧")
+            return kf
+        finally:
+            for frame in deduped_frames:
+                remove_file_quietly(frame.get("path"))
+
+    try:
+        # 先转写：闸门要用文字稿判断是否需要画面；口播视频因此可完全跳过视频下载
+        clean_text, segments, raw_text = run_audio_line()
+        try:
+            keyframes = build_keyframes(clean_text)
+        except Exception as e:
+            print(f"[keyframe] 视频 {index} 关键帧流程失败: {e}")
+            keyframes = []
     finally:
         for path in media.get("cleanup_paths") or []:
             remove_file_quietly(path)
@@ -1051,11 +1165,14 @@ def extract_one_video(index: int, link: str) -> dict:
     return {
         "id": index,
         "author": media["author"],
+        "author_avatar_url": media.get("author_avatar_url"),
         "title": media["title"],
         "url": full_url,
         "clean_text": clean_text,
         "segments": segments,
         "keyframes": keyframes,
+        "duration_seconds": media.get("duration"),
+        "published_at": media.get("published_at"),
     }
 
 
@@ -1091,6 +1208,12 @@ def build_analysis_prompt(topic: str, videos: list[dict]) -> str:
 4. 【权威背书 authorities】**仅在纠正错误、或给出“主流证据”判断时**，列出支撑你的权威来源（如 ACSM 美国运动医学会指南、ISSN 国际运动营养学会立场声明、WHO 身体活动指南、权威期刊系统综述等）。
    要求：只引用你高度确信真实存在的权威机构/指南/立场声明，**宁可笼统也不要编造具体论文标题、年份或 DOI**。把它们列在 authorities，并在相应条目用 authority_ids 引用其 id（如 ["A1"]）。普通的视频观点**不需要** authority_ids。
 5. 如果某条目主要依据了上面的「画面文字」（音频没说、只在画面出现），加 "screen_evidence"，格式："视频{{n}} {{时间}} 画面：{{识别到的关键文字}}"。没用到就不加。
+N. recommendations 中的 steps 是这条建议的具体操作步骤，必须按实际时间或操作先后顺序排列，最多 3 条；每条 text 只写动作核心（≤8字），不要写成完整句子。正确示例："先补水" / "40分钟慢跑" / "运动后进食"；错误示例："起床后喝一杯水或黑咖啡"。如果一条建议超过 3 步，合并成最关键的 3 步；不足以支撑步骤时输出空数组 []，绝对不要为了填满而编造。steps 的每项必须给 icon，且 icon 只能从下列标签中选择，务必挑与该步骤动作最贴切的那个，不要一律填 general：water（喝水）、food（进食）、fruit（水果/加餐）、pill（服药）、run（跑步）、walk（快走）、bike（骑行）、stretch（拉伸）、rest（休息）、sleep（睡觉）、time（计时/控制时长）、measure（测量监测）、carry（随身携带）、check（检查/咨询医生）、shower（洗澡/冲洗）、hairdryer（吹干/保持干燥）、tub（泡澡）、bandage（护理伤口/包扎）、thermometer（测体温）、hospital（就医）、doctor（咨询医生）、home（居家）、stop（避免/停止某行为）、general（实在无对应时才用）。icon 表示这一步在做什么，尽量精确匹配动作语义。
+N+1. recommendations 中的 methods 是这条建议**推荐的具体做法/方式**，每项必须为 {{"text": "方式名称", "icon": "动作标签"}}，每条 text 2~6 字（如"快走"、"慢跑"、"血糖监测"），icon 必须复用上面的 STEP_ICONS 白名单。只有当话题本身存在可选做法时才填；像"要不要吃某种食物"这类没有"方式"可言的话题，一律输出空数组 []。
+N+2. recommendations 中的 tier 表示这条建议对该人群的适用程度，**只能二选一**：
+   - "适用参考"：该人群按此执行风险低，属于常规可参考的做法。
+   - "谨慎理解"：该人群存在健康风险、需先咨询专业人员、或证据不足以放心推荐。
+   有慢病、孕产、儿童、用药等风险因素的人群建议，通常应为"谨慎理解"。拿不准时填"谨慎理解"。
 
 严格按以下 JSON 输出，不输出任何其他内容（authority_ids / screen_evidence 为可选，仅在确有依据时出现）：
 {{
@@ -1106,6 +1229,10 @@ def build_analysis_prompt(topic: str, videos: list[dict]) -> str:
   "recommendations": [ {{
       "condition": "如果你是 XX 情况",
       "advice": "具体可执行建议，有明确边界条件",
+      "steps": [{{"text": "按先后排列的动作核心（≤8字）", "icon": "water"}}],
+      "methods": [{{"text": "推荐方式（2~6字）", "icon": "walk"}}],
+      "tier": "适用参考 或 谨慎理解",
+      "cautions": ["需要注意的边界条件或身体反应，每条不超过20字"],
       "video_refs": [{{"id":1,"time":"1:05"}}],
       "authority_ids": ["A2"]
   }} ],
@@ -1142,6 +1269,119 @@ def parse_json_loose(text: str) -> dict | None:
         return None
 
 
+# 建议的适用分档。前端用它决定卡片配色，取值必须受约束，不能让模型自由发挥。
+RECOMMENDATION_TIERS = {"适用参考", "谨慎理解"}
+STEP_ICONS = {
+    "water", "food", "fruit", "pill", "run", "walk", "bike", "stretch",
+    "rest", "sleep", "time", "measure", "carry", "check", "general",
+}
+SINGLE_ACTION_LEVELS = {"normal", "caution", "urgent"}
+# 图标校验集 = 提示词活动词表(STEP_ICONS) ∪ 生活场景词表。二者取并集，
+# 避免模型选了合法图标却因不在小子集里被打回 general（图标全变"通用"的根因）。
+SINGLE_ACTION_ICONS = STEP_ICONS | {
+    "home", "shower", "hairdryer", "bandage", "tub", "doctor",
+    "stop", "thermometer", "hospital", "elliptical", "firstAid",
+    "glucose", "jog", "snack", "toast",
+}
+
+
+def normalize_recommendations(items: Any) -> list[dict]:
+    """Keep model-provided recommendation structure safe without deriving new content."""
+    if not isinstance(items, list):
+        return []
+
+    def clean_list(value: Any) -> list[str]:
+        if not isinstance(value, list):
+            return []
+        return [text for text in (str(item).strip() for item in value) if text][:4]
+
+    def clean_steps(value: Any, limit: int = 3) -> list[dict[str, str]]:
+        """Accept legacy strings while keeping new step icons in a safe whitelist."""
+        if not isinstance(value, list):
+            return []
+        cleaned: list[dict[str, str]] = []
+        for item in value:
+            if isinstance(item, str):
+                text = item.strip()
+                icon = "general"
+            elif isinstance(item, dict):
+                text = str(item.get("text") or "").strip()
+                icon = str(item.get("icon") or "").strip()
+                if icon not in STEP_ICONS:
+                    icon = "general"
+            else:
+                continue
+            if text:
+                cleaned.append({"text": text, "icon": icon})
+            if len(cleaned) == limit:
+                break
+        return cleaned
+
+    normalized: list[dict] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        copy = dict(item)
+        copy["steps"] = clean_steps(item.get("steps"))
+        copy["methods"] = clean_steps(item.get("methods"), limit=4)
+        copy["cautions"] = clean_list(item.get("cautions"))
+        # tier 决定卡片配色，必须是受约束取值。模型给了别的词就回落到更保守的一档，
+        # 宁可显示「谨慎理解」，也不要把有风险的人群标成「适用参考」。
+        tier = str(item.get("tier") or "").strip()
+        copy["tier"] = tier if tier in RECOMMENDATION_TIERS else "谨慎理解"
+        normalized.append(copy)
+    return normalized
+
+
+def normalize_single_actions(items: Any) -> list[dict]:
+    """Normalize model-provided single-video actions without deriving content."""
+    if not isinstance(items, list):
+        return []
+    normalized: list[dict] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        condition = str(item.get("condition") or "").strip()
+        if not condition:
+            continue
+        steps: list[dict[str, str]] = []
+        raw_steps = item.get("steps")
+        if isinstance(raw_steps, list):
+            for raw_step in raw_steps:
+                if not isinstance(raw_step, dict):
+                    continue
+                title = str(raw_step.get("title") or "").strip()
+                if not title:
+                    continue
+                icon = str(raw_step.get("icon") or "").strip()
+                steps.append({
+                    "title": title,
+                    "note": str(raw_step.get("note") or "").strip(),
+                    "icon": icon if icon in SINGLE_ACTION_ICONS else "general",
+                })
+                if len(steps) == 3:
+                    break
+        claim_indices = []
+        for value in item.get("claim_indices") if isinstance(item.get("claim_indices"), list) else []:
+            if isinstance(value, int) and value >= 0:
+                claim_indices.append(value)
+        if not claim_indices:
+            continue
+        evidence_ids = [str(value).strip() for value in item.get("evidence_ids") if str(value).strip()] if isinstance(item.get("evidence_ids"), list) else []
+        level = str(item.get("level") or "").strip()
+        normalized.append({
+            "level": level if level in SINGLE_ACTION_LEVELS else "caution",
+            "condition": condition,
+            "steps": steps,
+            "caution": str(item.get("caution") or "").strip(),
+            "claim_indices": claim_indices,
+            "evidence_ids": evidence_ids,
+        })
+        if len(normalized) == 3:
+            break
+    return normalized
+
+
 def run_analysis(topic: str, videos: list[dict]) -> dict:
     prompt = build_analysis_prompt(topic, videos)
     raw = llm_chat(prompt, json_mode=True)
@@ -1157,6 +1397,8 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 
     if data is None or not all(k in data for k in ANALYSIS_FIELDS):
         raise HTTPException(status_code=500, detail="AI 返回的分析结果格式无效")
+
+    data["recommendations"] = normalize_recommendations(data.get("recommendations"))
 
     # 用真实提取到的视频信息回填 references，保证可溯源
     if videos:
@@ -1181,7 +1423,37 @@ def run_analysis(topic: str, videos: list[dict]) -> dict:
 # Single-video claim extraction + RAG verification
 # ---------------------------------------------------------------------------
 CLAIM_SIGNALS = {"疑似夸大", "有条件", "较公认", "有争议"}
+# 说法配图的语义标签白名单。前端拿这个词查 public/claim-icons/{icon}.webp。
+# 模型只需从这里选一个「这条说法在讲什么东西」，不在白名单内一律回落 general。
+# 只表示名词主体，不含好坏判断（判断由 signal 和核验负责）。
+CLAIM_ICONS = {
+    # 食物饮品
+    "egg", "milk", "meat", "veggie", "grain", "oil-salt-sugar", "water", "tea-coffee", "alcohol",
+    # 医疗健康
+    "pill", "vaccine", "lab-report", "blood-pressure", "blood-sugar", "heart", "supplement",
+    # 人群
+    "pregnancy", "baby", "elderly", "cancer",
+    # 身体部位
+    "skin", "hair", "eye", "teeth", "stomach", "bone-joint",
+    # 症状不适
+    "headache", "fever-cold", "pain", "immunity", "mood",
+    # 生活行为
+    "exercise", "sleep", "weight", "bath",
+    # 兜底
+    "general",
+}
 VERIFY_FIELDS = ["verdict", "risk_level", "confidence", "strength", "correction", "cited_evidence_ids"]
+CLAIM_ORIGIN_TYPES = {
+    "traditional",
+    "outdated_science",
+    "concept_confusion",
+    "overgeneralized",
+    "commercial",
+}
+CLAIM_ORIGIN_FORBIDDEN_PATTERN = re.compile(
+    r"[0-9０-９]|doi|https?://|《|》|研究|论文|机构|协会|委员会|大学|医院|研究所",
+    re.IGNORECASE,
+)
 
 
 def video_to_claim_prompt(topic: str, video: dict) -> str:
@@ -1206,11 +1478,22 @@ def video_to_claim_prompt(topic: str, video: dict) -> str:
 2. video_refs 标出该主张来自视频1的大致时间，格式 {{"id":1,"time":"0:12"}}。
 3. signal 只能从 ["疑似夸大","有条件","较公认","有争议"] 中选择。
 4. why 用一句话说明为什么值得核验。
-5. 只输出 JSON，不输出解释。
+5. icon 表示「这条说法主要在讲什么东西」，只能从下面清单里选一个，拿不准就填 general：
+   egg(蛋) milk(奶) meat(肉禽鱼) veggie(蔬菜水果) grain(米面主食) oil-salt-sugar(油盐糖)
+   water(水/饮料) tea-coffee(茶/咖啡) alcohol(酒) pill(药丸/吃药) vaccine(打针/疫苗)
+   lab-report(化验单/指标报告) blood-pressure(血压) blood-sugar(血糖) heart(心脏/心血管)
+   supplement(保健品/补剂) pregnancy(孕产) baby(婴幼儿) elderly(中老年) cancer(癌症/肿瘤)
+   skin(皮肤/美白祛痘) hair(头发/脱发) eye(眼睛/视力) teeth(牙齿/口腔)
+   stomach(肠胃/消化) bone-joint(骨骼/关节) headache(头痛) fever-cold(感冒/发烧)
+   pain(疼痛/酸痛) immunity(免疫力/抵抗力) mood(情绪/压力/焦虑)
+   exercise(运动/健身) sleep(睡眠) weight(体重/减肥) bath(洗澡/洗头/清洁)
+   general(其它/通用)
+   icon 只表示话题对象，不代表好坏。
+6. 只输出 JSON，不输出解释。
 
 JSON 格式：
 {{"claims":[
-  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","why":"为什么值得核验"}}
+  {{"claim":"主张原话","video_refs":[{{"id":1,"time":"0:12"}}],"signal":"较公认","icon":"egg","why":"为什么值得核验"}}
 ]}}"""
 
 
@@ -1237,10 +1520,15 @@ def normalize_claims(data: dict) -> list[dict]:
         signal = str(item.get("signal") or "").strip()
         if signal not in CLAIM_SIGNALS:
             signal = "有条件"
+        # 白名单校验：模型迟早会自创一个词，不在清单内一律回落 general
+        icon = str(item.get("icon") or "").strip().lower()
+        if icon not in CLAIM_ICONS:
+            icon = "general"
         normalized.append({
             "claim": claim,
             "video_refs": good_refs,
             "signal": signal,
+            "icon": icon,
             "why": str(item.get("why") or "").strip(),
         })
     return normalized
@@ -1256,8 +1544,11 @@ def extract_claims_from_video(video: dict, topic: str = "") -> dict:
     reference = {
         "id": video.get("id", 1),
         "author": video.get("author", ""),
+        "author_avatar_url": video.get("author_avatar_url"),
         "title": video.get("title", ""),
         "url": video.get("url", ""),
+        "duration_seconds": video.get("duration_seconds"),
+        "published_at": video.get("published_at"),
     }
     return {
         "reference": reference,
@@ -1266,24 +1557,84 @@ def extract_claims_from_video(video: dict, topic: str = "") -> dict:
     }
 
 
-def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5) -> tuple[list[dict], str, str]:
+def search_evidence_for_claim(claim: str, topic: str = "", top_k: int = 5, on_event=None) -> tuple[list[dict], str, str, list[dict]]:
     topic = topic.strip()
-    if topic:
-        hits = evidence_store.search(claim, topic=topic, top_k=top_k)
-        if hits:
-            return hits, "matched", "结论"
-    hits = evidence_store.search(claim, topic="", top_k=top_k)
-    if hits:
-        return hits, "matched", "结论"
+    trace: list[dict] = []
+
+    def retrieve(step: str, label: str, search_fn, search_topic: str) -> list[dict]:
+        started = time.perf_counter()
+        hits = search_fn(claim, topic=search_topic, top_k=top_k)
+        event = {
+            "step": step,
+            "label": label,
+            "hit_count": len(hits),
+            "ms": round((time.perf_counter() - started) * 1000, 2),
+            "tone": "ok" if hits else "miss",
+        }
+        trace.append(event)
+        if on_event:
+            on_event(event)
+        return hits
+
+    def stop_after_hit(tier: str) -> None:
+        event = {
+            "step": "retrieval_stop",
+            "label": f"{tier}库命中，无需继续向下检索",
+            "tone": "ok",
+        }
+        trace.append(event)
+        if on_event:
+            on_event(event)
 
     if topic:
-        chunk_hits = evidence_store.search_fulltext(claim, topic=topic, top_k=top_k)
+        hits = retrieve("retrieve_conclusion_topic", "检索话题内结论库", evidence_store.search, topic)
+        if hits:
+            stop_after_hit("结论")
+            return hits, "matched", "结论", trace
+    hits = retrieve("retrieve_conclusion_all", "检索全库结论", evidence_store.search, "")
+    if hits:
+        stop_after_hit("结论")
+        return hits, "matched", "结论", trace
+
+    if topic:
+        chunk_hits = retrieve("retrieve_fulltext_topic", "检索话题内全文块", evidence_store.search_fulltext, topic)
         if chunk_hits:
-            return chunk_hits, "matched", "全文"
-    chunk_hits = evidence_store.search_fulltext(claim, topic="", top_k=top_k)
+            stop_after_hit("全文")
+            return chunk_hits, "matched", "全文", trace
+    chunk_hits = retrieve("retrieve_fulltext_all", "检索全库全文块", evidence_store.search_fulltext, "")
     if chunk_hits:
-        return chunk_hits, "matched", "全文"
-    return [], "not_found", "无"
+        stop_after_hit("全文")
+        return chunk_hits, "matched", "全文", trace
+    return [], "not_found", "无", trace
+
+
+def evidence_source_names(evidence: list[dict]) -> list[str]:
+    """命中文献的展示名列表（去重、保序）："机构《文献名》"。用于前端胶囊逐条显示。"""
+    names: list[str] = []
+    seen: set[tuple[str, str]] = set()
+    for item in evidence:
+        source_doc = str(item.get("source_doc") or "").strip()
+        if not source_doc:
+            continue
+        org = str(item.get("org") or "").strip()
+        key = (org, source_doc)
+        if key in seen:
+            continue
+        seen.add(key)
+        quoted_doc = source_doc if source_doc.startswith("《") and source_doc.endswith("》") else f"《{source_doc}》"
+        names.append(f"{org}{quoted_doc}" if org else quoted_doc)
+    return names
+
+
+def format_evidence_summary_label(evidence: list[dict]) -> str:
+    if not evidence:
+        return "未命中已收录权威依据"
+    documents = evidence_source_names(evidence)
+    if not documents:
+        return f"检索到 {len(evidence)} 条相关依据，未提供可展示的文献名"
+    # 用「检索到」而非「命中」：这是相似检索找到的候选，是否采信由模型研判。
+    # 避免与下游「证据不足/未命中权威依据」的诊断措辞自相矛盾。
+    return f"检索到 {len(documents)} 篇相关文献"
 
 
 def evidence_prompt_block(evidence: list[dict]) -> str:
@@ -1357,21 +1708,121 @@ def parse_verify_result(raw: str, evidence: list[dict]) -> dict:
     return data
 
 
+def should_generate_claim_origin(result: dict) -> bool:
+    verdict = str(result.get("verdict") or "").strip()
+    risk_level = str(result.get("risk_level") or "").strip()
+    if risk_level == "高":
+        return True
+    return any(keyword in verdict for keyword in ("不建议", "不可信", "夸大", "误导", "证据不足"))
+
+
+def parse_claim_origin(data: Any) -> dict | None:
+    if not isinstance(data, dict):
+        return None
+    origin_type = str(data.get("type") or "").strip()
+    explanation = str(data.get("explanation") or "").strip()
+    if origin_type not in CLAIM_ORIGIN_TYPES or not explanation or len(explanation) > 80:
+        return None
+    if CLAIM_ORIGIN_FORBIDDEN_PATTERN.search(explanation):
+        return None
+    return {"type": origin_type, "explanation": explanation}
+
+
+def generate_claim_origin(claim: str, verdict: str, correction: str) -> dict | None:
+    prompt = f"""你是健康短视频谬误的说法溯源助手。仅从一般常识角度，解释一个不准确说法可能为何流传；这不是权威依据，不能当作事实或引用。
+
+【待解释说法】
+{claim}
+
+【核验判定】
+{verdict}
+
+【更准确的说法】
+{correction}
+
+只能在有把握时输出一个可能成因；没把握时必须输出空字符串。
+type 只能从以下五项中选择：traditional、outdated_science、concept_confusion、overgeneralized、commercial。
+explanation 必须不超过60个汉字，只解释可能的传播机制，不陈述未经证实的历史事实。
+
+最重要：严禁输出任何年份、日期、数字、研究名称、机构名、论文标题、DOI、URL、书名号或引用标记。不要提及任何研究、论文、机构或具体史实。违反任一项时，宁可输出空字符串。
+再次强调：本段不是权威依据；不得伪造来源，不得使用看似可核验的细节。
+
+只输出 JSON：
+{{"type":"五选一或空字符串","explanation":"不超过60字，没把握则空字符串"}}"""
+    # 校验偏严(禁数字/研究名/机构)，模型偶尔一次踩线被拒 → 重试一次再放弃，减少「有的卡没溯源」
+    for attempt in range(2):
+        try:
+            raw = llm_chat(prompt, max_tokens=8192, json_mode=True, model=DEEPSEEK_FAST_MODEL)
+            parsed = parse_claim_origin(parse_json_loose(raw))
+            if parsed:
+                return parsed
+        except Exception as e:
+            print(f"[claim-origin] 第{attempt + 1}次生成失败: {str(e)[:160]}")
+    return None
+
+
 def verify_single_claim(
     claim: str,
     topic: str = "",
     video_refs: list[dict] | None = None,
     top_k: int = 5,
+    on_event=None,
+    include_claim_origin: bool = True,
 ) -> dict:
-    evidence, evidence_status, evidence_tier = search_evidence_for_claim(claim, topic=topic, top_k=top_k)
+    evidence, evidence_status, evidence_tier, trace = search_evidence_for_claim(claim, topic=topic, top_k=top_k, on_event=on_event)
+    entries, _ = evidence_store.get_store()._ensure_index()
+    # 文献和机构数必须与 /api/knowledge 同源，不能从向量条目的 source_doc 猜测：
+    # 同一份文献可能没有可检索结论，或以不同标题进入条目库。
+    from knowledge import load_library
+    library_stats = load_library()["stats"]
+    scale_event = {
+        "step": "evidence_library_scale",
+        "label": f"当前证据库：{len(entries)} 条依据，{library_stats['docs']} 份文献、{library_stats['orgs']} 家机构",
+        "tone": "ok",
+    }
+    trace.append(scale_event)
+    if on_event:
+        on_event(scale_event)
     prompt = build_verify_prompt(claim, topic, evidence, video_refs=video_refs)
+    model_started = time.perf_counter()
+    if on_event:
+        on_event({"step": "reasoning_model_start", "label": f"调用推理模型：{DEEPSEEK_REASONING_MODEL}", "tone": "ok"})
     raw = llm_chat(prompt, max_tokens=8192, json_mode=True, model=DEEPSEEK_REASONING_MODEL)
+    model_event = {
+        "step": "reasoning_model",
+        "label": f"调用推理模型：{DEEPSEEK_REASONING_MODEL}",
+        "ms": round((time.perf_counter() - model_started) * 1000, 2),
+        "tone": "ok",
+    }
+    trace.append(model_event)
+    if on_event:
+        on_event(model_event)
     data = parse_verify_result(raw, evidence)
+    claim_origin = None
+    if include_claim_origin and should_generate_claim_origin(data):
+        claim_origin = generate_claim_origin(claim, str(data.get("verdict") or ""), str(data.get("correction") or ""))
+    summary_event = {
+        "step": "evidence_summary",
+        "label": format_evidence_summary_label(evidence),
+        "tone": "ok" if evidence else "miss",
+        "sources": evidence_source_names(evidence),
+    }
+    trace.append(summary_event)
+    if on_event:
+        on_event(summary_event)
     if evidence_status == "not_found":
         data["strength"] = "低"
         data["cited_evidence_ids"] = []
+        downgrade_event = {"step": "downgrade_common_sense", "label": "库中未收录相关权威依据，转为 AI 常识判断", "tone": "warn"}
+        trace.append(downgrade_event)
+        if on_event:
+            on_event(downgrade_event)
     elif evidence_tier == "全文" and str(data.get("strength", "")) == "高":
         data["strength"] = "中"
+        downgrade_event = {"step": "downgrade_tier", "label": "仅命中原文段落，依据强度由高降为中", "tone": "warn"}
+        trace.append(downgrade_event)
+        if on_event:
+            on_event(downgrade_event)
     data.update({
         "claim": claim,
         "topic": topic,
@@ -1379,8 +1830,85 @@ def verify_single_claim(
         "evidence_status": evidence_status,
         "evidence_tier": evidence_tier,
         "evidence": evidence,
+        "trace": trace,
+        "claim_origin": claim_origin,
     })
     return data
+
+
+def build_single_actions_prompt(req: BuildSingleActionsRequest, verified_claims: list[dict]) -> str:
+    """Ask for actions only from already-verified material supplied by the caller."""
+    return f"""你是 FitProof 健康信息核验助手。请只根据下面“已完成核验”的内容，生成用户可执行的行动建议。
+
+【视频信息】
+{json.dumps(req.reference, ensure_ascii=False)}
+
+【话题】
+{req.topic or "健康信息"}
+
+【已完成核验】
+{json.dumps(verified_claims, ensure_ascii=False)}
+
+严格规则：
+1. 只能使用上方已完成核验的 claim、correction、风险等级与证据；不得使用未核验内容，不得补充猜测性医疗建议。
+2. 证据不足、说法之间无法形成具体行动建议时，输出空数组 []；宁可少，不可编。
+3. 每条建议必须列出它依据的 claim_indices，索引必须来自上方数据；没有依据索引的建议不得输出。
+4. level 只能是 normal（常规可参考）、caution（需要谨慎）、urgent（应停止/就医等高风险提醒）之一。
+5. steps 最多 3 条，按先后顺序；每项 title 不超过 10 个字，note 不超过 10 个字。icon 仅表示动作，不表示风险等级，务必选择语义最贴近的图标，不要一律使用 general。icon 只能从以下标签选择：home（居家）、shower（洗澡/冲洗）、hairdryer（吹干/保持干燥）、bandage（护理伤口/包扎）、tub（泡澡）、doctor（咨询医生）、stop（避免/停止）、thermometer（测体温）、hospital（就医）、water（喝水）、food（正餐/进食）、fruit（水果）、pill（服药）、run（跑步）、walk（步行/快走）、bike（骑行）、stretch（拉伸）、rest（休息）、sleep（睡觉）、time（计时/控制时长）、measure（一般测量）、carry（随身携带）、check（检查/核对）、elliptical（椭圆机）、firstAid（急救处理）、glucose（测血糖）、jog（慢跑）、snack（加餐）、toast（面包/吐司）、general（实在无对应图标时才用）。
+6. caution 仅写一条最重要边界或身体反应；没有则为空字符串。
+7. evidence_ids 只能填写上方已完成核验中已有的证据 ID；没有则为空数组。
+
+只输出 JSON：
+{{
+  "actions": [
+    {{
+      "level": "normal",
+      "condition": "适合谁/什么情境",
+      "steps": [{{"title":"动作","note":"补充说明","icon":"general"}}],
+      "caution": "需要注意的边界",
+      "claim_indices": [0],
+      "evidence_ids": ["E1"]
+    }}
+  ]
+}}"""
+
+
+def generate_single_actions(req: BuildSingleActionsRequest) -> list[dict]:
+    verified_claims: list[dict] = []
+    for index, item in enumerate(req.claims):
+        if not isinstance(item, dict):
+            continue
+        correction = str(item.get("correction") or "").strip()
+        claim = str(item.get("claim") or "").strip()
+        if not claim or not correction:
+            continue
+        source_index = item.get("claim_index")
+        source_index = source_index if isinstance(source_index, int) and source_index >= 0 else index
+        verified_claims.append({
+            "index": source_index,
+            "claim": claim,
+            "verdict": str(item.get("verdict") or "").strip(),
+            "risk_level": str(item.get("risk_level") or "").strip(),
+            "correction": correction,
+            "video_refs": item.get("video_refs") if isinstance(item.get("video_refs"), list) else [],
+            "cited_evidence_ids": item.get("cited_evidence_ids") if isinstance(item.get("cited_evidence_ids"), list) else [],
+        })
+    if not verified_claims:
+        return []
+    raw = llm_chat(build_single_actions_prompt(req, verified_claims), max_tokens=4096, json_mode=True, model=DEEPSEEK_REASONING_MODEL)
+    data = parse_json_loose(raw) or {}
+    actions = normalize_single_actions(data.get("actions"))
+    allowed_indices = {item["index"] for item in verified_claims}
+    allowed_evidence = {str(evidence_id) for item in verified_claims for evidence_id in item["cited_evidence_ids"]}
+    safe_actions: list[dict] = []
+    for action in actions:
+        claim_indices = [index for index in action["claim_indices"] if index in allowed_indices]
+        if not claim_indices:
+            continue
+        action["claim_indices"] = claim_indices
+        action["evidence_ids"] = [evidence_id for evidence_id in action["evidence_ids"] if evidence_id in allowed_evidence]
+        safe_actions.append(action)
+    return safe_actions
 
 
 # ---------------------------------------------------------------------------
@@ -1456,6 +1984,51 @@ async def analyze(req: AnalyzeRequest):
     return analysis
 
 
+# 抖音/字节系图片 CDN 域名白名单：只代理这些来源，避免被当成任意 URL 代理(SSRF)
+_IMG_PROXY_HOST_TAGS = ("douyinpic", "douyinvod", "byteimg", "pstatp", "bytedance",
+                        "douyin", "amemv", "bytecdn", "ixigua", "snssdk", "ibyteimg", "byteacctimg")
+
+
+# 图片代理的服务器内存缓存：抓过的封面/头像存内存，同一图后续请求秒回。
+# 带上限，满了淘汰最旧的，避免吃满内存(200 张小图约几十 MB)。
+_IMG_CACHE: "OrderedDict[str, tuple[bytes, str]]" = OrderedDict()
+_IMG_CACHE_MAX = 200
+
+
+@app.get("/api/img_proxy")
+def img_proxy(url: str):
+    """代拉抖音封面/头像图，绕过 CDN 防盗链(Referer 校验)，稳定显示。仅限白名单来源。带内存缓存。"""
+    if not url.startswith(("http://", "https://")):
+        raise HTTPException(status_code=400, detail="无效图片地址")
+    from urllib.parse import urlparse
+    host = (urlparse(url).hostname or "").lower()
+    if not any(tag in host for tag in _IMG_PROXY_HOST_TAGS):
+        raise HTTPException(status_code=403, detail="不允许的图片来源")
+    cached = _IMG_CACHE.get(url)
+    if cached is not None:
+        _IMG_CACHE.move_to_end(url)  # 命中即刷新为最近使用
+        content, media = cached
+        return Response(content=content, media_type=media, headers={"Cache-Control": "public, max-age=86400", "X-Cache": "HIT"})
+    try:
+        resp = requests.get(
+            url,
+            headers={"User-Agent": BROWSER_HEADERS["User-Agent"], "Referer": "https://www.douyin.com/"},
+            timeout=15,
+        )
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"[img_proxy] 获取失败: {str(e)[:160]}")
+        raise HTTPException(status_code=502, detail="图片获取失败")
+    media = resp.headers.get("Content-Type", "image/jpeg")
+    if not media.startswith("image/"):
+        media = "image/jpeg"
+    _IMG_CACHE[url] = (resp.content, media)
+    _IMG_CACHE.move_to_end(url)
+    while len(_IMG_CACHE) > _IMG_CACHE_MAX:
+        _IMG_CACHE.popitem(last=False)  # 淘汰最旧
+    return Response(content=resp.content, media_type=media, headers={"Cache-Control": "public, max-age=86400", "X-Cache": "MISS"})
+
+
 @app.post("/api/analyze_single")
 async def analyze_single(req: AnalyzeSingleRequest):
     if not req.link.strip():
@@ -1483,6 +2056,73 @@ async def analyze_single(req: AnalyzeSingleRequest):
     return result
 
 
+@app.post("/api/analyze_single_upload")
+async def analyze_single_upload(topic: str = Form(...), file: UploadFile = File(...)):
+    """本地视频上传：与 /api/analyze_single 相同的产物，只是媒体来自上传文件而非链接。"""
+    topic = (topic or "").strip()
+    if not topic:
+        raise HTTPException(status_code=400, detail="请提供话题")
+
+    suffix = os.path.splitext(file.filename or "")[1].lower() or ".mp4"
+    if suffix not in (".mp4", ".mov", ".m4v", ".webm", ".mkv", ".avi", ".flv", ".ts"):
+        raise HTTPException(status_code=400, detail="仅支持常见视频格式（mp4/mov/webm 等）")
+
+    limit_mb = int(os.getenv("UPLOAD_MAX_MB", "200"))
+    limit = limit_mb * 1024 * 1024
+    fd, tmp_path = tempfile.mkstemp(suffix=suffix)
+    os.close(fd)
+    size = 0
+    try:
+        with open(tmp_path, "wb") as out:
+            while True:
+                chunk = await file.read(1024 * 1024)
+                if not chunk:
+                    break
+                size += len(chunk)
+                if size > limit:
+                    raise HTTPException(status_code=413, detail=f"文件过大，上限 {limit_mb}MB")
+                out.write(chunk)
+    except HTTPException:
+        remove_file_quietly(tmp_path)
+        raise
+    except Exception as e:
+        remove_file_quietly(tmp_path)
+        raise HTTPException(status_code=400, detail=f"文件接收失败: {str(e)[:120]}")
+    if size == 0:
+        remove_file_quietly(tmp_path)
+        raise HTTPException(status_code=400, detail="上传文件为空")
+
+    try:
+        media = fetch_media_upload(tmp_path, title=file.filename)
+    except Exception as e:
+        remove_file_quietly(tmp_path)
+        print(f"[analyze_single_upload] 媒体处理失败: {e}")
+        raise HTTPException(status_code=502, detail="上传视频处理失败（服务器需安装 ffmpeg）")
+
+    try:
+        # media 已含 cleanup_paths（含上传文件与临时音频），由 extract_one_video 的 finally 统一清理
+        video = await asyncio.to_thread(extract_one_video, 1, "", media)
+    except Exception as e:
+        print(f"[analyze_single_upload] 视频提取失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=502, detail="视频内容提取失败，请重试")
+
+    if not video.get("clean_text"):
+        raise HTTPException(status_code=502, detail="未能从视频中提取到语音文本（可能是纯画面无口播）")
+
+    try:
+        result = await asyncio.to_thread(extract_claims_from_video, video, topic)
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"[analyze_single_upload] 主张拆解失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="AI 拆解主张失败，请重试")
+
+    result["topic"] = topic
+    return result
+
+
 @app.post("/api/verify_claim")
 async def verify_claim(req: VerifyClaimRequest):
     claim = req.claim.strip()
@@ -1506,6 +2146,64 @@ async def verify_claim(req: VerifyClaimRequest):
         raise HTTPException(status_code=500, detail="AI 核验失败，请重试")
 
 
+@app.post("/api/verify_claim/stream")
+async def verify_claim_stream(req: VerifyClaimRequest, request: Request):
+    claim = req.claim.strip()
+    if not claim:
+        raise HTTPException(status_code=400, detail="请提供要核验的主张")
+    top_k = max(1, min(req.top_k, 10))
+    video_refs = [r.model_dump() if hasattr(r, "model_dump") else r.dict() for r in req.video_refs]
+
+    async def event_stream():
+        loop = asyncio.get_running_loop()
+        events: asyncio.Queue[dict] = asyncio.Queue()
+
+        def emit(event: dict):
+            loop.call_soon_threadsafe(events.put_nowait, event)
+
+        task = asyncio.create_task(asyncio.to_thread(verify_single_claim, claim, req.topic, video_refs, top_k, emit, False))
+        try:
+            while not task.done() or not events.empty():
+                if await request.is_disconnected():
+                    task.cancel()
+                    return
+                try:
+                    event = await asyncio.wait_for(events.get(), timeout=15)
+                    yield f"data: {json.dumps({'type': 'step', **event}, ensure_ascii=False)}\n\n"
+                except asyncio.TimeoutError:
+                    yield ": keepalive\n\n"
+            result = await task
+            yield f"data: {json.dumps({'type': 'result', 'result': result}, ensure_ascii=False)}\n\n"
+            if should_generate_claim_origin(result):
+                yield f"data: {json.dumps({'type': 'step', 'step': 'claim_origin_start', 'label': '分析说法流传成因', 'tone': 'ok'}, ensure_ascii=False)}\n\n"
+                origin = await asyncio.to_thread(generate_claim_origin, claim, str(result.get('verdict') or ''), str(result.get('correction') or ''))
+                yield f"data: {json.dumps({'type': 'claim_origin', 'origin': origin}, ensure_ascii=False)}\n\n"
+            else:
+                yield f"data: {json.dumps({'type': 'claim_origin', 'origin': None}, ensure_ascii=False)}\n\n"
+        except asyncio.CancelledError:
+            task.cancel()
+            raise
+        except HTTPException as exc:
+            yield f"data: {json.dumps({'type': 'error', 'message': exc.detail}, ensure_ascii=False)}\n\n"
+        except Exception as exc:
+            print(f"[verify_claim_stream] 核验失败: {exc}")
+            yield f"data: {json.dumps({'type': 'error', 'message': 'AI 核验失败，请重试'}, ensure_ascii=False)}\n\n"
+
+    return StreamingResponse(event_stream(), media_type="text/event-stream", headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
+
+
+@app.post("/api/build_single_actions")
+async def build_single_actions(req: BuildSingleActionsRequest):
+    if not any(isinstance(item, dict) and str(item.get("correction") or "").strip() for item in req.claims):
+        return {"actions": []}
+    try:
+        return {"actions": await asyncio.to_thread(generate_single_actions, req)}
+    except Exception as e:
+        print(f"[build_single_actions] 生成失败: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="行动建议生成失败，请稍后重试")
+
+
 @app.post("/api/followup")
 async def followup(req: FollowupRequest):
     history_text = "\n".join(f"{m.role}: {m.content}" for m in req.history)
@@ -1524,7 +2222,8 @@ async def followup(req: FollowupRequest):
    请用通俗、准确的方式做名词解释/科普，帮助用户看懂，可以补充必要的常识性背景知识。
 3. 如果用户问的是与本话题相关的延伸问题，结合已分析内容尽量解答，并指出哪些有视频支撑、哪些是通用常识。
 4. 只有当问题与该运动健康话题**完全无关**时（例如问天气、问股票），才回复：这个问题和当前分析的视频话题无关哦。
-5. 回答简洁清楚，避免空话。"""
+5. 回答简洁清楚，避免空话。
+6. 可适度使用 Markdown 提升可读性：仅用 **加粗** 标出关键结论、用 - 列出要点；不要输出 HTML、表格或复杂标题。"""
     try:
         answer = await asyncio.to_thread(llm_chat, prompt, 8192)
     except Exception as e:
@@ -1557,7 +2256,8 @@ def build_followup_single_prompt(req: FollowupSingleRequest) -> str:
 2. 若问题超出已核验范围，可以做通俗的名词或常识解释，但必须明确说明这部分没有权威证据支撑、属于常识判断。
 3. 绝不编造机构、指南、论文、数据、证据编号或来源；没有依据时要诚实说明。
 4. 只有问题与这条视频的健康话题完全无关时，例如天气或股票，才回复：这个问题和当前视频无关哦。
-5. 使用简洁、清楚的中文回答。"""
+5. 使用简洁、清楚的中文回答。
+6. 可适度使用 Markdown 提升可读性：仅用 **加粗** 标出关键结论、用 - 列出要点；不要输出 HTML、表格或复杂标题。"""
 
 
 @app.post("/api/followup_single")
@@ -1569,3 +2269,38 @@ async def followup_single(req: FollowupSingleRequest):
         print(f"[followup_single] 失败: {e}")
         raise HTTPException(status_code=500, detail="追问失败，请重试")
     return {"answer": answer.strip()}
+
+
+@app.post("/api/followup_single_stream")
+async def followup_single_stream(req: FollowupSingleRequest):
+    prompt = build_followup_single_prompt(req)
+
+    def event_stream():
+        emitted = False
+        try:
+            stream = get_llm_client().chat.completions.create(
+                model=DEEPSEEK_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=8192,
+                temperature=0.3,
+                stream=True,
+            )
+            for chunk in stream:
+                content = chunk.choices[0].delta.content if chunk.choices else None
+                if not content:
+                    continue
+                emitted = True
+                yield f"data: {json.dumps({'type': 'delta', 'content': content}, ensure_ascii=False)}\n\n"
+            if emitted:
+                yield f"data: {json.dumps({'type': 'done'}, ensure_ascii=False)}\n\n"
+            else:
+                yield f"data: {json.dumps({'type': 'error', 'message': 'AI 未返回回答，请重试'}, ensure_ascii=False)}\n\n"
+        except Exception as exc:
+            print(f"[followup_single_stream] 失败: {exc}")
+            yield f"data: {json.dumps({'type': 'error', 'message': '追问失败，请重试'}, ensure_ascii=False)}\n\n"
+
+    return StreamingResponse(
+        event_stream(),
+        media_type="text/event-stream",
+        headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
+    )

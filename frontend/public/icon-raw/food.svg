@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path fill="currentColor" fill-rule="evenodd" d="M12 5.9a6.1 6.1 0 1 0 0 12.2 6.1 6.1 0 0 0 0-12.2Zm0 2.4a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z" clip-rule="evenodd"/>
+  <rect x=".55" y="2.7" width="1.35" height="5.8" rx=".68" fill="currentColor"/>
+  <rect x="2.75" y="2.7" width="1.35" height="5.8" rx=".68" fill="currentColor"/>
+  <rect x="4.95" y="2.7" width="1.35" height="5.8" rx=".68" fill="currentColor"/>
+  <path fill="currentColor" d="M.55 7.15H6.3v.7a2.88 2.88 0 0 1-2.88 2.88A2.88 2.88 0 0 1 .55 7.85v-.7Z"/>
+  <rect x="2.37" y="9.25" width="2.1" height="12.15" rx="1.05" fill="currentColor"/>
+  <ellipse cx="21" cy="6.15" rx="2.05" ry="3.15" fill="currentColor"/>
+  <rect x="19.95" y="8.2" width="2.1" height="13.2" rx="1.05" fill="currentColor"/>
+</svg>

@@ -1,7 +1,7 @@
 import asyncio
 import json
 import unittest
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 
 class SingleVideoPipelineTests(unittest.TestCase):
@@ -50,6 +50,8 @@ class SingleVideoPipelineTests(unittest.TestCase):
         from backend import main
 
         search_calls = []
+        store = Mock()
+        store._ensure_index.return_value = ([{"source_doc": "中国居民膳食指南（2022）"}], None)
 
         def fake_search(query, topic="", top_k=5):
             search_calls.append({"query": query, "topic": topic, "top_k": top_k})
@@ -86,6 +88,7 @@ class SingleVideoPipelineTests(unittest.TestCase):
 
         with patch.object(main.evidence_store, "search", side_effect=fake_search), \
                 patch.object(main.evidence_store, "search_fulltext", return_value=[]), \
+                patch.object(main.evidence_store, "get_store", return_value=store), \
                 patch.object(main, "llm_chat", side_effect=fake_llm):
             result = main.verify_single_claim("每天一个鸡蛋不用扔蛋黄", topic="不存在的标签")
 
@@ -95,11 +98,17 @@ class SingleVideoPipelineTests(unittest.TestCase):
         self.assertEqual(result["cited_evidence_ids"], ["E-egg-001"])
         self.assertEqual(result["evidence"][0]["source_doc"], "中国居民膳食指南（2022）")
         self.assertEqual(result["evidence"][0]["url"], "https://example.test/guide")
+        self.assertEqual(
+            [(item["step"], item["hit_count"]) for item in result["trace"] if "hit_count" in item],
+            [("retrieve_conclusion_topic", 0), ("retrieve_conclusion_all", 1)],
+        )
 
     def test_verify_claim_falls_back_to_fulltext_chunks_when_conclusions_miss(self):
         from backend import main
 
         fulltext_calls = []
+        store = Mock()
+        store._ensure_index.return_value = ([{"source_doc": "ACOG Committee Opinion No. 804"}], None)
 
         def fake_fulltext(query, topic="", top_k=5):
             fulltext_calls.append({"query": query, "topic": topic, "top_k": top_k})
@@ -127,13 +136,14 @@ class SingleVideoPipelineTests(unittest.TestCase):
                 "verdict": "需加条件",
                 "risk_level": "中",
                 "confidence": "中",
-                "strength": "中",
+                "strength": "高",
                 "correction": "孕期运动通常需要先排除禁忌，并留意停止运动的警示症状。",
                 "cited_evidence_ids": ["F-acog-001", "E-fake-999"],
             }, ensure_ascii=False)
 
         with patch.object(main.evidence_store, "search", return_value=[]), \
                 patch.object(main.evidence_store, "search_fulltext", side_effect=fake_fulltext), \
+                patch.object(main.evidence_store, "get_store", return_value=store), \
                 patch.object(main, "llm_chat", side_effect=fake_llm):
             result = main.verify_single_claim("孕妇运动越多越好", topic="孕产")
 
@@ -142,9 +152,14 @@ class SingleVideoPipelineTests(unittest.TestCase):
         self.assertEqual(result["evidence_tier"], "全文")
         self.assertEqual(result["cited_evidence_ids"], ["F-acog-001"])
         self.assertEqual(result["evidence"][0]["strength"], "原文段落")
+        self.assertEqual(result["strength"], "中")
+        self.assertIn("downgrade_tier", [item["step"] for item in result["trace"]])
 
     def test_verify_claim_degrades_when_no_evidence_matches(self):
         from backend import main
+
+        store = Mock()
+        store._ensure_index.return_value = ([{"source_doc": "中国居民膳食指南（2022）"}], None)
 
         def fake_llm(prompt, max_tokens=8192, json_mode=False, retries=3, model=None):
             self.assertIn("未命中已收录权威依据", prompt)
@@ -159,6 +174,7 @@ class SingleVideoPipelineTests(unittest.TestCase):
 
         with patch.object(main.evidence_store, "search", return_value=[]), \
                 patch.object(main.evidence_store, "search_fulltext", return_value=[]), \
+                patch.object(main.evidence_store, "get_store", return_value=store), \
                 patch.object(main, "llm_chat", side_effect=fake_llm):
             result = main.verify_single_claim("今天天气怎么样", topic="天气")
 
@@ -166,6 +182,7 @@ class SingleVideoPipelineTests(unittest.TestCase):
         self.assertEqual(result["evidence_tier"], "无")
         self.assertEqual(result["strength"], "低")
         self.assertEqual(result["cited_evidence_ids"], [])
+        self.assertIn("downgrade_common_sense", [item["step"] for item in result["trace"]])
 
     def test_followup_uses_8192_tokens(self):
         from backend import main

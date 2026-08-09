@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="poster_mobile_v9_4_compact.css" />
+  <style>
+    /* v9.4 compact: keep the v9.3 visual language and type scale; only tighten layout. */
+    .poster{width:900px;height:auto;background:#f7fbfa}
+    .header{height:auto;min-height:42px}
+    .hero{height:auto;min-height:0;padding:13px 16px 4px}.hero h1{margin-bottom:0}.watermark{top:5px;width:64px;height:72px}
+    .claim-row{grid-template-columns:54px minmax(0,1fr) 82px}
+    .quote{color:#84928f;font-size:12px}.conclusion{font-size:15px}.conclusion span{overflow:visible;text-overflow:clip}.claim-stamp{display:block;position:relative;z-index:2;width:80px;height:80px;transform:translateY(-34px);opacity:1}
+    .poster{height:auto}.content{flex:none;padding-left:28px;padding-right:28px}.claims{margin-top:10px}.section-heading{height:34px}.action-card{height:auto;min-height:208px;margin-top:12px;padding:10px 14px}.action-flow{min-height:122px;align-items:start;justify-items:stretch;gap:16px}.action-step{display:grid;grid-template-columns:1fr;grid-template-rows:36px auto auto;gap:3px;justify-self:stretch;justify-items:center;align-items:start;text-align:center;padding:0 8px}.action-step>img:not(.action-arrow){grid-row:1;width:32px;height:32px}.action-order{left:calc(50% + 7px);top:-4px;z-index:2}.action-step>div{width:100%}.action-step strong{font-size:20px;line-height:1.25;white-space:normal}.action-step div span{font-size:16px;line-height:1.3;white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}.action-step:not(:last-child)::after{content:none}.action-step>.action-arrow{position:absolute;top:14px;right:-25px;width:30px;height:auto;padding:0;border:0;border-radius:0;background:transparent;transform:none}.action-step:last-child>.action-arrow{display:none}.action-note{margin:10px 0 0;color:#68817c;font-size:15px;line-height:1.45;white-space:normal}
+    footer{padding-left:28px;padding-right:28px}.video-card{height:126px;margin-top:10px;padding:8px;gap:13px}.video-cover{width:194px;height:109px;flex-basis:194px}.video-copy{align-self:stretch;display:flex;flex:1;align-items:flex-start;flex-direction:column;justify-content:center;text-align:left}.video-copy h2{font-size:24px}.video-copy p{font-size:14px;margin-top:4px}.video-checkline{display:flex;align-items:center;justify-content:space-between;align-self:stretch;margin-top:7px;padding-top:7px;border-top:1px solid #e3eeeb;color:#64807a;font-size:13px}.video-checkline strong{color:#0a8b7e;font-size:14px}
+    .evidence-card{margin-top:12px;margin-bottom:12px;padding:12px 15px;border:1px solid #dcebe7;border-radius:14px;background:rgba(255,255,255,.8)}
+    .evidence-row{display:flex;align-items:center;gap:9px;color:#55736d;font-size:13px;line-height:1.55}.evidence-row+ .evidence-row{margin-top:7px}.evidence-row b{color:#0a8b7e;font-size:14px}.evidence-dot{width:7px;height:7px;flex:0 0 7px;border-radius:50%;background:#19b9a6}
+  </style>
+  <link rel="stylesheet" href="poster_mobile_v9_3_background_fix.css" />
+</head>
+<body>
+  <main class="poster">
+    <div class="content">
+      <header class="header">
+        <div class="brand"><img src="assets/shield.svg" alt="" /><div><strong>FitProof</strong><span>科学核验 · 健康决策</span></div></div>
+        <div class="tagline"><strong>让 AI 替你多看一步</strong><span>识别视频里的健康误导</span></div>
+      </header>
+      <section class="hero">
+        <img class="watermark" src="assets/shield.svg" alt="" />
+        <p>核心结论</p><h1>{{core_conclusion}}</h1>
+      </section>
+      <section class="video-card">
+        <div class="video-cover"><img src="{{video_cover_url}}" alt="" /><span>{{video_duration}}</span></div>
+        <div class="video-copy"><h2>{{video_title}}</h2><p>作者：{{author}}</p><div class="video-checkline"><span>AI 核验完成</span><strong>{{claims_count}} 条重点说法</strong></div></div>
+      </section>
+      <section class="claims">
+        <div class="section-heading"><h2>重点核验</h2></div>
+        {{#claims}}
+        <article class="claim-row">
+          <div class="claim-index"><b>{{claim_number}}</b><span>{{claim_time}}</span></div>
+          <div class="claim-content"><p class="quote">{{claim_quote}}</p><p class="conclusion"><b>科学结论</b><span>{{claim_conclusion}}</span></p></div>
+          {{claim_stamp}}
+        </article>
+        {{/claims}}
+      </section>
+      <section class="action-card">
+        <div class="section-heading"><h2>更稳妥的做法</h2></div>
+        <div class="action-flow actions-{{action_count}}">
+          {{#actions}}
+          <article class="action-step"><span class="action-order">{{action_number}}</span><img src="{{action_icon_src}}" alt="" /><div><strong>{{action_title}}</strong><span>{{action_desc}}</span></div><img class="action-arrow" src="assets/arrowhead.svg" alt="" /></article>
+          {{/actions}}
+          {{actions_empty}}
+        </div>
+        <p class="action-note">{{action_note}}</p>
+      </section>
+      <section class="evidence-card" aria-label="核验依据与适用提醒">
+        <div class="evidence-row"><span class="evidence-dot"></span><b>核验依据</b><span>{{references_text}}</span></div>
+        <div class="evidence-row"><span class="evidence-dot"></span><b>适用提醒</b><span>特殊健康状况请结合专业意见</span></div>
+      </section>
+    </div>
+    <footer><strong>查看完整核验 →</strong><div class="footer-qr"><div class="qr">{{qr_cells}}</div><span>扫码查看<br>完整报告</span></div></footer>
+  </main>
+</body>
+</html>

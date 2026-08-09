@@ -4,6 +4,11 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'FitProof',
   description: '让 AI 替你多看一步，辨析运动短视频里的争议说法',
+  icons: {
+    icon: '/brand/cat-doctor-favicon.png',
+    shortcut: '/brand/cat-doctor-favicon.png',
+    apple: '/brand/cat-doctor-favicon.png',
+  },
 }
 
 export default function RootLayout({

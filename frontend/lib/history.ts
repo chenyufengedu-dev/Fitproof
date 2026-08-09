@@ -38,6 +38,17 @@ export function appendHistory(record: HistoryRecord): HistoryRecord[] {
   return next
 }
 
+export function removeHistory(id: string): HistoryRecord[] {
+  if (typeof window === 'undefined') return []
+  const next = loadHistory().filter((item) => item.id !== id)
+  try {
+    window.localStorage.setItem(HISTORY_KEY, JSON.stringify(next))
+  } catch {
+    // Best-effort: a storage failure should not block the UI from updating.
+  }
+  return next
+}
+
 export function clearHistory() {
   if (typeof window === 'undefined') return
   try {
