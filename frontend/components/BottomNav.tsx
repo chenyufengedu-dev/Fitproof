@@ -34,8 +34,8 @@ function TabIcon({ id, active }: { id: TabId; active: boolean }) {
 
 export default function BottomNav({ activeTab, onChange }: BottomNavProps) {
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-50 border-t border-[#D8F0EC] bg-white pb-[env(safe-area-inset-bottom)]" aria-label="主导航">
-      <div className="mx-auto grid h-[54px] max-w-lg grid-cols-3">
+    <nav className="fixed inset-x-0 bottom-0 z-50 border-t border-[#D8F0EC] bg-white pb-[var(--bottom-safe-area)]" aria-label="主导航">
+      <div className="mx-auto grid h-[var(--bottom-nav-height)] max-w-lg grid-cols-3">
         {tabs.map((tab) => {
           const active = activeTab === tab.id
           return (

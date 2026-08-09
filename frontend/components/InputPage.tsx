@@ -126,14 +126,14 @@ export default function InputPage({
   }
 
   return (
-    <main className="min-h-screen bg-[#f7fffd] px-4 py-4 text-slate-950 sm:px-5 sm:py-8">
-      <div className="mx-auto flex min-h-[calc(100vh-2rem)] max-w-2xl flex-col justify-start sm:min-h-[calc(100vh-4rem)] sm:justify-center">
-        <div className="mb-3 inline-flex w-fit items-center gap-2 rounded-full border border-[#20CDB6]/25 bg-white px-3 py-1.5 text-xs font-medium text-[#0B6E63] shadow-sm sm:mb-5">
+    <main className="fitproof-input-page bg-[#f7fffd] px-4 py-4 text-slate-950 sm:px-5 sm:py-8">
+      <div className="fitproof-input-shell mx-auto flex max-w-2xl flex-col justify-start sm:justify-center">
+        <div className="fitproof-input-badge mb-3 inline-flex w-fit items-center gap-2 rounded-full border border-[#20CDB6]/25 bg-white px-3 py-1.5 text-xs font-medium text-[#0B6E63] shadow-sm sm:mb-5">
           <span className="h-2 w-2 rounded-full bg-[#20CDB6]" />
           健康说法核验 · AI 证据校验
         </div>
 
-        <section className={`fitproof-brand-card is-${introPhase} relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white p-6 shadow-[0_22px_70px_rgba(18,116,103,0.12)]`}>
+        <section className={`fitproof-input-brand-card fitproof-brand-card is-${introPhase} relative overflow-hidden rounded-[30px] border border-[#20CDB6]/15 bg-white p-6 shadow-[0_22px_70px_rgba(18,116,103,0.12)]`}>
           <div className="relative -mt-2 inline-block">
             <h1 className="sr-only">FitProof</h1>
             <FitProofBrandIntro onLayoutReady={handleBrandLayoutReady} onPhaseChange={setIntroPhase} />
@@ -143,11 +143,11 @@ export default function InputPage({
               } drop-shadow-[0_14px_22px_rgba(15,118,110,0.14)]`}
             />
           </div>
-          <p className="fitproof-brand-tagline mt-3 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
-          <p className="mt-3 text-[15px] leading-relaxed text-slate-500">
+          <p className="fitproof-input-tagline fitproof-brand-tagline mt-3 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
+          <p className="fitproof-input-description mt-3 text-[15px] leading-relaxed text-slate-500">
             粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
           </p>
-          <div className="mt-5 flex flex-nowrap items-center justify-between gap-1.5 whitespace-nowrap text-[11px] font-medium min-[420px]:text-xs">
+          <div className="fitproof-input-features mt-5 flex flex-nowrap items-center justify-between gap-1.5 whitespace-nowrap text-[11px] font-medium min-[420px]:text-xs">
             <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-[#E5C455]/55 bg-[#FFFDF5] px-1 py-1 font-semibold text-[#D2A517] shadow-[0_1px_3px_rgba(180,139,14,0.05)]">
               <svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M12 1.75c.5 6.7 3.55 9.75 10.25 10.25C15.55 12.5 12.5 15.55 12 22.25 11.5 15.55 8.45 12.5 1.75 12 8.45 11.5 11.5 8.45 12 1.75Z" />
@@ -169,7 +169,7 @@ export default function InputPage({
           </div>
         </section>
 
-        <section className="mt-3 rounded-[28px] border border-[#20CDB6]/15 bg-white p-4 shadow-[0_12px_36px_rgba(18,116,103,0.08)]">
+        <section className="fitproof-input-form-card mt-3 rounded-[28px] border border-[#20CDB6]/15 bg-white p-4 shadow-[0_12px_36px_rgba(18,116,103,0.08)]">
 
           <div className="mt-1 space-y-3">
               {clipboardLink && (
@@ -212,7 +212,7 @@ export default function InputPage({
               </label>
               {localVideoError && <p className="t-meta text-amber-700">{localVideoError}</p>}
               <div className="space-y-2">
-                <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+                <div className="fitproof-input-actions grid grid-cols-1 gap-2 min-[350px]:grid-cols-2">
                   <button
                     type="button"
                     onClick={() => void handleSingleSubmit()}

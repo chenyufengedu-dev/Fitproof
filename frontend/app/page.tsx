@@ -138,8 +138,8 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-[100dvh] bg-white">
-      <div className="pb-[54px]">
+    <div className="min-h-screen min-h-[100dvh] bg-white">
+      <div className="pb-[var(--bottom-app-inset)]">
         {activeTab === 'verify' ? renderVerifyContent()
           : activeTab === 'knowledge' ? <KnowledgeTab />
           : <ProfileTab />}

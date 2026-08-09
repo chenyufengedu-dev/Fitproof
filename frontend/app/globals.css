@@ -2,12 +2,93 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --bottom-nav-height: 54px;
+  --bottom-safe-area: env(safe-area-inset-bottom, 0px);
+  --bottom-app-inset: calc(var(--bottom-nav-height) + var(--bottom-safe-area));
+}
+
 html,
 body {
+  min-height: 100%;
+  overflow-x: clip;
   padding: 0;
   margin: 0;
   font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+
+.fitproof-input-page {
+  min-height: calc(100dvh - var(--bottom-app-inset));
+}
+
+.fitproof-input-shell {
+  min-height: calc(100dvh - var(--bottom-app-inset) - 2rem);
+}
+
+@media (max-height: 779px) and (max-width: 639px) {
+  .fitproof-input-page {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+  .fitproof-input-shell {
+    min-height: calc(100dvh - var(--bottom-app-inset) - 1.5rem);
+  }
+  .fitproof-input-badge {
+    margin-bottom: 0.5rem;
+  }
+  .fitproof-input-brand-card {
+    padding: 1rem;
+    border-radius: 1.5rem;
+  }
+  .fitproof-input-tagline {
+    margin-top: 0.5rem;
+  }
+  .fitproof-input-description {
+    margin-top: 0.5rem;
+    line-height: 1.5;
+  }
+  .fitproof-input-features {
+    margin-top: 0.75rem;
+  }
+  .fitproof-input-form-card {
+    margin-top: 0.5rem;
+    padding: 0.75rem;
+  }
+}
+
+@media (max-height: 639px) and (max-width: 639px) {
+  .fitproof-input-page {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .fitproof-input-shell {
+    min-height: auto;
+  }
+  .fitproof-input-badge {
+    margin-bottom: 0.375rem;
+  }
+  .fitproof-input-brand-card {
+    padding: 0.75rem;
+    border-radius: 1.25rem;
+  }
+  .fitproof-input-tagline {
+    display: inline;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+  }
+  .fitproof-input-description {
+    margin-top: 0.375rem;
+    font-size: 0.8125rem;
+  }
+  .fitproof-input-features {
+    margin-top: 0.5rem;
+  }
+  .fitproof-input-form-card {
+    margin-top: 0.375rem;
+    padding: 0.625rem;
+    border-radius: 1.25rem;
+  }
 }
 
 /* 隐藏横向卡片流的滚动条，保留滑动 */
