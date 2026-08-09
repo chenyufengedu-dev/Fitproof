@@ -109,7 +109,9 @@ def normalize_content_route(data: Any, source_text: str) -> dict[str, Any]:
     }
     if decision not in allowed[scope]:
         raise ContentRoutingError("内容路由类别与决定冲突")
-    need_visual = bool(data.get("need_visual"))
+    if not isinstance(data.get("need_visual"), bool):
+        raise ContentRoutingError("画面判断必须是布尔值")
+    need_visual = data["need_visual"]
     if need_visual != (decision == "inspect_visual"):
         raise ContentRoutingError("画面判断与路由决定冲突")
     raw_quotes = data.get("quotes")

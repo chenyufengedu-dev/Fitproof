@@ -62,6 +62,16 @@ class ContentRouterTests(unittest.TestCase):
                 "quotes": ["每天吃三个鸡蛋"],
             }, source_text="每天可以吃一个鸡蛋")
 
+    def test_rejects_non_boolean_visual_flag(self):
+        with self.assertRaises(ContentRoutingError):
+            normalize_content_route({
+                "scope": "pending_visual",
+                "decision": "inspect_visual",
+                "need_visual": "true",
+                "reason": "需查看画面",
+                "quotes": [],
+            }, source_text="普通文本")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -57,7 +57,6 @@ MEDIA_FETCH_ORDER = os.getenv("MEDIA_FETCH_ORDER", "tikhub,upload")
 
 # 关键帧多模态：默认开启，可在 .env 设 ENABLE_KEYFRAMES=0 关闭
 ENABLE_KEYFRAMES = os.getenv("ENABLE_KEYFRAMES", "1") not in ("0", "false", "False", "")
-ENABLE_KEYFRAME_GATE = os.getenv("ENABLE_KEYFRAME_GATE", "1") not in ("0", "false", "False", "")
 KEYFRAME_INTERVAL = int(os.getenv("KEYFRAME_INTERVAL", "5"))
 KEYFRAME_MAX = int(os.getenv("KEYFRAME_MAX", os.getenv("MAX_KEYFRAMES", "8")))
 KEYFRAME_SAMPLE_LIMIT = int(os.getenv("KEYFRAME_SAMPLE_LIMIT", "120"))
