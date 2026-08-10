@@ -23,6 +23,56 @@ class SingleVideoPipelineTests(unittest.TestCase):
 
         self.assertEqual(result, "https://v.douyin.com/Dn8_yKgnK2Q/")
 
+    def test_route_video_metadata_stops_vibe_coding_before_deep_analysis(self):
+        from backend import main
+
+        response = json.dumps({
+            "decision": "stop",
+            "scope": "unrelated",
+            "confidence": "high",
+            "reason": "内容为网站开发教程",
+            "quotes": ["如何 Vibe Coding 一个有设计感的个人网站"],
+        }, ensure_ascii=False)
+        media = {
+            "source": "tikhub",
+            "title": "如何 Vibe Coding 一个有设计感的个人网站",
+            "description": "AI 工具教程",
+        }
+
+        with patch.object(main, "llm_chat", return_value=response) as llm:
+            result = main.route_video_metadata(media)
+
+        self.assertEqual(result["decision"], "stop")
+        self.assertEqual(result["scope"], "unrelated")
+        self.assertEqual(llm.call_args.kwargs["model"], main.DEEPSEEK_FAST_MODEL)
+        self.assertEqual(llm.call_args.kwargs["max_tokens"], 256)
+
+    def test_route_video_metadata_fails_open_when_model_is_unavailable(self):
+        from backend import main
+
+        media = {
+            "source": "tikhub",
+            "title": "今天给大家看一个好东西",
+            "description": "",
+        }
+
+        with patch.object(main, "llm_chat", side_effect=RuntimeError("模型暂不可用")):
+            result = main.route_video_metadata(media)
+
+        self.assertIsNone(result)
+
+    def test_route_video_metadata_skips_uploaded_filenames(self):
+        from backend import main
+
+        with patch.object(main, "llm_chat") as llm:
+            result = main.route_video_metadata({
+                "source": "upload",
+                "title": "Vibe Coding.mp4",
+            })
+
+        self.assertIsNone(result)
+        llm.assert_not_called()
+
     def test_extract_claims_uses_fast_model_and_returns_claim_list(self):
         from backend import main
 

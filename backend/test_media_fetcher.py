@@ -14,6 +14,7 @@ class MediaFetcherTests(unittest.TestCase):
             def json(self):
                 return {"data": {"aweme_detail": {
                     "item_title": "测试标题",
+                    "desc": "这是一段用于快速内容路由的完整视频描述",
                     "author": {"nickname": "测试作者", "avatar_thumb": {"url_list": ["https://example.test/avatar.jpg"]}},
                     "music": {"play_url": {"uri": "https://example.test/audio.mp3"}},
                     "video": {"play_addr": {"url_list": ["https://example.test/video.mp4"]}},
@@ -27,6 +28,7 @@ class MediaFetcherTests(unittest.TestCase):
         self.assertEqual(detail["duration"], 76.0)
         self.assertEqual(detail["published_at"], "2023-07-18")
         self.assertEqual(detail["author_avatar_url"], "https://example.test/avatar.jpg")
+        self.assertEqual(detail["description"], "这是一段用于快速内容路由的完整视频描述")
 
     def test_resolve_url_extracts_link_from_share_text_before_redirect(self):
         from backend import main
@@ -97,6 +99,7 @@ class MediaFetcherTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=media), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])) as transcribe, \

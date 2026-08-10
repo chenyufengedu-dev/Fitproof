@@ -77,6 +77,7 @@ class AsrProviderTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "download_mp3") as download_mp3, \
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
@@ -110,6 +111,7 @@ class AsrProviderTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "local"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "download_mp3", return_value="local.mp3") as download_mp3, \
                 patch.object(main, "transcribe", return_value=("原始文本", [])) as transcribe, \
                 patch.object(main, "route_video_content", return_value={

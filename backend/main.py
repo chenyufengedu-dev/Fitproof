@@ -27,17 +27,21 @@ except ImportError:
 
 try:
     from content_router import (
+        build_metadata_route_prompt,
         ContentRoutingError,
         build_content_route_prompt,
         metadata_precheck,
         normalize_content_route,
+        normalize_metadata_route,
     )
 except ImportError:
     from backend.content_router import (
+        build_metadata_route_prompt,
         ContentRoutingError,
         build_content_route_prompt,
         metadata_precheck,
         normalize_content_route,
+        normalize_metadata_route,
     )
 
 try:
@@ -285,6 +289,7 @@ def fetch_video_detail(aweme_id: str) -> dict:
     resp.raise_for_status()
     detail = resp.json()["data"]["aweme_detail"]
     title = detail.get("item_title") or detail.get("desc") or "未命名视频"
+    description = str(detail.get("desc") or "").strip()
     author_data = detail.get("author") or {}
     author = author_data.get("nickname") or "作者未标注"
     avatar_urls = (author_data.get("avatar_thumb") or {}).get("url_list") or []
@@ -317,6 +322,7 @@ def fetch_video_detail(aweme_id: str) -> dict:
         pass
     return {
         "title": title,
+        "description": description,
         "author": author,
         "author_avatar_url": author_avatar_url,
         "audio_url": audio_url,
@@ -1040,6 +1046,31 @@ def route_video_content(
     return normalize_content_route(data, source_text)
 
 
+def route_video_metadata(media: dict) -> dict | None:
+    """Conservatively stop obvious non-health media before ASR; fail open."""
+    deterministic = metadata_precheck(media)
+    if deterministic is not None:
+        return deterministic
+    if str(media.get("source") or "").lower() == "upload":
+        return None
+    source_text = "\n".join(
+        str(media.get(key) or "") for key in ("title", "description", "category")
+    )
+    if not source_text.strip():
+        return None
+    try:
+        raw = llm_chat(
+            build_metadata_route_prompt(media),
+            max_tokens=256,
+            json_mode=True,
+            model=DEEPSEEK_FAST_MODEL,
+        )
+        return normalize_metadata_route(parse_json_loose(raw), source_text)
+    except Exception as exc:
+        print(f"[metadata-route] 无法可靠提前判断，进入深度路由: {str(exc)[:160]}")
+        return None
+
+
 def sample_keyframes(
     video_ref: str,
     segments: list[dict] | None = None,
@@ -1179,7 +1210,7 @@ def extract_one_video(index: int, link: str, media: dict | None = None) -> dict:
     keyframes: list[dict] = []
     content_route: dict | None = None
     try:
-        content_route = metadata_precheck(media)
+        content_route = route_video_metadata(media)
         if content_route is None:
             clean_text, segments, raw_text = run_audio_line()
             content_route = route_video_content(media, clean_text)

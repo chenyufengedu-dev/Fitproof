@@ -134,6 +134,7 @@ class KeyframePipelineTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "transcribe", side_effect=transcribe_with_trace), \
                 patch.object(main, "sample_keyframes", side_effect=sampling_with_trace), \
                 patch.object(main, "route_video_content", side_effect=route_with_trace), \
@@ -149,6 +150,35 @@ class KeyframePipelineTests(unittest.TestCase):
         self.assertEqual(video["clean_text"], "原始文本")
         self.assertEqual(video["keyframes"], [{"time": 10, "screen_text": "图表"}])
         self.assertEqual(video["content_route"]["scope"], "explicit_claim")
+
+    def test_extract_one_video_stops_from_metadata_before_asr(self):
+        from backend import main
+
+        media = {
+            "source": "tikhub",
+            "title": "Vibe Coding 个人网站",
+            "author": "作者",
+            "audio_url": "https://example.test/audio.mp3",
+            "cleanup_paths": [],
+        }
+        stopped = {
+            "scope": "unrelated",
+            "decision": "stop",
+            "need_visual": False,
+            "reason": "网站开发教程",
+            "quotes": ["Vibe Coding 个人网站"],
+        }
+
+        with patch.object(main, "route_video_metadata", return_value=stopped), \
+                patch.object(main, "transcribe") as transcribe, \
+                patch.object(main, "route_video_content") as deep_route, \
+                patch.object(main, "sample_keyframes") as sample:
+            result = main.extract_one_video(1, "", media)
+
+        transcribe.assert_not_called()
+        deep_route.assert_not_called()
+        sample.assert_not_called()
+        self.assertEqual(result["content_route"], stopped)
 
     def test_extract_one_video_downloads_video_url_before_keyframes(self):
         from backend import main
@@ -166,6 +196,7 @@ class KeyframePipelineTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])), \
@@ -200,6 +231,7 @@ class KeyframePipelineTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "transcribe", return_value=("原始文本", [
                     {"start": 1.0, "text": "原始文本"}
                 ])), \
@@ -225,6 +257,7 @@ class KeyframePipelineTests(unittest.TestCase):
         with patch.dict(os.environ, {"ASR_PROVIDER": "dashscope"}, clear=False), \
                 patch.object(main, "resolve_url", return_value="https://www.douyin.com/video/123456"), \
                 patch.object(main, "fetch_media", return_value=detail), \
+                patch.object(main, "route_video_metadata", return_value=None), \
                 patch.object(main, "transcribe", return_value=("今天出去散步", [])), \
                 patch.object(main, "route_video_content", return_value={
                     "scope": "health_context_only", "decision": "stop", "need_visual": False,
