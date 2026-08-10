@@ -64,6 +64,56 @@ def metadata_precheck(media: dict[str, Any]) -> dict[str, Any] | None:
     }
 
 
+def build_metadata_route_prompt(media: dict[str, Any]) -> str:
+    return f"""你是 FitProof 一级内容门卫，只看视频元信息判断是否明确与健康信息核验无关。
+
+你只负责提前停止非常明确的无关主题，不负责判断健康说法真假。
+只有标题、描述或分类明确属于编程、网站设计、影视、游戏、旅游、娱乐、赛事等非健康主题时，才返回 stop / unrelated / high。
+只要涉及饮食、减脂、运动、康复、疾病、睡眠、用药等健康线索，必须返回 continue_deep / potential_health。
+如果信息不足或无法确定，必须返回 continue_deep / uncertain，不能猜测。
+quotes 必须逐字来自标题、描述或分类；不得根据作者昵称推断主题。
+
+标题：{media.get('title', '')}
+描述：{media.get('description', '')}
+分类：{media.get('category', '')}
+
+输出严格 JSON，不要输出其他内容：
+{{"decision":"continue_deep","scope":"uncertain","confidence":"low","reason":"信息不足","quotes":[]}}"""
+
+
+def normalize_metadata_route(data: Any, source_text: str) -> dict[str, Any] | None:
+    if not isinstance(data, dict):
+        raise ContentRoutingError("元信息路由返回不是对象")
+    decision = str(data.get("decision") or "").strip()
+    scope = str(data.get("scope") or "").strip()
+    confidence = str(data.get("confidence") or "").strip()
+    if decision not in {"stop", "continue_deep"}:
+        raise ContentRoutingError("元信息路由决定非法")
+    if scope not in {"unrelated", "potential_health", "uncertain"}:
+        raise ContentRoutingError("元信息路由范围非法")
+    if confidence not in {"low", "medium", "high"}:
+        raise ContentRoutingError("元信息路由置信度非法")
+    raw_quotes = data.get("quotes", [])
+    if not isinstance(raw_quotes, list):
+        raise ContentRoutingError("元信息引用格式非法")
+    quotes = [str(item).strip() for item in raw_quotes if str(item).strip()]
+    if any(quote not in source_text for quote in quotes):
+        raise ContentRoutingError("元信息路由引用不落地")
+    if decision == "continue_deep":
+        if scope not in {"potential_health", "uncertain"}:
+            raise ContentRoutingError("元信息继续决定与范围冲突")
+        return None
+    if scope != "unrelated" or confidence != "high" or not quotes:
+        raise ContentRoutingError("元信息停止条件不足")
+    return {
+        "scope": "unrelated",
+        "decision": "stop",
+        "need_visual": False,
+        "reason": str(data.get("reason") or "明确为非健康内容").strip()[:120],
+        "quotes": quotes[:3],
+    }
+
+
 def build_content_route_prompt(
     media: dict[str, Any],
     clean_text: str,

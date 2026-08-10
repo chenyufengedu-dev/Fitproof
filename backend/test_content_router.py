@@ -1,13 +1,65 @@
 import unittest
 
 from backend.content_router import (
+    build_metadata_route_prompt,
     ContentRoutingError,
     metadata_precheck,
     normalize_content_route,
+    normalize_metadata_route,
 )
 
 
 class ContentRouterTests(unittest.TestCase):
+    def test_metadata_prompt_defines_conservative_fast_gate(self):
+        prompt = build_metadata_route_prompt({
+            "title": "如何 Vibe Coding 一个有设计感的个人网站",
+            "description": "AI 工具教程",
+        })
+        self.assertIn("continue_deep", prompt)
+        self.assertIn("无法确定", prompt)
+        self.assertIn("如何 Vibe Coding 一个有设计感的个人网站", prompt)
+
+    def test_metadata_route_stops_grounded_high_confidence_unrelated_content(self):
+        result = normalize_metadata_route({
+            "decision": "stop",
+            "scope": "unrelated",
+            "confidence": "high",
+            "reason": "网站开发教程",
+            "quotes": ["如何 Vibe Coding 一个有设计感的个人网站"],
+        }, "如何 Vibe Coding 一个有设计感的个人网站")
+        self.assertEqual(result["decision"], "stop")
+        self.assertEqual(result["scope"], "unrelated")
+
+    def test_metadata_route_continues_when_health_or_uncertain(self):
+        result = normalize_metadata_route({
+            "decision": "continue_deep",
+            "scope": "potential_health",
+            "confidence": "medium",
+            "reason": "涉及减脂饮食",
+            "quotes": ["减脂期我每天这样吃"],
+        }, "减脂期我每天这样吃")
+        self.assertIsNone(result)
+
+    def test_metadata_route_rejects_ungrounded_stop(self):
+        with self.assertRaises(ContentRoutingError):
+            normalize_metadata_route({
+                "decision": "stop",
+                "scope": "unrelated",
+                "confidence": "high",
+                "reason": "编程教程",
+                "quotes": ["输入中没有的文字"],
+            }, "个人网站教程")
+
+    def test_metadata_route_rejects_low_confidence_stop(self):
+        with self.assertRaises(ContentRoutingError):
+            normalize_metadata_route({
+                "decision": "stop",
+                "scope": "unrelated",
+                "confidence": "medium",
+                "reason": "可能无关",
+                "quotes": ["个人网站教程"],
+            }, "个人网站教程")
+
     def test_metadata_precheck_stops_explicit_non_health_formats(self):
         result = metadata_precheck({
             "source": "tikhub",
