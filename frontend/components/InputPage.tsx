@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 import ThinkingCatAnimation from "@/components/ThinkingCatAnimation";
 import FitProofBrandIntro, { type FitProofIntroPhase } from "@/components/brand/FitProofBrandIntro";
+import { extractDouyinVideoLink } from "@/lib/douyinLink.mjs";
 import type { SingleSampleData } from "@/types";
 
 interface InputPageProps {
@@ -11,12 +12,6 @@ interface InputPageProps {
   onAnalyzeUpload: (file: File, topic: string) => Promise<void>;
   onSingleSampleLoaded: (sample: SingleSampleData) => void;
   initialError?: string;
-  initialNotice?: string;
-}
-
-function findDouyinLink(text: string) {
-  const match = text.match(/https?:\/\/[^\s"'<>]*(?:v\.douyin\.com|douyin\.com\/video)[^\s"'<>]*/i);
-  return match?.[0] || "";
 }
 
 export default function InputPage({
@@ -25,13 +20,13 @@ export default function InputPage({
   onAnalyzeUpload,
   onSingleSampleLoaded,
   initialError,
-  initialNotice,
 }: InputPageProps) {
   const [singleLink, setSingleLink] = useState("");
   const [clipboardLink, setClipboardLink] = useState("");
   const [localVideo, setLocalVideo] = useState<File | null>(null);
   const [localVideoError, setLocalVideoError] = useState("");
   const [error, setError] = useState(initialError || "");
+  const [linkError, setLinkError] = useState("");
   const [singleSubmitting, setSingleSubmitting] = useState(false);
   const [introPhase, setIntroPhase] = useState<FitProofIntroPhase>("preparing");
   const [brandLayoutReady, setBrandLayoutReady] = useState(false);
@@ -44,7 +39,7 @@ export default function InputPage({
         if (typeof window === "undefined") return;
         if (!window.isSecureContext || !navigator.clipboard?.readText) return;
         const text = await navigator.clipboard.readText();
-        const link = findDouyinLink(text || "");
+        const link = extractDouyinVideoLink(text || "");
         if (!cancelled && link) setClipboardLink(link);
       } catch {
         // HTTP, IP access, denied permission, or browser policy all fall back to manual paste.
@@ -57,11 +52,14 @@ export default function InputPage({
   }, []);
 
   async function startSingle(link: string) {
-    const clean = findDouyinLink(link) || link.trim();
+    const clean = extractDouyinVideoLink(link);
     if (!clean) {
-      setError("请先粘贴一条抖音视频链接");
+      setLinkError(link.trim()
+        ? "这不是具体的抖音视频链接，请粘贴视频分享链接或 /video/数字ID 地址"
+        : "请先粘贴一条抖音视频链接");
       return;
     }
+    setLinkError("");
     setError("");
     setSingleSubmitting(true);
     try {
@@ -197,11 +195,15 @@ export default function InputPage({
                 <input
                   type="text"
                   value={singleLink}
-                  onChange={(e) => setSingleLink(e.target.value)}
+                  onChange={(e) => {
+                    setSingleLink(e.target.value);
+                    setLinkError("");
+                  }}
                   placeholder="粘贴单条抖音链接，如：https://v.douyin.com/..."
                   className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white py-3 pl-12 pr-4 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
                 />
               </div>
+              {linkError && <p role="alert" className="t-meta -mt-1 px-1 text-red-600">{linkError}</p>}
               <label className="flex min-h-14 cursor-pointer items-center gap-3 rounded-2xl border border-dashed border-[#20CDB6]/35 bg-[#F5FCFB] px-4 py-3 text-left transition active:scale-[0.99]">
                 <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-white text-[#0B8F82] shadow-sm" aria-hidden="true">
                   <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="4" y="6" width="16" height="12" rx="2" /><path d="m10 10 5 2-5 2v-4Z" fill="currentColor" stroke="none" /></svg>
@@ -241,7 +243,6 @@ export default function InputPage({
               </div>
           </div>
 
-          {initialNotice && <p className="mt-4 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-6 text-amber-800">{initialNotice}</p>}
           {error && <p className="mt-4 rounded-2xl bg-red-50 px-4 py-3 text-sm text-red-600">{error}</p>}
         </section>
       </div>

@@ -5,11 +5,12 @@ import test from 'node:test'
 const read = (path) => readFile(new URL(`../../${path}`, import.meta.url), 'utf8')
 
 test('single analysis models accepted and rejected routing results', async () => {
-  const [types, api, page, input] = await Promise.all([
+  const [types, api, page, input, modal] = await Promise.all([
     read('types.ts'),
     read('lib/api.ts'),
     read('app/page.tsx'),
     read('components/InputPage.tsx'),
+    read('components/ContentRejectionModal.tsx'),
   ])
 
   assert.match(types, /status:\s*['"]accepted['"]/)
@@ -17,7 +18,11 @@ test('single analysis models accepted and rejected routing results', async () =>
   assert.match(types, /SingleAnalyzeResult/)
   assert.match(api, /Promise<SingleAnalyzeResult>/)
   assert.match(page, /data\.status === ['"]rejected['"]/)
-  assert.match(page, /initialNotice=/)
-  assert.match(input, /initialNotice\?:/)
-  assert.match(input, /bg-amber-50/)
+  assert.match(page, /ContentRejectionModal/)
+  assert.doesNotMatch(page, /initialNotice=/)
+  assert.doesNotMatch(input, /initialNotice\?:/)
+  assert.match(modal, /role=["']dialog["']/)
+  assert.match(modal, /aria-modal=["']true["']/)
+  assert.match(modal, /换一个视频/)
+  assert.doesNotMatch(modal, /继续分析/)
 })
