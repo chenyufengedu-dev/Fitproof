@@ -40,6 +40,11 @@ except ImportError:
         normalize_content_route,
     )
 
+try:
+    from douyin_links import extract_douyin_video_url
+except ImportError:
+    from backend.douyin_links import extract_douyin_video_url
+
 load_dotenv()
 
 TIKHUB_TOKEN = os.getenv("TIKHUB_TOKEN", "")
@@ -232,6 +237,16 @@ class FollowupSingleRequest(BaseModel):
     claims: list[dict] = Field(default_factory=list)
     question: str
     history: list[ChatMessage] = Field(default_factory=list)
+
+
+def require_douyin_video_link(value: str) -> str:
+    link = extract_douyin_video_url(value)
+    if not link:
+        raise HTTPException(
+            status_code=400,
+            detail="这不是具体的抖音视频链接，请粘贴视频分享链接或 /video/数字ID 地址",
+        )
+    return link
 
 
 # ---------------------------------------------------------------------------
@@ -2083,10 +2098,9 @@ def img_proxy(url: str):
 
 @app.post("/api/analyze_single")
 async def analyze_single(req: AnalyzeSingleRequest):
-    if not req.link.strip():
-        raise HTTPException(status_code=400, detail="请提供一条视频链接")
+    link = require_douyin_video_link(req.link)
     try:
-        video = await asyncio.to_thread(extract_one_video, 1, req.link)
+        video = await asyncio.to_thread(extract_one_video, 1, link)
     except ContentRoutingError as e:
         print(f"[analyze_single] 内容路由失败: {e}")
         raise HTTPException(status_code=503, detail="暂时无法判断视频是否属于核验范围，请重试")

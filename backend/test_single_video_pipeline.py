@@ -5,6 +5,24 @@ from unittest.mock import Mock, patch
 
 
 class SingleVideoPipelineTests(unittest.TestCase):
+    def test_require_douyin_video_link_rejects_recommendation_page(self):
+        from backend import main
+
+        with self.assertRaises(main.HTTPException) as raised:
+            main.require_douyin_video_link("https://www.douyin.com/?recommend=1")
+
+        self.assertEqual(raised.exception.status_code, 400)
+        self.assertIn("不是具体的抖音视频链接", raised.exception.detail)
+
+    def test_require_douyin_video_link_extracts_share_text(self):
+        from backend import main
+
+        result = main.require_douyin_video_link(
+            "文案 https://v.douyin.com/Dn8_yKgnK2Q/ 复制打开"
+        )
+
+        self.assertEqual(result, "https://v.douyin.com/Dn8_yKgnK2Q/")
+
     def test_extract_claims_uses_fast_model_and_returns_claim_list(self):
         from backend import main
 
