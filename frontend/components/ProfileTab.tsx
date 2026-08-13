@@ -446,7 +446,7 @@ export default function ProfileTab() {
                     onBlur={commitName}
                     onKeyDown={(event) => { if (event.key === 'Enter') commitName() }}
                     maxLength={16}
-                    className="w-full rounded-lg border border-[#CFDEDB] px-2 py-0.5 text-[15px] font-extrabold outline-none focus:border-[#20CDB6]"
+                    className="w-full rounded-lg border border-[#CFDEDB] px-2 py-0.5 text-base font-extrabold outline-none focus:border-[#20CDB6]"
                     aria-label="修改昵称"
                   />
                 ) : (

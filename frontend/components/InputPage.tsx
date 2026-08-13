@@ -192,6 +192,8 @@ export default function InputPage({
                     <path d="M14.1 3.2c.5 2.7 2.1 4.3 4.8 4.8v3.1a8.6 8.6 0 0 1-4.7-1.5v5.2a5.2 5.2 0 1 1-4.5-5.1v3.2a2.1 2.1 0 1 0 1.3 1.9V3.2h3.1Z" fill="#111827" />
                   </svg>
                 </span>
+                {/* 字号必须 ≥16px：iOS 聚焦更小的输入框会自动放大整页且不回弹。
+                    16px 下占位塞不进原来的示例网址，改用短文案。 */}
                 <input
                   type="text"
                   value={singleLink}
@@ -199,8 +201,8 @@ export default function InputPage({
                     setSingleLink(e.target.value);
                     setLinkError("");
                   }}
-                  placeholder="粘贴单条抖音链接，如：https://v.douyin.com/..."
-                  className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white py-3 pl-12 pr-4 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+                  placeholder="粘贴抖音视频链接"
+                  className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white py-3 pl-12 pr-4 text-base outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
                 />
               </div>
               {linkError && <p role="alert" className="t-meta -mt-1 px-1 text-red-600">{linkError}</p>}

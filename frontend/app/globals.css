@@ -604,3 +604,16 @@ body {
     animation: none !important;
   }
 }
+
+/* iOS Safari / 微信等 WebKit 内核，在聚焦 font-size < 16px 的输入框时会自动放大整页，
+   且失焦后不会缩回，用户只能双指缩小。规范上不允许用 user-scalable=no / maximum-scale=1
+   去禁掉缩放（违反 WCAG 1.4.4，且 iOS 10+ 的 Safari 会忽略它），正解是把输入控件字号
+   提到 16px —— 这本来也是 iOS HIG(17pt) 和 Material 3(推荐 16sp) 的下限要求。
+   各控件仍应在自己的 class 里写明字号，这条只是兜底，防止以后新加的输入框再踩同一个坑。 */
+@media (max-width: 640px) {
+  input:not([type="file"]):not([type="checkbox"]):not([type="radio"]),
+  textarea,
+  select {
+    font-size: max(16px, 1em) !important;
+  }
+}

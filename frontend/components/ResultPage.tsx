@@ -987,7 +987,7 @@ export default function ResultPage({
             onChange={(e) => setQuestion(e.target.value)}
             onKeyDown={(e) => e.key === 'Enter' && handleSend()}
             placeholder="输入你的疑问"
-            className="flex-1 select-text rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-sm outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
+            className="flex-1 select-text rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-base outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
           />
           <button
             onClick={handleSend}
