@@ -1,10 +1,11 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
 const liveModule = await import('../verify/liveVerification.mjs').catch(() => null)
 const pageSource = readFileSync(new URL('../../app/page.tsx', import.meta.url), 'utf8')
-const resultSource = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const resultSource = singleResultSource
 const apiSource = readFileSync(new URL('../../lib/api.ts', import.meta.url), 'utf8')
 
 test('working and completed events update one real trace row', () => {

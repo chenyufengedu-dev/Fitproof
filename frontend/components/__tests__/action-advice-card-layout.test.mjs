@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const source = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const source = singleResultSource
 
 test('action header uses a circular audience icon and smaller condition title', () => {
   assert.match(source, /data-action-audience-icon[^>]*rounded-full/s)

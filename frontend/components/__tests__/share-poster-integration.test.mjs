@@ -2,8 +2,9 @@ import assert from 'node:assert/strict'
 import { existsSync, readFileSync } from 'node:fs'
 import test from 'node:test'
 import ts from 'typescript'
+import { singleResultSource } from './_singleSource.mjs'
 
-const resultPage = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const resultPage = singleResultSource
 const previewPath = new URL('../share/SharePosterPreview.tsx', import.meta.url)
 const routePath = new URL('../../app/api/share-poster/route.ts', import.meta.url)
 const shareBrowserPath = new URL('../../lib/share/shareBrowser.ts', import.meta.url)

@@ -1,13 +1,12 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const resultSource = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const resultSource = singleResultSource
 const layoutSource = readFileSync(new URL('../../app/layout.tsx', import.meta.url), 'utf8')
-const followupSource = resultSource.slice(
-  resultSource.indexOf('function FollowupCard'),
-  resultSource.indexOf('export default function SingleResultPage'),
-)
+// FollowupCard 现在是独立文件，直接读它，比从合并源码里按位置切片更准确
+const followupSource = readFileSync(new URL('../single/FollowupCard.tsx', import.meta.url), 'utf8')
 
 test('site metadata uses the doctor cat brand image as its icon', () => {
   assert.match(layoutSource, /icons:\s*\{/)

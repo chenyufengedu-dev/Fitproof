@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const source = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const source = singleResultSource
 
 test('action advice cards use compact vertical rhythm without shrinking their content', () => {
   assert.match(source, /return <div className="action-advice-density space-y-2\.5">/)

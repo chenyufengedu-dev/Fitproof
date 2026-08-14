@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const source = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const source = singleResultSource
 
 test('summary claim art is borderless, larger, and uses quiet quote typography', () => {
   assert.match(source, /borderless imageClassName="h-\[88%\] w-\[88%\]"/)

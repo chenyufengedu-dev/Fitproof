@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const cardSource = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const cardSource = singleResultSource
 const apiSource = readFileSync(new URL('../../lib/api.ts', import.meta.url), 'utf8')
 
 test('AI answer bubbles do not render a companion avatar', () => {

@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
+import { singleResultSource } from './_singleSource.mjs'
 
-const diagnosisSource = readFileSync(new URL('../SingleResultPage.tsx', import.meta.url), 'utf8')
+const diagnosisSource = singleResultSource
 const authoritySource = diagnosisSource.slice(
   diagnosisSource.indexOf('function AuthorityDiagnosisCard'),
   diagnosisSource.indexOf('function ConfrontationCard'),
