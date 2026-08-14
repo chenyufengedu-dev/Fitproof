@@ -1200,7 +1200,7 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
 
       </div>
       <form className="mt-0 flex shrink-0 translate-y-1.5 gap-2" onSubmit={(event) => { event.preventDefault(); void sendQuestion(input) }}>
-        <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={1} placeholder="输入你的疑问" className="h-10 min-w-0 flex-1 resize-none rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-base leading-tight text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10 disabled:bg-slate-50" />
+        <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={1} aria-label="就这条视频提问" placeholder="输入你的疑问" className="h-10 min-w-0 flex-1 resize-none rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-base leading-tight text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10 disabled:bg-slate-50" />
         <button type="submit" disabled={loading || !input.trim()} className="h-10 shrink-0 rounded-full bg-[#20CDB6] px-5 text-[15px] font-bold text-[#06403A] shadow-[0_8px_20px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-40">
           发送
         </button>

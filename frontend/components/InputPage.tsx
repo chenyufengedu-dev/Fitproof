@@ -201,6 +201,7 @@ export default function InputPage({
                     setSingleLink(e.target.value);
                     setLinkError("");
                   }}
+                  aria-label="抖音视频链接"
                   placeholder="粘贴抖音视频链接"
                   className="w-full rounded-2xl border border-[#20CDB6]/20 bg-white py-3 pl-12 pr-4 text-base outline-none transition focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10"
                 />

@@ -434,6 +434,7 @@ export default function KnowledgeTab() {
             <input
               value={query}
               onChange={(event) => setQuery(event.target.value)}
+              aria-label="搜索文献"
               placeholder="搜索文献名、机构或关键词"
               className="w-full bg-transparent text-base outline-none placeholder:text-slate-400"
             />

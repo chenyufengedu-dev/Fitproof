@@ -617,3 +617,29 @@ body {
     font-size: max(16px, 1em) !important;
   }
 }
+
+/* 上面那段 prefers-reduced-motion 只覆盖了品牌动画，Tailwind 的 animate-* 工具类
+   （19 处）不在里面，开了「减弱动态效果」的用户仍会看到它们全速播放。这里补齐。 */
+@media (prefers-reduced-motion: reduce) {
+  /* 入场动画：直接呈现终态即可 */
+  .animate-fadeIn,
+  .animate-slideUp {
+    animation: none !important;
+  }
+
+  /* 装饰性的呼吸与弹跳：骨架屏停成静态灰块、加载点停成静态点，信息不丢 */
+  .animate-pulse,
+  .animate-bounce {
+    animation: none !important;
+  }
+
+  /* 「尚未核验」圆点外面那圈扩散光晕：停掉动画会留下一个半透明实心圆压在点上，
+     所以要连同隐藏，只留中心那颗实心点 */
+  .animate-ping {
+    animation: none !important;
+    opacity: 0 !important;
+  }
+
+  /* animate-spin 有意保留：它是「正在处理」的唯一提示，
+     停掉会让人以为界面卡死。WCAG 2.3.3 针对的是非必要动效。 */
+}
