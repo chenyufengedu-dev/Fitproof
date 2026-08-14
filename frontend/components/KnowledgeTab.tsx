@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import { loadHistory } from '@/lib/history'
+import StateBlock from '@/components/StateBlock'
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
@@ -184,6 +185,8 @@ export default function KnowledgeTab() {
   const [showOrgSheet, setShowOrgSheet] = useState(false)
   const [showTopicSheet, setShowTopicSheet] = useState(false)
   const [contributionStats, setContributionStats] = useState<ContributionStats | null>(null)
+  // 「重新加载」按钮靠改这个值重跑下面的 effect
+  const [reloadKey, setReloadKey] = useState(0)
 
   useEffect(() => {
     if (cachedLibrary) return
@@ -197,9 +200,13 @@ export default function KnowledgeTab() {
         cachedLibrary = data
         if (alive) setLibrary(data)
       })
-      .catch((e: unknown) => { if (alive) setError(e instanceof Error ? e.message : '加载失败') })
+      .catch((e: unknown) => {
+        // 技术细节留给 console：用户看到「HTTP 404」既无从下手，也显得产品没做完
+        console.error('[knowledge] 加载失败', e)
+        if (alive) setError('load-failed')
+      })
     return () => { alive = false }
-  }, [])
+  }, [reloadKey])
 
   useEffect(() => {
     let alive = true
@@ -262,19 +269,25 @@ export default function KnowledgeTab() {
 
   if (error) {
     return (
-      <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10 text-center">
-        <p className="text-[15px] font-bold text-slate-900">知识库暂时打不开</p>
-        <p className="mx-auto mt-2 max-w-[17rem] text-[12px] leading-relaxed text-slate-600">
-          需要后端服务运行中（{error}）。核验功能不受影响。
-        </p>
+      <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10">
+        <StateBlock
+          tone="error"
+          title="知识库暂时打不开"
+          description="文献目录没能加载出来，稍后再试。核验功能不受影响，可以照常使用。"
+          action={{ label: '重新加载', onClick: () => { cachedLibrary = null; setError(''); setReloadKey((n) => n + 1) } }}
+        />
       </main>
     )
   }
 
   if (!library) {
     return (
-      <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10 text-center">
-        <p className="text-[12px] text-slate-600">正在载入文献目录…</p>
+      <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10">
+        <StateBlock
+          icon={<svg className="h-7 w-7 animate-spin text-[#0B6E63]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66" strokeLinecap="round" /><path d="M20 4v5h-5" strokeLinecap="round" strokeLinejoin="round" /></svg>}
+          title="正在载入文献目录…"
+          description="第一次打开需要取回全部文献的索引，通常几秒钟。"
+        />
       </main>
     )
   }
@@ -506,7 +519,7 @@ export default function KnowledgeTab() {
               </button>
             ))}
             {visible.length === 0 && (
-              <p className="py-8 text-center text-[12px] text-slate-600">没有匹配的文献</p>
+              <StateBlock className="my-3" title="没有匹配的文献" description="换个关键词，或者清掉筛选看看全部文献。" />
             )}
             {visible.length > 10 && (
               <p className="mt-2 py-2 text-center text-[11px] text-slate-600">

@@ -6,6 +6,7 @@ import FitProofCat from '@/components/FitProofCat'
 import { clearHistory, loadHistory, removeHistory, type HistoryRecord } from '@/lib/history'
 import { demoHistory } from '@/lib/profileDemo'
 import { createAnonymousClientId } from '@/lib/clientId.mjs'
+import StateBlock from '@/components/StateBlock'
 import {
   bucketOf,
   heatmap,
@@ -638,13 +639,12 @@ export default function ProfileTab() {
           <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[11px] text-slate-600">最近 50 条</span> : undefined} />
 
           {viewRecords.length === 0 ? (
-            <div className="px-4 py-8 text-center">
-              <FitProofCat pose="empty" size={88} className="mx-auto" title="还没有记录" />
-              <p className="mt-3 text-[15px] font-bold text-slate-900">还没有核验记录</p>
-              <p className="mx-auto mt-1.5 max-w-[15rem] text-[12px] leading-relaxed text-slate-600">
-                去「核验」贴一条健康短视频链接，结论和可追溯依据会保存在这里。
-              </p>
-            </div>
+            <StateBlock
+              className="mx-4 my-4"
+              icon={<FitProofCat pose="empty" size={88} title="还没有记录" />}
+              title="还没有核验记录"
+              description="去「核验」贴一条健康短视频链接，结论和可追溯依据会保存在这里。"
+            />
           ) : (
             <>
               <div className="no-scrollbar mt-2.5 flex gap-1.5 overflow-x-auto">
@@ -713,7 +713,7 @@ export default function ProfileTab() {
                   )
                 })}
                 {visible.length === 0 && (
-                  <p className="py-8 text-center text-[12px] text-slate-600">这个分类下还没有记录</p>
+                  <StateBlock className="my-3" title="这个分类下还没有记录" description="换一个分类看看，或者去核验一条新的说法。" />
                 )}
                 {visible.length > HISTORY_PREVIEW_LIMIT && (
                   <button
@@ -735,10 +735,7 @@ export default function ProfileTab() {
         <Card>
           <CardTitle icon="share" title="我的贡献" extra={<span className="t-meta shrink-0 text-slate-600">专家复核</span>} />
           {contributions.length === 0 ? (
-            <div className="mt-2 rounded-[10px] border border-dashed border-[#D3E5E1] bg-[#F9FCFB] px-4 py-6 text-center">
-              <p className="t-label text-slate-600">还没有贡献过</p>
-              <p className="t-meta mx-auto mt-1.5 max-w-[16rem] text-slate-600">主动授权提交的核验，会在这里显示专家复核进度。</p>
-            </div>
+            <StateBlock className="mt-2" title="还没有贡献过" description="主动授权提交的核验，会在这里显示专家复核进度。" />
           ) : (
             <div data-profile-contribution-list className="mt-2 space-y-2">
               {shownContributions.map((contribution) => {
