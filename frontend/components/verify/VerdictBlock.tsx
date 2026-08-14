@@ -22,7 +22,7 @@ export default function VerdictBlock({ verdict, riskLevel, correction, stamp, sh
       <div className="flex items-start gap-3 px-4 py-4">
         <div className="min-w-0 flex-1">
           <p className="text-[13px] font-bold tracking-[0.08em] opacity-70">核验结论</p>
-          <p className="mt-2 text-[21px] font-black leading-tight tracking-[-0.03em]">{verdict}</p>
+          <p className="mt-2 text-[20px] font-black leading-tight tracking-[-0.03em]">{verdict}</p>
           <p className="mt-1.5 text-[12px] opacity-70">误导风险{riskLevel || '未标注'} · 建议结合个体情况判断</p>
         </div>
         {stamp}

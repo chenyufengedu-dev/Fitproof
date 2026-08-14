@@ -236,7 +236,7 @@ export default function InputPage({
                     用样例数据
                   </button>
                 </div>
-                <p className="flex items-center justify-center gap-1 whitespace-nowrap text-[10px] leading-none tracking-tight text-slate-400">
+                <p className="flex items-center justify-center gap-1 whitespace-nowrap text-[11px] leading-none tracking-tight text-slate-400">
                   <svg className="h-3 w-3 shrink-0 text-[#20CDB6]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path d="M12 3 5 6v5c0 4.7 2.8 8.3 7 10 4.2-1.7 7-5.3 7-10V6l-7-3Z" /><path d="m9 12 2 2 4-4" />
                   </svg>

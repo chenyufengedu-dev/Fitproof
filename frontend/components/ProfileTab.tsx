@@ -147,7 +147,7 @@ const MEDALS = [
 function Medal({ rank, className = '' }: { rank: 1 | 2 | 3; className?: string }) {
   return (
     <span
-      className={`grid h-[19px] w-[19px] place-items-center rounded-full text-[10px] font-black text-white shadow-[0_1px_2px_rgba(0,0,0,0.18)] ring-2 ${MEDALS[rank - 1]} ${className}`}
+      className={`grid h-[19px] w-[19px] place-items-center rounded-full text-[11px] font-black text-white shadow-[0_1px_2px_rgba(0,0,0,0.18)] ring-2 ${MEDALS[rank - 1]} ${className}`}
     >
       {rank}
     </span>
@@ -186,14 +186,14 @@ function ConfirmDialog({ state, onClose }: { state: ConfirmState; onClose: () =>
           <button
             type="button"
             onClick={onClose}
-            className="flex-1 rounded-[11px] border-[1.5px] border-[#E3EDEA] bg-white py-2.5 text-[12.5px] font-bold text-slate-600 transition hover:bg-[#F3F7F6]"
+            className="flex-1 rounded-[11px] border-[1.5px] border-[#E3EDEA] bg-white py-2.5 text-[12px] font-bold text-slate-600 transition hover:bg-[#F3F7F6]"
           >
             取消
           </button>
           <button
             type="button"
             onClick={() => { state.onConfirm(); onClose() }}
-            className="flex-1 rounded-[11px] bg-[#E23D22] py-2.5 text-[12.5px] font-bold text-white transition hover:bg-[#C93318]"
+            className="flex-1 rounded-[11px] bg-[#E23D22] py-2.5 text-[12px] font-bold text-white transition hover:bg-[#C93318]"
           >
             {state.confirmLabel}
           </button>
@@ -215,7 +215,7 @@ function InfoDialog({ title, onClose, children }: { title: string; onClose: () =
           <button
             type="button"
             onClick={onClose}
-            className="w-full rounded-[11px] bg-[#0B6E63] py-2.5 text-[12.5px] font-bold text-white transition hover:bg-[#095A51]"
+            className="w-full rounded-[11px] bg-[#0B6E63] py-2.5 text-[12px] font-bold text-white transition hover:bg-[#095A51]"
           >
             知道了
           </button>
@@ -266,7 +266,7 @@ function CardTitle({ title, note, extra, icon }: { title: string; note?: ReactNo
       <div className="flex min-w-0 items-center gap-1.5">
         {icon && <MenuTitleIcon name={icon} />}
         <h2 className="shrink-0 text-[14px] font-extrabold tracking-tight text-slate-900">{title}</h2>
-        {note && <span className="flex min-w-0 items-center gap-1 truncate text-[10.5px] text-slate-400">{note}</span>}
+        {note && <span className="flex min-w-0 items-center gap-1 truncate text-[11px] text-slate-400">{note}</span>}
       </div>
       {extra}
     </div>
@@ -467,7 +467,7 @@ export default function ProfileTab() {
                       aria-label="查看等级与成就"
                       className="flex shrink-0 items-center gap-1.5"
                     >
-                      <span className="rounded-md bg-[#0B6E63] px-1.5 py-[3px] text-[9.5px] font-black leading-none text-white">Lv.{level.index}</span>
+                      <span className="rounded-md bg-[#0B6E63] px-1.5 py-[3px] text-[11px] font-black leading-none text-white">Lv.{level.index}</span>
                       <span className="flex items-center gap-1 text-[11px] font-bold text-[#0B6E63]">
                         <Icon name="shield" className="h-3.5 w-3.5" />
                         {level.name}
@@ -476,7 +476,7 @@ export default function ProfileTab() {
                   </>
                 )}
               </div>
-              <span className="mt-2 inline-flex items-center gap-1 rounded-full bg-white px-2.5 py-1 text-[10.5px] font-semibold text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]">
+              <span className="mt-2 inline-flex items-center gap-1 rounded-full bg-white px-2.5 py-1 text-[11px] font-semibold text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]">
                 <Icon name="leaf" className="h-3 w-3" />
                 持续学习 · 理性生活
               </span>
@@ -492,7 +492,7 @@ export default function ProfileTab() {
             <button
               type="button"
               onClick={() => setShowLevels(true)}
-              className="mt-1.5 flex items-center gap-1 text-[10.5px] text-slate-500 transition hover:text-[#0B6E63]"
+              className="mt-1.5 flex items-center gap-1 text-[11px] text-slate-500 transition hover:text-[#0B6E63]"
             >
               {level.next
                 ? `再 ${level.next.need} 条解锁「${level.next.name}」`
@@ -504,15 +504,15 @@ export default function ProfileTab() {
           {/* 图标竖直居中于整块，标签和数字叠在右侧一列 —— 天然左对齐，不用再算缩进 */}
           <div className="relative mt-3 grid grid-cols-4 gap-2">
             {stats.map((item) => (
-              <div key={item.key} className="flex items-center gap-1.5 rounded-[12px] bg-white/85 px-1.5 py-1.5 shadow-[0_1px_2px_rgba(11,110,99,0.06)]">
-                <span className={`grid h-[21px] w-[21px] shrink-0 place-items-center rounded-[7px] ${item.tint}`}>
+              <div key={item.key} className="flex items-center gap-1 rounded-[12px] bg-white/85 px-1 py-1.5 shadow-[0_1px_2px_rgba(11,110,99,0.06)]">
+                <span className={`grid h-[19px] w-[19px] shrink-0 place-items-center rounded-[7px] ${item.tint}`}>
                   <StatIcon name={item.key} className="h-[13px] w-[13px]" />
                 </span>
                 <div className="min-w-0 flex-1">
-                  <p className="truncate text-[9px] font-semibold leading-tight text-slate-500">{item.label}</p>
+                  <p className="truncate text-[11px] font-semibold leading-tight text-slate-500">{item.label}</p>
                   <p className="mt-0.5 flex items-baseline gap-0.5">
                     <b className="text-[17px] font-extrabold leading-none tracking-tight tabular-nums text-slate-900">{item.value}</b>
-                    <span className="text-[9px] text-slate-400">{item.unit}</span>
+                    <span className="text-[11px] text-slate-400">{item.unit}</span>
                   </p>
                 </div>
               </div>
@@ -538,11 +538,11 @@ export default function ProfileTab() {
             {/* 月份标签与格子共用同一套列，保证标签落在对的那一周上 */}
             <div className="grid auto-cols-fr grid-flow-col gap-[2.5px] pl-[19px]">
               {monthMarks.map((mark, index) => (
-                <span key={index} className="overflow-visible whitespace-nowrap text-[9px] font-semibold text-slate-400">{mark}</span>
+                <span key={index} className="overflow-visible whitespace-nowrap text-[11px] font-semibold text-slate-400">{mark}</span>
               ))}
             </div>
             <div className="mt-1 flex gap-[3px]">
-              <div className="grid shrink-0 grid-rows-7 gap-[2.5px] text-[8px] text-slate-400">
+              <div className="grid shrink-0 grid-rows-7 gap-[2.5px] text-[11px] text-slate-400">
                 {['一', '', '三', '', '五', '', '日'].map((day, index) => (
                   <span key={index} className="flex h-[10px] w-4 items-center justify-end leading-none">{day}</span>
                 ))}
@@ -565,7 +565,7 @@ export default function ProfileTab() {
               </div>
             </div>
           </div>
-          <div className="mt-2 flex items-center justify-center gap-1.5 text-[9.5px] text-slate-400">
+          <div className="mt-2 flex items-center justify-center gap-1.5 text-[11px] text-slate-400">
             <span>较少</span>
             {HEAT_SCALE.map((cls) => <i key={cls} className={`h-2.5 w-2.5 rounded-[2.5px] ${cls}`} />)}
             <span>较多</span>
@@ -574,9 +574,9 @@ export default function ProfileTab() {
 
         {/* 关注话题 */}
         <Card>
-          <CardTitle icon="tag" title="关注话题" extra={<span className="shrink-0 text-[10.5px] text-slate-400">按核验量</span>} />
+          <CardTitle icon="tag" title="关注话题" extra={<span className="shrink-0 text-[11px] text-slate-400">按核验量</span>} />
           {topics.length === 0 ? (
-            <p className="py-5 text-center text-[11.5px] text-slate-400">暂无 · 核验后这里会自动归类你关注的话题</p>
+            <p className="py-5 text-center text-[12px] text-slate-400">暂无 · 核验后这里会自动归类你关注的话题</p>
           ) : (
             <>
               {topics.slice(0, 1).map((stat) => (
@@ -604,7 +604,7 @@ export default function ProfileTab() {
                           <i key={bucket} className={`block h-full rounded-[4px] ${BUCKET_STYLE[bucket].bar}`} style={{ flexGrow: stat[bucket] }} />
                         ))}
                       </span>
-                      <p className="mt-1.5 flex flex-wrap gap-x-2.5 gap-y-1 text-[10px] text-slate-500">
+                      <p className="mt-1.5 flex flex-wrap gap-x-2.5 gap-y-1 text-[11px] text-slate-500">
                         {BUCKETS.map((bucket) => (
                           <span key={bucket} className="flex items-center gap-1">
                             <i className={`h-2 w-2 rounded-[2px] ${BUCKET_STYLE[bucket].bar}`} />
@@ -622,7 +622,7 @@ export default function ProfileTab() {
                     <div key={stat.topic} className="flex min-w-0 flex-1 items-center gap-1.5 rounded-[12px] bg-[#F3F7F6] px-2 py-1.5">
                       <Medal rank={(index + 2) as 2 | 3} />
                       <span className="min-w-0 flex-1 truncate text-[11px] font-semibold text-slate-700" title={stat.topic}>{stat.topic}</span>
-                      <span className="shrink-0 text-[10px] tabular-nums text-slate-400">{stat.total} 条</span>
+                      <span className="shrink-0 text-[11px] tabular-nums text-slate-400">{stat.total} 条</span>
                     </div>
                   ))}
                 </div>
@@ -633,13 +633,13 @@ export default function ProfileTab() {
 
         {/* 核验历史 —— 一条 = 一个被核验的说法，不是一个视频 */}
         <Card>
-          <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[10.5px] text-slate-400">最近 50 条</span> : undefined} />
+          <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[11px] text-slate-400">最近 50 条</span> : undefined} />
 
           {viewRecords.length === 0 ? (
             <div className="px-4 py-8 text-center">
               <FitProofCat pose="empty" size={88} className="mx-auto" title="还没有记录" />
-              <p className="mt-3 text-[14.5px] font-bold text-slate-900">还没有核验记录</p>
-              <p className="mx-auto mt-1.5 max-w-[15rem] text-[11.5px] leading-relaxed text-slate-500">
+              <p className="mt-3 text-[14px] font-bold text-slate-900">还没有核验记录</p>
+              <p className="mx-auto mt-1.5 max-w-[15rem] text-[12px] leading-relaxed text-slate-500">
                 去「核验」贴一条健康短视频链接，结论和可追溯依据会保存在这里。
               </p>
             </div>
@@ -674,17 +674,17 @@ export default function ProfileTab() {
                         <div className="min-w-0 flex-1 py-2.5 pr-2.5">
                           <div className="flex items-start justify-between gap-2">
                             {/* 标签用三档归类，和筛选完全对齐；模型 verdict 原话在详情页 */}
-                            <span className={`mt-0.5 shrink-0 rounded-md px-1.5 py-0.5 text-[10px] font-black ${style.chip}`}>{bucket}</span>
+                            <span className={`mt-0.5 shrink-0 rounded-md px-1.5 py-0.5 text-[11px] font-black ${style.chip}`}>{bucket}</span>
                             <button
                               type="button"
                               onClick={() => setDetailId(record.id)}
                               className="min-w-0 flex-1 text-left"
                             >
-                              <p className="line-clamp-2 text-[12.5px] font-semibold leading-snug text-slate-900">“{record.claim}”</p>
+                              <p className="line-clamp-2 text-[12px] font-semibold leading-snug text-slate-900">“{record.claim}”</p>
                             </button>
-                            <span className="shrink-0 text-[9.5px] tabular-nums text-slate-400">{formatDate(record.createdAt)}</span>
+                            <span className="shrink-0 text-[11px] tabular-nums text-slate-400">{formatDate(record.createdAt)}</span>
                           </div>
-                          <div className="mt-1 flex items-center justify-between gap-2 pl-[38px] text-[10.5px]">
+                          <div className="mt-1 flex items-center justify-between gap-2 pl-[38px] text-[11px]">
                             <span className="min-w-0 truncate text-slate-400">{record.topic || record.reference?.title || '未分类'}</span>
                             <span className="flex shrink-0 items-center gap-2">
                               <button type="button" onClick={() => setDetailId(record.id)} className="font-bold text-[#0B6E63]">
@@ -711,14 +711,14 @@ export default function ProfileTab() {
                   )
                 })}
                 {visible.length === 0 && (
-                  <p className="py-8 text-center text-[11.5px] text-slate-400">这个分类下还没有记录</p>
+                  <p className="py-8 text-center text-[12px] text-slate-400">这个分类下还没有记录</p>
                 )}
                 {visible.length > HISTORY_PREVIEW_LIMIT && (
                   <button
                     type="button"
                     onClick={() => setShowAll(!showAll)}
                     aria-expanded={showAll}
-                    className="mt-2 flex w-full items-center justify-center gap-1 py-2 text-center text-[11.5px] font-bold text-[#0B6E63]"
+                    className="mt-2 flex w-full items-center justify-center gap-1 py-2 text-center text-[12px] font-bold text-[#0B6E63]"
                   >
                     {showAll ? '收起' : `展开全部 ${visible.length} 条`}
                     <Icon name="chevron" className={`h-3.5 w-3.5 transition-transform ${showAll ? '-rotate-90' : 'rotate-90'}`} />
@@ -760,7 +760,7 @@ export default function ProfileTab() {
                   type="button"
                   onClick={() => setShowAllContributions(!showAllContributions)}
                   aria-expanded={showAllContributions}
-                  className="flex w-full items-center justify-center gap-1 py-2 text-center text-[11.5px] font-bold text-[#0B6E63]"
+                  className="flex w-full items-center justify-center gap-1 py-2 text-center text-[12px] font-bold text-[#0B6E63]"
                 >
                   {showAllContributions ? '收起' : `展开全部 ${contributions.length} 条`}
                   <Icon name="chevron" className={`h-3.5 w-3.5 transition-transform ${showAllContributions ? '-rotate-90' : 'rotate-90'}`} />
@@ -775,9 +775,9 @@ export default function ProfileTab() {
           <CardTitle
             icon="lock"
             title="数据与隐私"
-            extra={<span className="flex shrink-0 items-center gap-1 text-[10.5px] text-slate-400">本机存储<Icon name="shield" className="h-3.5 w-3.5" /></span>}
+            extra={<span className="flex shrink-0 items-center gap-1 text-[11px] text-slate-400">本机存储<Icon name="shield" className="h-3.5 w-3.5" /></span>}
           />
-          <p className="mt-1.5 text-[10.5px] leading-relaxed text-slate-500">
+          <p className="mt-1.5 text-[11px] leading-relaxed text-slate-500">
             核验记录只保存在这台设备上，不会上传服务器，我们也不收集你关注了哪些健康话题。
           </p>
           <div className="mt-2.5 flex gap-2.5">
@@ -785,7 +785,7 @@ export default function ProfileTab() {
               type="button"
               onClick={handleExport}
               disabled={records.length === 0}
-              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#12BFA6] bg-white py-2.5 text-[12.5px] font-bold text-[#089480] transition hover:bg-[#F2FBF9] disabled:opacity-40"
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#12BFA6] bg-white py-2.5 text-[12px] font-bold text-[#089480] transition hover:bg-[#F2FBF9] disabled:opacity-40"
             >
               <Icon name="upload" className="h-4 w-4" />
               导出记录
@@ -802,7 +802,7 @@ export default function ProfileTab() {
                 })
               }}
               disabled={records.length === 0}
-              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#F0644B] bg-white py-2.5 text-[12.5px] font-bold text-[#E23D22] transition hover:bg-[#FDF5F3] disabled:opacity-40"
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#F0644B] bg-white py-2.5 text-[12px] font-bold text-[#E23D22] transition hover:bg-[#FDF5F3] disabled:opacity-40"
             >
               <Icon name="trash" className="h-4 w-4" />
               清空全部
@@ -810,7 +810,7 @@ export default function ProfileTab() {
           </div>
         </Card>
 
-        <p className="mt-3 flex items-center justify-center gap-1.5 px-4 text-center text-[10px] leading-relaxed text-slate-400">
+        <p className="mt-3 flex items-center justify-center gap-1.5 px-4 text-center text-[11px] leading-relaxed text-slate-400">
           <Icon name="shield" className="h-3.5 w-3.5 shrink-0" />
           本产品用于健康内容辨析，不构成医疗诊断或个体化治疗建议。
         </p>
@@ -831,11 +831,11 @@ export default function ProfileTab() {
             </button>
             <div className="min-w-0 flex-1">
               <p className="truncate text-[14px] font-extrabold tracking-tight text-slate-900">核验详情</p>
-              <p className="truncate text-[10.5px] text-slate-400">
+              <p className="truncate text-[11px] text-slate-400">
                 {detail.topic || detail.reference?.title || '未分类'} · {formatDate(detail.createdAt)}
               </p>
             </div>
-            <span className={`shrink-0 rounded-md px-2 py-1 text-[10.5px] font-black ${BUCKET_STYLE[bucketOf(detail)].chip}`}>
+            <span className={`shrink-0 rounded-md px-2 py-1 text-[11px] font-black ${BUCKET_STYLE[bucketOf(detail)].chip}`}>
               {bucketOf(detail)}
             </span>
           </header>
@@ -855,7 +855,7 @@ export default function ProfileTab() {
                 <span className="shrink-0">打开 ›</span>
               </a>
             )}
-            <p className="mt-3 px-4 pb-2 text-center text-[10px] leading-relaxed text-slate-400">
+            <p className="mt-3 px-4 pb-2 text-center text-[11px] leading-relaxed text-slate-400">
               本产品用于健康内容辨析，不构成医疗诊断或个体化治疗建议。
             </p>
           </div>
@@ -876,17 +876,17 @@ export default function ProfileTab() {
                   key={item.name}
                   className={`flex items-center gap-2.5 rounded-[12px] px-3 py-2.5 ${current ? 'bg-[#E6F7F4] ring-1 ring-[#20CDB6]' : 'bg-[#F7FBFA]'}`}
                 >
-                  <span className={`grid h-7 w-7 shrink-0 place-items-center rounded-full text-[10px] font-black ${reached ? 'bg-[#0B6E63] text-white' : 'bg-[#DCE7E4] text-slate-500'}`}>
+                  <span className={`grid h-7 w-7 shrink-0 place-items-center rounded-full text-[11px] font-black ${reached ? 'bg-[#0B6E63] text-white' : 'bg-[#DCE7E4] text-slate-500'}`}>
                     Lv{index + 1}
                   </span>
                   <div className="min-w-0 flex-1">
-                    <p className="flex items-center gap-1.5 text-[12.5px] font-bold text-slate-900">
+                    <p className="flex items-center gap-1.5 text-[12px] font-bold text-slate-900">
                       {item.name}
-                      {current && <span className="rounded bg-[#0B6E63] px-1.5 py-0.5 text-[9px] font-black text-white">当前</span>}
+                      {current && <span className="rounded bg-[#0B6E63] px-1.5 py-0.5 text-[11px] font-black text-white">当前</span>}
                     </p>
-                    <p className="mt-0.5 truncate text-[10.5px] text-slate-400">{item.blurb}</p>
+                    <p className="mt-0.5 truncate text-[11px] text-slate-400">{item.blurb}</p>
                   </div>
-                  <span className="shrink-0 text-[10.5px] font-bold tabular-nums text-slate-500">
+                  <span className="shrink-0 text-[11px] font-bold tabular-nums text-slate-500">
                     {item.min === 0 ? '默认' : `${item.min} 条`}
                   </span>
                 </li>
@@ -912,8 +912,8 @@ export default function ProfileTab() {
                     const bucket = bucketOf(record)
                     return (
                       <li key={record.id} className="flex gap-2 rounded-[10px] bg-[#F7FBFA] px-2.5 py-2">
-                        <span className={`mt-0.5 h-fit shrink-0 rounded px-1.5 py-0.5 text-[9.5px] font-black ${BUCKET_STYLE[bucket].chip}`}>{bucket}</span>
-                        <span className="line-clamp-2 text-[11.5px] leading-snug text-slate-700">{record.claim}</span>
+                        <span className={`mt-0.5 h-fit shrink-0 rounded px-1.5 py-0.5 text-[11px] font-black ${BUCKET_STYLE[bucket].chip}`}>{bucket}</span>
+                        <span className="line-clamp-2 text-[12px] leading-snug text-slate-700">{record.claim}</span>
                       </li>
                     )
                   })}

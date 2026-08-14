@@ -41,7 +41,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
         {claimTitle && <h2 className="text-xl font-semibold leading-relaxed text-slate-950">{claimTitle}</h2>}
         <div className="rounded-3xl border border-[#20CDB6]/20 bg-[#f3fbf9] p-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0B6E63]">FitProof 判定</p>
-          <p className="mt-2 text-2xl font-bold leading-snug text-slate-950">{result.verdict}</p>
+          <p className="mt-2 text-xl font-bold leading-snug text-slate-950">{result.verdict}</p>
           <div className="mt-4 grid grid-cols-3 gap-2">
             <MetricPill label="误导风险" value={result.risk_level} />
             <MetricPill label="可信度" value={result.confidence} />

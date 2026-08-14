@@ -274,7 +274,7 @@ export default function KnowledgeTab() {
   if (!library) {
     return (
       <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10 text-center">
-        <p className="text-[12.5px] text-slate-400">正在载入文献目录…</p>
+        <p className="text-[12px] text-slate-400">正在载入文献目录…</p>
       </main>
     )
   }
@@ -286,7 +286,7 @@ export default function KnowledgeTab() {
 
         {/* 页面标题栏 */}
         <header className="px-1">
-          <h1 data-knowledge-title className="text-[18px] font-extrabold leading-tight tracking-tight text-[#078C7E]">知识库</h1>
+          <h1 data-knowledge-title className="text-[17px] font-extrabold leading-tight tracking-tight text-[#078C7E]">知识库</h1>
           <p className="mt-0.5 text-[11px] leading-tight text-slate-500">基于权威文献，给出可靠、可溯源的健康依据</p>
         </header>
 
@@ -300,7 +300,7 @@ export default function KnowledgeTab() {
 
           {/* 右列：标题、正文、机构胶囊、统计全部同一左边界，不越界到图标那一列 */}
           <div className="min-w-0 flex-1">
-            <h2 className="text-[14.5px] font-extrabold leading-snug tracking-tight text-slate-900">
+            <h2 className="text-[14px] font-extrabold leading-snug tracking-tight text-slate-900">
               FitProof 的判定，只基于权威文献
             </h2>
             <p className="mt-0.5 text-[11px] leading-snug text-slate-600">
@@ -315,7 +315,7 @@ export default function KnowledgeTab() {
                   {row.map((item) => (
                     <span
                       key={item.name}
-                      className="inline-flex min-w-0 items-center gap-1 rounded-full bg-white px-2 py-[3px] text-[10px] font-bold leading-none text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]"
+                      className="inline-flex min-w-0 items-center gap-1 rounded-full bg-white px-2 py-[3px] text-[11px] font-bold leading-none text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]"
                     >
                       <BankIcon className="h-[11px] w-[11px] shrink-0 text-[#3FB49C]" />
                       <span className="truncate">{shortOrg(item.name)}</span>
@@ -325,7 +325,7 @@ export default function KnowledgeTab() {
               ))}
             </div>
 
-            <p className="mt-1.5 text-[10px] font-semibold text-slate-500">
+            <p className="mt-1.5 text-[11px] font-semibold text-slate-500">
               共 {library.stats.docs} 份文献 · {library.stats.orgs} 家机构
             </p>
             {contributionStats && (
@@ -338,7 +338,7 @@ export default function KnowledgeTab() {
 
         {/* 收录范围 */}
         <section className="mt-2.5 rounded-[18px] border border-[#EDF3F2] bg-white px-3.5 py-3 shadow-[0_1px_2px_rgba(11,110,99,0.04)]">
-          <h2 className="flex items-center gap-1.5 text-[13.5px] font-extrabold tracking-tight text-slate-900">
+          <h2 className="flex items-center gap-1.5 text-[13px] font-extrabold tracking-tight text-slate-900">
             <Icon name="scope" className="h-4 w-4 text-[#3FB49C]" />
             收录范围
           </h2>
@@ -350,7 +350,7 @@ export default function KnowledgeTab() {
                 key={item.name}
                 type="button"
                 onClick={() => setTopicFilter(topicFilter === item.name ? '' : item.name)}
-                className={`inline-flex min-w-0 max-w-[9.5rem] items-center gap-1 rounded-full border px-2 py-[3px] text-[10.5px] font-semibold leading-none transition ${
+                className={`inline-flex min-w-0 max-w-[9.5rem] items-center gap-1 rounded-full border px-2 py-[3px] text-[11px] font-semibold leading-none transition ${
                   topicFilter === item.name
                     ? 'border-[#0B6E63] bg-[#0B6E63] text-white'
                     : 'border-[#CFEAE3] bg-[#F5FCFA] text-[#0B6E63]'
@@ -371,20 +371,20 @@ export default function KnowledgeTab() {
               </button>
             )}
           </div>
-          <p className="mt-1.5 pl-[20px] text-[10px] leading-relaxed text-slate-400">{library.coverage.note}</p>
+          <p className="mt-1.5 pl-[20px] text-[11px] leading-relaxed text-slate-400">{library.coverage.note}</p>
         </section>
 
         {/* 来源机构 */}
         <section className="mt-2.5 rounded-[18px] border border-[#EDF3F2] bg-white px-3.5 py-3 shadow-[0_1px_2px_rgba(11,110,99,0.04)]">
           <div className="flex items-center justify-between gap-2">
-            <h2 className="flex items-center gap-1.5 text-[13.5px] font-extrabold tracking-tight text-slate-900">
+            <h2 className="flex items-center gap-1.5 text-[13px] font-extrabold tracking-tight text-slate-900">
               <BankIcon className="h-4 w-4 text-[#3FB49C]" />
               来源机构
             </h2>
             <button
               type="button"
               onClick={() => setShowOrgSheet(true)}
-              className="flex shrink-0 items-center gap-0.5 text-[10.5px] font-bold text-[#0B6E63]"
+              className="flex shrink-0 items-center gap-0.5 text-[11px] font-bold text-[#0B6E63]"
             >
               全部 {library.stats.orgs} 家
               <Icon name="chevron" className="h-3 w-3" />
@@ -401,19 +401,19 @@ export default function KnowledgeTab() {
                   onClick={() => setOrgFilter(active ? '' : item.name)}
                   className="flex w-full items-center gap-2 text-left"
                 >
-                  <span className={`w-[82px] shrink-0 truncate text-[10px] font-semibold ${active ? 'text-[#0B6E63]' : 'text-slate-600'}`} title={item.name}>
+                  <span className={`w-[82px] shrink-0 truncate text-[11px] font-semibold ${active ? 'text-[#0B6E63]' : 'text-slate-600'}`} title={item.name}>
                     {shortOrg(item.name)}
                   </span>
                   <span className="h-2 flex-1 overflow-hidden rounded-full bg-[#EEF4F3]">
                     <i className={`block h-full rounded-full ${active ? 'bg-[#0B6E63]' : 'bg-[#45C0A8]'}`} style={{ width: `${Math.max(ratio * 100, 4)}%` }} />
                   </span>
-                  <span className="w-7 shrink-0 text-right text-[10px] tabular-nums text-slate-500">{item.count}</span>
+                  <span className="w-7 shrink-0 text-right text-[11px] tabular-nums text-slate-500">{item.count}</span>
                 </button>
               )
             })}
           </div>
           {orgFilter && (
-            <button type="button" onClick={() => setOrgFilter('')} className="mt-2 text-[10.5px] font-bold text-[#0B6E63]">
+            <button type="button" onClick={() => setOrgFilter('')} className="mt-2 text-[11px] font-bold text-[#0B6E63]">
               清除机构筛选
             </button>
           )}
@@ -422,11 +422,11 @@ export default function KnowledgeTab() {
         {/* 文献目录 */}
         <section className="mt-2.5 rounded-[18px] border border-[#EDF3F2] bg-white px-3.5 py-3 shadow-[0_1px_2px_rgba(11,110,99,0.04)]">
           <div className="flex items-center justify-between gap-2">
-            <h2 className="flex items-center gap-1.5 text-[13.5px] font-extrabold tracking-tight text-slate-900">
+            <h2 className="flex items-center gap-1.5 text-[13px] font-extrabold tracking-tight text-slate-900">
               <OpenBookIcon className="h-4 w-4 text-[#3FB49C]" />
               文献目录
             </h2>
-            <span className="shrink-0 text-[10.5px] tabular-nums text-slate-400">{visible.length} 份</span>
+            <span className="shrink-0 text-[11px] tabular-nums text-slate-400">{visible.length} 份</span>
           </div>
 
           <label className="mt-2.5 flex items-center gap-2 rounded-[12px] bg-[#F3F7F6] px-3 py-2.5">
@@ -445,7 +445,7 @@ export default function KnowledgeTab() {
               <button
                 type="button"
                 onClick={() => setTopicFilter('')}
-                className={`shrink-0 rounded-full border px-3 py-1.5 text-[10.5px] font-bold transition ${
+                className={`shrink-0 rounded-full border px-3 py-1.5 text-[11px] font-bold transition ${
                   topicFilter === '' ? 'border-[#0B6E63] bg-[#0B6E63] text-white' : 'border-[#E3EDEA] bg-white text-slate-500'
                 }`}
               >
@@ -456,7 +456,7 @@ export default function KnowledgeTab() {
                   key={topic}
                   type="button"
                   onClick={() => setTopicFilter(topicFilter === topic ? '' : topic)}
-                  className={`shrink-0 rounded-full border px-3 py-1.5 text-[10.5px] font-bold transition ${
+                  className={`shrink-0 rounded-full border px-3 py-1.5 text-[11px] font-bold transition ${
                     topicFilter === topic ? 'border-[#0B6E63] bg-[#0B6E63] text-white' : 'border-[#E3EDEA] bg-white text-slate-500'
                   }`}
                 >
@@ -486,36 +486,36 @@ export default function KnowledgeTab() {
                 <div className="flex items-start gap-2.5">
                   <ClosedBookIcon className="mt-0.5 h-4 w-4 shrink-0 text-[#5FC9B6]" />
                   <div className="min-w-0 flex-1">
-                    <p className="font-cite line-clamp-2 text-[12.5px] font-semibold leading-snug text-slate-900">{item.doc}</p>
-                    <p className="font-cite mt-1 truncate text-[10.5px] text-slate-400">
+                    <p className="font-cite line-clamp-2 text-[12px] font-semibold leading-snug text-slate-900">{item.doc}</p>
+                    <p className="font-cite mt-1 truncate text-[11px] text-slate-400">
                       {shortOrg(item.org)}{item.year ? ` · ${item.year}` : ''}{item.pages ? ` · 第 ${item.pages} 页` : ''}
                     </p>
                   </div>
                   <span className="flex shrink-0 flex-col items-center rounded-[9px] bg-[#E6F7F4] px-2 py-1 leading-none text-[#0B6E63]">
                     <b className="text-[12px] font-black tabular-nums">{item.entry_count}</b>
-                    <span className="mt-[2px] text-[8px] font-semibold">条依据</span>
+                    <span className="mt-[2px] text-[11px] font-semibold">条依据</span>
                   </span>
                   <Icon name="chevron" className="mt-1 h-3.5 w-3.5 shrink-0 text-slate-300" />
                 </div>
                 {item.previews[0] && (
-                  <p className="mt-1.5 line-clamp-2 rounded-[9px] bg-white px-2.5 py-1.5 text-[10.5px] leading-relaxed text-slate-500">
+                  <p className="mt-1.5 line-clamp-2 rounded-[9px] bg-white px-2.5 py-1.5 text-[11px] leading-relaxed text-slate-500">
                     “{item.previews[0]}”
                   </p>
                 )}
               </button>
             ))}
             {visible.length === 0 && (
-              <p className="py-8 text-center text-[11.5px] text-slate-400">没有匹配的文献</p>
+              <p className="py-8 text-center text-[12px] text-slate-400">没有匹配的文献</p>
             )}
             {visible.length > 10 && (
-              <p className="mt-2 py-2 text-center text-[10.5px] text-slate-400">
+              <p className="mt-2 py-2 text-center text-[11px] text-slate-400">
                 共 {visible.length} 份，仅显示前 10 份 · 用搜索或分类缩小范围
               </p>
             )}
           </div>
         </section>
 
-        <p className="mt-3 px-4 text-center text-[10px] leading-relaxed text-slate-400">
+        <p className="mt-3 px-4 text-center text-[11px] leading-relaxed text-slate-400">
           文献版权归原机构所有，本页仅提供索引与官方页面跳转。
         </p>
       </div>
@@ -531,7 +531,7 @@ export default function KnowledgeTab() {
                 <Icon name="close" className="h-4 w-4" />
               </button>
             </div>
-            <p className="shrink-0 px-4 pb-2 text-[10.5px] text-slate-400">
+            <p className="shrink-0 px-4 pb-2 text-[11px] text-slate-400">
               共 {library.stats.orgs} 家机构 · {library.stats.docs} 份文献，点击可筛选目录
             </p>
             <div className="min-h-0 flex-1 overflow-y-auto px-4 pb-5">
@@ -546,7 +546,7 @@ export default function KnowledgeTab() {
                 >
                   <BankIcon className="h-4 w-4 shrink-0 text-[#3FB49C]" />
                   <span className="min-w-0 flex-1 truncate text-[12px] font-semibold text-slate-700">{item.name}</span>
-                  <span className="shrink-0 rounded-md bg-white px-1.5 py-0.5 text-[10.5px] font-black tabular-nums text-[#0B6E63]">
+                  <span className="shrink-0 rounded-md bg-white px-1.5 py-0.5 text-[11px] font-black tabular-nums text-[#0B6E63]">
                     {item.count}
                   </span>
                 </button>
@@ -576,7 +576,7 @@ export default function KnowledgeTab() {
                 }`}
               >
                 <span className="text-[12px] font-semibold text-slate-700">全部领域</span>
-                <span className="text-[10.5px] font-black tabular-nums text-[#0B6E63]">{library.docs.length}</span>
+                <span className="text-[11px] font-black tabular-nums text-[#0B6E63]">{library.docs.length}</span>
               </button>
               {library.topics.map((topic) => {
                 const count = library.docs.filter((item) => item.topic === topic).length
@@ -590,7 +590,7 @@ export default function KnowledgeTab() {
                     }`}
                   >
                     <span className="min-w-0 flex-1 truncate text-[12px] font-semibold text-slate-700">{topic}</span>
-                    <span className="shrink-0 text-[10.5px] font-black tabular-nums text-[#0B6E63]">{count}</span>
+                    <span className="shrink-0 text-[11px] font-black tabular-nums text-[#0B6E63]">{count}</span>
                   </button>
                 )
               })}
@@ -629,8 +629,8 @@ export default function KnowledgeTab() {
                     {icon === 'bankIcon'
                       ? <BankIcon className="h-3.5 w-3.5 shrink-0 text-[#3FB49C]" />
                       : <Icon name={icon} className="h-3.5 w-3.5 shrink-0 text-[#3FB49C]" />}
-                    <dt className="w-[60px] shrink-0 text-[11.5px] text-slate-400">{label}</dt>
-                    <dd className="font-cite min-w-0 flex-1 text-[11.5px] font-semibold text-slate-700">{value}</dd>
+                    <dt className="w-[60px] shrink-0 text-[12px] text-slate-400">{label}</dt>
+                    <dd className="font-cite min-w-0 flex-1 text-[12px] font-semibold text-slate-700">{value}</dd>
                   </div>
                 ))}
               </dl>
@@ -641,8 +641,8 @@ export default function KnowledgeTab() {
               const visibleList = list.slice(0, shownEntries)
               return (
                 <section className="mt-3 rounded-[16px] border border-[#EDF3F2] bg-white px-3.5 py-3">
-                  <h3 className="text-[12.5px] font-extrabold tracking-tight text-slate-900">原文结论摘录</h3>
-                  <p className="mt-1 text-[10.5px] leading-relaxed text-slate-400">
+                  <h3 className="text-[12px] font-extrabold tracking-tight text-slate-900">原文结论摘录</h3>
+                  <p className="mt-1 text-[11px] leading-relaxed text-slate-400">
                     {fullEntries
                       ? `本库从这份文献拆出的全部 ${list.length} 条依据，逐字摘自原文，不是 FitProof 的判断。`
                       : `以下 ${detail.previews.length} 条摘自这份文献拆出的 ${detail.entry_count} 条依据，逐字摘自原文，不是 FitProof 的判断。`}
@@ -650,10 +650,10 @@ export default function KnowledgeTab() {
                   <ul className="mt-2.5 space-y-1.5">
                     {visibleList.map((text, index) => (
                       <li key={index} className="flex gap-2 rounded-[10px] bg-[#F7FBFA] px-2.5 py-2">
-                        <span className="grid h-[18px] w-[18px] shrink-0 place-items-center rounded-md bg-[#DDF2ED] text-[10px] font-black tabular-nums text-[#0B6E63]">
+                        <span className="grid h-[18px] w-[18px] shrink-0 place-items-center rounded-md bg-[#DDF2ED] text-[11px] font-black tabular-nums text-[#0B6E63]">
                           {index + 1}
                         </span>
-                        <span className="text-[11.5px] leading-relaxed text-slate-600">{text}</span>
+                        <span className="text-[12px] leading-relaxed text-slate-600">{text}</span>
                       </li>
                     ))}
                   </ul>
@@ -663,7 +663,7 @@ export default function KnowledgeTab() {
                     <button
                       type="button"
                       onClick={() => setShownEntries((n) => n + 50)}
-                      className="mt-2.5 w-full rounded-[10px] border border-[#E3EDEA] py-2 text-[11.5px] font-bold text-[#0B6E63]"
+                      className="mt-2.5 w-full rounded-[10px] border border-[#E3EDEA] py-2 text-[12px] font-bold text-[#0B6E63]"
                     >
                       继续展开（还剩 {list.length - shownEntries} 条）
                     </button>
@@ -674,7 +674,7 @@ export default function KnowledgeTab() {
                       type="button"
                       onClick={loadAllEntries}
                       disabled={loadingEntries}
-                      className="mt-2.5 flex w-full items-center justify-center gap-1 rounded-[10px] border border-[#E3EDEA] py-2 text-[11.5px] font-bold text-[#0B6E63] disabled:opacity-50"
+                      className="mt-2.5 flex w-full items-center justify-center gap-1 rounded-[10px] border border-[#E3EDEA] py-2 text-[12px] font-bold text-[#0B6E63] disabled:opacity-50"
                     >
                       {loadingEntries ? '载入中…' : `查看全部 ${detail.entry_count} 条`}
                       {!loadingEntries && <Icon name="chevron" className="h-3 w-3" />}
@@ -689,7 +689,7 @@ export default function KnowledgeTab() {
                 <p className="text-[12px] font-bold text-[#0B6E63]">
                   你有 {detailCitedCount} 条核验引用了这份文献
                 </p>
-                <p className="mt-1 text-[10.5px] leading-relaxed text-[#3E8C81]">
+                <p className="mt-1 text-[11px] leading-relaxed text-[#3E8C81]">
                   统计自本机「我的 · 核验历史」，不上传服务器。在「我的」里可以看到是哪几条。
                 </p>
               </section>
@@ -706,12 +706,12 @@ export default function KnowledgeTab() {
                 前往官方页面
               </a>
             ) : (
-              <p className="mt-3 rounded-[12px] bg-white px-4 py-3 text-center text-[11.5px] text-slate-400">
+              <p className="mt-3 rounded-[12px] bg-white px-4 py-3 text-center text-[12px] text-slate-400">
                 这份文献暂无公开链接，可凭上方信息自行检索
               </p>
             )}
 
-            <p className="mt-3 px-4 pb-2 text-center text-[10px] leading-relaxed text-slate-400">
+            <p className="mt-3 px-4 pb-2 text-center text-[11px] leading-relaxed text-slate-400">
               链接指向机构官方页面，部分文献可能需要注册或订阅才能查看全文。
             </p>
           </div>

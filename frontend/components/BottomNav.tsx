@@ -43,7 +43,7 @@ export default function BottomNav({ activeTab, onChange }: BottomNavProps) {
               key={tab.id}
               type="button"
               onClick={() => onChange(tab.id)}
-              className={`relative flex flex-col items-center justify-center gap-0.5 text-[10.5px] font-medium transition-colors ${active ? 'text-[#0B6E63]' : 'text-slate-400 hover:text-[#0B6E63]'}`}
+              className={`relative flex flex-col items-center justify-center gap-0.5 text-[11px] font-medium transition-colors ${active ? 'text-[#0B6E63]' : 'text-slate-400 hover:text-[#0B6E63]'}`}
               aria-current={active ? 'page' : undefined}
             >
               <span className={`absolute top-0 h-0.5 w-10 rounded-b-full transition-colors ${active ? 'bg-[#20CDB6]' : 'bg-transparent'}`} />

@@ -28,7 +28,7 @@ export default function CourtCardShell({ label, index, subtitle, subtitleLeading
           <div className={`min-w-0 ${subtitle ? (headerBadge && !hideIndex ? 'min-h-[74px]' : 'min-h-[46px]') : 'min-h-[23px]'}`}>
             <div className="flex min-w-0 items-center gap-1.5">
               <span className={dualShell ? 'h-2 w-2 shrink-0 rounded-full bg-[#20CDB6] shadow-[0_0_16px_rgba(32,205,182,0.65)]' : 'h-1.5 w-1.5 shrink-0 rounded-full bg-[#20CDB6]'} />
-              <h2 className="truncate text-[18px] font-bold leading-[23px] tracking-wide text-slate-950">{label}</h2>
+              <h2 className="truncate text-[17px] font-bold leading-[23px] tracking-wide text-slate-950">{label}</h2>
             </div>
             <div className="min-w-0">
               {subtitle && <p className="mt-1.5 flex items-center gap-1 truncate text-[11px] leading-[14px] text-slate-400">{subtitleLeading}{subtitle}</p>}
@@ -52,7 +52,7 @@ export default function CourtCardShell({ label, index, subtitle, subtitleLeading
       {/* 免责声明压成一行：删掉「本产品用于健康说法核验」这句自我介绍（顶栏胶囊已写），
           保留真正有法律意义的半句，给上面的内容腾高度。 */}
       <div className={`${dualShell ? 'mx-5' : 'mx-4'} border-t border-[#20CDB6]/10 py-2`}>
-        <p className="flex items-center justify-center gap-1.5 text-center text-[10px] leading-tight text-slate-400">
+        <p className="flex items-center justify-center gap-1.5 text-center text-[11px] leading-tight text-slate-400">
           <svg className="h-4 w-4 shrink-0 text-[#9DDDD4]" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
             <path d="M10 2.5 4 5v4.5c0 3.6 2.5 6.9 6 8 3.5-1.1 6-4.4 6-8V5l-6-2.5Z" strokeLinejoin="round" />
             <path d="m7.3 10 1.8 1.8 3.8-3.8" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" />

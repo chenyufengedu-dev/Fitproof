@@ -34,7 +34,7 @@ export default function ClaimOrigin({ origin, embedded = false, variant = 'defau
         </span>
         <p className={`t-label font-semibold ${clinical ? 'text-[#4B596A]' : 'text-[#087F76]'}`}>说法溯源</p>
       </div>
-      <div data-origin-mechanism className="mt-2 flex min-w-0 items-center gap-1.5 whitespace-nowrap text-[10px] leading-none">
+      <div data-origin-mechanism className="mt-2 flex min-w-0 items-center gap-1.5 whitespace-nowrap text-[11px] leading-none">
         <span className={`shrink-0 px-2 py-1 font-semibold ${clinical ? 'rounded-[4px] border border-[#D5DBE0] bg-[#EEF1F3] text-[#526171]' : 'rounded-full bg-[#DFF3EF] text-[#087F76]'}`}>可能机制</span>
         <span className={`shrink-0 font-medium ${clinical ? 'text-[#596879]' : 'text-[#607187]'}`}>{ORIGIN_LABELS[origin.type]}</span>
         <span className={clinical ? 'text-[#BCC4CB]' : 'text-slate-300'}>·</span>

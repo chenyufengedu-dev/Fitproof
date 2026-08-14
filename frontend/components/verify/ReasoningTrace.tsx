@@ -72,7 +72,7 @@ export default function ReasoningTrace({ summary, steps, forceExpanded = false, 
                     <span className="t-label block leading-tight text-slate-700">{step.label}</span>
                     {step.detail ? <span className="t-meta mt-0 block leading-tight text-slate-400">{step.detail}</span> : null}
                     {/* 命中文献做成胶囊，一篇一颗，而不是 · 拼接的一长串灰字 */}
-                    {step.sources?.length ? <span className="mt-1.5 flex flex-col gap-1">{step.sources.map((source) => <span key={source} className="font-cite block break-words rounded-[8px] bg-[#EAF9F6] px-2 py-1 text-[10px] leading-snug text-[#0B8D7D]">{source}</span>)}</span> : null}
+                    {step.sources?.length ? <span className="mt-1.5 flex flex-col gap-1">{step.sources.map((source) => <span key={source} className="font-cite block break-words rounded-[8px] bg-[#EAF9F6] px-2 py-1 text-[11px] leading-snug text-[#0B8D7D]">{source}</span>)}</span> : null}
                   </span>
                 </li>
               )

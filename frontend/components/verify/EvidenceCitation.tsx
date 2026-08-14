@@ -30,7 +30,7 @@ export default function EvidenceCitation({ evidence, conclusion, onOpenEvidence 
           <path d="M12 3 5.5 6v5c0 4.5 2.8 7.8 6.5 9.5 3.7-1.7 6.5-5 6.5-9.5V6L12 3Z" />
           <path d="m8.7 12 2.1 2.1 4.5-4.5" strokeLinecap="round" strokeLinejoin="round" />
         </svg></span>
-        <h3 className="text-[18px] font-black tracking-[-0.025em] text-[#087F76]">权威依据 <span className="text-[14px] font-semibold">（数据库结论）</span></h3>
+        <h3 className="text-[17px] font-black tracking-[-0.025em] text-[#087F76]">权威依据 <span className="text-[14px] font-semibold">（数据库结论）</span></h3>
       </header>
       {conclusion ? <p className="mt-4 text-[16px] font-semibold leading-[1.72] text-[#17243B]">{conclusion}</p> : null}
       <div className="mt-4 border-t border-dashed border-[#CDE9E5] pt-3">
