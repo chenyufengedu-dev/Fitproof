@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import VerifyResultCard from '@/components/VerifyResultCard'
 import FitProofCat from '@/components/FitProofCat'
 import { clearHistory, loadHistory, removeHistory, type HistoryRecord } from '@/lib/history'
-import { demoFootprintHistory, demoHistory } from '@/lib/profileDemo'
+import { demoHistory } from '@/lib/profileDemo'
 import { createAnonymousClientId } from '@/lib/clientId.mjs'
 import {
   bucketOf,
@@ -286,8 +286,7 @@ export default function ProfileTab() {
   const [showAll, setShowAll] = useState(false)
   const [contributions, setContributions] = useState<ContributionRecord[]>([])
   const [showAllContributions, setShowAllContributions] = useState(false)
-  const demoFootprintRecords = useMemo(() => demoFootprintHistory(), [])
-  const demoTopicRecords = useMemo(() => demoHistory(), [])
+  const demoRecords = useMemo(() => demoHistory(), [])
 
   useEffect(() => {
     setRecords(loadHistory())
@@ -306,26 +305,29 @@ export default function ProfileTab() {
     return () => { alive = false }
   }, [])
 
-  const streak = useMemo(() => streakDays(records), [records])
-  const level = useMemo(() => levelOf(records.length), [records.length])
-  const topicRecords = useMemo(() => [...records, ...demoTopicRecords], [records, demoTopicRecords])
-  const topics = useMemo(() => topicStats(topicRecords), [topicRecords])
-  // 游园会演示只给足迹图补日期分布，不参与等级、统计、话题与核验历史。
-  const footprintRecords = useMemo(() => [...records, ...demoFootprintRecords], [records, demoFootprintRecords])
-  const grid = useMemo(() => heatmap(footprintRecords), [footprintRecords])
+  // 本机没有真实记录时整页改用演示数据，一旦有真实记录就完全以真实为准。
+  // 关键是「同源」：统计、等级、连续天数、话题、足迹、历史必须读同一份数据，
+  // 否则会出现「累计核验 0 条 / 还没有核验记录」与「话题各 4 条 + 满格足迹图」同屏。
+  const isDemo = records.length === 0
+  const viewRecords = isDemo ? demoRecords : records
+
+  const streak = useMemo(() => streakDays(viewRecords), [viewRecords])
+  const level = useMemo(() => levelOf(viewRecords.length), [viewRecords.length])
+  const topics = useMemo(() => topicStats(viewRecords), [viewRecords])
+  const grid = useMemo(() => heatmap(viewRecords), [viewRecords])
   const counts = useMemo(() => ({
-    全部: records.length,
-    不实: records.filter((r) => bucketOf(r) === '不实').length,
-    需留意: records.filter((r) => bucketOf(r) === '需留意').length,
-    站得住脚: records.filter((r) => bucketOf(r) === '站得住脚').length,
-  }), [records])
+    全部: viewRecords.length,
+    不实: viewRecords.filter((r) => bucketOf(r) === '不实').length,
+    需留意: viewRecords.filter((r) => bucketOf(r) === '需留意').length,
+    站得住脚: viewRecords.filter((r) => bucketOf(r) === '站得住脚').length,
+  }), [viewRecords])
   const visible = useMemo(
-    () => (filter === '全部' ? records : records.filter((record) => bucketOf(record) === filter)),
-    [records, filter],
+    () => (filter === '全部' ? viewRecords : viewRecords.filter((record) => bucketOf(record) === filter)),
+    [viewRecords, filter],
   )
   const shown = showAll ? visible : visible.slice(0, HISTORY_PREVIEW_LIMIT)
   const shownContributions = showAllContributions ? contributions : contributions.slice(0, CONTRIBUTION_PREVIEW_LIMIT)
-  const detail = useMemo(() => records.find((record) => record.id === detailId) || null, [records, detailId])
+  const detail = useMemo(() => viewRecords.find((record) => record.id === detailId) || null, [viewRecords, detailId])
 
   // 详情页打开时锁滚动，否则底层列表会跟着手指一起动
   useEffect(() => {
@@ -369,7 +371,7 @@ export default function ProfileTab() {
   // 四个图标统一青色系，只靠明度拉开层次 —— 橙/蓝/绿混在一张卡里太跳，
   // 而且会让人误以为颜色在编码某种状态（其实没有）。
   const stats = [
-    { key: 'doc', label: '累计核验', value: records.length, unit: '条', tint: 'bg-[#E4F6F2] text-[#0FA48F]' },
+    { key: 'doc', label: '累计核验', value: viewRecords.length, unit: '条', tint: 'bg-[#E4F6F2] text-[#0FA48F]' },
     { key: 'alert', label: '识别争议', value: disputed, unit: '条', tint: 'bg-[#E4F6F2] text-[#0FA48F]' },
     { key: 'shieldFill', label: '可借鉴', value: counts.站得住脚, unit: '条', tint: 'bg-[#E4F6F2] text-[#0FA48F]' },
     { key: 'calendar', label: '连续天数', value: streak, unit: '天', tint: 'bg-[#E4F6F2] text-[#0FA48F]' },
@@ -494,7 +496,7 @@ export default function ProfileTab() {
             >
               {level.next
                 ? `再 ${level.next.need} 条解锁「${level.next.name}」`
-                : `已解锁全部成就 · 累计核验 ${records.length} 条`}
+                : `已解锁全部成就 · 累计核验 ${viewRecords.length} 条`}
               <Icon name="chevron" className="h-3 w-3" />
             </button>
           </div>
@@ -516,6 +518,17 @@ export default function ProfileTab() {
               </div>
             ))}
           </div>
+
+          {/* 演示态必须标出来：数字、话题、足迹都来自预置数据，而「导出/清空记录」只作用于
+              真实记录、此时不可用。不标注就会让人以为功能坏了。 */}
+          {isDemo && (
+            <p className="mt-2.5 flex items-center gap-1.5 rounded-[10px] bg-white/70 px-2 py-1.5 text-[11px] leading-tight text-[#0B6E63]">
+              <svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+              </svg>
+              <span>本页为<b className="font-bold">演示数据</b>，完成第一条核验后会替换成你自己的记录</span>
+            </p>
+          )}
         </section>
 
         {/* 核验足迹 */}
@@ -620,9 +633,9 @@ export default function ProfileTab() {
 
         {/* 核验历史 —— 一条 = 一个被核验的说法，不是一个视频 */}
         <Card>
-          <CardTitle icon="history" title="核验历史" extra={records.length > 0 ? <span className="shrink-0 text-[10.5px] text-slate-400">最近 50 条</span> : undefined} />
+          <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[10.5px] text-slate-400">最近 50 条</span> : undefined} />
 
-          {records.length === 0 ? (
+          {viewRecords.length === 0 ? (
             <div className="px-4 py-8 text-center">
               <FitProofCat pose="empty" size={88} className="mx-auto" title="还没有记录" />
               <p className="mt-3 text-[14.5px] font-bold text-slate-900">还没有核验记录</p>
@@ -856,7 +869,7 @@ export default function ProfileTab() {
           </p>
           <ul className="space-y-1.5 pb-1">
             {LEVELS.map((item, index) => {
-              const reached = records.length >= item.min
+              const reached = viewRecords.length >= item.min
               const current = level.index === index + 1
               return (
                 <li
@@ -893,8 +906,8 @@ export default function ProfileTab() {
                 这天核验了 <b className="text-[15px] font-extrabold tabular-nums text-[#0B6E63]">{dayCell.count}</b> 条
               </p>
               <ul className="space-y-1.5 pb-1">
-                    {footprintRecords
-                      .filter((record) => record.createdAt.slice(0, 10) === dayCell.date)
+                {viewRecords
+                  .filter((record) => record.createdAt.slice(0, 10) === dayCell.date)
                   .map((record) => {
                     const bucket = bucketOf(record)
                     return (

@@ -2,10 +2,12 @@ import type { HistoryRecord } from '@/lib/history'
 import type { VerifyResult } from '@/types'
 
 /**
- * 游园会演示用的预置「核验足迹」。
- * 仅当本机没有任何真实核验记录时，「我的」页用它来呈现热力图/等级/话题分布，
- * 让展示不至于是一片空白。不写入 localStorage：用户一旦产生真实记录就以真实为准。
- * 纯演示数据，不用于真实统计。
+ * 演示用的预置核验记录。
+ * 仅当本机没有任何真实记录时，「我的」页整页改用它——统计、等级、连续天数、话题、
+ * 足迹、历史全部读这一份，页面上会明确标注「演示数据」。之所以必须同源：曾经统计读
+ * 真实记录而话题和足迹读演示数据，于是「累计 0 条 / 还没有核验记录」和「话题各 4 条 +
+ * 满格足迹图」同屏出现。
+ * 不写入 localStorage：用户一旦产生真实记录就完全以真实为准。
  */
 
 type Seed = {
@@ -70,20 +72,6 @@ function makeResult(verdict: string, risk: string, correction: string): VerifyRe
 
 const SIGNAL_BY_RISK: Record<string, string> = { 低: '较公认', 中: '疑似夸大', 高: '疑似夸大' }
 
-// 额外活动只服务于游园会热力图：补足空白日期，并让部分日期达到 2~3 档深度。
-// 它不会进入累计核验、等级或核验历史。
-const EXTRA_ACTIVITY_DAYS = [
-  { daysAgo: 5, count: 3 }, { daysAgo: 6, count: 1 }, { daysAgo: 8, count: 2 },
-  { daysAgo: 10, count: 1 }, { daysAgo: 13, count: 2 }, { daysAgo: 15, count: 1 },
-  { daysAgo: 17, count: 3 }, { daysAgo: 20, count: 1 }, { daysAgo: 22, count: 2 },
-  { daysAgo: 24, count: 1 }, { daysAgo: 27, count: 2 }, { daysAgo: 28, count: 1 },
-  { daysAgo: 32, count: 3 }, { daysAgo: 35, count: 1 }, { daysAgo: 39, count: 2 },
-  { daysAgo: 43, count: 1 }, { daysAgo: 48, count: 2 }, { daysAgo: 55, count: 1 },
-  { daysAgo: 61, count: 3 }, { daysAgo: 67, count: 1 }, { daysAgo: 74, count: 2 },
-  { daysAgo: 82, count: 1 }, { daysAgo: 90, count: 2 }, { daysAgo: 99, count: 1 },
-  { daysAgo: 108, count: 2 }, { daysAgo: 117, count: 1 },
-]
-
 /** 生成演示历史记录（createdAt 基于当前时间回推，热力图/连续天数即时有数）。 */
 export function demoHistory(): HistoryRecord[] {
   const now = Date.now()
@@ -98,22 +86,4 @@ export function demoHistory(): HistoryRecord[] {
     // 同一天多条也可，热力图会自然叠深；加少许小时偏移让排序稳定
     createdAt: new Date(now - s.daysAgo * day - index * 60_000).toISOString(),
   }))
-}
-
-/** 更密集的演示足迹，仅供热力图与日期明细使用。 */
-export function demoFootprintHistory(): HistoryRecord[] {
-  const base = demoHistory()
-  const now = Date.now()
-  const day = 86_400_000
-  const extra = EXTRA_ACTIVITY_DAYS.flatMap(({ daysAgo, count }, dayIndex) => (
-    Array.from({ length: count }, (_, repeatIndex) => {
-      const source = base[(dayIndex + repeatIndex) % base.length]
-      return {
-        ...source,
-        id: `demo-activity-${dayIndex}-${repeatIndex}`,
-        createdAt: new Date(now - daysAgo * day - repeatIndex * 60_000).toISOString(),
-      }
-    })
-  ))
-  return [...base, ...extra]
 }
