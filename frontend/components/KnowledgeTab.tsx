@@ -311,11 +311,11 @@ export default function KnowledgeTab() {
                 参差形状，因为机构名长短不一 —— 分成两组各自成行才稳定。 */}
             <div className="mt-2 space-y-1">
               {[library.orgs.slice(0, 3), library.orgs.slice(3, 6)].map((row, index) => (
-                <div key={index} className="flex gap-1">
+                <div key={index} className="flex gap-[3px]">
                   {row.map((item) => (
                     <span
                       key={item.name}
-                      className="inline-flex min-w-0 items-center gap-1 rounded-full bg-white px-2 py-[3px] text-[11px] font-bold leading-none text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]"
+                      className="inline-flex min-w-0 items-center gap-1 rounded-full bg-white px-1.5 py-[3px] text-[11px] font-bold leading-none text-[#0B6E63] shadow-[0_1px_2px_rgba(11,110,99,0.08)]"
                     >
                       <BankIcon className="h-[11px] w-[11px] shrink-0 text-[#3FB49C]" />
                       <span className="truncate">{shortOrg(item.name)}</span>
@@ -350,7 +350,7 @@ export default function KnowledgeTab() {
                 key={item.name}
                 type="button"
                 onClick={() => setTopicFilter(topicFilter === item.name ? '' : item.name)}
-                className={`inline-flex min-w-0 max-w-[9.5rem] items-center gap-1 rounded-full border px-2 py-[3px] text-[11px] font-semibold leading-none transition ${
+                className={`inline-flex min-w-0 max-w-[11.5rem] items-center gap-1 rounded-full border px-2 py-1.5 text-[11px] font-semibold leading-none transition ${
                   topicFilter === item.name
                     ? 'border-[#0B6E63] bg-[#0B6E63] text-white'
                     : 'border-[#CFEAE3] bg-[#F5FCFA] text-[#0B6E63]'
@@ -365,7 +365,7 @@ export default function KnowledgeTab() {
                 type="button"
                 onClick={() => setShowTopicSheet(true)}
                 aria-label={`查看全部 ${library.coverage.scope.length} 个领域`}
-                className="shrink-0 px-1.5 text-[13px] font-bold leading-none text-[#0B6E63]"
+                className="shrink-0 px-1.5 py-1.5 text-[13px] font-bold leading-none text-[#0B6E63]"
               >
                 …
               </button>
@@ -384,7 +384,7 @@ export default function KnowledgeTab() {
             <button
               type="button"
               onClick={() => setShowOrgSheet(true)}
-              className="flex shrink-0 items-center gap-0.5 text-[11px] font-bold text-[#0B6E63]"
+              className="flex shrink-0 items-center gap-0.5 py-1 text-[11px] font-bold text-[#0B6E63]"
             >
               全部 {library.stats.orgs} 家
               <Icon name="chevron" className="h-3 w-3" />
@@ -399,9 +399,9 @@ export default function KnowledgeTab() {
                   key={item.name}
                   type="button"
                   onClick={() => setOrgFilter(active ? '' : item.name)}
-                  className="flex w-full items-center gap-2 text-left"
+                  className="flex w-full items-center gap-2 py-1 text-left"
                 >
-                  <span className={`w-[82px] shrink-0 truncate text-[11px] font-semibold ${active ? 'text-[#0B6E63]' : 'text-slate-600'}`} title={item.name}>
+                  <span className={`w-[90px] shrink-0 truncate text-[11px] font-semibold ${active ? 'text-[#0B6E63]' : 'text-slate-600'}`} title={item.name}>
                     {shortOrg(item.name)}
                   </span>
                   <span className="h-2 flex-1 overflow-hidden rounded-full bg-[#EEF4F3]">
@@ -487,7 +487,7 @@ export default function KnowledgeTab() {
                   <ClosedBookIcon className="mt-0.5 h-4 w-4 shrink-0 text-[#5FC9B6]" />
                   <div className="min-w-0 flex-1">
                     <p className="font-cite line-clamp-2 text-[12px] font-semibold leading-snug text-slate-900">{item.doc}</p>
-                    <p className="font-cite mt-1 truncate text-[11px] text-slate-600">
+                    <p className="font-cite mt-1 line-clamp-2 text-[11px] leading-snug text-slate-600">
                       {shortOrg(item.org)}{item.year ? ` · ${item.year}` : ''}{item.pages ? ` · 第 ${item.pages} 页` : ''}
                     </p>
                   </div>
