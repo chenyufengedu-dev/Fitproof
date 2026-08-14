@@ -458,7 +458,7 @@ export default function ProfileTab() {
                     <button
                       type="button"
                       onClick={() => { setDraftName(identity.nickname); setEditingName(true) }}
-                      className="min-w-0 shrink truncate text-left text-[15px] font-extrabold tracking-tight"
+                      className="min-w-0 shrink truncate py-0.5 text-left text-[15px] font-extrabold tracking-tight"
                     >
                       {identity.nickname}
                     </button>
@@ -467,7 +467,7 @@ export default function ProfileTab() {
                       type="button"
                       onClick={() => setShowLevels(true)}
                       aria-label="查看等级与成就"
-                      className="flex shrink-0 items-center gap-1.5"
+                      className="flex shrink-0 items-center gap-1.5 py-1"
                     >
                       <span className="rounded-md bg-[#0B6E63] px-1.5 py-[3px] text-[11px] font-black leading-none text-white">Lv.{level.index}</span>
                       <span className="flex items-center gap-1 text-[11px] font-bold text-[#0B6E63]">
@@ -494,7 +494,7 @@ export default function ProfileTab() {
             <button
               type="button"
               onClick={() => setShowLevels(true)}
-              className="mt-1.5 flex items-center gap-1 text-[11px] text-slate-600 transition hover:text-[#0B6E63]"
+              className="mt-1.5 flex items-center gap-1 py-1 text-[11px] text-slate-600 transition hover:text-[#0B6E63]"
             >
               {level.next
                 ? `再 ${level.next.need} 条解锁「${level.next.name}」`
@@ -680,7 +680,7 @@ export default function ProfileTab() {
                             <button
                               type="button"
                               onClick={() => setDetailId(record.id)}
-                              className="min-w-0 flex-1 text-left"
+                              className="min-w-0 flex-1 py-1 text-left"
                             >
                               <p className="line-clamp-2 text-[12px] font-semibold leading-snug text-slate-900">“{record.claim}”</p>
                             </button>
@@ -689,7 +689,7 @@ export default function ProfileTab() {
                           <div className="mt-1 flex items-center justify-between gap-2 pl-[38px] text-[11px]">
                             <span className="min-w-0 truncate text-slate-600">{record.topic || record.reference?.title || '未分类'}</span>
                             <span className="flex shrink-0 items-center gap-2">
-                              <button type="button" onClick={() => setDetailId(record.id)} className="font-bold text-[#0B6E63]">
+                              <button type="button" onClick={() => setDetailId(record.id)} className="py-1 font-bold text-[#0B6E63]">
                                 看依据 ›
                               </button>
                               <button
@@ -701,7 +701,7 @@ export default function ProfileTab() {
                                   onConfirm: () => setRecords(removeHistory(record.id)),
                                 })}
                                 aria-label="删除这条记录"
-                                className="text-slate-600 transition hover:text-[#B8402F]"
+                                className="px-2 py-1 text-slate-600 transition hover:text-[#B8402F]"
                               >
                                 ✕
                               </button>

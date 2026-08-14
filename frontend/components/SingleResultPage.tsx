@@ -301,7 +301,7 @@ function ExpandableHighlight({ text, label }: { text: string; label: string }) {
   }
 
   return (
-    <button type="button" className="mt-1 flex w-full items-start gap-1 text-left" onClick={() => setExpanded((current) => !current)} aria-expanded={expanded} aria-label={`${expanded ? '收起' : '展开'}${label}完整内容`}>
+    <button type="button" className="mt-1 flex w-full items-start gap-1 py-1 text-left" onClick={() => setExpanded((current) => !current)} aria-expanded={expanded} aria-label={`${expanded ? '收起' : '展开'}${label}完整内容`}>
       <span ref={textRef} className={`t-meta min-w-0 flex-1 text-slate-700 ${expanded ? 'break-words leading-relaxed' : 'truncate'}`}>{text}</span>
       <svg className={`mt-0.5 h-4 w-4 shrink-0 text-slate-600 transition-transform ${expanded ? 'rotate-180' : ''}`} viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
         <path d="m5 7.5 5 5 5-5" strokeLinecap="round" strokeLinejoin="round" />
@@ -612,11 +612,12 @@ function OverviewCard({ data, states, revealed, onOpenClaim }: { data: SingleAna
                     <svg className="h-4 w-4 shrink-0 text-slate-600" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="m5.5 3 5 5-5 5" strokeLinecap="round" strokeLinejoin="round" /></svg>
                   </div>
                   <p className="t-body mt-1.5 line-clamp-2 font-semibold leading-relaxed text-slate-900">{claim.claim}</p>
-                  <div className="mt-1.5 grid grid-cols-[88px_98px_minmax(0,1fr)] border-t border-dashed border-[#E7EEF0] pt-1.5">
+                  <div className="mt-1.5 grid grid-cols-2 border-t border-dashed border-[#E7EEF0] pt-1.5">
                     <span className="flex min-w-0 items-center gap-1.5 border-r border-slate-100 pr-2"><i className="grid h-5 w-5 shrink-0 place-items-center rounded-full bg-[#E9EEF5] text-[#7F8EA8]"><svg className="h-3 w-3 translate-x-px" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M4.7 3.2c0-.8.9-1.3 1.6-.8l6.1 4.3c.9.6.9 2 0 2.6l-6.1 4.3c-.7.5-1.6 0-1.6-.8V3.2Z" stroke="currentColor" strokeWidth="1" strokeLinejoin="round" /></svg></i><span className="min-w-0"><span className="t-micro block truncate text-slate-600">视频片段</span><span className="t-micro block truncate font-semibold text-slate-600">{firstTime(claim)}</span></span></span>
-                    <span className="flex min-w-0 items-center gap-1.5 border-r border-slate-100 px-2"><svg className="h-5 w-5 shrink-0 text-[#8191AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M12 3v18M4 7h16M6.5 7 3.8 13h5.4L6.5 7ZM17.5 7l-2.7 6h5.4l-2.7-6ZM5 20h14" strokeLinecap="round" strokeLinejoin="round" /></svg><span className="min-w-0"><span className="t-micro block truncate text-slate-600">初步判断</span><span className={`t-micro block truncate font-semibold ${c.text}`}>{group}</span></span></span>
-                    <span className="flex min-w-0 items-center gap-1.5 pl-2"><svg className="h-5 w-5 shrink-0 text-[#8191AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.65" aria-hidden="true"><rect x="5.2" y="3.4" width="13.6" height="17.2" rx="2" /><path d="M9 3.4h6v3H9zM8.8 11h6.4M8.8 14.5h6.4" strokeLinecap="round" strokeLinejoin="round" /></svg><span className="min-w-0"><span className="t-micro block truncate text-slate-600">核验切入点</span><span className="t-micro block truncate font-semibold text-slate-600">{claim.why || '未标注核验切入点'}</span></span></span>
+                    <span className="flex min-w-0 items-center gap-1.5 pl-2"><svg className="h-5 w-5 shrink-0 text-[#8191AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="M12 3v18M4 7h16M6.5 7 3.8 13h5.4L6.5 7ZM17.5 7l-2.7 6h5.4l-2.7-6ZM5 20h14" strokeLinecap="round" strokeLinejoin="round" /></svg><span className="min-w-0"><span className="t-micro block truncate text-slate-600">初步判断</span><span className={`t-micro block truncate font-semibold ${c.text}`}>{group}</span></span></span>
                   </div>
+                  {/* 切入点独占一行：挤在第三列时只有 62px，整句被截成 4 个字，读不出任何信息 */}
+                  <div className="mt-1.5 flex items-start gap-1.5 border-t border-dashed border-[#E7EEF0] pt-1.5"><svg className="h-5 w-5 shrink-0 text-[#8191AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.65" aria-hidden="true"><rect x="5.2" y="3.4" width="13.6" height="17.2" rx="2" /><path d="M9 3.4h6v3H9zM8.8 11h6.4M8.8 14.5h6.4" strokeLinecap="round" strokeLinejoin="round" /></svg><span className="min-w-0 flex-1"><span className="t-micro block text-slate-600">核验切入点</span><span className="t-micro block line-clamp-2 font-semibold leading-snug text-slate-600">{claim.why || '未标注核验切入点'}</span></span></div>
                 </button>
               )
             })}

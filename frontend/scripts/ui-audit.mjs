@@ -64,7 +64,8 @@ const AUDIT = () => {
       // 文字被截断。注意 text-overflow 的默认值就是 clip，光看它会把「溢出但可见」
       // 的元素也算进来（例如热力图月份标签故意溢到相邻空格子里）。必须确认自己或某个
       // 祖先真的在裁剪。
-      if (el.scrollWidth > el.clientWidth + 1) {
+      // sr-only 是给读屏用的隐藏文本，被 clip 是它的实现方式，不是缺陷
+      if (el.scrollWidth > el.clientWidth + 1 && !el.matches('.sr-only')) {
         const clipsSelf = cs.textOverflow === 'ellipsis' || /hidden|clip|auto|scroll/.test(cs.overflowX)
         let clipped = clipsSelf
         for (let n = el.parentElement; n && !clipped && n !== document.body; n = n.parentElement) {
@@ -76,11 +77,22 @@ const AUDIT = () => {
       }
     }
 
-    // 点击热区
+    // 点击热区。量盒子不够：热区可能由伪元素扩出来，盒子看不见。
+    // 改成真实探测——从中心往外 20px 处看命中的还是不是同一个按钮
+    // （用 20 而不是 22：44px 热区的边界正好在 22，取边界值会被判成没命中）。
     const clickable = el.matches('button, a, [role="button"], input:not([type=hidden]), select, textarea, label[for]')
-    if (clickable) {
-      if (r.width < 44 || r.height < 44) {
-        out.tapTarget.push({ el: label(el), text: textOf(el), w: Math.round(r.width), h: Math.round(r.height) })
+    if (clickable && !el.matches('.sr-only')) {
+      const cx = r.left + r.width / 2
+      const cy = r.top + r.height / 2
+      const owns = (x, y) => {
+        const hit = document.elementFromPoint(x, y)
+        return !!hit && hit.closest('button, a, [role="button"], label') === el.closest('button, a, [role="button"], label')
+      }
+      const inView = cy > 0 && cy < innerHeight && cx > 0 && cx < innerWidth
+      const hitH = !inView ? r.height : (owns(cx, cy - 20) && owns(cx, cy + 20) ? Math.max(44, r.height) : r.height)
+      const hitW = !inView ? r.width : (owns(cx - 20, cy) && owns(cx + 20, cy) ? Math.max(44, r.width) : r.width)
+      if (hitH < 24 || hitW < 24) {
+        out.tapTarget.push({ el: label(el), text: textOf(el), w: Math.round(r.width), h: Math.round(r.height), hitW: Math.round(hitW), hitH: Math.round(hitH), offscreen: !inView })
       }
       const name = (el.getAttribute('aria-label') || el.getAttribute('title') || textOf(el) || el.getAttribute('alt') || '').trim()
       if (!name) out.a11y.push({ kind: '可点击元素没有可读名称', el: label(el) })
@@ -129,8 +141,8 @@ for (const [name, r] of Object.entries(all)) {
   console.log(`\n对比度不足 (WCAG AA)  —— ${r.contrast.length} 处，去重后 ${c.length} 类`)
   c.slice(0, 6).forEach((x) => console.log(`   ${x.ratio} : 1 (需 ${x.need})  ${x.size}px ${x.color}  ×${x.n}  「${x.text}」`))
   const t = dedup(r.tapTarget, (x) => x.el + x.w + x.h).sort((a, b) => a.w * a.h - b.w * b.h)
-  console.log(`\n点击热区小于 44×44  —— ${r.tapTarget.length} 处，去重后 ${t.length} 类`)
-  t.slice(0, 6).forEach((x) => console.log(`   ${x.w}×${x.h}  ×${x.n}  「${x.text}」  ${x.el.slice(0, 50)}`))
+  console.log(`\n点击热区小于 24×24 (WCAG 2.5.8 AA)  —— ${r.tapTarget.length} 处，去重后 ${t.length} 类`)
+  t.slice(0, 8).forEach((x) => console.log(`   盒子 ${x.w}×${x.h} 热区 ${x.hitW}×${x.hitH}${x.offscreen ? '(视口外)' : ''}  ×${x.n}  「${x.text}」  ${x.el.slice(0, 42)}`))
   console.log(`\n文字被截断 —— ${r.truncated.length} 处`)
   r.truncated.slice(0, 5).forEach((x) => console.log(`   显示 ${x.shown}px / 需要 ${x.needed}px  「${x.text}」`))
   const a = dedup(r.a11y, (x) => x.kind + x.el)
