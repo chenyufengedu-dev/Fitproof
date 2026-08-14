@@ -72,7 +72,7 @@ export default function EvidenceStrength({ tier, strength, org, sourceDoc, embed
 
   const content = <>
       <button type="button" onClick={() => setOpen((v) => !v)} className="flex w-full items-center gap-3 text-left">
-        <span className="t-micro shrink-0 uppercase tracking-[0.09em] text-slate-400">证据强度</span>
+        <span className="t-micro shrink-0 uppercase tracking-[0.09em] text-slate-600">证据强度</span>
         <span className="flex items-center gap-1" aria-hidden="true">
           {[1, 2, 3, 4, 5].map((n) => (
             <span
@@ -83,13 +83,13 @@ export default function EvidenceStrength({ tier, strength, org, sourceDoc, embed
           ))}
         </span>
         <span className="t-label shrink-0" style={{ color: accent }}>{label}</span>
-        <span className="ml-auto t-meta shrink-0 text-slate-400">{currentName}</span>
-        <svg className={`h-3.5 w-3.5 shrink-0 text-slate-400 transition-transform ${open ? 'rotate-180' : ''}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m4 6 4 4 4-4" strokeLinecap="round" strokeLinejoin="round" /></svg>
+        <span className="ml-auto t-meta shrink-0 text-slate-600">{currentName}</span>
+        <svg className={`h-3.5 w-3.5 shrink-0 text-slate-600 transition-transform ${open ? 'rotate-180' : ''}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m4 6 4 4 4-4" strokeLinecap="round" strokeLinejoin="round" /></svg>
       </button>
 
       {open ? (
         <div className="animate-fadeIn mt-3 border-t border-[#DDE2E6] pt-3">
-          <p className="t-micro mb-2 uppercase tracking-[0.09em] text-slate-400">检索层级（自上而下，命中即止）</p>
+          <p className="t-micro mb-2 uppercase tracking-[0.09em] text-slate-600">检索层级（自上而下，命中即止）</p>
           <ul className="divide-y divide-[#E5EBEA]">
             {LADDER.map((row) => {
               const hit = (row.key === 'conclusion' && level === 'conclusion')
@@ -98,14 +98,14 @@ export default function EvidenceStrength({ tier, strength, org, sourceDoc, embed
               return (
                 <li key={row.key} className="flex min-h-10 items-center gap-2.5 py-2">
                   <span className="h-2.5 w-2.5 shrink-0 rounded-full" style={{ backgroundColor: hit ? (clinical ? '#586779' : '#10B89F') : '#B8C3CC' }} />
-                  <span className={`t-meta ${hit ? 'font-semibold text-slate-800' : 'text-slate-400'}`}>{row.name}</span>
-                  {hit ? <span className={`t-micro rounded-full px-2 py-1 font-semibold ${clinical ? 'bg-[#E9EDF1] text-[#425166]' : 'bg-[#E2F5F1] text-[#078C7E]'}`}>本条命中</span> : null}
-                  <span className="t-micro ml-auto text-right text-slate-400">{row.note}</span>
+                  <span className={`t-meta ${hit ? 'font-semibold text-slate-800' : 'text-slate-600'}`}>{row.name}</span>
+                  {hit ? <span className={`t-micro rounded-full px-2 py-1 font-semibold ${clinical ? 'bg-[#E9EDF1] text-[#425166]' : 'bg-[#E2F5F1] text-[#0B6E63]'}`}>本条命中</span> : null}
+                  <span className="t-micro ml-auto text-right text-slate-600">{row.note}</span>
                 </li>
               )
             })}
           </ul>
-          <p className="t-meta mt-3 leading-relaxed text-slate-500">
+          <p className="t-meta mt-3 leading-relaxed text-slate-600">
             规则：结论级最高 5 档、原文级最高 3 档、AI 常识 1 档，再按模型评定的依据强度（{strength || '未评级'}）微调。
             {sourceDoc ? `本条来源：${org ? `${org} · ` : ''}《${sourceDoc}》。` : '本条未命中权威依据，为 AI 常识判断。'}
           </p>

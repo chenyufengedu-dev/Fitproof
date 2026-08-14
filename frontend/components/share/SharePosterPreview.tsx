@@ -114,7 +114,7 @@ export default function SharePosterPreview({
           <div className="flex max-w-sm flex-col items-center text-center">
             <span className="grid h-12 w-12 place-items-center rounded-full bg-white/10 text-[#FFB4A2]"><svg className="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9" aria-hidden="true"><path d="M10.3 3.9 2.6 17.4c-.6 1 .1 2.3 1.3 2.3h15.6c1.2 0 1.9-1.3 1.3-2.3L13.7 3.9c-.6-1.1-2.1-1.1-2.7 0Z" strokeLinejoin="round" /><path d="M12 8.5v4.5M12 16.4h.01" strokeLinecap="round" /></svg></span>
             <p className="t-label mt-3 leading-relaxed text-white">{error}</p>
-            {onRetry && <button type="button" className="mt-4 min-h-11 rounded-full bg-[#20CDB6] px-6 t-label text-white transition active:scale-[0.98]" onClick={onRetry}>重新生成</button>}
+            {onRetry && <button type="button" className="mt-4 min-h-11 rounded-full bg-[#20CDB6] px-6 t-label text-[#06403A] transition active:scale-[0.98]" onClick={onRetry}>重新生成</button>}
           </div>
         )}
         {status === 'ready' && imageUrl && <img data-share-poster src={imageUrl} alt="FitProof 健康核验分享长图" className="block max-h-full max-w-[min(100%,520px)] rounded-[14px] object-contain shadow-[0_18px_48px_rgba(0,0,0,.38)]" onClick={(event) => event.stopPropagation()} />}
@@ -138,7 +138,7 @@ export default function SharePosterPreview({
           </label>
           <div className="mt-3 grid grid-cols-2 gap-3">
             <button type="button" onClick={() => void handleDownload()} disabled={evidenceSubmitting} className="min-h-12 rounded-full bg-white px-5 t-label text-[#087F72] disabled:opacity-60">{evidenceSubmitting ? '正在提交…' : shouldShowLongPressHint() ? '长按上方图片保存' : '保存图片'}</button>
-            <button type="button" onClick={() => void handleShare()} disabled={sharing || evidenceSubmitting} className="min-h-12 rounded-full bg-[#20CDB6] px-5 t-label text-white disabled:opacity-60">{sharing ? '正在打开分享…' : '分享给好友'}</button>
+            <button type="button" onClick={() => void handleShare()} disabled={sharing || evidenceSubmitting} className="min-h-12 rounded-full bg-[#20CDB6] px-5 t-label text-[#06403A] disabled:opacity-60">{sharing ? '正在打开分享…' : '分享给好友'}</button>
           </div>
         </div>
       )}

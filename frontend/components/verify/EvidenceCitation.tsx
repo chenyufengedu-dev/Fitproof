@@ -34,7 +34,7 @@ export default function EvidenceCitation({ evidence, conclusion, onOpenEvidence 
       </header>
       {conclusion ? <p className="mt-4 text-[16px] font-semibold leading-[1.72] text-[#17243B]">{conclusion}</p> : null}
       <div className="mt-4 border-t border-dashed border-[#CDE9E5] pt-3">
-        <p className="mb-2 text-[13px] font-bold text-[#0B9F91]"><span className="mr-2 inline-block h-4 w-1 rounded-full bg-[#20CDB6] align-[-2px]" />依据出处</p>
+        <p className="mb-2 text-[13px] font-bold text-[#07766B]"><span className="mr-2 inline-block h-4 w-1 rounded-full bg-[#20CDB6] align-[-2px]" />依据出处</p>
         <div className="overflow-hidden rounded-[14px] border border-[#E1EEEC] bg-white">
           {citations.map((item, index) => (
             <button
@@ -43,7 +43,7 @@ export default function EvidenceCitation({ evidence, conclusion, onOpenEvidence 
               onClick={() => onOpenEvidence?.(citations)}
               className="flex w-full items-center gap-3 border-b border-[#EDF4F3] bg-white px-3 py-3 text-left last:border-b-0 hover:bg-[#F7FCFB]"
             >
-              <span className="grid h-9 w-9 shrink-0 place-items-center rounded-[10px] bg-[#EAF9F6] text-[13px] font-black text-[#0B9F91]">[{index + 1}]</span>
+              <span className="grid h-9 w-9 shrink-0 place-items-center rounded-[10px] bg-[#EAF9F6] text-[13px] font-black text-[#07766B]">[{index + 1}]</span>
               <span className="min-w-0 flex-1"><span className="block truncate text-[15px] font-bold text-[#17243B]">《{item.source_doc}》</span><span className="mt-1 block truncate text-[12px] text-[#7183A4]">{item.org || '来源机构未标注'}{item.year ? ` · ${item.year}` : ''}{item.page ? ` · P.${item.page}` : ''}</span></span>
               <svg className="h-4 w-4 shrink-0 text-[#8EA9B7]" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.7" aria-hidden="true"><path d="m6 3 5 5-5 5" strokeLinecap="round" strokeLinejoin="round" /></svg>
             </button>

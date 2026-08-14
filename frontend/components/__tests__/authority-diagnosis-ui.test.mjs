@@ -22,7 +22,7 @@ test('authority diagnosis keeps the verdict stamp without adding a decorative au
 
 test('retrieval ladder separates rows and supports neutral clinical and teal default selected badges', () => {
   assert.match(strengthSource, /divide-y divide-\[#E5EBEA\]/)
-  assert.match(strengthSource, /clinical \? 'bg-\[#E9EDF1\] text-\[#425166\]' : 'bg-\[#E2F5F1\] text-\[#078C7E\]'/)
+  assert.match(strengthSource, /clinical \? 'bg-\[#E9EDF1\] text-\[#425166\]' : 'bg-\[#E2F5F1\] text-\[#0B6E63\]'/)
   assert.match(strengthSource, /clinical \? '#586779' : '#10B89F'/)
 })
 

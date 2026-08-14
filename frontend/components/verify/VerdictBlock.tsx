@@ -15,7 +15,7 @@ export default function VerdictBlock({ verdict, riskLevel, correction, stamp, sh
     ? { panel: 'border-[#F9D8D8] bg-[#FFF8F8] text-[#C73A3A]', divider: 'border-[#FBE3E3] bg-[#FFF1F1] text-[#AD6666]' }
     : riskMid
       ? { panel: 'border-[#F5E0BC] bg-[#FFFBF3] text-[#9A5B08]', divider: 'border-[#F8E8CC] bg-[#FFF7EA] text-[#A2733A]' }
-      : { panel: 'border-[#CBEDE7] bg-[#F7FCFA] text-[#078C7E]', divider: 'border-[#DDF3EE] bg-[#EEF9F6] text-[#4E8D84]' }
+      : { panel: 'border-[#CBEDE7] bg-[#F7FCFA] text-[#0B6E63]', divider: 'border-[#DDF3EE] bg-[#EEF9F6] text-[#4E8D84]' }
 
   return (
     <section className={`relative overflow-hidden rounded-[22px] border shadow-[0_9px_24px_rgba(15,60,58,0.055)] ${tone.panel}`}>

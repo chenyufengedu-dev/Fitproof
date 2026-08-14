@@ -51,8 +51,8 @@ export default function ReasoningTrace({ summary, steps, forceExpanded = false, 
           {!completed ? <span className="-translate-y-0.5 inline-flex h-3 shrink-0 items-end gap-1" aria-label="核验处理中">
             {[0, 1, 2].map((dot) => <span key={dot} className="trace-loading-dot h-[5px] w-[5px] rounded-full bg-[#527083]" style={{ animationDelay: `${dot * 150}ms` }} />)}
           </span> : null}
-          <span className="t-meta truncate text-slate-400">{summary}</span>
-          <svg className={`h-3.5 w-3.5 shrink-0 text-slate-400 transition-transform ${isExpanded ? 'rotate-180' : ''}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
+          <span className="t-meta truncate text-slate-600">{summary}</span>
+          <svg className={`h-3.5 w-3.5 shrink-0 text-slate-600 transition-transform ${isExpanded ? 'rotate-180' : ''}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
             <path d="m4 6 4 4 4-4" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
         </span>
@@ -70,9 +70,9 @@ export default function ReasoningTrace({ summary, steps, forceExpanded = false, 
                   </span>
                   <span className="min-w-0">
                     <span className="t-label block leading-tight text-slate-700">{step.label}</span>
-                    {step.detail ? <span className="t-meta mt-0 block leading-tight text-slate-400">{step.detail}</span> : null}
+                    {step.detail ? <span className="t-meta mt-0 block leading-tight text-slate-600">{step.detail}</span> : null}
                     {/* 命中文献做成胶囊，一篇一颗，而不是 · 拼接的一长串灰字 */}
-                    {step.sources?.length ? <span className="mt-1.5 flex flex-col gap-1">{step.sources.map((source) => <span key={source} className="font-cite block break-words rounded-[8px] bg-[#EAF9F6] px-2 py-1 text-[11px] leading-snug text-[#0B8D7D]">{source}</span>)}</span> : null}
+                    {step.sources?.length ? <span className="mt-1.5 flex flex-col gap-1">{step.sources.map((source) => <span key={source} className="font-cite block break-words rounded-[8px] bg-[#EAF9F6] px-2 py-1 text-[11px] leading-snug text-[#0B6E63]">{source}</span>)}</span> : null}
                   </span>
                 </li>
               )

@@ -144,11 +144,11 @@ export default function InputPage({
             />
           </div>
           <p className="fitproof-input-tagline fitproof-brand-tagline mt-3 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
-          <p className="fitproof-input-description mt-3 text-[15px] leading-relaxed text-slate-500">
+          <p className="fitproof-input-description mt-3 text-[15px] leading-relaxed text-slate-600">
             粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
           </p>
           <div className="fitproof-input-features mt-5 flex flex-nowrap items-center justify-between gap-1.5 whitespace-nowrap text-[11px] font-medium min-[420px]:text-xs">
-            <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-[#E5C455]/55 bg-[#FFFDF5] px-1 py-1 font-semibold text-[#D2A517] shadow-[0_1px_3px_rgba(180,139,14,0.05)]">
+            <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-[#E5C455]/55 bg-[#FFFDF5] px-1 py-1 font-semibold text-[#8A610A] shadow-[0_1px_3px_rgba(180,139,14,0.05)]">
               <svg className="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M12 1.75c.5 6.7 3.55 9.75 10.25 10.25C15.55 12.5 12.5 15.55 12 22.25 11.5 15.55 8.45 12.5 1.75 12 8.45 11.5 11.5 8.45 12 1.75Z" />
               </svg>
@@ -180,7 +180,7 @@ export default function InputPage({
                   className="w-full rounded-2xl border border-[#20CDB6]/25 bg-[#f3fbf9] px-4 py-3 text-left text-[15px] text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-white disabled:opacity-50"
                 >
                   <span className="font-semibold">检测到视频链接，一键核验</span>
-                  <span className="mt-1 block truncate text-xs text-slate-500">{clipboardLink}</span>
+                  <span className="mt-1 block truncate text-xs text-slate-600">{clipboardLink}</span>
                 </button>
               )}
 
@@ -207,13 +207,13 @@ export default function InputPage({
               </div>
               {linkError && <p role="alert" className="t-meta -mt-1 px-1 text-red-600">{linkError}</p>}
               <label className="flex min-h-14 cursor-pointer items-center gap-3 rounded-2xl border border-dashed border-[#20CDB6]/35 bg-[#F5FCFB] px-4 py-3 text-left transition active:scale-[0.99]">
-                <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-white text-[#0B8F82] shadow-sm" aria-hidden="true">
+                <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-white text-[#0B6E63] shadow-sm" aria-hidden="true">
                   <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><rect x="4" y="6" width="16" height="12" rx="2" /><path d="m10 10 5 2-5 2v-4Z" fill="currentColor" stroke="none" /></svg>
                 </span>
                 <span className="min-w-0 flex-1">
-                  {localVideo ? <><span className="t-label block truncate text-slate-800">{localVideo.name}</span><span className="t-meta mt-0.5 block text-slate-500">{formatFileSize(localVideo.size)} · 点下方「分析本地视频」</span></> : <><span className="t-label block text-slate-800">从手机相册选择视频</span><span className="t-meta mt-0.5 block text-slate-500">选择后可直接上传分析</span></>}
+                  {localVideo ? <><span className="t-label block truncate text-slate-800">{localVideo.name}</span><span className="t-meta mt-0.5 block text-slate-600">{formatFileSize(localVideo.size)} · 点下方「分析本地视频」</span></> : <><span className="t-label block text-slate-800">从手机相册选择视频</span><span className="t-meta mt-0.5 block text-slate-600">选择后可直接上传分析</span></>}
                 </span>
-                <span className="t-label shrink-0 text-[#0B8F82]">{localVideo ? "更换" : "+"}</span>
+                <span className="t-label shrink-0 text-[#0B6E63]">{localVideo ? "更换" : "+"}</span>
                 <input type="file" accept="video/*" className="sr-only" onChange={(event) => selectLocalVideo(event.target.files?.[0] || null)} />
               </label>
               {localVideoError && <p className="t-meta text-amber-700">{localVideoError}</p>}
@@ -223,7 +223,7 @@ export default function InputPage({
                     type="button"
                     onClick={() => void handleSingleSubmit()}
                     disabled={singleSubmitting}
-                    className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
+                    className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-bold text-[#06403A] shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
                   >
                     {singleSubmitting ? "正在拆解主张…" : localVideo ? "分析本地视频" : "分析单视频"}
                   </button>
@@ -236,7 +236,7 @@ export default function InputPage({
                     用样例数据
                   </button>
                 </div>
-                <p className="flex items-center justify-center gap-1 whitespace-nowrap text-[11px] leading-none tracking-tight text-slate-400">
+                <p className="flex items-center justify-center gap-1 whitespace-nowrap text-[11px] leading-none tracking-tight text-slate-600">
                   <svg className="h-3 w-3 shrink-0 text-[#20CDB6]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path d="M12 3 5 6v5c0 4.7 2.8 8.3 7 10 4.2-1.7 7-5.3 7-10V6l-7-3Z" /><path d="m9 12 2 2 4-4" />
                   </svg>

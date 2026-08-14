@@ -150,7 +150,7 @@ export default function LoadingPage({ topic, mode = 'dual', startedAt }: Loading
       <section className="mx-auto flex h-full w-full max-w-[520px] flex-col overflow-hidden rounded-[28px] border border-white/80 bg-white px-5 py-4 shadow-[0_18px_52px_rgba(18,116,103,0.10)]">
         <header className="flex items-center justify-between">
           <span className="text-[20px] font-black tracking-[-0.04em] text-[#069F8E]">FitProof</span>
-          <span className="inline-flex items-center gap-2 rounded-full bg-[#EAF8F5] px-3.5 py-1.5 text-[13px] font-bold text-[#078C7E]">
+          <span className="inline-flex items-center gap-2 rounded-full bg-[#EAF8F5] px-3.5 py-1.5 text-[13px] font-bold text-[#0B6E63]">
             <span className="fitproof-status-breathe h-2.5 w-2.5 rounded-full bg-[#15BDAE]" />分析中
           </span>
         </header>

@@ -49,8 +49,8 @@ const BUCKETS: VerdictBucket[] = ['不实', '需留意', '站得住脚']
 
 /** 三档配色全局唯一来源：筛选、条目竖条、话题分段条都从这里取，避免各处各画一套。 */
 const BUCKET_STYLE: Record<VerdictBucket, { bar: string; text: string; chip: string }> = {
-  不实: { bar: 'bg-[#E1703A]', text: 'text-[#C2540F]', chip: 'bg-[#FDF1EA] text-[#C2540F]' },
-  需留意: { bar: 'bg-[#EFB748]', text: 'text-[#A8760B]', chip: 'bg-[#FDF7EA] text-[#A8760B]' },
+  不实: { bar: 'bg-[#E1703A]', text: 'text-[#A8460B]', chip: 'bg-[#FDF1EA] text-[#A8460B]' },
+  需留意: { bar: 'bg-[#EFB748]', text: 'text-[#8A610A]', chip: 'bg-[#FDF7EA] text-[#8A610A]' },
   站得住脚: { bar: 'bg-[#34C7AE]', text: 'text-[#0B6E63]', chip: 'bg-[#E6F7F4] text-[#0B6E63]' },
 }
 
@@ -138,16 +138,18 @@ function topicIcon(topic: string): string {
 }
 
 /** 金/银/铜牌名次：靠渐变 + 高光边做出金属感，纯色圆点读不出「奖牌」。 */
+// 名次数字用同色系深色而不是白色：白字压在金/银/铜的亮端只有 1.1~1.6:1，几乎看不见。
+// 这里的深色对各自渐变的最亮端也有 8:1 以上。
 const MEDALS = [
-  'bg-[linear-gradient(145deg,#FFE08A,#F0B23C_55%,#D9922A)] ring-[#FFF3D0]',
-  'bg-[linear-gradient(145deg,#F1F5F9,#C3CFDB_55%,#A3B2C1)] ring-[#F4F8FB]',
-  'bg-[linear-gradient(145deg,#F2C79C,#D08C55_55%,#B4703C)] ring-[#FBEBDA]',
+  'bg-[linear-gradient(145deg,#FFE08A,#F0B23C_55%,#D9922A)] ring-[#FFF3D0] text-[#4A2F04]',
+  'bg-[linear-gradient(145deg,#F1F5F9,#C3CFDB_55%,#A3B2C1)] ring-[#F4F8FB] text-[#334155]',
+  'bg-[linear-gradient(145deg,#F2C79C,#D08C55_55%,#B4703C)] ring-[#FBEBDA] text-[#4A2A10]',
 ]
 
 function Medal({ rank, className = '' }: { rank: 1 | 2 | 3; className?: string }) {
   return (
     <span
-      className={`grid h-[19px] w-[19px] place-items-center rounded-full text-[11px] font-black text-white shadow-[0_1px_2px_rgba(0,0,0,0.18)] ring-2 ${MEDALS[rank - 1]} ${className}`}
+      className={`grid h-[19px] w-[19px] place-items-center rounded-full text-[11px] font-black shadow-[0_1px_2px_rgba(0,0,0,0.18)] ring-2 ${MEDALS[rank - 1]} ${className}`}
     >
       {rank}
     </span>
@@ -181,7 +183,7 @@ function ConfirmDialog({ state, onClose }: { state: ConfirmState; onClose: () =>
       <button type="button" aria-label="关闭" className="absolute inset-0 cursor-default bg-slate-900/35" onClick={onClose} />
       <div className="relative w-full max-w-[19rem] rounded-[18px] bg-white px-5 py-4 shadow-[0_12px_32px_rgba(11,45,40,0.22)]">
         <p className="text-[15px] font-extrabold tracking-tight text-slate-900">{state.title}</p>
-        <p className="mt-2 max-h-32 overflow-y-auto text-[12px] leading-relaxed text-slate-500">{state.message}</p>
+        <p className="mt-2 max-h-32 overflow-y-auto text-[12px] leading-relaxed text-slate-600">{state.message}</p>
         <div className="mt-4 flex gap-2.5">
           <button
             type="button"
@@ -257,7 +259,7 @@ function MenuTitleIcon({ name }: { name: string }) {
   // 标签是整块实心，反而要收小、并把叠层缝加宽，否则显得臃肿。
   const viewBox = name === 'footprint' ? '0 0 32 32' : name === 'tag' ? '0 0 33 29' : '0 0 24 24'
   const size = name === 'footprint' ? 'h-[20px] w-[20px]' : name === 'tag' ? 'h-[16px] w-[18px]' : 'h-[18px] w-[18px]'
-  return <svg className={`relative -top-px shrink-0 text-[#078C7E] ${size}`} viewBox={viewBox} fill="currentColor" aria-hidden="true">{MENU_TITLE_ICONS[name]}</svg>
+  return <svg className={`relative -top-px shrink-0 text-[#0B6E63] ${size}`} viewBox={viewBox} fill="currentColor" aria-hidden="true">{MENU_TITLE_ICONS[name]}</svg>
 }
 
 function CardTitle({ title, note, extra, icon }: { title: string; note?: ReactNode; extra?: ReactNode; icon?: string }) {
@@ -266,7 +268,7 @@ function CardTitle({ title, note, extra, icon }: { title: string; note?: ReactNo
       <div className="flex min-w-0 items-center gap-1.5">
         {icon && <MenuTitleIcon name={icon} />}
         <h2 className="shrink-0 text-[15px] font-extrabold tracking-tight text-slate-900">{title}</h2>
-        {note && <span className="flex min-w-0 items-center gap-1 truncate text-[11px] text-slate-400">{note}</span>}
+        {note && <span className="flex min-w-0 items-center gap-1 truncate text-[11px] text-slate-600">{note}</span>}
       </div>
       {extra}
     </div>
@@ -492,7 +494,7 @@ export default function ProfileTab() {
             <button
               type="button"
               onClick={() => setShowLevels(true)}
-              className="mt-1.5 flex items-center gap-1 text-[11px] text-slate-500 transition hover:text-[#0B6E63]"
+              className="mt-1.5 flex items-center gap-1 text-[11px] text-slate-600 transition hover:text-[#0B6E63]"
             >
               {level.next
                 ? `再 ${level.next.need} 条解锁「${level.next.name}」`
@@ -509,10 +511,10 @@ export default function ProfileTab() {
                   <StatIcon name={item.key} className="h-[13px] w-[13px]" />
                 </span>
                 <div className="min-w-0 flex-1">
-                  <p className="truncate text-[11px] font-semibold leading-tight text-slate-500">{item.label}</p>
+                  <p className="truncate text-[11px] font-semibold leading-tight text-slate-600">{item.label}</p>
                   <p className="mt-0.5 flex items-baseline gap-0.5">
                     <b className="text-[17px] font-extrabold leading-none tracking-tight tabular-nums text-slate-900">{item.value}</b>
-                    <span className="text-[11px] text-slate-400">{item.unit}</span>
+                    <span className="text-[11px] text-slate-600">{item.unit}</span>
                   </p>
                 </div>
               </div>
@@ -538,11 +540,11 @@ export default function ProfileTab() {
             {/* 月份标签与格子共用同一套列，保证标签落在对的那一周上 */}
             <div className="grid auto-cols-fr grid-flow-col gap-[2.5px] pl-[19px]">
               {monthMarks.map((mark, index) => (
-                <span key={index} className="overflow-visible whitespace-nowrap text-[11px] font-semibold text-slate-400">{mark}</span>
+                <span key={index} className="overflow-visible whitespace-nowrap text-[11px] font-semibold text-slate-600">{mark}</span>
               ))}
             </div>
             <div className="mt-1 flex gap-[3px]">
-              <div className="grid shrink-0 grid-rows-7 gap-[2.5px] text-[11px] text-slate-400">
+              <div className="grid shrink-0 grid-rows-7 gap-[2.5px] text-[11px] text-slate-600">
                 {['一', '', '三', '', '五', '', '日'].map((day, index) => (
                   <span key={index} className="flex h-[10px] w-4 items-center justify-end leading-none">{day}</span>
                 ))}
@@ -565,7 +567,7 @@ export default function ProfileTab() {
               </div>
             </div>
           </div>
-          <div className="mt-2 flex items-center justify-center gap-1.5 text-[11px] text-slate-400">
+          <div className="mt-2 flex items-center justify-center gap-1.5 text-[11px] text-slate-600">
             <span>较少</span>
             {HEAT_SCALE.map((cls) => <i key={cls} className={`h-2.5 w-2.5 rounded-[2.5px] ${cls}`} />)}
             <span>较多</span>
@@ -574,9 +576,9 @@ export default function ProfileTab() {
 
         {/* 关注话题 */}
         <Card>
-          <CardTitle icon="tag" title="关注话题" extra={<span className="shrink-0 text-[11px] text-slate-400">按核验量</span>} />
+          <CardTitle icon="tag" title="关注话题" extra={<span className="shrink-0 text-[11px] text-slate-600">按核验量</span>} />
           {topics.length === 0 ? (
-            <p className="py-5 text-center text-[12px] text-slate-400">暂无 · 核验后这里会自动归类你关注的话题</p>
+            <p className="py-5 text-center text-[12px] text-slate-600">暂无 · 核验后这里会自动归类你关注的话题</p>
           ) : (
             <>
               {topics.slice(0, 1).map((stat) => (
@@ -596,7 +598,7 @@ export default function ProfileTab() {
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2">
                         <span className="min-w-0 flex-1 truncate text-[13px] font-bold text-slate-900" title={stat.topic}>{stat.topic}</span>
-                        <span className="shrink-0 text-[11px] font-bold tabular-nums text-slate-500">{stat.total} 条</span>
+                        <span className="shrink-0 text-[11px] font-bold tabular-nums text-slate-600">{stat.total} 条</span>
                       </div>
                       {/* 分段之间留空隙、每段独立圆角：flex-grow 按条数分配，gap 才不会把总宽撑爆 */}
                       <span className="mt-1.5 flex h-2.5 gap-[3px]">
@@ -604,7 +606,7 @@ export default function ProfileTab() {
                           <i key={bucket} className={`block h-full rounded-[4px] ${BUCKET_STYLE[bucket].bar}`} style={{ flexGrow: stat[bucket] }} />
                         ))}
                       </span>
-                      <p className="mt-1.5 flex flex-wrap gap-x-2.5 gap-y-1 text-[11px] text-slate-500">
+                      <p className="mt-1.5 flex flex-wrap gap-x-2.5 gap-y-1 text-[11px] text-slate-600">
                         {BUCKETS.map((bucket) => (
                           <span key={bucket} className="flex items-center gap-1">
                             <i className={`h-2 w-2 rounded-[2px] ${BUCKET_STYLE[bucket].bar}`} />
@@ -622,7 +624,7 @@ export default function ProfileTab() {
                     <div key={stat.topic} className="flex min-w-0 flex-1 items-center gap-1.5 rounded-[12px] bg-[#F3F7F6] px-2 py-1.5">
                       <Medal rank={(index + 2) as 2 | 3} />
                       <span className="min-w-0 flex-1 truncate text-[11px] font-semibold text-slate-700" title={stat.topic}>{stat.topic}</span>
-                      <span className="shrink-0 text-[11px] tabular-nums text-slate-400">{stat.total} 条</span>
+                      <span className="shrink-0 text-[11px] tabular-nums text-slate-600">{stat.total} 条</span>
                     </div>
                   ))}
                 </div>
@@ -633,13 +635,13 @@ export default function ProfileTab() {
 
         {/* 核验历史 —— 一条 = 一个被核验的说法，不是一个视频 */}
         <Card>
-          <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[11px] text-slate-400">最近 50 条</span> : undefined} />
+          <CardTitle icon="history" title="核验历史" extra={viewRecords.length > 0 ? <span className="shrink-0 text-[11px] text-slate-600">最近 50 条</span> : undefined} />
 
           {viewRecords.length === 0 ? (
             <div className="px-4 py-8 text-center">
               <FitProofCat pose="empty" size={88} className="mx-auto" title="还没有记录" />
               <p className="mt-3 text-[15px] font-bold text-slate-900">还没有核验记录</p>
-              <p className="mx-auto mt-1.5 max-w-[15rem] text-[12px] leading-relaxed text-slate-500">
+              <p className="mx-auto mt-1.5 max-w-[15rem] text-[12px] leading-relaxed text-slate-600">
                 去「核验」贴一条健康短视频链接，结论和可追溯依据会保存在这里。
               </p>
             </div>
@@ -655,7 +657,7 @@ export default function ProfileTab() {
                     className={`shrink-0 rounded-[10px] border px-3 py-1.5 text-[11px] font-bold transition ${
                       filter === key
                         ? 'border-[#0B6E63] bg-[#0B6E63] text-white'
-                        : 'border-[#E3EDEA] bg-white text-slate-500'
+                        : 'border-[#E3EDEA] bg-white text-slate-600'
                     }`}
                   >
                     {key} {counts[key]}
@@ -682,10 +684,10 @@ export default function ProfileTab() {
                             >
                               <p className="line-clamp-2 text-[12px] font-semibold leading-snug text-slate-900">“{record.claim}”</p>
                             </button>
-                            <span className="shrink-0 text-[11px] tabular-nums text-slate-400">{formatDate(record.createdAt)}</span>
+                            <span className="shrink-0 text-[11px] tabular-nums text-slate-600">{formatDate(record.createdAt)}</span>
                           </div>
                           <div className="mt-1 flex items-center justify-between gap-2 pl-[38px] text-[11px]">
-                            <span className="min-w-0 truncate text-slate-400">{record.topic || record.reference?.title || '未分类'}</span>
+                            <span className="min-w-0 truncate text-slate-600">{record.topic || record.reference?.title || '未分类'}</span>
                             <span className="flex shrink-0 items-center gap-2">
                               <button type="button" onClick={() => setDetailId(record.id)} className="font-bold text-[#0B6E63]">
                                 看依据 ›
@@ -699,7 +701,7 @@ export default function ProfileTab() {
                                   onConfirm: () => setRecords(removeHistory(record.id)),
                                 })}
                                 aria-label="删除这条记录"
-                                className="text-slate-300 transition hover:text-[#B8402F]"
+                                className="text-slate-600 transition hover:text-[#B8402F]"
                               >
                                 ✕
                               </button>
@@ -711,7 +713,7 @@ export default function ProfileTab() {
                   )
                 })}
                 {visible.length === 0 && (
-                  <p className="py-8 text-center text-[12px] text-slate-400">这个分类下还没有记录</p>
+                  <p className="py-8 text-center text-[12px] text-slate-600">这个分类下还没有记录</p>
                 )}
                 {visible.length > HISTORY_PREVIEW_LIMIT && (
                   <button
@@ -731,11 +733,11 @@ export default function ProfileTab() {
 
         {/* 我的贡献只读取用户主动授权提交的真实待审记录；它不属于权威指南库。 */}
         <Card>
-          <CardTitle icon="share" title="我的贡献" extra={<span className="t-meta shrink-0 text-slate-400">专家复核</span>} />
+          <CardTitle icon="share" title="我的贡献" extra={<span className="t-meta shrink-0 text-slate-600">专家复核</span>} />
           {contributions.length === 0 ? (
             <div className="mt-2 rounded-[10px] border border-dashed border-[#D3E5E1] bg-[#F9FCFB] px-4 py-6 text-center">
               <p className="t-label text-slate-600">还没有贡献过</p>
-              <p className="t-meta mx-auto mt-1.5 max-w-[16rem] text-slate-400">主动授权提交的核验，会在这里显示专家复核进度。</p>
+              <p className="t-meta mx-auto mt-1.5 max-w-[16rem] text-slate-600">主动授权提交的核验，会在这里显示专家复核进度。</p>
             </div>
           ) : (
             <div data-profile-contribution-list className="mt-2 space-y-2">
@@ -743,15 +745,15 @@ export default function ProfileTab() {
                 const status = contribution.status === 'approved'
                   ? { label: '已入库', className: 'bg-[#E6F7F4] text-[#20CDB6]' }
                   : contribution.status === 'rejected'
-                    ? { label: '未通过', className: 'bg-slate-100 text-slate-500' }
-                    : { label: '审核中', className: 'bg-slate-100 text-slate-500' }
+                    ? { label: '未通过', className: 'bg-slate-100 text-slate-600' }
+                    : { label: '审核中', className: 'bg-slate-100 text-slate-600' }
                 return (
                   <article key={contribution.id} className="rounded-[10px] border border-[#E8EFED] bg-[#FAFCFC] px-3 py-2.5">
                     <div className="flex items-start gap-2">
                       <p className="t-label min-w-0 flex-1 line-clamp-2 text-slate-800">“{contribution.claim}”</p>
                       <span className={`t-micro shrink-0 rounded-full px-2 py-1 ${status.className}`}>{status.label}</span>
                     </div>
-                    <p className="t-meta mt-1 text-slate-400">{formatDate(contribution.created_at)}{contribution.topic ? ` · ${contribution.topic}` : ''}</p>
+                    <p className="t-meta mt-1 text-slate-600">{formatDate(contribution.created_at)}{contribution.topic ? ` · ${contribution.topic}` : ''}</p>
                   </article>
                 )
               })}
@@ -775,9 +777,9 @@ export default function ProfileTab() {
           <CardTitle
             icon="lock"
             title="数据与隐私"
-            extra={<span className="flex shrink-0 items-center gap-1 text-[11px] text-slate-400">本机存储<Icon name="shield" className="h-3.5 w-3.5" /></span>}
+            extra={<span className="flex shrink-0 items-center gap-1 text-[11px] text-slate-600">本机存储<Icon name="shield" className="h-3.5 w-3.5" /></span>}
           />
-          <p className="mt-1.5 text-[11px] leading-relaxed text-slate-500">
+          <p className="mt-1.5 text-[11px] leading-relaxed text-slate-600">
             核验记录只保存在这台设备上，不会上传服务器，我们也不收集你关注了哪些健康话题。
           </p>
           <div className="mt-2.5 flex gap-2.5">
@@ -785,7 +787,7 @@ export default function ProfileTab() {
               type="button"
               onClick={handleExport}
               disabled={records.length === 0}
-              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#12BFA6] bg-white py-2.5 text-[12px] font-bold text-[#089480] transition hover:bg-[#F2FBF9] disabled:opacity-40"
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#12BFA6] bg-white py-2.5 text-[12px] font-bold text-[#0B6E63] transition hover:bg-[#F2FBF9] disabled:opacity-40"
             >
               <Icon name="upload" className="h-4 w-4" />
               导出记录
@@ -802,7 +804,7 @@ export default function ProfileTab() {
                 })
               }}
               disabled={records.length === 0}
-              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#F0644B] bg-white py-2.5 text-[12px] font-bold text-[#E23D22] transition hover:bg-[#FDF5F3] disabled:opacity-40"
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-[11px] border-[1.5px] border-[#F0644B] bg-white py-2.5 text-[12px] font-bold text-[#B92C12] transition hover:bg-[#FDF5F3] disabled:opacity-40"
             >
               <Icon name="trash" className="h-4 w-4" />
               清空全部
@@ -810,7 +812,7 @@ export default function ProfileTab() {
           </div>
         </Card>
 
-        <p className="mt-3 flex items-center justify-center gap-1.5 px-4 text-center text-[11px] leading-relaxed text-slate-400">
+        <p className="mt-3 flex items-center justify-center gap-1.5 px-4 text-center text-[11px] leading-relaxed text-slate-600">
           <Icon name="shield" className="h-3.5 w-3.5 shrink-0" />
           本产品用于健康内容辨析，不构成医疗诊断或个体化治疗建议。
         </p>
@@ -831,7 +833,7 @@ export default function ProfileTab() {
             </button>
             <div className="min-w-0 flex-1">
               <p className="truncate text-[15px] font-extrabold tracking-tight text-slate-900">核验详情</p>
-              <p className="truncate text-[11px] text-slate-400">
+              <p className="truncate text-[11px] text-slate-600">
                 {detail.topic || detail.reference?.title || '未分类'} · {formatDate(detail.createdAt)}
               </p>
             </div>
@@ -855,7 +857,7 @@ export default function ProfileTab() {
                 <span className="shrink-0">打开 ›</span>
               </a>
             )}
-            <p className="mt-3 px-4 pb-2 text-center text-[11px] leading-relaxed text-slate-400">
+            <p className="mt-3 px-4 pb-2 text-center text-[11px] leading-relaxed text-slate-600">
               本产品用于健康内容辨析，不构成医疗诊断或个体化治疗建议。
             </p>
           </div>
@@ -864,7 +866,7 @@ export default function ProfileTab() {
 
       {showLevels && (
         <InfoDialog title="等级与成就" onClose={() => setShowLevels(false)}>
-          <p className="pb-2 text-[11px] leading-relaxed text-slate-500">
+          <p className="pb-2 text-[11px] leading-relaxed text-slate-600">
             等级只看你完成过多少条核验，不看结论对错 —— 查证本身就值得记一笔。
           </p>
           <ul className="space-y-1.5 pb-1">
@@ -876,7 +878,7 @@ export default function ProfileTab() {
                   key={item.name}
                   className={`flex items-center gap-2.5 rounded-[12px] px-3 py-2.5 ${current ? 'bg-[#E6F7F4] ring-1 ring-[#20CDB6]' : 'bg-[#F7FBFA]'}`}
                 >
-                  <span className={`grid h-7 w-7 shrink-0 place-items-center rounded-full text-[11px] font-black ${reached ? 'bg-[#0B6E63] text-white' : 'bg-[#DCE7E4] text-slate-500'}`}>
+                  <span className={`grid h-7 w-7 shrink-0 place-items-center rounded-full text-[11px] font-black ${reached ? 'bg-[#0B6E63] text-white' : 'bg-[#DCE7E4] text-slate-600'}`}>
                     Lv{index + 1}
                   </span>
                   <div className="min-w-0 flex-1">
@@ -884,9 +886,9 @@ export default function ProfileTab() {
                       {item.name}
                       {current && <span className="rounded bg-[#0B6E63] px-1.5 py-0.5 text-[11px] font-black text-white">当前</span>}
                     </p>
-                    <p className="mt-0.5 truncate text-[11px] text-slate-400">{item.blurb}</p>
+                    <p className="mt-0.5 truncate text-[11px] text-slate-600">{item.blurb}</p>
                   </div>
-                  <span className="shrink-0 text-[11px] font-bold tabular-nums text-slate-500">
+                  <span className="shrink-0 text-[11px] font-bold tabular-nums text-slate-600">
                     {item.min === 0 ? '默认' : `${item.min} 条`}
                   </span>
                 </li>
@@ -899,10 +901,10 @@ export default function ProfileTab() {
       {dayCell && (
         <InfoDialog title={dayCell.date.replace(/-/g, '/')} onClose={() => setDayCell(null)}>
           {dayCell.count === 0 ? (
-            <p className="pb-1 text-[12px] leading-relaxed text-slate-500">这天没有核验记录。</p>
+            <p className="pb-1 text-[12px] leading-relaxed text-slate-600">这天没有核验记录。</p>
           ) : (
             <>
-              <p className="pb-2 text-[12px] text-slate-500">
+              <p className="pb-2 text-[12px] text-slate-600">
                 这天核验了 <b className="text-[15px] font-extrabold tabular-nums text-[#0B6E63]">{dayCell.count}</b> 条
               </p>
               <ul className="space-y-1.5 pb-1">

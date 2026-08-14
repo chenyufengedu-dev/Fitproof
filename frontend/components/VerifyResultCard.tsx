@@ -82,7 +82,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
                 >
                   <p className="text-xs font-semibold text-[#0B6E63]">{item.id}</p>
                   <p className="mt-1 text-[15px] font-medium leading-relaxed text-slate-900">{item.claim}</p>
-                  <p className="mt-2 text-xs leading-relaxed text-slate-500">
+                  <p className="mt-2 text-xs leading-relaxed text-slate-600">
                     {item.source_doc}
                     {item.org ? ` · ${item.org}` : ''}
                     {item.strength ? ` · ${item.strength}` : ''}
@@ -103,7 +103,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
             <p className="mb-3 text-[15px] font-semibold text-slate-900">权威依据 · {drawer.title}</p>
             <div className="rounded-2xl bg-[#f3fbf9] px-4 py-3">
               <p className="text-[15px] leading-relaxed text-slate-900">{drawer.evidence.claim}</p>
-              <p className="mt-3 text-[15px] leading-relaxed text-slate-500">
+              <p className="mt-3 text-[15px] leading-relaxed text-slate-600">
                 {drawer.evidence.source_doc}
                 {drawer.evidence.org ? ` · ${drawer.evidence.org}` : ''}
                 {drawer.evidence.year ? ` · ${drawer.evidence.year}` : ''}

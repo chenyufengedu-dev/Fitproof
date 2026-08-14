@@ -37,8 +37,8 @@ export default function ClaimOrigin({ origin, embedded = false, variant = 'defau
       <div data-origin-mechanism className="mt-2 flex min-w-0 items-center gap-1.5 whitespace-nowrap text-[11px] leading-none">
         <span className={`shrink-0 px-2 py-1 font-semibold ${clinical ? 'rounded-[4px] border border-[#D5DBE0] bg-[#EEF1F3] text-[#526171]' : 'rounded-full bg-[#DFF3EF] text-[#087F76]'}`}>可能机制</span>
         <span className={`shrink-0 font-medium ${clinical ? 'text-[#596879]' : 'text-[#607187]'}`}>{ORIGIN_LABELS[origin.type]}</span>
-        <span className={clinical ? 'text-[#BCC4CB]' : 'text-slate-300'}>·</span>
-        <span className={`min-w-0 truncate ${clinical ? 'text-[#7A8794]' : 'text-slate-400'}`}>AI 常识推断，非权威依据</span>
+        <span className={clinical ? 'text-[#BCC4CB]' : 'text-slate-600'}>·</span>
+        <span className={`min-w-0 truncate ${clinical ? 'text-[#7A8794]' : 'text-slate-600'}`}>AI 常识推断，非权威依据</span>
       </div>
       <p className={`t-meta mt-2 border-l-2 pl-3 leading-[1.7] ${clinical ? 'border-[#AEB8C2] text-[#435160]' : 'border-[#8DDDD2] text-[#4A5A70]'}`}>{origin.explanation}</p>
     </section>

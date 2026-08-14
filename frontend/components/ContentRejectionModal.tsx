@@ -51,13 +51,13 @@ export default function ContentRejectionModal({ result, onClose }: ContentReject
         <p className="mt-3 text-[15px] leading-6 text-slate-600">{summary}</p>
         {result.reason && <p className="mt-3 rounded-2xl bg-amber-50 px-4 py-3 text-[15px] leading-6 text-amber-900">{result.reason}</p>}
         {result.matched_text[0] && (
-          <p className="mt-3 text-xs leading-5 text-slate-500">识别依据：“{result.matched_text[0]}”</p>
+          <p className="mt-3 text-xs leading-5 text-slate-600">识别依据：“{result.matched_text[0]}”</p>
         )}
         <button
           type="button"
           autoFocus
           onClick={onClose}
-          className="mt-6 w-full rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-semibold text-white shadow-[0_10px_24px_rgba(32,205,182,0.25)] transition hover:bg-[#19b8a4] focus:outline-none focus:ring-4 focus:ring-[#20CDB6]/20"
+          className="mt-6 w-full rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-bold text-[#06403A] shadow-[0_10px_24px_rgba(32,205,182,0.25)] transition hover:bg-[#19b8a4] focus:outline-none focus:ring-4 focus:ring-[#20CDB6]/20"
         >
           换一个视频
         </button>
