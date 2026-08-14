@@ -1,0 +1,555 @@
+{
+  "doc": "Glucosamine therapy for treating osteoarthritis",
+  "org": "Cochrane 协作网",
+  "year": "2008",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+  "complete": true,
+  "done_windows": 28,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-glucosamine--001",
+      "claim": "Rotta品牌的葡萄糖胺治疗骨关节炎患者的疼痛和功能优于安慰剂。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "Rotta",
+        "骨关节炎",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-glucosamine--002",
+      "claim": "葡萄糖胺治疗骨关节炎的副作用与安慰剂无显著差异。",
+      "section": "Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "副作用",
+        "安全性"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-glucosamine--003",
+      "claim": "高质量研究显示葡萄糖胺缓解疼痛的效果与安慰剂相似。",
+      "section": "Plain language summary",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "疼痛",
+        "高质量研究"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-glucosamine--004",
+      "claim": "长期服用Rotta品牌葡萄糖胺可延缓膝关节骨关节炎的放射学进展。",
+      "section": "Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "Rotta",
+        "骨关节炎",
+        "放射学进展",
+        "膝关节"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-glucosamine--005",
+      "claim": "在骨关节炎患者中，长期使用葡萄糖胺（3年）可显著减缓关节间隙变窄，平均增加0.32 mm（95% CI 0.05-0.58）。",
+      "section": "Summary of findings",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "关节间隙",
+        "关节结构"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-glucosamine--006",
+      "claim": "对于骨关节炎患者，使用葡萄糖胺相比于安慰剂在6个月时并不能显著减轻疼痛（基于充分分配隐藏的研究，WOMAC疼痛量表平均差异-0.7，95% CI -1.5至0.17）。",
+      "section": "Summary of findings",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "疼痛",
+        "WOMAC"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-glucosamine--007",
+      "claim": "对于骨关节炎患者，使用葡萄糖胺相比于安慰剂在6个月时并不能显著改善功能（WOMAC功能量表平均差异-1.02，95% CI -2.04至0）。",
+      "section": "Summary of findings",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "功能",
+        "WOMAC"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-glucosamine--008",
+      "claim": "使用葡萄糖胺与安慰剂相比，在不良事件发生率和因不良事件退出方面无显著差异（RR分别为0.99和0.76，置信区间均跨越1）。",
+      "section": "Summary of findings",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "不良事件",
+        "安全性"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-glucosamine--009",
+      "claim": "葡萄糖胺（硫酸盐或盐酸盐）在减轻骨关节炎疼痛方面，总体合并分析显示显著优于安慰剂，但仅包含分配隐藏充分的高质量研究时，差异无统计学意义。",
+      "section": "Effects of interventions: 1. 比较GS或GH与安慰剂",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "疼痛",
+        "安慰剂对照"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "13-15"
+    },
+    {
+      "id": "E-glucosamine--010",
+      "claim": "葡萄糖胺对WOMAC疼痛分量表的改善与安慰剂无显著差异。",
+      "section": "Effects of interventions: 4. 比较GS或GH与安慰剂（WOMAC疼痛分量表）",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "WOMAC疼痛",
+        "安慰剂"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "13-15"
+    },
+    {
+      "id": "E-glucosamine--011",
+      "claim": "葡萄糖胺可显著延缓膝关节骨关节炎的放射学进展（增加最小关节间隙宽度）。",
+      "section": "Effects of interventions: 8. 比较GS与安慰剂（最小关节间隙宽度）",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "关节间隙",
+        "放射学进展"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "13-15"
+    },
+    {
+      "id": "E-glucosamine--012",
+      "claim": "使用Rotta品牌的葡萄糖胺在缓解疼痛、改善功能和总评分方面显著优于安慰剂。",
+      "section": "Subgroup analysis: Rotta preparation",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "Rotta品牌",
+        "骨关节炎",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "13-15"
+    },
+    {
+      "id": "E-glucosamine--013",
+      "claim": "非罗达制备的葡萄糖胺与安慰剂相比，对骨关节炎患者的疼痛、僵硬和功能无显著改善。",
+      "section": "Non-Rotta preparation",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "非罗达制备",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "16-18"
+    },
+    {
+      "id": "E-glucosamine--014",
+      "claim": "罗达制备的葡萄糖胺与安慰剂相比，可显著减轻骨关节炎患者的疼痛并改善功能。",
+      "section": "Glucosamine versus placebo (Rotta preparation)",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "罗达制备",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "16-18"
+    },
+    {
+      "id": "E-glucosamine--015",
+      "claim": "葡萄糖胺与安慰剂的安全性相当，不良事件发生率和因毒性退出率无显著差异。",
+      "section": "Toxicity of glucosamine in OA",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "安全性",
+        "不良事件",
+        "骨关节炎"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "16-18"
+    },
+    {
+      "id": "E-glucosamine--016",
+      "claim": "与NSAIDs相比，葡萄糖胺的不良反应和因毒性退出率显著更低。",
+      "section": "Toxicity of glucosamine in OA",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "NSAIDs",
+        "安全性",
+        "不良事件"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "16-18"
+    },
+    {
+      "id": "E-glucosamine--017",
+      "claim": "Rotta品牌的葡萄糖胺制剂在缓解骨关节炎疼痛和改善功能方面优于安慰剂",
+      "section": "DISCUSSION",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "Rotta",
+        "疼痛"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-glucosamine--018",
+      "claim": "非Rotta品牌的葡萄糖胺制剂对骨关节炎的疼痛、功能和僵硬无显著疗效",
+      "section": "DISCUSSION",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "非Rotta",
+        "无效"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-glucosamine--019",
+      "claim": "葡萄糖胺治疗骨关节炎的耐受性良好，安全性类似于安慰剂，优于非甾体抗炎药",
+      "section": "DISCUSSION",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "安全性",
+        "骨关节炎",
+        "耐受性"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-glucosamine--020",
+      "claim": "对于有症状的膝关节骨关节炎，仅Rotta品牌的硫酸氨基葡萄糖（1500 mg/天）可改善疼痛和功能，而非Rotta制剂未见显著益处。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硫酸氨基葡萄糖",
+        "骨关节炎",
+        "Rotta制剂",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-glucosamine--021",
+      "claim": "Rotta品牌的硫酸氨基葡萄糖可能延缓膝关节骨关节炎的放射学进展（三年期内）。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硫酸氨基葡萄糖",
+        "骨关节炎",
+        "放射学进展",
+        "Rotta制剂"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-glucosamine--022",
+      "claim": "氨基葡萄糖与安慰剂的安全性相当。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "安全性",
+        "安慰剂"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-glucosamine--023",
+      "claim": "与安慰剂相比，氨基葡萄糖可显著增加骨关节炎患者的最小关节间隙宽度。",
+      "section": "Comparison 1 Glucosamine versus placebo, Outcome 9 Minimum Joint Space Width",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "骨关节炎",
+        "最小关节间隙宽度"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "55-57"
+    },
+    {
+      "id": "E-glucosamine--024",
+      "claim": "与安慰剂相比，氨基葡萄糖可显著提高医生总体评估为良好或优秀的比例。",
+      "section": "Comparison 1 Glucosamine versus placebo, Outcome 13 Physician global assessment of good or excellent response",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "骨关节炎",
+        "医生总体评估"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "55-57"
+    },
+    {
+      "id": "E-glucosamine--025",
+      "claim": "葡萄糖胺治疗骨关节炎的不良事件风险低于非甾体抗炎药。",
+      "section": "Comparison 2 Glucosamine versus NSAIDs, Outcome 3 Toxicity",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "非甾体抗炎药",
+        "骨关节炎",
+        "不良事件"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "61-63"
+    },
+    {
+      "id": "E-glucosamine--026",
+      "claim": "葡萄糖胺治疗骨关节炎的止痛效果与安慰剂无显著差异。",
+      "section": "Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 1 Pain",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "葡萄糖胺",
+        "骨关节炎",
+        "疼痛",
+        "安慰剂"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "61-63"
+    },
+    {
+      "id": "E-glucosamine--027",
+      "claim": "与安慰剂相比，氨基葡萄糖不增加骨关节炎患者的不良事件报告率。",
+      "section": "Comparison 3: Glucosamine versus placebo (adequate allocation concealment), Outcome 9",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "不良反应",
+        "骨关节炎",
+        "安慰剂"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "70-72"
+    },
+    {
+      "id": "E-glucosamine--028",
+      "claim": "与安慰剂相比，氨基葡萄糖不增加因不良事件导致的退出率。",
+      "section": "Comparison 3: Glucosamine versus placebo (adequate allocation concealment), Outcome 10",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "退出率",
+        "不良反应",
+        "骨关节炎"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "70-72"
+    },
+    {
+      "id": "E-glucosamine--029",
+      "claim": "Rotta品牌的氨基葡萄糖制剂在缓解骨关节炎疼痛方面优于安慰剂。",
+      "section": "Comparison 4: Glucosamine versus placebo (Rotta preparation), Outcome 1 Pain",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "氨基葡萄糖",
+        "Rotta",
+        "疼痛",
+        "骨关节炎"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "70-72"
+    },
+    {
+      "id": "E-glucosamine--030",
+      "claim": "非Rotta品牌的氨基葡萄糖制剂与安慰剂相比，治疗骨关节炎在缓解疼痛和改善功能方面无显著差异。",
+      "section": "Comparison 5: Glucosamine versus placebo (non-Rotta preparation)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "氨基葡萄糖",
+        "非Rotta制剂",
+        "疼痛",
+        "功能"
+      ],
+      "source_doc": "Glucosamine therapy for treating osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2008",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002946.pub2/abstract",
+      "page": "76-78"
+    }
+  ]
+}

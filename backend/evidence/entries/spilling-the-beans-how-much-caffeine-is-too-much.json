@@ -1,0 +1,100 @@
+{
+  "doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2023",
+  "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+  "complete": true,
+  "done_windows": 2,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-spilling-the-001",
+      "claim": "健康成人每天摄入不超过400毫克咖啡因（约2-3杯12盎司咖啡）通常不产生负面效应。",
+      "section": "Daily Caffeine Consumption for Most Adults",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "咖啡因",
+        "成人",
+        "每日摄入量",
+        "安全"
+      ],
+      "source_doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "page": "1-3"
+    },
+    {
+      "id": "E-spilling-the-002",
+      "claim": "医学专家建议儿童和青少年避免饮用能量饮料。",
+      "section": "“Energy Drinks” and Children and Teens",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "能量饮料",
+        "儿童",
+        "青少年",
+        "避免"
+      ],
+      "source_doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "page": "1-3"
+    },
+    {
+      "id": "E-spilling-the-003",
+      "claim": "2岁以下儿童应避免含咖啡因的饮料。",
+      "section": "“Energy Drinks” and Children and Teens",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "咖啡因",
+        "儿童",
+        "2岁以下",
+        "饮料"
+      ],
+      "source_doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "page": "1-3"
+    },
+    {
+      "id": "E-spilling-the-004",
+      "claim": "对咖啡因敏感的人可能应完全避免脱咖啡因饮料。",
+      "section": "“Decaffeinated” Does Not Mean Caffeine-free",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "脱咖啡因",
+        "敏感",
+        "避免"
+      ],
+      "source_doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "page": "1-3"
+    },
+    {
+      "id": "E-spilling-the-005",
+      "claim": "大多数成年人每天摄入400毫克咖啡因是安全的",
+      "section": "Additional Information",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "咖啡因",
+        "摄入量",
+        "安全性",
+        "成年人"
+      ],
+      "source_doc": "Spilling the Beans: How Much Caffeine is Too Much?",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "page": "4-5"
+    }
+  ]
+}

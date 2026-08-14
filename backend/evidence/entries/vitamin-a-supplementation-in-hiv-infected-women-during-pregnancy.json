@@ -1,0 +1,30 @@
+{
+  "doc": "Vitamin A supplementation in HIV-infected women during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-hiv-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "不推荐HIV阳性孕妇补充维生素A作为减少母-婴传播HIV风险的公共卫生干预措施。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "HIV感染",
+        "孕妇",
+        "母婴传播",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin A supplementation in HIV-infected women during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-hiv-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

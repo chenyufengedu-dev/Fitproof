@@ -1,0 +1,30 @@
+{
+  "doc": "Vitamin D supplementation and respiratory infections in children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamind-pneumonia-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-d-su-001",
+      "claim": "目前WHO未对儿童补充维生素D预防呼吸道感染做出具体推荐，因证据不足。",
+      "section": "WHO Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "WHO营养干预",
+        "维生素D",
+        "儿童",
+        "呼吸道感染",
+        "补充",
+        "预防"
+      ],
+      "source_doc": "Vitamin D supplementation and respiratory infections in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamind-pneumonia-children",
+      "page": "1-3"
+    }
+  ]
+}

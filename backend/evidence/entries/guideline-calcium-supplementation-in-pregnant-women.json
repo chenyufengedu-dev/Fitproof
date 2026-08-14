@@ -1,0 +1,206 @@
+{
+  "doc": "Guideline: Calcium supplementation in pregnant women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2013",
+  "url": "https://www.who.int/publications/i/item/9789241505376",
+  "complete": true,
+  "done_windows": 12,
+  "count": 11,
+  "entries": [
+    {
+      "id": "E-guideline-ca-001",
+      "claim": "在低钙摄入人群中，推荐孕妇从孕20周起每日补充1.5-2.0g元素钙（分三次随餐服用）以预防子痫前期，尤其对高血压风险高的孕妇。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "钙补充",
+        "子痫前期",
+        "低钙摄入",
+        "高血压风险"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "4-6"
+    },
+    {
+      "id": "E-guideline-ca-002",
+      "claim": "孕妇每日钙总摄入量不应超过当地可耐受上限；若没有参考标准，不应超过3克/天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "钙摄入",
+        "上限",
+        "3克/天"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-ca-003",
+      "claim": "当人群平均膳食钙摄入量达到推荐量时，不建议补充钙，因为可能不会改善子痫前期结局并可能增加不良事件风险。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "钙补充",
+        "子痫前期",
+        "膳食钙充足"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-ca-004",
+      "claim": "铁补充剂和钙补充剂应间隔数小时服用（如铁在两餐之间服用），不应同时服用。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "钙",
+        "交互作用",
+        "间隔服用"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-ca-005",
+      "claim": "应鼓励包括孕妇在内的普通人群通过摄入富含钙的当地食物来促进钙的充足摄入。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "膳食钙",
+        "富含钙食物",
+        "健康饮食"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-ca-006",
+      "claim": "钙补充剂的目标人群是膳食钙摄入量低的孕妇，或生活在钙丰富食物不常见地区的孕妇。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "低钙摄入",
+        "目标人群",
+        "膳食钙"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-ca-007",
+      "claim": "在钙摄入量低的人群中，推荐孕妇补充钙剂（1.5-2.0 g/d）以预防子痫前期，尤其对高血压高危孕妇。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙补充",
+        "子痫前期",
+        "孕期",
+        "低钙摄入"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-ca-008",
+      "claim": "钙补充应从孕20周开始至分娩，每日总剂量1.5-2.0 g，分三次随餐服用。",
+      "section": "Table 1",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙剂量",
+        "给药方案",
+        "孕期"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-ca-009",
+      "claim": "对于平均钙摄入量达到推荐量的孕妇，不鼓励常规补充钙剂。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙充足",
+        "不补充",
+        "孕期"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-ca-010",
+      "claim": "孕期补钙时，每日总钙摄入不应超过3 g（或当地可耐受上限）。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙上限",
+        "安全性",
+        "孕期"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-ca-011",
+      "claim": "铁和钙补充剂应间隔数小时服用（例如铁在两餐之间服用），避免同时服用。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁钙相互作用",
+        "间隔服用",
+        "孕期"
+      ],
+      "source_doc": "Guideline: Calcium supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2013",
+      "url": "https://www.who.int/publications/i/item/9789241505376",
+      "page": "10-12"
+    }
+  ]
+}

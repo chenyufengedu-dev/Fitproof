@@ -1,0 +1,48 @@
+{
+  "doc": "Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2025",
+  "url": "https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-statement-of-001",
+      "claim": "疫苗（包括含硫柳汞或铝的疫苗）不会导致自闭症。",
+      "section": "Statement on vaccines and autism",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "疫苗",
+        "自闭症",
+        "硫柳汞",
+        "铝佐剂",
+        "因果关系"
+      ],
+      "source_doc": "Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2025",
+      "url": "https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism",
+      "page": "1-3"
+    },
+    {
+      "id": "E-statement-of-002",
+      "claim": "含铝佐剂疫苗与慢性疾病（包括自闭症谱系障碍）无关联。",
+      "section": "Statement on vaccines and autism",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "铝佐剂疫苗",
+        "慢性疾病",
+        "自闭症",
+        "安全性"
+      ],
+      "source_doc": "Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) on vaccines and autism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2025",
+      "url": "https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism",
+      "page": "1-3"
+    }
+  ]
+}

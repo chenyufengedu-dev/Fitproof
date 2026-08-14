@@ -1,0 +1,82 @@
+{
+  "doc": "Infant feeding for the prevention of mother-to-child transmission of HIV",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/hiv-infant-feeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-infant-feedi-001",
+      "claim": "HIV感染母亲应接受终生抗逆转录病毒治疗或预防干预以减少通过母乳喂养传播HIV的风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "HIV感染",
+        "母乳喂养",
+        "抗逆转录病毒治疗"
+      ],
+      "source_doc": "Infant feeding for the prevention of mother-to-child transmission of HIV",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-infant-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-feedi-002",
+      "claim": "在推荐母乳喂养的地区，HIV感染母亲（其婴儿未感染或感染状态未知）应纯母乳喂养至婴儿6个月，之后添加适当辅食并继续母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "HIV感染",
+        "纯母乳喂养",
+        "6个月",
+        "辅食"
+      ],
+      "source_doc": "Infant feeding for the prevention of mother-to-child transmission of HIV",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-infant-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-feedi-003",
+      "claim": "HIV感染母亲应母乳喂养至少12个月，可继续至24个月或更长时间，同时确保抗逆转录病毒治疗依从性。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "HIV感染",
+        "母乳喂养持续时间",
+        "12个月",
+        "24个月",
+        "ART依从性"
+      ],
+      "source_doc": "Infant feeding for the prevention of mother-to-child transmission of HIV",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-infant-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-feedi-004",
+      "claim": "只有在能提供营养充分且安全的无母乳替代饮食时，才应停止母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养停止",
+        "安全饮食",
+        "营养"
+      ],
+      "source_doc": "Infant feeding for the prevention of mother-to-child transmission of HIV",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-infant-feeding",
+      "page": "1-3"
+    }
+  ]
+}

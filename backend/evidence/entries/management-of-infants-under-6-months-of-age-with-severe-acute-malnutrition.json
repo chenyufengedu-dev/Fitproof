@@ -1,0 +1,62 @@
+{
+  "doc": "Management of infants under 6 months of age with severe acute malnutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sam-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-management-o-001",
+      "claim": "小于6个月的严重急性营养不良婴儿应接受与6个月及以上婴儿相同的常规医疗护理。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "婴儿",
+        "医疗护理"
+      ],
+      "source_doc": "Management of infants under 6 months of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-002",
+      "claim": "小于6个月的严重急性营养不良婴儿的喂养应优先建立或重建有效的纯母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "婴儿",
+        "母乳喂养"
+      ],
+      "source_doc": "Management of infants under 6 months of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-003",
+      "claim": "小于6个月的严重急性营养不良婴儿在以下情况可出院：有效母乳喂养或良好接受替代喂养、体重增长充分、身长别体重≥-2 Z评分（WHO儿童生长标准中位数）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "婴儿",
+        "出院标准"
+      ],
+      "source_doc": "Management of infants under 6 months of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-infants",
+      "page": "1-3"
+    }
+  ]
+}

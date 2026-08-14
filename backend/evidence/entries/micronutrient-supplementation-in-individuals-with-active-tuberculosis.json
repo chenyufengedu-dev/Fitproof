@@ -1,0 +1,67 @@
+{
+  "doc": "Micronutrient supplementation in individuals with active tuberculosis",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/micronutrients-tuberculosis",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-micronutrien-001",
+      "claim": "活动性结核患者应在无法获得强化食品或补充食品时，每日补充1倍推荐营养素摄入量的多种微量营养素补充剂。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "结核",
+        "微量营养素",
+        "多种微量营养素补充剂"
+      ],
+      "source_doc": "Micronutrient supplementation in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-tuberculosis",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-002",
+      "claim": "所有患有活动性结核的孕妇和哺乳期妇女应接受含有铁、叶酸及其他维生素和矿物质的多种微量营养素补充剂。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "结核",
+        "孕妇",
+        "哺乳期",
+        "微量营养素",
+        "铁",
+        "叶酸"
+      ],
+      "source_doc": "Micronutrient supplementation in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-tuberculosis",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-003",
+      "claim": "在钙摄入量低的环境中，建议活动性结核孕妇在产前保健中补充钙以预防先兆子痫，尤其适用于高血压风险较高的孕妇。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "结核",
+        "孕妇",
+        "钙",
+        "先兆子痫",
+        "高血压"
+      ],
+      "source_doc": "Micronutrient supplementation in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-tuberculosis",
+      "page": "1-3"
+    }
+  ]
+}

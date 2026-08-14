@@ -1,0 +1,454 @@
+{
+  "doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+  "complete": true,
+  "done_windows": 14,
+  "count": 25,
+  "entries": [
+    {
+      "id": "E-pelvic-floor-001",
+      "claim": "无尿失禁的孕妇在孕期进行盆底肌训练可降低孕晚期和产后3-6个月尿失禁的风险。",
+      "section": "Main results",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "孕期",
+        "产后",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "6-8"
+    },
+    {
+      "id": "E-pelvic-floor-002",
+      "claim": "对已有尿失禁的孕妇或产后女性，盆底肌训练不能有效减少尿失禁。",
+      "section": "Main results",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "治疗",
+        "孕期",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "6-8"
+    },
+    {
+      "id": "E-pelvic-floor-003",
+      "claim": "无论有无尿失禁，孕期进行盆底肌训练可降低孕晚期和产后6个月内尿失禁风险，但效果较小。",
+      "section": "Main results",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "混合人群",
+        "预防与治疗",
+        "孕期"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "6-8"
+    },
+    {
+      "id": "E-pelvic-floor-004",
+      "claim": "产后开始盆底肌训练对减少产后6-12个月尿失禁效果不确定。",
+      "section": "Main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后",
+        "效果不确定"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "6-8"
+    },
+    {
+      "id": "E-pelvic-floor-005",
+      "claim": "盆底肌训练对减少粪失禁无明确效果。",
+      "section": "Main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "粪失禁",
+        "效果不确定"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "6-8"
+    },
+    {
+      "id": "E-pelvic-floor-006",
+      "claim": "盆腔底肌训练被推荐为治疗尿失禁的一线疗法。",
+      "section": "Treatment of urinary and faecal incontinence with pelvic floor muscle training (PFMT)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "盆腔底肌训练",
+        "尿失禁",
+        "一线疗法"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "15-17"
+    },
+    {
+      "id": "E-pelvic-floor-007",
+      "claim": "产前盆底肌训练可使孕晚期尿失禁风险降低约62%",
+      "section": "Antenatal pelvic floor muscle training for prevention of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产前"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-008",
+      "claim": "产前盆底肌训练可使产后早期尿失禁风险降低约62%",
+      "section": "Antenatal pelvic floor muscle training for prevention of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-009",
+      "claim": "产前盆底肌训练可使产后3-6个月尿失禁风险降低约29%",
+      "section": "Antenatal pelvic floor muscle training for prevention of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-010",
+      "claim": "产前盆底肌训练对产后12个月及长期（超过5年）尿失禁风险无显著影响",
+      "section": "Antenatal pelvic floor muscle training for prevention of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "长期效果"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-011",
+      "claim": "产前盆底肌训练用于治疗尿失禁时，在孕晚期、产后各时期均无显著效果",
+      "section": "Antenatal pelvic floor muscle training for treatment of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "治疗"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-012",
+      "claim": "产前盆底肌训练用于混合预防和治疗时，可降低孕晚期尿失禁风险22%",
+      "section": "Antenatal pelvic floor muscle training for mixed prevention and treatment of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "混合预防治疗"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-013",
+      "claim": "产前盆底肌训练用于混合预防和治疗时，可降低产后早期尿失禁风险17%",
+      "section": "Antenatal pelvic floor muscle training for mixed prevention and treatment of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-014",
+      "claim": "产前盆底肌训练用于混合预防和治疗时，可降低产后中期尿失禁风险27%",
+      "section": "Antenatal pelvic floor muscle training for mixed prevention and treatment of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-pelvic-floor-015",
+      "claim": "产前盆底肌训练不能降低孕期或产后尿失禁的发生风险",
+      "section": "Antenatal pelvic floor muscle training for prevention and treatment of incontinence",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产前",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "36-38"
+    },
+    {
+      "id": "E-pelvic-floor-016",
+      "claim": "孕期盆底肌训练可能降低孕晚期尿失禁风险。",
+      "section": "Primary or secondary prevention of incontinence",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "孕期",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-017",
+      "claim": "孕期盆底肌训练可轻微降低产后3至6个月内的尿失禁风险。",
+      "section": "Primary or secondary prevention of incontinence",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-018",
+      "claim": "盆底肌训练治疗孕期尿失禁的效果不确定。",
+      "section": "Treatment of incontinence (antenatal women)",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "治疗",
+        "孕期",
+        "不确定性"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-019",
+      "claim": "盆底肌训练未显示能有效治疗产后尿失禁。",
+      "section": "Treatment of incontinence (postnatal women)",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "治疗",
+        "产后"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-020",
+      "claim": "产前盆底肌训练（不论是否有症状）可能降低孕晚期尿失禁风险。",
+      "section": "Trials with a mixed prevention and treatment approach (antenatal women)",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "孕期",
+        "混合预防治疗"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-021",
+      "claim": "盆底肌训练对预防或治疗大便失禁的效果缺乏足够证据。",
+      "section": "Overall completeness and applicability of evidence",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "大便失禁",
+        "证据不足"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-pelvic-floor-022",
+      "claim": "孕期未失禁女性进行早期结构化盆底肌训练可预防孕晚期尿失禁并略微降低产后尿失禁风险。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产前",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-pelvic-floor-023",
+      "claim": "对孕妇（无论失禁状态）进行群体盆底肌训练可降低孕晚期至产后3-6个月尿失禁风险，但效果可能较小。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "群体干预",
+        "预防"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-pelvic-floor-024",
+      "claim": "盆底肌训练治疗产前尿失禁的效果不确定。",
+      "section": "Implications for practice",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产前",
+        "治疗"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-pelvic-floor-025",
+      "claim": "盆底肌训练不太可能有效治疗产后3个月以上持续性尿失禁。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "盆底肌训练",
+        "尿失禁",
+        "产后",
+        "治疗"
+      ],
+      "source_doc": "Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007471.pub4/full",
+      "page": "42-44"
+    }
+  ]
+}

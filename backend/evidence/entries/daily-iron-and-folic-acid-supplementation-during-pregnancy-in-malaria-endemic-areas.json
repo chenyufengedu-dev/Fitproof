@@ -1,0 +1,30 @@
+{
+  "doc": "Daily iron and folic acid supplementation during pregnancy in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-daily-iron-a-001",
+      "claim": "孕妇每日口服含30-60mg元素铁和400μg叶酸的补充剂可预防孕产妇贫血、产褥期败血症、低出生体重和早产。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "孕妇",
+        "铁",
+        "叶酸",
+        "贫血",
+        "补铁"
+      ],
+      "source_doc": "Daily iron and folic acid supplementation during pregnancy in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/daily-iron-pregnancy-malaria",
+      "page": "1-3"
+    }
+  ]
+}

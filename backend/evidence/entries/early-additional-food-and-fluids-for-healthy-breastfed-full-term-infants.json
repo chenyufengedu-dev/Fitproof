@@ -1,0 +1,81 @@
+{
+  "doc": "Early additional food and fluids for healthy breastfed full-term infants",
+  "org": "Cochrane 协作网",
+  "year": "2018",
+  "url": "https://www.cochrane.org/evidence/CD006462_early-additional-food-and-fluids-healthy-breastfed-full-term-infants",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-early-additi-001",
+      "claim": "健康足月婴儿应在出生后前六个月内进行纯母乳喂养，不添加额外的食物或液体。",
+      "section": "作者结论",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "纯母乳喂养",
+        "婴儿",
+        "喂养指导"
+      ],
+      "source_doc": "Early additional food and fluids for healthy breastfed full-term infants",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochrane.org/evidence/CD006462_early-additional-food-and-fluids-healthy-breastfed-full-term-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-early-additi-002",
+      "claim": "额外补充水或葡萄糖水对新生儿的母乳喂养持续时间没有益处。",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水",
+        "葡萄糖水",
+        "母乳喂养",
+        "新生儿"
+      ],
+      "source_doc": "Early additional food and fluids for healthy breastfed full-term infants",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochrane.org/evidence/CD006462_early-additional-food-and-fluids-healthy-breastfed-full-term-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-early-additi-003",
+      "claim": "关于补充配方奶的证据质量不足以支持改变纯母乳喂养的做法。",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "配方奶",
+        "纯母乳喂养",
+        "补充喂养"
+      ],
+      "source_doc": "Early additional food and fluids for healthy breastfed full-term infants",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochrane.org/evidence/CD006462_early-additional-food-and-fluids-healthy-breastfed-full-term-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-early-additi-004",
+      "claim": "对于4至6个月的婴儿，添加固体食物未发现明显获益，也未发现与发病率或体重变化相关的风险。",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "辅食",
+        "婴儿",
+        "纯母乳喂养",
+        "体重变化"
+      ],
+      "source_doc": "Early additional food and fluids for healthy breastfed full-term infants",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochrane.org/evidence/CD006462_early-additional-food-and-fluids-healthy-breastfed-full-term-infants",
+      "page": "1-3"
+    }
+  ]
+}

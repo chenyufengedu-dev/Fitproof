@@ -1,0 +1,47 @@
+{
+  "doc": "Antioxidants and Cancer Prevention",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2017",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet",
+  "complete": true,
+  "done_windows": 4,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-antioxidants-001",
+      "claim": "膳食抗氧化剂补充剂对癌症一级预防无益。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "抗氧化剂",
+        "补充剂",
+        "癌症预防",
+        "随机对照试验"
+      ],
+      "source_doc": "Antioxidants and Cancer Prevention",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2017",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-antioxidants-002",
+      "claim": "癌症患者应谨慎使用抗氧化补充剂，并告知医生。",
+      "section": "Should people already diagnosed with cancer take antioxidant supplements?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "癌症患者",
+        "抗氧化剂",
+        "补充剂",
+        "谨慎使用"
+      ],
+      "source_doc": "Antioxidants and Cancer Prevention",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2017",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet",
+      "page": "4-6"
+    }
+  ]
+}

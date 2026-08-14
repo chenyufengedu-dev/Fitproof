@@ -1,0 +1,47 @@
+{
+  "doc": "Daily iron supplementation in children 24–59 months of age in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-children-24to59-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "在贫血患病率≥40%的地区，对24-59月龄学龄前儿童每日补铁可作为公共卫生干预措施，以提高血红蛋白浓度和改善铁状态。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "儿童",
+        "贫血",
+        "血红蛋白"
+      ],
+      "source_doc": "Daily iron supplementation in children 24–59 months of age in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-24to59-malaria",
+      "page": "1-3"
+    },
+    {
+      "id": "E-daily-iron-s-002",
+      "claim": "在疟疾流行区，应对婴幼儿和儿童进行铁补充，同时配合预防、诊断和治疗疟疾的公共卫生措施。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "疟疾",
+        "儿童",
+        "公共卫生措施"
+      ],
+      "source_doc": "Daily iron supplementation in children 24–59 months of age in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-24to59-malaria",
+      "page": "1-3"
+    }
+  ]
+}

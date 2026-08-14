@@ -1,0 +1,131 @@
+{
+  "doc": "Feeding of very-low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-feeding-of-v-001",
+      "claim": "不能喂养母乳或捐赠母乳的极低出生体重婴儿，在标准婴儿配方奶喂养后体重仍不增加时，应给予早产儿配方奶。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "配方奶",
+        "母乳喂养"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-002",
+      "claim": "纯母乳或捐赠母乳喂养的极低出生体重婴儿，不应常规使用牛乳基母乳强化剂（适用于资源有限环境）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "母乳强化剂",
+        "牛乳基"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-003",
+      "claim": "纯母乳喂养但体重不增加的极低出生体重婴儿，应使用母乳强化剂，优选人乳基强化剂。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "母乳强化剂",
+        "人乳基"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-004",
+      "claim": "极低出生体重婴儿应从出生第一天开始，以10 ml/kg/天给予肠内喂养，优选挤出的母乳，剩余液体需求通过静脉输液补充（适用于资源有限环境）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "肠内喂养",
+        "静脉输液"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-005",
+      "claim": "需要管饲喂养的极低出生体重婴儿，应给予间歇性推注喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "管饲喂养",
+        "间歇性推注"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-006",
+      "claim": "需要管饲喂养的极低出生体重婴儿，胃管可经口或经鼻放置，取决于医疗提供者的偏好。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "胃管放置",
+        "经口",
+        "经鼻"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-v-007",
+      "claim": "需要替代口服喂养方法或管饲喂养的极低出生体重婴儿，喂养量可每日增加最多30 ml/kg，同时密切监测喂养不耐受。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重儿",
+        "喂养量增加",
+        "喂养不耐受"
+      ],
+      "source_doc": "Feeding of very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/feeding-vlbw-infants",
+      "page": "1-3"
+    }
+  ]
+}

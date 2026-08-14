@@ -1,0 +1,62 @@
+{
+  "doc": "Reducing free sugars intake in children to reduce the risk of noncommunicable diseases",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/free-sugars-children-ncds",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-reducing-fre-001",
+      "claim": "全生命周期都应减少游离糖的摄入。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "非传染性疾病",
+        "儿童"
+      ],
+      "source_doc": "Reducing free sugars intake in children to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-children-ncds",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-fre-002",
+      "claim": "成人和儿童的游离糖摄入应低于总能量摄入的10%。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "10%"
+      ],
+      "source_doc": "Reducing free sugars intake in children to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-children-ncds",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-fre-003",
+      "claim": "进一步将游离糖摄入降至总能量摄入的5%以下可能带来额外健康益处。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "5%"
+      ],
+      "source_doc": "Reducing free sugars intake in children to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-children-ncds",
+      "page": "1-3"
+    }
+  ]
+}

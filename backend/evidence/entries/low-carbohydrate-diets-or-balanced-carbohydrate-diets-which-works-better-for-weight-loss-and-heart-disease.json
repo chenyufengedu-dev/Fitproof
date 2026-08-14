@@ -1,0 +1,84 @@
+{
+  "doc": "Low-carbohydrate diets or balanced-carbohydrate diets: which works better for weight loss and heart disease?",
+  "org": "Cochrane 协作网",
+  "year": "2022",
+  "url": "https://www.cochrane.org/evidence/CD013334_low-carbohydrate-diets-or-balanced-carbohydrate-diets-which-works-better-weight-loss-and-heart",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-low-carbohyd-001",
+      "claim": "在长达两年的减重期内，低碳水化合物饮食与平衡碳水化合物饮食在减重效果上可能几乎没有差异。",
+      "section": "Key messages",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "低碳水饮食",
+        "减重",
+        "平衡碳水饮食"
+      ],
+      "source_doc": "Low-carbohydrate diets or balanced-carbohydrate diets: which works better for weight loss and heart disease?",
+      "org": "Cochrane 协作网",
+      "year": "2022",
+      "url": "https://www.cochrane.org/evidence/CD013334_low-carbohydrate-diets-or-balanced-carbohydrate-diets-which-works-better-weight-loss-and-heart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-low-carbohyd-002",
+      "claim": "在长达两年的减重期内，低碳水化合物饮食与平衡碳水化合物饮食在心脏病风险指标（舒张压、糖化血红蛋白、LDL胆固醇）的变化上可能几乎没有差异。",
+      "section": "Key messages",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "低碳水饮食",
+        "心脏病风险",
+        "舒张压",
+        "糖化血红蛋白",
+        "LDL胆固醇"
+      ],
+      "source_doc": "Low-carbohydrate diets or balanced-carbohydrate diets: which works better for weight loss and heart disease?",
+      "org": "Cochrane 协作网",
+      "year": "2022",
+      "url": "https://www.cochrane.org/evidence/CD013334_low-carbohydrate-diets-or-balanced-carbohydrate-diets-which-works-better-weight-loss-and-heart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-low-carbohyd-003",
+      "claim": "无论是否患有2型糖尿病，上述饮食比较的结论相同。",
+      "section": "Key messages",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "2型糖尿病",
+        "低碳水饮食",
+        "减重",
+        "心脏病风险"
+      ],
+      "source_doc": "Low-carbohydrate diets or balanced-carbohydrate diets: which works better for weight loss and heart disease?",
+      "org": "Cochrane 协作网",
+      "year": "2022",
+      "url": "https://www.cochrane.org/evidence/CD013334_low-carbohydrate-diets-or-balanced-carbohydrate-diets-which-works-better-weight-loss-and-heart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-low-carbohyd-004",
+      "claim": "对于超重和肥胖（无论是否患有2型糖尿病）人群，低碳水减重饮食与均衡碳水减重饮食在长达两年的减重效果和心血管风险因子改变方面可能几乎没有差异。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "低碳水化合物饮食",
+        "均衡碳水化合物饮食",
+        "减重",
+        "心血管风险",
+        "2型糖尿病"
+      ],
+      "source_doc": "Low-carbohydrate diets or balanced-carbohydrate diets: which works better for weight loss and heart disease?",
+      "org": "Cochrane 协作网",
+      "year": "2022",
+      "url": "https://www.cochrane.org/evidence/CD013334_low-carbohydrate-diets-or-balanced-carbohydrate-diets-which-works-better-weight-loss-and-heart",
+      "page": "4-4"
+    }
+  ]
+}

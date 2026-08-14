@@ -1,0 +1,376 @@
+{
+  "doc": "Exercise for treatment of chronic low back pain",
+  "org": "Cochrane 协作网",
+  "year": "2021",
+  "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+  "complete": true,
+  "done_windows": 185,
+  "count": 20,
+  "entries": [
+    {
+      "id": "E-exercise-for-001",
+      "claim": "运动治疗相比无治疗、常规护理或安慰剂，能临床显著减轻慢性下背痛患者的疼痛（中等质量证据）。",
+      "section": "Main results",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "疼痛",
+        "中等质量证据"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "4-6"
+    },
+    {
+      "id": "E-exercise-for-002",
+      "claim": "运动治疗相比无治疗、常规护理或安慰剂，对慢性下背痛患者的功能限制改善未达到临床最小重要差异（中等质量证据）。",
+      "section": "Main results",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "功能限制",
+        "中等质量证据"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "4-6"
+    },
+    {
+      "id": "E-exercise-for-003",
+      "claim": "运动治疗相比其他保守治疗（如教育、电疗），对慢性下背痛患者的疼痛和功能限制改善效果小且无临床意义。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "保守治疗",
+        "效果小"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "4-6"
+    },
+    {
+      "id": "E-exercise-for-004",
+      "claim": "运动治疗与手法治疗在改善慢性下背痛患者疼痛方面没有差异。",
+      "section": "Main results",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "手法治疗",
+        "无差异"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "4-6"
+    },
+    {
+      "id": "E-exercise-for-005",
+      "claim": "运动治疗的不良事件常见且轻微（如肌肉酸痛），与对照组发生率相似。",
+      "section": "Main results",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "不良事件",
+        "安全性"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "4-6"
+    },
+    {
+      "id": "E-exercise-for-006",
+      "claim": "运动治疗是慢性下背痛的一线治疗方法，应根据个体需求、偏好和能力制定运动方案。",
+      "section": "Why it is important to do this review",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "一线治疗",
+        "个体化运动"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "7-9"
+    },
+    {
+      "id": "E-exercise-for-007",
+      "claim": "运动治疗可有效改善慢性下背痛患者的疼痛和功能限制，与无治疗、常规护理或安慰剂相比具有中等确定性证据。",
+      "section": "Effects of interventions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "疼痛",
+        "功能限制"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "19-21"
+    },
+    {
+      "id": "E-exercise-for-008",
+      "claim": "与不治疗相比，运动治疗慢性下背痛在短期疼痛改善上未达到临床重要差异。",
+      "section": "Exercise treatment versus no treatment, usual care or placebo",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "疼痛",
+        "临床重要差异"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "22-24"
+    },
+    {
+      "id": "E-exercise-for-009",
+      "claim": "与其他保守治疗相比，运动治疗慢性下背痛在短期和中期疼痛改善上可能具有临床意义。",
+      "section": "Exercise treatment versus other conservative treatments",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "保守治疗",
+        "疼痛"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "22-24"
+    },
+    {
+      "id": "E-exercise-for-010",
+      "claim": "运动治疗与不治疗相比，在功能限制改善上未达到临床重要差异。",
+      "section": "Functional limitations outcomes",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "功能限制",
+        "临床重要差异"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "22-24"
+    },
+    {
+      "id": "E-exercise-for-011",
+      "claim": "与其他保守治疗相比，运动治疗慢性下背痛在早期功能改善上可能具有临床意义。",
+      "section": "Functional limitations outcomes",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "保守治疗",
+        "功能限制"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "22-24"
+    },
+    {
+      "id": "E-exercise-for-012",
+      "claim": "对于慢性下背痛，运动治疗在减轻疼痛和改善功能受限方面可能比不治疗、常规护理或安慰剂更有效。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "疼痛",
+        "功能受限",
+        "有效性"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-013",
+      "claim": "与其他保守治疗相比，运动治疗在减轻疼痛和改善功能受限方面的差异较小，未达到临床重要差异阈值。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "保守治疗",
+        "疼痛",
+        "功能受限"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-014",
+      "claim": "运动治疗的不良反应罕见，主要包括腰痛加重和肌肉酸痛。",
+      "section": "Adverse effects",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "运动治疗",
+        "安全性",
+        "不良反应",
+        "腰痛",
+        "肌肉酸痛"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-015",
+      "claim": "临床指南推荐运动计划应个体化，考虑患者的需求、偏好和能力。",
+      "section": "Quality of the evidence",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性下背痛",
+        "运动治疗",
+        "个体化",
+        "患者需求",
+        "偏好"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-016",
+      "claim": "目前证据有限，未能证明某一特定类型的运动优于其他类型。",
+      "section": "Quality of the evidence",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "运动类型",
+        "比较",
+        "有效性",
+        "慢性下背痛"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-017",
+      "claim": "网络荟萃分析发现，普拉提、McKenzie疗法和功能性恢复训练在减轻疼痛和改善功能受限方面优于其他运动类型。",
+      "section": "Agreements and disagreements with other studies or reviews",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "普拉提",
+        "McKenzie疗法",
+        "功能性恢复训练",
+        "运动类型",
+        "疼痛",
+        "功能受限"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "25-27"
+    },
+    {
+      "id": "E-exercise-for-018",
+      "claim": "与不治疗（包括常规护理和安慰剂）相比，运动可能对慢性腰痛患者的疼痛结局带来小幅改善，但临床重要性有限。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性腰痛",
+        "运动",
+        "疼痛改善",
+        "临床重要性"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "28-30"
+    },
+    {
+      "id": "E-exercise-for-019",
+      "claim": "与其他保守治疗相比，运动对慢性腰痛患者的疼痛和功能限制改善效果很小，未达到临床重要性。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性腰痛",
+        "运动",
+        "保守治疗",
+        "功能限制"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "28-30"
+    },
+    {
+      "id": "E-exercise-for-020",
+      "claim": "运动可能是治疗慢性腰痛的良好选择。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "慢性腰痛",
+        "运动",
+        "治疗选择"
+      ],
+      "source_doc": "Exercise for treatment of chronic low back pain",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochrane.org/evidence/CD009790_exercise-treatment-chronic-low-back-pain",
+      "page": "28-30"
+    }
+  ]
+}

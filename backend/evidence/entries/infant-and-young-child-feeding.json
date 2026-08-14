@@ -1,0 +1,218 @@
+{
+  "doc": "Infant and young child feeding",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2021",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 12,
+  "entries": [
+    {
+      "id": "E-infant-and-y-001",
+      "claim": "婴儿应在出生后1小时内开始母乳喂养。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "早期开奶",
+        "新生儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-002",
+      "claim": "婴儿应纯母乳喂养至6个月。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "纯母乳喂养",
+        "婴儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-003",
+      "claim": "应在6个月时为婴儿引入辅食，并继续母乳喂养至2岁或以上。",
+      "section": "Complementary feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "辅食",
+        "婴儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-004",
+      "claim": "HIV感染母亲所生婴儿可在抗逆转录病毒药物支持下纯母乳喂养6个月并继续至至少12个月，且传播风险显著降低。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "HIV",
+        "母乳喂养",
+        "抗逆转录病毒药物"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-005",
+      "claim": "纯母乳喂养6个月可保护婴儿免受胃肠道感染。",
+      "section": "Breastfeeding",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "胃肠道感染",
+        "婴儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-006",
+      "claim": "部分或完全不母乳喂养的婴儿因腹泻和其他感染而死亡的风险增加。",
+      "section": "Breastfeeding",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "腹泻",
+        "婴儿死亡率"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-007",
+      "claim": "母乳喂养的儿童和青少年超重或肥胖的风险较低。",
+      "section": "Breastfeeding",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-008",
+      "claim": "母乳喂养的儿童在智力测试中表现更好，入学率更高，成年后收入更高。",
+      "section": "Breastfeeding",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "认知发育",
+        "收入"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-009",
+      "claim": "较长母乳喂养时长可降低母亲卵巢癌和乳腺癌风险，并有助于生育间隔。",
+      "section": "Breastfeeding",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "母乳喂养",
+        "卵巢癌",
+        "乳腺癌",
+        "生育间隔"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-infant-and-y-010",
+      "claim": "6-8月龄婴儿每天应喂食2-3餐，9-23月龄每天3-4餐，并可额外加1-2次小食。",
+      "section": "Infant and young child feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "喂养频率",
+        "辅食",
+        "婴儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "4-6"
+    },
+    {
+      "id": "E-infant-and-y-011",
+      "claim": "所有HIV感染者（包括孕妇和哺乳母亲）从得知感染起应终身接受抗逆转录病毒治疗（ART）。",
+      "section": "HIV and infant feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "HIV",
+        "抗逆转录病毒治疗",
+        "母婴传播"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "4-6"
+    },
+    {
+      "id": "E-infant-and-y-012",
+      "claim": "在腹泻、肺炎和营养不良高发且国家卫生当局支持母乳喂养的环境中，HIV阳性母亲应纯母乳喂养6个月，然后添加适当辅食并继续母乳喂养至少到婴儿1岁。",
+      "section": "HIV and infant feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "HIV",
+        "母乳喂养",
+        "纯母乳喂养",
+        "辅食",
+        "婴儿"
+      ],
+      "source_doc": "Infant and young child feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2021",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+      "page": "4-6"
+    }
+  ]
+}

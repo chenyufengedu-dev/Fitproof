@@ -1,0 +1,30 @@
+{
+  "doc": "Vitamin E and C supplementation during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitaminsec-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-e-an-001",
+      "claim": "不建议孕妇补充维生素E和C以改善母婴围产期结局。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素E",
+        "维生素C",
+        "妊娠",
+        "抗氧化剂",
+        "胎膜早破"
+      ],
+      "source_doc": "Vitamin E and C supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitaminsec-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

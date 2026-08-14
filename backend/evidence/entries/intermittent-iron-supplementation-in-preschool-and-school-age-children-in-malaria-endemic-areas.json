@@ -1,0 +1,47 @@
+{
+  "doc": "Intermittent iron supplementation in preschool and school-age children in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-intermittent-children-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "在贫血患病率≥20%的学龄前（24-59个月）或学龄儿童（5-12岁）中，推荐间歇性铁补充作为公共卫生干预措施以改善铁状态并降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "贫血",
+        "儿童",
+        "间歇性方案"
+      ],
+      "source_doc": "Intermittent iron supplementation in preschool and school-age children in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-intermittent-children-malaria",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intermittent-002",
+      "claim": "在疟疾流行区，铁补充应与疟疾预防、诊断和治疗措施同时实施。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "疟疾",
+        "儿童",
+        "疟疾防控"
+      ],
+      "source_doc": "Intermittent iron supplementation in preschool and school-age children in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-intermittent-children-malaria",
+      "page": "1-3"
+    }
+  ]
+}

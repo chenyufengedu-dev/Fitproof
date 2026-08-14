@@ -1,0 +1,421 @@
+{
+  "doc": "Use of non-sugar sweeteners: WHO guideline",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/publications/i/item/9789240073616",
+  "complete": true,
+  "done_windows": 30,
+  "count": 23,
+  "entries": [
+    {
+      "id": "E-use-of-non-s-001",
+      "claim": "非糖甜味剂不应用于控制体重或降低非传染性疾病风险（有条件推荐）。",
+      "section": "WHO recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重控制",
+        "非传染性疾病",
+        "有条件推荐"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "10-12"
+    },
+    {
+      "id": "E-use-of-non-s-002",
+      "claim": "短期随机对照试验中，非糖甜味剂摄入与降低体重和体重指数相关，但长期观察性研究中与增加体重指数和肥胖风险相关。",
+      "section": "Executive summary",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重",
+        "体重指数",
+        "肥胖",
+        "短期",
+        "长期"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "10-12"
+    },
+    {
+      "id": "E-use-of-non-s-003",
+      "claim": "长期使用非糖甜味剂与成人2型糖尿病、心血管疾病和死亡率风险增加相关。",
+      "section": "Executive summary",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "2型糖尿病",
+        "心血管疾病",
+        "死亡率"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "10-12"
+    },
+    {
+      "id": "E-use-of-non-s-004",
+      "claim": "儿童中，用非糖甜味剂饮料替代含糖饮料可减少体脂，但另一项试验未观察到对体重指数z评分的影响。",
+      "section": "Executive summary",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "儿童",
+        "体脂",
+        "体重指数"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "10-12"
+    },
+    {
+      "id": "E-use-of-non-s-005",
+      "claim": "孕期较高非糖甜味剂摄入与早产风险增加相关。",
+      "section": "Executive summary",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "妊娠",
+        "早产"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "10-12"
+    },
+    {
+      "id": "E-use-of-non-s-006",
+      "claim": "不推荐使用非糖甜味剂来控制体重或降低非传染性疾病风险。",
+      "section": "Executive summary",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重控制",
+        "非传染性疾病",
+        "健康风险"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "13-15"
+    },
+    {
+      "id": "E-use-of-non-s-007",
+      "claim": "摄入非糖甜味剂与全因死亡风险增加10%相关，与心血管疾病死亡风险增加19%相关",
+      "section": "Summary of evidence",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "全因死亡率",
+        "心血管疾病死亡"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "25-27"
+    },
+    {
+      "id": "E-use-of-non-s-008",
+      "claim": "孕期摄入非糖甜味剂与早产风险增加25%相关",
+      "section": "Pregnant women",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "孕期",
+        "早产"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "25-27"
+    },
+    {
+      "id": "E-use-of-non-s-009",
+      "claim": "随机对照试验显示，与非糖甜味剂相比，摄入非糖甜味剂后每日能量摄入减少569千焦，每日糖摄入减少38.4克，但仅在以糖为对照时显著",
+      "section": "Summary of evidence",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "能量摄入",
+        "糖摄入"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "25-27"
+    },
+    {
+      "id": "E-use-of-non-s-010",
+      "claim": "长期观察性研究表明，非糖甜味剂使用与体重指数增加和肥胖风险升高相关，因此短期随机对照试验观察到的体重减轻不能表明健康益处",
+      "section": "Interpreting the evidence",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重指数",
+        "肥胖风险",
+        "体重减轻"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "25-27"
+    },
+    {
+      "id": "E-use-of-non-s-011",
+      "claim": "指南建议不要在饮食中使用非糖甜味剂。",
+      "section": "Evidence to recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "饮食建议",
+        "健康风险"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "28-30"
+    },
+    {
+      "id": "E-use-of-non-s-012",
+      "claim": "非糖甜味剂对体重的长期益处缺乏证据，并可能增加疾病风险。",
+      "section": "Balance of desirable and undesirable effects",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重",
+        "长期效果",
+        "疾病风险"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "28-30"
+    },
+    {
+      "id": "E-use-of-non-s-013",
+      "claim": "非糖甜味剂对龋齿的益处仅限于替代游离糖时，其本身无固有防龋作用。",
+      "section": "Balance of desirable and undesirable effects",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "龋齿",
+        "游离糖",
+        "替代效果"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "28-30"
+    },
+    {
+      "id": "E-use-of-non-s-014",
+      "claim": "非糖甜味剂不推荐用于控制体重或降低非传染性疾病风险。",
+      "section": "Evidence to recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重控制",
+        "非传染性疾病",
+        "指南"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "31-33"
+    },
+    {
+      "id": "E-use-of-non-s-015",
+      "claim": "非糖甜味剂不应用于控制体重或降低非传染性疾病风险。",
+      "section": "WHO recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重控制",
+        "非传染性疾病",
+        "WHO指南"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "34-36"
+    },
+    {
+      "id": "E-use-of-non-s-016",
+      "claim": "建议用水果等天然甜味来源替代含游离糖或非糖甜味剂的食品饮料，以改善饮食质量。",
+      "section": "Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "游离糖",
+        "健康饮食",
+        "水果"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "37-39"
+    },
+    {
+      "id": "E-use-of-non-s-017",
+      "claim": "该推荐不适用于已有糖尿病的个体。",
+      "section": "Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "糖尿病",
+        "非糖甜味剂",
+        "适用范围"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "37-39"
+    },
+    {
+      "id": "E-use-of-non-s-018",
+      "claim": "除糖尿病患者外，该推荐适用于所有人群，包括儿童、成人、孕妇和哺乳期妇女。",
+      "section": "Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "适用人群",
+        "孕妇",
+        "儿童"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "37-39"
+    },
+    {
+      "id": "E-use-of-non-s-019",
+      "claim": "在12-18岁超重儿童中，长期饮用非糖甜味剂饮料与总胆固醇、HDL、LDL或甘油三酯水平无显著差异。",
+      "section": "Cardiovascular diseases (blood lipids)",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "血脂",
+        "儿童",
+        "超重"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "70-72"
+    },
+    {
+      "id": "E-use-of-non-s-020",
+      "claim": "在儿童中，饮用含糖饮料的能量摄入比饮用非糖甜味剂饮料高419 kJ/天。",
+      "section": "Energy intake (kJ/day)",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "能量摄入",
+        "儿童",
+        "含糖饮料"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "70-72"
+    },
+    {
+      "id": "E-use-of-non-s-021",
+      "claim": "在儿童中，饮用添加三氯蔗糖的饮料与添加蔗糖的饮料相比，认知功能（KABC-II和HVLT测试）无显著差异。",
+      "section": "Neurocognition",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "三氯蔗糖",
+        "儿童",
+        "认知功能"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "70-72"
+    },
+    {
+      "id": "E-use-of-non-s-022",
+      "claim": "非糖甜味剂的长期使用可能增加死亡和疾病风险，其不良效应超过短期体重管理的益处，因此不建议使用非糖甜味剂来控制体重或降低非传染性疾病风险。",
+      "section": "Annex 7. Evidence to recommendation table",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "体重管理",
+        "非传染性疾病",
+        "风险"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "79-81"
+    },
+    {
+      "id": "E-use-of-non-s-023",
+      "claim": "在儿童中，非糖甜味剂本身没有预防龋齿的固有作用，其减少龋齿的效果仅来自于替代游离糖。",
+      "section": "Annex 7. Evidence to recommendation table",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "非糖甜味剂",
+        "儿童",
+        "龋齿",
+        "游离糖"
+      ],
+      "source_doc": "Use of non-sugar sweeteners: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073616",
+      "page": "79-81"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-micronutrien-001",
+      "claim": "对于低出生体重婴儿（<2.5 kg）喂养母乳或捐赠人乳，不建议每日口服维生素A补充剂。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重",
+        "维生素A",
+        "母乳喂养"
+      ],
+      "source_doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-002",
+      "claim": "对于低出生体重婴儿（<2.5 kg）喂养母乳或捐赠人乳，不建议常规补锌。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重",
+        "锌",
+        "母乳喂养"
+      ],
+      "source_doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-003",
+      "claim": "极低出生体重婴儿（1.0-1.5 kg）应每日补充维生素D 400-1000 IU，直至6月龄。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重",
+        "维生素D",
+        "补充剂量"
+      ],
+      "source_doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-004",
+      "claim": "极低出生体重婴儿（1.0-1.5 kg）喂养母乳或捐赠人乳，应每日补充钙（120-140 mg/kg）和磷（60-90 mg/kg），持续出生后数月。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重",
+        "钙",
+        "磷",
+        "母乳喂养"
+      ],
+      "source_doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-005",
+      "claim": "极低出生体重婴儿（1.0-1.5 kg）喂养母乳或捐赠人乳，应从2周龄开始每日补充铁2-4 mg/kg，直至6月龄。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "极低出生体重",
+        "铁",
+        "母乳喂养",
+        "补充时机"
+      ],
+      "source_doc": "Micronutrient supplementation in low-birth-weight and very-low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementation-lbw-infants",
+      "page": "1-3"
+    }
+  ]
+}

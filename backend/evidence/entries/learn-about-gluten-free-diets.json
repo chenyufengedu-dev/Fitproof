@@ -1,0 +1,162 @@
+{
+  "doc": "Learn about gluten-free diets",
+  "org": "美国国家医学图书馆 (MedlinePlus)",
+  "year": "2024",
+  "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+  "complete": true,
+  "done_windows": 2,
+  "count": 9,
+  "entries": [
+    {
+      "id": "E-learn-about--001",
+      "claim": "无麸质饮食是乳糜泻的主要治疗方法。",
+      "section": "Learn about gluten-free diets",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "乳糜泻",
+        "无麸质饮食",
+        "治疗"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--002",
+      "claim": "对于乳糜泻、麸质敏感或麸质不耐受者，无麸质饮食有助于调控并消除症状，并预防乳糜泻患者的健康问题。",
+      "section": "Reasons to Avoid Gluten",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "乳糜泻",
+        "麸质敏感",
+        "麸质不耐受",
+        "无麸质饮食"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--003",
+      "claim": "无麸质饮食对头痛、抑郁、慢性疲劳和体重增加等健康问题的改善作用未经证实。",
+      "section": "Reasons to Avoid Gluten",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "无麸质饮食",
+        "健康声称",
+        "未经证实"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--004",
+      "claim": "无麸质饮食若未搭配健康食物，则不会改善心脏健康；应替代以全谷物、水果和蔬菜。",
+      "section": "Health Benefits",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "无麸质饮食",
+        "心脏健康",
+        "全谷物"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--005",
+      "claim": "怀疑患有麸质相关疾病的人，在改变饮食前应咨询医疗提供者。",
+      "section": "Reasons to Avoid Gluten",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "麸质相关疾病",
+        "医疗咨询"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--006",
+      "claim": "无麸质饮食可导致体重下降，但有更简单的减重饮食。",
+      "section": "Reasons to Avoid Gluten",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "无麸质饮食",
+        "体重减轻"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--007",
+      "claim": "乳糜泻患者采用无麸质饮食后常因症状改善而体重增加。",
+      "section": "Reasons to Avoid Gluten",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "乳糜泻",
+        "体重增加"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--008",
+      "claim": "无麸质产品通常比其替代品含更多糖和热量，纤维更少。",
+      "section": "How it Works",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "无麸质产品",
+        "营养成分"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "1-3"
+    },
+    {
+      "id": "E-learn-about--009",
+      "claim": "如果出现麸质敏感或不耐受症状，应在进行乳糜泻检测后再决定是否停止摄入麸质。",
+      "section": "When to Call the Doctor",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "麸质",
+        "无麸质饮食",
+        "乳糜泻",
+        "检测"
+      ],
+      "source_doc": "Learn about gluten-free diets",
+      "org": "美国国家医学图书馆 (MedlinePlus)",
+      "year": "2024",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000813.htm",
+      "page": "4-6"
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2017",
+  "url": "https://www.who.int/publications/i/item/9789241550123",
+  "complete": true,
+  "done_windows": 30,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-guideline-as-001",
+      "claim": "5岁以下儿童在初级卫生保健机构就诊时应测量体重和身长/身高，以根据WHO儿童生长标准评估营养状况。",
+      "section": "Best practice statements",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "儿童",
+        "体重测量",
+        "身长测量",
+        "营养状况",
+        "WHO生长标准"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "16-18"
+    },
+    {
+      "id": "E-guideline-as-002",
+      "claim": "5岁以下儿童的照护者和家庭应在初级卫生保健机构接受一般营养咨询，包括促进和支持纯母乳喂养至6个月并继续母乳喂养至24个月或以上。",
+      "section": "Best practice statements",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "儿童",
+        "营养咨询",
+        "母乳喂养",
+        "婴幼儿"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "16-18"
+    },
+    {
+      "id": "E-guideline-as-003",
+      "claim": "不建议常规向初级卫生保健机构就诊的中度消瘦（急性营养不良）婴幼儿提供补充食品。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "中度消瘦",
+        "急性营养不良",
+        "婴幼儿"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "16-18"
+    },
+    {
+      "id": "E-guideline-as-004",
+      "claim": "不建议向初级卫生保健机构就诊的发育迟缓（慢性营养不良）婴幼儿提供补充食品进行治疗。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "发育迟缓",
+        "慢性营养不良",
+        "婴幼儿"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "16-18"
+    },
+    {
+      "id": "E-guideline-as-005",
+      "claim": "在初级卫生保健机构，卫生工作者应向5岁以下超重儿童的照护者提供营养咨询。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重儿童",
+        "营养咨询",
+        "初级卫生保健"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "16-18"
+    },
+    {
+      "id": "E-guideline-as-006",
+      "claim": "在初级卫生保健机构，健康工作者应为5岁以下超重儿童的看护人提供身体活动咨询。",
+      "section": "RECOMMENDATIONS",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重",
+        "儿童",
+        "身体活动",
+        "咨询"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-as-007",
+      "claim": "在初级卫生保健机构，5岁以下肥胖儿童应接受评估并制定适当管理计划，可由经过培训的初级卫生保健工作者或转诊机构完成。",
+      "section": "RECOMMENDATIONS",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "肥胖",
+        "儿童",
+        "评估",
+        "管理计划"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-as-008",
+      "claim": "不推荐仅为5岁以下发育迟缓儿童提供专项营养咨询。",
+      "section": "RECOMMENDATIONS",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "发育迟缓",
+        "营养咨询",
+        "儿童"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-as-009",
+      "claim": "所有5岁以下儿童在初级卫生保健机构就诊时，应同时测量体重和身长/身高，以根据WHO生长标准评估营养状况。",
+      "section": "最佳实践声明",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "儿童",
+        "营养评估",
+        "体重",
+        "身长",
+        "WHO生长标准"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-as-010",
+      "claim": "儿童中度急性营养不良的管理应包括母乳喂养推广和支持、家庭教育和营养咨询，以及改善食物不安全的活动。",
+      "section": "管理中度急性营养不良",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "中度急性营养不良",
+        "管理",
+        "母乳喂养",
+        "营养咨询",
+        "食物安全"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-as-011",
+      "claim": "仅使用年龄别体重来分类营养状况会导致显著错误，应结合身长/身高进行判断。",
+      "section": "营养分类",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "年龄别体重",
+        "营养分类",
+        "身长/身高",
+        "误分类"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-as-012",
+      "claim": "儿童早期到中期的体重/身长/BMI高与青少年和成人期肥胖、心血管疾病和糖尿病风险强相关。",
+      "section": "证据总结",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "儿童BMI",
+        "肥胖",
+        "心血管疾病",
+        "糖尿病",
+        "远期风险"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-as-013",
+      "claim": "中上臂围（MUAC）不能用于判断超重或肥胖，因为尚无有效界值。",
+      "section": "最佳实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "中上臂围",
+        "超重",
+        "肥胖",
+        "评估"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-as-014",
+      "claim": "对于在初级卫生保健机构就诊的5岁以下婴幼儿和儿童，照护者和家庭应接受一般营养咨询，包括在最初6个月促进和支持纯母乳喂养，并持续母乳喂养至24个月或更久。",
+      "section": "Best practice statement and Recommendation",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "营养咨询",
+        "母乳喂养",
+        "婴幼儿",
+        "初级卫生保健"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "37-39"
+    },
+    {
+      "id": "E-guideline-as-015",
+      "claim": "不建议常规向初级卫生保健机构就诊的中度消瘦婴幼儿和儿童提供补充食品。",
+      "section": "Best practice statement and Recommendation",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "消瘦",
+        "婴幼儿",
+        "初级卫生保健",
+        "不推荐"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "37-39"
+    },
+    {
+      "id": "E-guideline-as-016",
+      "claim": "不建议为治疗初级卫生保健机构就诊儿童的身材矮小而提供补充食品。",
+      "section": "Best practice statement and Recommendation",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "身材矮小",
+        "儿童",
+        "初级卫生保健",
+        "不推荐"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "37-39"
+    },
+    {
+      "id": "E-guideline-as-017",
+      "claim": "对于中度消瘦儿童，卫生工作者应向其看护者提供营养咨询。",
+      "section": "Counselling for moderate wasting and stunting",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "营养咨询",
+        "中度消瘦",
+        "儿童",
+        "看护者"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "40-42"
+    },
+    {
+      "id": "E-guideline-as-018",
+      "claim": "在中度消瘦儿童中，不推荐常规提供补充食品，但在当地食物不安全的情况下可考虑例外。",
+      "section": "Supplementary foods for moderate wasting",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "中度消瘦",
+        "儿童",
+        "食物安全"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "40-42"
+    },
+    {
+      "id": "E-guideline-as-019",
+      "claim": "在发育迟缓儿童中，不推荐提供补充食品。",
+      "section": "Supplementary foods for stunting",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "补充食品",
+        "发育迟缓",
+        "儿童"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "40-42"
+    },
+    {
+      "id": "E-guideline-as-020",
+      "claim": "在基层卫生机构，卫生工作者应向5岁以下超重儿童的看护人提供一般营养咨询。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重",
+        "5岁以下",
+        "营养咨询",
+        "基层卫生"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "43-45"
+    },
+    {
+      "id": "E-guideline-as-021",
+      "claim": "在基层卫生机构，卫生工作者应向5岁以下超重儿童的看护人提供身体活动咨询。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重",
+        "5岁以下",
+        "身体活动咨询",
+        "基层卫生"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "43-45"
+    },
+    {
+      "id": "E-guideline-as-022",
+      "claim": "对于5岁以下被识别为肥胖的儿童，应进行评估并制定适当的管理计划，可由经过培训的基层卫生工作者或在转诊诊所或当地医院进行。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "肥胖",
+        "5岁以下",
+        "评估",
+        "管理",
+        "转诊"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "43-45"
+    },
+    {
+      "id": "E-guideline-as-023",
+      "claim": "Counselling on physical activity has benefits for all children, including those with nutrition problems.",
+      "section": "Physical-activity counselling of caregivers of children who are overweight or obese",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "physical activity",
+        "counselling",
+        "children",
+        "overweight"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "46-48"
+    },
+    {
+      "id": "E-guideline-as-024",
+      "claim": "All obese children and their caregivers should be assessed and a comprehensive care plan should be developed to address underlying risk factors, promote weight reduction and healthy practices, and provide psychosocial support.",
+      "section": "Referral of infants and children who are obese",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "obese children",
+        "assessment",
+        "care plan",
+        "weight reduction",
+        "psychosocial support"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "46-48"
+    },
+    {
+      "id": "E-guideline-as-025",
+      "claim": "The content of counselling packages for both nutrition and physical activity should reflect local dietary practices and food availability.",
+      "section": "Implementation considerations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "counselling",
+        "nutrition",
+        "physical activity",
+        "local dietary practices"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "46-48"
+    },
+    {
+      "id": "E-guideline-as-026",
+      "claim": "Staff at primary health-care facilities need to be trained to assess weight and length/height and how to determine weight-for-length/height.",
+      "section": "Implementation considerations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "staff training",
+        "weight assessment",
+        "height assessment",
+        "primary health-care"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "46-48"
+    },
+    {
+      "id": "E-guideline-as-027",
+      "claim": "Referral systems for children with obesity should be clarified when the recommendation is being implemented at primary health-care facilities.",
+      "section": "Implementation considerations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "referral systems",
+        "obesity",
+        "primary health-care",
+        "implementation"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "46-48"
+    },
+    {
+      "id": "E-guideline-as-028",
+      "claim": "对于超重或肥胖的儿童，初级卫生保健工作者应向其看护人提供营养咨询。",
+      "section": "超重或肥胖儿童的管理",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重",
+        "肥胖",
+        "营养咨询",
+        "儿童"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "76-78"
+    },
+    {
+      "id": "E-guideline-as-029",
+      "claim": "对于超重或肥胖的儿童，初级卫生保健工作者应向其看护人提供身体活动咨询。",
+      "section": "超重或肥胖儿童的管理",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "超重",
+        "肥胖",
+        "身体活动咨询",
+        "儿童"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "76-78"
+    },
+    {
+      "id": "E-guideline-as-030",
+      "claim": "对于肥胖的儿童，初级卫生保健工作者应将其转诊至相关服务。",
+      "section": "超重或肥胖儿童的管理",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "肥胖",
+        "转诊",
+        "儿童"
+      ],
+      "source_doc": "Guideline: assessing and managing children at primary health-care facilities to prevent overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/publications/i/item/9789241550123",
+      "page": "76-78"
+    }
+  ]
+}

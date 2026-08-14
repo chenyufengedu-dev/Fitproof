@@ -1,0 +1,49 @@
+{
+  "doc": "Identification of severe acute malnutrition in infants under 6 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sam-identification-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-identificati-001",
+      "claim": "6个月以下婴儿严重急性营养不良定义为身长别体重低于WHO儿童生长标准中位数-3个Z评分或存在双侧凹陷性水肿。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "婴儿",
+        "诊断标准",
+        "身长别体重",
+        "水肿"
+      ],
+      "source_doc": "Identification of severe acute malnutrition in infants under 6 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-identification-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-identificati-002",
+      "claim": "6个月以下严重急性营养不良婴儿若出现任何并发症因素（如严重临床状况、近期体重下降、喂养无效、任何水肿、需详细评估的医学或社会问题）应住院治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "婴儿",
+        "住院指征",
+        "并发症",
+        "管理"
+      ],
+      "source_doc": "Identification of severe acute malnutrition in infants under 6 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-identification-infants",
+      "page": "1-3"
+    }
+  ]
+}

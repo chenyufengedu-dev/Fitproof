@@ -1,0 +1,139 @@
+{
+  "doc": "用药方法有讲究",
+  "org": "国家药品监督管理局 (NMPA)",
+  "year": "2019",
+  "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-用药方法有讲究-001",
+      "claim": "普通片剂应整片或擀开用水送服。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "普通片剂",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-002",
+      "claim": "咀嚼片应嚼碎后吞服。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "咀嚼片",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-003",
+      "claim": "口服滴剂应用滴管量取后直接服用。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服滴剂",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-004",
+      "claim": "口服溶液可直接服用或用水送服。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服溶液",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-005",
+      "claim": "混悬液应摇匀后服用。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "混悬液",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-006",
+      "claim": "干混悬剂应用温水调成混悬液后服用。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "干混悬剂",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-007",
+      "claim": "颗粒剂应加温水溶解后服用。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "颗粒剂",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    },
+    {
+      "id": "E-用药方法有讲究-008",
+      "claim": "泡腾片应放入水中溶解后服用。",
+      "section": "药物剂型服用方法",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "泡腾片",
+        "服用方法"
+      ],
+      "source_doc": "用药方法有讲究",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa////xxgk/kpzhsh/kpzhshyp/20191022093201506.html",
+      "page": "2-2"
+    }
+  ]
+}

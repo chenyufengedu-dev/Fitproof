@@ -1,0 +1,136 @@
+{
+  "doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2012",
+  "url": "https://www.who.int/publications/i/item/9789241501996",
+  "complete": true,
+  "done_windows": 11,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-guideline-da-001",
+      "claim": "孕妇每日口服铁和叶酸补充剂可作为产前保健的一部分，以降低低出生体重、母亲贫血和缺铁的风险。",
+      "section": "Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "叶酸补充",
+        "孕妇",
+        "贫血",
+        "低出生体重"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "4-6"
+    },
+    {
+      "id": "E-guideline-da-002",
+      "claim": "孕期每日口服铁和叶酸补充剂可降低低出生体重、母体贫血和铁缺乏的风险",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "叶酸补充",
+        "低出生体重",
+        "孕妇贫血",
+        "产前保健"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-da-003",
+      "claim": "孕期每日补铁可使新生儿低出生体重风险降低约19%",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "低出生体重",
+        "相对风险"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-da-004",
+      "claim": "孕期每日补铁可使孕妇足月贫血风险降低70%",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "孕妇贫血",
+        "相对风险"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-da-005",
+      "claim": "在孕妇贫血患病率≥40%的严重公共卫生问题地区，优先采用每日60 mg元素铁的补充剂量",
+      "section": "Table 1 Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "剂量选择",
+        "贫血严重地区"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-da-006",
+      "claim": "妊娠第一个月后开始补充叶酸不能预防神经管缺陷",
+      "section": "Table 1 Remarks",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸补充",
+        "神经管缺陷",
+        "补充时机"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "7-9"
+    },
+    {
+      "id": "E-guideline-da-007",
+      "claim": "孕期每日补充铁和叶酸有助于预防重要的健康问题，其益处远大于危害。",
+      "section": "Summary of the considerations by the Nutrition Guidance Expert Advisory Group for determining the strength of the recommendation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "叶酸",
+        "妊娠",
+        "贫血",
+        "健康问题"
+      ],
+      "source_doc": "Guideline: Daily iron and folic acid supplementation in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2012",
+      "url": "https://www.who.int/publications/i/item/9789241501996",
+      "page": "19-21"
+    }
+  ]
+}

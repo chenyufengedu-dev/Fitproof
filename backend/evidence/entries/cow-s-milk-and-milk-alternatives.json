@@ -1,0 +1,132 @@
+{
+  "doc": "Cow's Milk and Milk Alternatives",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-cow-s-milk-a-001",
+      "claim": "可在12个月大时（而非之前）给孩子引入全脂牛奶。",
+      "section": "When to introduce cow's milk to your child",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "牛奶引入",
+        "婴儿",
+        "全脂牛奶",
+        "12个月"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-002",
+      "claim": "全脂牛奶或强化乳制品替代品可从12个月起纳入孩子的均衡多样化饮食，但不能替代食物。",
+      "section": "How much and how often",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "全脂牛奶",
+        "强化乳制品替代品",
+        "均衡饮食",
+        "12个月"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-003",
+      "claim": "12-23个月儿童每天需要约2份乳制品。",
+      "section": "How much and how often",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "乳制品摄入量",
+        "12-23个月",
+        "每日2份"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-004",
+      "claim": "不要给孩子生牛奶或未经巴氏消毒的牛奶。",
+      "section": "Raw or unpasteurized milk",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "生牛奶",
+        "未经巴氏消毒",
+        "儿童安全"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-005",
+      "claim": "强化乳制品替代品是唯一有助于满足儿童推荐乳制品需求的牛奶替代品，且不应在12个月前给予。",
+      "section": "Fortified dairy alternatives",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "强化乳制品替代品",
+        "牛奶替代品",
+        "12个月"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-006",
+      "claim": "应选择无味、不加糖的牛奶或强化乳制品替代品；孩子不需要添加糖。",
+      "section": "Avoid added sugars",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "添加糖",
+        "无糖",
+        "儿童饮食"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-cow-s-milk-a-007",
+      "claim": "应选择强化维生素D和钙的乳制品替代品。",
+      "section": "Fortified dairy alternatives",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "钙",
+        "强化乳制品替代品"
+      ],
+      "source_doc": "Cow's Milk and Milk Alternatives",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "page": "1-2"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc": "Identification of severe acute malnutrition requiring inpatient care in children 6–59 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sam-identification-inpatient",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-identificati-001",
+      "claim": "6-59月龄重度急性营养不良儿童，若食欲良好（通过食欲测试）、临床状况良好且警觉，应作为门诊患者治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "重度急性营养不良",
+        "儿童",
+        "门诊治疗",
+        "食欲测试"
+      ],
+      "source_doc": "Identification of severe acute malnutrition requiring inpatient care in children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-identification-inpatient",
+      "page": "1-3"
+    },
+    {
+      "id": "E-identificati-002",
+      "claim": "6-59月龄重度急性营养不良儿童，若出现医疗并发症、严重水肿（+++）、食欲差（未通过食欲测试）或存在一项及以上IMCI危险体征，应作为住院患者治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "重度急性营养不良",
+        "儿童",
+        "住院治疗",
+        "医疗并发症",
+        "水肿"
+      ],
+      "source_doc": "Identification of severe acute malnutrition requiring inpatient care in children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-identification-inpatient",
+      "page": "1-3"
+    },
+    {
+      "id": "E-identificati-003",
+      "claim": "6-59月龄重度急性营养不良住院儿童，当医疗并发症（包括水肿）消退、食欲良好、临床状况良好且警觉时，可转至门诊继续治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "重度急性营养不良",
+        "儿童",
+        "住院转门诊",
+        "出院标准"
+      ],
+      "source_doc": "Identification of severe acute malnutrition requiring inpatient care in children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-identification-inpatient",
+      "page": "1-3"
+    }
+  ]
+}

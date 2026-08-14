@@ -1,0 +1,137 @@
+{
+  "doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2024",
+  "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+  "complete": true,
+  "done_windows": 3,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-intravenous--001",
+      "claim": "美国FDA未批准静脉注射维生素C用于治疗癌症",
+      "section": "Overview",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "静脉注射",
+        "癌症",
+        "FDA"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intravenous--002",
+      "claim": "静脉注射维生素C可能对肾病患者、G6PD缺乏症或血色病患者造成严重副作用",
+      "section": "5. Have any side effects or risks been reported from IV vitamin C?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "静脉注射",
+        "副作用",
+        "肾疾病",
+        "G6PD缺乏症",
+        "血色病"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intravenous--003",
+      "claim": "易患肾结石者不应接受静脉注射维生素C治疗",
+      "section": "5. Have any side effects or risks been reported from IV vitamin C?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "静脉注射",
+        "肾结石",
+        "禁忌"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intravenous--004",
+      "claim": "G6PD缺乏症患者不应使用高剂量维生素C，因其可能导致溶血",
+      "section": "5. Have any side effects or risks been reported from IV vitamin C?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "G6PD缺乏症",
+        "溶血",
+        "禁忌"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intravenous--005",
+      "claim": "血色病患者不推荐使用高剂量维生素C",
+      "section": "5. Have any side effects or risks been reported from IV vitamin C?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "血色病",
+        "高铁",
+        "禁忌"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intravenous--006",
+      "claim": "静脉注射维生素C与某些抗癌药联用时，可能会降低抗癌药的效果，但此效应仅见于实验室和动物研究。",
+      "section": "Have any drug interactions been reported from adding IV vitamin C to treatment with anticancer drugs?",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "药物相互作用",
+        "抗癌药"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intravenous--007",
+      "claim": "美国FDA未批准静脉注射维生素C用于癌症治疗。",
+      "section": "Is IV vitamin C approved by the FDA for use as a cancer treatment in the United States?",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "维生素C",
+        "FDA批准",
+        "癌症治疗"
+      ],
+      "source_doc": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "page": "4-6"
+    }
+  ]
+}

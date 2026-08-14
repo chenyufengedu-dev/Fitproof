@@ -1,0 +1,29 @@
+{
+  "doc": "Zinc supplementation in the management of diarrhoea",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/zinc-diarrhoea",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-zinc-supplem-001",
+      "claim": "对于腹泻儿童，应补充锌，20mg/天（6个月以下婴儿10mg/天），持续10-14天。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "锌补充",
+        "腹泻",
+        "儿童",
+        "WHO指南"
+      ],
+      "source_doc": "Zinc supplementation in the management of diarrhoea",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/zinc-diarrhoea",
+      "page": "1-3"
+    }
+  ]
+}

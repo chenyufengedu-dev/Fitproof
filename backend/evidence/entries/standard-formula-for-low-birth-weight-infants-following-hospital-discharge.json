@@ -1,0 +1,29 @@
+{
+  "doc": "Standard formula for low-birth-weight infants following hospital discharge",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/formula-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-standard-for-001",
+      "claim": "低出生体重婴儿在出院后至6月龄期间，若不能获得母乳或捐赠人乳，应使用标准婴儿配方奶。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "标准婴儿配方奶",
+        "出院后喂养",
+        "母乳替代"
+      ],
+      "source_doc": "Standard formula for low-birth-weight infants following hospital discharge",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/formula-infants",
+      "page": "1-3"
+    }
+  ]
+}

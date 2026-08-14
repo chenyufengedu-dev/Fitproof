@@ -1,0 +1,324 @@
+{
+  "doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+  "org": "美国预防服务工作组 (USPSTF)",
+  "year": "2024",
+  "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+  "complete": true,
+  "done_windows": 5,
+  "count": 17,
+  "entries": [
+    {
+      "id": "E-vitamin-d-ca-001",
+      "claim": "社区居住的绝经后女性不应每日补充400 IU或更少的维生素D和1000 mg或更少的钙来预防骨折。",
+      "section": "Recommendation Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "绝经后女性"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-ca-002",
+      "claim": "对于男性和绝经前女性，每日补充维生素D和钙（单独或联合）来预防骨折的获益和危害证据不足，无法做出推荐。",
+      "section": "Recommendation Summary",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "男性",
+        "绝经前女性"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-ca-003",
+      "claim": "对于社区居住的绝经后女性，每日补充超过400 IU维生素D和超过1000 mg钙来预防骨折的获益和危害证据不足，无法做出推荐。",
+      "section": "Recommendation Summary",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "绝经后女性",
+        "高剂量"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-ca-004",
+      "claim": "USPSTF建议反对65岁及以上社区居住的成年人补充维生素D来预防跌倒。",
+      "section": "Other Relevant USPSTF Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "跌倒预防",
+        "老年人"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-ca-005",
+      "claim": "社区居住的绝经后女性每日补充维生素D 400 IU或更少及钙1000 mg或更少，对于骨折的一级预防没有净获益。",
+      "section": "USPSTF Assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "绝经后女性"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-ca-006",
+      "claim": "对于社区居住的绝经后女性，每日补充维生素D超过400 IU或钙超过1000 mg的骨折预防效果证据不足，利弊无法确定。",
+      "section": "USPSTF Assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "绝经后女性",
+        "高剂量"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-ca-007",
+      "claim": "对于男性和绝经前女性，维生素D和钙补充（单独或联合）对骨折预防的效果证据不足，利弊无法确定。",
+      "section": "USPSTF Assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折预防",
+        "男性",
+        "绝经前女性"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-ca-008",
+      "claim": "补充维生素D和钙会增加肾结石的发生风险。",
+      "section": "Harms of Preventive Medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "肾结石",
+        "危害"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-ca-009",
+      "claim": "社区居住的老年人不应补充维生素D以预防跌倒。",
+      "section": "Other Approaches to Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "跌倒预防",
+        "老年人"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-ca-010",
+      "claim": "对于社区居住的绝经后女性，每日补充400 IU或更少的维生素D和1000 mg或更少的钙对骨折的初级预防没有净获益。",
+      "section": "Estimate of Magnitude of Net Benefit",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折",
+        "绝经后女性",
+        "初级预防"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-ca-011",
+      "claim": "对于社区居住的男性和绝经前女性，关于维生素D、钙或联合补充预防骨折的净获益证据不足。",
+      "section": "Estimate of Magnitude of Net Benefit",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折",
+        "男性",
+        "绝经前女性",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-ca-012",
+      "claim": "联合补充维生素D和钙（每日400 IU维生素D和1000 mg钙）会增加肾结石的风险。",
+      "section": "Potential Harms of Preventive Medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "肾结石",
+        "联合补充",
+        "危害"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-ca-013",
+      "claim": "The USPSTF recommends against low-dose vitamin D and calcium supplementation for the primary prevention of fractures in community-dwelling adults.",
+      "section": "Update of Previous USPSTF Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "骨折",
+        "低剂量补充",
+        "USPSTF"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "10-12"
+    },
+    {
+      "id": "E-vitamin-d-ca-014",
+      "claim": "The evidence is insufficient to recommend for or against high-dose vitamin D or calcium supplementation for fracture prevention.",
+      "section": "Update of Previous USPSTF Recommendation",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "高剂量",
+        "骨折",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "10-12"
+    },
+    {
+      "id": "E-vitamin-d-ca-015",
+      "claim": "The USPSTF does not make a recommendation for calcium supplementation alone due to limited evidence.",
+      "section": "Update of Previous USPSTF Recommendation",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "钙",
+        "单独补充",
+        "骨折",
+        "USPSTF"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "10-12"
+    },
+    {
+      "id": "E-vitamin-d-ca-016",
+      "claim": "Combined vitamin D and calcium supplementation increases the risk of kidney stones.",
+      "section": "Evidence Summary",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "钙",
+        "肾结石",
+        "不良反应"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "10-12"
+    },
+    {
+      "id": "E-vitamin-d-ca-017",
+      "claim": "Vitamin D supplementation does not increase the incidence of cardiovascular disease.",
+      "section": "Evidence Summary",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "心血管疾病",
+        "安全性"
+      ],
+      "source_doc": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2024",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication#fullrecommendationstart",
+      "page": "10-12"
+    }
+  ]
+}

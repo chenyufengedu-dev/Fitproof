@@ -1,0 +1,100 @@
+{
+  "doc": "About Herbs: Dandelion",
+  "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+  "year": "2024",
+  "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+  "complete": true,
+  "done_windows": 3,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-about-herbs--001",
+      "claim": "Dandelion is generally safe to use in food and tea.",
+      "section": "What are the potential uses and benefits?",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "dandelion",
+        "safety",
+        "food",
+        "tea"
+      ],
+      "source_doc": "About Herbs: Dandelion",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2024",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+      "page": "1-3"
+    },
+    {
+      "id": "E-about-herbs--002",
+      "claim": "Taking dandelion supplements or higher amounts should be discussed with a healthcare provider.",
+      "section": "What are the potential uses and benefits?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "dandelion",
+        "supplements",
+        "safety",
+        "healthcare provider"
+      ],
+      "source_doc": "About Herbs: Dandelion",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2024",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+      "page": "1-3"
+    },
+    {
+      "id": "E-about-herbs--003",
+      "claim": "同时使用蒲公英和利尿剂可能因叠加效应增加利尿作用。",
+      "section": "Herb-Drug Interactions",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "蒲公英",
+        "利尿剂",
+        "药物相互作用"
+      ],
+      "source_doc": "About Herbs: Dandelion",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2024",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+      "page": "4-6"
+    },
+    {
+      "id": "E-about-herbs--004",
+      "claim": "同时使用蒲公英和降糖药可能因叠加效应增加低血糖风险。",
+      "section": "Herb-Drug Interactions",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "蒲公英",
+        "降糖药",
+        "低血糖",
+        "药物相互作用"
+      ],
+      "source_doc": "About Herbs: Dandelion",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2024",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+      "page": "4-6"
+    },
+    {
+      "id": "E-about-herbs--005",
+      "claim": "蒲公英抑制CYP3A4活性，可能升高经该酶代谢的药物（如免疫抑制剂）的血药浓度，增加毒性风险。",
+      "section": "Herb-Drug Interactions",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "蒲公英",
+        "CYP3A4",
+        "药物相互作用",
+        "免疫抑制剂"
+      ],
+      "source_doc": "About Herbs: Dandelion",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2024",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dandelion",
+      "page": "4-6"
+    }
+  ]
+}

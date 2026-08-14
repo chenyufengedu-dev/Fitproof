@@ -1,0 +1,81 @@
+{
+  "doc": "Weight Gain During Pregnancy",
+  "org": "美国妇产科医师学会 (ACOG)",
+  "year": "2013",
+  "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/01/weight-gain-during-pregnancy",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-weight-gain--001",
+      "claim": "在初次产检时应测定孕妇BMI，并咨询适当体重增加、营养和运动，尤其需要限制过度体重增加以获得最佳妊娠结局。",
+      "section": "Conclusions and Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "BMI",
+        "妊娠期体重增加",
+        "营养",
+        "运动"
+      ],
+      "source_doc": "Weight Gain During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2013",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/01/weight-gain-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-weight-gain--002",
+      "claim": "超重孕妇（BMI 25-29.9）的妊娠期体重增加推荐范围为15-25磅（6.8-11.3 kg）。",
+      "section": "Overweight Women",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "超重",
+        "妊娠期体重增加",
+        "IOM指南"
+      ],
+      "source_doc": "Weight Gain During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2013",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/01/weight-gain-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-weight-gain--003",
+      "claim": "肥胖孕妇（BMI≥30）的妊娠期体重增加推荐范围为11-20磅（5-9.1 kg），且未按肥胖程度细分。",
+      "section": "Obese Women",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "肥胖",
+        "妊娠期体重增加",
+        "IOM指南"
+      ],
+      "source_doc": "Weight Gain During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2013",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/01/weight-gain-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-weight-gain--004",
+      "claim": "对于超重或肥胖的孕妇，如果增重低于IOM推荐但胎儿生长适当，没有证据表明鼓励增加体重至推荐范围可改善母儿结局。",
+      "section": "Conclusions and Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "超重",
+        "肥胖",
+        "妊娠期体重增加",
+        "胎儿生长"
+      ],
+      "source_doc": "Weight Gain During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2013",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/01/weight-gain-during-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "doc": "Preventing and Managing Common Cold",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+  "complete": true,
+  "done_windows": 1,
+  "count": 10,
+  "entries": [
+    {
+      "id": "E-preventing-a-001",
+      "claim": "抗生素对感冒病毒无效，不会缓解症状或帮助恢复。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "抗生素",
+        "感冒",
+        "病毒性感染"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-002",
+      "claim": "感冒会自行好转，无需抗生素治疗。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "感冒",
+        "自愈",
+        "抗生素"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-003",
+      "claim": "感冒症状通常在感染后2-3天达到高峰，流鼻涕或咳嗽可持续10-14天，并随时间改善。",
+      "section": "Symptoms",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "感冒症状",
+        "持续时间",
+        "自然病程"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-004",
+      "claim": "如果出现呼吸困难、脱水、发烧超过4天、症状超过10天无改善或恶化、或基础疾病加重，应就医。",
+      "section": "When to Seek Medical Care",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "就医指征",
+        "感冒并发症",
+        "严重症状"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-005",
+      "claim": "6个月以下儿童发热时应只使用对乙酰氨基酚；6个月以上可使用对乙酰氨基酚或布洛芬。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童发热",
+        "对乙酰氨基酚",
+        "布洛芬",
+        "止痛药"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-006",
+      "claim": "不应给儿童服用阿司匹林，因为它可能引起瑞氏综合征。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "阿司匹林",
+        "瑞氏综合征",
+        "儿童用药安全"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-007",
+      "claim": "非处方止咳感冒药不推荐用于6岁以下儿童，可能导致严重副作用。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "止咳药",
+        "感冒药",
+        "儿童",
+        "OTC"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-008",
+      "claim": "蜂蜜可用于缓解1岁及以上成人和儿童的咳嗽。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "蜂蜜",
+        "咳嗽",
+        "儿童",
+        "家庭疗法"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-009",
+      "claim": "喉含片或止咳滴剂不应用于4岁以下儿童。",
+      "section": "Treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "喉含片",
+        "儿童",
+        "安全"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-preventing-a-010",
+      "claim": "CDC推荐所有人采取核心预防措施：及时接种疫苗、保持良好卫生、清洁空气、在患病时采取防护。",
+      "section": "Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "预防",
+        "疫苗接种",
+        "卫生",
+        "空气清洁",
+        "呼吸道病毒"
+      ],
+      "source_doc": "Preventing and Managing Common Cold",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf",
+      "page": "1-2"
+    }
+  ]
+}

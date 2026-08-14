@@ -1,0 +1,47 @@
+{
+  "doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-postpartum-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-iron-supplem-001",
+      "claim": "在妊娠期贫血为公共卫生问题的地区，产后妇女应补充口服铁剂（单用或联用叶酸）6-12周以降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "产后贫血",
+        "补铁",
+        "叶酸",
+        "公共卫生"
+      ],
+      "source_doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-postpartum-malaria",
+      "page": "1-3"
+    },
+    {
+      "id": "E-iron-supplem-002",
+      "claim": "在疟疾流行区，补充铁和叶酸时应同时实施疟疾预防、诊断和治疗措施，且在使用磺胺多辛-乙胺嘧啶时应避免高剂量叶酸。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "疟疾",
+        "补铁",
+        "叶酸",
+        "药物相互作用"
+      ],
+      "source_doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-postpartum-malaria",
+      "page": "1-3"
+    }
+  ]
+}

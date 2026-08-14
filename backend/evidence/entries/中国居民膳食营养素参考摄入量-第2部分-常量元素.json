@@ -1,0 +1,81 @@
+{
+  "doc": "中国居民膳食营养素参考摄入量 第2部分：常量元素",
+  "org": "国家卫生健康委员会 (NHC)",
+  "year": "2018",
+  "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113247253.pdf",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-中国居民膳食营养素参考摄-001",
+      "claim": "长期缺钙可致儿童佝偻病和中老年人骨质软化症",
+      "section": "3.7 钙",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "佝偻病",
+        "骨质软化症",
+        "缺乏"
+      ],
+      "source_doc": "中国居民膳食营养素参考摄入量 第2部分：常量元素",
+      "org": "国家卫生健康委员会 (NHC)",
+      "year": "2018",
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113247253.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-中国居民膳食营养素参考摄-002",
+      "claim": "长期钙摄入过量可增加肾结石风险",
+      "section": "3.7 钙",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "过量",
+        "肾结石"
+      ],
+      "source_doc": "中国居民膳食营养素参考摄入量 第2部分：常量元素",
+      "org": "国家卫生健康委员会 (NHC)",
+      "year": "2018",
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113247253.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-中国居民膳食营养素参考摄-003",
+      "claim": "钠摄入过多是高血压的原因之一",
+      "section": "3.11 钠",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钠",
+        "高血压",
+        "摄入过多"
+      ],
+      "source_doc": "中国居民膳食营养素参考摄入量 第2部分：常量元素",
+      "org": "国家卫生健康委员会 (NHC)",
+      "year": "2018",
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113247253.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-中国居民膳食营养素参考摄-004",
+      "claim": "18～49岁成人每日钙的推荐摄入量为800毫克",
+      "section": "4 中国居民膳食常量元素参考摄入量",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "推荐摄入量",
+        "成人",
+        "RNI"
+      ],
+      "source_doc": "中国居民膳食营养素参考摄入量 第2部分：常量元素",
+      "org": "国家卫生健康委员会 (NHC)",
+      "year": "2018",
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113247253.pdf",
+      "page": "4-6"
+    }
+  ]
+}

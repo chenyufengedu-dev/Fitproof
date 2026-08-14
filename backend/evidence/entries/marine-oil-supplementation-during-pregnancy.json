@@ -1,0 +1,30 @@
+{
+  "doc": "Marine oil supplementation during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/fish-oil-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-marine-oil-s-001",
+      "claim": "目前证据不足以推荐孕期补充海洋油",
+      "section": "WHO Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "WHO营养干预",
+        "孕期",
+        "海洋油",
+        "n-3脂肪酸",
+        "早产",
+        "出生体重"
+      ],
+      "source_doc": "Marine oil supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/fish-oil-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

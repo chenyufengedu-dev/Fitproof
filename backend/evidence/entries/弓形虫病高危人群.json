@@ -1,0 +1,116 @@
+{
+  "doc": "弓形虫病高危人群",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-弓形虫病高危人群-001",
+      "claim": "孕妇感染弓形虫后仍可母乳喂养宝宝，因为弓形虫不会通过母乳在人与人之间传播。",
+      "section": "孕妇及其婴儿",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "母乳喂养",
+        "孕妇"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-弓形虫病高危人群-002",
+      "claim": "免疫功能低下人群应咨询医疗保健提供者并进行血液检查以确定是否曾感染弓形虫。",
+      "section": "免疫功能低下的人群",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "免疫功能低下",
+        "血液检查"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-弓形虫病高危人群-003",
+      "claim": "严重免疫功能低下者可由医疗保健提供者开具预防性药物预防弓形虫病。",
+      "section": "预防",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "预防性药物",
+        "免疫功能低下"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-弓形虫病高危人群-004",
+      "claim": "孕妇或免疫功能低下者应让他人帮忙更换猫砂；若必须亲自操作，需戴一次性手套并用肥皂和水洗手。",
+      "section": "预防",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "猫砂",
+        "孕妇",
+        "免疫功能低下"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-弓形虫病高危人群-005",
+      "claim": "为防止猫感染弓形虫，应将其养在室内，并喂食市售干粮或罐头食品，避免喂生肉或未煮熟的肉。",
+      "section": "预防",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "猫",
+        "室内饲养",
+        "猫粮"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-弓形虫病高危人群-006",
+      "claim": "孕妇或免疫功能低下者不应收养或接触流浪猫（尤其是幼猫），也不应在该时期饲养新猫。",
+      "section": "预防",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "流浪猫",
+        "孕妇",
+        "免疫功能低下"
+      ],
+      "source_doc": "弓形虫病高危人群",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/risk-factors/index.html",
+      "page": "1-2"
+    }
+  ]
+}

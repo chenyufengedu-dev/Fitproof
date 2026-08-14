@@ -1,0 +1,524 @@
+{
+  "doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+  "org": "营养综述 (Nutrition Reviews)",
+  "year": "2025",
+  "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+  "complete": true,
+  "done_windows": 7,
+  "count": 29,
+  "entries": [
+    {
+      "id": "E-current-evid-001",
+      "claim": "目前没有循证的营养治疗或营养补充剂对脂肪水肿患者有效。",
+      "section": "INTRODUCTION",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "营养治疗",
+        "营养补充剂",
+        "循证"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "1-3"
+    },
+    {
+      "id": "E-current-evid-002",
+      "claim": "减重手术不能减少脂肪水肿的局部脂肪堆积或脂肪细胞肥大，也不能缓解疼痛症状。",
+      "section": "INTRODUCTION",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "减重手术",
+        "局部脂肪",
+        "疼痛"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "1-3"
+    },
+    {
+      "id": "E-current-evid-003",
+      "claim": "减肥手术不能治愈脂水肿或缓解其相关疼痛。",
+      "section": "Bariatric Surgery",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "脂水肿",
+        "减肥手术",
+        "治疗"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "4-6"
+    },
+    {
+      "id": "E-current-evid-004",
+      "claim": "目前没有经过证实的营养治疗方法可以治愈脂水肿。",
+      "section": "Nutritional Strategies for Lipedema",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "脂水肿",
+        "营养治疗",
+        "证据"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "4-6"
+    },
+    {
+      "id": "E-current-evid-005",
+      "claim": "推荐在脂水肿治疗中使用omega-3脂肪酸和维生素C补充剂。",
+      "section": "Nutritional Strategies for Lipedema",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂水肿",
+        "omega-3脂肪酸",
+        "维生素C",
+        "补充剂"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "4-6"
+    },
+    {
+      "id": "E-current-evid-006",
+      "claim": "心理社会支持应作为脂水肿治疗计划的一部分。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂水肿",
+        "心理社会支持",
+        "治疗"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "4-6"
+    },
+    {
+      "id": "E-current-evid-007",
+      "claim": "生酮饮食（必要时低热量）可推荐用于脂水肿患者，因其具有减重、抗炎和减轻症状的作用。",
+      "section": "S2k Guideline (German Society of Phlebology and Lymphology)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "生酮饮食",
+        "脂水肿",
+        "减重",
+        "抗炎"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "7-9"
+    },
+    {
+      "id": "E-current-evid-008",
+      "claim": "美国标准护理指南推荐脂水肿患者采用植物性、低碳水化合物饮食。",
+      "section": "US Standard Care Guideline for Lipedema",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "植物性饮食",
+        "低碳水化合物",
+        "脂水肿",
+        "营养治疗"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "7-9"
+    },
+    {
+      "id": "E-current-evid-009",
+      "claim": "当脂水肿患者同时合并肥胖并考虑减肥手术时，仅当饮食和运动失败、BMI超过40 kg/m²且患者已知晓术后疼痛可能持续时，才应进行手术。",
+      "section": "Bariatric Surgery and Medical Nutritional Therapy",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "减肥手术",
+        "脂水肿",
+        "肥胖",
+        "BMI",
+        "手术适应症"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "7-9"
+    },
+    {
+      "id": "E-current-evid-010",
+      "claim": "对于脂肪水肿患者，可根据需要推荐低热量地中海饮食，因其抗炎特性（100%共识）",
+      "section": "Other Dietary Patterns",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "地中海饮食",
+        "抗炎",
+        "低热量"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "10-12"
+    },
+    {
+      "id": "E-current-evid-011",
+      "claim": "意大利内分泌学会建议，即使在少肌性肥胖患者中也可使用极低热量生酮饮食，无需担心瘦体重丢失",
+      "section": "The Very Low-Calorie Ketogenic Diet",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "极低热量生酮饮食",
+        "少肌性肥胖",
+        "瘦体重",
+        "意大利内分泌学会"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "10-12"
+    },
+    {
+      "id": "E-current-evid-012",
+      "claim": "无麸质饮食不应推荐给没有合并麸质相关疾病的脂肿患者。",
+      "section": "Inflammatory Processes Associated With Food Intolerances",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "无麸质饮食",
+        "麸质敏感",
+        "标准护理指南"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-013",
+      "claim": "脂肿诊断本身不需要排除任何食物或食物组。",
+      "section": "Inflammatory Processes Associated With Food Intolerances",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "饮食限制",
+        "食物排除"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-014",
+      "claim": "推荐脂肿患者补充维生素B12 500-1000微克/日。",
+      "section": "Dietary Supplements in the Management of Lipedema",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "维生素B12",
+        "神经病理性疼痛"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-015",
+      "claim": "推荐脂肿患者每日摄入至少1克DHA和EPA以缓解炎症和疼痛。",
+      "section": "Dietary Supplements in the Management of Lipedema",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "欧米伽-3",
+        "DHA",
+        "EPA",
+        "炎症"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-016",
+      "claim": "推荐脂肿患者每日摄入100-150毫克多酚（如通过地中海饮食）。",
+      "section": "Dietary Supplements in the Management of Lipedema",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "多酚",
+        "地中海饮食",
+        "炎症"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-017",
+      "claim": "进行生酮饮食的脂肿患者应监测维生素D和钙水平。",
+      "section": "Diet-related micronutrient deficiencies and supplements",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "生酮饮食",
+        "维生素D",
+        "钙",
+        "微量营养素"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-018",
+      "claim": "镁补充剂对脂肿并发症无效。",
+      "section": "Dietary Supplements in the Management of Lipedema",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "镁",
+        "无效"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-019",
+      "claim": "脂肿患者应检查血浆硒水平，并按需补充。",
+      "section": "Dietary Supplements in the Management of Lipedema",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肿",
+        "硒",
+        "血浆水平",
+        "补充"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "13-15"
+    },
+    {
+      "id": "E-current-evid-020",
+      "claim": "减肥手术对治疗脂肪水肿无效。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "减肥手术",
+        "治疗无效"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-021",
+      "claim": "在脂肪水肿患者中，准确计算基础代谢率对于实施适当的热量限制饮食至关重要。",
+      "section": "CONCLUSION",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "基础代谢率",
+        "热量限制"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-022",
+      "claim": "生酮饮食、地中海饮食和抗炎饮食比其他饮食更适合脂肪水肿患者。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "生酮饮食",
+        "地中海饮食",
+        "抗炎饮食"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-023",
+      "claim": "脂肪水肿的医学营养治疗应旨在创建支持酮症生成并具有抗氧化和抗炎成分的饮食模式。",
+      "section": "CONCLUSION",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "医学营养治疗",
+        "酮症",
+        "抗炎"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-024",
+      "claim": "对于脂肪水肿患者，若经个体化评估发现不耐受，可建议从饮食中去除麸质和乳糖。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "食物不耐受",
+        "麸质",
+        "乳糖"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-025",
+      "claim": "营养补充剂在管理脂肪水肿方面的有效性尚未被证实。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "营养补充剂",
+        "有效性"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-026",
+      "claim": "应密切监测脂肪水肿患者的维生素和矿物质水平。",
+      "section": "CONCLUSION",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "维生素",
+        "矿物质",
+        "监测"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-027",
+      "claim": "如果脂肪水肿患者存在或治疗过程中出现微量营养素缺乏，应考虑适当补充。",
+      "section": "CONCLUSION",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "脂肪水肿",
+        "微量营养素",
+        "补充"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-028",
+      "claim": "应尽可能通过均衡饮食获取必需营养素，而非仅依赖补充剂。",
+      "section": "CONCLUSION",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "必需营养素",
+        "饮食",
+        "补充剂"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    },
+    {
+      "id": "E-current-evid-029",
+      "claim": "在遵循极低热量饮食计划时，应支持患者补充微量营养素（B族维生素、维生素C和E、钾、钠、镁、钙、omega-3脂肪酸）。",
+      "section": "正文（根据国际指南）",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "极低热量饮食",
+        "微量营养素",
+        "补充"
+      ],
+      "source_doc": "Current Evidence-Based Clinical Nutritional Approaches in Lipedema A Scoping Review",
+      "org": "营养综述 (Nutrition Reviews)",
+      "year": "2025",
+      "url": "https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf189/8317394",
+      "page": "16-18"
+    }
+  ]
+}

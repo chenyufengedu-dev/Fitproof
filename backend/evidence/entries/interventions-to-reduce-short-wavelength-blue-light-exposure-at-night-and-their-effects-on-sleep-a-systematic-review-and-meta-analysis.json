@@ -1,0 +1,102 @@
+{
+  "doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+  "org": "睡眠进展 (Sleep Advances)",
+  "year": "2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+  "complete": true,
+  "done_windows": 5,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-intervention-001",
+      "claim": "睡前佩戴蓝光阻挡眼镜（橙色或琥珀色镜片）可改善睡眠，尤其对失眠、双相障碍、睡眠相位延迟综合征或注意缺陷多动障碍患者有效。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "蓝光暴露",
+        "睡眠改善",
+        "蓝光阻挡眼镜",
+        "系统综述"
+      ],
+      "source_doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+      "org": "睡眠进展 (Sleep Advances)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intervention-002",
+      "claim": "佩戴蓝光阻挡眼镜可小到中等程度改善客观睡眠效率和总睡眠时间，并对自我报告的睡眠质量和时长有较大改善。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "蓝光阻挡眼镜",
+        "睡眠效率",
+        "总睡眠时间",
+        "睡眠质量"
+      ],
+      "source_doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+      "org": "睡眠进展 (Sleep Advances)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-intervention-003",
+      "claim": "有睡眠障碍或精神疾病的人群使用蓝光阻挡眼镜的获益大于健康人群。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "蓝光阻挡眼镜",
+        "睡眠障碍",
+        "精神疾病",
+        "获益差异"
+      ],
+      "source_doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+      "org": "睡眠进展 (Sleep Advances)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-intervention-004",
+      "claim": "蓝光阻挡镜片可能对失眠、双相障碍、延迟睡眠时相障碍或注意缺陷多动障碍患者改善夜间睡眠有益，但对健康良好睡眠者益处较少。",
+      "section": "Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "蓝光阻挡镜片",
+        "睡眠改善",
+        "失眠",
+        "双相障碍",
+        "延迟睡眠时相障碍"
+      ],
+      "source_doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+      "org": "睡眠进展 (Sleep Advances)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-intervention-005",
+      "claim": "对于有跌倒风险的老年人，琥珀色镜片比橙色镜片更优，因其能过滤短波长光但不会导致整体光线变暗。",
+      "section": "Limitations of the studies",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "琥珀色镜片",
+        "蓝光阻挡",
+        "老年人",
+        "跌倒风险"
+      ],
+      "source_doc": "Interventions to reduce short-wavelength (\"blue\") light exposure at night and their effects on sleep: A systematic review and meta-analysis",
+      "org": "睡眠进展 (Sleep Advances)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192881/",
+      "page": "10-12"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "doc": "银杏 (Ginkgo)",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2023",
+  "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+  "complete": true,
+  "done_windows": 2,
+  "count": 14,
+  "entries": [
+    {
+      "id": "E-银杏-ginkgo-001",
+      "claim": "银杏不能预防失智症或治疗轻度认知损害。",
+      "section": "研究发现",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "失智症",
+        "认知损害"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-002",
+      "claim": "银杏不能改善跛行症状。",
+      "section": "研究发现",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "跛行",
+        "外周动脉疾病"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-003",
+      "claim": "银杏不能改善健康成人的记忆力、注意力或大脑功能。",
+      "section": "研究发现",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "记忆力",
+        "认知功能"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-004",
+      "claim": "不要食用生银杏果或烤银杏果，可能有毒。",
+      "section": "安全性和副作用",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "毒性",
+        "安全"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-005",
+      "claim": "癫痫患者应避免食用银杏。",
+      "section": "安全性和副作用",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "癫痫",
+        "禁忌"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-006",
+      "claim": "老年人、出血障碍患者或孕妇不应食用银杏。",
+      "section": "安全性和副作用",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "出血",
+        "孕妇",
+        "老年人"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-007",
+      "claim": "计划手术前需停用银杏至少两周。",
+      "section": "安全性和副作用",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "手术",
+        "出血风险"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-008",
+      "claim": "糖尿病患者食用银杏应密切监测血糖。",
+      "section": "安全性和副作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "糖尿病",
+        "血糖监测"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-009",
+      "claim": "银杏可能降低阿普唑仑（Xanax）的药效。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "阿普唑仑",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-010",
+      "claim": "银杏与抗凝剂或抗血小板药物联用可能增加出血风险。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "抗凝剂",
+        "出血",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-011",
+      "claim": "银杏可能降低抗惊厥药的药效并增加癫痫发作风险。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "抗惊厥药",
+        "癫痫",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-012",
+      "claim": "银杏与某些抗抑郁药联用可能降低后者的药效。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "抗抑郁药",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-013",
+      "claim": "银杏可能降低辛伐他汀和阿托伐他汀的药效。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "他汀类药物",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    },
+    {
+      "id": "E-银杏-ginkgo-014",
+      "claim": "银杏与布洛芬联用可能增加出血风险。",
+      "section": "相互作用",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏",
+        "布洛芬",
+        "出血",
+        "药物相互作用"
+      ],
+      "source_doc": "银杏 (Ginkgo)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/zh-hans/drugs-supplements-ginkgo/art-20362032",
+      "page": "1-3"
+    }
+  ]
+}

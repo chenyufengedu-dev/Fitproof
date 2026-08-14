@@ -1,0 +1,313 @@
+{
+  "doc": "中国产褥期（月子）妇女膳食建议",
+  "org": "中国营养学会 (CNS)",
+  "year": "2022",
+  "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+  "complete": true,
+  "done_windows": 2,
+  "count": 18,
+  "entries": [
+    {
+      "id": "E-中国产褥期-月子-妇女膳-001",
+      "claim": "产褥期妇女无需遵循任何食物禁忌",
+      "section": "中国产褥期（月子）妇女膳食建议",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "产褥期",
+        "食物禁忌",
+        "膳食"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-002",
+      "claim": "产后第一餐可进食适量易消化的半流质食物，第二餐可用正常膳食",
+      "section": "2 产后头几天膳食宜清淡、易消化",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "产后饮食",
+        "半流质",
+        "正常膳食"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-003",
+      "claim": "剖宫产术后应给予流食，但忌用牛奶、豆浆、含大量蔗糖等胀气食物",
+      "section": "2 产后头几天膳食宜清淡、易消化",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "剖宫产",
+        "术后饮食",
+        "流食",
+        "胀气食物"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-004",
+      "claim": "产褥期膳食应多样化，无需特别食物禁忌",
+      "section": "3 食物多样不过量，保证营养均衡",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "膳食多样化",
+        "食物禁忌"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-005",
+      "claim": "产褥期应每天摄入蔬菜水果500g以上，其中绿叶蔬菜和红黄色等有色蔬菜占2/3",
+      "section": "5 注意粗细粮搭配，重视新鲜蔬菜水果的摄入",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "蔬菜水果",
+        "摄入量",
+        "产褥期"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-006",
+      "claim": "产褥期应纠正禁忌蔬菜水果的习俗",
+      "section": "5 注意粗细粮搭配，重视新鲜蔬菜水果的摄入",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "蔬菜水果",
+        "禁忌习俗"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-007",
+      "claim": "每天摄入鱼禽蛋瘦肉等动物性食品平均总量200~250g",
+      "section": "4 适量增加鱼、禽、蛋、瘦肉等富含优质蛋白质的食物摄入",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "动物性食品",
+        "蛋白质",
+        "摄入量"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-008",
+      "claim": "每周应摄入1～2次动物肝脏，总量85g猪肝或40g鸡肝",
+      "section": "4 适量增加鱼、禽、蛋、瘦肉等富含优质蛋白质的食物摄入",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "动物肝脏",
+        "铁",
+        "维生素A"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-009",
+      "claim": "每周应摄入1～2次海产品",
+      "section": "4 适量增加鱼、禽、蛋、瘦肉等富含优质蛋白质的食物摄入",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "海产品",
+        "n-3脂肪酸",
+        "碘"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-010",
+      "claim": "期望通过大量摄入动物性食物提高母乳中蛋白质、脂肪、乳糖、钙、锌、铁含量是误区",
+      "section": "6 正确认识月子膳食对母乳分泌的作用",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "母乳成分",
+        "动物性食物",
+        "误区"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-011",
+      "claim": "母乳中必需脂肪酸、脂溶性和水溶性维生素含量主要取决于膳食摄入量",
+      "section": "6 正确认识月子膳食对母乳分泌的作用",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "母乳",
+        "脂肪酸",
+        "维生素",
+        "膳食"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-012",
+      "claim": "月子妇女每日饮奶量应达500ml",
+      "section": "7 适当增加奶类等含钙丰富的食品",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "奶类",
+        "钙",
+        "摄入量"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-013",
+      "claim": "如奶类摄入不足，应补充钙制剂",
+      "section": "7 适当增加奶类等含钙丰富的食品",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "钙制剂",
+        "补充剂"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-014",
+      "claim": "产褥期应补充维生素D每日400μg",
+      "section": "7 适当增加奶类等含钙丰富的食品",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "维生素D",
+        "补充剂"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-015",
+      "claim": "可适当补充DHA每日200mg",
+      "section": "7 适当增加奶类等含钙丰富的食品",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "DHA",
+        "补充剂"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-016",
+      "claim": "产后应尽早开奶，WHO建议产后1h内开始母乳喂养",
+      "section": "10 尽早开奶、坚持母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "开奶",
+        "母乳喂养",
+        "WHO"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-017",
+      "claim": "产褥期应坚持纯母乳喂养，母婴同室，按需哺乳",
+      "section": "10 尽早开奶、坚持母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "纯母乳喂养",
+        "母婴同室",
+        "按需哺乳"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-中国产褥期-月子-妇女膳-018",
+      "claim": "产褥期应尽早适当运动",
+      "section": "9 适当运动，愉悦心情，充分休息和睡眠",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "运动",
+        "产后恢复"
+      ],
+      "source_doc": "中国产褥期（月子）妇女膳食建议",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://medi-guide.meditool.cn/ymtpdf/87B72338-00B1-94C3-797B-A7BFD3D13011.pdf",
+      "page": "1-3"
+    }
+  ]
+}

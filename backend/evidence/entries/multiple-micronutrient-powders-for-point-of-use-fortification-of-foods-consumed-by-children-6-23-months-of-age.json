@@ -1,0 +1,29 @@
+{
+  "doc": "Multiple micronutrient powders for point-of-use fortification of foods consumed by children 6–23 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/micronutrientpowder-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-multiple-mic-001",
+      "claim": "在2岁以下或5岁以下儿童贫血患病率≥20%的人群中，建议对6-23月龄婴幼儿使用含铁微量营养素粉进行即用型食物强化，以改善铁状况和减少贫血。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "微量元素粉",
+        "贫血",
+        "婴幼儿",
+        "铁"
+      ],
+      "source_doc": "Multiple micronutrient powders for point-of-use fortification of foods consumed by children 6–23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrientpowder-infants",
+      "page": "1-3"
+    }
+  ]
+}

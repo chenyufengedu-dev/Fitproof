@@ -1,0 +1,556 @@
+{
+  "doc": "中国成人失眠诊断与治疗指南(2017版)",
+  "org": "中华医学会神经病学分会睡眠障碍学组",
+  "year": "2018",
+  "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+  "complete": true,
+  "done_windows": 3,
+  "count": 31,
+  "entries": [
+    {
+      "id": "E-中国成人失眠诊断与治疗指-001",
+      "claim": "首次系统评估前最好记录睡眠日记",
+      "section": "失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "睡眠日记",
+        "评估",
+        "失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-002",
+      "claim": "诊断失眠时应关注共存的其他疾病和症状，并给予相应的诊断",
+      "section": "失眠的诊断与鉴别诊断",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "共病",
+        "诊断",
+        "失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-003",
+      "claim": "鉴别其他睡眠障碍如呼吸性睡眠障碍、周期性肢体运动障碍时应进行PSG检查",
+      "section": "失眠的诊断与鉴别诊断",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "PSG",
+        "睡眠障碍",
+        "鉴别诊断"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-004",
+      "claim": "失眠患者伴随日间过度思睡，特别是在需要鉴别发作性睡病时，应当同时进行PSG和MSLT检查",
+      "section": "失眠的诊断与鉴别诊断",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "PSG",
+        "MSLT",
+        "发作性睡病",
+        "日间思睡"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-005",
+      "claim": "失眠患者接受合理干预后疗效反应不理想时，应进行PSG检查排除其他类型睡眠障碍",
+      "section": "失眠的诊断与鉴别诊断",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "PSG",
+        "疗效评估",
+        "失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-006",
+      "claim": "不推荐加巴喷丁、喹硫平、奥氮平作为失眠治疗的常规用药",
+      "section": "失眠的药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "加巴喷丁",
+        "喹硫平",
+        "奥氮平",
+        "失眠治疗"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-007",
+      "claim": "抗组胺药物、普通褪黑素、缬草提取物不宜作为治疗普通成人失眠的常规用药",
+      "section": "失眠的药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "抗组胺药",
+        "褪黑素",
+        "缬草提取物",
+        "失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-008",
+      "claim": "酒精不能用于治疗失眠",
+      "section": "失眠的药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "失眠治疗"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-009",
+      "claim": "不推荐将普通褪黑素作为催眠药物使用",
+      "section": "失眠的药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "褪黑素",
+        "催眠药物"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-010",
+      "claim": "失眠患者药物治疗首选非苯二氮䓬类药物，如唑吡坦、右佐匹克隆。",
+      "section": "药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "药物治疗",
+        "non-BZDs",
+        "唑吡坦",
+        "右佐匹克隆"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-011",
+      "claim": "长期应用苯二氮䓬受体激动剂的慢性失眠患者至少每4周进行1次临床评估。",
+      "section": "药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "BZRAs",
+        "临床评估",
+        "慢性失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-012",
+      "claim": "慢性失眠患者应在医师指导下采用间歇治疗或按需治疗方式服用非苯二氮䓬类药物。",
+      "section": "药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "间歇治疗",
+        "按需治疗",
+        "non-BZDs"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-013",
+      "claim": "抗组胺药物、抗过敏药物以及其他辅助睡眠的非处方药不宜用于慢性失眠的治疗。",
+      "section": "药物治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "抗组胺药",
+        "非处方药",
+        "慢性失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-014",
+      "claim": "睡眠卫生教育不能作为独立的干预方式，需同其他干预方式同时进行。",
+      "section": "失眠的心理治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "睡眠卫生教育",
+        "心理治疗"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-015",
+      "claim": "放松疗法与刺激控制疗法可以分别作为独立的干预措施或参与到认知行为疗法中。",
+      "section": "失眠的心理治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "放松疗法",
+        "刺激控制疗法",
+        "认知行为疗法"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-016",
+      "claim": "睡眠限制疗法可做为独立的干预措施或参与到认知行为疗法中。",
+      "section": "失眠的心理治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "睡眠限制疗法",
+        "认知行为疗法"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-017",
+      "claim": "认知行为疗法联合药物（首选非苯二氮䓬类药物）治疗可以发挥更好的效果。",
+      "section": "失眠的心理治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "CBT-I",
+        "药物联合",
+        "non-BZDs"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-018",
+      "claim": "老年失眠患者首选非药物治疗，尤其强调进行认知行为疗法。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "老年失眠",
+        "非药物治疗",
+        "CBT-I"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-019",
+      "claim": "老年失眠患者药物治疗推荐选择非苯二氮䓬类药物、褪黑素受体激动剂、食欲素受体拮抗剂和小剂量多塞平。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "老年失眠",
+        "药物治疗",
+        "non-BZDs",
+        "褪黑素受体激动剂",
+        "多塞平"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-020",
+      "claim": "褪黑素缓释剂可用于改善老年失眠患者的睡眠质量。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "老年失眠",
+        "褪黑素缓释剂",
+        "睡眠质量"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-021",
+      "claim": "镇静催眠药物应该采用最低有效剂量，尽可能短期应用，密切观察药物不良反应。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "老年失眠",
+        "镇静催眠药",
+        "剂量",
+        "不良反应"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-022",
+      "claim": "老年慢性失眠患者长期用药时，在维持疗效的前提下推荐使用间歇疗法。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "老年失眠",
+        "间歇疗法",
+        "慢性失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-023",
+      "claim": "妊娠期和哺乳期失眠患者首选睡眠卫生教育，推荐认知行为疗法。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "妊娠期失眠",
+        "哺乳期失眠",
+        "睡眠卫生教育",
+        "CBT-I"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-024",
+      "claim": "哺乳期确需用药时应谨慎，不能确定药物是否通过哺乳影响婴儿时应当停止哺乳后用药。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "哺乳期",
+        "用药安全",
+        "停止哺乳"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-025",
+      "claim": "伴有呼吸系统疾病的失眠患者适用于心理治疗。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "呼吸系统疾病",
+        "失眠",
+        "心理治疗"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-026",
+      "claim": "伴有慢性阻塞性肺疾病和轻中度阻塞性睡眠呼吸暂停的失眠患者推荐选择非苯二氮䓬类药物或褪黑素受体激动剂治疗。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "COPD",
+        "OSA",
+        "失眠",
+        "non-BZDs",
+        "雷美替胺"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-027",
+      "claim": "慢性阻塞性肺疾病和阻塞性睡眠呼吸暂停患者应慎用苯二氮䓬类药物，高碳酸血症明显的COPD急性加重期和限制性通气功能障碍失代偿期禁用。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "COPD",
+        "OSA",
+        "BZDs",
+        "禁忌"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-028",
+      "claim": "共病精神疾病的失眠患者应当由精神科专业医师会诊，同时对精神疾病和失眠进行干预。",
+      "section": "特殊人群失眠的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "共病",
+        "精神疾病",
+        "失眠",
+        "会诊"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-029",
+      "claim": "失眠继发于或伴发于其他疾病时，应同时治疗原发或伴发疾病。",
+      "section": "总体原则",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "原发疾病",
+        "伴发疾病",
+        "治疗"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-030",
+      "claim": "认知行为疗法是治疗成人（包括老年人）失眠的首选方案之一，即使已接受药物治疗的慢性失眠患者也应辅以认知行为疗法。",
+      "section": "总体原则",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "CBT-I",
+        "首选",
+        "慢性失眠"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中国成人失眠诊断与治疗指-031",
+      "claim": "短期失眠患者无法完成认知行为疗法时应及时选择药物治疗。",
+      "section": "总体原则",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "短期失眠",
+        "药物治疗",
+        "CBT-I"
+      ],
+      "source_doc": "中国成人失眠诊断与治疗指南(2017版)",
+      "org": "中华医学会神经病学分会睡眠障碍学组",
+      "year": "2018",
+      "url": "https://seleguide.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E5%A4%B1%E7%9C%A0%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97(2017%E7%89%88).html",
+      "page": "5-7"
+    }
+  ]
+}

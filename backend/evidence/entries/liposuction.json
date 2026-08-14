@@ -1,0 +1,96 @@
+{
+  "doc": "Liposuction",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2024",
+  "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-liposuction-001",
+      "claim": "吸脂手术不被视为整体减重方法或减重替代方案。",
+      "section": "Overview",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "吸脂",
+        "减重",
+        "替代方案"
+      ],
+      "source_doc": "Liposuction",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+      "page": "1-3"
+    },
+    {
+      "id": "E-liposuction-002",
+      "claim": "吸脂手术不能改善橘皮组织或去除妊娠纹。",
+      "section": "Why it's done",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "吸脂",
+        "橘皮组织",
+        "妊娠纹"
+      ],
+      "source_doc": "Liposuction",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+      "page": "1-3"
+    },
+    {
+      "id": "E-liposuction-003",
+      "claim": "吸脂手术的效果通常持久，但前提是保持体重稳定。",
+      "section": "Results",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "吸脂",
+        "效果持久",
+        "体重"
+      ],
+      "source_doc": "Liposuction",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+      "page": "1-3"
+    },
+    {
+      "id": "E-liposuction-004",
+      "claim": "吸脂手术后需穿戴紧身衣数周以减少肿胀。",
+      "section": "After the procedure",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "吸脂",
+        "术后护理",
+        "紧身衣"
+      ],
+      "source_doc": "Liposuction",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+      "page": "1-3"
+    },
+    {
+      "id": "E-liposuction-005",
+      "claim": "吸脂手术的并发症风险在操作大面积或同时进行多项手术时升高。",
+      "section": "Risks",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "吸脂",
+        "风险",
+        "并发症"
+      ],
+      "source_doc": "Liposuction",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/tests-procedures/liposuction/about/pac-20384586",
+      "page": "1-3"
+    }
+  ]
+}

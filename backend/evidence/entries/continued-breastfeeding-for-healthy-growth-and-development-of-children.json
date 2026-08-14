@@ -1,0 +1,47 @@
+{
+  "doc": "Continued breastfeeding for healthy growth and development of children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/continued-breastfeeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-continued-br-001",
+      "claim": "婴儿应在生命的前六个月内进行纯母乳喂养，以实现最佳生长、发育和健康。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "婴儿",
+        "纯母乳喂养",
+        "生长发育"
+      ],
+      "source_doc": "Continued breastfeeding for healthy growth and development of children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/continued-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-continued-br-002",
+      "claim": "婴儿在六个月后应接受营养充足且安全的辅食，同时继续母乳喂养至两岁或以上。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "辅食",
+        "儿童营养",
+        "持续时间"
+      ],
+      "source_doc": "Continued breastfeeding for healthy growth and development of children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/continued-breastfeeding",
+      "page": "1-3"
+    }
+  ]
+}

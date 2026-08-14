@@ -1,0 +1,78 @@
+{
+  "doc": "Sodium reduction",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2026",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-sodium-reduc-001",
+      "claim": "健康成人每天钠摄入量应低于2000毫克（相当于每天盐摄入量低于5克）",
+      "section": "Recommendations for reducing sodium",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "钠摄入量",
+        "盐摄入量",
+        "成人"
+      ],
+      "source_doc": "Sodium reduction",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+      "page": "1-3"
+    },
+    {
+      "id": "E-sodium-reduc-002",
+      "claim": "2至15岁儿童的钠摄入量应根据能量需求在成人推荐量基础上向下调整",
+      "section": "Recommendations for reducing sodium",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "儿童",
+        "钠摄入量",
+        "调整"
+      ],
+      "source_doc": "Sodium reduction",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+      "page": "1-3"
+    },
+    {
+      "id": "E-sodium-reduc-003",
+      "claim": "如果使用食盐，应选择含钾的低钠盐替代普通食盐",
+      "section": "Recommendations for reducing sodium",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "低钠盐",
+        "钾盐",
+        "食盐替代"
+      ],
+      "source_doc": "Sodium reduction",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+      "page": "1-3"
+    },
+    {
+      "id": "E-sodium-reduc-004",
+      "claim": "所有食用的盐都应加碘",
+      "section": "Recommendations for reducing sodium",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "碘盐",
+        "加碘"
+      ],
+      "source_doc": "Sodium reduction",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+      "page": "1-3"
+    }
+  ]
+}

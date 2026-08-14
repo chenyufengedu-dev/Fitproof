@@ -1,0 +1,151 @@
+{
+  "doc": "Breastfeeding and diet",
+  "org": "英国国民保健署 (NHS)",
+  "year": "2026",
+  "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+  "complete": true,
+  "done_windows": 2,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-breastfeedin-001",
+      "claim": "哺乳期女性无需遵循特殊饮食，但应保持健康均衡饮食。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳期",
+        "饮食",
+        "健康饮食"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-002",
+      "claim": "哺乳期女性应每周至少吃2份鱼，其中至少1份为油性鱼。",
+      "section": "Eating fish while breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼类",
+        "油性鱼",
+        "哺乳期"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-003",
+      "claim": "哺乳期女性每周不应超过2份油性鱼。",
+      "section": "Eating fish while breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼类",
+        "油性鱼",
+        "限量",
+        "哺乳期"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-004",
+      "claim": "所有成年人（包括哺乳期女性）每周不应超过1份鲨鱼、剑鱼或旗鱼。",
+      "section": "Eating fish while breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼类",
+        "鲨鱼",
+        "剑鱼",
+        "旗鱼",
+        "限量"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-005",
+      "claim": "哺乳期女性应在秋冬季节考虑每日补充10微克维生素D。",
+      "section": "Vitamins and breastfeeding",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "补充剂",
+        "哺乳期"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-006",
+      "claim": "若哺乳期女性为素食者，应摄入添加维生素B12的食物或补充剂。",
+      "section": "Vitamins and breastfeeding",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "素食",
+        "哺乳期",
+        "补充剂"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-007",
+      "claim": "哺乳期女性每日咖啡因摄入不应超过200毫克。",
+      "section": "Caffeine and breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "限量",
+        "哺乳期"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-008",
+      "claim": "哺乳期女性可以吃花生及含花生食品，除非自身过敏。",
+      "section": "Peanuts and breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "花生",
+        "哺乳期",
+        "过敏"
+      ],
+      "source_doc": "Breastfeeding and diet",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/",
+      "page": "1-3"
+    }
+  ]
+}

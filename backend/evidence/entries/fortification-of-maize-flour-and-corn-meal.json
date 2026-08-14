@@ -1,0 +1,47 @@
+{
+  "doc": "Fortification of maize flour and corn meal",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/maize-fortification",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-fortificatio-001",
+      "claim": "玉米粉和玉米面强化铁可预防人群尤其是儿童和妇女的缺铁性贫血",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "玉米粉",
+        "玉米面",
+        "铁强化",
+        "缺铁性贫血"
+      ],
+      "source_doc": "Fortification of maize flour and corn meal",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/maize-fortification",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fortificatio-002",
+      "claim": "玉米粉和玉米面强化叶酸可降低神经管缺陷婴儿的出生风险",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "玉米粉",
+        "玉米面",
+        "叶酸强化",
+        "神经管缺陷"
+      ],
+      "source_doc": "Fortification of maize flour and corn meal",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/maize-fortification",
+      "page": "1-3"
+    }
+  ]
+}

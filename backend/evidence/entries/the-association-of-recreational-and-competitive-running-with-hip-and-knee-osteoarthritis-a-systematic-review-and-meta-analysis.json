@@ -1,0 +1,48 @@
+{
+  "doc": "The Association of Recreational and Competitive Running With Hip and Knee Osteoarthritis: A Systematic Review and Meta-analysis",
+  "org": "美国国家医学图书馆 (PubMed)",
+  "year": "2017",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28504066/",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-the-associat-001",
+      "claim": "休闲跑步者（业余跑步）发生髋关节和膝关节骨关节炎的风险低于竞技跑步者和不跑步的对照组。",
+      "section": "Conclusion",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "跑步",
+        "骨关节炎",
+        "髋关节",
+        "膝关节"
+      ],
+      "source_doc": "The Association of Recreational and Competitive Running With Hip and Knee Osteoarthritis: A Systematic Review and Meta-analysis",
+      "org": "美国国家医学图书馆 (PubMed)",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28504066/",
+      "page": "1-2"
+    },
+    {
+      "id": "E-the-associat-002",
+      "claim": "与不跑步的对照组相比，跑步年限少于15年的人群发生髋关节和膝关节骨关节炎的风险较低。",
+      "section": "Conclusion",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "跑步",
+        "骨关节炎",
+        "跑步年限",
+        "髋关节",
+        "膝关节"
+      ],
+      "source_doc": "The Association of Recreational and Competitive Running With Hip and Knee Osteoarthritis: A Systematic Review and Meta-analysis",
+      "org": "美国国家医学图书馆 (PubMed)",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28504066/",
+      "page": "1-2"
+    }
+  ]
+}

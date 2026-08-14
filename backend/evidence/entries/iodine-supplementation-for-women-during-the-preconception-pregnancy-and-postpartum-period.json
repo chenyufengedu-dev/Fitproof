@@ -1,0 +1,602 @@
+{
+  "doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+  "org": "Cochrane 协作网",
+  "year": "2017",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+  "complete": true,
+  "done_windows": 46,
+  "count": 33,
+  "entries": [
+    {
+      "id": "E-iodine-suppl-001",
+      "claim": "碘补充剂降低了产后甲状腺功能亢进的风险（低质量证据）",
+      "section": "主要结果",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充剂",
+        "产后甲亢",
+        "妊娠",
+        "哺乳"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-iodine-suppl-002",
+      "claim": "碘补充剂增加了妊娠期消化不耐受（恶心、呕吐）的风险（极低质量证据）",
+      "section": "主要结果",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充剂",
+        "消化不耐受",
+        "妊娠",
+        "不良反应"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-iodine-suppl-003",
+      "claim": "碘补充剂对妊娠期或产后甲状腺功能减退、早产、低出生体重等结局无明确影响（低质量证据）",
+      "section": "作者结论",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充剂",
+        "甲状腺功能减退",
+        "早产",
+        "低出生体重",
+        "妊娠"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-iodine-suppl-004",
+      "claim": "WHO/UNICEF/ICCIDD推荐孕妇和哺乳期妇女每日碘摄入250 μg。",
+      "section": "Recommended iodine intakes",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕妇",
+        "哺乳期",
+        "推荐摄入量",
+        "WHO"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-iodine-suppl-005",
+      "claim": "美国IOM推荐非怀孕成年女性每日碘摄入150 μg，孕期220 μg，哺乳期290 μg。",
+      "section": "Recommended iodine intakes",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "非怀孕女性",
+        "孕期",
+        "哺乳期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-iodine-suppl-006",
+      "claim": "欧洲食品安全局推荐孕妇和哺乳期妇女每日碘摄入200 μg。",
+      "section": "Recommended iodine intakes",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕妇",
+        "哺乳期",
+        "推荐摄入量",
+        "EFSA"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-iodine-suppl-007",
+      "claim": "美国IOM设置的可耐受最高摄入量（UL）为每天1100 μg，欧洲为600 μg，但不适用于碘缺乏人群。",
+      "section": "Recommended iodine intakes",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "可耐受最高摄入量",
+        "UL",
+        "安全上限"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-iodine-suppl-008",
+      "claim": "全民食盐加碘自1993年被推荐用于预防和控制碘缺乏。",
+      "section": "Guidance and recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "盐碘化",
+        "碘缺乏",
+        "预防"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-iodine-suppl-009",
+      "claim": "WHO和UNICEF推荐在盐碘化基础上，考虑对孕妇、哺乳妇女和6-23个月婴儿补充碘剂，如需可扩展至所有育龄妇女。",
+      "section": "Guidance and recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕妇",
+        "哺乳",
+        "儿童"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-iodine-suppl-010",
+      "claim": "美国、加拿大和澳大利亚的医学机构推荐孕期和哺乳期妇女每日摄入150 μg碘。",
+      "section": "Guidance and recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕期",
+        "哺乳期",
+        "推荐剂量"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-iodine-suppl-011",
+      "claim": "孕妇中位尿碘浓度低于150 μg/L表示碘摄入不足，150-249 μg/L表示摄入充足。",
+      "section": "Indicators of iodine status",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "尿碘",
+        "孕妇",
+        "碘状态"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-iodine-suppl-012",
+      "claim": "哺乳期妇女及2岁以下儿童中位尿碘低于100 μg/L表示碘摄入不足，≥100 μg/L表示充足。",
+      "section": "Indicators of iodine status",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "尿碘",
+        "哺乳",
+        "儿童",
+        "碘状态"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-iodine-suppl-013",
+      "claim": "孕期补充碘可降低新生儿先天性异常的风险。",
+      "section": "Congenital anomalies",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "先天性异常",
+        "新生儿"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-014",
+      "claim": "孕期补充碘可降低新生儿甲状腺肿大的风险。",
+      "section": "Neonatal goitre",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "新生儿甲状腺肿",
+        "甲状腺"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-015",
+      "claim": "孕期补充碘可降低新生儿的甲状腺体积。",
+      "section": "Neonatal thyroid volume",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "新生儿甲状腺体积",
+        "甲状腺"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-016",
+      "claim": "孕期补充碘会增加新生儿碘摄入不足的风险。",
+      "section": "Insufficient neonatal iodine intake",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "新生儿碘摄入不足",
+        "风险"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-017",
+      "claim": "孕期补充碘可提高儿童的智商分数。",
+      "section": "Child mental or motor development",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "儿童智力",
+        "智商"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-018",
+      "claim": "孕期或产后补充碘可降低产后甲亢的风险。",
+      "section": "Maternal adverse effect: hyperthyroidism - postpartum",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "产后",
+        "甲亢",
+        "甲状腺"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-019",
+      "claim": "孕期补充碘会增加消化不耐受（恶心/呕吐）的风险。",
+      "section": "Maternal adverse effect: digestive intolerance - pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "消化不耐受",
+        "副作用"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-020",
+      "claim": "孕期补充碘可降低孕期碘摄入不足的风险。",
+      "section": "Insufficient iodine intake - pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "碘摄入不足",
+        "营养"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-021",
+      "claim": "产后补充碘可降低哺乳期碘摄入不足的风险。",
+      "section": "Insufficient iodine intake - postpartum",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "产后",
+        "碘摄入不足",
+        "哺乳"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-022",
+      "claim": "孕期补充碘会增加孕期过量碘摄入的风险。",
+      "section": "Excessive iodine intake (pregnancy only)",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "过量碘摄入",
+        "风险"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-iodine-suppl-023",
+      "claim": "孕期或产后补充碘可降低产后碘摄入不足的风险。",
+      "section": "Oral iodine supplement only versus no iodine",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "产后",
+        "碘摄入不足",
+        "孕期"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-iodine-suppl-024",
+      "claim": "孕期补充碘可降低新生儿甲状腺肿的风险。",
+      "section": "Oral iodine supplement only versus no iodine",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕期",
+        "新生儿甲状腺肿"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-iodine-suppl-025",
+      "claim": "孕期补充碘（与其他微量营养素）相比仅补充其他微量营养素可能增加消化不耐受（如恶心、呕吐）的风险。",
+      "section": "Oral iodine supplement with other vitamins and/or minerals versus only other vitamins and/or minerals",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕期",
+        "消化不耐受",
+        "副作用"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-iodine-suppl-026",
+      "claim": "孕期补充碘可降低孕期碘摄入不足的风险。",
+      "section": "Oral iodine supplement with other vitamins and/or minerals versus only other vitamins and/or minerals",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕期",
+        "碘摄入不足"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-iodine-suppl-027",
+      "claim": "孕期补充碘（与其他微量营养素）相比仅补充其他微量营养素可能增加孕期碘摄入过量的风险。",
+      "section": "Oral iodine supplement with other vitamins and/or minerals versus only other vitamins and/or minerals",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "孕期",
+        "碘摄入过量"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-iodine-suppl-028",
+      "claim": "在轻度至中度碘缺乏地区，孕期补碘可能降低产后甲亢风险（低质量证据）",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "产后甲亢",
+        "孕期",
+        "低质量证据"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    },
+    {
+      "id": "E-iodine-suppl-029",
+      "claim": "在轻度至中度碘缺乏地区，孕期补碘可能增加消化不耐受（恶心呕吐）风险（极低质量证据）",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "消化不耐受",
+        "孕期",
+        "极低质量证据"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    },
+    {
+      "id": "E-iodine-suppl-030",
+      "claim": "在严重碘缺乏地区，孕期补碘可能降低围产期死亡率（但差异未达统计学意义）",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "围产期死亡率",
+        "严重碘缺乏"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    },
+    {
+      "id": "E-iodine-suppl-031",
+      "claim": "在严重碘缺乏地区，孕期补碘可能降低先天异常（包括克汀病）风险",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "先天异常",
+        "克汀病",
+        "严重碘缺乏"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    },
+    {
+      "id": "E-iodine-suppl-032",
+      "claim": "在严重碘缺乏地区，孕期补碘可能提高儿童智力发育评分（平均提高约11个IQ点）",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "儿童智力",
+        "IQ",
+        "严重碘缺乏"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    },
+    {
+      "id": "E-iodine-suppl-033",
+      "claim": "目前缺乏足够的高质量证据支持对育龄、孕期或产后女性常规补碘",
+      "section": "Authors' conclusions (Implications for practice)",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘补充",
+        "常规补碘",
+        "证据不足"
+      ],
+      "source_doc": "Iodine supplementation for women during the preconception, pregnancy and postpartum period",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011761.pub2/full",
+      "page": "37-39"
+    }
+  ]
+}

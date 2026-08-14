@@ -1,0 +1,84 @@
+{
+  "doc": "Feeding of infants unable to breastfeed directly in care facilities",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/breastfeeding-inability",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-feeding-of-i-001",
+      "claim": "除非有医学指征，否则不应给婴儿喂食母乳以外的任何食物或液体。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "纯母乳",
+        "禁止替代物"
+      ],
+      "source_doc": "Feeding of infants unable to breastfeed directly in care facilities",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-inability",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-i-002",
+      "claim": "足月儿若需喂食挤出的母乳或其他食物，可在院内使用杯子、勺子或奶瓶奶嘴。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "足月儿",
+        "喂养方法",
+        "杯子",
+        "勺子",
+        "奶瓶"
+      ],
+      "source_doc": "Feeding of infants unable to breastfeed directly in care facilities",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-inability",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-i-003",
+      "claim": "对于无法直接母乳喂养的早产儿，非营养性吸吮和口腔刺激可能有益，直至母乳喂养建立。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "早产儿",
+        "非营养性吸吮",
+        "口腔刺激",
+        "母乳喂养"
+      ],
+      "source_doc": "Feeding of infants unable to breastfeed directly in care facilities",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-inability",
+      "page": "1-3"
+    },
+    {
+      "id": "E-feeding-of-i-004",
+      "claim": "早产儿若需喂食挤出的母乳或其他食物，杯子或勺子优于奶瓶奶嘴。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "早产儿",
+        "喂养方法",
+        "杯子",
+        "勺子",
+        "奶瓶"
+      ],
+      "source_doc": "Feeding of infants unable to breastfeed directly in care facilities",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-inability",
+      "page": "1-3"
+    }
+  ]
+}

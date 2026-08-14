@@ -1,0 +1,65 @@
+{
+  "doc": "Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease",
+  "org": "Cochrane 协作网",
+  "year": "2014",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010405.pub2/full",
+  "complete": true,
+  "done_windows": 13,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-co-enzyme-q1-001",
+      "claim": "目前证据不足以支持使用辅酶Q10补充剂用于心血管疾病的一级预防。",
+      "section": "Authors' conclusions",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "辅酶Q10",
+        "心血管疾病",
+        "一级预防"
+      ],
+      "source_doc": "Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010405.pub2/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-co-enzyme-q1-002",
+      "claim": "辅酶Q10补充剂对收缩压和舒张压没有一致显著的降低效果。",
+      "section": "Results",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "辅酶Q10",
+        "血压",
+        "收缩压",
+        "舒张压"
+      ],
+      "source_doc": "Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010405.pub2/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-co-enzyme-q1-003",
+      "claim": "辅酶Q10补充剂对总胆固醇、高密度脂蛋白胆固醇和甘油三酯水平没有显著影响。",
+      "section": "Results",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "辅酶Q10",
+        "血脂",
+        "总胆固醇",
+        "高密度脂蛋白",
+        "甘油三酯"
+      ],
+      "source_doc": "Co-enzyme Q10 supplementation for the primary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010405.pub2/full",
+      "page": "4-6"
+    }
+  ]
+}

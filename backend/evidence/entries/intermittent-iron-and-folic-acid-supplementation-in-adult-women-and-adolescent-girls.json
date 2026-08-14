@@ -1,0 +1,30 @@
+{
+  "doc": "Intermittent iron and folic acid supplementation in adult women and adolescent girls",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-women",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "在贫血患病率≥20%的育龄非孕期女性中，推荐采用间断性铁和叶酸补充（每周1-3次非连续日）以改善血红蛋白和铁水平，降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "贫血",
+        "铁",
+        "叶酸",
+        "育龄女性",
+        "间断补充"
+      ],
+      "source_doc": "Intermittent iron and folic acid supplementation in adult women and adolescent girls",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-women",
+      "page": "1-3"
+    }
+  ]
+}

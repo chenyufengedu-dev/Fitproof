@@ -1,0 +1,165 @@
+{
+  "doc": "Sleep and Older Adults",
+  "org": "美国国家衰老研究所 (NIA)",
+  "year": "2023",
+  "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+  "complete": true,
+  "done_windows": 2,
+  "count": 9,
+  "entries": [
+    {
+      "id": "E-sleep-and-ol-001",
+      "claim": "老年人应每天在同一时间睡觉和起床，包括周末和旅行时。",
+      "section": "Tips for getting a good night’s sleep",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "老年人",
+        "睡眠",
+        "作息规律"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-002",
+      "claim": "避免在睡前较晚时间摄入咖啡因，包括咖啡、茶、巧克力和汽水。",
+      "section": "Tips for getting a good night’s sleep",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "咖啡因",
+        "睡眠",
+        "老年人"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-003",
+      "claim": "睡前避免饮酒，即使是少量。",
+      "section": "Tips for getting a good night’s sleep",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠",
+        "老年人"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-004",
+      "claim": "睡眠药物可能短期有效，但不应长期使用，因存在风险和依赖性。",
+      "section": "Insomnia and older adults",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "睡眠药物",
+        "老年人",
+        "风险"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-005",
+      "claim": "如果怀疑睡眠呼吸暂停，应咨询医生；未经治疗的睡眠呼吸暂停可导致严重健康问题包括心脏病发作。",
+      "section": "Sleep apnea and older adults",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "睡眠呼吸暂停",
+        "就医",
+        "老年人",
+        "心脏病"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-006",
+      "claim": "不宁腿综合征的治疗通常包括铁补充剂或药物。",
+      "section": "Movement disorders and sleep",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "不宁腿综合征",
+        "铁补充",
+        "治疗"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-007",
+      "claim": "周期性肢体运动障碍可通过药物、温水浴、运动和放松来改善。",
+      "section": "Movement disorders and sleep",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "周期性肢体运动障碍",
+        "治疗"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-008",
+      "claim": "快速眼动睡眠行为障碍的治疗包括安全环境、药物或褪黑素补充剂。",
+      "section": "Movement disorders and sleep",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "REM睡眠行为障碍",
+        "褪黑素",
+        "安全环境"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    },
+    {
+      "id": "E-sleep-and-ol-009",
+      "claim": "改善睡眠习惯及诊断和治疗睡眠障碍有助于改善睡眠。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "睡眠习惯",
+        "睡眠障碍",
+        "改善"
+      ],
+      "source_doc": "Sleep and Older Adults",
+      "org": "美国国家衰老研究所 (NIA)",
+      "year": "2023",
+      "url": "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults",
+      "page": "2-4"
+    }
+  ]
+}

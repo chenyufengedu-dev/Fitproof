@@ -1,0 +1,29 @@
+{
+  "doc": "Deworming in non-pregnant adolescent girls and women of reproductive age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/deworming-women",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-deworming-in-001",
+      "claim": "非怀孕青少年女性和育龄女性，若生活在土壤传播蠕虫感染基线患病率≥20%的地区，应进行年度或半年一次的驱虫治疗（口服400mg阿苯达唑或500mg甲苯咪唑）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "驱虫",
+        "土壤传播蠕虫",
+        "预防性化疗",
+        "育龄女性"
+      ],
+      "source_doc": "Deworming in non-pregnant adolescent girls and women of reproductive age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/deworming-women",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc": "Insecticide-treated nets to reduce the risk of malaria in pregnant women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/bednets-malaria-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-insecticide--001",
+      "claim": "孕妇应尽早开始使用经杀虫剂处理的蚊帐，并在整个孕期和产后继续使用。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "疟疾",
+        "孕妇",
+        "杀虫蚊帐",
+        "安全",
+        "产后"
+      ],
+      "source_doc": "Insecticide-treated nets to reduce the risk of malaria in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/bednets-malaria-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-insecticide--002",
+      "claim": "所有面临疟疾风险的人都应获得并使用长效杀虫蚊帐。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "长效杀虫蚊帐",
+        "疟疾风险",
+        "普及"
+      ],
+      "source_doc": "Insecticide-treated nets to reduce the risk of malaria in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/bednets-malaria-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-insecticide--003",
+      "claim": "在疟疾高传播地区，所有首次免疫的婴儿和所有孕妇应尽早通过免疫和产前保健获得一顶长效杀虫蚊帐。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "疟疾高传播",
+        "婴儿",
+        "孕妇",
+        "长效杀虫蚊帐",
+        "免疫接种"
+      ],
+      "source_doc": "Insecticide-treated nets to reduce the risk of malaria in pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/bednets-malaria-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

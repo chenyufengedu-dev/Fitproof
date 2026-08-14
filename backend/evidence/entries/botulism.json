@@ -1,0 +1,82 @@
+{
+  "doc": "Botulism",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-botulism-001",
+      "claim": "不应给1岁以下婴儿喂食蜂蜜，以预防婴儿肉毒杆菌中毒。",
+      "section": "Infant botulism",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "婴儿肉毒杆菌",
+        "蜂蜜",
+        "预防"
+      ],
+      "source_doc": "Botulism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+      "page": "1-3"
+    },
+    {
+      "id": "E-botulism-002",
+      "claim": "肉毒中毒确诊后应尽早给予抗毒素，以降低死亡率。",
+      "section": "Diagnosis and treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "肉毒中毒",
+        "抗毒素",
+        "治疗",
+        "死亡率"
+      ],
+      "source_doc": "Botulism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+      "page": "4-6"
+    },
+    {
+      "id": "E-botulism-003",
+      "claim": "预防食源性肉毒中毒应基于良好的食品制备操作，特别是加热/灭菌和卫生。",
+      "section": "Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "肉毒中毒",
+        "预防",
+        "食品卫生",
+        "加热灭菌"
+      ],
+      "source_doc": "Botulism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+      "page": "4-6"
+    },
+    {
+      "id": "E-botulism-004",
+      "claim": "水传肉毒中毒风险低，因为常见水处理过程（如煮沸、0.1%次氯酸消毒）可破坏毒素。",
+      "section": "Other types of intoxication",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "肉毒中毒",
+        "水传",
+        "风险",
+        "水处理"
+      ],
+      "source_doc": "Botulism",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+      "page": "4-6"
+    }
+  ]
+}

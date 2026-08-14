@@ -1,0 +1,152 @@
+{
+  "doc": "Drug-Interactions--What-You-Should-Know-low-res",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2013",
+  "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+  "complete": true,
+  "done_windows": 3,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-drug-interac-001",
+      "claim": "使用止吐药时应避免饮酒。",
+      "section": "Antiemetics",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "止吐药",
+        "酒精",
+        "药物相互作用"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "6-8"
+    },
+    {
+      "id": "E-drug-interac-002",
+      "claim": "使用抗组胺药时应避免饮酒。",
+      "section": "Antihistamines",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗组胺药",
+        "酒精",
+        "药物相互作用"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "6-8"
+    },
+    {
+      "id": "E-drug-interac-003",
+      "claim": "使用抗组胺药时，酒精、镇静剂和安定剂可能增加嗜睡。",
+      "section": "Antihistamines",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗组胺药",
+        "酒精",
+        "镇静剂",
+        "嗜睡"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "6-8"
+    },
+    {
+      "id": "E-drug-interac-004",
+      "claim": "使用夜间助眠药时应避免饮酒。",
+      "section": "Nighttime Sleep Aids",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "夜间助眠药",
+        "酒精",
+        "药物相互作用"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "6-8"
+    },
+    {
+      "id": "E-drug-interac-005",
+      "claim": "使用尼古丁替代产品时，如果继续吸烟、嚼烟或使用其他含尼古丁产品，则不应使用。",
+      "section": "Nicotine Replacement Products",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "尼古丁替代产品",
+        "吸烟",
+        "戒烟",
+        "禁忌"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "6-8"
+    },
+    {
+      "id": "E-drug-interac-006",
+      "claim": "每天饮酒3杯或以上的患者，在使用非处方止痛药前应咨询医生。",
+      "section": "药物相互作用信息",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "止痛药",
+        "酒精",
+        "药物相互作用",
+        "咨询医生"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "9-10"
+    },
+    {
+      "id": "E-drug-interac-007",
+      "claim": "使用含咖啡因的兴奋剂产品时，应限制含咖啡因的食物、饮料和其他药物，以免引起紧张、失眠等。",
+      "section": "药物相互作用信息",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "兴奋剂",
+        "咖啡因",
+        "限制摄入",
+        "副作用"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "9-10"
+    },
+    {
+      "id": "E-drug-interac-008",
+      "claim": "使用外用痤疮产品后可能出现皮肤干燥或刺激，不应同时使用多种外用痤疮药物，除非医生指导。",
+      "section": "药物相互作用信息",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "外用痤疮药",
+        "皮肤干燥",
+        "药物联用",
+        "避免刺激"
+      ],
+      "source_doc": "Drug-Interactions--What-You-Should-Know-low-res",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2013",
+      "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+      "page": "9-10"
+    }
+  ]
+}

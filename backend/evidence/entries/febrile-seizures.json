@@ -1,0 +1,97 @@
+{
+  "doc": "Febrile Seizures",
+  "org": "美国儿科学会 (AAP)",
+  "year": "2025",
+  "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-febrile-seiz-001",
+      "claim": "大多数热性惊厥是短暂的，不会导致脑损伤、神经系统问题、麻痹、智力障碍或死亡。",
+      "section": "Are febrile seizures dangerous?",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "热性惊厥",
+        "脑损伤",
+        "安全性"
+      ],
+      "source_doc": "Febrile Seizures",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2025",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+      "page": "1-3"
+    },
+    {
+      "id": "E-febrile-seiz-002",
+      "claim": "对于简单的热性惊厥，医生通常不建议使用预防性药物治疗。",
+      "section": "Febrile seizure treatments",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "热性惊厥",
+        "预防性药物",
+        "治疗建议"
+      ],
+      "source_doc": "Febrile Seizures",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2025",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+      "page": "1-3"
+    },
+    {
+      "id": "E-febrile-seiz-003",
+      "claim": "对乙酰氨基酚和布洛芬等退热药可以降低体温，但不能预防热性惊厥。",
+      "section": "Febrile seizure treatments",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "退热药",
+        "热性惊厥预防",
+        "对乙酰氨基酚",
+        "布洛芬"
+      ],
+      "source_doc": "Febrile Seizures",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2025",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+      "page": "1-3"
+    },
+    {
+      "id": "E-febrile-seiz-004",
+      "claim": "大多数儿童在学龄前不再发生热性惊厥，只有极少数会发展为癫痫。",
+      "section": "Will my child have more seizures?",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "热性惊厥",
+        "预后",
+        "癫痫"
+      ],
+      "source_doc": "Febrile Seizures",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2025",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+      "page": "1-3"
+    },
+    {
+      "id": "E-febrile-seiz-005",
+      "claim": "疫苗接种后发热引起的热性惊厥罕见，推荐疫苗实际上有助于预防某些热性惊厥。",
+      "section": "Can febrile seizures happen after getting a vaccine?",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "疫苗",
+        "热性惊厥",
+        "预防"
+      ],
+      "source_doc": "Febrile Seizures",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2025",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Febrile-Seizures.aspx",
+      "page": "1-3"
+    }
+  ]
+}

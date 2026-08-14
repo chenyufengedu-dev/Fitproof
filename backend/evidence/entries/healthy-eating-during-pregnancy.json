@@ -1,0 +1,523 @@
+{
+  "doc": "Healthy Eating During Pregnancy",
+  "org": "美国妇产科医师学会 (ACOG)",
+  "year": "2026",
+  "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+  "complete": true,
+  "done_windows": 5,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-healthy-eati-001",
+      "claim": "孕妇应注重吃更健康的食物，而不是吃两倍的量",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期饮食",
+        "健康饮食",
+        "分量"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-002",
+      "claim": "孕妇应每天服用产前维生素以补充所有必需的维生素和矿物质",
+      "section": "Key Vitamins and Minerals",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "产前维生素",
+        "营养补充"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-003",
+      "claim": "孕妇应从食物中获取营养，而非依赖补充剂",
+      "section": "Key Vitamins and Minerals",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "营养获取",
+        "食物优先"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-004",
+      "claim": "孕妇（19-50岁）每日钙推荐摄入量为1000毫克",
+      "section": "Key Vitamins and Minerals During Pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "孕期营养"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-005",
+      "claim": "孕妇每日铁推荐摄入量为27毫克",
+      "section": "Key Vitamins and Minerals During Pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "贫血"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-006",
+      "claim": "孕妇每日碘推荐摄入量为220微克",
+      "section": "Key Vitamins and Minerals During Pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "甲状腺"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-007",
+      "claim": "素食孕妇应额外补充维生素B12",
+      "section": "Key Vitamins and Minerals During Pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "素食",
+        "补充"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-eati-008",
+      "claim": "孕妇每天应摄入600微克叶酸，至少从孕前1个月开始至孕12周服用含400微克叶酸的产前维生素。",
+      "section": "Folic acid",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "孕期",
+        "神经管缺陷",
+        "补充剂"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-009",
+      "claim": "曾生育过神经管缺陷胎儿的女性应从孕前至少3个月至孕早期3个月每日额外补充4毫克叶酸。",
+      "section": "Folic acid",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷",
+        "高剂量"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-010",
+      "claim": "叶酸是唯一被证明有助于预防神经管缺陷的叶酸形式。",
+      "section": "Folic acid",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-011",
+      "claim": "孕期每日需铁27毫克，大多数产前维生素可提供该剂量。",
+      "section": "Iron",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "孕期",
+        "贫血"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-012",
+      "claim": "服用软糖维生素的孕妇可能需要额外补充铁剂。",
+      "section": "Iron",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "软糖维生素",
+        "补充剂"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-013",
+      "claim": "孕期应检测贫血，如贫血则医生可能推荐额外铁补充。",
+      "section": "Iron",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "贫血",
+        "检测"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-014",
+      "claim": "18岁及以下孕妇每日需钙1300毫克，19岁及以上孕妇每日需钙1000毫克。",
+      "section": "Calcium",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "孕期",
+        "骨骼"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-015",
+      "claim": "所有人每日需维生素D 15微克（600国际单位），孕妇如水平低需补充。",
+      "section": "Vitamin D",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "补充"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-016",
+      "claim": "产前维生素不应超推荐剂量服用，过量维生素A可导致出生缺陷。",
+      "section": "Prenatal vitamins",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "产前维生素",
+        "维生素A",
+        "安全性"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-017",
+      "claim": "补充剂不受FDA监管，应选择信誉良好的品牌。",
+      "section": "Prenatal vitamins",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "补充剂",
+        "FDA",
+        "品牌信誉"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-eati-018",
+      "claim": "孕期每天应摄入450毫克胆碱。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "胆碱",
+        "孕期",
+        "摄入量",
+        "胎儿脑发育"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-019",
+      "claim": "孕期及孕前、哺乳期每周应吃2-3份鱼或贝类。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼",
+        "海鲜",
+        "Omega-3",
+        "孕期"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-020",
+      "claim": "避免食用大眼金枪鱼、王鲭、马林鱼、橙连鳍鲑、鲨鱼、剑鱼或方头鱼。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼",
+        "汞",
+        "避免",
+        "孕期"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-021",
+      "claim": "每周白（长鳍）金枪鱼的摄入量应限制在6盎司以内。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "白金枪鱼",
+        "汞",
+        "限制",
+        "孕期"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-022",
+      "claim": "孕期应避免生鱼和贝类，包括寿司。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "生鱼",
+        "寿司",
+        "食品安全",
+        "孕期"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-023",
+      "claim": "孕期每天应摄入至少85毫克维生素C（19岁以上）或80毫克（19岁以下）。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素C",
+        "孕期",
+        "摄入量"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-024",
+      "claim": "孕期每天应喝8到12杯水。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "水",
+        "孕期",
+        "饮水"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-025",
+      "claim": "孕期膳食中一半的谷物应为全谷物。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "全谷物",
+        "孕期",
+        "膳食规划"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-026",
+      "claim": "孕期每餐中水果和蔬菜应占餐盘的一半。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "水果",
+        "蔬菜",
+        "孕期",
+        "膳食规划"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "7-9"
+    },
+    {
+      "id": "E-healthy-eati-027",
+      "claim": "孕妇每餐应使水果和蔬菜占一半。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "水果",
+        "蔬菜",
+        "孕期饮食"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "10-12"
+    },
+    {
+      "id": "E-healthy-eati-028",
+      "claim": "孕妇应每天摄入多种蛋白质。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "蛋白质",
+        "孕期饮食"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "10-12"
+    },
+    {
+      "id": "E-healthy-eati-029",
+      "claim": "孕妇应选择巴氏杀菌的乳制品，并优先选择脱脂或低脂（1%）品种以避免饱和脂肪。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "乳制品",
+        "巴氏杀菌",
+        "饱和脂肪",
+        "孕期饮食"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "10-12"
+    },
+    {
+      "id": "E-healthy-eati-030",
+      "claim": "孕期膳食中的脂肪和油应主要来自植物来源，限制固体脂肪（如动物脂肪和加工食品中的脂肪）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "脂肪",
+        "植物油",
+        "固体脂肪",
+        "孕期饮食"
+      ],
+      "source_doc": "Healthy Eating During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2026",
+      "url": "https://www.acog.org/womens-health/faqs/healthy-eating-during-pregnancy",
+      "page": "10-12"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "doc": "Advice About Eating Fish",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2021",
+  "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+  "complete": true,
+  "done_windows": 1,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-advice-about-001",
+      "claim": "孕妇、哺乳期妇女及1-11岁儿童应每周从最佳选择清单摄入2份鱼。",
+      "section": "Advice for Pregnant/Breastfeeding Women and Children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕妇",
+        "儿童",
+        "鱼类摄入",
+        "汞风险"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-002",
+      "claim": "孕妇和哺乳期妇女也可每周从好选择清单摄入1份鱼作为替代选择。",
+      "section": "Advice for Pregnant/Breastfeeding Women and Children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕妇",
+        "哺乳期",
+        "鱼类摄入",
+        "汞风险"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-003",
+      "claim": "应避免摄入最高汞水平的鱼类，包括大西洋马鲛、马林鱼、橙鲷、鲨鱼、剑鱼、墨西哥湾方头鱼和大眼金枪鱼。",
+      "section": "Choices to Avoid",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "鱼类",
+        "汞",
+        "避免摄入"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-004",
+      "claim": "如果家庭或朋友捕捞的鱼没有鱼类消费建议，每周只能吃一份且不再吃其他鱼。",
+      "section": "Fish Caught By Family or Friends",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "捕捞鱼",
+        "汞",
+        "消费建议"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-005",
+      "claim": "美国膳食指南建议每周至少摄入8盎司海鲜（基于2000卡路里饮食）。",
+      "section": "Dietary Guidelines for Americans",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "海鲜摄入量",
+        "膳食指南",
+        "成年人"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-006",
+      "claim": "孕期摄入鱼类有中等科学证据表明有助于婴儿认知发育。",
+      "section": "Health Benefits of Fish",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕期",
+        "鱼类",
+        "认知发育"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    },
+    {
+      "id": "E-advice-about-007",
+      "claim": "包含鱼类的健康饮食模式与降低髋部骨折、超重/肥胖和结直肠癌风险相关。",
+      "section": "Other Health Benefits",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "鱼类",
+        "健康饮食模式",
+        "骨折",
+        "肥胖",
+        "结直肠癌"
+      ],
+      "source_doc": "Advice About Eating Fish",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2021",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "page": "1-2"
+    }
+  ]
+}

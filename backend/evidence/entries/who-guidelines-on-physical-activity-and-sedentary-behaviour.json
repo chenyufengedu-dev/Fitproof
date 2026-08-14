@@ -1,0 +1,3108 @@
+{
+  "doc": "WHO guidelines on physical activity and sedentary behaviour",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2020",
+  "url": "WHO guidelines on physical activity and sedentary behaviour",
+  "complete": true,
+  "done_windows": 32,
+  "count": 176,
+  "entries": [
+    {
+      "id": "E-who-guidelin-001",
+      "claim": "儿童青少年应每天至少进行平均60分钟的中高强度有氧运动，每周进行。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "有氧运动",
+        "中高强度",
+        "每日运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-002",
+      "claim": "儿童青少年每周至少应有3天进行高强度有氧运动以及增强肌肉和骨骼的活动。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "高强度",
+        "肌肉强化",
+        "骨骼健康"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-003",
+      "claim": "儿童青少年应限制久坐时间，特别是娱乐性屏幕时间。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "久坐行为",
+        "屏幕时间",
+        "限制"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-004",
+      "claim": "所有成年人应定期进行身体活动。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "身体活动",
+        "定期"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-005",
+      "claim": "成年人每周应进行至少150-300分钟的中等强度有氧运动，或至少75-150分钟的高强度有氧运动，或等量组合。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "有氧运动",
+        "中等强度",
+        "高强度",
+        "运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-006",
+      "claim": "成年人每周至少应有2天进行涉及所有主要肌群的中高强度肌肉强化活动。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "肌肉强化",
+        "力量训练",
+        "频率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-007",
+      "claim": "成年人应限制久坐时间，用任何强度的身体活动（包括轻度）替代久坐。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "久坐行为",
+        "替代",
+        "轻度活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-008",
+      "claim": "为减少高久坐行为的危害，成年人应超过推荐的中高强度身体活动量。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "久坐",
+        "额外活动",
+        "补偿"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-009",
+      "claim": "成年人可将中等强度有氧运动增加至超过300分钟，或高强度超过150分钟，以获得额外健康益处。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "成人",
+        "额外益处",
+        "有氧运动",
+        "增量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "11-13"
+    },
+    {
+      "id": "E-who-guidelin-010",
+      "claim": "所有老年人都应定期进行身体活动。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "推荐"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-011",
+      "claim": "老年人每周应进行至少150-300分钟中等强度有氧运动，或至少75-150分钟高强度有氧运动，或等效组合，以获得实质性健康益处。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "有氧运动",
+        "中等强度",
+        "高强度",
+        "运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-012",
+      "claim": "老年人每周应有2天或以上进行涉及所有主要肌肉群的中等或更高强度的肌肉强化活动，以带来额外健康益处。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "肌肉强化",
+        "力量训练"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-013",
+      "claim": "老年人每周应有3天或以上进行多样化的多组分身体活动，强调功能性平衡和中等或更高强度的力量训练，以增强功能能力并预防跌倒。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "平衡训练",
+        "力量训练",
+        "预防跌倒"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-014",
+      "claim": "老年人应限制久坐时间，用任何强度（包括轻度）的身体活动替代久坐时间可带来健康益处。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "久坐",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-015",
+      "claim": "为减少高水平久坐行为对健康的不利影响，老年人应努力达到高于推荐水平的中高强度身体活动。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "久坐",
+        "中高强度身体活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-016",
+      "claim": "老年人可增加中等强度有氧运动至每周超过300分钟，或高强度有氧运动超过150分钟，或等效组合，以获得额外健康益处。",
+      "section": "OLDER ADULTS",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "有氧运动",
+        "额外健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-017",
+      "claim": "所有无禁忌症的孕妇和产后妇女应在整个孕期和产后定期进行身体活动。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "身体活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-018",
+      "claim": "怀孕前习惯进行高强度有氧活动或经常运动的女性，可在孕期和产后继续这些活动。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "高强度运动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-019",
+      "claim": "孕妇和产后妇女每周至少进行150分钟中等强度有氧运动，以获得实质性健康益处。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "有氧运动",
+        "运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-020",
+      "claim": "孕妇和产后妇女应进行多样化的有氧和肌肉强化活动，添加温和拉伸可能有益。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "有氧运动",
+        "肌肉强化",
+        "拉伸"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-021",
+      "claim": "进行一些身体活动总比不活动好。",
+      "section": "OLDER ADULTS",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-022",
+      "claim": "如果老年人未达到推荐量，进行一些身体活动仍将带来健康益处。",
+      "section": "OLDER ADULTS",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-023",
+      "claim": "老年人应从少量身体活动开始，逐渐增加频率、强度和时间。",
+      "section": "OLDER ADULTS",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "循序渐进"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-024",
+      "claim": "老年人应在其功能能力允许的范围内尽可能活跃，并根据健康水平调整活动强度。",
+      "section": "OLDER ADULTS",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "功能能力",
+        "活动强度"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "14-16"
+    },
+    {
+      "id": "E-who-guidelin-025",
+      "claim": "孕妇和产后女性进行一些体力活动比完全不做好。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "孕妇",
+        "产后",
+        "健康获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-026",
+      "claim": "孕妇和产后女性如果未达到推荐量，进行一些体力活动也有益健康。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "孕妇",
+        "产后",
+        "健康获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-027",
+      "claim": "孕妇和产后女性应从少量体力活动开始，逐渐增加频率、强度和时间。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "循序渐进",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-028",
+      "claim": "孕妇和产后女性可每天进行盆底肌训练以降低尿失禁风险。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "盆底肌训练",
+        "尿失禁",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-029",
+      "claim": "孕妇和产后女性应避免在过热环境下活动，尤其高湿度时。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "高温",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-030",
+      "claim": "孕妇和产后女性应在活动前、中、后喝水保持水分。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "补水",
+        "体力活动",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-031",
+      "claim": "孕妇和产后女性应避免身体接触、高跌倒风险或限制氧合的活动。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "安全",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-032",
+      "claim": "孕妇在孕中期后应避免仰卧位活动。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "仰卧位",
+        "孕妇",
+        "安全"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-033",
+      "claim": "孕妇参与竞技运动或显著超过推荐量时，应寻求专业医疗监督。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "竞技运动",
+        "孕妇",
+        "医疗监督"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-034",
+      "claim": "孕妇应被告知危险信号，出现时停止活动并咨询医生。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "危险信号",
+        "孕妇",
+        "安全"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-035",
+      "claim": "产后女性应逐渐恢复活动，剖宫产需咨询医生。",
+      "section": "Pregnant and postpartum women",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "产后",
+        "活动恢复",
+        "剖宫产"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-036",
+      "claim": "孕妇和产后女性应限制久坐时间，用任何强度的活动替代可带来健康益处。",
+      "section": "Pregnant and postpartum women",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐",
+        "体力活动",
+        "孕妇",
+        "产后"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-037",
+      "claim": "所有患有慢性疾病的成人和老年人应进行规律体力活动。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性病",
+        "规律体力活动",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-038",
+      "claim": "患有慢性疾病的成人和老年人每周应进行至少150-300分钟中等强度有氧活动，或75-150分钟高强度有氧活动，或等效组合。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "有氧活动",
+        "运动量",
+        "慢性病",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-039",
+      "claim": "患有慢性疾病的老年人每周至少3天进行强调功能平衡和力量训练的多组分活动，以增强功能能力并预防跌倒。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "功能平衡",
+        "力量训练",
+        "跌倒预防",
+        "老年人",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-040",
+      "claim": "患有慢性疾病的成人和老年人每周至少2天进行涉及所有主要肌肉群的中高强度力量训练。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "力量训练",
+        "肌肉群",
+        "慢性病",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-041",
+      "claim": "患有慢性疾病的成人和老年人应限制久坐时间，用任何强度的活动替代可带来健康益处。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐",
+        "体力活动",
+        "慢性病",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-042",
+      "claim": "为减少高久坐行为对健康的不利影响，患有慢性疾病的成人和老年人应进行超过推荐量的中高强度体力活动。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐",
+        "中高强度活动",
+        "慢性病",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-043",
+      "claim": "在无禁忌情况下，患有慢性疾病的成人和老年人可增加中等强度有氧活动至超过300分钟/周，或高强度超过150分钟/周，以获得额外健康益处。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "额外获益",
+        "有氧活动",
+        "慢性病",
+        "成人",
+        "老年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-044",
+      "claim": "当无法达到推荐时，患有慢性疾病的成人应根据自身能力参与体力活动。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "个体化",
+        "慢性病",
+        "体力活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-045",
+      "claim": "患有慢性疾病的成人应从少量活动开始，逐渐增加频率、强度和时间。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "循序渐进",
+        "慢性病",
+        "体力活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-046",
+      "claim": "患有慢性疾病的成人可咨询体力活动专家或医疗专业人员，获取适合个体的活动建议。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "专业咨询",
+        "慢性病",
+        "体力活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-047",
+      "claim": "在无禁忌情况下，开始不超过快走或日常活动强度的轻中度体力活动前，通常无需运动前医学许可。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "医学许可",
+        "体力活动",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "17-19"
+    },
+    {
+      "id": "E-who-guidelin-048",
+      "claim": "残疾儿童青少年每天应进行至少平均60分钟的中高强度身体活动。",
+      "section": "儿童和青少年（5-17岁）生活在残疾中",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "残疾",
+        "身体活动",
+        "中高强度"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-049",
+      "claim": "残疾儿童青少年每周应至少3天进行高强度有氧活动和肌肉骨骼强化活动。",
+      "section": "儿童和青少年（5-17岁）生活在残疾中",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "残疾",
+        "高强度有氧",
+        "肌肉强化"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-050",
+      "claim": "残疾儿童青少年应限制久坐时间，尤其是娱乐屏幕时间。",
+      "section": "儿童和青少年（5-17岁）生活在残疾中",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童青少年",
+        "残疾",
+        "久坐行为",
+        "屏幕时间"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-051",
+      "claim": "进行一些身体活动总比不活动好。",
+      "section": "儿童和青少年（5-17岁）生活在残疾中",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "益处",
+        "残疾儿童青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-052",
+      "claim": "残疾成人应定期进行身体活动，每周至少150-300分钟中等强度有氧活动或75-150分钟高强度有氧活动。",
+      "section": "成人（18岁及以上）生活在残疾中",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "残疾",
+        "身体活动",
+        "有氧活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-053",
+      "claim": "残疾成人应每周至少2天进行涉及所有主要肌肉群的中等或更高强度的肌肉强化活动。",
+      "section": "成人（18岁及以上）生活在残疾中",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成人",
+        "残疾",
+        "肌肉强化",
+        "每周2天"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "20-22"
+    },
+    {
+      "id": "E-who-guidelin-054",
+      "claim": "残疾成人应限制久坐时间。",
+      "section": "Recommendations for adults living with disability",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾成人",
+        "久坐",
+        "体力活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-055",
+      "claim": "用任何强度的体力活动（包括轻度）替代久坐时间可带来健康益处。",
+      "section": "Recommendations for adults living with disability",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐替代",
+        "体力活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-056",
+      "claim": "为减少久坐的危害，残疾成人应进行超过推荐量的中高强度体力活动。",
+      "section": "Recommendations for adults living with disability",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "中高强度体力活动",
+        "久坐危害"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-057",
+      "claim": "残疾成人可增加中等强度有氧活动至每周超过300分钟，或剧烈强度超过150分钟，以获得额外健康益处。",
+      "section": "Recommendations for adults living with disability",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "体力活动量",
+        "额外健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-058",
+      "claim": "老年残疾成人每周应进行至少3天强调功能平衡和力量训练的多组分体力活动，以增强功能能力并预防跌倒。",
+      "section": "Recommendations for older adults living with disability",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年残疾",
+        "平衡训练",
+        "力量训练",
+        "防跌倒"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-059",
+      "claim": "进行一些体力活动总比不做好。",
+      "section": "Good practice statements",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "最低限度"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-060",
+      "claim": "如果残疾成人未达到这些推荐量，进行一些体力活动仍将带来健康益处。",
+      "section": "Good practice statements",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-061",
+      "claim": "残疾成人应从少量体力活动开始，并逐渐增加频率、强度和时间。",
+      "section": "Good practice statements",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "渐进增加"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-062",
+      "claim": "残疾成人进行适合其当前活动水平、健康状况和身体功能的体力活动时，没有重大风险，且健康收益超过风险。",
+      "section": "Good practice statements",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "体力活动风险",
+        "健康收益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-063",
+      "claim": "残疾成人可能需要咨询医疗专业人员或体力活动与残疾专家，以确定适合他们的活动类型和量。",
+      "section": "Good practice statements",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "咨询专家",
+        "个体化活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "23-25"
+    },
+    {
+      "id": "E-who-guidelin-064",
+      "claim": "儿童青少年应每天平均进行至少60分钟中等至剧烈强度的有氧运动。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "有氧运动",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-065",
+      "claim": "儿童青少年每周至少3天进行剧烈有氧运动及肌肉和骨骼强化活动。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "剧烈运动",
+        "肌肉强化",
+        "骨骼强化",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-066",
+      "claim": "中等至剧烈强度身体活动可改善儿童青少年的心肺健康、肌肉健康、心脏代谢健康和骨骼健康。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "心肺健康",
+        "心脏代谢",
+        "骨骼健康"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-067",
+      "claim": "短期和长期的中等至剧烈强度身体活动对儿童青少年的认知功能、学业成绩和心理健康有积极影响。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "认知功能",
+        "学业成绩",
+        "心理健康"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-068",
+      "claim": "身体活动与儿童青少年健康体重管理的关联证据确定性低。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "体重管理",
+        "证据确定性"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-069",
+      "claim": "儿童青少年进行指南推荐的身体活动，风险较低且益处大于风险。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "风险",
+        "益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-070",
+      "claim": "先前推荐的每天最少60分钟中等至剧烈强度身体活动应修改为平均每天60分钟。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "推荐剂量",
+        "修改"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-071",
+      "claim": "更大剂量的剧烈强度身体活动与改善儿童青少年心肺健康相关。",
+      "section": "5-17岁儿童青少年",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "剧烈活动",
+        "心肺健康",
+        "剂量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "35-37"
+    },
+    {
+      "id": "E-who-guidelin-072",
+      "claim": "儿童青少年应每周至少进行3天肌肉强化活动。",
+      "section": "儿童与青少年（5-17岁）",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "肌肉强化",
+        "儿童",
+        "青少年",
+        "运动频率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-073",
+      "claim": "儿童青少年应限制久坐时间，尤其是娱乐性屏幕时间。",
+      "section": "儿童与青少年（5-17岁）久坐行为推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "屏幕时间",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-074",
+      "claim": "较高的久坐行为（屏幕时间）与儿童青少年较低的身体素质和心血管代谢健康显著相关。",
+      "section": "儿童与青少年（5-17岁）久坐行为推荐",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "屏幕时间",
+        "身体素质",
+        "心血管代谢健康",
+        "儿童"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-075",
+      "claim": "较高的久坐行为（屏幕时间、电视观看、电子游戏）与儿童青少年不良的心理健康和行为/亲社会行为相关。",
+      "section": "儿童与青少年（5-17岁）久坐行为推荐",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "屏幕时间",
+        "心理健康",
+        "行为问题",
+        "儿童"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-076",
+      "claim": "较高的久坐行为（屏幕时间、电视观看）与儿童青少年睡眠时间减少相关。",
+      "section": "儿童与青少年（5-17岁）久坐行为推荐",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "屏幕时间",
+        "睡眠",
+        "儿童"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-077",
+      "claim": "限制儿童青少年久坐行为的益处大于危害。",
+      "section": "儿童与青少年（5-17岁）久坐行为推荐",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "获益",
+        "危害",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "38-40"
+    },
+    {
+      "id": "E-who-guidelin-078",
+      "claim": "儿童和青少年久坐行为时间越长，健康结局越差。",
+      "section": "儿童和青少年（5-17岁）",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "健康结局",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-079",
+      "claim": "没有足够证据对儿童和青少年的久坐行为设定具体时间限制。",
+      "section": "儿童和青少年（5-17岁）",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "时间限制",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-080",
+      "claim": "用中等到高强度身体活动代替久坐时间可能为儿童和青少年带来健康益处。",
+      "section": "儿童和青少年（5-17岁）",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "久坐行为",
+        "健康益处",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-081",
+      "claim": "一些久坐活动（如阅读、做作业）对儿童和青少年的认知功能和社会交往有益。",
+      "section": "儿童和青少年（5-17岁）",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐活动",
+        "认知功能",
+        "社会交往",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-082",
+      "claim": "久坐行为与不良健康结局的关联在电视观看或休闲屏幕时间上比总久坐时间更强。",
+      "section": "儿童和青少年（5-17岁）",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "屏幕时间",
+        "电视观看",
+        "久坐行为",
+        "健康结局"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-083",
+      "claim": "所有成年人应定期进行身体活动。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "成年人",
+        "身体活动",
+        "定期"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-084",
+      "claim": "成年人每周应进行至少150-300分钟中等强度有氧活动，或至少75-150分钟高强度有氧活动，或等效组合。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "有氧活动",
+        "中等强度",
+        "高强度",
+        "每周"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-085",
+      "claim": "成年人每周应进行2天或以上的肌肉强化活动，涉及所有主要肌肉群。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "肌肉强化",
+        "成年人",
+        "力量训练"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-086",
+      "claim": "成年人可将中等强度有氧活动增加到超过300分钟，或高强度超过150分钟，以获得额外健康益处。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "有氧活动",
+        "额外健康益处",
+        "成年人"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-087",
+      "claim": "做一些身体活动比不做好。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-088",
+      "claim": "如果成年人未达到推荐的活动量，做一些身体活动仍然有益健康。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "最低活动量",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-089",
+      "claim": "成年人应从少量身体活动开始，逐渐增加频率、强度和时间。",
+      "section": "成年人（18-64岁）",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "开始",
+        "渐进",
+        "身体活动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "41-43"
+    },
+    {
+      "id": "E-who-guidelin-090",
+      "claim": "任何水平和强度的体力活动都与较低的全因死亡风险相关。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "全因死亡",
+        "心血管疾病",
+        "2型糖尿病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-091",
+      "claim": "更高水平的体力活动可降低特定部位癌症的发病风险。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "癌症",
+        "风险降低"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-092",
+      "claim": "体力活动可改善心理健康、认知健康和睡眠。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "心理健康",
+        "认知健康",
+        "睡眠"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-093",
+      "claim": "更高水平的体力活动与更有利的肥胖指标和体重控制相关。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "肥胖",
+        "体重控制"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-094",
+      "claim": "推荐成人进行的体力活动不会造成伤害，健康益处大于风险。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "安全性",
+        "风险获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-095",
+      "claim": "体力活动没有最低时长阈值，任何时长的活动都有益健康。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "时长",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-096",
+      "claim": "每周150-300分钟中等强度有氧体力活动可降低多种健康风险，超过300分钟仍有益但效益开始趋于平稳。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "推荐量",
+        "剂量反应"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "44-46"
+    },
+    {
+      "id": "E-who-guidelin-097",
+      "claim": "成年人每周进行≥2天的肌肉强化活动可带来额外健康益处。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "肌肉强化活动",
+        "健康益处",
+        "频率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "47-49"
+    },
+    {
+      "id": "E-who-guidelin-098",
+      "claim": "不同领域（休闲、交通、职业）的身体活动均可带来健康益处，但目前无法区分不同领域对健康结局的影响。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "领域",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "47-49"
+    },
+    {
+      "id": "E-who-guidelin-099",
+      "claim": "尽管高水平职业身体活动可能增加男性某些风险，但总体而言职业身体活动可带来健康益处。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "职业身体活动",
+        "健康益处",
+        "风险"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "47-49"
+    },
+    {
+      "id": "E-who-guidelin-100",
+      "claim": "成年人应限制久坐时间，用任何强度的身体活动（包括轻强度）替代久坐可带来健康益处。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "47-49"
+    },
+    {
+      "id": "E-who-guidelin-101",
+      "claim": "为减少高水平久坐的健康损害，成年人应进行超过推荐水平的 moderate- to vigorous-intensity 身体活动。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "身体活动",
+        "强度"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "47-49"
+    },
+    {
+      "id": "E-who-guidelin-102",
+      "claim": "限制久坐行为可降低健康风险。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "健康风险",
+        "指南"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-103",
+      "claim": "久坐时间增加与更高的全因死亡率、心血管疾病死亡率、癌症死亡率以及心血管疾病和2型糖尿病发病率相关。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "死亡率",
+        "心血管疾病",
+        "2型糖尿病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-104",
+      "claim": "久坐时间增加与子宫内膜癌、结肠癌和肺癌的风险增加相关。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "癌症",
+        "子宫内膜癌",
+        "结肠癌",
+        "肺癌"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-105",
+      "claim": "限制久坐行为的好处大于潜在风险。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "风险获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-106",
+      "claim": "没有足够证据设定基于时间的久坐行为量化推荐。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "量化推荐",
+        "证据不足"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-107",
+      "claim": "没有足够证据推荐久坐行为打断的频率或时长。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "打断",
+        "频率",
+        "时长"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-108",
+      "claim": "没有足够证据推荐不同类型的久坐行为或领域。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "类型",
+        "领域"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-109",
+      "claim": "较高水平的中高强度体力活动可减轻久坐行为对健康的不利影响。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "体力活动",
+        "死亡率",
+        "心血管疾病",
+        "癌症"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-110",
+      "claim": "对于久坐时间高的人，推荐较高水平的中高强度体力活动。",
+      "section": "ADULTS (aged 18–64 years)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "久坐行为",
+        "体力活动",
+        "推荐"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "50-52"
+    },
+    {
+      "id": "E-who-guidelin-111",
+      "claim": "所有老年人应定期进行身体活动。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "健康"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-112",
+      "claim": "老年人每周应至少进行150-300分钟中等强度有氧运动，或75-150分钟高强度有氧运动，或等效组合，以获得实质健康益处。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "有氧运动",
+        "运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-113",
+      "claim": "老年人每周应进行2天或以上中等或更高强度的肌肉增强活动，涉及所有主要肌群，可获得额外健康益处。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "肌肉增强",
+        "力量训练"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-114",
+      "claim": "老年人每周应进行3天或以上多元身体活动，强调功能平衡和力量训练，以增强功能能力和预防跌倒。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "多元运动",
+        "平衡训练",
+        "跌倒预防"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-115",
+      "claim": "老年人可将中等强度有氧活动增加至超过300分钟，或高强度活动超过150分钟，或等效组合，以获得额外健康益处。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "有氧运动",
+        "额外健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-116",
+      "claim": "老年人做少量身体活动比完全不做好；如未达到推荐量，做身体活动仍可带来健康益处。",
+      "section": "OLDER ADULTS (aged 65 years and older)",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "身体活动",
+        "最低量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "53-55"
+    },
+    {
+      "id": "E-who-guidelin-117",
+      "claim": "老年人应限制久坐时间，用任何强度的身体活动（包括低强度）替代久坐有益健康。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "久坐行为",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-118",
+      "claim": "为减少高水平久坐行为的有害影响，老年人应进行超过推荐水平的中等到剧烈强度身体活动。",
+      "section": "OLDER ADULTS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年人",
+        "久坐行为",
+        "中等到剧烈强度身体活动",
+        "健康"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-119",
+      "claim": "所有无禁忌症的孕妇和产后妇女应在整个孕期和产后定期进行身体活动。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "身体活动",
+        "孕期",
+        "产后恢复"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-120",
+      "claim": "孕妇和产后妇女每周应至少进行150分钟中等强度有氧身体活动以获得显著健康益处。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "有氧活动",
+        "中等强度",
+        "运动时长"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-121",
+      "claim": "孕妇和产后妇女应融入多样化的有氧和肌肉强化活动，轻柔拉伸也可能有益。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "有氧运动",
+        "力量训练",
+        "拉伸"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-122",
+      "claim": "孕前习惯进行剧烈有氧活动或身体活跃的妇女，在孕期和产后可继续这些活动。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "剧烈活动",
+        "孕期运动",
+        "继续"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-123",
+      "claim": "孕妇和产后妇女进行一些身体活动总比不做好。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "身体活动",
+        "健康获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-124",
+      "claim": "若孕妇和产后妇女未达到推荐量，进行少量身体活动仍有益健康。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "身体活动",
+        "少量运动"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-125",
+      "claim": "孕妇和产后妇女应从少量身体活动开始，逐渐增加频率、强度和时间。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "运动递增",
+        "循序渐进"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-126",
+      "claim": "孕妇和产后妇女可每天进行盆底肌训练以降低尿失禁风险。",
+      "section": "PREGNANT AND POSTPARTUM WOMEN",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "孕妇",
+        "产后",
+        "盆底肌训练",
+        "尿失禁"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "56-58"
+    },
+    {
+      "id": "E-who-guidelin-127",
+      "claim": "所有患有癌症（癌症幸存者）、高血压、2型糖尿病或HIV的成年和老年人应定期进行身体活动。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "身体活动",
+        "慢性病",
+        "癌症",
+        "高血压",
+        "2型糖尿病",
+        "HIV"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-128",
+      "claim": "患有这些慢性病的成年和老年人每周应至少进行150-300分钟中等强度有氧身体活动，或75-150分钟高强度有氧身体活动，或等量组合。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "有氧活动",
+        "运动量",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-129",
+      "claim": "患有这些慢性病的成年和老年人每周还应进行2天或以上的中等或更高强度肌肉强化活动，涉及所有主要肌肉群。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "肌肉强化",
+        "力量训练",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-130",
+      "claim": "患有这些慢性病的老年人每周应进行3天或以上的多样化多组分身体活动，强调功能平衡和力量训练，以增强功能能力并预防跌倒。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "平衡训练",
+        "力量训练",
+        "老年人",
+        "跌倒预防"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-131",
+      "claim": "如果没有禁忌，患有这些慢性病的成年和老年人可将中等强度有氧身体活动增加到每周300分钟以上，或高强度有氧活动150分钟以上，或等量组合，以获得额外健康益处。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "有氧活动",
+        "额外益处",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-132",
+      "claim": "无法达到上述建议的慢性病患者应根据自身能力进行身体活动，并从小量开始，逐渐增加频率、强度和时间。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "个体化",
+        "循序渐进",
+        "慢性病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "62-64"
+    },
+    {
+      "id": "E-who-guidelin-133",
+      "claim": "癌症幸存者中，诊断后更多的身体活动与较低的全因死亡率和癌症特异性死亡率相关。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "癌症幸存者",
+        "身体活动",
+        "死亡率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-134",
+      "claim": "身体活动可降低高血压成人心血管疾病进展的风险。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "高血压",
+        "身体活动",
+        "心血管疾病"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-135",
+      "claim": "身体活动可改善高血压成人的身体功能和健康相关生活质量。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "高血压",
+        "身体活动",
+        "生活质量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-136",
+      "claim": "身体活动可改善2型糖尿病成人的疾病进展标志物（HbA1c、血压、BMI、血脂）。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "2型糖尿病",
+        "身体活动",
+        "HbA1c",
+        "血压",
+        "BMI"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-137",
+      "claim": "对于HIV感染者，身体活动可改善体能、肌力、体成分、生活质量，并减少抑郁焦虑症状，且不影响病毒载量或CD4计数。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "HIV",
+        "身体活动",
+        "生活质量",
+        "抑郁焦虑"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-138",
+      "claim": "癌症幸存者中，诊断后身体活动量在每周10-15 MET-小时（相当于150分钟中高强度活动）时，全因和乳腺癌特异性死亡率最低，更高水平未发现危害。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "癌症幸存者",
+        "剂量反应",
+        "身体活动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-139",
+      "claim": "高血压成人中，身体活动量与心血管疾病死亡率存在明确的剂量反应关系。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "高血压",
+        "剂量反应",
+        "心血管死亡率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-140",
+      "claim": "2型糖尿病成人中，身体活动量与心血管死亡率呈反向曲线关系；与不活动相比，进行一些活动风险降低32%，达到推荐水平或以上风险降低40%。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "2型糖尿病",
+        "剂量反应",
+        "心血管死亡率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-141",
+      "claim": "对慢性病患者（高血压、2型糖尿病、癌症幸存者），建议每周进行150-300分钟中等强度有氧活动（或等效），并每周进行2-3次抗阻训练。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性病",
+        "身体活动推荐量",
+        "有氧活动",
+        "抗阻训练"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-142",
+      "claim": "癌症幸存者中，同时满足有氧和肌力活动推荐者比两者都不满足者癌症死亡率风险降低30%；仅满足肌力活动推荐者也降低34%。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "癌症幸存者",
+        "肌力活动",
+        "有氧活动",
+        "死亡率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-143",
+      "claim": "高血压成人中，有氧活动、抗阻活动或两者结合均有益于改善心血管疾病进展，不同模式降压效果无显著差异。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "高血压",
+        "有氧活动",
+        "抗阻活动",
+        "血压"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-144",
+      "claim": "2型糖尿病成人中，有氧活动、抗阻活动或两者结合均改善HbA1c、血压、BMI、血脂等疾病标志物；高强度抗阻训练可降低空腹胰岛素。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "2型糖尿病",
+        "有氧活动",
+        "抗阻训练",
+        "HbA1c"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-145",
+      "claim": "HIV感染者中，有氧活动或结合抗阻活动不改变病毒载量或CD4计数。",
+      "section": "Adults and older adults with chronic conditions",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "HIV",
+        "有氧活动",
+        "病毒载量",
+        "CD4计数"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "65-67"
+    },
+    {
+      "id": "E-who-guidelin-146",
+      "claim": "成人及老年慢性病患者（包括癌症幸存者、高血压、2型糖尿病、HIV感染者）应限制久坐时间，用任何强度的身体活动（包括低强度）替代久坐可带来健康益处。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性病",
+        "久坐行为",
+        "身体活动",
+        "癌症",
+        "高血压",
+        "2型糖尿病",
+        "HIV"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "68-70"
+    },
+    {
+      "id": "E-who-guidelin-147",
+      "claim": "为减少高量久坐的有害影响，成人及老年慢性病患者应进行超过推荐水平的中等到高强度身体活动。",
+      "section": "ADULTS AND OLDER ADULTS WITH CHRONIC CONDITIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "慢性病",
+        "久坐行为",
+        "中高强度身体活动",
+        "癌症",
+        "高血压",
+        "2型糖尿病",
+        "HIV"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "68-70"
+    },
+    {
+      "id": "E-who-guidelin-148",
+      "claim": "残疾儿童青少年应每天至少进行60分钟中等到高强度的有氧活动，每周至少3天高强度活动及增强肌肉骨骼的活动。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years) AND ADULTS (aged 18 years and older) LIVING WITH DISABILITY",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾",
+        "儿童青少年",
+        "身体活动",
+        "有氧活动",
+        "肌肉骨骼"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "68-70"
+    },
+    {
+      "id": "E-who-guidelin-149",
+      "claim": "所有残疾成年人均应定期进行身体活动。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "身体活动",
+        "定期"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-150",
+      "claim": "残疾成年人每周应至少进行150-300分钟中等强度有氧活动，或75-150分钟高强度有氧活动，或等效组合。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "有氧活动",
+        "运动量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-151",
+      "claim": "残疾成年人每周应进行2天以上涉及所有主要肌肉群的中等或更高强度肌肉强化活动。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "肌肉强化",
+        "频率"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-152",
+      "claim": "老年残疾成年人每周应进行3天以上的多种组合身体活动，强调功能平衡和力量训练。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "老年残疾人",
+        "平衡",
+        "力量训练"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-153",
+      "claim": "残疾成年人可将中等强度有氧活动增加至超过300分钟，或高强度超过150分钟，以获得额外健康益处。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的推荐",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "运动量增加",
+        "额外益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-154",
+      "claim": "做一些身体活动总比不做好。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的良好实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "身体活动",
+        "底线"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-155",
+      "claim": "如果残疾成年人未达到推荐量，进行一些身体活动仍可带来健康益处。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的良好实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "身体活动",
+        "部分获益"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-156",
+      "claim": "残疾成年人应从少量身体活动开始，逐渐增加频率、强度和持续时间。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的良好实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "活动渐进",
+        "安全"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-157",
+      "claim": "对于残疾人，在适应当前活动水平、健康状况和身体功能的情况下，进行身体活动没有重大风险。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的良好实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "身体活动",
+        "风险"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-158",
+      "claim": "残疾成年人可能需要咨询医疗专业人员或身体活动与残疾专家，以确定适合的活动类型和量。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的良好实践声明",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾人",
+        "咨询",
+        "个性化"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-159",
+      "claim": "对于多发性硬化症患者，身体活动（尤其有氧和肌肉强化活动）可改善身体功能、活动能力、步行速度和耐力、心肺健康、力量和平衡。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "多发性硬化症",
+        "身体活动",
+        "身体功能"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-160",
+      "claim": "对于脊髓损伤患者，身体活动可改善步行功能、肌肉力量和上肢功能。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "脊髓损伤",
+        "身体活动",
+        "身体功能"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-161",
+      "claim": "对于帕金森病患者，身体活动可改善运动症状、功能活动能力、耐力、步态冻结和前后移动速度。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "帕金森病",
+        "身体活动",
+        "运动功能"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-162",
+      "claim": "对于有卒中病史者，身体活动可改善身体功能和认知。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "卒中",
+        "身体活动",
+        "认知"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-163",
+      "claim": "对于严重临床抑郁症患者，身体活动可改善健康相关生活质量。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "抑郁症",
+        "身体活动",
+        "生活质量"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-164",
+      "claim": "对于认知功能受损者（包括精神分裂症），中等至剧烈强度身体活动可改善认知、工作记忆、社会认知和注意力。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "认知障碍",
+        "精神分裂症",
+        "身体活动",
+        "认知"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-165",
+      "claim": "对于智力障碍者，身体活动可改善身体功能（静态和动态平衡）。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "智力障碍",
+        "身体活动",
+        "平衡"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-166",
+      "claim": "对于注意缺陷/多动障碍（ADHD）儿童和青少年，中等至剧烈强度身体活动可改善注意力、执行功能和社会功能。",
+      "section": "儿童、青少年和成人（5-17岁和18岁以上）残疾人的支持性证据",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "ADHD",
+        "儿童",
+        "身体活动",
+        "认知"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "71-73"
+    },
+    {
+      "id": "E-who-guidelin-167",
+      "claim": "残疾儿童青少年应限制久坐时间，特别是娱乐性屏幕时间。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years) AND ADULTS (aged 18 years and older) LIVING WITH DISABILITY",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾",
+        "儿童青少年",
+        "久坐行为",
+        "屏幕时间"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "74-76"
+    },
+    {
+      "id": "E-who-guidelin-168",
+      "claim": "残疾成年人应限制久坐时间，用任何强度的身体活动（包括低强度）替代久坐有益健康。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years) AND ADULTS (aged 18 years and older) LIVING WITH DISABILITY",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾",
+        "成年人",
+        "久坐行为",
+        "身体活动替代"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "74-76"
+    },
+    {
+      "id": "E-who-guidelin-169",
+      "claim": "为减少高久坐水平对健康的不利影响，残疾成年人应进行超过推荐量的中高强度身体活动。",
+      "section": "CHILDREN AND ADOLESCENTS (aged 5–17 years) AND ADULTS (aged 18 years and older) LIVING WITH DISABILITY",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "残疾",
+        "成年人",
+        "中高强度活动",
+        "久坐行为"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "74-76"
+    },
+    {
+      "id": "E-who-guidelin-170",
+      "claim": "在所有人群中，体力活动和限制久坐行为的益处大于潜在危害。",
+      "section": "BENEFITS AND HARMS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "久坐行为",
+        "益处",
+        "危害"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-171",
+      "claim": "做一点体力活动比完全不做好。",
+      "section": "BENEFITS AND HARMS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "体力活动",
+        "健康益处"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-172",
+      "claim": "运动前通常无需医学许可。",
+      "section": "BENEFITS AND HARMS",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "运动前",
+        "医学许可"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-173",
+      "claim": "逐渐增加至中等强度活动对不活跃个体无已知心脏事件风险，且肌肉骨骼损伤风险极低。",
+      "section": "BENEFITS AND HARMS",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "中等强度活动",
+        "心脏事件",
+        "损伤风险"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-174",
+      "claim": "轻度和中等强度体力活动通常低风险，推荐所有人群。",
+      "section": "BENEFITS AND HARMS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "轻度活动",
+        "中等强度",
+        "低风险"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-175",
+      "claim": "步行等无需设备或成本的低风险活动可带来显著健康收益。",
+      "section": "RESOURCE IMPLICATIONS",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "步行",
+        "健康收益",
+        "成本"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    },
+    {
+      "id": "E-who-guidelin-176",
+      "claim": "许多残疾人可在无需适应设备或设施的情况下参与多种形式的体力活动。",
+      "section": "EQUITY, ACCEPTABILITY AND FEASIBILITY",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "残疾",
+        "体力活动",
+        "适应设备"
+      ],
+      "source_doc": "WHO guidelines on physical activity and sedentary behaviour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2020",
+      "url": "WHO guidelines on physical activity and sedentary behaviour",
+      "page": "77-79"
+    }
+  ]
+}

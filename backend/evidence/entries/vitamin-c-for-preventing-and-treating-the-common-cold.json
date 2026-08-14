@@ -1,0 +1,512 @@
+{
+  "doc": "Vitamin C for preventing and treating the common cold",
+  "org": "Cochrane 协作网",
+  "year": "2013",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+  "complete": true,
+  "done_windows": 32,
+  "count": 28,
+  "entries": [
+    {
+      "id": "E-vitamin-c-fo-001",
+      "claim": "在普通人群中，常规补充维生素C不能预防感冒。",
+      "section": "Abstract: Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "预防"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-c-fo-002",
+      "claim": "在身体压力大的人群（如马拉松运动员、滑雪者、士兵）中，常规补充维生素C可显著降低感冒风险。",
+      "section": "Abstract: Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "预防",
+        "运动人群"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-c-fo-003",
+      "claim": "常规补充维生素C可缩短感冒持续时间：成人缩短8%，儿童缩短14%，儿童每日1-2克可缩短18%。",
+      "section": "Abstract: Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "持续时间",
+        "儿童",
+        "成人"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-c-fo-004",
+      "claim": "常规补充维生素C可减轻感冒的严重程度。",
+      "section": "Abstract: Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "严重程度"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-c-fo-005",
+      "claim": "治疗性维生素C（感冒症状出现后开始服用）对感冒的持续时间或严重程度无一致效果。",
+      "section": "Abstract: Main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "治疗"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-c-fo-006",
+      "claim": "健康人群常规补充维生素C不能预防感冒，因此不推荐常规补充。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "常规补充"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-c-fo-007",
+      "claim": "对于短期剧烈体力活动（如马拉松运动员）的人群，补充维生素C可降低感冒风险。",
+      "section": "Plain language summary",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "剧烈运动"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-c-fo-008",
+      "claim": "日常补充维生素C可适度缩短感冒症状的持续时间。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "持续时间",
+        "常规补充"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-c-fo-009",
+      "claim": "对于普通人群，常规补充维生素C不能降低普通感冒的发生率。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "发生率"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-c-fo-010",
+      "claim": "对于承受重度急性体力应激的人群，常规补充维生素C可将感冒发生率降低约一半。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "体力应激",
+        "发生率"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-c-fo-011",
+      "claim": "常规补充维生素C可缩短感冒持续时间：儿童减少约14%，成人减少约8%。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "持续时间",
+        "儿童",
+        "成人"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-c-fo-012",
+      "claim": "常规补充维生素C不能预防普通感冒的发生。",
+      "section": "Common cold incidence",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-c-fo-013",
+      "claim": "在重度急性身体压力下（如马拉松、滑雪、极地训练），维生素C补充可降低普通感冒发病率。",
+      "section": "Trials with people under heavy acute physical stress",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "身体压力"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-c-fo-014",
+      "claim": "常规补充维生素C可轻度缩短感冒持续时间，但临床意义有限，不推荐全年常规补充。",
+      "section": "Common cold duration and severity: regular supplementation trials",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "疗程",
+        "常规补充"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-c-fo-015",
+      "claim": "感冒症状出现后开始补充维生素C不能缩短病程。",
+      "section": "Community therapeutic studies: duration of colds",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "治疗",
+        "疗程"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-c-fo-016",
+      "claim": "每日补充≥1克维生素C的不良反应发生率与安慰剂相似，无严重不良反应报告。",
+      "section": "Adverse effects from high-dose vitamin C intake",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "不良反应",
+        "安全性"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-c-fo-017",
+      "claim": "常规补充维生素C不能降低普通人群的感冒发病率",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "发病率"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-018",
+      "claim": "在极端体力消耗或寒冷应激下，补充维生素C可能预防感冒",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "极端条件"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-019",
+      "claim": "每日至少0.2克维生素C可缩短成人感冒持续时间8%，儿童14%；1-2克/日可缩短儿童感冒持续时间18%",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "持续时间",
+        "剂量"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-020",
+      "claim": "治疗性补充维生素C未被证明对感冒有效",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "治疗"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-021",
+      "claim": "感冒患者可个体化尝试治疗性补充维生素C",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "治疗",
+        "个体化"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-022",
+      "claim": "维生素C在每日数克剂量内安全",
+      "section": "Safety of vitamin C",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-vitamin-c-fo-023",
+      "claim": "每日1-2克维生素C不能预防普通感冒或缩短病程以证明常规补充合理。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "预防",
+        "一般人群",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vitamin-c-fo-024",
+      "claim": "在重体力或寒冷应激人群中，每日0.25-1克维生素C可减半感冒发生率。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "重体力应激",
+        "寒冷应激",
+        "预防"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vitamin-c-fo-025",
+      "claim": "普通人群不应常规补充维生素C来预防感冒；个人试验治疗可能合理但缺乏足够证据支持广泛推荐。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒",
+        "常规补充",
+        "不推荐",
+        "个体治疗"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vitamin-c-fo-026",
+      "claim": "对于普通人群，每天至少1克维生素C不能预防感冒。",
+      "section": "Reply to Roger Mann M.D.",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "普通感冒",
+        "预防",
+        "剂量"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "91-93"
+    },
+    {
+      "id": "E-vitamin-c-fo-027",
+      "claim": "对于处于剧烈身体压力下的人群，维生素C可以降低感冒发生率。",
+      "section": "Reply to Hickey and Roberts",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "剧烈身体压力",
+        "感冒预防"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "91-93"
+    },
+    {
+      "id": "E-vitamin-c-fo-028",
+      "claim": "治疗感冒时，高剂量维生素C可能缩短病程，建议患者个体化尝试。",
+      "section": "Reply to Dr Robert McKillop",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "感冒治疗",
+        "剂量",
+        "个体化"
+      ],
+      "source_doc": "Vitamin C for preventing and treating the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full",
+      "page": "91-93"
+    }
+  ]
+}

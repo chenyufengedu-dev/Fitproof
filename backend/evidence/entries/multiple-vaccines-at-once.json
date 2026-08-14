@@ -1,0 +1,96 @@
+{
+  "doc": "Multiple Vaccines at Once",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-multiple-vac-001",
+      "claim": "不同儿童疫苗可在同一次就诊中同时接种。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童疫苗",
+        "同时接种",
+        "疫苗接种"
+      ],
+      "source_doc": "Multiple Vaccines at Once",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-multiple-vac-002",
+      "claim": "同时接种多种疫苗不会引起慢性健康问题。",
+      "section": "What the research shows",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "疫苗安全性",
+        "同时接种",
+        "慢性健康问题"
+      ],
+      "source_doc": "Multiple Vaccines at Once",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-multiple-vac-003",
+      "claim": "CDC推荐在2岁前接种疫苗以预防14种传染病。",
+      "section": "Why it's important",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童疫苗",
+        "疫苗接种时间",
+        "传染病预防"
+      ],
+      "source_doc": "Multiple Vaccines at Once",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-multiple-vac-004",
+      "claim": "同时接种多种疫苗与单独接种同样有效。",
+      "section": "What the research shows",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "疫苗有效性",
+        "同时接种",
+        "联合疫苗"
+      ],
+      "source_doc": "Multiple Vaccines at Once",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-multiple-vac-005",
+      "claim": "婴儿从出生起就暴露于大量细菌和病毒，疫苗中的抗原数量不会对免疫系统造成额外负担。",
+      "section": "What the research shows",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "疫苗抗原",
+        "免疫系统负担",
+        "婴儿"
+      ],
+      "source_doc": "Multiple Vaccines at Once",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "page": "1-3"
+    }
+  ]
+}

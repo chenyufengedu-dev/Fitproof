@@ -1,0 +1,352 @@
+{
+  "doc": "Daily iron supplementation in infants and children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2016",
+  "url": "https://www.who.int/publications/i/item/9789241549523",
+  "complete": true,
+  "done_windows": 18,
+  "count": 19,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "对6-23月龄婴幼儿，在贫血高发地区每日补充10-12.5mg元素铁，持续3个月/年，可预防缺铁和贫血。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "婴幼儿",
+        "贫血",
+        "铁缺乏",
+        "每日补铁"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-002",
+      "claim": "对24-59月龄学龄前儿童，在贫血高发地区每日补充30mg元素铁，持续3个月/年，可提高血红蛋白浓度和改善铁状态。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "学龄前儿童",
+        "贫血",
+        "铁状态",
+        "每日补铁"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-003",
+      "claim": "对5岁及以上学龄儿童，在贫血高发地区每日补充30-60mg元素铁，持续3个月/年，可预防缺铁和贫血。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "学龄儿童",
+        "贫血",
+        "铁缺乏",
+        "每日补铁"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-004",
+      "claim": "在疟疾流行区，儿童补铁应结合预防、诊断和治疗疟疾的公共卫生措施。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "疟疾",
+        "补铁",
+        "公共卫生措施",
+        "儿童"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-005",
+      "claim": "在疟疾流行区，若提供定期的疟疾监测和治疗服务，补铁不会增加临床疟疾或死亡风险。",
+      "section": "Remarks",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "疟疾",
+        "补铁",
+        "安全性",
+        "监测治疗"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-006",
+      "claim": "当贫血患病率为20%-40%时，可考虑间歇性补铁方案。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "贫血",
+        "间歇性补铁",
+        "方案选择"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-007",
+      "claim": "在贫血高发地区，补铁前无需常规筛查贫血。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "贫血筛查",
+        "补铁",
+        "高发地区"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-008",
+      "claim": "在疟疾流行区，无法获得疟疾预防和治疗的儿童不应给予口服铁剂。",
+      "section": "Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "疟疾",
+        "补铁",
+        "禁忌",
+        "预防治疗"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "10-12"
+    },
+    {
+      "id": "E-daily-iron-s-009",
+      "claim": "在贫血高发地区（患病率≥40%），6-23月龄婴儿每日补充10-12.5mg元素铁（持续3个月/年）可预防缺铁和贫血。",
+      "section": "Daily iron supplementation in infants and children aged 6–23 months",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "婴儿",
+        "贫血",
+        "缺铁",
+        "公共卫生干预"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "16-18"
+    },
+    {
+      "id": "E-daily-iron-s-010",
+      "claim": "在贫血高发地区（患病率≥40%），24-59月龄儿童每日补充30mg元素铁（持续3个月/年）可提高血红蛋白浓度和改善铁状况。",
+      "section": "Daily iron supplementation in children aged 24–59 months",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "学龄前儿童",
+        "血红蛋白",
+        "铁状况",
+        "公共卫生干预"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "16-18"
+    },
+    {
+      "id": "E-daily-iron-s-011",
+      "claim": "在6-23月龄婴儿中，每日铁补充对生长（发育迟缓、消瘦）没有影响。",
+      "section": "Daily iron supplementation in infants and children aged 6–23 months",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "婴儿",
+        "生长",
+        "发育迟缓",
+        "消瘦"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "16-18"
+    },
+    {
+      "id": "E-daily-iron-s-012",
+      "claim": "在24-59月龄儿童中，每日铁补充对最终身高和体重没有显著影响。",
+      "section": "Daily iron supplementation in children aged 24–59 months",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "学龄前儿童",
+        "身高",
+        "体重",
+        "生长"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "16-18"
+    },
+    {
+      "id": "E-daily-iron-s-013",
+      "claim": "对于5-12岁生活在贫血高发区（患病率≥40%）的学龄儿童，推荐每日补充30-60毫克元素铁，每年连续补充3个月。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "学龄儿童",
+        "贫血",
+        "每日"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "19-21"
+    },
+    {
+      "id": "E-daily-iron-s-014",
+      "claim": "在疟疾流行区，应为婴儿和儿童提供铁补充，但必须与预防、诊断和治疗疟疾的公共卫生措施相结合。",
+      "section": "Daily iron supplementation in infants and children in malaria-endemic areas",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "疟疾",
+        "婴儿",
+        "儿童"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "19-21"
+    },
+    {
+      "id": "E-daily-iron-s-015",
+      "claim": "在疟疾流行区，如果提供常规疟疾监测和治疗服务，铁补充不会增加临床疟疾或死亡风险。",
+      "section": "Remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "疟疾",
+        "风险"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "19-21"
+    },
+    {
+      "id": "E-daily-iron-s-016",
+      "claim": "在贫血高发区，无需在补充铁之前筛查贫血。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "贫血筛查"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "19-21"
+    },
+    {
+      "id": "E-daily-iron-s-017",
+      "claim": "在贫血患病率20-40%的地区，可考虑间歇性补铁方案。",
+      "section": "Remarks",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "间歇性",
+        "贫血"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "19-21"
+    },
+    {
+      "id": "E-daily-iron-s-018",
+      "claim": "在贫血患病率超过40%的人群中，大多数儿童将从每日或间歇性铁补充中获益。",
+      "section": "ANNEX 2. SUMMARY OF THE CONSIDERATIONS OF THE MEMBERS OF THE GUIDELINE DEVELOPMENT GROUP FOR DETERMINING THE STRENGTH OF THE RECOMMENDATION FOR DAILY IRON SUPPLEMENTATION IN CHILDREN AGED 6–23 MONTHS",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "贫血",
+        "儿童",
+        "患病率"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "37-39"
+    },
+    {
+      "id": "E-daily-iron-s-019",
+      "claim": "在疟疾流行区，铁补充剂只应给予使用杀虫剂处理蚊帐且疟疾发作能得到有效及时治疗的婴儿",
+      "section": "ANNEX 5. SUMMARY OF THE CONSIDERATIONS OF THE MEMBERS OF THE GUIDELINE DEVELOPMENT GROUP FOR DETERMINING THE STRENGTH OF THE RECOMMENDATION FOR DAILY IRON SUPPLEMENTATION IN MALARIA–ENDEMIC AREAS",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "铁补充",
+        "疟疾",
+        "婴儿",
+        "蚊帐",
+        "抗疟药"
+      ],
+      "source_doc": "Daily iron supplementation in infants and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/publications/i/item/9789241549523",
+      "page": "40-42"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "doc": "成人药不能给儿童服用",
+  "org": "国家药品监督管理局 (NMPA)",
+  "year": "2019",
+  "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-成人药不能给儿童服用-001",
+      "claim": "成人药不能给儿童使用，不能将成人药减半给儿童服用。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "成人药",
+        "儿童用药",
+        "剂量"
+      ],
+      "source_doc": "成人药不能给儿童服用",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+      "page": "1-1"
+    },
+    {
+      "id": "E-成人药不能给儿童服用-002",
+      "claim": "儿童应使用儿童剂型的药物，不要随意将成人药减量给儿童吃。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "儿童剂型",
+        "用药安全",
+        "儿童"
+      ],
+      "source_doc": "成人药不能给儿童服用",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+      "page": "1-1"
+    },
+    {
+      "id": "E-成人药不能给儿童服用-003",
+      "claim": "喹诺酮类抗菌药（如诺氟沙星）可能抑制软骨发育，18岁以下未成年人禁用。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "喹诺酮",
+        "诺氟沙星",
+        "儿童禁用"
+      ],
+      "source_doc": "成人药不能给儿童服用",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+      "page": "1-1"
+    },
+    {
+      "id": "E-成人药不能给儿童服用-004",
+      "claim": "氨基糖苷类抗生素（如庆大霉素、链霉素）有肾脏毒性和耳毒性，儿童不宜使用。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "氨基糖苷类",
+        "庆大霉素",
+        "链霉素",
+        "儿童禁用"
+      ],
+      "source_doc": "成人药不能给儿童服用",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+      "page": "1-1"
+    },
+    {
+      "id": "E-成人药不能给儿童服用-005",
+      "claim": "皮质激素类药物长期使用可能造成儿童生长迟缓，影响身高，儿童不宜使用。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "皮质激素",
+        "生长迟缓",
+        "儿童禁用"
+      ],
+      "source_doc": "成人药不能给儿童服用",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2019",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/kpzhsh/kpzhshyp/20191030093901212.html",
+      "page": "1-1"
+    }
+  ]
+}

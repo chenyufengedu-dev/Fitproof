@@ -1,0 +1,30 @@
+{
+  "doc": "Intermittent iron and folic acid supplementation in adult women and adolescent girls in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-women-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "在非孕期育龄妇女贫血患病率≥20%的人群中，间歇性补充铁和叶酸可改善血红蛋白浓度和铁状态，降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "间歇性补充",
+        "铁",
+        "叶酸",
+        "贫血",
+        "育龄妇女"
+      ],
+      "source_doc": "Intermittent iron and folic acid supplementation in adult women and adolescent girls in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-women-malaria",
+      "page": "1-3"
+    }
+  ]
+}

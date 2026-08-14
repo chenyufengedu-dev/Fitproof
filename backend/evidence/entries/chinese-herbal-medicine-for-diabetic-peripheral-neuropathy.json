@@ -1,0 +1,119 @@
+{
+  "doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+  "org": "Cochrane 协作网",
+  "year": "2012",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+  "complete": true,
+  "done_windows": 5,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-chinese-herb-001",
+      "claim": "中药治疗糖尿病周围神经病变的疗效尚不确定，但中药治疗是安全的。",
+      "section": "Conclusion",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "中药",
+        "糖尿病周围神经病变",
+        "安全性"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chinese-herb-002",
+      "claim": "中草药单药治疗糖尿病周围神经病变在改善腓总神经运动传导速度方面优于甲钴胺。",
+      "section": "Effectiveness",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "中草药",
+        "糖尿病周围神经病变",
+        "神经传导速度",
+        "甲钴胺"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-chinese-herb-003",
+      "claim": "中草药单药治疗糖尿病周围神经病变的总有效率高于甲钴胺或肌醇。",
+      "section": "Effectiveness",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "中草药",
+        "糖尿病周围神经病变",
+        "总有效率",
+        "甲钴胺",
+        "肌醇"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-chinese-herb-004",
+      "claim": "中草药辅助治疗（联合胰酶片）在改善腓总神经感觉传导速度方面优于单用胰酶片。",
+      "section": "Effectiveness",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "中草药",
+        "辅助治疗",
+        "糖尿病周围神经病变",
+        "神经传导速度",
+        "胰酶片"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-chinese-herb-005",
+      "claim": "当前证据不足以推荐常规使用中药治疗糖尿病周围神经病变。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "中药",
+        "糖尿病周围神经病变",
+        "疗效",
+        "指南建议"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-chinese-herb-006",
+      "claim": "中药治疗糖尿病周围神经病变是安全的。",
+      "section": "Conclusion",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "中药",
+        "糖尿病周围神经病变",
+        "安全性"
+      ],
+      "source_doc": "Chinese herbal medicine for diabetic peripheral neuropathy",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797714/pdf/pone.0076113.pdf",
+      "page": "10-12"
+    }
+  ]
+}

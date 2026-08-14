@@ -1,0 +1,2897 @@
+{
+  "doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+  "complete": true,
+  "done_windows": 143,
+  "count": 164,
+  "entries": [
+    {
+      "id": "E-vaccines-for-001",
+      "claim": "MMR疫苗预防麻疹的有效性，一剂为95%，两剂为96%。",
+      "section": "Main results - Effectiveness",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-002",
+      "claim": "含Jeryl Lynn株的MMR疫苗预防流行性腮腺炎的有效性，一剂为72%，两剂为86%。",
+      "section": "Main results - Effectiveness",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "流行性腮腺炎",
+        "有效性",
+        "Jeryl Lynn株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-003",
+      "claim": "MMR疫苗预防风疹的有效性为89%。",
+      "section": "Main results - Effectiveness",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "风疹",
+        "有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-004",
+      "claim": "两剂MMRV疫苗（11至22月龄儿童）预防水痘的有效性为95%。",
+      "section": "Main results - Effectiveness",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "水痘",
+        "有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-005",
+      "claim": "含Urabe或Leningrad-Zagreb腮腺炎株的MMR疫苗与无菌性脑膜炎风险增加有关。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "Urabe株",
+        "Leningrad-Zagreb株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-006",
+      "claim": "含Jeryl Lynn株的MMR疫苗与无菌性脑膜炎无关。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "Jeryl Lynn株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-007",
+      "claim": "MMR/MMR+V/MMRV疫苗（Jeryl Lynn株）与热性惊厥风险增加有关，归因风险约为每1150至1700剂中1例。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-008",
+      "claim": "MMR疫苗与特发性血小板减少性紫癜（ITP）风险增加有关，归因风险约为每40000剂中1例，但低于自然感染的风险。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "特发性血小板减少性紫癜",
+        "ITP"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-009",
+      "claim": "没有证据表明MMR疫苗与脑炎或脑病相关。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脑炎",
+        "脑病"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-010",
+      "claim": "没有证据表明MMR疫苗与自闭症谱系障碍相关。",
+      "section": "Main results - Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-011",
+      "claim": "现有证据支持MMR/MMRV疫苗用于儿童大规模免疫。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "MMRV疫苗",
+        "免疫接种"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vaccines-for-012",
+      "claim": "一剂MMR疫苗对麻疹的预防有效率为95%。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-013",
+      "claim": "两剂MMR疫苗对流行性腮腺炎的预防有效率为86%。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "流行性腮腺炎",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-014",
+      "claim": "一剂MMR疫苗对风疹的预防有效率为89%。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "风疹",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-015",
+      "claim": "MMRV疫苗对水痘的预防有效率为95%。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "水痘",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-016",
+      "claim": "MMR、MMRV、MMR+V疫苗不会导致自闭症。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-017",
+      "claim": "MMR、MMRV、MMR+V疫苗不会导致脑炎。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脑炎",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-018",
+      "claim": "MMR、MMRV、MMR+V疫苗接种后两周内出现热性惊厥的风险很小。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "疫苗不良反应"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-019",
+      "claim": "MMR、MMRV、MMR+V疫苗接种后发生特发性血小板减少性紫癜的风险很小。",
+      "section": "Conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "特发性血小板减少性紫癜",
+        "疫苗不良反应"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vaccines-for-020",
+      "claim": "与未接种相比，接种2剂MMR+V疫苗可显著降低儿童水痘（任何严重程度）的发病率，随访5年时风险比RR为0.33（95%CI 0.29-0.38）。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR+V疫苗",
+        "水痘",
+        "儿童",
+        "预防"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vaccines-for-021",
+      "claim": "与未接种相比，接种2剂MMR+V疫苗可显著降低儿童中重度水痘的发病率，随访5年时风险比RR为0.09（95%CI 0.06-0.14）。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR+V疫苗",
+        "中重度水痘",
+        "儿童",
+        "预防"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vaccines-for-022",
+      "claim": "接种MMR疫苗相比未接种，短期内发生皮疹的风险增加（RR 2.05，95%CI 1.21-3.48），证据质量高。",
+      "section": "Safety: short-term side effects",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "皮疹",
+        "副作用",
+        "短期"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vaccines-for-023",
+      "claim": "MMR疫苗与儿童脑炎或脑病风险无显著关联。",
+      "section": "Safety: encephalitis or encephalopathy",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脑炎",
+        "脑病",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vaccines-for-024",
+      "claim": "使用Urabe株的MMR疫苗与无菌性脑膜炎风险显著增加相关。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Urabe株",
+        "无菌性脑膜炎",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vaccines-for-025",
+      "claim": "使用Jeryl Lynn株的MMR疫苗与无菌性脑膜炎风险无显著关联。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Jeryl Lynn株",
+        "无菌性脑膜炎",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vaccines-for-026",
+      "claim": "MMR疫苗不会增加儿童炎症性肠病的风险。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "炎症性肠病",
+        "儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-vaccines-for-027",
+      "claim": "MMR疫苗与儿童认知延迟或发育迟缓无显著关联。",
+      "section": "Safety: cognitive delay - developmental delay",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "认知延迟",
+        "发育迟缓",
+        "儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-vaccines-for-028",
+      "claim": "MMR疫苗与儿童特发性血小板减少性紫癜风险增加相关。",
+      "section": "Safety: idiopathic thrombocytopenic purpura",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "特发性血小板减少性紫癜",
+        "儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-vaccines-for-029",
+      "claim": "MMR疫苗可能与儿童过敏性紫癜（Henoch-Schönlein purpura）风险增加有关，但证据质量低。",
+      "section": "Safety: Henoch-Schönlein purpura",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "过敏性紫癜",
+        "儿童",
+        "安全"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-vaccines-for-030",
+      "claim": "现有低质量证据表明，MMR疫苗与儿童1型糖尿病风险无显著关联。",
+      "section": "Safety: type 1 diabetes",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "1型糖尿病",
+        "儿童",
+        "安全"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-vaccines-for-031",
+      "claim": "现有低质量证据表明，MMR疫苗与儿童哮喘风险无显著关联。",
+      "section": "Safety: asthma",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "儿童",
+        "安全"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-vaccines-for-032",
+      "claim": "接种MMR疫苗与儿童多发性硬化或急性播散性脑脊髓炎的风险增加无显著关联",
+      "section": "Safety: demyelinating diseases - multiple sclerosis - acute disseminated encephalomyelitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "多发性硬化",
+        "急性播散性脑脊髓炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vaccines-for-033",
+      "claim": "接种MMR疫苗后0-5天内儿童步态障碍的就诊风险可能增加，但长期风险无显著差异",
+      "section": "Safety: gait disturbances",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "步态障碍",
+        "副作用"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vaccines-for-034",
+      "claim": "一剂或两剂MMR疫苗在预防接触者中的继发麻疹病例方面高度有效。",
+      "section": "1. Effectiveness against measles",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "预防继发病例"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "52-54"
+    },
+    {
+      "id": "E-vaccines-for-035",
+      "claim": "含Jeryl Lynn株的MMR疫苗一剂预防腮腺炎有效性72%，两剂预防有效性86%。",
+      "section": "2. Effectiveness against mumps",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "腮腺炎",
+        "Jeryl Lynn株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "52-54"
+    },
+    {
+      "id": "E-vaccines-for-036",
+      "claim": "MMRV疫苗在10年随访中预防任何严重度水痘有效性为95%。",
+      "section": "4. Effectiveness against varicella (MMR+V or MMRV)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "水痘",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "52-54"
+    },
+    {
+      "id": "E-vaccines-for-037",
+      "claim": "第三剂MMR疫苗在9至17岁儿童中预防腮腺炎未显示效果。",
+      "section": "2. Effectiveness against mumps",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "腮腺炎",
+        "第三剂"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "52-54"
+    },
+    {
+      "id": "E-vaccines-for-038",
+      "claim": "MMR疫苗与儿童脑炎或脑病无关联。",
+      "section": "6. Safety: encephalitis or encephalopathy",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脑炎",
+        "脑病",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "55-57"
+    },
+    {
+      "id": "E-vaccines-for-039",
+      "claim": "含Jeryl Lynn株的MMR疫苗与无菌性脑膜炎无关联。",
+      "section": "7. Safety: aseptic meningitis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Jeryl Lynn株",
+        "无菌性脑膜炎",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "55-57"
+    },
+    {
+      "id": "E-vaccines-for-040",
+      "claim": "含Urabe或Leningrad-Zagreb株的MMR疫苗增加无菌性脑膜炎风险。",
+      "section": "7. Safety: aseptic meningitis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Urabe株",
+        "Leningrad-Zagreb株",
+        "无菌性脑膜炎",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "55-57"
+    },
+    {
+      "id": "E-vaccines-for-041",
+      "claim": "MMR疫苗在免疫后两周内增加热性惊厥风险（RR约3.16），但绝对风险低（约0.16%）。",
+      "section": "8. Safety: seizures (febrile/afebrile)",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "安全性",
+        "风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "55-57"
+    },
+    {
+      "id": "E-vaccines-for-042",
+      "claim": "MMRV疫苗相比MMR+V或单独MMR疫苗，热性惊厥风险更高（RR约1.31）。",
+      "section": "8. Safety: seizures (febrile/afebrile)",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "安全性",
+        "风险比较"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "55-57"
+    },
+    {
+      "id": "E-vaccines-for-043",
+      "claim": "MMR疫苗与自闭症谱系障碍无关。",
+      "section": "Safety: autism spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症谱系障碍",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "58-60"
+    },
+    {
+      "id": "E-vaccines-for-044",
+      "claim": "MMR疫苗与炎症性肠病无关。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "炎症性肠病",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "58-60"
+    },
+    {
+      "id": "E-vaccines-for-045",
+      "claim": "MMR疫苗与认知发育延迟无关。",
+      "section": "Safety: cognitive delay/developmental delay",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "认知发育",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "58-60"
+    },
+    {
+      "id": "E-vaccines-for-046",
+      "claim": "MMR疫苗与特发性血小板减少性紫癜风险增加相关。",
+      "section": "Safety: idiopathic thrombocytopenic purpura",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "特发性血小板减少性紫癜",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "58-60"
+    },
+    {
+      "id": "E-vaccines-for-047",
+      "claim": "MMR疫苗接种与免疫性血小板减少性紫癜（ITP）之间存在关联，但风险低于自然感染。",
+      "section": "Safety: thrombocytopenic purpura",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "ITP",
+        "血小板减少性紫癜"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-048",
+      "claim": "MMR疫苗接种与过敏性紫癜（Henoch-Schönlein purpura）之间存在关联。",
+      "section": "Safety: Henoch-Schönlein purpura",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "过敏性紫癜",
+        "血管炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-049",
+      "claim": "MMR疫苗接种与1型糖尿病发病无关联。",
+      "section": "Safety: type 1 diabetes",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "1型糖尿病",
+        "自身免疫"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-050",
+      "claim": "MMR疫苗接种与哮喘发病无关联。",
+      "section": "Safety: asthma",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "过敏"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-051",
+      "claim": "MMR疫苗接种不是湿疹的危险因素。",
+      "section": "Safety: eczema - dermatitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "湿疹",
+        "皮炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-052",
+      "claim": "MMR疫苗接种不增加花粉热或过敏性鼻炎的发病风险。",
+      "section": "Safety: hay fever, rhinoconjunctivitis, hypersensitivity/allergy",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "花粉热",
+        "过敏性鼻炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-053",
+      "claim": "MMR疫苗接种与儿童急性白血病发病无关联。",
+      "section": "Safety: acute leukaemia",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "急性白血病",
+        "癌症"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-054",
+      "claim": "MMR疫苗接种与脱髓鞘疾病（包括多发性硬化、急性播散性脑脊髓炎）发病无关联。",
+      "section": "Safety: demyelinating diseases, multiple sclerosis, acute disseminated encephalomyelitis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脱髓鞘疾病",
+        "多发性硬化"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-055",
+      "claim": "MMR疫苗接种与步态障碍无关联。",
+      "section": "Safety: gait disturbance",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "步态障碍",
+        "不良反应"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "61-63"
+    },
+    {
+      "id": "E-vaccines-for-056",
+      "claim": "MMR vaccination is ≥95% effective in preventing clinically confirmed measles in preschool children (95% after one dose, 96% after two doses).",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "64-66"
+    },
+    {
+      "id": "E-vaccines-for-057",
+      "claim": "There is no evidence supporting an association between MMR vaccination and autism spectrum disorders.",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "64-66"
+    },
+    {
+      "id": "E-vaccines-for-058",
+      "claim": "MMR vaccination is associated with a small increased risk of febrile seizures, but the absolute risk is low (risk difference 0.16%).",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "64-66"
+    },
+    {
+      "id": "E-vaccines-for-059",
+      "claim": "MMR vaccination is associated with idiopathic thrombocytopenic purpura (ITP), but the risk is smaller than after natural infection.",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "血小板减少性紫癜",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "64-66"
+    },
+    {
+      "id": "E-vaccines-for-060",
+      "claim": "Existing evidence supports current policies of mass immunisation with MMR and MMRV vaccines for global measles eradication.",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "MMRV疫苗",
+        "免疫政策"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "64-66"
+    },
+    {
+      "id": "E-vaccines-for-061",
+      "claim": "儿童接种2剂MMRV疫苗或接种1剂水痘疫苗，可提供至少6年的水痘保护效力。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "水痘疫苗",
+        "儿童",
+        "保护效力",
+        "6年"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vaccines-for-062",
+      "claim": "2剂水痘疫苗接种程序可为儿童提供最佳长期保护，预防所有严重程度的水痘，并减少传播。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "2剂程序",
+        "长期保护",
+        "传播减少"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vaccines-for-063",
+      "claim": "实施2剂水痘疫苗接种（短间隔）可确保对水痘的最佳保护。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "2剂程序",
+        "短间隔",
+        "最佳保护"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "88-90"
+    },
+    {
+      "id": "E-vaccines-for-064",
+      "claim": "单剂水痘疫苗在巴西的有效性与其他国家相当。",
+      "section": "ba-Andrade 2018 Notes",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "有效性",
+        "单剂",
+        "巴西"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-vaccines-for-065",
+      "claim": "水痘疫苗预防确诊水痘病例有效，1剂有效性为87%，2剂为97%。",
+      "section": "ba-Cenoz 2013 Notes",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "有效性",
+        "剂量",
+        "保护效果"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-vaccines-for-066",
+      "claim": "未接种或部分接种疫苗的儿童和年轻人，以及未达到接种年龄的儿童，在麻疹病毒传播期间感染麻疹的风险显著增加。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "麻疹疫苗",
+        "未接种",
+        "感染风险",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "103-105"
+    },
+    {
+      "id": "E-vaccines-for-067",
+      "claim": "MMR疫苗接种与180天内急性播散性脑脊髓炎（ADEM）风险增加无关。",
+      "section": "bb-Bremner 2007",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "ADEM",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "115-117"
+    },
+    {
+      "id": "E-vaccines-for-068",
+      "claim": "MMR疫苗接种与过敏性紫癜（HSP）存在关联。",
+      "section": "bb-Chen 2018",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "过敏性紫癜",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "115-117"
+    },
+    {
+      "id": "E-vaccines-for-069",
+      "claim": "疫苗接种与儿童急性白血病、急性淋巴细胞白血病或急性髓细胞白血病风险之间无关联。",
+      "section": "bb-Mallol-Mesnard 2007",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "白血病",
+        "疫苗接种",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "121-123"
+    },
+    {
+      "id": "E-vaccines-for-070",
+      "claim": "MMR疫苗或单次麻疹疫苗与自闭症无关联。",
+      "section": "bb-Mrozek-Budzyn 2010",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "麻疹疫苗",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "121-123"
+    },
+    {
+      "id": "E-vaccines-for-071",
+      "claim": "在高度受影响的学校中，接种第三剂MMR疫苗的学生腮腺炎发病率比接种≤2剂的学生低60%，但差异无统计学意义，且干预发生在疫情高峰后。",
+      "section": "ca-Nelson 2013",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "腮腺炎",
+        "第三剂",
+        "疫苗效力"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "145-147"
+    },
+    {
+      "id": "E-vaccines-for-072",
+      "claim": "在已有高两剂MMR疫苗接种率的人群中，接种第三剂MMR疫苗可能有助于控制腮腺炎暴发。",
+      "section": "ca-Ogbuanu 2012",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "腮腺炎",
+        "第三剂",
+        "疫情控制"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "145-147"
+    },
+    {
+      "id": "E-vaccines-for-073",
+      "claim": "Rubini疫苗株对腮腺炎的保护力较低。",
+      "section": "ca-Ong 2005",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "腮腺炎",
+        "Rubini株",
+        "疫苗效力"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "145-147"
+    },
+    {
+      "id": "E-vaccines-for-074",
+      "claim": "自2004年起，推荐所有11-14月龄儿童接种单剂水痘疫苗。",
+      "section": "Interventions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "接种方案",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "148-150"
+    },
+    {
+      "id": "E-vaccines-for-075",
+      "claim": "自2009年起，推荐儿童在15-23月龄接种第二剂水痘疫苗，采用两剂次方案。",
+      "section": "Interventions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "两剂次方案",
+        "接种年龄"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "148-150"
+    },
+    {
+      "id": "E-vaccines-for-076",
+      "claim": "自2011年起，首剂免疫优先使用水痘疫苗和MMR疫苗分开注射，因为联合疫苗MMRV会增加发热性惊厥风险。",
+      "section": "Interventions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "MMR疫苗",
+        "发热性惊厥",
+        "接种方式"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "148-150"
+    },
+    {
+      "id": "E-vaccines-for-077",
+      "claim": "MMR疫苗在预防麻疹暴发中有效性高，但接种覆盖率不足（1剂92%，2剂70%）无法阻止暴发，需要提高接种率。",
+      "section": "ca-Wichmann 2007",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "疫苗有效性",
+        "接种覆盖率"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "154-156"
+    },
+    {
+      "id": "E-vaccines-for-078",
+      "claim": "6至14月龄婴儿接种MMR疫苗比未接种婴儿患麻疹风险更低。",
+      "section": "ca-Woudenberg 2017",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "婴儿",
+        "疫苗有效性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "154-156"
+    },
+    {
+      "id": "E-vaccines-for-079",
+      "claim": "MMR疫苗接种与多发性硬化发病率无显著关联。",
+      "section": "cb-Ahlgren 2009",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "多发性硬化",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "154-156"
+    },
+    {
+      "id": "E-vaccines-for-080",
+      "claim": "MMR或DTP疫苗接种后短期内热性惊厥风险升高，但不增加长期不良后果风险。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "DTP疫苗",
+        "热性惊厥",
+        "长期后果"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "157-159"
+    },
+    {
+      "id": "E-vaccines-for-081",
+      "claim": "接种麻疹或MMR疫苗与哮喘诊断无显著关联。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹疫苗",
+        "哮喘"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "157-159"
+    },
+    {
+      "id": "E-vaccines-for-082",
+      "claim": "MMRV疫苗的总体获益-风险比良好，但应向家长提供单独接种MMR+V的选择，以维持足够的疫苗接种率。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "获益风险",
+        "单独免疫"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "163-165"
+    },
+    {
+      "id": "E-vaccines-for-083",
+      "claim": "儿童期接种MMR疫苗与1型糖尿病之间无因果关系。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "1型糖尿病",
+        "因果关系"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "163-165"
+    },
+    {
+      "id": "E-vaccines-for-084",
+      "claim": "MMRV疫苗相比分开接种MMR和V疫苗，在接种后5-12天内增加发热性惊厥的风险。",
+      "section": "Notes",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "发热性惊厥",
+        "儿童",
+        "麻疹腮腺炎风疹水痘疫苗"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "166-168"
+    },
+    {
+      "id": "E-vaccines-for-085",
+      "claim": "每2300剂MMRV疫苗替代分开接种MMR和V疫苗，就会额外导致1例热性惊厥。",
+      "section": "Study characteristics",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "166-168"
+    },
+    {
+      "id": "E-vaccines-for-086",
+      "claim": "4至6岁儿童接种MMRV或同日分开接种MMR+V疫苗，与热性惊厥风险增加无关。可95%置信地排除每15500剂MMRV或每18000剂MMR+V发生超过1例热性惊厥的风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "MMR+V",
+        "热性惊厥",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "169-171"
+    },
+    {
+      "id": "E-vaccines-for-087",
+      "claim": "MMR疫苗接种与儿童认知发育无关，且三价MMR疫苗与单份麻疹疫苗在认知发育方面的安全性相同。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "认知发育",
+        "麻疹疫苗",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "172-174"
+    },
+    {
+      "id": "E-vaccines-for-088",
+      "claim": "MMRV疫苗作为第二剂用于幼儿不会增加热性惊厥风险。",
+      "section": "db-Macartney 2017",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "热性惊厥",
+        "疫苗",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "187-189"
+    },
+    {
+      "id": "E-vaccines-for-089",
+      "claim": "MMR和水痘联合疫苗的使用会略微增加热性惊厥风险，但该风险通常为自限性且罕见长期影响。",
+      "section": "db-MacDonald 2014",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "热性惊厥",
+        "联合疫苗",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "187-189"
+    },
+    {
+      "id": "E-vaccines-for-090",
+      "claim": "早产儿接种含麻疹疫苗后发生首次惊厥的风险与足月儿相似。",
+      "section": "db-McClure 2019",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "麻疹疫苗",
+        "早产儿",
+        "惊厥",
+        "风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "187-189"
+    },
+    {
+      "id": "E-vaccines-for-091",
+      "claim": "MMR联合疫苗不会增加接种后3个月内因侵袭性细菌感染住院的风险，反而具有保护作用。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "侵袭性细菌感染",
+        "免疫超载"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "190-192"
+    },
+    {
+      "id": "E-vaccines-for-092",
+      "claim": "MMR疫苗接种与步态障碍之间没有因果关联，在接种后风险期内步态障碍的住院或就诊率没有增加。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "步态障碍",
+        "因果关联"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "190-192"
+    },
+    {
+      "id": "E-vaccines-for-093",
+      "claim": "MMR疫苗不会增加接种后90天内侵袭性细菌或病毒感染的风险。",
+      "section": "db-Stowe 2009",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "感染风险",
+        "儿童",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "193-195"
+    },
+    {
+      "id": "E-vaccines-for-094",
+      "claim": "MMR疫苗接种增加儿童免疫性血小板减少症风险，但风险低于自然麻疹感染",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "免疫性血小板减少症",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "199-201"
+    },
+    {
+      "id": "E-vaccines-for-095",
+      "claim": "DTP、肺炎球菌、脑膜炎球菌和乙肝疫苗不增加儿童免疫性血小板减少症风险",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "DTP疫苗",
+        "肺炎球菌疫苗",
+        "脑膜炎球菌疫苗",
+        "乙肝疫苗",
+        "免疫性血小板减少症"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "199-201"
+    },
+    {
+      "id": "E-vaccines-for-096",
+      "claim": "MMRV疫苗普遍接种后4年内，水痘相关住院率显著下降",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "水痘",
+        "住院率",
+        "疫苗接种效果"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "199-201"
+    },
+    {
+      "id": "E-vaccines-for-097",
+      "claim": "MMRV疫苗普遍接种后2.5年，水痘发病率显著下降，住院率下降更早",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "水痘",
+        "发病率",
+        "住院率",
+        "疫苗接种效果"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "199-201"
+    },
+    {
+      "id": "E-vaccines-for-098",
+      "claim": "MMR疫苗不与自闭症、发育倒退或肠道问题的新型变异形式相关。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "发育倒退",
+        "肠道问题"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "208-210"
+    },
+    {
+      "id": "E-vaccines-for-099",
+      "claim": "接种1剂MMR疫苗可降低麻疹发病风险约95%，接种2剂降低约96%。",
+      "section": "Effectiveness against measles",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "麻疹",
+        "有效性",
+        "1剂",
+        "2剂"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "220-222"
+    },
+    {
+      "id": "E-vaccines-for-100",
+      "claim": "MMR疫苗复种与非目标严重感染发生率降低相关，且安全性良好。",
+      "section": "Off-target infections",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "复种",
+        "非目标感染",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "220-222"
+    },
+    {
+      "id": "E-vaccines-for-101",
+      "claim": "儿童水痘疫苗推荐采用两剂接种方案，第二剂在15-23月龄接种。",
+      "section": "Varicella",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "两剂方案",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "310-312"
+    },
+    {
+      "id": "E-vaccines-for-102",
+      "claim": "为降低热性惊厥风险，水痘疫苗和MMR疫苗应优先分开接种，而非使用MMRV联合疫苗。",
+      "section": "Varicella",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "MMR疫苗",
+        "MMRV联合疫苗",
+        "热性惊厥"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "310-312"
+    },
+    {
+      "id": "E-vaccines-for-103",
+      "claim": "MMR疫苗不增加儿童脑炎或脑病的风险，即使存在风险，其绝对值也非常小，且远低于自然麻疹感染后的风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "脑炎",
+        "脑病",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "331-333"
+    },
+    {
+      "id": "E-vaccines-for-104",
+      "claim": "MMR疫苗接种后15至35天内不增加严重神经系统疾病的相对发病率。",
+      "section": "Safety: encephalitis or encephalopathy",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "神经系统疾病",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "334-336"
+    },
+    {
+      "id": "E-vaccines-for-105",
+      "claim": "含有Jeryl Lynn腮腺炎株的MMR疫苗不增加无菌性脑膜炎的风险。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Jeryl Lynn",
+        "无菌性脑膜炎",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "334-336"
+    },
+    {
+      "id": "E-vaccines-for-106",
+      "claim": "含有Urabe或Hoshino腮腺炎株的MMR疫苗在接种后第3至第6周增加无菌性脑膜炎的风险。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "Urabe",
+        "Hoshino",
+        "无菌性脑膜炎",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "334-336"
+    },
+    {
+      "id": "E-vaccines-for-107",
+      "claim": "Leningrad-Zagreb 腮腺炎病毒株的疫苗与无菌性脑膜炎风险升高相关。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "腮腺炎病毒株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "343-345"
+    },
+    {
+      "id": "E-vaccines-for-108",
+      "claim": "Jeryl Lynn 腮腺炎病毒株的疫苗在研究中未发现无菌性脑膜炎风险升高。",
+      "section": "Safety: aseptic meningitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "腮腺炎病毒株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "343-345"
+    },
+    {
+      "id": "E-vaccines-for-109",
+      "claim": "MMR疫苗接种后2周内热性惊厥风险暂时性升高，但长期癫痫风险未增加。",
+      "section": "Safety: seizure",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "癫痫"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "343-345"
+    },
+    {
+      "id": "E-vaccines-for-110",
+      "claim": "MMR疫苗接种后6-11天期间，发热和持续30分钟的惊厥风险增加。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "惊厥",
+        "发热"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "346-348"
+    },
+    {
+      "id": "E-vaccines-for-111",
+      "claim": "任何MMR疫苗接种后6-11天期间，因惊厥住院的归因风险约为每1150剂1例。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "惊厥",
+        "住院风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "346-348"
+    },
+    {
+      "id": "E-vaccines-for-112",
+      "claim": "无证据表明1998年中期以来英国使用的基于Jeryl Lynn株的新MMR疫苗会因腮腺炎成分导致无菌性脑膜炎。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "Jeryl Lynn株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "346-348"
+    },
+    {
+      "id": "E-vaccines-for-113",
+      "claim": "研究结果支持当前ACIP关于接种第一剂含麻疹疫苗的推荐。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "ACIP推荐",
+        "麻疹疫苗"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "346-348"
+    },
+    {
+      "id": "E-vaccines-for-114",
+      "claim": "对于早产儿童，延迟接种含麻疹疫苗可能增加接种后惊厥的风险。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "麻疹疫苗",
+        "早产儿",
+        "惊厥",
+        "接种时机"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "349-351"
+    },
+    {
+      "id": "E-vaccines-for-115",
+      "claim": "MMRV联合疫苗相比MMR+V分开接种，热性惊厥风险增加（但风险较小），且热性惊厥通常自限，很少导致长期影响。",
+      "section": "Safety: seizure (febrile/afebrile)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "疫苗接种",
+        "风险平衡"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "349-351"
+    },
+    {
+      "id": "E-vaccines-for-116",
+      "claim": "Compared to separate MMR and varicella vaccines given at the same visit, the combined MMRV vaccine is associated with an increased risk of febrile seizure during days 5-12 after vaccination.",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "febrile seizure",
+        "vaccine safety"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "352-354"
+    },
+    {
+      "id": "E-vaccines-for-117",
+      "claim": "If MMRV vaccine is used for the first dose, parents should be counseled about using antipyretics if their child develops fever during the peak risk period (days 5-12).",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV",
+        "febrile seizure",
+        "antipyretic",
+        "counseling"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "352-354"
+    },
+    {
+      "id": "E-vaccines-for-118",
+      "claim": "与分别接种MMR和水痘疫苗相比，使用MMRV联合疫苗每2300剂次会增加1例热性惊厥。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "儿童",
+        "疫苗接种"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "355-357"
+    },
+    {
+      "id": "E-vaccines-for-119",
+      "claim": "推荐MMRV疫苗的医务人员应告知家长，MMRV比单独含麻疹疫苗增加发热和惊厥风险。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "风险沟通",
+        "热性惊厥",
+        "麻疹疫苗"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "355-357"
+    },
+    {
+      "id": "E-vaccines-for-120",
+      "claim": "对于4-6岁儿童，MMRV和MMR+V与热性惊厥风险增加无关。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "学龄前儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "355-357"
+    },
+    {
+      "id": "E-vaccines-for-121",
+      "claim": "在12-15月龄接种含麻疹疫苗，惊厥风险增加较低。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "麻疹疫苗",
+        "接种年龄",
+        "惊厥风险",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "355-357"
+    },
+    {
+      "id": "E-vaccines-for-122",
+      "claim": "使用GSK MMRV疫苗的儿童热性惊厥风险升高，该风险是暂时的，出现在接种后第二周，且在目标人群中归因比例非常低。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "时间分布",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "355-357"
+    },
+    {
+      "id": "E-vaccines-for-123",
+      "claim": "与MMR和V分开接种相比，MMRV疫苗接种后热性惊厥风险升高，但需权衡减少一次注射的优势。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "热性惊厥",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "358-360"
+    },
+    {
+      "id": "E-vaccines-for-124",
+      "claim": "与单独MMR疫苗相比，MMRV疫苗更常导致接种后7-10天的发热。",
+      "section": "Safety: MMRV versus MMR/MMR+V - febrile seizures",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMRV疫苗",
+        "发热",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "358-360"
+    },
+    {
+      "id": "E-vaccines-for-125",
+      "claim": "MMR vaccination is not associated with an increased risk of being diagnosed with a pervasive developmental disorder.",
+      "section": "Safety: autistic spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症谱系障碍",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "364-366"
+    },
+    {
+      "id": "E-vaccines-for-126",
+      "claim": "Among children with autism spectrum disorder, the rate of regression in those who received MMR vaccine was not higher than those who did not.",
+      "section": "Safety: autistic spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症谱系障碍",
+        "回归",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "364-366"
+    },
+    {
+      "id": "E-vaccines-for-127",
+      "claim": "MMR疫苗接种与儿童广泛性发育障碍（PDD）的发病率无关。",
+      "section": "Safety: autistic spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "广泛性发育障碍",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "370-372"
+    },
+    {
+      "id": "E-vaccines-for-128",
+      "claim": "MMR疫苗不太可能是自闭症谱系障碍（ASD）的主要原因。",
+      "section": "Safety: autistic spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症谱系障碍",
+        "病因"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "370-372"
+    },
+    {
+      "id": "E-vaccines-for-129",
+      "claim": "MMR疫苗不会导致自闭症。",
+      "section": "Safety: autistic spectrum disorders",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "因果关系"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "370-372"
+    },
+    {
+      "id": "E-vaccines-for-130",
+      "claim": "MMR疫苗不会引起自闭症或自闭性小肠结肠炎。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "自闭性小肠结肠炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "373-375"
+    },
+    {
+      "id": "E-vaccines-for-131",
+      "claim": "MMR或其他含麻疹疫苗不会增加炎症性肠病的发病风险。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "炎症性肠病",
+        "克罗恩病",
+        "溃疡性结肠炎"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "373-375"
+    },
+    {
+      "id": "E-vaccines-for-132",
+      "claim": "MMR疫苗接种后，自闭症儿童父母首次注意到自闭症状的平均年龄没有变化。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "症状识别年龄"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "373-375"
+    },
+    {
+      "id": "E-vaccines-for-133",
+      "claim": "MMR疫苗接种后，儿童倒退型自闭症的发生率没有增加。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "倒退型自闭症",
+        "发病率"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "373-375"
+    },
+    {
+      "id": "E-vaccines-for-134",
+      "claim": "MMR疫苗接种与较低的克罗恩病风险相关。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "克罗恩病",
+        "炎症性肠病",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "376-378"
+    },
+    {
+      "id": "E-vaccines-for-135",
+      "claim": "MMR疫苗接种与儿童炎症性肠病无显著关联。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "儿童",
+        "炎症性肠病"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "376-378"
+    },
+    {
+      "id": "E-vaccines-for-136",
+      "claim": "早期儿童MMR疫苗接种与后来发生克罗恩病相关。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "克罗恩病",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "376-378"
+    },
+    {
+      "id": "E-vaccines-for-137",
+      "claim": "MMR疫苗计划引入后并未增加克罗恩病风险。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "克罗恩病"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "376-378"
+    },
+    {
+      "id": "E-vaccines-for-138",
+      "claim": "MMR疫苗与伴有发育倒退和肠道问题的自闭症新亚型无关，且不增加自闭症风险。",
+      "section": "Safety: inflammatory bowel disease",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "发育倒退",
+        "肠道问题"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "376-378"
+    },
+    {
+      "id": "E-vaccines-for-139",
+      "claim": "MMR疫苗暴露与儿童认知发育无关，且MMR疫苗在认知发育方面的安全性与单剂麻疹疫苗相同。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "认知发育",
+        "儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "379-381"
+    },
+    {
+      "id": "E-vaccines-for-140",
+      "claim": "MMR疫苗接种后6周内特发性血小板减少性紫癜的风险显著增加，但绝对风险低（约1/25000至1/40000），且该病在儿童中多为自限性，短期良性。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "特发性血小板减少性紫癜",
+        "风险",
+        "儿童",
+        "自限性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "379-381"
+    },
+    {
+      "id": "E-vaccines-for-141",
+      "claim": "MMR疫苗接种与免疫性血小板减少性紫癜（ITP）风险增加相关，但风险低于自然感染麻疹后的风险，每百万剂MMR疫苗中归因病例数约为9.8。",
+      "section": "Safety: idiopathic thrombocytopenic purpura",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "免疫性血小板减少性紫癜",
+        "ITP",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "385-387"
+    },
+    {
+      "id": "E-vaccines-for-142",
+      "claim": "MMR疫苗接种与过敏性紫癜（HSP）风险增加有关，但HSP是罕见疾病，MMR疫苗的获益-风险比仍然有利。",
+      "section": "Safety: Henoch-Schönlein purpura",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "过敏性紫癜",
+        "HSP",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "385-387"
+    },
+    {
+      "id": "E-vaccines-for-143",
+      "claim": "儿童接种MMR疫苗与1型糖尿病之间不存在因果关系。",
+      "section": "Safety: type 1 diabetes",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "1型糖尿病",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "385-387"
+    },
+    {
+      "id": "E-vaccines-for-144",
+      "claim": "早期疫苗接种不会增加儿童1型糖尿病相关的胰岛自身免疫风险。",
+      "section": "Safety: type 1 diabetes",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "1型糖尿病",
+        "胰岛自身免疫",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "388-390"
+    },
+    {
+      "id": "E-vaccines-for-145",
+      "claim": "MMR疫苗与儿童哮喘风险无关联。",
+      "section": "Safety: asthma",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "388-390"
+    },
+    {
+      "id": "E-vaccines-for-146",
+      "claim": "当前推荐的常规疫苗接种不是儿童哮喘或湿疹的风险因素。",
+      "section": "Safety: asthma",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "常规疫苗",
+        "哮喘",
+        "湿疹",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "388-390"
+    },
+    {
+      "id": "E-vaccines-for-147",
+      "claim": "MMR疫苗接种不会增加儿童哮喘风险，反而可能与风险降低相关。",
+      "section": "Safety: asthma",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "风险降低",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "388-390"
+    },
+    {
+      "id": "E-vaccines-for-148",
+      "claim": "接种麻疹或MMR疫苗与哮喘诊断无显著关联",
+      "section": "Safety: asthma",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "391-393"
+    },
+    {
+      "id": "E-vaccines-for-149",
+      "claim": "MMR疫苗接种可能对预防儿童过敏和哮喘有益",
+      "section": "Safety: asthma",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "哮喘",
+        "过敏"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "391-393"
+    },
+    {
+      "id": "E-vaccines-for-150",
+      "claim": "常规推荐疫苗接种不是儿童哮喘或湿疹的危险因素",
+      "section": "Safety: dermatitis or eczema",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "常规疫苗接种",
+        "哮喘",
+        "湿疹",
+        "风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "391-393"
+    },
+    {
+      "id": "E-vaccines-for-151",
+      "claim": "MMR疫苗与湿疹风险无关。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "湿疹",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "394-396"
+    },
+    {
+      "id": "E-vaccines-for-152",
+      "claim": "MMR疫苗不会增加或降低花粉热的风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "花粉热",
+        "过敏性鼻炎",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "394-396"
+    },
+    {
+      "id": "E-vaccines-for-153",
+      "claim": "MMR疫苗接种与儿童急性白血病风险无关",
+      "section": "Safety: acute leukaemia",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "白血病",
+        "儿童",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "400-402"
+    },
+    {
+      "id": "E-vaccines-for-154",
+      "claim": "MMR疫苗接种与多发性硬化发病率无显著关联",
+      "section": "Safety: demyelinating diseases, multiple sclerosis, acute disseminated encephalomyelitis",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "多发性硬化",
+        "安全性",
+        "脱髓鞘疾病"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "400-402"
+    },
+    {
+      "id": "E-vaccines-for-155",
+      "claim": "MMR疫苗与急性播散性脑脊髓炎（ADEM）风险增加无关",
+      "section": "Safety: demyelinating diseases, multiple sclerosis, acute disseminated encephalomyelitis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "ADEM",
+        "急性播散性脑脊髓炎",
+        "安全性",
+        "脱髓鞘疾病"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "403-405"
+    },
+    {
+      "id": "E-vaccines-for-156",
+      "claim": "MMR疫苗不会引起儿童急性共济失调或其他步态障碍",
+      "section": "Safety: gait disturbances",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "步态障碍",
+        "共济失调",
+        "安全性",
+        "儿童"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "403-405"
+    },
+    {
+      "id": "E-vaccines-for-157",
+      "claim": "MMR疫苗不会增加接种后90天内发生侵袭性细菌或病毒感染的风险。",
+      "section": "Safety: bacterial or viral infections",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "安全性",
+        "感染风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "406-408"
+    },
+    {
+      "id": "E-vaccines-for-158",
+      "claim": "MMR疫苗不会增加接种后3个月内因侵袭性细菌感染住院的风险，反而具有保护作用。",
+      "section": "Safety: bacterial or viral infections",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "住院风险",
+        "保护作用"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "406-408"
+    },
+    {
+      "id": "E-vaccines-for-159",
+      "claim": "MMR疫苗高效，有效性达95%以上",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "有效性",
+        "麻疹",
+        "腮腺炎",
+        "风疹"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    },
+    {
+      "id": "E-vaccines-for-160",
+      "claim": "当前使用的MMR和MMRV疫苗使用Jeryl Lynn株，不含有与无菌性脑膜炎相关的Urabe株",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "无菌性脑膜炎",
+        "Urabe株",
+        "Jeryl Lynn株"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    },
+    {
+      "id": "E-vaccines-for-161",
+      "claim": "MMR/MMRV疫苗与热性惊厥存在关联，但属罕见事件，归因风险为1/1700至1/1150剂次",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "热性惊厥",
+        "不良反应",
+        "风险"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    },
+    {
+      "id": "E-vaccines-for-162",
+      "claim": "MMR疫苗与特发性血小板减少性紫癜（ITP）存在关联，但风险低于自然感染，归因风险约为1/40,000剂次",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "ITP",
+        "血小板减少",
+        "不良反应"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    },
+    {
+      "id": "E-vaccines-for-163",
+      "claim": "现有证据未发现MMR疫苗与自闭症、脑炎、克罗恩病等疾病存在关联",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "自闭症",
+        "脑炎",
+        "克罗恩病",
+        "安全性"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    },
+    {
+      "id": "E-vaccines-for-164",
+      "claim": "现有证据支持MMR和MMRV疫苗用于大规模免疫接种",
+      "section": "Reply",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "MMR疫苗",
+        "MMRV疫苗",
+        "免疫接种",
+        "推荐"
+      ],
+      "source_doc": "Vaccines for measles, mumps, rubella, and varicella in children",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full",
+      "page": "424-426"
+    }
+  ]
+}

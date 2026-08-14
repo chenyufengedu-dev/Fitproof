@@ -1,6 +1,8 @@
 evidence/raw/
 evidence/cache/
-evidence/entries/
+# evidence/entries/ 现在纳入版本控制：353 个 JSON 是人工整理的证据条目（4.1MB，
+# 压缩后 0.4MB），LLM 抽取+核校的成果，重跑既花钱又不可复现，必须有历史和异地副本。
+# raw/(PDF 原件) 和 cache/(可重算的向量) 仍然排除在外。
 
 # 本地产物：备份、回收站、脚本快照 —— 都是一次性的，不进仓库
 evidence/entries.bak-*/

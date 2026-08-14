@@ -1,0 +1,84 @@
+{
+  "doc": "Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochrane.org/evidence/CD013046_vitamin-d-supplementation-term-breastfed-infants-prevent-vitamin-d-deficiency-and-improve-bone",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-vitamin-d-su-001",
+      "claim": "母乳喂养婴儿每日补充400 IU维生素D（至少6个月）可提高血清25-OH维生素D水平并降低维生素D不足（25-OH维生素D < 50 nmol/L）的发生率。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "维生素D",
+        "母乳喂养",
+        "婴儿",
+        "补充"
+      ],
+      "source_doc": "Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD013046_vitamin-d-supplementation-term-breastfed-infants-prevent-vitamin-d-deficiency-and-improve-bone",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-su-002",
+      "claim": "对于维生素D缺乏高风险的母乳喂养婴儿，母亲补充维生素D可降低婴儿维生素D不足和维生素D缺乏的风险。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "维生素D",
+        "母乳喂养",
+        "母亲补充",
+        "高风险"
+      ],
+      "source_doc": "Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD013046_vitamin-d-supplementation-term-breastfed-infants-prevent-vitamin-d-deficiency-and-improve-bone",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-su-003",
+      "claim": "在维生素D缺乏高风险人群中，给母乳喂养婴儿直接补充维生素D（400 IU/天）比给哺乳期母亲补充维生素D更能提高婴儿维生素D水平并降低维生素D不足和缺乏的发生率。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "维生素D",
+        "母乳喂养",
+        "婴儿补充",
+        "母亲补充",
+        "比较"
+      ],
+      "source_doc": "Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD013046_vitamin-d-supplementation-term-breastfed-infants-prevent-vitamin-d-deficiency-and-improve-bone",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-d-su-004",
+      "claim": "哺乳期母亲每日补充维生素D ≥4000 IU可使母乳喂养婴儿的维生素D水平与婴儿每日补充400 IU达到相似水平。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "维生素D",
+        "母乳喂养",
+        "母亲高剂量",
+        "婴儿补充"
+      ],
+      "source_doc": "Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD013046_vitamin-d-supplementation-term-breastfed-infants-prevent-vitamin-d-deficiency-and-improve-bone",
+      "page": "1-3"
+    }
+  ]
+}

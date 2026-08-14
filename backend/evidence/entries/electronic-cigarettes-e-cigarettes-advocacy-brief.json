@@ -1,0 +1,151 @@
+{
+  "doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2026",
+  "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+  "complete": true,
+  "done_windows": 1,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-electronic-c-001",
+      "claim": "电子烟使用在儿童和年轻人中增长迅速。",
+      "section": "Key messages",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "儿童",
+        "年轻人",
+        "使用趋势"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-002",
+      "claim": "电子烟含有有害有毒物质，有时含量高于烟草烟雾。",
+      "section": "Key messages",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "有毒物质",
+        "烟草烟雾"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-003",
+      "claim": "电子烟未被证明在人群层面有效帮助戒烟，并可能导致持续的尼古丁依赖。",
+      "section": "Key messages",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "戒烟",
+        "尼古丁依赖"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-004",
+      "claim": "成员国应考虑采取全面控烟措施，包括禁止或管制电子烟。",
+      "section": "Key messages",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "管制",
+        "政策建议"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-005",
+      "claim": "电子烟释放包括致癌物在内的有毒物质，与肺病、中毒、损伤、烧伤和心血管副作用等健康风险相关。",
+      "section": "E-cigarettes are harmful",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "健康风险",
+        "致癌物",
+        "心血管"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-006",
+      "claim": "同时使用传统香烟和电子烟（双重使用）与单独使用其中一种同样危险或更危险。",
+      "section": "E-cigarettes are harmful",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "双重使用",
+        "健康风险"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-007",
+      "claim": "电子烟中的尼古丁对胎儿发育和儿童青少年大脑发育有负面影响。",
+      "section": "E-cigarettes are harmful",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "尼古丁",
+        "胎儿",
+        "青少年",
+        "大脑"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    },
+    {
+      "id": "E-electronic-c-008",
+      "claim": "电子烟作为消费品在真实世界条件下未被证明对戒烟有效，不建议政府为了戒烟目的允许其销售。",
+      "section": "E-cigarettes used as consumer products",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "电子烟",
+        "戒烟",
+        "政策建议"
+      ],
+      "source_doc": "Electronic cigarettes (E-cigarettes): advocacy brief",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://iris.who.int/server/api/core/bitstreams/64c30576-9e3d-44c7-a854-debc2f18eac7/content",
+      "page": "1-2"
+    }
+  ]
+}

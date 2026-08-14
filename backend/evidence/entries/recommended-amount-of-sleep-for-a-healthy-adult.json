@@ -1,0 +1,82 @@
+{
+  "doc": "Recommended Amount of Sleep for a Healthy Adult",
+  "org": "美国睡眠医学会与睡眠研究学会 (AASM & SRS)",
+  "year": "2015",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-recommended--001",
+      "claim": "健康成人应每夜规律睡眠7小时或以上以促进最佳健康。",
+      "section": "Consensus Statement",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "睡眠",
+        "睡眠时长",
+        "健康成人",
+        "指南推荐"
+      ],
+      "source_doc": "Recommended Amount of Sleep for a Healthy Adult",
+      "org": "美国睡眠医学会与睡眠研究学会 (AASM & SRS)",
+      "year": "2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/",
+      "page": "1-2"
+    },
+    {
+      "id": "E-recommended--002",
+      "claim": "健康成人每夜规律睡眠少于7小时与不良健康结局相关，包括体重增加、肥胖、糖尿病、高血压、心脏病、中风、抑郁及死亡风险增加，以及免疫功能受损、疼痛增加、表现下降、错误增多和事故风险升高。",
+      "section": "Consensus Statement",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "睡眠不足",
+        "健康风险",
+        "睡眠时长",
+        "不良结局"
+      ],
+      "source_doc": "Recommended Amount of Sleep for a Healthy Adult",
+      "org": "美国睡眠医学会与睡眠研究学会 (AASM & SRS)",
+      "year": "2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/",
+      "page": "1-2"
+    },
+    {
+      "id": "E-recommended--003",
+      "claim": "对于年轻人、睡眠债恢复者及患病者，每夜规律睡眠超过9小时可能合适；对其他人，睡眠超过9小时是否带来健康风险尚不确定。",
+      "section": "Consensus Statement",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "睡眠过多",
+        "睡眠时长",
+        "特殊人群",
+        "不确定性"
+      ],
+      "source_doc": "Recommended Amount of Sleep for a Healthy Adult",
+      "org": "美国睡眠医学会与睡眠研究学会 (AASM & SRS)",
+      "year": "2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/",
+      "page": "1-2"
+    },
+    {
+      "id": "E-recommended--004",
+      "claim": "担心自己睡眠过多或过少的人应咨询医疗保健提供者。",
+      "section": "Consensus Statement",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "睡眠问题",
+        "咨询",
+        "医疗保健"
+      ],
+      "source_doc": "Recommended Amount of Sleep for a Healthy Adult",
+      "org": "美国睡眠医学会与睡眠研究学会 (AASM & SRS)",
+      "year": "2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4442216/",
+      "page": "1-2"
+    }
+  ]
+}

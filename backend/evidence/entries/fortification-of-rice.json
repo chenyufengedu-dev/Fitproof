@@ -1,0 +1,63 @@
+{
+  "doc": "Fortification of rice",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/rice-fortification",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-fortificatio-001",
+      "claim": "在以大米为主食的人群中，推荐通过大米铁强化作为公共卫生策略来改善铁营养状况。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "大米强化",
+        "铁",
+        "公共卫生策略"
+      ],
+      "source_doc": "Fortification of rice",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/rice-fortification",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fortificatio-002",
+      "claim": "大米维生素A强化可作为改善人群铁状况和维生素A营养的公共卫生策略。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "大米强化",
+        "维生素A",
+        "铁",
+        "公共卫生策略"
+      ],
+      "source_doc": "Fortification of rice",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/rice-fortification",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fortificatio-003",
+      "claim": "大米叶酸强化可作为改善人群叶酸营养状况的公共卫生策略。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "大米强化",
+        "叶酸",
+        "公共卫生策略"
+      ],
+      "source_doc": "Fortification of rice",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/rice-fortification",
+      "page": "1-3"
+    }
+  ]
+}

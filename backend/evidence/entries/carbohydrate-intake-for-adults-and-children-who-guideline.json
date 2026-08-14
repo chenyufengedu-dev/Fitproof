@@ -1,0 +1,930 @@
+{
+  "doc": "Carbohydrate intake for adults and children: WHO guideline",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/publications/i/item/9789240073593",
+  "complete": true,
+  "done_windows": 34,
+  "count": 52,
+  "entries": [
+    {
+      "id": "E-carbohydrate-001",
+      "claim": "2岁及以上人群的碳水化合物摄入应主要来自全谷物、蔬菜、水果和豆类",
+      "section": "WHO recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "碳水化合物",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "10-12"
+    },
+    {
+      "id": "E-carbohydrate-002",
+      "claim": "成年人每天至少应摄入400克蔬菜和水果",
+      "section": "WHO recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "摄入量",
+        "成年人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "10-12"
+    },
+    {
+      "id": "E-carbohydrate-003",
+      "claim": "儿童和青少年应根据年龄摄入足量蔬菜和水果：2-5岁每天至少250克，6-9岁每天至少350克，10岁及以上每天至少400克",
+      "section": "WHO recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "摄入量",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "10-12"
+    },
+    {
+      "id": "E-carbohydrate-004",
+      "claim": "成年人每天至少应摄入25克天然膳食纤维",
+      "section": "WHO recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "摄入量",
+        "成年人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "10-12"
+    },
+    {
+      "id": "E-carbohydrate-005",
+      "claim": "儿童和青少年应根据年龄摄入足量天然膳食纤维：2-5岁每天至少15克，6-9岁每天至少21克，10岁及以上每天至少25克",
+      "section": "WHO recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "摄入量",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "10-12"
+    },
+    {
+      "id": "E-carbohydrate-006",
+      "claim": "碳水化合物摄入量占每日总能量摄入的40%-70%与较低死亡率相关",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "碳水化合物",
+        "死亡率",
+        "能量摄入",
+        "膳食指南"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-007",
+      "claim": "应优先选择新鲜或最低加工的全谷物、蔬菜、水果和豆类，避免添加脂肪、糖或盐的产品",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类",
+        "加工食品"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-008",
+      "claim": "罐装水果可能增加全因死亡和心血管疾病风险，应限制摄入",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "罐装水果",
+        "全因死亡",
+        "心血管疾病"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-009",
+      "claim": "脱水果干和果汁是游离糖的重要来源，应遵循WHO关于游离糖的摄入建议",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "果干",
+        "果汁",
+        "游离糖"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-010",
+      "claim": "对于均衡饮食人群，植物性食物中的抗营养素通常无显著危害；但营养缺乏或高风险人群需采取措施减少吸收抑制",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "抗营养素",
+        "植物性食物",
+        "营养缺乏"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-011",
+      "claim": "对于6个月至2岁儿童，全谷物、蔬菜、水果和豆类作为辅食优于含游离糖的食物",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "儿童辅食",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类",
+        "游离糖"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "13-15"
+    },
+    {
+      "id": "E-carbohydrate-012",
+      "claim": "每天每摄入200克蔬菜水果，全因死亡风险降低10%。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜水果",
+        "全因死亡",
+        "剂量反应"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "22-24"
+    },
+    {
+      "id": "E-carbohydrate-013",
+      "claim": "每天每摄入200克蔬菜水果，心血管疾病风险降低8%。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜水果",
+        "心血管疾病",
+        "剂量反应"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "22-24"
+    },
+    {
+      "id": "E-carbohydrate-014",
+      "claim": "每天每摄入200克蔬菜水果，冠心病风险降低8%。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜水果",
+        "冠心病",
+        "剂量反应"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "22-24"
+    },
+    {
+      "id": "E-carbohydrate-015",
+      "claim": "较高全谷物摄入与全因死亡率降低19%相关（RR 0.81，95%CI 0.72-0.90），但证据确定性低。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "全因死亡率",
+        "证据确定性低"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-016",
+      "claim": "较高蔬菜水果摄入与全因死亡率降低18%相关（RR 0.82，95%CI 0.79-0.86），但证据确定性低。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜水果",
+        "全因死亡率",
+        "证据确定性低"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-017",
+      "claim": "较高豆类摄入与CVD风险降低10%相关（RR 0.90，95%CI 0.84-0.97），但证据确定性低。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "豆类",
+        "心血管疾病",
+        "证据确定性低"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-018",
+      "claim": "较高膳食纤维摄入与全因死亡率降低15%相关（RR 0.85，95%CI 0.79-0.91），证据确定性中等。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "全因死亡率",
+        "证据确定性中等"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-019",
+      "claim": "摄入25-29克/天膳食纤维与全因死亡率、冠心病、心血管疾病、中风、2型糖尿病、结直肠癌和乳腺癌风险降低相关。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "推荐摄入量",
+        "慢性病风险"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-020",
+      "claim": "较低血糖指数饮食与心血管疾病死亡率降低19%、中风发病率和死亡率分别降低16%和37%、2型糖尿病风险降低11%相关。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "血糖指数",
+        "心血管疾病",
+        "2型糖尿病"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "25-27"
+    },
+    {
+      "id": "E-carbohydrate-021",
+      "claim": "在成人中，低血糖负荷膳食与冠心病风险降低15%相关。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "血糖负荷",
+        "冠心病",
+        "成人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "28-30"
+    },
+    {
+      "id": "E-carbohydrate-022",
+      "claim": "在成人中，低血糖负荷膳食与中风风险降低16%相关。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "血糖负荷",
+        "中风",
+        "成人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "28-30"
+    },
+    {
+      "id": "E-carbohydrate-023",
+      "claim": "在成人中，低血糖负荷膳食与总癌症死亡率增加30%相关。",
+      "section": "Summary of evidence",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "血糖负荷",
+        "癌症死亡率",
+        "成人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "28-30"
+    },
+    {
+      "id": "E-carbohydrate-024",
+      "claim": "儿童中膳食纤维、全谷物、蔬菜水果、豆类摄入与健康结局的关联证据非常有限。",
+      "section": "Children",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "儿童",
+        "膳食纤维",
+        "全谷物",
+        "蔬菜水果",
+        "豆类"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "28-30"
+    },
+    {
+      "id": "E-carbohydrate-025",
+      "claim": "非糖碳水化合物摄入与口腔癌风险无关联（非常低确定性证据）。",
+      "section": "Oral health outcomes",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "非糖碳水化合物",
+        "口腔癌",
+        "口腔健康"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "28-30"
+    },
+    {
+      "id": "E-carbohydrate-026",
+      "claim": "碳水化合物摄入应主要来自全谷物、蔬菜、水果和豆类（适用于所有2岁及以上个体）。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "碳水化合物",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "34-36"
+    },
+    {
+      "id": "E-carbohydrate-027",
+      "claim": "成人每天摄入蔬菜和水果至少400克。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "摄入量",
+        "成人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "34-36"
+    },
+    {
+      "id": "E-carbohydrate-028",
+      "claim": "儿童和青少年每天摄入蔬菜和水果：2-5岁至少250克，6-9岁至少350克，10岁及以上至少400克。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "摄入量",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "34-36"
+    },
+    {
+      "id": "E-carbohydrate-029",
+      "claim": "成人每天摄入天然膳食纤维至少25克。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "摄入量",
+        "成人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "34-36"
+    },
+    {
+      "id": "E-carbohydrate-030",
+      "claim": "儿童和青少年每天摄入天然膳食纤维：2-5岁至少15克，6-9岁至少21克，10岁及以上至少25克。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "摄入量",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "34-36"
+    },
+    {
+      "id": "E-carbohydrate-031",
+      "claim": "成人应以全谷物、蔬菜、水果和豆类作为碳水化合物的主要来源。",
+      "section": "Recommendation 1",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类",
+        "碳水化合物来源"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "37-39"
+    },
+    {
+      "id": "E-carbohydrate-032",
+      "claim": "成人每日至少摄入400克蔬菜和水果。",
+      "section": "Recommendation 2",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "摄入量",
+        "成年人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "37-39"
+    },
+    {
+      "id": "E-carbohydrate-033",
+      "claim": "儿童和青少年每日蔬菜水果摄入量应根据能量需求从成人值外推确定。",
+      "section": "Recommendation 3",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "儿童",
+        "青少年",
+        "摄入量"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "37-39"
+    },
+    {
+      "id": "E-carbohydrate-034",
+      "claim": "成人每日至少摄入25克膳食纤维。",
+      "section": "Recommendation 4",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "摄入量",
+        "成年人"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "37-39"
+    },
+    {
+      "id": "E-carbohydrate-035",
+      "claim": "儿童和青少年每日膳食纤维摄入量应根据能量需求从成人值外推确定。",
+      "section": "Recommendation 5",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "儿童",
+        "青少年",
+        "摄入量"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "37-39"
+    },
+    {
+      "id": "E-carbohydrate-036",
+      "claim": "应摄入多种形式的蔬菜和水果，包括新鲜、煮、冷冻和罐装，但应限制罐装水果、干果和果汁的摄入，因为罐装水果增加全因死亡和心血管病风险，干果和果汁含糖高。",
+      "section": "Vegetable and fruit intake",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "罐装水果",
+        "果汁",
+        "糖摄入"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-037",
+      "claim": "制备蔬菜、水果、全谷物和豆类时应优先选择新鲜或最低加工的食品，避免添加脂肪、糖或盐。",
+      "section": "Preparation methods",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "加工",
+        "添加糖",
+        "脂肪",
+        "盐"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-038",
+      "claim": "应优先选择最低加工的全谷物（保留完整结构），因为完整谷物结构贡献健康效应。",
+      "section": "Whole grains",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "加工",
+        "健康益处"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-039",
+      "claim": "推荐摄入食物中天然存在的膳食纤维，而非提取或合成纤维（如纤维补充剂），因后者健康证据有限。",
+      "section": "Dietary fibre",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "天然",
+        "补充剂"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-040",
+      "claim": "大多数人在多样化饮食下可安全食用全谷物、蔬菜、水果和豆类，无需担心抗营养素影响；但营养缺乏高风险人群需注意。",
+      "section": "Antinutrients",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "抗营养素",
+        "全谷物",
+        "蔬菜",
+        "水果",
+        "豆类"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-041",
+      "claim": "对于6个月至2岁儿童的辅食，应优先选择全谷物、蔬菜、水果和豆类，而非含游离糖的食物。",
+      "section": "Children under 2 years",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "辅食",
+        "儿童",
+        "游离糖",
+        "全谷物"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "40-42"
+    },
+    {
+      "id": "E-carbohydrate-042",
+      "claim": "较高的全谷物摄入与降低心血管疾病风险相关。",
+      "section": "全谷物摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "心血管疾病",
+        "膳食纤维"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-043",
+      "claim": "较高的全谷物摄入与降低结直肠癌风险相关。",
+      "section": "全谷物摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "结直肠癌",
+        "膳食纤维"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-044",
+      "claim": "较高的全谷物摄入与降低体重相关。",
+      "section": "全谷物摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "全谷物",
+        "体重控制",
+        "膳食纤维"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-045",
+      "claim": "较高的蔬菜水果摄入与降低冠心病风险相关。",
+      "section": "蔬菜水果摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "冠心病"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-046",
+      "claim": "较高的蔬菜水果摄入与降低中风风险相关。",
+      "section": "蔬菜水果摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "中风"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-047",
+      "claim": "较高的蔬菜水果摄入与降低癌症风险相关。",
+      "section": "蔬菜水果摄入GRADE证据概况",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "癌症"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "64-66"
+    },
+    {
+      "id": "E-carbohydrate-048",
+      "claim": "每日摄入更多蔬菜水果（如从100克增至900克）与冠心病死亡率降低相关（RR 0.73, 95% CI: 0.71-0.76）",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "冠心病死亡率",
+        "剂量反应"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "67-69"
+    },
+    {
+      "id": "E-carbohydrate-049",
+      "claim": "每日摄入更多蔬菜水果（如从50克增至900克）与卒中死亡率降低相关（RR 0.66, 95% CI: 0.58-0.74）",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "蔬菜",
+        "水果",
+        "卒中死亡率",
+        "剂量反应"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "67-69"
+    },
+    {
+      "id": "E-carbohydrate-050",
+      "claim": "较高豆类摄入（相对于较低）与冠心病风险降低10%相关（RR 0.90, 95% CI: 0.84-0.97，证据质量中等）",
+      "section": "Annex 6",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "豆类",
+        "冠心病",
+        "相对风险"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "67-69"
+    },
+    {
+      "id": "E-carbohydrate-051",
+      "claim": "较高膳食纤维摄入（相对于较低）与全因死亡率降低15%相关（RR 0.85, 95% CI: 0.79-0.91，证据质量中等）",
+      "section": "Annex 6",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "全因死亡率",
+        "相对风险"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "67-69"
+    },
+    {
+      "id": "E-carbohydrate-052",
+      "claim": "2-5岁儿童每日膳食纤维推荐摄入量为15克，蔬菜水果为250克；6-9岁儿童膳食纤维21克，蔬菜水果350克；10岁及以上儿童与成人相同（膳食纤维25克，蔬菜水果400克）",
+      "section": "Annex 8",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "膳食纤维",
+        "蔬菜水果",
+        "儿童",
+        "推荐摄入量"
+      ],
+      "source_doc": "Carbohydrate intake for adults and children: WHO guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240073593",
+      "page": "97-99"
+    }
+  ]
+}

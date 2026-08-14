@@ -1,0 +1,401 @@
+{
+  "doc": "Dietary advice for women with gestational diabetes mellitus",
+  "org": "Cochrane 协作网",
+  "year": "2018",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+  "complete": true,
+  "done_windows": 50,
+  "count": 22,
+  "entries": [
+    {
+      "id": "E-dietary-advi-001",
+      "claim": "对于妊娠期糖尿病女性，低-中等升糖指数饮食与中-高升糖指数饮食相比，在巨大儿、严重高血压或先兆子痫、子痫、剖腹产等结局上没有明确差异。",
+      "section": "低-中升糖指数饮食与中-高升糖指数饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "低升糖指数饮食",
+        "妊娠期糖尿病",
+        "巨大儿",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-002",
+      "claim": "对于妊娠期糖尿病女性，能量限制饮食与非能量限制饮食相比，在巨大儿、围产期死亡率、先兆子痫、剖腹产等结局上没有明确差异。",
+      "section": "能量限制饮食与非能量限制饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "能量限制",
+        "妊娠期糖尿病",
+        "巨大儿",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-003",
+      "claim": "对于妊娠期糖尿病女性，DASH饮食（停止高血压的饮食方法）相比对照饮食可能降低剖腹产风险，但在先兆子痫方面没有明确差异。",
+      "section": "DASH饮食与对照饮食比较",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "DASH饮食",
+        "剖腹产",
+        "妊娠期糖尿病",
+        "先兆子痫"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-004",
+      "claim": "对于妊娠期糖尿病女性，低碳水化合物饮食与高碳水化合物饮食相比，在巨大儿、围产期死亡率、母体高血压、剖腹产等结局上没有明确差异。",
+      "section": "低碳水化合物饮食与高碳水化合物饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "低碳水化合物饮食",
+        "妊娠期糖尿病",
+        "巨大儿",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-005",
+      "claim": "对于妊娠期糖尿病女性，高不饱和脂肪饮食与低不饱和脂肪饮食相比，在巨大儿、先兆子痫、妊娠期高血压、剖腹产、产后糖尿病等结局上没有明确差异。",
+      "section": "高不饱和脂肪饮食与低不饱和脂肪饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "不饱和脂肪",
+        "妊娠期糖尿病",
+        "先兆子痫",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-006",
+      "claim": "对于妊娠期糖尿病女性，低升糖指数饮食与高纤维中等升糖指数饮食相比，在巨大儿、剖腹产、产后3个月2型糖尿病等结局上没有明确差异。",
+      "section": "低升糖指数饮食与高纤维中等升糖指数饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "低升糖指数饮食",
+        "高纤维饮食",
+        "妊娠期糖尿病",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-007",
+      "claim": "对于妊娠期糖尿病女性，饮食建议加上行为建议与仅饮食建议相比，在巨大儿、剖腹产等结局上没有明确差异。",
+      "section": "饮食建议加行为建议与仅饮食建议比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "饮食建议",
+        "行为建议",
+        "妊娠期糖尿病",
+        "巨大儿"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-008",
+      "claim": "对于妊娠期糖尿病女性，大豆蛋白强化饮食与无大豆蛋白饮食相比，在先兆子痫、剖腹产等结局上没有明确差异。",
+      "section": "大豆蛋白强化饮食与无大豆蛋白饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "大豆蛋白",
+        "妊娠期糖尿病",
+        "先兆子痫",
+        "剖腹产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-009",
+      "claim": "对于妊娠期糖尿病女性，种族特异性饮食与标准健康饮食相比，在巨大儿、新生儿复合不良结局、妊娠期高血压、剖腹产等结局上没有明确差异。",
+      "section": "种族特异性饮食与标准健康饮食比较",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "种族特异性饮食",
+        "标准健康饮食",
+        "妊娠期糖尿病",
+        "巨大儿"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-advi-010",
+      "claim": "对于妊娠期糖尿病女性，饮食建议应确保正常胎儿生长和母体健康的充足营养，但不引起体重减轻或孕期过度增重，并应帮助实现最佳血糖控制。",
+      "section": "Description of the intervention",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "饮食建议",
+        "血糖控制",
+        "营养"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-dietary-advi-011",
+      "claim": "妊娠期糖尿病管理中应避免严重热量限制和孕期体重减轻，因存在酮血症和小于胎龄儿风险。",
+      "section": "Total energy intake and weight gain during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "热量限制",
+        "体重减轻",
+        "风险"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-dietary-advi-012",
+      "claim": "根据2009年IOM指南，孕前BMI 25-29.9的女性孕期体重应增加6.8-11.4 kg，BMI≥30的女性应增加5-9 kg。",
+      "section": "Total energy intake and weight gain during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "体重增加",
+        "BMI",
+        "IOM指南"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-dietary-advi-013",
+      "claim": "妊娠期糖尿病女性其他营养素的摄入推荐通常基于糖尿病通用推荐。",
+      "section": "Fat and other nutrients",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "营养素",
+        "糖尿病",
+        "推荐"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-dietary-advi-014",
+      "claim": "目前尚无针对妊娠期糖尿病女性脂肪摄入的具体推荐。",
+      "section": "Fat and other nutrients",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "脂肪摄入",
+        "缺乏证据"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-dietary-advi-015",
+      "claim": "现有证据不足以推荐任何一种特定的膳食建议类型用于妊娠期糖尿病的临床实践。",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "膳食建议",
+        "证据不足",
+        "临床实践"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "40-42"
+    },
+    {
+      "id": "E-dietary-advi-016",
+      "claim": "DASH饮食可能使妊娠期糖尿病女性剖宫产风险降低47%，但证据质量不清楚。",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "DASH饮食",
+        "剖宫产",
+        "妊娠期糖尿病",
+        "风险降低"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "40-42"
+    },
+    {
+      "id": "E-dietary-advi-017",
+      "claim": "低-中血糖指数饮食可能改善妊娠期糖尿病女性的血糖控制（降低餐后2小时血糖）。",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "低血糖指数饮食",
+        "血糖控制",
+        "妊娠期糖尿病",
+        "餐后血糖"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "40-42"
+    },
+    {
+      "id": "E-dietary-advi-018",
+      "claim": "妊娠期糖尿病患者采用DASH饮食可降低剖宫产风险。",
+      "section": "Comparison 3. DASH diet versus control diet with matching macronutrient contents",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "DASH饮食",
+        "剖宫产"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-dietary-advi-019",
+      "claim": "妊娠期糖尿病患者采用DASH饮食可降低巨大儿发生率。",
+      "section": "Comparison 3. DASH diet versus control diet with matching macronutrient contents",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "DASH饮食",
+        "巨大儿"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-dietary-advi-020",
+      "claim": "妊娠期糖尿病患者采用DASH饮食可降低新生儿出生体重。",
+      "section": "Comparison 3. DASH diet versus control diet with matching macronutrient contents",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "DASH饮食",
+        "新生儿体重"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-dietary-advi-021",
+      "claim": "妊娠期糖尿病患者采用DASH饮食可显著降低空腹血糖水平。",
+      "section": "Comparison 3. DASH diet versus control diet with matching macronutrient contents",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "DASH饮食",
+        "空腹血糖"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "97-99"
+    },
+    {
+      "id": "E-dietary-advi-022",
+      "claim": "妊娠期糖尿病患者采用DASH饮食可减少额外药物治疗的使用。",
+      "section": "Comparison 3. DASH diet versus control diet with matching macronutrient contents",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "DASH饮食",
+        "药物治疗"
+      ],
+      "source_doc": "Dietary advice for women with gestational diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009275.pub3/full",
+      "page": "97-99"
+    }
+  ]
+}

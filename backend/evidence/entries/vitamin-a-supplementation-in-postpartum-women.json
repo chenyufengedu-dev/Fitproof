@@ -1,0 +1,46 @@
+{
+  "doc": "Vitamin A supplementation in postpartum women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-postpartum",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "不推荐产后女性补充维生素A以预防母婴发病和死亡。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "产后",
+        "补充剂",
+        "母婴健康"
+      ],
+      "source_doc": "Vitamin A supplementation in postpartum women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-postpartum",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-a-su-002",
+      "claim": "应鼓励产后女性通过均衡健康饮食获得充足营养。",
+      "section": "WHO Recommendations",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "产后",
+        "营养",
+        "均衡饮食"
+      ],
+      "source_doc": "Vitamin A supplementation in postpartum women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-postpartum",
+      "page": "1-3"
+    }
+  ]
+}

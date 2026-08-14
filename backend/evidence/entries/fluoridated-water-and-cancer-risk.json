@@ -1,0 +1,45 @@
+{
+  "doc": "Fluoridated Water and Cancer Risk",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2022",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/fluoridated-water-fact-sheet",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-fluoridated--001",
+      "claim": "饮用氟化水不会对人类造成可检测的癌症风险",
+      "section": "Can fluoridated water cause cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "氟化水",
+        "癌症风险",
+        "氟化物"
+      ],
+      "source_doc": "Fluoridated Water and Cancer Risk",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2022",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/fluoridated-water-fact-sheet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fluoridated--002",
+      "claim": "氟化饮用水与癌症之间无关联",
+      "section": "Can fluoridated water cause cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "氟化水",
+        "癌症",
+        "氟化物"
+      ],
+      "source_doc": "Fluoridated Water and Cancer Risk",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2022",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/fluoridated-water-fact-sheet",
+      "page": "1-3"
+    }
+  ]
+}

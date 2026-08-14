@@ -1,0 +1,30 @@
+{
+  "doc": "Fluid management in severely malnourished children under 5 years of age with shock",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/shock-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-fluid-manage-001",
+      "claim": "对于5岁以下严重急性营养不良且出现休克或严重脱水迹象、无法口服或鼻胃管补液的儿童，应使用半浓度Darrow's液加5%葡萄糖或林格乳酸盐溶液加5%葡萄糖进行静脉输液；若两者均不可用，则使用0.45%生理盐水加5%葡萄糖。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "休克",
+        "静脉输液",
+        "儿童",
+        "脱水"
+      ],
+      "source_doc": "Fluid management in severely malnourished children under 5 years of age with shock",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/shock-sam",
+      "page": "1-3"
+    }
+  ]
+}

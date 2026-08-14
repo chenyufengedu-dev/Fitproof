@@ -1,0 +1,205 @@
+{
+  "doc": "Common Cancer Myths and Misconceptions",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2024",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+  "complete": true,
+  "done_windows": 2,
+  "count": 11,
+  "entries": [
+    {
+      "id": "E-common-cance-001",
+      "claim": "吃糖不会使癌症恶化，停止吃糖也不会使癌症缩小或消失。",
+      "section": "Will eating sugar make my cancer worse?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "糖",
+        "癌症",
+        "饮食",
+        "葡萄糖"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-002",
+      "claim": "癌症通常不会传染，唯一的例外是器官或组织移植，但风险极低。",
+      "section": "Is cancer contagious?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "癌症",
+        "传染",
+        "器官移植",
+        "病毒",
+        "细菌"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-003",
+      "claim": "癌症手术或肿瘤活检导致癌症扩散的可能性极低。",
+      "section": "Can cancer surgery or a tumor biopsy cause cancer to spread in the body?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "手术",
+        "活检",
+        "癌症扩散",
+        "转移"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-004",
+      "claim": "态度（积极或消极）与患癌或死于癌症的风险无关。",
+      "section": "Does my attitude—positive or negative—determine my risk of getting or surviving cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "态度",
+        "癌症风险",
+        "生存",
+        "情绪"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-005",
+      "claim": "暴露于空气不会使肿瘤生长更快或导致癌症扩散。",
+      "section": "Will cancer get worse if exposed to air?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "空气",
+        "肿瘤",
+        "癌症扩散",
+        "暴露"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-006",
+      "claim": "据目前最佳研究，手机不会导致癌症。",
+      "section": "Do cell phones cause cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "手机",
+        "癌症",
+        "辐射",
+        "基因突变"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "1-3"
+    },
+    {
+      "id": "E-common-cance-007",
+      "claim": "高压输电线不会导致癌症。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "高压输电线",
+        "癌症",
+        "电磁场"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "4-6"
+    },
+    {
+      "id": "E-common-cance-008",
+      "claim": "没有草药产品被证明能有效治疗癌症。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "草药",
+        "癌症治疗",
+        "替代医疗"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "4-6"
+    },
+    {
+      "id": "E-common-cance-009",
+      "claim": "家族中有人患癌并不意味着个人一定会患癌，因为仅5%至10%的癌症是遗传的。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "家族癌症",
+        "遗传风险",
+        "癌症遗传"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "4-6"
+    },
+    {
+      "id": "E-common-cance-010",
+      "claim": "即使家族中无人患癌，个人仍有患癌风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "家族癌症",
+        "患癌风险",
+        "非遗传因素"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "4-6"
+    },
+    {
+      "id": "E-common-cance-011",
+      "claim": "止汗剂或除臭剂不会导致乳腺癌。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "止汗剂",
+        "除臭剂",
+        "乳腺癌"
+      ],
+      "source_doc": "Common Cancer Myths and Misconceptions",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "page": "4-6"
+    }
+  ]
+}

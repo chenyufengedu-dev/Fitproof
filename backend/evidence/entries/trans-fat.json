@@ -1,0 +1,119 @@
+{
+  "doc": "Trans fat",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2024",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+  "complete": true,
+  "done_windows": 2,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-trans-fat-001",
+      "claim": "成年人每日反式脂肪摄入量应低于总能量的1%，约2.2克（基于2000千卡饮食）。",
+      "section": "Key facts",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "反式脂肪",
+        "摄入量",
+        "WHO推荐",
+        "限制"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    },
+    {
+      "id": "E-trans-fat-002",
+      "claim": "高反式脂肪摄入使全因死亡风险增加34%，冠心病死亡风险增加28%，冠心病风险增加21%。",
+      "section": "Overview",
+      "strength": "背景说明",
+      "topics": [
+        "日常食物谣言",
+        "反式脂肪",
+        "死亡风险",
+        "冠心病",
+        "风险增加"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    },
+    {
+      "id": "E-trans-fat-003",
+      "claim": "工业反式脂肪和天然反式脂肪同样有害。",
+      "section": "Key facts",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "反式脂肪",
+        "工业反式脂肪",
+        "天然反式脂肪",
+        "危害"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    },
+    {
+      "id": "E-trans-fat-004",
+      "claim": "政府应强制执行国家限值：所有食品中工业反式脂肪含量不超过总脂肪的2%。",
+      "section": "What governments do",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "反式脂肪",
+        "限值",
+        "强制性",
+        "政府政策"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    },
+    {
+      "id": "E-trans-fat-005",
+      "claim": "政府应强制禁止生产或使用部分氢化油作为食品成分。",
+      "section": "What governments do",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "部分氢化油",
+        "禁令",
+        "反式脂肪",
+        "政府政策"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    },
+    {
+      "id": "E-trans-fat-006",
+      "claim": "个人应避免食用含有部分氢化油的油炸和烘焙食品，并减少反刍动物肉类和乳制品摄入。",
+      "section": "How to reduce trans fat intake",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "反式脂肪",
+        "个人行动",
+        "饮食建议",
+        "部分氢化油"
+      ],
+      "source_doc": "Trans fat",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
+      "page": "1-3"
+    }
+  ]
+}

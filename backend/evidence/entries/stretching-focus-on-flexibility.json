@@ -1,0 +1,204 @@
+{
+  "doc": "Stretching: Focus on flexibility",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2026",
+  "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+  "complete": true,
+  "done_windows": 4,
+  "count": 11,
+  "entries": [
+    {
+      "id": "E-stretching-f-001",
+      "claim": "拉伸前应进行5-10分钟低强度有氧热身，避免拉伸冷肌肉。",
+      "section": "Stretching essentials",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "热身",
+        "冷肌肉",
+        "安全"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-002",
+      "claim": "高强度运动前（如短跑）应考虑跳过拉伸，因为可能降低表现。",
+      "section": "Stretching essentials",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "高强度运动",
+        "运动表现",
+        "赛前拉伸"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-003",
+      "claim": "拉伸时应追求左右两侧柔韧性对称，不对称会增加受伤风险。",
+      "section": "Stretching essentials",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "柔韧性",
+        "对称性",
+        "受伤风险"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-004",
+      "claim": "拉伸时不要弹动，应平滑进行。",
+      "section": "Stretching essentials",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "弹动",
+        "技巧"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-005",
+      "claim": "每次拉伸应保持30秒，问题区域可延长至60秒。",
+      "section": "Stretching essentials",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "保持时间",
+        "30秒",
+        "60秒"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-006",
+      "claim": "拉伸时应感到肌肉紧张而非疼痛，如果疼痛应退后。",
+      "section": "Stretching essentials",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "疼痛",
+        "紧张感"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-007",
+      "claim": "拉伸应针对运动项目中常用的肌肉群进行。",
+      "section": "Stretching essentials",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "运动专项",
+        "肌肉群"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "1-3"
+    },
+    {
+      "id": "E-stretching-f-008",
+      "claim": "为获得最大益处，应至少每周拉伸2-3次，每次5-10分钟。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "频率",
+        "时长"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "4-6"
+    },
+    {
+      "id": "E-stretching-f-009",
+      "claim": "停止定期拉伸会导致关节活动度下降。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "坚持",
+        "关节活动度"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "4-6"
+    },
+    {
+      "id": "E-stretching-f-010",
+      "claim": "太极、普拉提或瑜伽等温和运动有助于提高柔韧性和减少老年人跌倒。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "柔韧性",
+        "太极",
+        "普拉提",
+        "瑜伽",
+        "预防跌倒"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "4-6"
+    },
+    {
+      "id": "E-stretching-f-011",
+      "claim": "拉伸不能预防过度使用损伤。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "拉伸",
+        "过度使用损伤",
+        "局限性"
+      ],
+      "source_doc": "Stretching: Focus on flexibility",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
+      "page": "4-6"
+    }
+  ]
+}

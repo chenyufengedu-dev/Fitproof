@@ -1,0 +1,113 @@
+{
+  "doc": "预防弓形虫病",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-预防弓形虫病-001",
+      "claim": "将食物烹饪至美国农业部推荐的内部温度是预防弓形虫感染最安全的方法。",
+      "section": "食品安全注意事项",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "食品安全",
+        "烹饪温度"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-预防弓形虫病-002",
+      "claim": "肉类在零下温度（0°F）下冷冻数日后再烹饪，可以大大降低感染弓形虫的风险。",
+      "section": "额外的食品安全注意事项",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "冷冻",
+        "肉类"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-预防弓形虫病-003",
+      "claim": "不要饮用未经巴氏消毒的羊奶。",
+      "section": "额外的食品安全注意事项",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "羊奶",
+        "巴氏消毒"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-预防弓形虫病-004",
+      "claim": "不要食用生的或未煮熟的牡蛎、贻贝或蛤蜊，这些可能被弓形虫污染。",
+      "section": "额外的食品安全注意事项",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "海鲜",
+        "生食"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-预防弓形虫病-005",
+      "claim": "每天更换猫砂盆里的猫砂，因为弓形虫寄生虫在猫咪通过粪便排出后1-5天内不具有传染性。",
+      "section": "环境实践",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "猫",
+        "猫砂"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-预防弓形虫病-006",
+      "claim": "只喂猫罐装或干制的商业猫粮，或彻底煮熟的人类食物，不要喂猫生肉或未煮熟的肉类。",
+      "section": "环境实践",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "弓形虫",
+        "猫粮",
+        "生肉"
+      ],
+      "source_doc": "预防弓形虫病",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/toxoplasmosis/prevention/index.html",
+      "page": "1-2"
+    }
+  ]
+}

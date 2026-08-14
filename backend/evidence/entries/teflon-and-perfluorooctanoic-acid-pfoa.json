@@ -1,0 +1,120 @@
+{
+  "doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+  "org": "美国癌症协会 (ACS)",
+  "year": "2024",
+  "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+  "complete": true,
+  "done_windows": 3,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-teflon-and-p-001",
+      "claim": "IARC将PFOA归类为对人类致癌物（1类），基于足够的动物实验证据和强烈的人类暴露特征，但对人类有有限证据表明可导致睾丸癌和肾癌。",
+      "section": "Do PFOA and other PFAS cause cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "PFOA",
+        "IARC",
+        "致癌物分类",
+        "睾丸癌",
+        "肾癌"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-teflon-and-p-002",
+      "claim": "IARC将PFOS归类为可能对人类致癌物（2B类），基于强烈的人类暴露特征和有限的动物实验证据，但人类致癌证据不充分。",
+      "section": "Do PFOA and other PFAS cause cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "PFOS",
+        "IARC",
+        "致癌物分类",
+        "可能致癌"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-teflon-and-p-003",
+      "claim": "美国EPA尚未正式将PFOA分类为致癌物，其科学顾问委员会草案指出有“致癌性提示性证据，但不足以评估人类致癌潜力”。",
+      "section": "Do PFOA and other PFAS cause cancer?",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "EPA",
+        "PFOA",
+        "致癌性",
+        "未分类"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-teflon-and-p-004",
+      "claim": "美国EPA已制定饮用水中PFOA的强制最大污染水平为4 ppt。",
+      "section": "Drinking water standards",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "PFOA",
+        "饮用水标准",
+        "EPA",
+        "PFAS"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-teflon-and-p-005",
+      "claim": "自2024年2月起，美国FDA宣布含PFAS的物质不再用于纸食品包装防油剂，消除了主要暴露源。",
+      "section": "Foods",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "PFAS",
+        "食品包装",
+        "FDA",
+        "暴露减少"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-teflon-and-p-006",
+      "claim": "对于担心PFAS暴露的人，可以检测血液PFAS水平，但这不是常规检测，结果意义不明确；建议咨询医生。",
+      "section": "Can I be tested for PFAS exposure?",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "PFAS",
+        "血液检测",
+        "暴露评估",
+        "医生咨询"
+      ],
+      "source_doc": "Teflon and Perfluorooctanoic Acid (PFOA)",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://www.cancer.org/cancer/risk-prevention/chemicals/teflon-and-perfluorooctanoic-acid-pfoa.html",
+      "page": "4-6"
+    }
+  ]
+}

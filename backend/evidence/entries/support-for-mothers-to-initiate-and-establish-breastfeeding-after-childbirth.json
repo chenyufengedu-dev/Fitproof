@@ -1,0 +1,130 @@
+{
+  "doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+  "complete": true,
+  "done_windows": 2,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-support-for--001",
+      "claim": "应促进和鼓励母婴在出生后尽早进行不间断的皮肤接触。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "皮肤接触",
+        "母乳喂养",
+        "新生儿"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--002",
+      "claim": "应支持所有母亲在分娩后一小时内尽早开始母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "早期母乳喂养",
+        "产后1小时",
+        "新生儿"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--003",
+      "claim": "应为母亲提供实践支持，以帮助她们启动和建立母乳喂养并处理常见的母乳喂养困难。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养支持",
+        "母乳喂养困难",
+        "实践支持"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--004",
+      "claim": "应指导母亲如何挤奶，以在暂时与婴儿分离时维持泌乳。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "挤奶",
+        "维持泌乳",
+        "母婴分离"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--005",
+      "claim": "应支持母亲实践响应式喂养，作为养育照护的一部分。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "响应式喂养",
+        "养育照护",
+        "母乳喂养"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--006",
+      "claim": "应支持母亲在产科和新生儿服务机构期间识别婴儿的喂养、亲近和舒适信号，并能够以多种方式相应地回应。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "婴儿信号",
+        "回应性喂养",
+        "产科服务"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    },
+    {
+      "id": "E-support-for--007",
+      "claim": "应劝阻母亲给婴儿喂母乳以外的任何食物或液体，除非有医学指征。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "纯母乳喂养",
+        "医学指征",
+        "辅食"
+      ],
+      "source_doc": "Support for mothers to initiate and establish breastfeeding after childbirth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-support",
+      "page": "1-3"
+    }
+  ]
+}

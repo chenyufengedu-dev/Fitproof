@@ -1,0 +1,47 @@
+{
+  "doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-postpartum",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-iron-supplem-001",
+      "claim": "在妊娠期贫血为公共卫生问题的地区，产后妇女可口服铁补充剂（单独或与叶酸联合）6-12周以降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "产后贫血",
+        "铁补充",
+        "叶酸",
+        "妊娠期贫血"
+      ],
+      "source_doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-postpartum",
+      "page": "1-3"
+    },
+    {
+      "id": "E-iron-supplem-002",
+      "claim": "为便于实施和连续护理，产后铁补充应尽早开始，其剂量和频率应遵循孕期使用的方案或非孕成年妇女和青春期女孩的计划方案。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "产后贫血",
+        "铁补充",
+        "实施建议",
+        "剂量"
+      ],
+      "source_doc": "Iron supplementation with or without folic acid to reduce the risk of postpartum anaemia",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-postpartum",
+      "page": "1-3"
+    }
+  ]
+}

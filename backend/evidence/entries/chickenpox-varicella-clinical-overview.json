@@ -1,0 +1,249 @@
+{
+  "doc": "Chickenpox (Varicella) Clinical Overview",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+  "complete": true,
+  "done_windows": 2,
+  "count": 14,
+  "entries": [
+    {
+      "id": "E-chickenpox-v-001",
+      "claim": "预防水痘最有效的方法是接种水痘疫苗。",
+      "section": "KEY POINTS",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘",
+        "预防",
+        "疫苗接种"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-002",
+      "claim": "CDC推荐所有无水痘免疫证据的儿童、青少年和成人接种2剂水痘疫苗。",
+      "section": "Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "接种剂量",
+        "CDC推荐"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-003",
+      "claim": "曾接种过1剂水痘疫苗的人应接种第2剂以获得最佳保护。",
+      "section": "Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "加强接种",
+        "保护效果"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-004",
+      "claim": "接种2剂疫苗的人发生突破性水痘的频率低于仅接种1剂的人。",
+      "section": "Clinical features",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "突破性水痘",
+        "接种剂量"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-005",
+      "claim": "水痘患者在皮疹出现前1-2天开始具有传染性，直至所有水痘病变结痂。",
+      "section": "How it spreads",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘",
+        "传染期",
+        "皮疹"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-006",
+      "claim": "接种过疫苗的人可能出现不结痂的病变，此类患者传染性持续至24小时内无新病变出现。",
+      "section": "How it spreads",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "传染性",
+        "突破性水痘"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-007",
+      "claim": "约90%的易感密切接触者在接触水痘患者后会感染水痘。",
+      "section": "How it spreads",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘",
+        "传染性",
+        "家庭传播"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-008",
+      "claim": "突破性水痘患者若病变数≥50个，其传染性与未接种疫苗的水痘患者相同。",
+      "section": "How it spreads",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "突破性水痘",
+        "传染性",
+        "病变数量"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-009",
+      "claim": "儿童最常见水痘并发症为皮肤和软组织细菌感染，成人为肺炎。",
+      "section": "KEY POINTS",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘并发症",
+        "儿童",
+        "成人"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-chickenpox-v-010",
+      "claim": "不推荐在接种2剂水痘疫苗后常规检测免疫状态；记录接种2剂疫苗优于后续血清学检测结果。",
+      "section": "Impact of U.S. varicella vaccination program",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "血清学检测",
+        "免疫状态"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "4-5"
+    },
+    {
+      "id": "E-chickenpox-v-011",
+      "claim": "医护人员应遵循标准预防、空气预防和接触预防，直到水痘皮损干燥结痂。",
+      "section": "Patient management",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "隔离",
+        "预防措施",
+        "水痘"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "4-5"
+    },
+    {
+      "id": "E-chickenpox-v-012",
+      "claim": "水痘患者应由有免疫证据的医护人员护理。",
+      "section": "Isolation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "免疫证据",
+        "医护人员",
+        "水痘"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "4-5"
+    },
+    {
+      "id": "E-chickenpox-v-013",
+      "claim": "自1995年以来，水痘疫苗接种计划已使水痘病例减少97%。",
+      "section": "Impact of U.S. varicella vaccination program",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "病例减少",
+        "疫苗效果"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "4-5"
+    },
+    {
+      "id": "E-chickenpox-v-014",
+      "claim": "健康儿童接种水痘疫苗后，带状疱疹风险比未接种但曾患野生型水痘的儿童低约80%。",
+      "section": "Main Findings from 1995-2019",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "水痘疫苗",
+        "带状疱疹",
+        "风险降低"
+      ],
+      "source_doc": "Chickenpox (Varicella) Clinical Overview",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/chickenpox/hcp/clinical-overview/index.html",
+      "page": "4-5"
+    }
+  ]
+}

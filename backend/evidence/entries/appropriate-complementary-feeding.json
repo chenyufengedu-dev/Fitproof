@@ -1,0 +1,46 @@
+{
+  "doc": "Appropriate complementary feeding",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/complementary-feeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-appropriate--001",
+      "claim": "婴儿在出生后前6个月应纯母乳喂养以实现最佳生长、发育和健康。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "纯母乳喂养",
+        "婴儿",
+        "6个月"
+      ],
+      "source_doc": "Appropriate complementary feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/complementary-feeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-appropriate--002",
+      "claim": "婴儿6个月后应接受营养充足且安全的补充食品，同时继续母乳喂养至2岁或以上。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "补充食品",
+        "母乳喂养",
+        "6-24个月",
+        "婴幼儿营养"
+      ],
+      "source_doc": "Appropriate complementary feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/complementary-feeding",
+      "page": "1-3"
+    }
+  ]
+}

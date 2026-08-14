@@ -1,0 +1,62 @@
+{
+  "doc": "Antiperspirants/Deodorants and Breast Cancer",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2024",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-antiperspira-001",
+      "claim": "没有科学证据表明使用止汗剂或除臭剂与乳腺癌的发展有关。",
+      "section": "Is there a link between antiperspirants or deodorants and breast cancer?",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "止汗剂",
+        "除臭剂",
+        "乳腺癌"
+      ],
+      "source_doc": "Antiperspirants/Deodorants and Breast Cancer",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-antiperspira-002",
+      "claim": "含铝止汗剂未被证实会增加乳腺癌风险。",
+      "section": "What is known about the ingredients in antiperspirants and deodorants?",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "铝",
+        "止汗剂",
+        "乳腺癌"
+      ],
+      "source_doc": "Antiperspirants/Deodorants and Breast Cancer",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-antiperspira-003",
+      "claim": "对羟基苯甲酸酯在乳腺癌肿瘤中发现，但没有证据表明它们导致乳腺癌。",
+      "section": "What is known about the ingredients in antiperspirants and deodorants?",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "对羟基苯甲酸酯",
+        "乳腺癌",
+        "防腐剂"
+      ],
+      "source_doc": "Antiperspirants/Deodorants and Breast Cancer",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2024",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths/antiperspirants-fact-sheet",
+      "page": "1-3"
+    }
+  ]
+}

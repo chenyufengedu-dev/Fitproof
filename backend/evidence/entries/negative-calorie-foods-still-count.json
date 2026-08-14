@@ -1,0 +1,82 @@
+{
+  "doc": "Negative-calorie foods still count",
+  "org": "美国营养与饮食学会 (AND)",
+  "year": "2023",
+  "url": "https://www.eatright.org/health/wellness/diet-trends/negative-calorie-foods-still-count",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-negative-cal-001",
+      "claim": "不存在所谓的‘负卡路里食物’，低热量蔬菜水果并非负卡路里。",
+      "section": "Diet Trends",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "负卡路里食物",
+        "蔬菜水果",
+        "热量",
+        "代谢"
+      ],
+      "source_doc": "Negative-calorie foods still count",
+      "org": "美国营养与饮食学会 (AND)",
+      "year": "2023",
+      "url": "https://www.eatright.org/health/wellness/diet-trends/negative-calorie-foods-still-count",
+      "page": "1-2"
+    },
+    {
+      "id": "E-negative-cal-002",
+      "claim": "低热量植物性食物缺乏足够的蛋白质和脂肪，不能作为唯一营养来源。",
+      "section": "Diet Trends",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "低热量食物",
+        "植物性食物",
+        "蛋白质",
+        "脂肪",
+        "营养均衡"
+      ],
+      "source_doc": "Negative-calorie foods still count",
+      "org": "美国营养与饮食学会 (AND)",
+      "year": "2023",
+      "url": "https://www.eatright.org/health/wellness/diet-trends/negative-calorie-foods-still-count",
+      "page": "1-2"
+    },
+    {
+      "id": "E-negative-cal-003",
+      "claim": "应建立包含多种食物的健康饮食模式，而非只关注单一食物。",
+      "section": "Establish a Flexible Approach to Eating",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "健康饮食模式",
+        "多样化饮食",
+        "可持续饮食"
+      ],
+      "source_doc": "Negative-calorie foods still count",
+      "org": "美国营养与饮食学会 (AND)",
+      "year": "2023",
+      "url": "https://www.eatright.org/health/wellness/diet-trends/negative-calorie-foods-still-count",
+      "page": "1-2"
+    },
+    {
+      "id": "E-negative-cal-004",
+      "claim": "开始减重计划前应咨询注册营养师，制定个性化饮食计划。",
+      "section": "Establish a Flexible Approach to Eating",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "减重",
+        "注册营养师",
+        "个性化饮食计划"
+      ],
+      "source_doc": "Negative-calorie foods still count",
+      "org": "美国营养与饮食学会 (AND)",
+      "year": "2023",
+      "url": "https://www.eatright.org/health/wellness/diet-trends/negative-calorie-foods-still-count",
+      "page": "1-2"
+    }
+  ]
+}

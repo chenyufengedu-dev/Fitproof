@@ -1,0 +1,83 @@
+{
+  "doc": "Momordica charantia for type 2 diabetes mellitus",
+  "org": "Cochrane 协作网",
+  "year": "2012",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007845.pub3/information/pl",
+  "complete": true,
+  "done_windows": 14,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-momordica-ch-001",
+      "claim": "苦瓜（Momordica charantia）制剂与安慰剂相比，对2型糖尿病患者的血糖控制无统计学显著差异。",
+      "section": "Abstract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "苦瓜",
+        "2型糖尿病",
+        "血糖控制",
+        "安慰剂"
+      ],
+      "source_doc": "Momordica charantia for type 2 diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007845.pub3/information/pl",
+      "page": "1-3"
+    },
+    {
+      "id": "E-momordica-ch-002",
+      "claim": "目前没有足够证据支持使用苦瓜（Momordica charantia）治疗2型糖尿病。",
+      "section": "Authors' conclusions",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "苦瓜",
+        "2型糖尿病",
+        "循证医学",
+        "证据不足"
+      ],
+      "source_doc": "Momordica charantia for type 2 diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007845.pub3/information/pl",
+      "page": "4-6"
+    },
+    {
+      "id": "E-momordica-ch-003",
+      "claim": "目前没有证据支持推荐食用苦瓜（苦瓜）来管理2型糖尿病。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "苦瓜",
+        "2型糖尿病",
+        "营养治疗",
+        "证据不足"
+      ],
+      "source_doc": "Momordica charantia for type 2 diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007845.pub3/information/pl",
+      "page": "7-9"
+    },
+    {
+      "id": "E-momordica-ch-004",
+      "claim": "现有证据不足以推荐苦瓜用于治疗2型糖尿病或预防其并发症。",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "苦瓜",
+        "2型糖尿病",
+        "证据不足",
+        "推荐"
+      ],
+      "source_doc": "Momordica charantia for type 2 diabetes mellitus",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007845.pub3/information/pl",
+      "page": "13-15"
+    }
+  ]
+}

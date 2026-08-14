@@ -1,0 +1,65 @@
+{
+  "doc": "Sleeping positions that reduce back pain",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2024",
+  "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-sleeping-pos-001",
+      "claim": "侧卧时，将双腿稍微弯曲并拢，在两膝之间垫一个枕头，有助于减轻背痛。",
+      "section": "Sleeping on your side",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "背痛",
+        "睡姿",
+        "侧卧",
+        "枕头"
+      ],
+      "source_doc": "Sleeping positions that reduce back pain",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852",
+      "page": "1-3"
+    },
+    {
+      "id": "E-sleeping-pos-002",
+      "claim": "仰卧时，在膝盖下方垫一个枕头，并在腰下放置卷起的小毛巾以提供额外支撑，有助于放松背部肌肉并维持腰椎曲度。",
+      "section": "Sleeping on your back",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "背痛",
+        "睡姿",
+        "仰卧",
+        "枕头"
+      ],
+      "source_doc": "Sleeping positions that reduce back pain",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852",
+      "page": "1-3"
+    },
+    {
+      "id": "E-sleeping-pos-003",
+      "claim": "俯卧睡姿对背部有害，应尽量避免；如果无法避免，可在臀部和下腹部垫枕头，并谨慎在头下垫枕头以减轻背部压力。",
+      "section": "Sleeping on your stomach",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "背痛",
+        "睡姿",
+        "俯卧",
+        "枕头"
+      ],
+      "source_doc": "Sleeping positions that reduce back pain",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852",
+      "page": "1-3"
+    }
+  ]
+}

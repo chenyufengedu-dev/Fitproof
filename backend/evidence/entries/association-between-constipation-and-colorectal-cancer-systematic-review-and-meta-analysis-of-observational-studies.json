@@ -1,0 +1,135 @@
+{
+  "doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+  "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+  "year": "2013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-association--001",
+      "claim": "基于前瞻性横断面调查和队列研究，便秘与结直肠癌患病风险增加无关。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "关联",
+        "系统综述"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-association--002",
+      "claim": "在横断面研究中，便秘患者的结直肠癌患病率低于非便秘患者（OR=0.56）。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "横断面研究",
+        "Meta分析"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-association--003",
+      "claim": "在病例对照研究中，便秘与结直肠癌风险升高相关（OR=1.68）。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "病例对照研究",
+        "Meta分析"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-association--004",
+      "claim": "在队列研究中，便秘与结直肠癌风险无显著关联（OR=0.80，95% CI 0.61-1.04）。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "队列研究",
+        "Meta分析"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-association--005",
+      "claim": "在无其他警示症状的情况下，不应因单纯便秘而常规进行结肠镜检查以排除结直肠癌。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "结肠镜检查"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-association--006",
+      "claim": "队列研究表明，便秘并不增加结直肠癌的发病风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "队列研究"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-association--007",
+      "claim": "以便秘为首要指征的结肠镜检查中，结直肠癌的诊断率低于因其他下消化道症状而检查的患者。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "便秘",
+        "结直肠癌",
+        "结肠镜检查",
+        "诊断率"
+      ],
+      "source_doc": "Association between constipation and colorectal cancer: systematic review and meta-analysis of observational studies",
+      "org": "美国胃肠病学杂志 (American Journal of Gastroenterology)",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23481143/",
+      "page": "7-9"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "doc": "Intermittent iron and folic acid supplementation during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/intermittent-iron-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "对于贫血患病率低于20%的孕妇，若每日补铁因副作用不可接受，可采用每周一次120mg元素铁和2.8mg叶酸的间歇补充方案。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "间歇性补铁",
+        "叶酸",
+        "孕期",
+        "贫血"
+      ],
+      "source_doc": "Intermittent iron and folic acid supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/intermittent-iron-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

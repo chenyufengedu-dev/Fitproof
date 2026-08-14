@@ -1,0 +1,183 @@
+{
+  "doc": "Foods and Drinks to Avoid or Limit",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+  "complete": true,
+  "done_windows": 1,
+  "count": 10,
+  "entries": [
+    {
+      "id": "E-foods-and-dr-001",
+      "claim": "12个月以下的婴儿不应食用蜂蜜。",
+      "section": "Honey before 12 months",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "蜂蜜",
+        "婴儿",
+        "肉毒中毒"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-002",
+      "claim": "婴幼儿不应摄入添加糖。",
+      "section": "Foods with added sugars",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "添加糖",
+        "婴幼儿",
+        "营养"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-003",
+      "claim": "应避免给幼儿喂食高盐食物。",
+      "section": "Foods high in salt",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "盐",
+        "钠",
+        "幼儿"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-004",
+      "claim": "应避免给幼儿喂食高汞鱼类。",
+      "section": "Fish high in mercury",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "汞",
+        "鱼类",
+        "幼儿",
+        "神经系统"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-005",
+      "claim": "不应给幼儿喂食未经巴氏消毒的饮料或食物。",
+      "section": "Unpasteurized drinks or foods",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "巴氏消毒",
+        "生奶",
+        "幼儿",
+        "细菌感染"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-006",
+      "claim": "24个月以下的儿童不应摄入添加糖。",
+      "section": "Sugar-sweetened drinks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "添加糖",
+        "儿童",
+        "24个月"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-007",
+      "claim": "12个月以下的婴儿不应饮用牛奶。",
+      "section": "Cow's milk before 12-months old",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "牛奶",
+        "婴儿",
+        "肠道出血"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-008",
+      "claim": "12个月以下的婴儿不应饮用任何果汁。",
+      "section": "Juice before 12 months",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "婴儿"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-009",
+      "claim": "对于1-3岁儿童，每天100%果汁不超过4盎司。",
+      "section": "Juice before 12 months",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "儿童",
+        "1-3岁",
+        "推荐量"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-and-dr-010",
+      "claim": "24个月以下的儿童应避免含咖啡因的饮料。",
+      "section": "Caffeinated drinks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "咖啡因",
+        "婴幼儿",
+        "饮料"
+      ],
+      "source_doc": "Foods and Drinks to Avoid or Limit",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "yy-Foods and Drinks to Avoid or Limit.pdf",
+      "page": "1-3"
+    }
+  ]
+}

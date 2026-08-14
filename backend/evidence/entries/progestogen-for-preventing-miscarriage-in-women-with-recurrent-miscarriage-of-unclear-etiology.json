@@ -1,0 +1,81 @@
+{
+  "doc": "Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology",
+  "org": "Cochrane 协作网",
+  "year": "2024",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub6/full",
+  "complete": true,
+  "done_windows": 7,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-progestogen--001",
+      "claim": "对于不明原因复发性流产的孕妇，使用孕激素不能显著降低流产率或提高活产率。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "复发性流产",
+        "孕激素",
+        "流产率",
+        "活产率"
+      ],
+      "source_doc": "Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub6/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-progestogen--002",
+      "claim": "对于原因不明的复发性流产女性，使用孕激素补充剂与安慰剂或不治疗相比，流产率可能几乎没有差异。",
+      "section": "Progestogen versus placebo/no treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕激素",
+        "复发性流产",
+        "流产率"
+      ],
+      "source_doc": "Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub6/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-progestogen--003",
+      "claim": "对于原因不明的复发性流产女性，使用孕激素补充剂与安慰剂或不治疗相比，活产率可能几乎没有差异。",
+      "section": "Progestogen versus placebo/no treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕激素",
+        "复发性流产",
+        "活产率"
+      ],
+      "source_doc": "Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub6/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-progestogen--004",
+      "claim": "对于原因不明的复发性流产女性，补充孕激素对后续妊娠的流产率可能几乎没有影响。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "progestogen",
+        "recurrent miscarriage",
+        "miscarriage prevention",
+        "evidence review"
+      ],
+      "source_doc": "Progestogen for preventing miscarriage in women with recurrent miscarriage of unclear etiology",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub6/full",
+      "page": "19-21"
+    }
+  ]
+}

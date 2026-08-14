@@ -1,0 +1,46 @@
+{
+  "doc": "Zinc supplementation in children with respiratory infections",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/zinc-pneumonia-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-zinc-supplem-001",
+      "claim": "目前尚无关于对呼吸道感染儿童补充锌的具体推荐，需要进一步研究",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "锌补充",
+        "儿童",
+        "呼吸道感染"
+      ],
+      "source_doc": "Zinc supplementation in children with respiratory infections",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/zinc-pneumonia-children",
+      "page": "1-3"
+    },
+    {
+      "id": "E-zinc-supplem-002",
+      "claim": "不推荐在儿童呼吸道感染中实施补锌干预",
+      "section": "Cost-effectiveness",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "锌补充",
+        "儿童",
+        "呼吸道感染",
+        "不推荐"
+      ],
+      "source_doc": "Zinc supplementation in children with respiratory infections",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/zinc-pneumonia-children",
+      "page": "1-3"
+    }
+  ]
+}

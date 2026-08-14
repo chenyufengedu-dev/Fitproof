@@ -1,0 +1,46 @@
+{
+  "doc": "Transition feeding of children 6–59 months of age with severe acute malnutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/transition-feeding-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-transition-f-001",
+      "claim": "对于6-59个月严重急性营养不良的住院儿童，在康复期使用RUTF作为治疗食物时，一旦患儿稳定、有食欲且水肿减轻，应从F-75过渡到RUTF，持续2-3天，根据耐受情况调整。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "过渡喂养",
+        "RUTF",
+        "F-75"
+      ],
+      "source_doc": "Transition feeding of children 6–59 months of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/transition-feeding-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-transition-f-002",
+      "claim": "过渡期推荐能量摄入为100-135 kcal/kg/天。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "能量摄入",
+        "过渡期",
+        "严重急性营养不良"
+      ],
+      "source_doc": "Transition feeding of children 6–59 months of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/transition-feeding-sam",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "doc": "Vitamin A supplementation in HIV-infected infants and children 6–59 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-children-hiv",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "在维生素A缺乏是公共卫生问题的地区（24-59月龄儿童夜盲率≥1%或6-59月龄婴幼儿维生素A缺乏率≥20%），应对6-59月龄婴幼儿和儿童进行高剂量维生素A补充。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A补充",
+        "婴幼儿",
+        "儿童",
+        "维生素A缺乏",
+        "公共卫生问题"
+      ],
+      "source_doc": "Vitamin A supplementation in HIV-infected infants and children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-children-hiv",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-a-su-002",
+      "claim": "上述维生素A补充推荐同样适用于可能感染HIV的6-59月龄婴幼儿和儿童。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A补充",
+        "HIV感染",
+        "婴幼儿",
+        "儿童"
+      ],
+      "source_doc": "Vitamin A supplementation in HIV-infected infants and children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-children-hiv",
+      "page": "1-3"
+    }
+  ]
+}

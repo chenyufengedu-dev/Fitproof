@@ -1,0 +1,49 @@
+{
+  "doc": "Iodine supplementation in pregnant and lactating women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iodine-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-iodine-suppl-001",
+      "claim": "在家庭碘盐覆盖率低于20%的国家，孕妇和哺乳期妇女应补充碘剂，直到盐碘化计划扩大。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "碘",
+        "孕妇",
+        "哺乳期妇女",
+        "盐碘化",
+        "补充剂"
+      ],
+      "source_doc": "Iodine supplementation in pregnant and lactating women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iodine-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-iodine-suppl-002",
+      "claim": "在家庭碘盐覆盖率20-90%的国家，应加速盐碘化或评估通过补充剂或碘强化食品增加最易感人群碘摄入的可行性。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "碘",
+        "盐碘化",
+        "补充剂",
+        "碘强化食品",
+        "孕妇"
+      ],
+      "source_doc": "Iodine supplementation in pregnant and lactating women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iodine-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

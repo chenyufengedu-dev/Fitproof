@@ -1,0 +1,28 @@
+{
+  "doc": "Fortification of wheat flour",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/wheat-flour-fortification",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-fortificatio-001",
+      "claim": "当工业加工的小麦粉被国家中大量人群经常食用时，应考虑对其进行强化。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "小麦粉强化",
+        "营养强化",
+        "公共卫生"
+      ],
+      "source_doc": "Fortification of wheat flour",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/wheat-flour-fortification",
+      "page": "1-3"
+    }
+  ]
+}

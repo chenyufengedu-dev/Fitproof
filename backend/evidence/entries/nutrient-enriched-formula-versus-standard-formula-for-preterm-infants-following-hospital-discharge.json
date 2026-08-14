@@ -1,0 +1,138 @@
+{
+  "doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+  "org": "Cochrane 协作网",
+  "year": "2017",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+  "complete": true,
+  "done_windows": 18,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-nutrient-enr-001",
+      "claim": "早产儿出院后使用营养强化配方（能量密度约74 kcal/100 mL）与标准足月儿配方（约67 kcal/100 mL）相比，在12至18个月内的生长参数（体重、身长、头围）未发现一致差异。",
+      "section": "Main results",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "营养强化配方",
+        "标准配方",
+        "生长发育"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutrient-enr-002",
+      "claim": "现有证据不支持对早产儿出院后常规处方‘出院后配方’（postdischarge formula）。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "出院后配方",
+        "营养强化",
+        "生长",
+        "发育"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-nutrient-enr-003",
+      "claim": "有限证据表明，早产儿出院后使用早产儿配方（preterm formula）可能增加生长速率至18个月龄。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "早产儿配方",
+        "生长速率",
+        "出院后"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-nutrient-enr-004",
+      "claim": "营养强化配方与标准配方相比，早产儿出院后9个月时体重显著增加。",
+      "section": "Meta-analyses of growth data",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "营养强化配方",
+        "体重",
+        "出院后"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-nutrient-enr-005",
+      "claim": "营养强化配方与标准配方相比，早产儿出院后9个月时身长显著增加。",
+      "section": "Meta-analyses of growth data",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "营养强化配方",
+        "身长",
+        "出院后"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-nutrient-enr-006",
+      "claim": "营养强化配方与标准配方相比，早产儿出院后各时间点头围无显著差异。",
+      "section": "Meta-analyses of growth data",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "营养强化配方",
+        "头围",
+        "出院后"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-nutrient-enr-007",
+      "claim": "对于配方奶喂养的早产儿，出院后不应常规使用营养强化配方（如早产儿配方或出院后配方）代替标准足月儿配方。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "早产儿",
+        "营养强化配方",
+        "出院后喂养",
+        "配方奶"
+      ],
+      "source_doc": "Nutrient-enriched formula versus standard formula for preterm infants following hospital discharge",
+      "org": "Cochrane 协作网",
+      "year": "2017",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004696.pub5/full",
+      "page": "19-21"
+    }
+  ]
+}

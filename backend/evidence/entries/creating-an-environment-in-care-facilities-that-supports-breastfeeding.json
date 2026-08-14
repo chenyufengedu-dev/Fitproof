@@ -1,0 +1,149 @@
+{
+  "doc": "Creating an environment in care facilities that supports breastfeeding",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+  "complete": true,
+  "done_windows": 3,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-creating-an--001",
+      "claim": "母亲应在婴儿出生后一小时内开始母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "开始时间",
+        "出生后一小时"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--002",
+      "claim": "婴儿应纯母乳喂养6个月。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "纯母乳喂养",
+        "6个月"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--003",
+      "claim": "持续母乳喂养至2岁或以上。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "持续时间",
+        "2岁"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--004",
+      "claim": "提供母婴服务的机构应有明确书面母乳喂养政策，并定期传达给员工和父母。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养政策",
+        "机构",
+        "员工",
+        "父母"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--005",
+      "claim": "提供婴儿喂养服务的卫生机构工作人员应具备支持母乳喂养的足够知识、能力和技能。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "工作人员",
+        "能力",
+        "知识"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--006",
+      "claim": "出院时应协调规划，确保父母和婴儿获得持续的母乳喂养支持。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "出院规划",
+        "持续支持"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--007",
+      "claim": "机构应允许母婴同室，除非婴儿需要特殊医疗护理。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母婴同室",
+        "机构",
+        "婴儿护理"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    },
+    {
+      "id": "E-creating-an--008",
+      "claim": "产前保健机构应向孕妇及其家庭咨询母乳喂养的好处和管理。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "产前咨询",
+        "母乳喂养",
+        "好处"
+      ],
+      "source_doc": "Creating an environment in care facilities that supports breastfeeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-care-facilities",
+      "page": "1-3"
+    }
+  ]
+}

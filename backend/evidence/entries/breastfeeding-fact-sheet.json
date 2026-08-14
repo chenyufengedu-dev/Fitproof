@@ -1,0 +1,65 @@
+{
+  "doc": "Breastfeeding (Fact Sheet)",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/health-topics/breastfeeding",
+  "complete": true,
+  "done_windows": 1,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-breastfeedin-001",
+      "claim": "婴儿应在出生后1小时内开始母乳喂养，并在前6个月内纯母乳喂养（不喂其他食物或液体，包括水）。",
+      "section": "推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "母乳喂养",
+        "纯母乳喂养",
+        "婴儿",
+        "出生后1小时"
+      ],
+      "source_doc": "Breastfeeding (Fact Sheet)",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/health-topics/breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-002",
+      "claim": "婴儿应按需哺乳（包括夜间），不应使用奶瓶、乳头或安抚奶嘴。",
+      "section": "推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "按需哺乳",
+        "奶瓶",
+        "安抚奶嘴",
+        "母乳喂养"
+      ],
+      "source_doc": "Breastfeeding (Fact Sheet)",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/health-topics/breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-breastfeedin-003",
+      "claim": "从6个月大起，儿童应开始摄入安全和充足的补充食品，同时继续母乳喂养至2岁或更长时间。",
+      "section": "推荐",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "补充食品",
+        "继续母乳喂养",
+        "6个月",
+        "2岁"
+      ],
+      "source_doc": "Breastfeeding (Fact Sheet)",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/health-topics/breastfeeding",
+      "page": "1-3"
+    }
+  ]
+}

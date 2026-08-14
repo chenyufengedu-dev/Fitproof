@@ -1,0 +1,120 @@
+{
+  "doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+  "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+  "year": "2025",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+  "complete": true,
+  "done_windows": 5,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-effect-of-an-001",
+      "claim": "在患有至少一种慢性疾病的成人中，抗炎饮食可小幅改善身体健康相关生活质量，但对心理健康或总体生活质量无显著改善，且证据确定性低。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "身体成分",
+        "心理成分"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-effect-of-an-002",
+      "claim": "抗炎饮食对慢性病成人健康相关生活质量的躯体成分评分有小幅改善效果。",
+      "section": "HRQOL: PCS",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "系统综述"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-effect-of-an-003",
+      "claim": "抗炎饮食可能导致慢性病成人患者生理健康相关生活质量的小幅改善，但可能不具有临床意义。",
+      "section": "Discussion - Main findings",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "生理健康"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-effect-of-an-004",
+      "claim": "抗炎饮食对慢性病成人患者的心理成分健康相关生活质量无显著影响。",
+      "section": "Discussion - Main findings",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "心理健康"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-effect-of-an-005",
+      "claim": "抗炎饮食对慢性病成年人的生理健康相关生活质量有微小且可能无临床意义的改善。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "生理健康"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-effect-of-an-006",
+      "claim": "抗炎饮食对慢性病成年人的心理健康相关生活质量或总体健康相关生活质量无影响。",
+      "section": "CONCLUSION",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "抗炎饮食",
+        "健康相关生活质量",
+        "慢性病",
+        "心理健康"
+      ],
+      "source_doc": "Effect of anti- inflammatory diets on health- related quality of life in adults with chronic disease a systematic.",
+      "org": "BMJ 营养、预防与健康 (BMJ Nutrition, Prevention & Health)",
+      "year": "2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322563/pdf/bmjnph-8-1.pdf",
+      "page": "10-12"
+    }
+  ]
+}

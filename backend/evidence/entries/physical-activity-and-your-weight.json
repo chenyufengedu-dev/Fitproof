@@ -1,0 +1,99 @@
+{
+  "doc": "Physical Activity and Your Weight",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2023",
+  "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-physical-act-001",
+      "claim": "Regular physical activity provides immediate and long-term health benefits.",
+      "section": "KEY POINTS",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "physical activity",
+        "health benefits",
+        "immediate",
+        "long-term"
+      ],
+      "source_doc": "Physical Activity and Your Weight",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-002",
+      "claim": "Being physically active can help you maintain a healthy weight.",
+      "section": "KEY POINTS",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "physical activity",
+        "weight maintenance",
+        "healthy weight"
+      ],
+      "source_doc": "Physical Activity and Your Weight",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-003",
+      "claim": "Adults need at least 150 minutes of moderate-intensity aerobic activity per week for overall health.",
+      "section": "How much physical activity do I need?",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "adults",
+        "aerobic activity",
+        "150 minutes",
+        "moderate intensity"
+      ],
+      "source_doc": "Physical Activity and Your Weight",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-004",
+      "claim": "Adults need at least 2 days of muscle-strengthening activity per week.",
+      "section": "How much physical activity do I need?",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "adults",
+        "muscle strengthening",
+        "2 days"
+      ],
+      "source_doc": "Physical Activity and Your Weight",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-005",
+      "claim": "Most weight loss occurs from decreasing calories, but maintaining weight loss requires regular physical activity.",
+      "section": "Why it's important",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "weight loss",
+        "calorie reduction",
+        "physical activity",
+        "maintenance"
+      ],
+      "source_doc": "Physical Activity and Your Weight",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html",
+      "page": "1-3"
+    }
+  ]
+}

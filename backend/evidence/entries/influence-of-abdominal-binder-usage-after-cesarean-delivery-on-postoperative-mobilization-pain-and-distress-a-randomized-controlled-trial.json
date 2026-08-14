@@ -1,0 +1,49 @@
+{
+  "doc": "Influence of Abdominal Binder Usage after Cesarean Delivery on Postoperative Mobilization, Pain and Distress: A Randomized Controlled Trial",
+  "org": "欧亚医学杂志 (Eurasian Journal of Medicine)",
+  "year": "2019",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6812913/",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-influence-of-001",
+      "claim": "剖宫产后使用腹部绑带可增加术后早期活动能力、减轻疼痛和痛苦感。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "剖宫产",
+        "腹部绑带",
+        "术后活动",
+        "疼痛",
+        "痛苦"
+      ],
+      "source_doc": "Influence of Abdominal Binder Usage after Cesarean Delivery on Postoperative Mobilization, Pain and Distress: A Randomized Controlled Trial",
+      "org": "欧亚医学杂志 (Eurasian Journal of Medicine)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6812913/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-influence-of-002",
+      "claim": "剖宫产术后使用腹部束腹带可以增加行走距离、减轻疼痛和痛苦，建议使用。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "剖宫产",
+        "腹部束腹带",
+        "术后疼痛",
+        "行走距离",
+        "痛苦"
+      ],
+      "source_doc": "Influence of Abdominal Binder Usage after Cesarean Delivery on Postoperative Mobilization, Pain and Distress: A Randomized Controlled Trial",
+      "org": "欧亚医学杂志 (Eurasian Journal of Medicine)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6812913/",
+      "page": "4-5"
+    }
+  ]
+}

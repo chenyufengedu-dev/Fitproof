@@ -1,0 +1,29 @@
+{
+  "doc": "Breastfeeding of low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/supplementary-feeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-breastfeedin-001",
+      "claim": "低出生体重婴儿在临床稳定后应尽快开始母乳喂养，并纯母乳喂养至6个月龄。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "母乳喂养",
+        "纯母乳喂养",
+        "早期母乳喂养"
+      ],
+      "source_doc": "Breastfeeding of low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/supplementary-feeding",
+      "page": "1-3"
+    }
+  ]
+}

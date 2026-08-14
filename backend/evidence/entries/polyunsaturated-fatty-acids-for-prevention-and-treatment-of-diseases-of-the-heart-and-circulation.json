@@ -1,0 +1,608 @@
+{
+  "doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+  "org": "Cochrane 协作网",
+  "year": "2018",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+  "complete": true,
+  "done_windows": 9,
+  "count": 35,
+  "entries": [
+    {
+      "id": "E-polyunsatura-001",
+      "claim": "提高多不饱和脂肪酸摄入可能对全因死亡率几乎没有影响。",
+      "section": "All-cause mortality",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "全因死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-002",
+      "claim": "提高多不饱和脂肪酸摄入可能轻微降低冠心病事件风险（NNT 53）。",
+      "section": "Coronary heart disease events",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "冠心病",
+        "心血管事件"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-003",
+      "claim": "提高多不饱和脂肪酸摄入可能轻微降低卒中风险，但置信区间包含有害可能。",
+      "section": "Stroke",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "卒中",
+        "心血管"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-004",
+      "claim": "提高多不饱和脂肪酸摄入对主要不良心脏和心血管事件（MACCE）的影响不明确。",
+      "section": "Major adverse cardiac and cardiovascular events (MACCEs)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "MACCE",
+        "心血管事件"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-005",
+      "claim": "提高多不饱和脂肪酸摄入可能对心血管死亡率几乎没有影响。",
+      "section": "Cardiovascular mortality",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心血管死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-006",
+      "claim": "提高多不饱和脂肪酸摄入可能轻微降低心血管事件风险（NNT 59）。",
+      "section": "Cardiovascular events",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心血管事件",
+        "预防"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-polyunsatura-007",
+      "claim": "增加多不饱和脂肪酸摄入可能降低心血管事件风险（中等质量证据）",
+      "section": "心血管事件",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心血管事件",
+        "预防"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-008",
+      "claim": "增加多不饱和脂肪酸摄入可能小幅度降低冠心病死亡风险（低质量证据）",
+      "section": "冠心病死亡",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "冠心病死亡",
+        "预防"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-009",
+      "claim": "增加多不饱和脂肪酸摄入可能降低心肌梗死风险",
+      "section": "心肌梗死",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心肌梗死",
+        "预防"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-010",
+      "claim": "增加多不饱和脂肪酸摄入对心源性猝死的影响尚不明确",
+      "section": "心源性猝死",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心源性猝死",
+        "不确定"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-011",
+      "claim": "增加多不饱和脂肪酸摄入对房颤的影响尚不明确（极低质量证据）",
+      "section": "房颤",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "房颤",
+        "不确定"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-012",
+      "claim": "增加多不饱和脂肪酸摄入对心绞痛的影响尚不明确",
+      "section": "心绞痛",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心绞痛",
+        "不确定"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-013",
+      "claim": "增加多不饱和脂肪酸摄入对心力衰竭的影响尚不明确",
+      "section": "心力衰竭",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心力衰竭",
+        "不确定"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-014",
+      "claim": "增加多不饱和脂肪酸摄入可能增加外周动脉疾病风险",
+      "section": "外周动脉疾病",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "外周动脉疾病",
+        "风险"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-015",
+      "claim": "增加多不饱和脂肪酸摄入对血运重建的影响尚不明确",
+      "section": "血运重建",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "血运重建",
+        "不确定"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-016",
+      "claim": "较高多不饱和脂肪酸摄入可能导致体重增加（中等质量证据）",
+      "section": "体重",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "体重增加",
+        "肥胖"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-017",
+      "claim": "较高多不饱和脂肪酸摄入可能导致BMI升高（低质量证据）",
+      "section": "BMI",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "BMI",
+        "肥胖"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-018",
+      "claim": "较高多不饱和脂肪酸摄入可降低总胆固醇（高质量证据）",
+      "section": "总胆固醇",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "总胆固醇",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-019",
+      "claim": "较高多不饱和脂肪酸摄入可能降低甘油三酯水平（中等质量证据）",
+      "section": "甘油三酯",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "甘油三酯",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "34-36"
+    },
+    {
+      "id": "E-polyunsatura-020",
+      "claim": "增加多不饱和脂肪酸摄入可能降低甘油三酯水平。",
+      "section": "Lipids - Triglycerides",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "甘油三酯",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-021",
+      "claim": "增加多不饱和脂肪酸摄入对高密度脂蛋白（HDL）无重要影响。",
+      "section": "Lipids - high density lipoprotein (HDL)",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "高密度脂蛋白",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-022",
+      "claim": "增加多不饱和脂肪酸摄入对低密度脂蛋白（LDL）无重要影响。",
+      "section": "Lipids - low density lipoprotein (LDL)",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "低密度脂蛋白",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-023",
+      "claim": "增加多不饱和脂肪酸摄入对全因死亡率几乎没有影响。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "全因死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-024",
+      "claim": "增加多不饱和脂肪酸摄入可能降低冠心病事件风险。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "冠心病",
+        "事件",
+        "风险"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-025",
+      "claim": "增加多不饱和脂肪酸摄入可能降低心血管疾病事件风险。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心血管疾病",
+        "事件",
+        "风险"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-026",
+      "claim": "增加多不饱和脂肪酸摄入轻微降低总血清胆固醇。",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "总胆固醇",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-027",
+      "claim": "增加多不饱和脂肪酸摄入可能导致体重增加。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "体重",
+        "不良影响"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "37-39"
+    },
+    {
+      "id": "E-polyunsatura-028",
+      "claim": "增加多不饱和脂肪酸摄入对全因死亡率可能几乎没有影响（既无益也无害）。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "全因死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-029",
+      "claim": "增加多不饱和脂肪酸摄入可能略微降低冠心病事件风险。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "冠心病",
+        "心血管事件"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-030",
+      "claim": "增加多不饱和脂肪酸摄入可能略微降低心血管疾病事件风险。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "心血管疾病",
+        "事件风险"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-031",
+      "claim": "增加多不饱和脂肪酸摄入可能略微降低冠心病死亡率。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "冠心病死亡率",
+        "心血管"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-032",
+      "claim": "增加多不饱和脂肪酸摄入可能略微降低中风风险。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "中风",
+        "脑卒中"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-033",
+      "claim": "增加多不饱和脂肪酸摄入可降低总胆固醇。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "总胆固醇",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-034",
+      "claim": "增加多不饱和脂肪酸摄入可能降低甘油三酯。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "甘油三酯",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    },
+    {
+      "id": "E-polyunsatura-035",
+      "claim": "增加多不饱和脂肪酸摄入对高密度脂蛋白可能无影响。",
+      "section": "AUTHORS' CONCLUSIONS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多不饱和脂肪酸",
+        "高密度脂蛋白",
+        "血脂"
+      ],
+      "source_doc": "Polyunsaturated fatty acids for prevention and treatment of diseases of the heart and circulation",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012345.pub2/",
+      "page": "40-42"
+    }
+  ]
+}

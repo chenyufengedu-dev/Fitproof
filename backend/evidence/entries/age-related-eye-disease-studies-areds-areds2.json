@@ -1,0 +1,243 @@
+{
+  "doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+  "org": "美国国家眼科研究所 (NEI)",
+  "year": "2022",
+  "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+  "complete": true,
+  "done_windows": 2,
+  "count": 13,
+  "entries": [
+    {
+      "id": "E-age-related--001",
+      "claim": "服用 AREDS 或 AREDS2 补充剂可将中度年龄相关性黄斑变性（AMD）进展为晚期 AMD 的风险降低约 25%。",
+      "section": "Major AREDS/AREDS2 findings",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AREDS",
+        "AREDS2",
+        "AMD",
+        "补充剂"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "1-3"
+    },
+    {
+      "id": "E-age-related--002",
+      "claim": "AREDS 和 AREDS2 补充剂不能预防 AMD 的发生。",
+      "section": "Major AREDS/AREDS2 findings",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AREDS",
+        "AREDS2",
+        "AMD",
+        "预防"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "1-3"
+    },
+    {
+      "id": "E-age-related--003",
+      "claim": "AREDS 和 AREDS2 补充剂对白内障无影响。",
+      "section": "Major AREDS/AREDS2 findings",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AREDS",
+        "AREDS2",
+        "白内障"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "1-3"
+    },
+    {
+      "id": "E-age-related--004",
+      "claim": "Omega-3 脂肪酸补充剂对白内障或 AMD 无影响。",
+      "section": "Major AREDS/AREDS2 findings",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "脂肪酸",
+        "白内障",
+        "AMD"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "1-3"
+    },
+    {
+      "id": "E-age-related--005",
+      "claim": "当前吸烟者或曾吸烟者应使用 AREDS2 配方，避免使用含 β-胡萝卜素的 AREDS 配方，因为 β-胡萝卜素会增加肺癌风险。",
+      "section": "Major AREDS/AREDS2 findings",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "吸烟",
+        "AREDS2",
+        "β-胡萝卜素",
+        "肺癌",
+        "AMD"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "1-3"
+    },
+    {
+      "id": "E-age-related--006",
+      "claim": "对于高危晚期AMD患者（包括中度AMD或单眼晚期AMD），使用抗氧化剂加锌和铜的AREDS配方可将进展为晚期AMD的风险降低约25%。",
+      "section": "AREDS/AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "AREDS配方",
+        "抗氧化剂",
+        "锌",
+        "铜"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--007",
+      "claim": "AREDS配方使高危患者中心视力丧失风险降低19%。",
+      "section": "AREDS/AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "视力丧失",
+        "AREDS配方"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--008",
+      "claim": "AREDS配方不能降低白内障风险。",
+      "section": "AREDS/AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "白内障",
+        "AREDS配方"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--009",
+      "claim": "在AREDS配方中添加ω-3脂肪酸或叶黄素+玉米黄质对晚期AMD风险无额外总体效果。",
+      "section": "AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "ω-3脂肪酸",
+        "叶黄素",
+        "玉米黄质"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--010",
+      "claim": "用叶黄素+玉米黄质替代β-胡萝卜素的AREDS2配方相比原AREDS配方有递增的获益。",
+      "section": "AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "叶黄素",
+        "玉米黄质",
+        "β-胡萝卜素"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--011",
+      "claim": "曾吸烟者服用含β-胡萝卜素的配方有更高的肺癌发生率。",
+      "section": "AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "吸烟",
+        "β-胡萝卜素",
+        "肺癌",
+        "AMD"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--012",
+      "claim": "从AREDS配方中去除β-胡萝卜素或降低锌剂量不会显著改变配方对AMD的有效性。",
+      "section": "AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "锌",
+        "AMD",
+        "AREDS配方"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    },
+    {
+      "id": "E-age-related--013",
+      "claim": "在AREDS配方中添加ω-3脂肪酸或叶黄素+玉米黄质对白内障手术需求无总体影响。",
+      "section": "AREDS2结果",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "白内障手术",
+        "ω-3脂肪酸",
+        "叶黄素",
+        "玉米黄质"
+      ],
+      "source_doc": "Age-Related Eye Disease Studies (AREDS/AREDS2)",
+      "org": "美国国家眼科研究所 (NEI)",
+      "year": "2022",
+      "url": "https://www.nei.nih.gov/eye-health-information/clinical-trials/age-related-eye-disease-studies-aredsareds2/about-areds-and-areds2",
+      "page": "4-6"
+    }
+  ]
+}

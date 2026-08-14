@@ -1,0 +1,30 @@
+{
+  "doc": "Rumors, Myths, and Truths",
+  "org": "美国癌症协会 (ACS)",
+  "year": "2024",
+  "url": "https://pressroom.cancer.org/index.php?s=20296",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-rumors-myths-001",
+      "claim": "建议以植物性饮食为主，并限制加工肉类和红肉的摄入。",
+      "section": "Rumors, Myths, and Truths",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "饮食",
+        "植物性饮食",
+        "红肉",
+        "加工肉类",
+        "癌症预防"
+      ],
+      "source_doc": "Rumors, Myths, and Truths",
+      "org": "美国癌症协会 (ACS)",
+      "year": "2024",
+      "url": "https://pressroom.cancer.org/index.php?s=20296",
+      "page": "1-2"
+    }
+  ]
+}

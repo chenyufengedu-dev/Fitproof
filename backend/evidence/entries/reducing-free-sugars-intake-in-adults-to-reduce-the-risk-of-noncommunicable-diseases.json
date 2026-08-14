@@ -1,0 +1,63 @@
+{
+  "doc": "Reducing free sugars intake in adults to reduce the risk of noncommunicable diseases",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/free-sugars-adults-ncds",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-reducing-fre-001",
+      "claim": "WHO推荐在整个生命历程中减少游离糖摄入。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "非传染性疾病",
+        "生命历程"
+      ],
+      "source_doc": "Reducing free sugars intake in adults to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-adults-ncds",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-fre-002",
+      "claim": "WHO推荐成人和儿童将游离糖摄入减少至总能量摄入的10%以下。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "成人",
+        "儿童"
+      ],
+      "source_doc": "Reducing free sugars intake in adults to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-adults-ncds",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-fre-003",
+      "claim": "WHO建议将游离糖摄入进一步减少至总能量摄入的5%以下。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "进一步减少"
+      ],
+      "source_doc": "Reducing free sugars intake in adults to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/free-sugars-adults-ncds",
+      "page": "1-3"
+    }
+  ]
+}

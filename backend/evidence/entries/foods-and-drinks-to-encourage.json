@@ -1,0 +1,98 @@
+{
+  "doc": "Foods and Drinks to Encourage",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-foods-and-dr-001",
+      "claim": "婴儿从6个月大开始需要多样化的食物和饮品以保证生长发育。",
+      "section": "Foods and Drinks to Encourage",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿",
+        "营养",
+        "生长发育",
+        "6个月"
+      ],
+      "source_doc": "Foods and Drinks to Encourage",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-foods-and-dr-002",
+      "claim": "应给婴儿提供各种蔬菜、水果、蛋白质、无添加糖乳制品、健康脂肪和全谷物，并切成小块。",
+      "section": "Foods to encourage",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "辅食",
+        "多样化",
+        "切小块"
+      ],
+      "source_doc": "Foods and Drinks to Encourage",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-foods-and-dr-003",
+      "claim": "12个月大后婴儿可以开始饮用巴氏杀菌的全脂纯牛奶或无糖强化的乳制品替代品。",
+      "section": "Drinks to encourage",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "牛奶",
+        "12个月",
+        "乳制品替代品"
+      ],
+      "source_doc": "Foods and Drinks to Encourage",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-foods-and-dr-004",
+      "claim": "6到12个月大的婴儿可以饮用母乳或配方奶，以及每天4到8盎司的水。",
+      "section": "Drinks to encourage",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "母乳",
+        "配方奶",
+        "水",
+        "6-12个月"
+      ],
+      "source_doc": "Foods and Drinks to Encourage",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-foods-and-dr-005",
+      "claim": "12个月大后，应继续提供多样化健康食物，允许孩子选择，并通过自身健康饮食树立榜样。",
+      "section": "Foods to encourage",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "榜样",
+        "多样化",
+        "12个月"
+      ],
+      "source_doc": "Foods and Drinks to Encourage",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html",
+      "page": "1-2"
+    }
+  ]
+}

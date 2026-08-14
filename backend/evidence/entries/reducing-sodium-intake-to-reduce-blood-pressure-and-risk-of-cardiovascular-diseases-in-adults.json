@@ -1,0 +1,48 @@
+{
+  "doc": "Reducing sodium intake to reduce blood pressure and risk of cardiovascular diseases in adults",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sodium-cvd-adults",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-reducing-sod-001",
+      "claim": "减少钠摄入可降低成人的血压和心血管疾病、中风、冠心病风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "钠",
+        "血压",
+        "心血管疾病",
+        "中风",
+        "冠心病"
+      ],
+      "source_doc": "Reducing sodium intake to reduce blood pressure and risk of cardiovascular diseases in adults",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sodium-cvd-adults",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-sod-002",
+      "claim": "成人钠摄入量应降至每日低于2克（相当于盐低于5克）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "钠",
+        "盐",
+        "摄入量",
+        "成人"
+      ],
+      "source_doc": "Reducing sodium intake to reduce blood pressure and risk of cardiovascular diseases in adults",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sodium-cvd-adults",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "doc": "Supplementary feeding in community settings for promoting child growth",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/child-growth",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-supplementar-001",
+      "claim": "社区补充喂养对5岁以下儿童生长几乎没有影响",
+      "section": "Supplementary feeding in community settings for promoting child growth",
+      "strength": "背景说明",
+      "topics": [
+        "WHO营养干预",
+        "补充喂养",
+        "儿童生长",
+        "社区"
+      ],
+      "source_doc": "Supplementary feeding in community settings for promoting child growth",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/child-growth",
+      "page": "1-3"
+    }
+  ]
+}

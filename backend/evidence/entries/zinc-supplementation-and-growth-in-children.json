@@ -1,0 +1,29 @@
+{
+  "doc": "Zinc supplementation and growth in children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/zinc-stunting",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-zinc-supplem-001",
+      "claim": "补锌可能有助于改善5岁以下儿童的线性生长（身高增长）。",
+      "section": "WHO Recommendations",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "锌补充剂",
+        "儿童生长",
+        "线性生长",
+        "5岁以下儿童"
+      ],
+      "source_doc": "Zinc supplementation and growth in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/zinc-stunting",
+      "page": "1-3"
+    }
+  ]
+}

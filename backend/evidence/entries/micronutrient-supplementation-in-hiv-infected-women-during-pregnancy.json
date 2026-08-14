@@ -1,0 +1,65 @@
+{
+  "doc": "Micronutrient supplementation in HIV-infected women during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/micronutrients-hiv-pregnancy",
+  "complete": true,
+  "done_windows": 1,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-micronutrien-001",
+      "claim": "目前尚无足够证据支持对HIV感染孕妇进行特定微量营养素补充的具体推荐，需要进一步研究。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "微量营养素补充",
+        "HIV感染孕妇",
+        "证据不足",
+        "推荐"
+      ],
+      "source_doc": "Micronutrient supplementation in HIV-infected women during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-hiv-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-002",
+      "claim": "某些微量营养素补充剂可能对HIV感染孕妇有益且安全，但需进一步研究才能做出具体推荐。",
+      "section": "Overview",
+      "strength": "背景说明",
+      "topics": [
+        "WHO营养干预",
+        "微量营养素补充",
+        "HIV感染孕妇",
+        "安全性",
+        "潜在益处"
+      ],
+      "source_doc": "Micronutrient supplementation in HIV-infected women during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-hiv-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-micronutrien-003",
+      "claim": "通过均衡健康饮食获得充足营养对所有人的健康和生存至关重要，无论HIV状态如何。",
+      "section": "Overview",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "均衡饮食",
+        "营养",
+        "健康",
+        "HIV"
+      ],
+      "source_doc": "Micronutrient supplementation in HIV-infected women during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrients-hiv-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

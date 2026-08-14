@@ -1,0 +1,30 @@
+{
+  "doc": "Vitamin A supplementation in children with respiratory infections",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-pneumonia-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "目前尚无关于维生素A补充用于儿童呼吸道感染的明确推荐。",
+      "section": "WHO Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "儿童",
+        "呼吸道感染",
+        "补充",
+        "无推荐"
+      ],
+      "source_doc": "Vitamin A supplementation in children with respiratory infections",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-pneumonia-children",
+      "page": "1-3"
+    }
+  ]
+}

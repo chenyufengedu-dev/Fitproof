@@ -1,0 +1,29 @@
+{
+  "doc": "Infant feeding in areas of Zika virus transmission",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/zika-breastfeeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-infant-feedi-001",
+      "claim": "在寨卡病毒传播地区，婴儿应按照正常喂养指南喂养，包括出生后一小时内开始母乳喂养、纯母乳喂养6个月、及时添加辅食并继续母乳喂养至2岁或以上。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "寨卡病毒",
+        "母乳喂养",
+        "婴儿喂养",
+        "母乳喂养指南"
+      ],
+      "source_doc": "Infant feeding in areas of Zika virus transmission",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/zika-breastfeeding",
+      "page": "1-3"
+    }
+  ]
+}

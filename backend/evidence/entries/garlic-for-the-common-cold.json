@@ -1,0 +1,135 @@
+{
+  "doc": "Garlic for the common cold",
+  "org": "Cochrane 协作网",
+  "year": "2014",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+  "complete": true,
+  "done_windows": 7,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-garlic-for-t-001",
+      "claim": "服用含大蒜素的大蒜胶囊（每日一次）可能降低普通感冒的发生次数和总生病天数，但对感冒恢复时间无明显影响，证据有限。",
+      "section": "Main results",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "预防",
+        "大蒜素"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "1-3"
+    },
+    {
+      "id": "E-garlic-for-t-002",
+      "claim": "现有临床试验证据不足以证明大蒜能预防或治疗普通感冒。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "预防",
+        "治疗",
+        "证据不足"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-garlic-for-t-003",
+      "claim": "单试验提示大蒜可能预防普通感冒，但证据质量较低，需要更多研究验证。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "预防",
+        "低质量证据"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-garlic-for-t-004",
+      "claim": "目前没有充分证据推荐使用大蒜补充剂预防或治疗普通感冒。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "预防",
+        "治疗"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-garlic-for-t-005",
+      "claim": "每天服用大蒜补充剂可能降低普通感冒的发病率，但证据有限，需要进一步验证。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "预防"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-garlic-for-t-006",
+      "claim": "目前没有证据表明大蒜能减轻普通感冒症状的严重程度或缩短病程。",
+      "section": "Authors' conclusions",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大蒜",
+        "普通感冒",
+        "治疗"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-garlic-for-t-007",
+      "claim": "大蒜对治疗普通感冒无效。",
+      "section": "Feedback",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "garlic",
+        "common cold",
+        "treatment"
+      ],
+      "source_doc": "Garlic for the common cold",
+      "org": "Cochrane 协作网",
+      "year": "2014",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/full",
+      "page": "16-18"
+    }
+  ]
+}

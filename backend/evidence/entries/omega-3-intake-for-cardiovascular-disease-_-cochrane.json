@@ -1,0 +1,104 @@
+{
+  "doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-omega-3-inta-001",
+      "claim": "增加长链omega-3（EPA和DHA）摄入对全因死亡和心血管事件几乎没有影响（高确定性证据）。",
+      "section": "Key results",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "omega-3",
+        "EPA",
+        "DHA",
+        "全因死亡",
+        "心血管事件"
+      ],
+      "source_doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+      "page": "1-3"
+    },
+    {
+      "id": "E-omega-3-inta-002",
+      "claim": "增加EPA和DHA可能略微降低冠心病死亡和冠心病事件风险（低确定性证据）。",
+      "section": "Key results",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "omega-3",
+        "EPA",
+        "DHA",
+        "冠心病",
+        "死亡"
+      ],
+      "source_doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+      "page": "1-3"
+    },
+    {
+      "id": "E-omega-3-inta-003",
+      "claim": "增加EPA和DHA可降低甘油三酯约15%（高确定性证据）。",
+      "section": "Key results",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "omega-3",
+        "EPA",
+        "DHA",
+        "甘油三酯"
+      ],
+      "source_doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+      "page": "1-3"
+    },
+    {
+      "id": "E-omega-3-inta-004",
+      "claim": "增加ALA摄入对全因死亡、心血管死亡和冠心病事件可能几乎没有影响（中低确定性证据）。",
+      "section": "Key results",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "omega-3",
+        "ALA",
+        "全因死亡",
+        "心血管死亡",
+        "冠心病"
+      ],
+      "source_doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+      "page": "1-3"
+    },
+    {
+      "id": "E-omega-3-inta-005",
+      "claim": "增加ALA摄入可能略微降低心血管事件和心律失常风险（中低确定性证据）。",
+      "section": "Key results",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "omega-3",
+        "ALA",
+        "心血管事件",
+        "心律失常"
+      ],
+      "source_doc": "Omega-3 intake for cardiovascular disease _ Cochrane",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "doc": "Foods to avoid in pregnancy",
+  "org": "英国国民保健署 (NHS)",
+  "year": "2026",
+  "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+  "complete": true,
+  "done_windows": 2,
+  "count": 21,
+  "entries": [
+    {
+      "id": "E-foods-to-avo-001",
+      "claim": "孕妇可以安全食用经过巴氏消毒的牛奶、黄油、酸奶、奶油和冰淇淋。",
+      "section": "Cheese, milk and other dairy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "乳制品",
+        "巴氏消毒",
+        "孕期安全"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-002",
+      "claim": "孕妇应避免食用未经巴氏消毒的牛奶、奶油、酸奶、黄油和冰淇淋。",
+      "section": "Cheese, milk and other dairy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "乳制品",
+        "未巴氏消毒",
+        "孕期避免"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-003",
+      "claim": "孕妇可以安全食用彻底煮熟的鸡肉、猪肉、羊肉、火鸡和鸭肉。",
+      "section": "Meat and poultry",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "肉类",
+        "彻底煮熟",
+        "孕期安全"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-004",
+      "claim": "孕妇应避免食用生肉或未煮熟的肉。",
+      "section": "Meat and poultry",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "生肉",
+        "孕期避免",
+        "弓形虫病"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-005",
+      "claim": "孕妇应避免食用肝脏和肝脏制品。",
+      "section": "Meat and poultry",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "肝脏",
+        "维生素A",
+        "孕期避免"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-006",
+      "claim": "带有英国红狮标志的鸡蛋可以生吃或半熟食用。",
+      "section": "Eggs",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鸡蛋",
+        "红狮标志",
+        "沙门氏菌"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-007",
+      "claim": "孕妇应避免食用未煮熟的非红狮标志鸡蛋。",
+      "section": "Eggs",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鸡蛋",
+        "非红狮标志",
+        "孕期避免"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-008",
+      "claim": "孕妇可以安全食用煮熟的鱼和贝类。",
+      "section": "Fish and seafood",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼类",
+        "贝类",
+        "煮熟",
+        "孕期安全"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-009",
+      "claim": "孕妇每周不应摄入超过4罐金枪鱼或2块金枪鱼排。",
+      "section": "Fish and seafood",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "金枪鱼",
+        "汞",
+        "限量"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-010",
+      "claim": "孕妇应避免食用剑鱼、鲨鱼和旗鱼。",
+      "section": "Fish and seafood",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "剑鱼",
+        "鲨鱼",
+        "旗鱼",
+        "汞"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-011",
+      "claim": "孕妇每日咖啡因摄入不应超过200毫克。",
+      "section": "Caffeine",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "限量",
+        "孕期"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-foods-to-avo-012",
+      "claim": "孕妇每日咖啡因摄入不应超过200mg。",
+      "section": "Drinks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "孕妇",
+        "每日上限"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-013",
+      "claim": "孕妇应避免每天饮用超过4杯凉茶，并避免含甘草根的茶。",
+      "section": "Drinks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "凉茶",
+        "甘草根",
+        "孕妇"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-014",
+      "claim": "孕妇应避免饮酒。",
+      "section": "Drinks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "孕妇",
+        "避免"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-015",
+      "claim": "大多数水果和蔬菜在彻底清洗后可安全食用。",
+      "section": "Fruit and vegetables",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "水果",
+        "蔬菜",
+        "清洗"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-016",
+      "claim": "沙拉蔬菜需彻底清洗后再食用。",
+      "section": "Fruit and vegetables",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "沙拉",
+        "清洗",
+        "孕妇"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-017",
+      "claim": "金针菇必须彻底煮熟后才能食用。",
+      "section": "Fruit and vegetables",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "金针菇",
+        "彻底煮熟",
+        "孕妇"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-018",
+      "claim": "预包装和预切水果、预包装三明治和沙拉、蔬菜酱需冷藏并在保质期内食用。",
+      "section": "Fruit and vegetables",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "预包装食品",
+        "冷藏",
+        "保质期"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-019",
+      "claim": "花生和坚果在怀孕期间安全食用，除非医生或助产士建议避免或存在过敏。",
+      "section": "Peanuts and other nuts",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "花生",
+        "坚果",
+        "孕妇",
+        "安全"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-020",
+      "claim": "如果孕妇已少量食用应避免的食物且未生病，不太可能影响胎儿。",
+      "section": "If you've already eaten something that should be avoided",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "意外摄入",
+        "风险",
+        "咨询"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    },
+    {
+      "id": "E-foods-to-avo-021",
+      "claim": "如果孕妇在食用应避免的食物后感到不适或有食物中毒症状，应咨询医生或助产士。",
+      "section": "If you've already eaten something that should be avoided",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "症状",
+        "咨询",
+        "医疗帮助"
+      ],
+      "source_doc": "Foods to avoid in pregnancy",
+      "org": "英国国民保健署 (NHS)",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "page": "4-5"
+    }
+  ]
+}

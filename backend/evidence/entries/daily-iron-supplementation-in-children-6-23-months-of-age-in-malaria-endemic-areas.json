@@ -1,0 +1,47 @@
+{
+  "doc": "Daily iron supplementation in children 6-23 months of age in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-children-6to23-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "在6-23月龄婴幼儿贫血患病率≥40%的地区，应每日补充铁剂以预防缺铁和贫血。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "婴幼儿",
+        "贫血",
+        "疟疾流行区"
+      ],
+      "source_doc": "Daily iron supplementation in children 6-23 months of age in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-6to23-malaria",
+      "page": "1-3"
+    },
+    {
+      "id": "E-daily-iron-s-002",
+      "claim": "在疟疾流行区，对婴幼儿进行铁补充时应同时实施疟疾预防、诊断和治疗措施。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "疟疾",
+        "婴幼儿",
+        "公共卫生措施"
+      ],
+      "source_doc": "Daily iron supplementation in children 6-23 months of age in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-6to23-malaria",
+      "page": "1-3"
+    }
+  ]
+}

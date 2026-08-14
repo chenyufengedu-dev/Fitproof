@@ -1,0 +1,47 @@
+{
+  "doc": "Management of HIV-infected children under 5 years of age with severe acute malnutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/hiv-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-management-o-001",
+      "claim": "5岁以下HIV感染的严重急性营养不良儿童应在代谢并发症和脓毒症稳定后尽快开始抗逆转录病毒治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "HIV",
+        "严重急性营养不良",
+        "抗逆转录病毒治疗",
+        "儿童"
+      ],
+      "source_doc": "Management of HIV-infected children under 5 years of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-002",
+      "claim": "5岁以下HIV感染的严重急性营养不良儿童应采用与未感染HIV的严重急性营养不良儿童相同的治疗性喂养方法。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "HIV",
+        "严重急性营养不良",
+        "治疗性喂养",
+        "儿童"
+      ],
+      "source_doc": "Management of HIV-infected children under 5 years of age with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hiv-sam",
+      "page": "1-3"
+    }
+  ]
+}

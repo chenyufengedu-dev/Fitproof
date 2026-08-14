@@ -1,0 +1,46 @@
+{
+  "doc": "Precision nutrition-based interventions for the management of obesity in children and adolescents up to the age of 19 years",
+  "org": "Cochrane 协作网",
+  "year": "2025",
+  "url": "https://www.cochrane.org/evidence/CD015877_zitomonofeimanwoguanlisurunonijingmirongyangxuenijitsukujieruwosurutotonnaxiaoguokaarunoka",
+  "complete": true,
+  "done_windows": 18,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-precision-nu-001",
+      "claim": "对于0-9岁肥胖儿童，精准营养干预与常规建议相比，可能对腰围几乎没有影响。",
+      "section": "Effects of interventions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "精准营养",
+        "儿童肥胖",
+        "腰围"
+      ],
+      "source_doc": "Precision nutrition-based interventions for the management of obesity in children and adolescents up to the age of 19 years",
+      "org": "Cochrane 协作网",
+      "year": "2025",
+      "url": "https://www.cochrane.org/evidence/CD015877_zitomonofeimanwoguanlisurunonijingmirongyangxuenijitsukujieruwosurutotonnaxiaoguokaarunoka",
+      "page": "19-21"
+    },
+    {
+      "id": "E-precision-nu-002",
+      "claim": "对于6-18岁儿童青少年，基于基因型的精准营养干预（低乳糖饮食）与乳糖酶补充相比，对胰岛素抵抗指数有负面效应，但可能无临床意义。",
+      "section": "Effects of interventions",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "精准营养",
+        "儿童肥胖",
+        "胰岛素抵抗",
+        "低乳糖饮食"
+      ],
+      "source_doc": "Precision nutrition-based interventions for the management of obesity in children and adolescents up to the age of 19 years",
+      "org": "Cochrane 协作网",
+      "year": "2025",
+      "url": "https://www.cochrane.org/evidence/CD015877_zitomonofeimanwoguanlisurunonijingmirongyangxuenijitsukujieruwosurutotonnaxiaoguokaarunoka",
+      "page": "19-21"
+    }
+  ]
+}

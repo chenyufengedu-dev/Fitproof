@@ -1,0 +1,83 @@
+{
+  "doc": "Thimerosal and Vaccines",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2020",
+  "url": "https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/index.html",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-thimerosal-a-001",
+      "claim": "疫苗中低剂量的硫柳汞未发现有害证据，除轻微局部反应如注射部位红肿外。",
+      "section": "Questions and Concerns",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "硫柳汞",
+        "疫苗",
+        "安全性",
+        "局部反应"
+      ],
+      "source_doc": "Thimerosal and Vaccines",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-thimerosal-a-002",
+      "claim": "硫柳汞在体内不会长时间停留，因此不会积累到有害水平。",
+      "section": "The human body eliminates thimerosal easily.",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "硫柳汞",
+        "代谢",
+        "累积",
+        "安全性"
+      ],
+      "source_doc": "Thimerosal and Vaccines",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-thimerosal-a-003",
+      "claim": "科学研究未发现疫苗中的硫柳汞与自闭症有关联。",
+      "section": "Scientific research does not show a connection between thimerosal and autism.",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "硫柳汞",
+        "疫苗",
+        "自闭症",
+        "关联"
+      ],
+      "source_doc": "Thimerosal and Vaccines",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-thimerosal-a-004",
+      "claim": "2001年，美国儿童疫苗中已去除硫柳汞。",
+      "section": "Thimerosal was taken out of childhood vaccines in the United States in 2001.",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "硫柳汞",
+        "儿童疫苗",
+        "美国",
+        "2001年"
+      ],
+      "source_doc": "Thimerosal and Vaccines",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/index.html",
+      "page": "1-3"
+    }
+  ]
+}

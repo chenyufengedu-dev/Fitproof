@@ -1,0 +1,47 @@
+{
+  "doc": "Green tea for weight loss and weight maintenance in overweight or obese adults",
+  "org": "Cochrane 协作网",
+  "year": "2012",
+  "url": "https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-green-tea-fo-001",
+      "claim": "超重或肥胖成年人使用绿茶制剂减重的效果很小，统计学不显著，且无临床重要性。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "绿茶",
+        "减重",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Green tea for weight loss and weight maintenance in overweight or obese adults",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults",
+      "page": "1-3"
+    },
+    {
+      "id": "E-green-tea-fo-002",
+      "claim": "绿茶制剂对超重或肥胖成年人的体重维持无显著效果。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "绿茶",
+        "体重维持",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Green tea for weight loss and weight maintenance in overweight or obese adults",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD008650_green-tea-weight-loss-and-weight-maintenance-overweight-or-obese-adults",
+      "page": "1-3"
+    }
+  ]
+}

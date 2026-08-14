@@ -1,0 +1,97 @@
+{
+  "doc": "Maternal Diet and Breastfeeding",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-maternal-die-001",
+      "claim": "母乳喂养女性每天需要额外摄入330-400千卡热量。",
+      "section": "Caloric intake",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "热量",
+        "卡路里"
+      ],
+      "source_doc": "Maternal Diet and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-maternal-die-002",
+      "claim": "母乳喂养女性应每天摄入290微克碘和550毫克胆碱。",
+      "section": "Increasing nutrients",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "胆碱",
+        "母乳喂养"
+      ],
+      "source_doc": "Maternal Diet and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-maternal-die-003",
+      "claim": "母乳喂养女性一般不需要限制或避免特定食物，但应控制咖啡因摄入在每天300毫克以内（约2-3杯咖啡）。",
+      "section": "Foods to avoid or limit",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "母乳喂养",
+        "饮食限制"
+      ],
+      "source_doc": "Maternal Diet and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-maternal-die-004",
+      "claim": "母乳喂养女性应限制海鲜摄入，遵循FDA/EPA建议：每周最多2-3份“最佳选择”鱼类或1份“良好选择”鱼类，避免“避免选择”的鱼类。",
+      "section": "Seafood",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "海鲜",
+        "汞",
+        "母乳喂养"
+      ],
+      "source_doc": "Maternal Diet and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-maternal-die-005",
+      "claim": "纯素或素食的母乳喂养女性可能需要补充维生素B12和铁，因为婴儿有维生素B12缺乏导致神经损伤的风险。",
+      "section": "Vegan or vegetarian diet",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "素食",
+        "维生素B12",
+        "铁",
+        "母乳喂养"
+      ],
+      "source_doc": "Maternal Diet and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html",
+      "page": "1-3"
+    }
+  ]
+}

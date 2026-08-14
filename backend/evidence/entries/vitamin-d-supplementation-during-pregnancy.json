@@ -1,0 +1,29 @@
+{
+  "doc": "Vitamin D supplementation during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamind-supp-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-d-su-001",
+      "claim": "口服维生素D补充不推荐用于所有孕妇以改善母婴结局",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素D",
+        "孕妇",
+        "营养补充",
+        "母婴结局"
+      ],
+      "source_doc": "Vitamin D supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamind-supp-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "doc": "Healthy diet",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2026",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+  "complete": true,
+  "done_windows": 3,
+  "count": 24,
+  "entries": [
+    {
+      "id": "E-healthy-diet-001",
+      "claim": "健康饮食行为应始于生命早期，母乳喂养可促进健康生长和认知发育。",
+      "section": "Key facts",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "儿童",
+        "认知发育"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-002",
+      "claim": "健康饮食的基础应包括多种最低加工和未加工的食物，且低不健康脂肪、游离糖和钠。",
+      "section": "Healthy diet",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "健康饮食基础",
+        "未加工食物",
+        "低脂肪",
+        "低糖",
+        "低钠"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-003",
+      "claim": "大多数人饮食中碳水化合物应占总能量的45-75%，且应以未精制碳水化合物为主。",
+      "section": "Carbohydrates",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "碳水化合物",
+        "能量占比",
+        "未精制碳水"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-004",
+      "claim": "10岁以上人群每日至少摄入400克水果和蔬菜，2-5岁儿童至少250克，6-9岁至少350克。",
+      "section": "Carbohydrates",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "水果",
+        "蔬菜",
+        "摄入量",
+        "儿童"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-005",
+      "claim": "10岁以上人群每日至少摄入25克天然膳食纤维，2-5岁儿童至少15克，6-9岁至少21克。",
+      "section": "Carbohydrates",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "膳食纤维",
+        "摄入量",
+        "儿童"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-006",
+      "claim": "游离糖摄入应限制在总能量摄入的10%以下。",
+      "section": "Sugars",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "限制摄入",
+        "能量百分比"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-007",
+      "claim": "进一步将游离糖限制在总能量5%以下可能带来额外健康益处。",
+      "section": "Sugars",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "额外益处",
+        "5%"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-008",
+      "claim": "减少游离糖摄入不应使用非糖甜味剂。",
+      "section": "Sugars",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "非糖甜味剂",
+        "限制"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-009",
+      "claim": "成人每日脂肪摄入应至少占总能量的15%。",
+      "section": "Fats",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "脂肪",
+        "最低摄入",
+        "能量百分比"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-010",
+      "claim": "将总脂肪限制在总能量30%或以下可能有助于预防不健康体重增加。",
+      "section": "Fats",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "脂肪",
+        "限制",
+        "体重控制"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-011",
+      "claim": "饱和脂肪摄入应不超过总能量的10%，反式脂肪不超过1%。",
+      "section": "Fats",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "饱和脂肪",
+        "反式脂肪",
+        "限量"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-012",
+      "claim": "工业生产的反式脂肪应避免摄入。",
+      "section": "Fats",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "反式脂肪",
+        "工业生产",
+        "避免"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-healthy-diet-013",
+      "claim": "成人每日盐摄入量应少于5克（钠少于2克）。",
+      "section": "Salt/sodium and potassium",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "盐",
+        "钠",
+        "每日摄入量",
+        "高血压",
+        "心血管疾病"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-014",
+      "claim": "成人每日钾摄入量至少应达到3510毫克（90毫摩尔）。",
+      "section": "Salt/sodium and potassium",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "钾",
+        "每日摄入量",
+        "血压"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-015",
+      "claim": "婴儿在出生后前6个月应纯母乳喂养。",
+      "section": "For infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴儿",
+        "纯母乳",
+        "6个月"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-016",
+      "claim": "婴儿应持续母乳喂养至2岁或以上。",
+      "section": "For infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴儿",
+        "持续喂养",
+        "2岁"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-017",
+      "claim": "从6个月龄开始，应在母乳喂养基础上添加多样化、充足、安全和营养密集的辅食，且不添加盐和糖。",
+      "section": "For infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食",
+        "婴儿",
+        "盐",
+        "糖",
+        "多样化"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-018",
+      "claim": "6-23月龄的婴幼儿应摄入包括动物源食物（如肉、鱼、蛋）、水果和蔬菜在内的多样化饮食。",
+      "section": "For infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "婴幼儿",
+        "动物源食物",
+        "多样化饮食",
+        "水果",
+        "蔬菜"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-019",
+      "claim": "应避免婴幼儿摄入高糖、高盐、高反式脂肪的食物及甜饮料。",
+      "section": "For infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "婴幼儿",
+        "高糖",
+        "高盐",
+        "反式脂肪",
+        "甜饮料"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-020",
+      "claim": "使用低钠盐替代品（以钾替代部分钠）可减少钠摄入，降低心血管疾病风险，适用于无高钾血症风险的人群，且卫生系统有能力管理肾病的场所。",
+      "section": "Salt/sodium and potassium",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "低钠盐",
+        "钾",
+        "钠",
+        "心血管疾病",
+        "高钾血症"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-021",
+      "claim": "成人每日蛋白质摄入量应占总能量的10-15%，相当于约50-75克（基于2000千卡饮食）。",
+      "section": "Protein",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "蛋白质",
+        "每日摄入量",
+        "总能量",
+        "成人"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "4-6"
+    },
+    {
+      "id": "E-healthy-diet-022",
+      "claim": "应减少盐、糖和不健康脂肪的摄入",
+      "section": "Building the evidence: guidelines, standards and tools",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "盐",
+        "糖",
+        "脂肪",
+        "减盐",
+        "减糖"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "7-8"
+    },
+    {
+      "id": "E-healthy-diet-023",
+      "claim": "应消除工业反式脂肪",
+      "section": "Building the evidence: guidelines, standards and tools",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "反式脂肪",
+        "工业反式脂肪",
+        "食品安全"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "7-8"
+    },
+    {
+      "id": "E-healthy-diet-024",
+      "claim": "应提倡和支持母乳喂养",
+      "section": "Building the evidence: guidelines, standards and tools",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴儿喂养",
+        "婴幼儿营养"
+      ],
+      "source_doc": "Healthy diet",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "page": "7-8"
+    }
+  ]
+}

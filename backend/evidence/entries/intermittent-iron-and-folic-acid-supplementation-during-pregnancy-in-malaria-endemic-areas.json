@@ -1,0 +1,49 @@
+{
+  "doc": "Intermittent iron and folic acid supplementation during pregnancy in malaria-endemic areas",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/intermittent-iron-pregnancy-malaria",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "对于不能耐受每日补铁或因副作用不接受每日补铁、且孕妇贫血患病率低于20%的人群，推荐孕妇每周一次间歇口服补充120mg元素铁和2.8mg叶酸，以改善母婴结局。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "间歇性补铁",
+        "叶酸",
+        "孕妇",
+        "贫血"
+      ],
+      "source_doc": "Intermittent iron and folic acid supplementation during pregnancy in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/intermittent-iron-pregnancy-malaria",
+      "page": "1-3"
+    },
+    {
+      "id": "E-intermittent-002",
+      "claim": "在疟疾流行地区，孕妇的铁和叶酸补充项目应与预防、诊断和治疗疟疾的适当措施同时实施。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "疟疾流行区",
+        "补铁",
+        "叶酸",
+        "预防",
+        "诊断",
+        "治疗"
+      ],
+      "source_doc": "Intermittent iron and folic acid supplementation during pregnancy in malaria-endemic areas",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/intermittent-iron-pregnancy-malaria",
+      "page": "1-3"
+    }
+  ]
+}

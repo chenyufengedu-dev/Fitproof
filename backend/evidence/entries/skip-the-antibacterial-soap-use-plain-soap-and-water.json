@@ -1,0 +1,29 @@
+{
+  "doc": "Skip the Antibacterial Soap; Use Plain Soap and Water",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2016",
+  "url": "https://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-skip-the-ant-001",
+      "claim": "使用普通肥皂和水洗手即可有效预防感染；抗菌肥皂并不比普通肥皂更有效。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "抗菌皂",
+        "普通皂",
+        "洗手",
+        "预防感染"
+      ],
+      "source_doc": "Skip the Antibacterial Soap; Use Plain Soap and Water",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2016",
+      "url": "https://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water",
+      "page": "1-3"
+    }
+  ]
+}

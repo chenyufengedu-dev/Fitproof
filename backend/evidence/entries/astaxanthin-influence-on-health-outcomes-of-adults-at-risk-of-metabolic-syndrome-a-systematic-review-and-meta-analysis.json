@@ -1,0 +1,198 @@
+{
+  "doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+  "org": "营养素 (Nutrients)",
+  "year": "2022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+  "complete": true,
+  "done_windows": 6,
+  "count": 11,
+  "entries": [
+    {
+      "id": "E-astaxanthin--001",
+      "claim": "虾青素对BMI无显著降低作用（MD = -0.55; 95% CI = -1.59, 0.50; I² = 47%; p = 0.31）。",
+      "section": "3.4.1 Body Mass Index (BMI)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "BMI",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--002",
+      "claim": "虾青素对空腹血糖无显著降低作用（MD = -1.30; 95% CI = -4.50, 1.90; I² = 0%; p = 0.43）。",
+      "section": "3.4.2 Fasting Blood Glucose (FBG)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "空腹血糖",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--003",
+      "claim": "虾青素对收缩压有边缘显著降低作用（MD = -4.15; 95% CI = -8.34, 0.04; I² = 0%; p = 0.05）。",
+      "section": "3.4.3 Systolic Blood Pressure (SBP)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "收缩压",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--004",
+      "claim": "虾青素对舒张压无显著降低作用（MD = -2.09; 95% CI = -4.87, 0.69; I² = 10%; p = 0.14）。",
+      "section": "3.4.4 Diastolic Blood Pressure (DBP)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "舒张压",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--005",
+      "claim": "虾青素对总胆固醇有边缘显著升高作用（MD = 0.66; 95% CI = 0.01, 1.32; I² = 31%; p = 0.05）。",
+      "section": "3.4.5 Total Cholesterol (TC)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "总胆固醇",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--006",
+      "claim": "虾青素对高密度脂蛋白胆固醇无显著影响（MD = 0.55; 95% CI = -0.26, 0.36; I² = 29%; p = 0.77）。",
+      "section": "3.4.6 High-density Lipoprotein Cholesterol (HDL-C)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "高密度脂蛋白胆固醇",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--007",
+      "claim": "虾青素显著升高低密度脂蛋白胆固醇（MD = 0.64; 95% CI = 0.64, 0.89; I² = 0%; p < 0.00001）。",
+      "section": "3.4.7 Low-density Lipoprotein Cholesterol (LDL-C)",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "低密度脂蛋白胆固醇",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-astaxanthin--008",
+      "claim": "虾青素补充超过8周可降低收缩压",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "收缩压",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-astaxanthin--009",
+      "claim": "虾青素每日剂量不超过6毫克、持续时间少于8周可降低总胆固醇",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "总胆固醇",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-astaxanthin--010",
+      "claim": "虾青素每日剂量不超过6毫克、持续时间超过8周可降低低密度脂蛋白胆固醇",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "低密度脂蛋白胆固醇",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-astaxanthin--011",
+      "claim": "虾青素每日剂量在7-12毫克、持续时间超过8周可降低甘油三酯",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "虾青素",
+        "甘油三酯",
+        "代谢综合征"
+      ],
+      "source_doc": "Astaxanthin Influence on Health Outcomes of Adults at Risk of Metabolic Syndrome: A Systematic Review and Meta-Analysis",
+      "org": "营养素 (Nutrients)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35631193/",
+      "page": "13-15"
+    }
+  ]
+}

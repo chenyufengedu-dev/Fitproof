@@ -1,0 +1,293 @@
+{
+  "doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+  "org": "世界心脏联盟 (WHF)",
+  "year": "2022",
+  "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+  "complete": true,
+  "done_windows": 3,
+  "count": 16,
+  "entries": [
+    {
+      "id": "E-the-impact-o-001",
+      "claim": "即使少量酒精也会增加乳腺癌风险。",
+      "section": "EPIDEMIOLOGY AND BURDEN OF ALCOHOL USE",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "乳腺癌",
+        "风险"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-002",
+      "claim": "酒精对心脏无益。",
+      "section": "ALCOHOL USE AND HEART HEALTH",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "心脏健康",
+        "心血管"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-003",
+      "claim": "酒精增加高血压心脏病、心肌病、房颤、扑动和卒中风险。",
+      "section": "ALCOHOL USE AND HEART HEALTH",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "高血压心脏病",
+        "心肌病",
+        "房颤",
+        "卒中"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-004",
+      "claim": "患有心血管疾病和其他慢性病的人群应完全戒酒。",
+      "section": "RECOMMENDATIONS FOR ALCOHOL USE BY TARGET GROUPS",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "心血管疾病",
+        "慢性病",
+        "戒酒"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-005",
+      "claim": "怀孕或哺乳期女性应完全戒酒。",
+      "section": "RECOMMENDATIONS FOR ALCOHOL USE BY TARGET GROUPS",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "怀孕",
+        "哺乳",
+        "戒酒"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-006",
+      "claim": "儿童和青少年应完全戒酒。",
+      "section": "RECOMMENDATIONS FOR ALCOHOL USE BY TARGET GROUPS",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "儿童",
+        "青少年",
+        "戒酒"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-007",
+      "claim": "不建议不饮酒的成人开始饮酒；饮酒者没有安全水平，建议减少饮酒以改善整体健康。",
+      "section": "RECOMMENDATIONS FOR ALCOHOL USE BY TARGET GROUPS",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "成人",
+        "饮酒建议",
+        "安全水平"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-the-impact-o-008",
+      "claim": "限制酒精供应是成本效益高的非传染性疾病预防措施。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "供应限制",
+        "非传染性疾病",
+        "成本效益"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-009",
+      "claim": "在初级保健中提供简短建议是减少酒精使用并预防酒精使用障碍的有效干预措施。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "筛查",
+        "简短干预",
+        "初级保健"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-010",
+      "claim": "行为和药物治疗对酒精使用障碍有效。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精使用障碍",
+        "行为治疗",
+        "药物治疗"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-011",
+      "claim": "限制酒精广告对减少酒精使用很重要，尤其是对青少年和年轻人。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精广告",
+        "限制",
+        "青少年"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-012",
+      "claim": "提高酒精消费税与减少酒精消费和酒精相关危害密切相关。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精税",
+        "价格",
+        "消费减少",
+        "危害"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-013",
+      "claim": "提高最低法定饮酒年龄可减少青少年饮酒，并导致成年后更适度的饮酒模式。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "最低饮酒年龄",
+        "青少年",
+        "饮酒模式"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-014",
+      "claim": "酒精产品上的健康警告可增加对健康风险的认知，并增强减少或戒酒的意愿。",
+      "section": "ALCOHOL POLICY – BEST PRACTICES",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "健康警告",
+        "酒精产品",
+        "认知",
+        "戒酒意愿"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-015",
+      "claim": "酒精消费增加多种心血管疾病的风险。",
+      "section": "RECOMMENDATIONS FOR ADVOCACY",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "酒精",
+        "心血管疾病",
+        "风险"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-the-impact-o-016",
+      "claim": "国家心脏病学会应倡导更严格的酒精控制措施。",
+      "section": "RECOMMENDATIONS FOR ADVOCACY",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "心脏病学会",
+        "倡导",
+        "酒精控制"
+      ],
+      "source_doc": "The Impact of Alcohol Consumption on Cardiovascular Health: Myths and Measures",
+      "org": "世界心脏联盟 (WHF)",
+      "year": "2022",
+      "url": "https://world-heart-federation.org/wp-content/uploads/WHF-Policy-Brief-Alcohol.pdf",
+      "page": "10-12"
+    }
+  ]
+}

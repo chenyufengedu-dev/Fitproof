@@ -1,0 +1,64 @@
+{
+  "doc": "Vitamin A supplementation during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "在维生素A缺乏严重公共健康问题的地区，孕妇补充维生素A可预防夜盲症。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "孕妇",
+        "夜盲症",
+        "公共卫生"
+      ],
+      "source_doc": "Vitamin A supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-a-su-002",
+      "claim": "孕期补充维生素A不能降低母亲或婴儿的患病或死亡风险。",
+      "section": "Overview",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "孕妇",
+        "死亡率",
+        "发病率"
+      ],
+      "source_doc": "Vitamin A supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-pregnancy",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-a-su-003",
+      "claim": "孕妇应通过健康均衡饮食获得充足营养。",
+      "section": "Overview",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "孕妇",
+        "营养",
+        "均衡饮食"
+      ],
+      "source_doc": "Vitamin A supplementation during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

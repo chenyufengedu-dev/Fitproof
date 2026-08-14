@@ -1,0 +1,49 @@
+{
+  "doc": "Treatment of hypothermia in children with severe acute malnutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/hypothermia-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-treatment-of-001",
+      "claim": "在严重急性营养不良伴低体温的儿童中，复温应通过以下方法：给儿童穿衣（尤其头部）、用加热毯覆盖、将儿童置于加热器或白炽灯旁（不要直接照射），或将儿童与母亲进行皮肤接触并用加热毯和/或保暖衣物覆盖。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低体温",
+        "严重急性营养不良",
+        "复温",
+        "皮肤接触",
+        "保暖"
+      ],
+      "source_doc": "Treatment of hypothermia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypothermia-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-treatment-of-002",
+      "claim": "所有低体温的严重急性营养不良儿童也应同时治疗低血糖，并接受针对严重全身性感染的广谱抗生素治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低体温",
+        "严重急性营养不良",
+        "低血糖",
+        "抗生素",
+        "感染"
+      ],
+      "source_doc": "Treatment of hypothermia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypothermia-sam",
+      "page": "1-3"
+    }
+  ]
+}

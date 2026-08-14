@@ -1,0 +1,29 @@
+{
+  "doc": "WHO advises not to use non-sugar sweeteners for weight control in newly released guideline",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-who-advises--001",
+      "claim": "不建议使用非糖甜味剂来控制体重或降低非传染性疾病风险。",
+      "section": "WHO guideline on non-sugar sweeteners",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "非糖甜味剂",
+        "体重控制",
+        "非传染性疾病",
+        "WHO指南"
+      ],
+      "source_doc": "WHO advises not to use non-sugar sweeteners for weight control in newly released guideline",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline",
+      "page": "1-2"
+    }
+  ]
+}

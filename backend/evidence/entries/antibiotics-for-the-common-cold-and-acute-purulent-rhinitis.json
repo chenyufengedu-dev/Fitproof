@@ -1,0 +1,167 @@
+{
+  "doc": "Antibiotics for the common cold and acute purulent rhinitis",
+  "org": "Cochrane 协作网",
+  "year": "2013",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+  "complete": true,
+  "done_windows": 4,
+  "count": 9,
+  "entries": [
+    {
+      "id": "E-antibiotics--001",
+      "claim": "抗生素对普通感冒无效，且会引起不良事件，不推荐用于治疗普通感冒。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "普通感冒",
+        "不良反应",
+        "不推荐"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-antibiotics--002",
+      "claim": "抗生素对急性化脓性鼻炎无效，且会引起不良事件，不推荐用于治疗急性化脓性鼻炎。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "急性化脓性鼻炎",
+        "不良反应",
+        "不推荐"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-antibiotics--003",
+      "claim": "抗生素不能改善普通感冒或急性化脓性鼻炎的临床治愈或症状持续，总体效果无显著差异。",
+      "section": "Effects of interventions",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "普通感冒",
+        "化脓性鼻炎",
+        "无效"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-antibiotics--004",
+      "claim": "抗生素显著增加成人普通感冒或急性化脓性鼻炎患者的不良事件风险。",
+      "section": "Adverse effects",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "不良反应",
+        "成人"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-antibiotics--005",
+      "claim": "对于儿童普通感冒或急性化脓性鼻炎，抗生素不增加不良事件风险。",
+      "section": "Adverse effects",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "不良反应",
+        "儿童"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-antibiotics--006",
+      "claim": "目前可用的抗生素对急性化脓性鼻炎无效。",
+      "section": "Rhinitis purulent and clear",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "化脓性鼻炎",
+        "无效"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-antibiotics--007",
+      "claim": "抗生素不应作为普通感冒的初始治疗，因为不能改善症状且增加不良反应。",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "普通感冒",
+        "不良反应"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "13-14"
+    },
+    {
+      "id": "E-antibiotics--008",
+      "claim": "抗生素对急性化脓性鼻炎无益，且增加不良反应。",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "急性化脓性鼻炎",
+        "不良反应"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "13-14"
+    },
+    {
+      "id": "E-antibiotics--009",
+      "claim": "如果急性化脓性鼻炎症状持续超过10天，抗生素治疗可能有益。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "急性化脓性鼻炎",
+        "持续症状"
+      ],
+      "source_doc": "Antibiotics for the common cold and acute purulent rhinitis",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000247.pub4/pdf/full",
+      "page": "13-14"
+    }
+  ]
+}

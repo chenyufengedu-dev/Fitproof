@@ -1,0 +1,173 @@
+{
+  "doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+  "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+  "year": "2022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+  "complete": true,
+  "done_windows": 7,
+  "count": 9,
+  "entries": [
+    {
+      "id": "E-different-in-001",
+      "claim": "在健康年轻和中年成人中，睡前完成的急性晚间运动（无论强度如何）不会扰乱后续睡眠。",
+      "section": "Abstract",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "睡眠",
+        "运动强度",
+        "健康成人"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-different-in-002",
+      "claim": "急性晚间高强度运动（HIE）显著缩短REM睡眠比例。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "高强度运动",
+        "REM睡眠",
+        "睡眠结构"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-003",
+      "claim": "急性晚间中等强度运动（MIE）结合骑行可增加REM潜伏期。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "中等强度运动",
+        "骑行",
+        "REM潜伏期"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-004",
+      "claim": "急性晚间运动不扰乱总睡眠时间（TST），无论运动强度如何。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "总睡眠时间",
+        "运动强度",
+        "健康成人"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-005",
+      "claim": "急性晚间低强度运动（LIE）可能是改善入睡潜伏期（SOL）的最佳方式。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "低强度运动",
+        "入睡潜伏期",
+        "睡眠质量"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-006",
+      "claim": "急性晚间中等强度运动（MIE）最大程度减少入睡后觉醒时间（WASO）。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "中等强度运动",
+        "入睡后觉醒时间",
+        "睡眠连续性"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-007",
+      "claim": "急性晚间低强度和中等强度运动改善睡眠效率（SE），而高强度运动降低SE。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "睡眠效率",
+        "运动强度",
+        "睡眠质量"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-different-in-008",
+      "claim": "健康青年和中年无睡眠障碍的成人，晚间运动（无论强度）在睡前完成不会破坏后续睡眠。",
+      "section": "Conclusion",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "晚间运动",
+        "睡眠",
+        "运动强度",
+        "健康成人"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-different-in-009",
+      "claim": "制定睡眠卫生建议时，应考虑晚间运动的类型和时长。",
+      "section": "Conclusion",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "睡眠卫生",
+        "晚间运动",
+        "运动类型",
+        "运动时长"
+      ],
+      "source_doc": "Different Intensities of Evening Exercise on Sleep in Healthy Adults: A Systematic Review and Network Meta-Analysis",
+      "org": "自然与睡眠科学 (Nature and Science of Sleep)",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36540196/",
+      "page": "16-18"
+    }
+  ]
+}

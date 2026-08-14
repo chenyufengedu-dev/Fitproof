@@ -1,0 +1,501 @@
+{
+  "doc": "Radiation Electromagnetic fields",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2016",
+  "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+  "complete": true,
+  "done_windows": 8,
+  "count": 28,
+  "entries": [
+    {
+      "id": "E-radiation-el-001",
+      "claim": "当前证据不确认低水平电磁场暴露会导致任何健康后果",
+      "section": "Conclusions from scientific research",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "健康",
+        "低水平暴露",
+        "WHO结论"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-002",
+      "claim": "科学证据不支持头痛、焦虑等症状与电磁场暴露之间的关联",
+      "section": "Effects on general health",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "头痛",
+        "焦虑",
+        "症状"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-003",
+      "claim": "典型环境水平的电磁场暴露不增加自然流产、畸形、低出生体重等不良妊娠结局的风险",
+      "section": "Effects on pregnancy outcome",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "妊娠",
+        "流产",
+        "畸形",
+        "低出生体重"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-004",
+      "claim": "普通公众暴露水平的电磁场不会引起白内障",
+      "section": "Cataracts",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "白内障",
+        "眼部"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-005",
+      "claim": "电磁场与癌症关联的证据高度争议，若有风险增加也极小",
+      "section": "Electromagnetic fields and cancer",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "癌症",
+        "风险"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-006",
+      "claim": "几乎没有科学证据支持电磁超敏反应",
+      "section": "Electromagnetic hypersensitivity and depression",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "超敏反应",
+        "抑郁"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-007",
+      "claim": "没有证据表明低水平电磁场暴露对人体健康有害",
+      "section": "Key points",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "健康",
+        "低水平暴露"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "4-6"
+    },
+    {
+      "id": "E-radiation-el-008",
+      "claim": "流行病学研究单独通常不能建立因果关系，只能检测到暴露与疾病之间的统计关联。",
+      "section": "Interpretation of epidemiological studies",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "流行病学",
+        "因果关系",
+        "统计关联"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "7-9"
+    },
+    {
+      "id": "E-radiation-el-009",
+      "claim": "在电磁场与癌症的研究中，由于缺乏一致性和强关联、剂量反应关系、生物学解释等，科学家一般不愿结论弱电磁场有健康效应。",
+      "section": "Interpretation of epidemiological studies",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "癌症",
+        "证据一致性"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "7-9"
+    },
+    {
+      "id": "E-radiation-el-010",
+      "claim": "没有令人信服的证据表明电磁场对健康有不良影响。",
+      "section": "Difficulties in ruling out the possibility of very small risks",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "健康影响",
+        "证据缺乏"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "7-9"
+    },
+    {
+      "id": "E-radiation-el-011",
+      "claim": "低水平电磁场的任何健康影响（如果存在）可能相对于日常其他健康风险非常小。",
+      "section": "Difficulties in ruling out the possibility of very small risks",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "健康风险",
+        "比较风险"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "7-9"
+    },
+    {
+      "id": "E-radiation-el-012",
+      "claim": "找到某个因素与特定疾病之间的统计关联并不一定意味着该因素导致了该疾病。",
+      "section": "Interpretation of epidemiological studies",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "因果关系",
+        "统计关联",
+        "疾病"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "7-9"
+    },
+    {
+      "id": "E-radiation-el-013",
+      "claim": "在距离大多数家用电器30厘米处，磁场强度远低于公众暴露限值100 µT（50 Hz）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "家用电器",
+        "磁场",
+        "暴露限值"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-014",
+      "claim": "现代电脑屏幕和电视在操作者位置（30-50厘米）产生的交变磁场通常低于0.7 µT，电场强度低于10 V/m，远低于指南限值。",
+      "section": "Television sets and computer screens",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "电脑屏幕",
+        "电视",
+        "磁场",
+        "电场"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-015",
+      "claim": "符合制造标准的微波炉不会对消费者造成健康危害。",
+      "section": "Microwave ovens",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "微波炉",
+        "健康危害",
+        "安全标准"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-016",
+      "claim": "只要限制公众靠近雷达设施、广播天线和移动电话基站，射频场暴露就不会超过指南限值。",
+      "section": "Key points",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "射频场",
+        "雷达",
+        "基站",
+        "暴露限值"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-017",
+      "claim": "现有证据并不表明使用移动电话对人体健康有任何不良影响。",
+      "section": "Mobile phones and their base stations",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "移动电话",
+        "健康",
+        "电磁场",
+        "非热效应"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-018",
+      "claim": "日常环境中的电磁场暴露水平极低，不会导致不良健康效应。",
+      "section": "Magnetic fields in everyday life: are they really that high?",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "日常暴露",
+        "健康"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-019",
+      "claim": "指南限值不是安全与危害的精确分界线；低于限值是安全的，但高于限值并不自动意味着有害。",
+      "section": "What are guidelines based on?",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "指南",
+        "暴露限值",
+        "安全阈值"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "10-12"
+    },
+    {
+      "id": "E-radiation-el-020",
+      "claim": "电磁场暴露指南旨在防止出现可观察的行为变化水平，ICNIRP对职业暴露采用10倍安全因子，对公众采用50倍安全因子。",
+      "section": "Exposure guidelines",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "安全因子",
+        "ICNIRP",
+        "暴露限值"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-021",
+      "claim": "遵循射频和微波暴露指南可确保加热效应小到无害。",
+      "section": "Exposure guidelines",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "射频",
+        "微波",
+        "加热效应",
+        "暴露指南"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-022",
+      "claim": "总体证据未表明电磁场导致长期健康效应如癌症。",
+      "section": "What guidelines cannot account for",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场",
+        "长期健康效应",
+        "癌症",
+        "证据权重"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-023",
+      "claim": "电磁场指南针对平均人群，不能直接处理少数敏感人群的需求。",
+      "section": "What guidelines cannot account for",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "电磁场指南",
+        "敏感人群",
+        "适用人群"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-024",
+      "claim": "日常情况下，大多数人的电磁场暴露不会超过指南限值。",
+      "section": "Typical exposure levels",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "日常暴露",
+        "指南限值",
+        "电磁场"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-025",
+      "claim": "射频和微波暴露应采用6分钟时间平均，短期超出限值可接受。",
+      "section": "Are exposures above the guidelines harmful?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "射频",
+        "微波",
+        "时间平均",
+        "短期暴露"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-026",
+      "claim": "低频电场和磁场暴露在指南中不进行时间平均。",
+      "section": "Are exposures above the guidelines harmful?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "低频",
+        "电磁场",
+        "时间平均",
+        "暴露指南"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-027",
+      "claim": "ICNIRP指南假设最大耦合，以提供最大保护。",
+      "section": "Are exposures above the guidelines harmful?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "ICNIRP",
+        "耦合",
+        "保护",
+        "暴露指南"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    },
+    {
+      "id": "E-radiation-el-028",
+      "claim": "WHO推荐严格遵守现有国家或国际安全标准，这些标准基于当前知识并包含大安全因子。",
+      "section": "What should be done while research continues?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "WHO",
+        "安全标准",
+        "安全因子",
+        "推荐"
+      ],
+      "source_doc": "Radiation Electromagnetic fields",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields",
+      "page": "13-15"
+    }
+  ]
+}

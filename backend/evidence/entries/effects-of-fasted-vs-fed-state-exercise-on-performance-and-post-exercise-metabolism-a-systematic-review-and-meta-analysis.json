@@ -1,0 +1,282 @@
+{
+  "doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+  "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+  "year": "2018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+  "complete": true,
+  "done_windows": 14,
+  "count": 15,
+  "entries": [
+    {
+      "id": "E-effects-of-f-001",
+      "claim": "运动前进食可提升长时间有氧运动表现，但对较短时间有氧运动表现无显著影响。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "运动前营养",
+        "有氧运动",
+        "运动表现",
+        "进食时间"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-effects-of-f-002",
+      "claim": "与进食后运动相比，空腹运动可增加运动后循环游离脂肪酸水平。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "空腹运动",
+        "游离脂肪酸",
+        "脂肪代谢",
+        "运动后代谢"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-effects-of-f-003",
+      "claim": "运动前进食会减弱骨骼肌和脂肪组织中与代谢调节相关的信号，包括线粒体适应和底物利用。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "运动前营养",
+        "骨骼肌信号",
+        "脂肪组织",
+        "线粒体适应",
+        "底物利用"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-effects-of-f-004",
+      "claim": "在长时间有氧运动（>60分钟）前进食可小幅提高运动表现。",
+      "section": "3.2 Exercise performance",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "运动表现",
+        "长时间有氧运动",
+        "进食时机",
+        "空腹运动"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-effects-of-f-005",
+      "claim": "在短时间运动（<60分钟）前进食对运动表现无显著影响。",
+      "section": "3.2 Exercise performance",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "运动表现",
+        "短时间运动",
+        "进食时机",
+        "空腹运动"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-effects-of-f-006",
+      "claim": "进行高强度间歇训练（HIIT）时，空腹或进食状态对单次运动或长期干预后的运动表现无影响。",
+      "section": "3.2 无氧和间歇运动",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "HIIT",
+        "空腹运动",
+        "运动表现",
+        "进食状态"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-effects-of-f-007",
+      "claim": "运动后循环血糖在空腹与进食状态间无总体差异。",
+      "section": "3.3 代谢-葡萄糖",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "血糖",
+        "空腹运动",
+        "进食状态",
+        "代谢"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-effects-of-f-008",
+      "claim": "空腹状态下运动后循环游离脂肪酸（FFA）浓度显著高于进食状态。",
+      "section": "3.3 代谢-游离脂肪酸",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "游离脂肪酸",
+        "空腹运动",
+        "代谢",
+        "脂肪氧化"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-effects-of-f-009",
+      "claim": "短时间有氧运动（<60分钟）在空腹和餐后状态下运动表现无差异。",
+      "section": "4.1 Exercise performance",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "有氧运动",
+        "空腹运动",
+        "餐后运动",
+        "运动表现"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-effects-of-f-010",
+      "claim": "长时间有氧运动（>60分钟）餐前进食可提高运动表现。",
+      "section": "4.1 Exercise performance",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "有氧运动",
+        "餐前进食",
+        "运动表现",
+        "长时间运动"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-effects-of-f-011",
+      "claim": "低/中血糖指数碳水化合物餐前摄入可改善长时间有氧运动能力。",
+      "section": "4.1 Exercise performance",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "血糖指数",
+        "碳水化合物",
+        "有氧运动",
+        "运动表现"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-effects-of-f-012",
+      "claim": "运动前进食可增强超过60分钟的长时间有氧运动表现。",
+      "section": "Perspectives",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "空腹运动",
+        "进食运动",
+        "有氧表现",
+        "运动营养"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-effects-of-f-013",
+      "claim": "短时间有氧运动（≤60分钟）中，空腹与进食状态的表现无显著差异。",
+      "section": "Perspectives",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "空腹运动",
+        "进食运动",
+        "有氧表现",
+        "运动时长"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-effects-of-f-014",
+      "claim": "低血糖指数碳水化合物相比高血糖指数碳水化合物可能提高长时间有氧运动表现。",
+      "section": "Perspectives",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "血糖指数",
+        "碳水化合物",
+        "有氧表现",
+        "运动营养"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-effects-of-f-015",
+      "claim": "空腹训练可激活有益调节骨骼肌代谢适应的信号通路，而运动前进食则抑制这种效应。",
+      "section": "Perspectives",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "空腹运动",
+        "代谢适应",
+        "信号通路",
+        "骨骼肌"
+      ],
+      "source_doc": "Effects of fasted vs fed-state exercise on performance and post-exercise metabolism: A systematic review and meta-analysis",
+      "org": "斯堪的纳维亚医学与运动科学杂志 (Scandinavian Journal of Medicine & Science in Sports)",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29315892/",
+      "page": "16-18"
+    }
+  ]
+}

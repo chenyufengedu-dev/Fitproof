@@ -1,0 +1,30 @@
+{
+  "doc": "Iodization of salt for the prevention and control of iodine deficiency disorders",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/salt-iodization",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-iodization-o-001",
+      "claim": "所有食品级食盐，无论是家庭使用还是食品加工，都应添加碘，作为预防和控制碘缺乏病的安全有效策略。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "碘盐",
+        "碘缺乏病",
+        "食盐加碘",
+        "预防",
+        "控制"
+      ],
+      "source_doc": "Iodization of salt for the prevention and control of iodine deficiency disorders",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/salt-iodization",
+      "page": "1-3"
+    }
+  ]
+}

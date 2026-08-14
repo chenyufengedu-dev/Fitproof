@@ -1,0 +1,117 @@
+{
+  "doc": "Moderate Caffeine Consumption During Pregnancy",
+  "org": "美国妇产科医师学会 (ACOG)",
+  "year": "2010",
+  "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+  "complete": true,
+  "done_windows": 1,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-moderate-caf-001",
+      "claim": "孕期每天摄入低于200mg咖啡因似乎不是流产或早产的主要因素。",
+      "section": "Abstract",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "孕期",
+        "流产",
+        "早产",
+        "摄入量"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    },
+    {
+      "id": "E-moderate-caf-002",
+      "claim": "咖啡因与胎儿生长受限的关系尚不确定。",
+      "section": "Abstract",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "胎儿生长受限",
+        "孕期"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    },
+    {
+      "id": "E-moderate-caf-003",
+      "claim": "目前无法得出高咖啡因摄入与流产相关性的最终结论。",
+      "section": "Abstract",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "高摄入",
+        "流产",
+        "孕期"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    },
+    {
+      "id": "E-moderate-caf-004",
+      "claim": "每日摄入低于200mg咖啡因不会显著增加流产风险。",
+      "section": "正文：流产相关",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "流产",
+        "200mg",
+        "孕期"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    },
+    {
+      "id": "E-moderate-caf-005",
+      "claim": "中等量咖啡因摄入不是早产的原因。",
+      "section": "正文：早产相关",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "早产",
+        "中等摄入"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    },
+    {
+      "id": "E-moderate-caf-006",
+      "claim": "目前没有明确证据表明咖啡因暴露增加胎儿生长受限的风险。",
+      "section": "正文：胎儿生长受限相关",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "胎儿生长受限",
+        "风险"
+      ],
+      "source_doc": "Moderate Caffeine Consumption During Pregnancy",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2010",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+      "page": "1-2"
+    }
+  ]
+}

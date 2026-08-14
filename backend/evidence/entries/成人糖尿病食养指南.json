@@ -1,0 +1,516 @@
+{
+  "doc": "成人糖尿病食养指南",
+  "org": "国家医疗保障局 (NHSA)",
+  "year": "2024",
+  "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+  "complete": true,
+  "done_windows": 21,
+  "count": 29,
+  "entries": [
+    {
+      "id": "E-成人糖尿病食养指南-001",
+      "claim": "糖尿病患者膳食管理应以平衡膳食为原则，做到食物多样、主食定量、蔬果奶豆丰富、少油、少盐、少糖，保证每日能量适宜和营养素摄入充足。",
+      "section": "食物多样，养成和建立合理膳食习惯",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "膳食管理",
+        "平衡膳食",
+        "食物多样",
+        "少油少盐少糖"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-002",
+      "claim": "糖尿病患者的食物多样应包含五大类食物：谷薯类、蔬菜水果、动物性食物、大豆类和坚果、烹调油和盐。",
+      "section": "食物多样，养成和建立合理膳食习惯",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "食物多样",
+        "五大类食物",
+        "膳食构成"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-003",
+      "claim": "糖尿病患者每天蔬菜摄入量应达500g，其中深色蔬菜占一半以上。",
+      "section": "合理膳食",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "蔬菜摄入量",
+        "深色蔬菜",
+        "糖尿病饮食"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-004",
+      "claim": "糖尿病患者的宏量营养素供能比推荐为：蛋白质15%~20%，碳水化合物45%~60%，脂肪20%~35%。",
+      "section": "能量适宜",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "宏量营养素",
+        "蛋白质",
+        "碳水化合物",
+        "脂肪"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-005",
+      "claim": "我国成人健康体重的体质指数(BMI)应保持在18.5~23.9kg/m²。",
+      "section": "能量适宜",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "BMI",
+        "健康体重",
+        "糖尿病"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-006",
+      "claim": "超重或肥胖的2型糖尿病患者减重3%~5%即可产生有临床意义的健康获益。",
+      "section": "能量适宜",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "减重",
+        "超重",
+        "肥胖",
+        "2型糖尿病"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-007",
+      "claim": "建议超重肥胖患者以每月减1~2kg的速度，在3~6个月内减重5%~10%。",
+      "section": "能量适宜",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "减重速度",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-008",
+      "claim": "全谷物和杂豆类等低GI食物应占糖尿病患者主食的1/3以上。",
+      "section": "主食定量",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "全谷物",
+        "低GI",
+        "主食",
+        "糖尿病"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-009",
+      "claim": "糖尿病患者碳水化合物供能比建议为45%~60%，相当于成人每日碳水化合物200~300g（以1800~2000kcal为例）。",
+      "section": "主食定量",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "碳水化合物",
+        "供能比",
+        "糖尿病"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-010",
+      "claim": "调整进餐顺序，先吃菜后吃主食，有利于血糖控制。",
+      "section": "主食定量",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "进餐顺序",
+        "血糖控制",
+        "糖尿病"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-011",
+      "claim": "糖尿病患者每周至少运动5天，每次30～45分钟，中等强度运动占50%以上，并最好一周2次抗阻运动。",
+      "section": "（四）积极运动，改善体质和胰岛素敏感性。",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "运动",
+        "中等强度运动",
+        "抗阻运动"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-012",
+      "claim": "糖尿病患者每日烹调油使用量应控制在25g以内，食盐用量每日不超过5g。",
+      "section": "（五）清淡饮食，限制饮酒，预防和延缓并发症。",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "烹调油",
+        "食盐",
+        "清淡饮食"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-013",
+      "claim": "糖尿病患者应限制饮酒，因为饮酒可能导致血糖波动和低血糖风险增加。",
+      "section": "（五）清淡饮食，限制饮酒，预防和延缓并发症。",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "饮酒",
+        "低血糖",
+        "血糖波动"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-014",
+      "claim": "糖尿病患者应规律进餐，定时定量，避免暴饮暴食。",
+      "section": "（七）规律进餐，合理加餐，促进餐后血糖稳定。",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "规律进餐",
+        "定时定量",
+        "餐后血糖"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-015",
+      "claim": "糖尿病患者应多选低GI食物，以利于餐后血糖控制。",
+      "section": "食物选择",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "血糖生成指数",
+        "饮食控制"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-016",
+      "claim": "低GI食物如进食过多也会加重餐后血糖负担。",
+      "section": "食物选择",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "血糖生成指数",
+        "食不过量",
+        "血糖控制"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-017",
+      "claim": "高GI食物并非完全限制食用，适当少食并通过合理搭配也能帮助维持血糖稳态。",
+      "section": "食物选择",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "血糖生成指数",
+        "高GI食物",
+        "合理搭配"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-018",
+      "claim": "成人糖尿病患者膳食中宏量营养素占总能量比应控制为：蛋白质15%~20%，碳水化合物45%~60%，脂肪20%~35%。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "宏量营养素",
+        "蛋白质",
+        "碳水化合物",
+        "脂肪"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "58-60"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-019",
+      "claim": "在非试点地区，铁皮石斛、灵芝、西洋参等食药物质限执业医师使用。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "食药物质",
+        "灵芝",
+        "西洋参",
+        "执业医师",
+        "非试点地区"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "58-60"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-020",
+      "claim": "正常血糖状态定义为空腹血糖<6.1mmol/L且OGTT 2h血糖<7.8mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "血糖",
+        "正常血糖",
+        "诊断标准"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-021",
+      "claim": "空腹血糖受损（IFG）的诊断标准：空腹血糖≥6.1mmol/L且<7.0mmol/L，且OGTT 2h血糖<7.8mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "空腹血糖受损",
+        "糖尿病前期",
+        "诊断标准"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-022",
+      "claim": "糖耐量减低（IGT）的诊断标准：空腹血糖<7.0mmol/L且OGTT 2h血糖≥7.8mmol/L且<11.1mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖耐量减低",
+        "糖尿病前期",
+        "诊断标准"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-023",
+      "claim": "糖尿病的诊断标准之一：典型糖尿病症状（烦渴多饮、多尿、多食、不明原因体重下降）加上随机血糖≥11.1mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "诊断标准",
+        "随机血糖"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-024",
+      "claim": "糖尿病的诊断标准之二：典型糖尿病症状加上空腹血糖≥7.0mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "诊断标准",
+        "空腹血糖"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-025",
+      "claim": "糖尿病的诊断标准之三：典型糖尿病症状加上OGTT 2h血糖≥11.1mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "诊断标准",
+        "OGTT"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-026",
+      "claim": "糖尿病的诊断标准之四：典型糖尿病症状加上糖化血红蛋白（HbA1c）≥6.5%。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "诊断标准",
+        "HbA1c"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-027",
+      "claim": "无典型糖尿病症状者，须改日复查确认诊断。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "糖尿病",
+        "诊断标准",
+        "复查"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-028",
+      "claim": "空腹血糖正常参考范围下限通常为3.9mmol/L。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "空腹血糖",
+        "正常值"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    },
+    {
+      "id": "E-成人糖尿病食养指南-029",
+      "claim": "空腹状态指至少8小时没有进食能量。",
+      "section": "附录5 糖尿病诊断标准",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "空腹状态",
+        "定义"
+      ],
+      "source_doc": "成人糖尿病食养指南",
+      "org": "国家医疗保障局 (NHSA)",
+      "year": "2024",
+      "url": "https://www.nhc.gov.cn/cms-search/downFiles/4fcbecd2c18e46baaf291bf46c2b79cd.pdf",
+      "page": "64-64"
+    }
+  ]
+}

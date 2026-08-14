@@ -1,0 +1,80 @@
+{
+  "doc": "Hair Treatments",
+  "org": "畸胎学信息专家组织 (MotherToBaby)",
+  "year": "2024",
+  "url": "https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/pdf/",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-hair-treatme-001",
+      "claim": "正确使用发色产品时，不显著增加出生缺陷风险。",
+      "section": "Does getting/performing hair treatments increase the chance of birth defects?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "hair treatments",
+        "birth defects",
+        "pregnancy"
+      ],
+      "source_doc": "Hair Treatments",
+      "org": "畸胎学信息专家组织 (MotherToBaby)",
+      "year": "2024",
+      "url": "https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/pdf/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-hair-treatme-002",
+      "claim": "正确使用护发产品时，大量化学物质进入母乳的可能性很小。",
+      "section": "Breastfeeding while performing/getting hair treatments",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "breastfeeding",
+        "hair treatments",
+        "chemical exposure"
+      ],
+      "source_doc": "Hair Treatments",
+      "org": "畸胎学信息专家组织 (MotherToBaby)",
+      "year": "2024",
+      "url": "https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/pdf/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-hair-treatme-003",
+      "claim": "男性接触护发产品不太可能增加怀孕风险。",
+      "section": "If a man performs/gets hair treatments, could it affect fertility or increase the chance of birth defects?",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "paternal exposure",
+        "fertility",
+        "hair treatments"
+      ],
+      "source_doc": "Hair Treatments",
+      "org": "畸胎学信息专家组织 (MotherToBaby)",
+      "year": "2024",
+      "url": "https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/pdf/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-hair-treatme-004",
+      "claim": "工作场所采取良好通风、戴手套等措施可降低化学暴露。",
+      "section": "I work as a cosmetologist/hairdresser. Is there anything I can do to reduce exposures at work?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "occupational exposure",
+        "ventilation",
+        "gloves",
+        "hair treatments"
+      ],
+      "source_doc": "Hair Treatments",
+      "org": "畸胎学信息专家组织 (MotherToBaby)",
+      "year": "2024",
+      "url": "https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/pdf/",
+      "page": "1-3"
+    }
+  ]
+}

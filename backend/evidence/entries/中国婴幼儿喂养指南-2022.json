@@ -1,0 +1,301 @@
+{
+  "doc": "中国婴幼儿喂养指南（2022）",
+  "org": "中国营养学会 (CNS)",
+  "year": "2022",
+  "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 17,
+  "entries": [
+    {
+      "id": "E-中国婴幼儿喂养指南-20-001",
+      "claim": "0-6月龄婴儿应坚持纯母乳喂养，不喂母乳以外的食物。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "0-6月龄",
+        "纯母乳喂养",
+        "婴儿"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-002",
+      "claim": "新生儿应在出生后1小时内开始吸吮。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "新生儿",
+        "开奶",
+        "吸吮"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-003",
+      "claim": "婴儿喂养应采用回应式喂养，按需喂奶，不强求次数和时间。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "回应式喂养",
+        "按需喂奶",
+        "婴儿"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-004",
+      "claim": "纯母乳喂养婴儿出生后应每日补充维生素D 10微克，无需额外补钙。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "补钙",
+        "母乳喂养"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-005",
+      "claim": "哺乳期母亲如有动摇母乳喂养的想法必须咨询医生，不能自行使用代乳品。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "母乳喂养",
+        "代乳品",
+        "咨询医生"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-006",
+      "claim": "6月龄内婴儿应每月监测体格生长指标，使用国家标准判断生长状况。",
+      "section": "0-6月龄婴儿母乳喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "体格监测",
+        "生长指标",
+        "婴儿"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-007",
+      "claim": "婴儿满6月龄后应继续母乳喂养至2岁或以上，同时添加富含铁的辅食。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "辅食添加",
+        "富含铁",
+        "母乳喂养"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-008",
+      "claim": "婴儿辅食添加应逐步多样化，不盲目回避易过敏食物。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "辅食多样化",
+        "过敏食物",
+        "婴儿"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-009",
+      "claim": "婴幼儿辅食应尽量少加糖盐，适量添加油脂，保持原味。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "辅食",
+        "少糖盐",
+        "油脂"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-010",
+      "claim": "婴幼儿喂养应回应式，鼓励自主进食，每次进餐不超过20分钟。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "回应式喂养",
+        "自主进食",
+        "进餐时间"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-011",
+      "claim": "婴幼儿辅食应注重饮食卫生和进食安全，避免整粒坚果等危险食物。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "饮食卫生",
+        "进食安全",
+        "坚果"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-012",
+      "claim": "7-24月龄婴幼儿应每3个月监测体格生长指标，追求平稳生长。",
+      "section": "7-24月龄婴幼儿喂养指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "体格监测",
+        "生长指标",
+        "平稳生长"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-013",
+      "claim": "学龄前儿童应食物多样，规律就餐，自主进食。",
+      "section": "学龄前儿童膳食指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "学龄前儿童",
+        "食物多样",
+        "规律就餐",
+        "自主进食"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-014",
+      "claim": "学龄前儿童应每天饮奶，足量饮水，合理选择零食。",
+      "section": "学龄前儿童膳食指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "饮奶",
+        "饮水",
+        "零食"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-015",
+      "claim": "学龄前儿童膳食应合理烹调，少调料，少油炸。",
+      "section": "学龄前儿童膳食指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "烹调",
+        "少调料",
+        "少油炸"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-016",
+      "claim": "鼓励学龄前儿童参与食物选择和制作。",
+      "section": "学龄前儿童膳食指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "参与食物制作",
+        "食物认知",
+        "学龄前儿童"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-中国婴幼儿喂养指南-20-017",
+      "claim": "学龄前儿童应经常户外活动，每半年测量一次体格生长指标。",
+      "section": "学龄前儿童膳食指南",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "户外活动",
+        "体格测量",
+        "学龄前儿童"
+      ],
+      "source_doc": "中国婴幼儿喂养指南（2022）",
+      "org": "中国营养学会 (CNS)",
+      "year": "2022",
+      "url": "http://dg.cnsoc.org/article/04/gc5cUak3RhSGheqSaRljnA.html",
+      "page": "1-2"
+    }
+  ]
+}

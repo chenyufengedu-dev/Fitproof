@@ -1,0 +1,527 @@
+{
+  "doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+  "org": "美国妇产科医师学会 (ACOG)",
+  "year": "2020",
+  "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+  "complete": true,
+  "done_windows": 4,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-physical-act-001",
+      "claim": "孕期定期体育活动有益健康，风险极小，对多数女性有益。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕期运动",
+        "风险",
+        "益处"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-002",
+      "claim": "推荐运动前应进行临床评估，以确保无医学禁忌。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "临床评估",
+        "运动安全",
+        "禁忌症"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-003",
+      "claim": "无并发症的孕妇应被鼓励在孕前、孕期和产后进行有氧和力量训练。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "有氧运动",
+        "力量训练",
+        "孕期",
+        "产后"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-004",
+      "claim": "对有医学或产科并发症的孕妇应仔细评估，不应常规限制活动以预防早产。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "并发症",
+        "活动限制",
+        "早产预防"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-005",
+      "claim": "无产科或医学禁忌时，孕期体育活动安全且值得鼓励。",
+      "section": "Introduction",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "安全",
+        "孕期活动",
+        "鼓励"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-006",
+      "claim": "孕期运动可降低妊娠期糖尿病、剖宫产和产后恢复时间。",
+      "section": "Benefits of Exercise During Pregnancy",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "妊娠期糖尿病",
+        "剖宫产",
+        "产后恢复"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-007",
+      "claim": "体育活动可预防产后抑郁。",
+      "section": "Benefits of Exercise During Pregnancy",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "产后抑郁",
+        "预防",
+        "运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-008",
+      "claim": "大多数孕妇可以运动。",
+      "section": "Introduction",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "孕妇",
+        "运动可行性"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "1-3"
+    },
+    {
+      "id": "E-physical-act-009",
+      "claim": "孕妇进行有氧运动（每次30-60分钟，每周2-7次）可显著降低妊娠高血压疾病、妊娠期高血压和剖宫产的风险。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "有氧运动",
+        "妊娠高血压",
+        "剖宫产",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-010",
+      "claim": "孕期运动可降低妊娠期糖尿病女性的血糖水平。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕期运动",
+        "妊娠期糖尿病",
+        "血糖"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-011",
+      "claim": "对于超重和肥胖的单胎孕妇，每周进行3-7次、每次约30-60分钟的有氧运动可降低早产发生率。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超重",
+        "肥胖",
+        "早产",
+        "有氧运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-012",
+      "claim": "超重和肥胖孕妇进行有氧运动与较低的妊娠期糖尿病发生率相关，应鼓励运动。",
+      "section": "Special Populations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超重",
+        "肥胖",
+        "妊娠期糖尿病",
+        "有氧运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-013",
+      "claim": "正常体重、单胎、无并发症的孕妇进行每周3-4次、每次35-90分钟的有氧运动不会增加早产风险，也不会降低平均分娩孕周。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "正常体重",
+        "早产",
+        "有氧运动",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-014",
+      "claim": "正常体重孕妇有氧运动与更高的阴道分娩率和更低的剖宫产率、妊娠期糖尿病及高血压疾病发生率相关。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "阴道分娩",
+        "剖宫产",
+        "妊娠期糖尿病",
+        "高血压"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-015",
+      "claim": "对于有基础疾病（慢性高血压、1型糖尿病、2型糖尿病）的孕妇，产前运动可将剖宫产风险降低55%，且不增加不良母婴结局。",
+      "section": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "基础疾病",
+        "剖宫产",
+        "产前运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-016",
+      "claim": "孕期运动处方应最终达到每天至少20-30分钟、每周大多数天的中等强度运动。",
+      "section": "Prescribing an Individualized Exercise Program",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "运动处方",
+        "中等强度",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-017",
+      "claim": "孕期可使用自觉劳累分级（Borg评分13-14）或谈话试验监测运动强度。",
+      "section": "Prescribing an Individualized Exercise Program",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "运动强度",
+        "自觉劳累分级",
+        "谈话试验"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-018",
+      "claim": "孕期应避免长时间平躺，保持水分，出现警告征象时停止运动。",
+      "section": "Prescribing an Individualized Exercise Program",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "安全运动",
+        "警告征象",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-019",
+      "claim": "孕前久坐的女性应逐渐增加运动量；孕前经常运动的孕妇可进行高强度运动（如慢跑、有氧健身）。",
+      "section": "Prescribing an Individualized Exercise Program",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "久坐",
+        "高强度运动",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-020",
+      "claim": "长时间（超过45分钟）或高强度运动可能导致低血糖，运动前应摄入足够热量或限制强度/时长。",
+      "section": "Prescribing an Individualized Exercise Program",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "低血糖",
+        "运动时间",
+        "热量摄入"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-021",
+      "claim": "孕期应避免潜水运动。",
+      "section": "Types of Exercises",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "潜水",
+        "孕期安全"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-022",
+      "claim": "孕期无并发症的女性应被鼓励进行有氧和力量训练。",
+      "section": "Types of Exercises",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "有氧运动",
+        "力量训练",
+        "孕期运动"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-023",
+      "claim": "孕妇应避免接触性运动（高腹部创伤风险）。",
+      "section": "Types of Exercises",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "接触性运动",
+        "腹部创伤"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-024",
+      "claim": "卧床休息不应常规推荐用于预防早产。",
+      "section": "Activity Restriction",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "卧床休息",
+        "早产",
+        "预防"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-025",
+      "claim": "超重或肥胖孕妇应从低强度、短时间运动开始，逐渐增加。",
+      "section": "Special Populations",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超重",
+        "肥胖",
+        "运动建议"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "4-6"
+    },
+    {
+      "id": "E-physical-act-026",
+      "claim": "孕期不应常规使用活动限制（如卧床休息）来治疗或预防早产。",
+      "section": "Activity Restriction",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕期活动限制",
+        "早产",
+        "卧床休息"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "7-9"
+    },
+    {
+      "id": "E-physical-act-027",
+      "claim": "无证据表明卧床休息能降低子痫前期风险，不应常规推荐用于子痫前期的一级预防。",
+      "section": "Activity Restriction",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "子痫前期",
+        "卧床休息",
+        "预防"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "7-9"
+    },
+    {
+      "id": "E-physical-act-028",
+      "claim": "哺乳期女性进行规律有氧运动可改善心血管健康，且不影响乳汁产量、成分或婴儿生长。",
+      "section": "Exercise in the Postpartum Period",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "哺乳期",
+        "有氧运动",
+        "乳汁",
+        "婴儿生长"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "7-9"
+    },
+    {
+      "id": "E-physical-act-029",
+      "claim": "无产科或医学禁忌症的孕妇应被鼓励继续或开始安全的身体活动。",
+      "section": "Conclusion",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "孕期",
+        "体力活动",
+        "安全",
+        "推荐"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "7-9"
+    },
+    {
+      "id": "E-physical-act-030",
+      "claim": "孕期运动可能降低妊娠期糖尿病、子痫前期和剖宫产的风险。",
+      "section": "Conclusion",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "孕期运动",
+        "妊娠期糖尿病",
+        "子痫前期",
+        "剖宫产"
+      ],
+      "source_doc": "Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+      "org": "美国妇产科医师学会 (ACOG)",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "page": "7-9"
+    }
+  ]
+}

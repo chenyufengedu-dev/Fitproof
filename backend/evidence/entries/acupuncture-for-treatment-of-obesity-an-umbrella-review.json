@@ -1,0 +1,140 @@
+{
+  "doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+  "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+  "year": "2024",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-acupuncture--001",
+      "claim": "建议将针刺作为生活方式干预的辅助疗法用于肥胖患者。",
+      "section": "Conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "针刺",
+        "肥胖",
+        "生活方式干预",
+        "体重管理"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-acupuncture--002",
+      "claim": "针刺与药物治疗在减重方面无显著差异。",
+      "section": "Conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "针刺",
+        "肥胖",
+        "药物治疗",
+        "减重"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-acupuncture--003",
+      "claim": "针刺治疗肥胖的效果优于无治疗或假针刺。",
+      "section": "Results",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "针刺",
+        "肥胖",
+        "假针刺",
+        "无治疗"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-acupuncture--004",
+      "claim": "针灸作为生活方式干预的辅助手段，可显著降低肥胖患者的体重和BMI。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "针灸",
+        "体重",
+        "BMI",
+        "生活方式干预"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-acupuncture--005",
+      "claim": "与假针灸或不治疗相比，针灸能有效降低肥胖患者的体重和BMI；但与药物治疗相比，差异无统计学意义。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "针灸",
+        "假针灸",
+        "药物治疗",
+        "体重",
+        "BMI"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-acupuncture--006",
+      "claim": "对于肥胖患者，针灸可作为生活方式干预（如饮食和运动）的有效辅助疗法。",
+      "section": "Discussion",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "针灸",
+        "肥胖",
+        "生活方式干预",
+        "辅助疗法"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-acupuncture--007",
+      "claim": "对于不能耐受或不愿使用药物治疗的肥胖患者，针灸可作为合理的替代选择。",
+      "section": "Discussion",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "针灸",
+        "肥胖",
+        "替代治疗",
+        "药物治疗"
+      ],
+      "source_doc": "Acupuncture for Treatment of Obesity: An Umbrella Review",
+      "org": "美国医学会杂志·网络开放 (JAMA Network Open)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41071083/",
+      "page": "7-9"
+    }
+  ]
+}

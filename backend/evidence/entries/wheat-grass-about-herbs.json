@@ -1,0 +1,97 @@
+{
+  "doc": "Wheat grass - About Herbs",
+  "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+  "year": "2023",
+  "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+  "complete": true,
+  "done_windows": 3,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-wheat-grass--001",
+      "claim": "小麦草汁对治疗癌症无效。",
+      "section": "Cancer treatment",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "小麦草",
+        "癌症",
+        "治疗"
+      ],
+      "source_doc": "Wheat grass - About Herbs",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2023",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+      "page": "1-3"
+    },
+    {
+      "id": "E-wheat-grass--002",
+      "claim": "小麦草汁不能有效治疗艾滋病。",
+      "section": "AIDS",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "小麦草",
+        "艾滋病",
+        "治疗"
+      ],
+      "source_doc": "Wheat grass - About Herbs",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2023",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+      "page": "1-3"
+    },
+    {
+      "id": "E-wheat-grass--003",
+      "claim": "没有科学证据支持小麦草汁用于慢性疲劳综合征。",
+      "section": "Chronic fatigue syndrome",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "小麦草",
+        "慢性疲劳综合征",
+        "证据"
+      ],
+      "source_doc": "Wheat grass - About Herbs",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2023",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+      "page": "1-3"
+    },
+    {
+      "id": "E-wheat-grass--004",
+      "claim": "小麦草汁没有已知的严重副作用。",
+      "section": "Side effects",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "小麦草",
+        "副作用",
+        "安全性"
+      ],
+      "source_doc": "Wheat grass - About Herbs",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2023",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+      "page": "1-3"
+    },
+    {
+      "id": "E-wheat-grass--005",
+      "claim": "麦草汁不能“解毒”身体，叶绿素也不能增加血红蛋白。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "麦草",
+        "解毒",
+        "叶绿素",
+        "血红蛋白"
+      ],
+      "source_doc": "Wheat grass - About Herbs",
+      "org": "纪念斯隆-凯特琳癌症中心 (MSKCC)",
+      "year": "2023",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/wheat-grass",
+      "page": "4-6"
+    }
+  ]
+}

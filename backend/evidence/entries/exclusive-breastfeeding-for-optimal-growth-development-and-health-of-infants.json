@@ -1,0 +1,48 @@
+{
+  "doc": "Exclusive breastfeeding for optimal growth, development and health of infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/exclusive-breastfeeding",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-exclusive-br-001",
+      "claim": "婴儿应在出生后前六个月纯母乳喂养以实现最佳生长、发育和健康。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "纯母乳喂养",
+        "婴儿",
+        "生长",
+        "发育",
+        "健康"
+      ],
+      "source_doc": "Exclusive breastfeeding for optimal growth, development and health of infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/exclusive-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-exclusive-br-002",
+      "claim": "六个月后，婴儿应接受营养充足且安全的辅食，同时继续母乳喂养至两岁或更久。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "纯母乳喂养",
+        "辅食",
+        "母乳喂养",
+        "婴儿"
+      ],
+      "source_doc": "Exclusive breastfeeding for optimal growth, development and health of infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/exclusive-breastfeeding",
+      "page": "1-3"
+    }
+  ]
+}

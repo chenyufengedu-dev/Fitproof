@@ -1,0 +1,565 @@
+{
+  "doc": "Intermittent fasting for adults with overweight or obesity",
+  "org": "Cochrane 协作网",
+  "year": "2024",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+  "complete": true,
+  "done_windows": 14,
+  "count": 31,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "与常规饮食建议相比，间歇性禁食在体重减轻方面可能几乎没有差异。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-002",
+      "claim": "与常规饮食建议相比，间歇性禁食在生活质量方面可能几乎没有差异。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-003",
+      "claim": "与常规饮食建议相比，间歇性禁食对不良事件可能几乎没有差异，但证据非常不确定。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-004",
+      "claim": "与不干预或等候名单相比，间歇性禁食可能对体重减轻几乎没有差异。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "肥胖",
+        "超重",
+        "等候名单"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-005",
+      "claim": "与不干预或等候名单相比，间歇性禁食可能对生活质量几乎没有差异，但证据非常不确定。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "肥胖",
+        "超重",
+        "等候名单"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-006",
+      "claim": "与不干预或等候名单相比，间歇性禁食对不良事件可能几乎没有差异，但证据非常不确定。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "肥胖",
+        "超重",
+        "等候名单"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "4-6"
+    },
+    {
+      "id": "E-intermittent-007",
+      "claim": "对于超重或肥胖成人，间歇性禁食与不干预相比，在体重减轻方面可能几乎没有差异。",
+      "section": "Summary of findings 2",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-intermittent-008",
+      "claim": "对于超重或肥胖成人，间歇性禁食与不干预相比，在生活质量方面可能几乎没有差异，但证据非常不确定。",
+      "section": "Summary of findings 2",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-intermittent-009",
+      "claim": "对于超重或肥胖成人，间歇性禁食与不干预相比，在不良事件方面可能几乎没有影响，但证据非常不确定。",
+      "section": "Summary of findings 2",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "7-9"
+    },
+    {
+      "id": "E-intermittent-010",
+      "claim": "多个临床实践指南和科学学会建议，将行为、饮食和体力活动相结合的综合生活方式干预作为任何体重管理干预的基础要素。",
+      "section": "Why it is important to do this review",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重管理",
+        "生活方式干预",
+        "指南"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "10-12"
+    },
+    {
+      "id": "E-intermittent-011",
+      "claim": "对于超重或肥胖成人，间歇性禁食与常规饮食建议相比，在体重减轻百分比上可能几乎没有差异（低确定性证据）。",
+      "section": "Intermittent fasting versus regular dietary advice",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "低确定性证据"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-intermittent-012",
+      "claim": "间歇性禁食可能对实现5%体重减轻的目标几乎没有效果，但证据非常不确定（极低确定性证据）。",
+      "section": "Intermittent fasting versus regular dietary advice",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻5%",
+        "极低确定性证据"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-intermittent-013",
+      "claim": "对于超重或肥胖成人，间歇性禁食与常规饮食建议相比，在生活质量上可能几乎没有差异（低确定性证据）。",
+      "section": "Intermittent fasting versus regular dietary advice",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "低确定性证据"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-intermittent-014",
+      "claim": "间歇性禁食可能对不良事件发生率几乎没有影响，但证据非常不确定（极低确定性证据）。",
+      "section": "Intermittent fasting versus regular dietary advice",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "极低确定性证据"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "19-21"
+    },
+    {
+      "id": "E-intermittent-015",
+      "claim": "与常规饮食建议相比，间歇性禁食对体重减轻的效果在低收入国家与高收入国家、不同性别、不同禁食类型或干预方式之间没有差异。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "亚组分析",
+        "收入水平",
+        "性别"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-016",
+      "claim": "与常规饮食建议相比，间歇性禁食对达5%体重减轻的效果在低收入国家与高收入国家或不同禁食类型之间没有差异。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "5%体重减轻",
+        "亚组分析"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-017",
+      "claim": "与常规饮食建议相比，间歇性禁食对生活质量的效果在不同禁食类型之间没有差异。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "亚组分析"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-018",
+      "claim": "在低收入国家中，间歇性禁食可能减少不良事件；而在高收入国家中可能增加不良事件。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "收入水平",
+        "亚组分析"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-019",
+      "claim": "与常规饮食建议相比，改良隔日禁食和隔日禁食可能增加不良事件，而限时进食可能减少不良事件。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "禁食类型",
+        "限时进食",
+        "隔日禁食"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-020",
+      "claim": "与常规饮食建议相比，间歇性禁食在男性中可能导致更多不良事件，但证据有限。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "性别",
+        "男性"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-021",
+      "claim": "间歇性禁食对总胆固醇、高密度脂蛋白和甘油三酯的影响在不同收入水平国家、不同性别、不同禁食类型或干预方式之间没有差异。",
+      "section": "Subgroup analyses",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "血脂",
+        "总胆固醇",
+        "高密度脂蛋白",
+        "甘油三酯"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "22-24"
+    },
+    {
+      "id": "E-intermittent-022",
+      "claim": "间歇性禁食与常规饮食建议相比，在减轻体重方面效果相当，无显著差异。",
+      "section": "Sensitivity analyses",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "常规饮食建议"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "25-27"
+    },
+    {
+      "id": "E-intermittent-023",
+      "claim": "时间限制性进食可能比交替日禁食、改良交替日禁食和周期性禁食引起更多不良事件。",
+      "section": "Intermittent fasting versus no intervention or waiting list",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "时间限制性进食",
+        "不良事件",
+        "间歇性禁食类型"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "25-27"
+    },
+    {
+      "id": "E-intermittent-024",
+      "claim": "周期性禁食和时间限制性进食可能降低甘油三酯水平，而交替日禁食可能升高甘油三酯水平。",
+      "section": "Intermittent fasting versus no intervention or waiting list",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "周期性禁食",
+        "时间限制性进食",
+        "甘油三酯",
+        "交替日禁食"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "25-27"
+    },
+    {
+      "id": "E-intermittent-025",
+      "claim": "在低偏倚风险研究中，间歇性禁食比无干预或等待名单组体重减轻更多。",
+      "section": "Sensitivity analyses",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "低偏倚风险",
+        "无干预"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "25-27"
+    },
+    {
+      "id": "E-intermittent-026",
+      "claim": "与常规饮食建议相比，间歇性禁食可能不会导致更显著的体重减轻。",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "28-30"
+    },
+    {
+      "id": "E-intermittent-027",
+      "claim": "与无干预或等待名单相比，间歇性禁食可能不会导致更显著的体重减轻。",
+      "section": "Summary of main results",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "28-30"
+    },
+    {
+      "id": "E-intermittent-028",
+      "claim": "与无干预或等待名单相比，间歇性禁食可能不会增加不良事件风险，但证据非常不确定。",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "不良事件",
+        "安全性"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "28-30"
+    },
+    {
+      "id": "E-intermittent-029",
+      "claim": "与常规饮食建议相比，间歇性禁食在体重减轻、生活质量或不良事件方面可能没有差异。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "生活质量",
+        "不良事件"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "31-33"
+    },
+    {
+      "id": "E-intermittent-030",
+      "claim": "与无干预或等待名单相比，间歇性禁食可能导致体重减轻几乎没有差异。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "体重减轻",
+        "无干预"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "31-33"
+    },
+    {
+      "id": "E-intermittent-031",
+      "claim": "间歇性禁食可能在SF-36一般身体健康领域的生活质量和不良事件方面几乎没有差异。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "间歇性禁食",
+        "生活质量",
+        "SF-36",
+        "不良事件"
+      ],
+      "source_doc": "Intermittent fasting for adults with overweight or obesity",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/abstract",
+      "page": "31-33"
+    }
+  ]
+}

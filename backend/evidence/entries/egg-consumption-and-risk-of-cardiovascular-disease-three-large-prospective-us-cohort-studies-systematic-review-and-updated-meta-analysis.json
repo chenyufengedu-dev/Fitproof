@@ -1,0 +1,98 @@
+{
+  "doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+  "org": "英国医学杂志 (BMJ)",
+  "year": "2020",
+  "url": "https://www.bmj.com/content/368/bmj.m513",
+  "complete": true,
+  "done_windows": 5,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-egg-consumpt-001",
+      "claim": "每天摄入最多一个鸡蛋与总体心血管疾病风险无关联。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "鸡蛋",
+        "心血管疾病",
+        "胆固醇",
+        "饮食"
+      ],
+      "source_doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2020",
+      "url": "https://www.bmj.com/content/368/bmj.m513",
+      "page": "1-3"
+    },
+    {
+      "id": "E-egg-consumpt-002",
+      "claim": "鸡蛋摄入与亚洲人群较低的心血管疾病风险可能相关。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "鸡蛋",
+        "心血管疾病",
+        "亚洲人群",
+        "饮食"
+      ],
+      "source_doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2020",
+      "url": "https://www.bmj.com/content/368/bmj.m513",
+      "page": "1-3"
+    },
+    {
+      "id": "E-egg-consumpt-003",
+      "claim": "每日食用至少一个鸡蛋与心血管疾病风险无显著关联。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "鸡蛋",
+        "心血管疾病",
+        "风险"
+      ],
+      "source_doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2020",
+      "url": "https://www.bmj.com/content/368/bmj.m513",
+      "page": "4-6"
+    },
+    {
+      "id": "E-egg-consumpt-004",
+      "claim": "2型糖尿病患者每日食用一个鸡蛋与心血管疾病风险无显著关联。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "鸡蛋",
+        "2型糖尿病",
+        "心血管疾病"
+      ],
+      "source_doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2020",
+      "url": "https://www.bmj.com/content/368/bmj.m513",
+      "page": "4-6"
+    },
+    {
+      "id": "E-egg-consumpt-005",
+      "claim": "适量鸡蛋摄入（每天最多一个鸡蛋）与总体心血管疾病风险无关。",
+      "section": "Conclusions and policy implications",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "鸡蛋",
+        "心血管疾病",
+        "适量摄入"
+      ],
+      "source_doc": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2020",
+      "url": "https://www.bmj.com/content/368/bmj.m513",
+      "page": "10-12"
+    }
+  ]
+}

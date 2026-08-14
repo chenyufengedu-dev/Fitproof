@@ -1,0 +1,62 @@
+{
+  "doc": "Kangaroo mother care to reduce morbidity and mortality in low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/kangaroo-care-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-kangaroo-mot-001",
+      "claim": "对于出生体重≤2000g的新生儿，推荐常规使用袋鼠式护理，并在临床稳定后尽快在医疗机构开始。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "袋鼠式护理",
+        "低出生体重",
+        "新生儿护理"
+      ],
+      "source_doc": "Kangaroo mother care to reduce morbidity and mortality in low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/kangaroo-care-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-kangaroo-mot-002",
+      "claim": "出生体重≤2000g的新生儿应尽可能提供接近持续性的袋鼠式护理。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "袋鼠式护理",
+        "持续护理",
+        "低出生体重"
+      ],
+      "source_doc": "Kangaroo mother care to reduce morbidity and mortality in low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/kangaroo-care-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-kangaroo-mot-003",
+      "claim": "如果无法持续袋鼠式护理，对于出生体重≤2000g的新生儿，推荐间歇性袋鼠式护理而非常规护理。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "袋鼠式护理",
+        "间歇性护理",
+        "低出生体重"
+      ],
+      "source_doc": "Kangaroo mother care to reduce morbidity and mortality in low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/kangaroo-care-infants",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "doc": "Management of severe acute malnutrition in children 6–59 months of age with oedema",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/oedema-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-management-o-001",
+      "claim": "患有严重水肿（+++）的6-59个月严重急性营养不良儿童，即使无医疗并发症且有食欲，也应住院治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "水肿",
+        "住院",
+        "儿童"
+      ],
+      "source_doc": "Management of severe acute malnutrition in children 6–59 months of age with oedema",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/oedema-sam",
+      "page": "1-3"
+    }
+  ]
+}

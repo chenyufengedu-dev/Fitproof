@@ -1,0 +1,180 @@
+{
+  "doc": "人工甜味剂和其他代糖",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2026",
+  "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+  "complete": true,
+  "done_windows": 2,
+  "count": 10,
+  "entries": [
+    {
+      "id": "E-人工甜味剂和其他代糖-001",
+      "claim": "健康成人适量食用代糖是安全的。",
+      "section": "代糖的安全性",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "代糖",
+        "安全性",
+        "健康成人"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-002",
+      "claim": "苯丙酮尿症患者应避免含阿斯巴甜的食品和饮料。",
+      "section": "代糖的安全性",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "苯丙酮尿症",
+        "阿斯巴甜",
+        "禁忌"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-003",
+      "claim": "肠道疾病患者应限制代糖摄入。",
+      "section": "代糖的安全性",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "肠道疾病",
+        "代糖",
+        "限制摄入"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-004",
+      "claim": "不建议2岁以下儿童食用代糖。",
+      "section": "代糖的安全性",
+      "strength": "指南推荐",
+      "topics": [
+        "日常食物谣言",
+        "儿童",
+        "代糖",
+        "饮食指南"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-005",
+      "claim": "用代糖替代添加糖可降低龋齿和蛀牙风险。",
+      "section": "与代糖相关的健康获益",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "龋齿",
+        "代糖",
+        "替代糖"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-006",
+      "claim": "代糖不升高血糖水平。",
+      "section": "与代糖相关的健康获益",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "血糖",
+        "代糖"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-007",
+      "claim": "代糖短期有助于超重或肥胖人群控制体重。",
+      "section": "与代糖相关的健康获益",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "体重控制",
+        "肥胖",
+        "短期"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-008",
+      "claim": "代糖不会引起严重健康问题。",
+      "section": "与代糖相关的健康问题",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "安全性",
+        "代糖",
+        "健康问题"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-009",
+      "claim": "代糖与癌症风险增加无关。",
+      "section": "与代糖相关的健康问题",
+      "strength": "一般共识",
+      "topics": [
+        "日常食物谣言",
+        "癌症",
+        "代糖",
+        "风险"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    },
+    {
+      "id": "E-人工甜味剂和其他代糖-010",
+      "claim": "少量、短期或偶尔使用代糖最安全。",
+      "section": "与代糖相关的健康问题",
+      "strength": "指南建议",
+      "topics": [
+        "日常食物谣言",
+        "用量",
+        "使用频率",
+        "安全"
+      ],
+      "source_doc": "人工甜味剂和其他代糖",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/artificial-sweeteners/art-20046936",
+      "page": "1-3"
+    }
+  ]
+}

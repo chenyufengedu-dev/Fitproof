@@ -1,0 +1,29 @@
+{
+  "doc": "Cup-feeding for low-birth-weight infants unable to fully breastfeed",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/cupfeeding-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-cup-feeding--001",
+      "claim": "无法完全母乳喂养的低出生体重婴儿需要替代口服喂养时，应使用杯子或勺子喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "杯喂",
+        "替代喂养",
+        "勺子喂养"
+      ],
+      "source_doc": "Cup-feeding for low-birth-weight infants unable to fully breastfeed",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/cupfeeding-infants",
+      "page": "1-3"
+    }
+  ]
+}

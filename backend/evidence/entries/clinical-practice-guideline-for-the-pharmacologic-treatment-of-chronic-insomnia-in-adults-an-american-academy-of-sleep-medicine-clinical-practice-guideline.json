@@ -1,0 +1,610 @@
+{
+  "doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+  "org": "美国睡眠医学会 (AASM)",
+  "year": "2017",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+  "complete": true,
+  "done_windows": 13,
+  "count": 34,
+  "entries": [
+    {
+      "id": "E-clinical-pra-001",
+      "claim": "所有慢性失眠患者应接受认知行为疗法（CBT-I）作为主要干预。",
+      "section": "Introduction",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "慢性失眠",
+        "CBT-I",
+        "认知行为疗法",
+        "主要干预"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-clinical-pra-002",
+      "claim": "药物治疗慢性失眠仅应考虑用于无法参与CBT-I、参与后仍有症状或作为CBT-I临时辅助的患者。",
+      "section": "Introduction",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "慢性失眠",
+        "药物治疗",
+        "CBT-I",
+        "适应症"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-clinical-pra-003",
+      "claim": "成人睡眠维持障碍失眠可使用苏沃雷生（suvorexant）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "苏沃雷生",
+        "失眠",
+        "orexin受体激动剂"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-004",
+      "claim": "成人入睡困难和睡眠维持障碍失眠可使用艾司佐匹克隆（eszopiclone）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "艾司佐匹克隆",
+        "失眠",
+        "BZ受体激动剂"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-005",
+      "claim": "成人入睡障碍失眠可使用扎来普隆（zaleplon）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "扎来普隆",
+        "失眠",
+        "BZ受体激动剂"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-006",
+      "claim": "成人入睡困难和睡眠维持障碍失眠可使用唑吡坦（zolpidem）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "唑吡坦",
+        "失眠",
+        "BZ受体激动剂"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-007",
+      "claim": "成人入睡障碍失眠可使用三唑仑（triazolam）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "三唑仑",
+        "失眠",
+        "苯二氮卓类"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-008",
+      "claim": "成人入睡困难和睡眠维持障碍失眠可使用替马西泮（temazepam）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "替马西泮",
+        "失眠",
+        "苯二氮卓类"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-009",
+      "claim": "成人入睡障碍失眠可使用雷美替胺（ramelteon）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "雷美替胺",
+        "失眠",
+        "褪黑素受体激动剂"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-010",
+      "claim": "成人睡眠维持障碍失眠可使用多塞平（doxepin）治疗。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "多塞平",
+        "失眠",
+        "杂环类抗抑郁药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-011",
+      "claim": "成人不应使用曲唑酮（trazodone）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "曲唑酮",
+        "失眠",
+        "杂环类抗抑郁药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-012",
+      "claim": "成人不应使用噻加宾（tiagabine）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "噻加宾",
+        "失眠",
+        "抗惊厥药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-013",
+      "claim": "成人不应使用苯海拉明（diphenhydramine）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "苯海拉明",
+        "失眠",
+        "非处方药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-014",
+      "claim": "成人不应使用褪黑素（melatonin）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "褪黑素",
+        "失眠",
+        "非处方药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-015",
+      "claim": "成人不应使用L-色氨酸（tryptophan）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "L-色氨酸",
+        "失眠",
+        "非处方药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-016",
+      "claim": "成人不应使用缬草（valerian）治疗入睡或睡眠维持障碍失眠。",
+      "section": "Clinical Practice Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "缬草",
+        "失眠",
+        "非处方药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-clinical-pra-017",
+      "claim": "成人慢性失眠患者可使用苏沃雷生治疗睡眠维持性失眠（相对于不治疗）。",
+      "section": "Suvorexant for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "睡眠维持障碍",
+        "苏沃雷生",
+        "药物治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-clinical-pra-018",
+      "claim": "成人慢性失眠患者可使用右佐匹克隆治疗睡眠起始和睡眠维持障碍（相对于不治疗）。",
+      "section": "Eszopiclone for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "睡眠起始障碍",
+        "睡眠维持障碍",
+        "右佐匹克隆",
+        "药物治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-clinical-pra-019",
+      "claim": "扎来普隆可用于治疗成人慢性失眠中的入睡困难（睡眠起始失眠）。",
+      "section": "Zaleplon for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "扎来普隆",
+        "睡眠起始失眠",
+        "慢性失眠",
+        "药物"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "14-16"
+    },
+    {
+      "id": "E-clinical-pra-020",
+      "claim": "对于成人慢性失眠，指南建议临床医生使用唑吡坦治疗入睡困难和睡眠维持困难（相对于不治疗），但推荐强度为弱。",
+      "section": "Zolpidem for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "慢性失眠",
+        "唑吡坦",
+        "入睡困难",
+        "睡眠维持困难"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "17-19"
+    },
+    {
+      "id": "E-clinical-pra-021",
+      "claim": "三唑仑可用于治疗成人入睡性失眠。",
+      "section": "Triazolam for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "三唑仑",
+        "失眠",
+        "药物治疗",
+        "入睡困难"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "20-22"
+    },
+    {
+      "id": "E-clinical-pra-022",
+      "claim": "替马西泮可用于治疗成人入睡和睡眠维持性失眠。",
+      "section": "Temazepam for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "替马西泮",
+        "失眠",
+        "药物治疗",
+        "入睡困难",
+        "睡眠维持"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "20-22"
+    },
+    {
+      "id": "E-clinical-pra-023",
+      "claim": "成人慢性失眠患者使用替马西泮15mg，获益大于危害。",
+      "section": "Temazepam",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "替马西泮",
+        "慢性失眠",
+        "获益",
+        "危害"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "23-25"
+    },
+    {
+      "id": "E-clinical-pra-024",
+      "claim": "建议使用雷美替胺8mg治疗成人慢性入睡困难型失眠。",
+      "section": "Melatonin agonists",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "雷美替胺",
+        "入睡困难",
+        "慢性失眠",
+        "成人"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "23-25"
+    },
+    {
+      "id": "E-clinical-pra-025",
+      "claim": "建议使用多塞平3mg或6mg治疗成人慢性睡眠维持型失眠。",
+      "section": "Heterocyclics",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "多塞平",
+        "睡眠维持",
+        "慢性失眠",
+        "成人"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "23-25"
+    },
+    {
+      "id": "E-clinical-pra-026",
+      "claim": "多塞平（3 mg或6 mg）对睡眠维持性失眠有一定疗效，可改善总睡眠时间、入睡后觉醒时间和睡眠效率，且不良反应与安慰剂无显著差异，获益大于风险。",
+      "section": "Doxepin for the Treatment of Chronic Insomnia",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "多塞平",
+        "失眠",
+        "睡眠维持",
+        "低剂量"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "26-28"
+    },
+    {
+      "id": "E-clinical-pra-027",
+      "claim": "不建议使用曲唑酮（50 mg）治疗慢性失眠（睡眠起始或睡眠维持困难）。",
+      "section": "Trazodone for the Treatment of Chronic Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "曲唑酮",
+        "失眠",
+        "不推荐"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "26-28"
+    },
+    {
+      "id": "E-clinical-pra-028",
+      "claim": "不建议使用噻加宾（4 mg）治疗原发性失眠（睡眠起始或睡眠维持困难）。",
+      "section": "Tiagabine for the Treatment of Primary Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "噻加宾",
+        "失眠",
+        "不推荐"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "26-28"
+    },
+    {
+      "id": "E-clinical-pra-029",
+      "claim": "不建议使用苯海拉明（50 mg）治疗成人原发性失眠（睡眠起始或睡眠维持困难）。",
+      "section": "Diphenhydramine for the Treatment of Primary Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "苯海拉明",
+        "失眠",
+        "不推荐"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "26-28"
+    },
+    {
+      "id": "E-clinical-pra-030",
+      "claim": "不建议成人使用褪黑素治疗入睡困难或睡眠维持障碍（与无治疗相比）。",
+      "section": "Melatonin for the Treatment of Primary Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "褪黑素",
+        "睡眠药物",
+        "入睡困难",
+        "睡眠维持障碍"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "29-31"
+    },
+    {
+      "id": "E-clinical-pra-031",
+      "claim": "不建议成人使用色氨酸治疗入睡困难或睡眠维持障碍（与无治疗相比）。",
+      "section": "L-tryptophan for the Treatment of Primary Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "失眠",
+        "色氨酸",
+        "睡眠药物",
+        "入睡困难",
+        "睡眠维持障碍"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "29-31"
+    },
+    {
+      "id": "E-clinical-pra-032",
+      "claim": "不建议使用缬草治疗成人失眠（入睡或睡眠维持困难）。",
+      "section": "Valerian for the Treatment of Primary Insomnia",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "缬草",
+        "失眠",
+        "睡眠启动",
+        "睡眠维持"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "32-34"
+    },
+    {
+      "id": "E-clinical-pra-033",
+      "claim": "慢性失眠的长期药物治疗应仅限于无法获得或对认知行为治疗无效、经适当筛查无禁忌、能维持长期获益并定期随访的患者。",
+      "section": "Clinical Application",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "慢性失眠",
+        "药物治疗",
+        "认知行为治疗",
+        "长期用药"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "38-40"
+    },
+    {
+      "id": "E-clinical-pra-034",
+      "claim": "对于老年失眠患者，应避免使用苯二氮卓类药物，新型苯二氮卓受体激动剂应限制在短期使用（<90天）。",
+      "section": "Clinical Application",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "老年",
+        "苯二氮卓类",
+        "失眠",
+        "Beers标准"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline",
+      "org": "美国睡眠医学会 (AASM)",
+      "year": "2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/",
+      "page": "38-40"
+    }
+  ]
+}

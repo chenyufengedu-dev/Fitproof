@@ -1,0 +1,221 @@
+{
+  "doc": "Microwaving food in plastic: Dangerous or not?",
+  "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+  "year": "2021",
+  "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+  "complete": true,
+  "done_windows": 2,
+  "count": 12,
+  "entries": [
+    {
+      "id": "E-microwaving--001",
+      "claim": "微波加热塑料（不烧焦食物）不会产生致癌物二噁英。",
+      "section": "The bottom line",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "塑料",
+        "微波",
+        "二噁英",
+        "致癌物"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--002",
+      "claim": "微波加热塑料容器可能导致BPA和邻苯二甲酸盐渗入食物，尤其是高脂肪食物。",
+      "section": "Migrating chemicals",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "BPA",
+        "邻苯二甲酸盐",
+        "塑料",
+        "微波"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--003",
+      "claim": "只有通过FDA特定测试的塑料容器才能标注微波安全，其允许的化学物质迁移量远低于有害剂量。",
+      "section": "Migrating chemicals",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "FDA",
+        "微波安全",
+        "塑料",
+        "化学迁移"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--004",
+      "claim": "没有微波安全标签的容器不一定不安全，但FDA未确认其安全性。",
+      "section": "What about containers without a microwave-safe label?",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "微波安全",
+        "标签",
+        "FDA",
+        "塑料"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--005",
+      "claim": "部分聚苯乙烯（泡沫塑料）容器可以安全用于微波，但需检查是否标注微波安全。",
+      "section": "Is Styrofoam microwave safe?",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "泡沫塑料",
+        "聚苯乙烯",
+        "微波",
+        "安全"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--006",
+      "claim": "若担心塑料容器，应将食物转移到玻璃或陶瓷容器中再微波。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "微波",
+        "塑料",
+        "玻璃",
+        "陶瓷"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--007",
+      "claim": "微波时不要让塑料保鲜膜接触食物，以免融化；建议使用蜡纸、厨房纸等替代。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "保鲜膜",
+        "微波",
+        "替代品"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--008",
+      "claim": "大多数外卖容器、水瓶、酸奶盒等塑料容器不适用于微波炉。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "外卖容器",
+        "塑料",
+        "微波"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--009",
+      "claim": "一次性微波餐盘设计为单次使用，不应重复使用。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "一次性餐盘",
+        "微波",
+        "重复使用"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--010",
+      "claim": "陈旧、有划痕或频繁使用的塑料容器可能释放更多塑化剂。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "塑料容器",
+        "老化",
+        "塑化剂"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--011",
+      "claim": "不要将塑料食品袋或杂货袋放入微波炉。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "塑料袋",
+        "微波",
+        "安全"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    },
+    {
+      "id": "E-microwaving--012",
+      "claim": "微波加热前应给容器透气（如盖子留缝）。",
+      "section": "The bottom line",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "透气",
+        "微波",
+        "安全"
+      ],
+      "source_doc": "Microwaving food in plastic: Dangerous or not?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2021",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/microwaving-food-in-plastic-dangerous-or-not",
+      "page": "1-3"
+    }
+  ]
+}

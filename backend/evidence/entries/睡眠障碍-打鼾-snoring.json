@@ -1,0 +1,228 @@
+{
+  "doc": "睡眠障碍：打鼾 (Snoring)",
+  "org": "默沙东诊疗手册大众版 (MSD Manual)",
+  "year": "2024",
+  "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+  "complete": true,
+  "done_windows": 2,
+  "count": 12,
+  "entries": [
+    {
+      "id": "E-睡眠障碍-打鼾-snor-001",
+      "claim": "有警示体征（如呼吸暂停、白天嗜睡、高血压等）的打鼾者应尽快就医并进行多导睡眠图检查",
+      "section": "警示体征",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "阻塞性睡眠呼吸暂停",
+        "警示体征",
+        "多导睡眠图"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "2-4"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-002",
+      "claim": "无警示体征且无其他睡眠干扰的打鼾者通常不需要进行多导睡眠图检查，但应定期随访",
+      "section": "检查",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "阻塞性睡眠呼吸暂停",
+        "多导睡眠图",
+        "随访"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "2-4"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-003",
+      "claim": "减轻打鼾的一般措施包括睡觉时抬高头部、侧卧、减轻体重、避免睡前饮酒和使用镇静剂",
+      "section": "打鼾的治疗",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "治疗",
+        "抬高头部",
+        "侧卧",
+        "减轻体重"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "2-4"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-004",
+      "claim": "可调式下颌前移夹板比非可调式口腔矫治器更有效",
+      "section": "打鼾的治疗",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "口腔矫治器",
+        "下颌前移夹板",
+        "有效性"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "2-4"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-005",
+      "claim": "CPAP可有效缓解阻塞性睡眠呼吸暂停（OSA）并帮助减少打鼾，但很少用于治疗没有OSA的打鼾。",
+      "section": "治疗 - CPAP",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "CPAP",
+        "打鼾",
+        "阻塞性睡眠呼吸暂停",
+        "OSA"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-006",
+      "claim": "悬雍垂腭咽成形术可减轻打鼾，但效果可能只持续数年。",
+      "section": "手术",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "悬雍垂腭咽成形术",
+        "打鼾",
+        "手术"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-007",
+      "claim": "射频消融术可缩小和硬化组织，能减轻打鼾，但需要进一步研究。",
+      "section": "手术 - 射频消融术",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "射频消融术",
+        "打鼾",
+        "手术"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-008",
+      "claim": "并非所有打鼾的人都有阻塞性睡眠呼吸暂停（OSA），但大多数打鼾的人都有OSA。",
+      "section": "关键点",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "阻塞性睡眠呼吸暂停",
+        "OSA",
+        "关系"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-009",
+      "claim": "打鼾的警示体征包括睡眠时呼吸暂停或窒息、白天嗜睡及肥胖症等，有助于识别存在OSA风险并需要行多导睡眠图检查的患者。",
+      "section": "关键点",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "阻塞性睡眠呼吸暂停",
+        "警示体征",
+        "多导睡眠图"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-010",
+      "claim": "管理打鼾的一般措施包括避免在就寝前饮酒和使用镇静剂、睡觉时将头部抬高、减轻体重，以及同床者使用耳塞和改变睡眠安排。",
+      "section": "关键点",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "管理",
+        "饮酒",
+        "体重",
+        "头部抬高"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-011",
+      "claim": "打鼾的特殊治疗包括保持呼吸道畅通的装置（如下颌前移夹板）和手术。",
+      "section": "关键点",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "治疗",
+        "下颌前移夹板",
+        "手术"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    },
+    {
+      "id": "E-睡眠障碍-打鼾-snor-012",
+      "claim": "医生会治疗打鼾的原因，例如慢性鼻塞和OSA，可采用持续气道正压通气（CPAP）治疗。",
+      "section": "关键点",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "打鼾",
+        "原因",
+        "CPAP",
+        "慢性鼻塞",
+        "OSA"
+      ],
+      "source_doc": "睡眠障碍：打鼾 (Snoring)",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/snoring",
+      "page": "5-6"
+    }
+  ]
+}

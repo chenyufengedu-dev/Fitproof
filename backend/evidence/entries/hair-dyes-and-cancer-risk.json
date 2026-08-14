@@ -1,0 +1,47 @@
+{
+  "doc": "Hair Dyes and Cancer Risk",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2020",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/hair-dyes-fact-sheet",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-hair-dyes-an-001",
+      "claim": "理发师等职业性接触染发剂的化学品可能增加膀胱癌风险",
+      "section": "Do hairdressers and barbers have an increased risk of cancer?",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "染发剂",
+        "膀胱癌",
+        "职业暴露",
+        "致癌性"
+      ],
+      "source_doc": "Hair Dyes and Cancer Risk",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2020",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/hair-dyes-fact-sheet",
+      "page": "1-3"
+    },
+    {
+      "id": "E-hair-dyes-an-002",
+      "claim": "个人使用染发剂的致癌性无法分类",
+      "section": "Do people who have their hair dyed have increased risks of cancer?",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "染发剂",
+        "个人使用",
+        "致癌性",
+        "IARC"
+      ],
+      "source_doc": "Hair Dyes and Cancer Risk",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2020",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/hair-dyes-fact-sheet",
+      "page": "1-3"
+    }
+  ]
+}

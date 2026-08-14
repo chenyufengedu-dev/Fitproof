@@ -1,0 +1,81 @@
+{
+  "doc": "Vitamin D and Breastfeeding",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-vitamin-d-an-001",
+      "claim": "母乳喂养和部分母乳喂养的婴儿应从出生后几天开始每天补充400 IU维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "母乳喂养",
+        "婴儿",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin D and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-an-002",
+      "claim": "12个月以下的儿童每天需要400 IU维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "儿童",
+        "每日需要量"
+      ],
+      "source_doc": "Vitamin D and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-an-003",
+      "claim": "12至24个月的儿童每天需要600 IU维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "儿童",
+        "每日需要量"
+      ],
+      "source_doc": "Vitamin D and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-an-004",
+      "claim": "由于阳光暴露不充分且有皮肤癌风险，推荐母乳喂养婴儿补充维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "母乳喂养",
+        "补充剂",
+        "阳光暴露"
+      ],
+      "source_doc": "Vitamin D and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    }
+  ]
+}

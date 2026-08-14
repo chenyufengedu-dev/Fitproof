@@ -1,0 +1,316 @@
+{
+  "doc": "LactMed: Alcohol",
+  "org": "美国国家医学图书馆 (NIH NLM)",
+  "year": "2026",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 17,
+  "entries": [
+    {
+      "id": "E-lactmed-alco-001",
+      "claim": "哺乳期女性如果偶尔饮酒（如1杯葡萄酒或啤酒），建议每次饮酒后等待2至2.5小时再哺乳。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "等待时间",
+        "偶尔饮酒"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-002",
+      "claim": "摄入5杯或更多酒精饮料会减少乳汁分泌，抑制泌乳反射，直至母体酒精水平下降。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "乳汁分泌",
+        "大量饮酒"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-003",
+      "claim": "每日饮酒超过2杯可能缩短哺乳期。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "哺乳期时长",
+        "每日饮酒"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-004",
+      "claim": "无酒精鸡尾酒和无酒精啤酒适度饮用时，通过母乳使婴儿暴露于酒精的风险极小。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "无酒精饮品",
+        "酒精暴露",
+        "风险"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-005",
+      "claim": "使用含酒精的洗手液不会导致母乳中产生临床相关的酒精水平。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "含酒精洗手液",
+        "酒精水平",
+        "安全性"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-006",
+      "claim": "哺乳期女性在摄入1或2杯酒（包括啤酒）后哺乳，会使婴儿的奶摄入量减少20%至23%，并导致婴儿烦躁和睡眠不良。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "奶摄入量",
+        "婴儿烦躁",
+        "睡眠"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-007",
+      "claim": "在饮酒前1小时内哺乳或吸奶，可能会略微减少随后母乳中的酒精含量。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "提前吸奶",
+        "酒精减少"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-008",
+      "claim": "哺乳期大量饮酒可能导致婴儿过度镇静、液体潴留和激素失衡。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "大量饮酒",
+        "婴儿",
+        "镇静",
+        "液体潴留"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-009",
+      "claim": "哺乳期母亲饮酒较多或风险较高可能对孩子的学业表现产生负面影响。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "学业表现",
+        "长期影响"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-010",
+      "claim": "初步数据未发现哺乳期母亲饮酒与婴儿患自闭症谱系障碍或注意缺陷多动障碍的风险增加有关。",
+      "section": "Summary of Use during Lactation",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精",
+        "自闭症",
+        "多动症",
+        "风险"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-011",
+      "claim": "体重54公斤的女性需要2.5小时才能将一杯标准酒精饮料从母乳中清除，体重68公斤需2.25小时，体重82公斤需2小时；每多饮一杯，需等待相同的小时数。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "酒精清除时间",
+        "体重",
+        "计算"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-012",
+      "claim": "啤酒可能通过大麦和啤酒花中的多糖提高哺乳期间的血清催乳素水平。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳",
+        "啤酒",
+        "催乳素",
+        "多糖"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-alco-013",
+      "claim": "母乳喂养的母亲单次饮用约0.3g/kg酒精（约1.5杯）后，婴儿在3-4小时内摄乳量减少20-23%，但通过增加喂奶次数，24小时总摄乳量无差异。",
+      "section": "Effects on Infants",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "母乳喂养",
+        "婴儿摄乳量"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-lactmed-alco-014",
+      "claim": "母亲饮用0.3g/kg酒精后，婴儿在3.5-4小时内睡眠时间缩短、睡眠片段化、哭闹和惊吓增加。",
+      "section": "Effects on Infants",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "母乳喂养",
+        "婴儿睡眠"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-lactmed-alco-015",
+      "claim": "母亲哺乳期每日饮酒超过1杯，可能与婴儿1岁时运动发育下降有关，但到18个月时未发现影响。",
+      "section": "Long-term Effects",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "母乳喂养",
+        "运动发育"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-lactmed-alco-016",
+      "claim": "母亲哺乳期饮酒不增加婴儿36个月时哮喘、过敏或下呼吸道感染的风险。",
+      "section": "Long-term Effects",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "母乳喂养",
+        "哮喘",
+        "过敏"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-lactmed-alco-017",
+      "claim": "急性饮酒会抑制催产素释放，延迟母乳喷乳反射，且剂量越高抑制越明显。",
+      "section": "Effects on Lactation and Breastmilk",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精",
+        "催产素",
+        "喷乳反射"
+      ],
+      "source_doc": "LactMed: Alcohol",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501469/",
+      "page": "4-6"
+    }
+  ]
+}

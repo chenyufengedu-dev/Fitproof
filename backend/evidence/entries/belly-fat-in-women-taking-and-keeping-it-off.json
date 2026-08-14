@@ -1,0 +1,116 @@
+{
+  "doc": "Belly fat in women: Taking — and keeping — it off",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2026",
+  "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+  "complete": true,
+  "done_windows": 4,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-belly-fat-in-001",
+      "claim": "女性腰围大于35英寸（89厘米）提示腹部脂肪过多，健康风险增加。",
+      "section": "Measuring your middle",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "腰围",
+        "腹部脂肪",
+        "女性",
+        "健康风险"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    },
+    {
+      "id": "E-belly-fat-in-002",
+      "claim": "单纯做仰卧起坐等腹部锻炼不能减去腹部脂肪。",
+      "section": "Trimming the fat",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "腹部锻炼",
+        "仰卧起坐",
+        "减脂"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    },
+    {
+      "id": "E-belly-fat-in-003",
+      "claim": "健康饮食应注重植物性食物，选择瘦蛋白，限制加工肉类和饱和脂肪，适量摄入单不饱和与多不饱和脂肪。",
+      "section": "Trimming the fat",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "健康饮食",
+        "植物性食物",
+        "蛋白质",
+        "脂肪"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    },
+    {
+      "id": "E-belly-fat-in-004",
+      "claim": "建议控制食物份量，用无糖饮料代替含糖饮料。",
+      "section": "Trimming the fat",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "份量控制",
+        "无糖饮料",
+        "含糖饮料"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    },
+    {
+      "id": "E-belly-fat-in-005",
+      "claim": "建议成人每周至少进行150分钟中等强度有氧运动或75分钟剧烈有氧运动，并每周至少两次力量训练。",
+      "section": "Get active",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "有氧运动",
+        "力量训练",
+        "运动指南"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    },
+    {
+      "id": "E-belly-fat-in-006",
+      "claim": "有证据表明高强度间歇训练（HIIT）和力量训练有助于减少腹部脂肪。",
+      "section": "Get active",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "高强度间歇训练",
+        "HIIT",
+        "力量训练",
+        "腹部脂肪"
+      ],
+      "source_doc": "Belly fat in women: Taking — and keeping — it off",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809",
+      "page": "4-6"
+    }
+  ]
+}

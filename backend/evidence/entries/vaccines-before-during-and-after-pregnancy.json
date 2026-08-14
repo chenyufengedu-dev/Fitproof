@@ -1,0 +1,97 @@
+{
+  "doc": "Vaccines Before, During, and After Pregnancy",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2024",
+  "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-vaccines-bef-001",
+      "claim": "同时接种多种疫苗已被证明是安全的。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童疫苗",
+        "疫苗接种",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines Before, During, and After Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vaccines-bef-002",
+      "claim": "科学数据显示同时接种多种疫苗不会导致任何慢性健康问题。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "多疫苗同时接种",
+        "慢性健康问题",
+        "疫苗安全性"
+      ],
+      "source_doc": "Vaccines Before, During, and After Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vaccines-bef-003",
+      "claim": "推荐的疫苗在联合接种时与单独接种同样有效。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "疫苗有效性",
+        "联合接种",
+        "儿童疫苗"
+      ],
+      "source_doc": "Vaccines Before, During, and After Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vaccines-bef-004",
+      "claim": "免疫实践咨询委员会和美国儿科学会建议按时接种所有常规儿童疫苗。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童疫苗",
+        "接种时间表",
+        "AAP",
+        "ACIP"
+      ],
+      "source_doc": "Vaccines Before, During, and After Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vaccines-bef-005",
+      "claim": "CDC推荐的儿童疫苗时间表确保儿童在生长发育的不同阶段获得最佳保护。",
+      "section": "Multiple Vaccines at Once",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "儿童疫苗",
+        "接种时间表",
+        "疾病预防"
+      ],
+      "source_doc": "Vaccines Before, During, and After Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2024",
+      "url": "https://www.cdc.gov/vaccines-pregnancy/moms-to-be/index.html",
+      "page": "1-3"
+    }
+  ]
+}

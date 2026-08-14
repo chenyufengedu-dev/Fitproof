@@ -1,0 +1,47 @@
+{
+  "doc": "Vitamin B12 and Breastfeeding",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2026",
+  "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-b12.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-vitamin-b12--001",
+      "claim": "严格素食或纯素饮食的母乳喂养母亲应咨询医生补充适量维生素B12。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "母乳喂养",
+        "素食",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin B12 and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-b12.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-b12--002",
+      "claim": "有胃绕道手术、恶性贫血或特定胃肠道疾病的母乳喂养母亲，医护人员应监测其维生素B12缺乏。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "母乳喂养",
+        "监测",
+        "吸收不良"
+      ],
+      "source_doc": "Vitamin B12 and Breastfeeding",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2026",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-b12.html",
+      "page": "1-2"
+    }
+  ]
+}

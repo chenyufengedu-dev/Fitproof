@@ -1,0 +1,47 @@
+{
+  "doc": "Periconceptional folic acid supplementation to prevent neural tube defects",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/folate-periconceptional",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-periconcepti-001",
+      "claim": "所有女性从开始尝试怀孕到妊娠12周，应每日补充400 μg叶酸。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "叶酸",
+        "神经管缺陷",
+        "备孕",
+        "孕期营养"
+      ],
+      "source_doc": "Periconceptional folic acid supplementation to prevent neural tube defects",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/folate-periconceptional",
+      "page": "1-3"
+    },
+    {
+      "id": "E-periconcepti-002",
+      "claim": "曾怀有或生育过神经管缺陷婴儿的女性应每日补充5 mg高剂量叶酸，并告知复发风险和叶酸补充的保护作用。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "叶酸",
+        "神经管缺陷",
+        "高剂量",
+        "复发预防"
+      ],
+      "source_doc": "Periconceptional folic acid supplementation to prevent neural tube defects",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/folate-periconceptional",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+  "org": "美国胃肠病学会 (AGA)",
+  "year": "2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+  "complete": true,
+  "done_windows": 3,
+  "count": 18,
+  "entries": [
+    {
+      "id": "E-aga-clinical-001",
+      "claim": "对于艰难梭菌感染，益生菌的使用应仅限于临床试验。",
+      "section": "Clostridioides difficile infection",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "艰难梭菌感染",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-002",
+      "claim": "在抗生素治疗期间，建议使用布拉氏酵母菌或特定乳杆菌/双歧杆菌组合（如嗜酸乳杆菌CL1285和干酪乳杆菌LBC80R二联组合等）来预防艰难梭菌感染。",
+      "section": "Prevention of C. difficile infection",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "艰难梭菌",
+        "抗生素",
+        "预防",
+        "益生菌"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-003",
+      "claim": "对于克罗恩病，益生菌的使用应仅限于临床试验。",
+      "section": "Crohn's disease",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "克罗恩病",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-004",
+      "claim": "对于溃疡性结肠炎，益生菌的使用应仅限于临床试验。",
+      "section": "Ulcerative colitis",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "溃疡性结肠炎",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-005",
+      "claim": "对于储袋炎，建议使用8种菌株的益生菌组合（包括副干酪乳杆菌、植物乳杆菌等）优于不使用或其他益生菌。",
+      "section": "Pouchitis",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "储袋炎",
+        "益生菌",
+        "8菌株组合"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-006",
+      "claim": "对于肠易激综合征，益生菌的使用应仅限于临床试验。",
+      "section": "Irritable bowel syndrome",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "肠易激综合征",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-007",
+      "claim": "对于儿童急性感染性胃肠炎，建议不使用益生菌。",
+      "section": "Acute infectious gastroenteritis in children",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "儿童",
+        "急性胃肠炎",
+        "益生菌",
+        "反对使用"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-008",
+      "claim": "对于早产（<37周）低出生体重婴儿，建议使用特定益生菌（如乳杆菌和双歧杆菌组合、或动物双歧杆菌乳亚种、或罗伊氏乳杆菌、或鼠李糖乳杆菌）预防坏死性小肠结肠炎。",
+      "section": "Necrotizing enterocolitis prevention",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "早产儿",
+        "坏死性小肠结肠炎",
+        "益生菌",
+        "预防"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aga-clinical-009",
+      "claim": "在抗生素治疗的成人和儿童中，推荐使用布拉氏酵母菌或特定益生菌组合（如L acidophilus CL1285和L casei LBC80R等）来预防艰难梭菌感染。",
+      "section": "预防艰难梭菌感染",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "艰难梭菌感染",
+        "抗生素",
+        "益生菌预防"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-010",
+      "claim": "在克罗恩病成人及儿童患者中，益生菌仅限在临床试验中使用。",
+      "section": "克罗恩病",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "克罗恩病",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-011",
+      "claim": "在溃疡性结肠炎成人及儿童患者中，益生菌仅限在临床试验中使用。",
+      "section": "溃疡性结肠炎",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "溃疡性结肠炎",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-012",
+      "claim": "在患 pouchitis 的成人患者中，建议使用特定8菌株益生菌组合（如L paracasei等）而非不使用或其他益生菌。",
+      "section": "储袋炎",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "pouchitis",
+        "益生菌",
+        "8菌株组合"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-013",
+      "claim": "在成人和儿童肠易激综合征患者中，益生菌仅限在临床试验中使用。",
+      "section": "肠易激综合征",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "肠易激综合征",
+        "益生菌",
+        "临床试验"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-014",
+      "claim": "在美国和加拿大地区，不建议儿童急性感染性胃肠炎使用益生菌。",
+      "section": "儿童急性感染性胃肠炎",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "儿童",
+        "急性胃肠炎",
+        "益生菌"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aga-clinical-015",
+      "claim": "对于北美地区的儿童急性感染性胃肠炎，不建议使用益生菌。",
+      "section": "Acute Infectious Gastroenteritis in Children",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "益生菌",
+        "急性胃肠炎",
+        "儿童",
+        "北美"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-aga-clinical-016",
+      "claim": "对于胎龄<37周、低出生体重的早产儿，建议使用特定益生菌菌株或组合（如乳杆菌属和双歧杆菌属的组合，或动物双歧杆菌乳亚种，或罗伊氏乳杆菌，或鼠李糖乳杆菌）预防坏死性小肠结肠炎。",
+      "section": "Necrotizing Enterocolitis in Preterm Infants",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "早产儿",
+        "坏死性小肠结肠炎",
+        "益生菌",
+        "乳杆菌",
+        "双歧杆菌"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-aga-clinical-017",
+      "claim": "对于预防艰难梭菌感染，某些益生菌可能有效，但证据质量低，对于重视避免潜在危害的患者（尤其是重症或免疫抑制者），选择不使用益生菌是合理的。",
+      "section": "Clostridium difficile Infection Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "艰难梭菌",
+        "益生菌",
+        "预防",
+        "免疫抑制"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-aga-clinical-018",
+      "claim": "对于储袋炎患者，建议使用8菌株益生菌组合（副干酪乳杆菌、植物乳杆菌、嗜酸乳杆菌、德氏乳杆菌保加利亚亚种、长双歧杆菌、短双歧杆菌、婴儿双歧杆菌、唾液链球菌嗜热亚种），前提是获取该组合可行。",
+      "section": "Pouchitis",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "储袋炎",
+        "益生菌",
+        "8菌株组合"
+      ],
+      "source_doc": "AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders",
+      "org": "美国胃肠病学会 (AGA)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531291/",
+      "page": "7-9"
+    }
+  ]
+}

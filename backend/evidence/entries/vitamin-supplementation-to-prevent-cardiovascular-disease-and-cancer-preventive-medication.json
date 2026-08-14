@@ -1,0 +1,420 @@
+{
+  "doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+  "org": "美国预防服务工作组 (USPSTF)",
+  "year": "2022",
+  "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+  "complete": true,
+  "done_windows": 5,
+  "count": 22,
+  "entries": [
+    {
+      "id": "E-vitamin-supp-001",
+      "claim": "不应使用β-胡萝卜素或维生素E补充剂来预防心血管疾病或癌症。",
+      "section": "Recommendation Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "维生素E",
+        "补充剂",
+        "心血管疾病",
+        "癌症"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-supp-002",
+      "claim": "当前证据不足以评估使用复合维生素补充剂预防心血管疾病或癌症的利弊。",
+      "section": "Recommendation Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "复合维生素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-supp-003",
+      "claim": "当前证据不足以评估使用单一或成对营养素补充剂（β-胡萝卜素和维生素E除外）预防心血管疾病或癌症的利弊。",
+      "section": "Recommendation Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "营养素补充剂",
+        "单一补充剂",
+        "成对补充剂",
+        "心血管疾病",
+        "癌症"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-supp-004",
+      "claim": "所有计划或可能怀孕的人应每天服用含0.4至0.8 mg（400至800 μg）叶酸的补充剂。",
+      "section": "Recommendation Summary",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "补充剂",
+        "怀孕",
+        "预防",
+        "推荐"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-supp-005",
+      "claim": "使用β-胡萝卜素补充剂预防心血管疾病或癌症的害处大于益处，不推荐使用。",
+      "section": "USPSTF Assessment of Magnitude of Net Benefit",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "心血管疾病",
+        "癌症",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-supp-006",
+      "claim": "使用维生素E补充剂预防心血管疾病或癌症没有净益处，不推荐使用。",
+      "section": "USPSTF Assessment of Magnitude of Net Benefit",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "心血管疾病",
+        "癌症",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-supp-007",
+      "claim": "证据不足以确定复合维生素补充剂预防心血管疾病或癌症的利弊平衡。",
+      "section": "USPSTF Assessment of Magnitude of Net Benefit",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "复合维生素",
+        "心血管疾病",
+        "癌症",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-supp-008",
+      "claim": "证据不足以确定除β-胡萝卜素和维生素E外的单一或成对营养素补充剂预防心血管疾病或癌症的利弊平衡。",
+      "section": "USPSTF Assessment of Magnitude of Net Benefit",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "单一营养素",
+        "成对营养素",
+        "心血管疾病",
+        "癌症",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-supp-009",
+      "claim": "维生素E补充剂对健康成人无益于降低全因死亡率、心血管疾病事件或癌症风险。",
+      "section": "Vitamin E",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "补充剂",
+        "心血管疾病",
+        "癌症"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-supp-010",
+      "claim": "复合维生素补充剂对健康成人无益于降低全因死亡率、心血管疾病死亡率或癌症死亡率。",
+      "section": "Multivitamins",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "复合维生素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "死亡率"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-supp-011",
+      "claim": "维生素D补充剂对健康成人无益于降低全因死亡率、心血管疾病或癌症风险。",
+      "section": "Vitamin D With or Without Calcium",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "补充剂",
+        "心血管疾病",
+        "癌症"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-supp-012",
+      "claim": "β-胡萝卜素补充剂增加吸烟者或石棉暴露者的肺癌风险和心血管疾病死亡。",
+      "section": "Harms of Supplementation",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "肺癌",
+        "心血管疾病",
+        "吸烟",
+        "危害"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-supp-013",
+      "claim": "维生素E补充剂可能增加出血性中风风险。",
+      "section": "Harms of Supplementation",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "出血性中风",
+        "危害"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-supp-014",
+      "claim": "β-胡萝卜素补充剂不能预防心血管疾病或癌症。",
+      "section": "Rationale - Assessment - Benefits of preventive medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "预防"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-015",
+      "claim": "维生素E补充剂不能预防心血管疾病或癌症。",
+      "section": "Rationale - Assessment - Benefits of preventive medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "预防"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-016",
+      "claim": "目前证据不足以判断多种维生素补充剂对预防心血管疾病或癌症的益处和害处。",
+      "section": "Rationale - Assessment - Benefits of preventive medication",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多种维生素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-017",
+      "claim": "β-胡萝卜素补充剂会增加高风险人群患肺癌的风险。",
+      "section": "Rationale - Assessment - Harms of preventive medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "肺癌",
+        "风险",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-018",
+      "claim": "维生素E补充剂最多有轻微害处。",
+      "section": "Rationale - Assessment - Harms of preventive medication",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "补充剂",
+        "害处"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-019",
+      "claim": "使用β-胡萝卜素补充剂预防心血管疾病或癌症的害处大于益处。",
+      "section": "Table - USPSTF assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "害大于益"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-020",
+      "claim": "维生素E补充剂预防心血管疾病或癌症没有净益处。",
+      "section": "Table - USPSTF assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "无净益处"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-021",
+      "claim": "目前证据不足以判断使用多种维生素补充剂预防心血管疾病或癌症的利弊平衡。",
+      "section": "Table - USPSTF assessment",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "多种维生素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    },
+    {
+      "id": "E-vitamin-supp-022",
+      "claim": "目前证据不足以判断使用单一或成对营养素（β-胡萝卜素和维生素E除外）补充剂预防心血管疾病或癌症的利弊平衡。",
+      "section": "Table - USPSTF assessment",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "单一营养素",
+        "成对营养素",
+        "补充剂",
+        "心血管疾病",
+        "癌症",
+        "证据不足"
+      ],
+      "source_doc": "Vitamin Supplementation to Prevent Cardiovascular Disease and Cancer: Preventive Medication",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "page": "13-14"
+    }
+  ]
+}

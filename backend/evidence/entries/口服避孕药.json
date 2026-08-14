@@ -1,0 +1,153 @@
+{
+  "doc": "口服避孕药",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2024",
+  "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+  "complete": true,
+  "done_windows": 1,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-口服避孕药-001",
+      "claim": "在正确使用下，口服避孕药的年怀孕率约为1%；典型使用下为4-7%。",
+      "section": "有效性",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "有效性",
+        "怀孕率"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-002",
+      "claim": "口服避孕药可减少子宫和卵巢癌、贫血、月经痉挛等非避孕益处。",
+      "section": "健康益处和风险",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "非避孕益处",
+        "子宫癌",
+        "卵巢癌"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-003",
+      "claim": "部分母乳喂养的女性应在分娩后6周开始服用避孕药；纯母乳喂养应在6个月后开始。",
+      "section": "健康益处和风险",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "母乳喂养",
+        "开始时间"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-004",
+      "claim": "迷你避孕药可在母乳喂养期间安全使用，且不影响乳汁供应。",
+      "section": "健康益处和风险",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "迷你避孕药",
+        "母乳喂养",
+        "安全性"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-005",
+      "claim": "口服避孕药可降低卵巢癌和子宫内膜癌风险，但增加宫颈癌风险；乳腺癌风险对大多数人无增加，但BRCA突变女性可能风险更高。",
+      "section": "健康益处和风险",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "癌症风险",
+        "卵巢癌",
+        "宫颈癌",
+        "乳腺癌"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-006",
+      "claim": "口服避孕药的其他风险包括罕见血栓、中风和心肌梗死；迷你避孕药无雌激素相关风险。",
+      "section": "健康益处和风险",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "血栓",
+        "中风",
+        "心肌梗死",
+        "迷你避孕药"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-007",
+      "claim": "口服避孕药不会导致不孕、不影响性行为、不导致先天缺陷，无需停药休息，可在医生指导下长期安全使用。",
+      "section": "副作用",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "安全性",
+        "不孕",
+        "先天缺陷"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    },
+    {
+      "id": "E-口服避孕药-008",
+      "claim": "口服避孕药常见的副作用如经血变化、头痛、头晕、恶心等通常无害并会随时间改善。",
+      "section": "副作用",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "口服避孕药",
+        "副作用",
+        "经血变化"
+      ],
+      "source_doc": "口服避孕药",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2024",
+      "url": "https://www.who.int/zh/news-room/fact-sheets/detail/oral-contraceptives",
+      "page": "2-3"
+    }
+  ]
+}

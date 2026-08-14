@@ -1,0 +1,502 @@
+{
+  "doc": "Dietary Supplements for Eye Conditions",
+  "org": "美国国家补充与整合健康中心 (NCCIH)",
+  "year": "2023",
+  "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+  "complete": true,
+  "done_windows": 5,
+  "count": 27,
+  "entries": [
+    {
+      "id": "E-dietary-supp-001",
+      "claim": "抗氧化维生素和矿物质补充剂（AREDS配方：维生素C、E、β-胡萝卜素和锌）可能减缓晚期年龄相关性黄斑变性的进展。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "AREDS",
+        "抗氧化剂",
+        "维生素C",
+        "维生素E",
+        "β-胡萝卜素",
+        "锌"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-002",
+      "claim": "叶黄素和玉米黄质可以作为AREDS配方中β-胡萝卜素的合适替代品。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "AMD",
+        "叶黄素",
+        "玉米黄质",
+        "β-胡萝卜素",
+        "AREDS"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-003",
+      "claim": "目前数据不支持使用维生素A、C和E治疗青光眼，也不支持使用大麻素治疗青光眼。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "青光眼",
+        "维生素A",
+        "维生素C",
+        "维生素E",
+        "大麻素"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-004",
+      "claim": "对于年龄相关性黄斑变性患者，叶黄素/玉米黄质可作为β-胡萝卜素的替代品，且不增加吸烟者的肺癌风险。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶黄素",
+        "玉米黄质",
+        "β-胡萝卜素",
+        "年龄相关性黄斑变性",
+        "肺癌风险"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-005",
+      "claim": "长期服用维生素E和维生素C对年龄相关性黄斑变性发病风险无显著影响。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "维生素C",
+        "年龄相关性黄斑变性",
+        "发病风险"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-006",
+      "claim": "补充Omega-3脂肪酸不降低年龄相关性黄斑变性进展为晚期或中重度视力丧失的风险。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "年龄相关性黄斑变性",
+        "进展",
+        "视力丧失"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-007",
+      "claim": "目前缺乏足够的人体试验证据支持枸杞用于预防或延缓年龄相关性黄斑变性。",
+      "section": "Age-Related Macular Degeneration (AMD)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "枸杞",
+        "年龄相关性黄斑变性",
+        "预防",
+        "人体试验"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-008",
+      "claim": "高剂量维生素C可能引起腹泻、恶心、腹部绞痛等胃肠道不适。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "高剂量",
+        "副作用",
+        "胃肠道"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-009",
+      "claim": "高剂量维生素E补充剂可能增加出血风险、全因死亡率和男性前列腺癌风险。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "高剂量",
+        "出血",
+        "死亡率",
+        "前列腺癌"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-010",
+      "claim": "β-胡萝卜素补充剂增加当前吸烟者和既往吸烟者的肺癌风险。",
+      "section": "Safety",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "吸烟",
+        "肺癌",
+        "风险"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-011",
+      "claim": "叶黄素和玉米黄质无论吸烟状态均显示安全。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶黄素",
+        "玉米黄质",
+        "安全性",
+        "吸烟"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-012",
+      "claim": "适量口服银杏叶对健康成人通常安全，但可能引起头痛、胃肠道不适等副作用；动物研究提示可能增加癌症风险。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "银杏叶",
+        "安全性",
+        "副作用",
+        "癌症"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-013",
+      "claim": "Omega-3脂肪酸补充剂通常无副作用，偶有轻微胃肠道症状。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "安全性",
+        "副作用"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-014",
+      "claim": "枸杞补充剂一般安全，但罕见过敏反应如荨麻疹、中毒性肝炎等。",
+      "section": "Safety",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "枸杞",
+        "安全性",
+        "过敏"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-015",
+      "claim": "在总体人群中，叶黄素/玉米黄质补充剂对白内障手术需求无显著影响；但在膳食摄入最低的亚组中，可降低32%的进展至白内障手术风险。",
+      "section": "Cataract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶黄素",
+        "玉米黄质",
+        "白内障",
+        "手术",
+        "膳食摄入"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-016",
+      "claim": "目前没有任何膳食补充剂被推荐用于治疗白内障。",
+      "section": "Cataract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "白内障",
+        "治疗",
+        "膳食补充剂"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-017",
+      "claim": "抗氧化维生素（维生素C、E、β-胡萝卜素）补充剂不降低白内障风险、白内障摘除率或进展。",
+      "section": "Cataract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "抗氧化维生素",
+        "维生素C",
+        "维生素E",
+        "β-胡萝卜素",
+        "白内障"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-018",
+      "claim": "长期补充硒和/或维生素E不太可能对年龄相关性白内障产生大的有益效果。",
+      "section": "Cataract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硒",
+        "维生素E",
+        "白内障",
+        "有益效果"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-019",
+      "claim": "维生素C补充剂不能有效降低白内障发病率，除非个体初始维生素C水平低。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素C",
+        "白内障",
+        "补充剂"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-020",
+      "claim": "高剂量维生素E补充剂可能增加全因死亡率，并使成年男性患前列腺癌风险增加。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "全因死亡率",
+        "前列腺癌",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-021",
+      "claim": "当前或既往吸烟者补充β-胡萝卜素会增加肺癌风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-胡萝卜素",
+        "吸烟者",
+        "肺癌",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-022",
+      "claim": "当前数据不支持补充维生素A、C、E或使用大麻素治疗青光眼。",
+      "section": "Glaucoma",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "青光眼",
+        "维生素A",
+        "维生素C",
+        "维生素E",
+        "大麻素"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-023",
+      "claim": "长期服用omega-3补充剂对干眼病的发病无显著预防作用，其治疗干眼的证据尚不一致。",
+      "section": "Dry Eye Disease",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3",
+        "干眼症",
+        "补充剂",
+        "证据不足"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-024",
+      "claim": "高剂量α-生育酚补充剂可导致出血和中断血液凝固。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "补充剂",
+        "出血",
+        "凝血"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-025",
+      "claim": "维生素E补充剂（包括低于可耐受最高摄入量的剂量）与全因死亡率小幅但统计学显著增加相关。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "全因死亡率",
+        "安全性",
+        "荟萃分析"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-026",
+      "claim": "维生素E补充剂（400 IU/天）可能增加普通成年男性患前列腺癌的风险。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素E",
+        "前列腺癌",
+        "SELECT试验",
+        "风险"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-027",
+      "claim": "大麻素使用可导致乏力、平衡问题、意识混乱、腹泻、欣快、嗜睡、口干、疲劳、幻觉、恶心、嗜睡和呕吐等不良事件。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "大麻素",
+        "不良事件",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements for Eye Conditions",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2023",
+      "url": "https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-for-eye-conditions",
+      "page": "10-12"
+    }
+  ]
+}

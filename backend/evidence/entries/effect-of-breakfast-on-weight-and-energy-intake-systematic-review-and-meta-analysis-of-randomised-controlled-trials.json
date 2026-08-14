@@ -1,0 +1,99 @@
+{
+  "doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+  "org": "英国医学杂志 (BMJ)",
+  "year": "2019",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+  "complete": true,
+  "done_windows": 14,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-effect-of-br-001",
+      "claim": "增加早餐摄入可能不是减肥的好策略，在成年中推荐早餐减肥需谨慎，因为它可能产生相反效果。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "早餐",
+        "体重",
+        "能量摄入",
+        "减肥"
+      ],
+      "source_doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-effect-of-br-002",
+      "claim": "早餐食用不能促进体重减轻，跳过早餐也不会导致体重增加。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "早餐",
+        "体重减轻",
+        "能量摄入"
+      ],
+      "source_doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+      "page": "28-30"
+    },
+    {
+      "id": "E-effect-of-br-003",
+      "claim": "与不吃早餐相比，吃早餐会导致每日总能量摄入增加。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "早餐",
+        "能量摄入",
+        "每日总能量"
+      ],
+      "source_doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+      "page": "28-30"
+    },
+    {
+      "id": "E-effect-of-br-004",
+      "claim": "现有证据不支持在成人饮食中加入早餐作为减肥策略。",
+      "section": "Conclusions and future implications",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "早餐",
+        "体重",
+        "能量摄入",
+        "减肥"
+      ],
+      "source_doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+      "page": "31-33"
+    },
+    {
+      "id": "E-effect-of-br-005",
+      "claim": "推荐早餐减肥需谨慎，可能产生相反效果。",
+      "section": "Conclusions and future implications",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "早餐",
+        "体重",
+        "减肥",
+        "谨慎推荐"
+      ],
+      "source_doc": "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials",
+      "org": "英国医学杂志 (BMJ)",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6352874/",
+      "page": "31-33"
+    }
+  ]
+}

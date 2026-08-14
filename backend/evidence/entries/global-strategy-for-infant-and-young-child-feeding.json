@@ -1,0 +1,373 @@
+{
+  "doc": "Global Strategy for Infant and Young Child Feeding",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2003",
+  "url": "https://iris.who.int/handle/10665/42590",
+  "complete": true,
+  "done_windows": 13,
+  "count": 21,
+  "entries": [
+    {
+      "id": "E-global-strat-001",
+      "claim": "婴儿应在出生后前6个月纯母乳喂养，以实现最佳生长、发育和健康；此后应继续母乳喂养至2岁或以上，同时添加营养充足且安全的辅食。",
+      "section": "Promoting appropriate feeding for infants and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "纯母乳喂养",
+        "辅食添加",
+        "婴幼儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "13-15"
+    },
+    {
+      "id": "E-global-strat-002",
+      "claim": "几乎所有母亲都能进行母乳喂养，前提是她们获得准确的信息以及来自家庭、社区和卫生系统的支持。",
+      "section": "Promoting appropriate feeding for infants and young children",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "母亲支持",
+        "健康教育"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "13-15"
+    },
+    {
+      "id": "E-global-strat-003",
+      "claim": "辅食应适时（当纯母乳喂养不足以满足营养需求时引入）、充足（提供足够的能量、蛋白质和微量营养素）且安全（卫生储存和制备，使用清洁餐具，避免奶瓶和奶嘴）。",
+      "section": "Promoting appropriate feeding for infants and young children",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食",
+        "辅食添加",
+        "婴幼儿营养",
+        "食品安全"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "13-15"
+    },
+    {
+      "id": "E-global-strat-004",
+      "claim": "绝大多数母亲可以且应该进行母乳喂养，绝大多数婴儿可以且应该接受母乳喂养。只有在极少数特殊情况下，母乳才被认为不适合婴儿。",
+      "section": "Exercising other feeding options",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴儿喂养",
+        "指南"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-005",
+      "claim": "非母乳喂养的婴儿应使用合适的母乳替代品，例如符合食品法典委员会标准的婴儿配方奶粉或添加微量营养素的家庭自制配方，喂养方法应由卫生工作者示范，并告知正确制备方法和不当使用的健康危害。",
+      "section": "Exercising other feeding options",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳替代品",
+        "婴儿配方奶粉",
+        "喂养方法"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-006",
+      "claim": "未接受母乳喂养的婴儿应得到卫生和社会福利系统的特别关注，因为他们属于风险群体。",
+      "section": "Exercising other feeding options",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非母乳喂养",
+        "风险群体",
+        "婴儿"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-007",
+      "claim": "在困难情况下，只要可能，母亲和婴儿应待在一起，并得到支持以选择最适合的喂养方式。",
+      "section": "Feeding in exceptionally difficult circumstances",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "困难情况",
+        "母亲支持",
+        "喂养选择"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-008",
+      "claim": "营养不良的婴幼儿需要额外关注，继续频繁母乳喂养及必要时重新泌乳是重要预防措施。",
+      "section": "Feeding in exceptionally difficult circumstances",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "营养不良",
+        "婴幼儿",
+        "母乳喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-009",
+      "claim": "母乳对早产儿和极低出生体重儿尤其重要，他们感染、长期疾病和死亡风险较高。",
+      "section": "Feeding in exceptionally difficult circumstances",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "早产儿",
+        "低出生体重",
+        "母乳"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-010",
+      "claim": "在紧急情况下，对于绝大多数婴儿应重点保护、促进和支持母乳喂养，并确保及时、安全、适当的补充喂养。",
+      "section": "Feeding in exceptionally difficult circumstances",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "紧急情况",
+        "母乳喂养",
+        "补充喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-011",
+      "claim": "所有HIV感染母亲应接受咨询，了解营养需求及不同喂养方式的风险和益处，并选择最适合自身情况的方式。",
+      "section": "Feeding in exceptionally difficult circumstances",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "HIV",
+        "母婴传播",
+        "喂养咨询"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "16-18"
+    },
+    {
+      "id": "E-global-strat-012",
+      "claim": "对于HIV阴性或未检测的母亲，纯母乳喂养是推荐的喂养方式。",
+      "section": "Breastfeeding in the context of HIV",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "HIV",
+        "母乳喂养",
+        "纯母乳喂养",
+        "喂养选择"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "19-21"
+    },
+    {
+      "id": "E-global-strat-013",
+      "claim": "纯母乳喂养应持续6个月，继续母乳喂养至2岁或以上。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "母乳喂养时长",
+        "婴幼儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-014",
+      "claim": "应促进及时、充足、安全、适当的辅食喂养，同时继续母乳喂养。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食喂养",
+        "母乳喂养",
+        "婴幼儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-015",
+      "claim": "应在特殊困难情况下为婴幼儿喂养提供指导，并给母亲、家庭和照护者提供支持。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "困难情况喂养",
+        "喂养指导",
+        "婴幼儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-016",
+      "claim": "应实施并监测《国际母乳代用品销售守则》及相关卫生大会决议。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳代用品销售",
+        "国际守则",
+        "政策实施"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-017",
+      "claim": "医院应通过实施爱婴医院倡议、监测和重新评估已指定的设施，并扩展至诊所、卫生中心和儿科医院，来支持母乳喂养的成功开始和建立。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "爱婴医院",
+        "母乳喂养支持",
+        "卫生系统"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-018",
+      "claim": "应培训照护母亲、儿童和家庭的卫生工作者，提供母乳喂养、辅食喂养、HIV与婴儿喂养及必要时母乳代用品喂养的咨询和帮助技能。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "卫生工作者培训",
+        "母乳喂养咨询",
+        "HIV与婴儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-019",
+      "claim": "应确保加工辅食在适宜年龄销售，并符合安全、文化可接受、负担得起和营养充足的标准。",
+      "section": "2. GLOBAL STRATEGY FOR INFANT AND YOUNG CHILD FEEDING",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "加工辅食",
+        "食品安全",
+        "营养标准"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "22-24"
+    },
+    {
+      "id": "E-global-strat-020",
+      "claim": "纯母乳喂养至6个月，之后继续母乳喂养至2岁或以上，并添加营养充足和安全的辅食，可降低婴幼儿死亡率并改善健康。",
+      "section": "Resolution WHA55.25",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "婴幼儿喂养",
+        "辅食",
+        "WHO"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "34-36"
+    },
+    {
+      "id": "E-global-strat-021",
+      "claim": "微量营养素干预和营养补充剂的营销不应取代或削弱纯母乳喂养和最佳辅食喂养。",
+      "section": "Resolution WHA55.25",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "营养补充剂",
+        "微量营养素",
+        "婴幼儿喂养"
+      ],
+      "source_doc": "Global Strategy for Infant and Young Child Feeding",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2003",
+      "url": "https://iris.who.int/handle/10665/42590",
+      "page": "34-36"
+    }
+  ]
+}

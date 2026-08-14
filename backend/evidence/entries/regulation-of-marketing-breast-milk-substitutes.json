@@ -1,0 +1,44 @@
+{
+  "doc": "Regulation of marketing breast-milk substitutes",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/regulation-breast-milk-substitutes",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-regulation-o-001",
+      "claim": "婴儿应母乳喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "婴儿营养"
+      ],
+      "source_doc": "Regulation of marketing breast-milk substitutes",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/regulation-breast-milk-substitutes",
+      "page": "1-3"
+    },
+    {
+      "id": "E-regulation-o-002",
+      "claim": "母乳代用品应在需要时可获得，但不应被促销。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳代用品",
+        "营销监管",
+        "婴儿喂养"
+      ],
+      "source_doc": "Regulation of marketing breast-milk substitutes",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/regulation-breast-milk-substitutes",
+      "page": "1-3"
+    }
+  ]
+}

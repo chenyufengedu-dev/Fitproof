@@ -1,0 +1,96 @@
+{
+  "doc": "Napping: Do's and don'ts for healthy adults",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2024",
+  "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+  "complete": true,
+  "done_windows": 2,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-napping-do-s-001",
+      "claim": "健康成人午睡时长建议控制在20至30分钟，不超过30分钟。",
+      "section": "What's the best way to take a nap?",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "午睡",
+        "时长",
+        "睡眠"
+      ],
+      "source_doc": "Napping: Do's and don'ts for healthy adults",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+      "page": "1-3"
+    },
+    {
+      "id": "E-napping-do-s-002",
+      "claim": "健康成人午睡最好在下午3点前进行，否则可能影响夜间睡眠。",
+      "section": "What's the best way to take a nap?",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "午睡",
+        "时间",
+        "夜间睡眠"
+      ],
+      "source_doc": "Napping: Do's and don'ts for healthy adults",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+      "page": "1-3"
+    },
+    {
+      "id": "E-napping-do-s-003",
+      "claim": "午睡应在安静、黑暗且温度适宜的环境进行，避免电视、电脑等干扰。",
+      "section": "What's the best way to take a nap?",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "午睡",
+        "环境",
+        "睡眠质量"
+      ],
+      "source_doc": "Napping: Do's and don'ts for healthy adults",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+      "page": "1-3"
+    },
+    {
+      "id": "E-napping-do-s-004",
+      "claim": "午睡后需留出时间完全清醒再从事需要快速反应的活动。",
+      "section": "What's the best way to take a nap?",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "午睡",
+        "醒后恢复",
+        "安全"
+      ],
+      "source_doc": "Napping: Do's and don'ts for healthy adults",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+      "page": "1-3"
+    },
+    {
+      "id": "E-napping-do-s-005",
+      "claim": "如果突然需要比平时更多的午睡，应咨询医疗专业人员。",
+      "section": "Could a sudden greater need for naps signal a health condition?",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "午睡",
+        "健康信号",
+        "咨询医生"
+      ],
+      "source_doc": "Napping: Do's and don'ts for healthy adults",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319",
+      "page": "1-3"
+    }
+  ]
+}

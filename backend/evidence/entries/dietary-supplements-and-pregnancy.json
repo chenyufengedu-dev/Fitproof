@@ -1,0 +1,505 @@
+{
+  "doc": "Dietary Supplements and Pregnancy",
+  "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+  "year": "2026",
+  "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+  "complete": true,
+  "done_windows": 11,
+  "count": 28,
+  "entries": [
+    {
+      "id": "E-dietary-supp-001",
+      "claim": "孕期钙的推荐摄入量：14-18岁为1300毫克/天，19-50岁为1000毫克/天。",
+      "section": "Recommended Intakes",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "孕期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-002",
+      "claim": "孕期铁的推荐摄入量为27毫克/天。",
+      "section": "Recommended Intakes",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁",
+        "孕期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-003",
+      "claim": "孕期叶酸的推荐摄入量为600微克DFE/天。",
+      "section": "Recommended Intakes",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "孕期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-004",
+      "claim": "孕期维生素D的推荐摄入量为15微克/天。",
+      "section": "Recommended Intakes",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-005",
+      "claim": "孕期α-亚麻酸（ALA）的适宜摄入量为1.4克/天。",
+      "section": "Recommended Intakes",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "omega-3脂肪酸",
+        "ALA",
+        "孕期",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-006",
+      "claim": "孕期磷的可耐受最高摄入量（UL）为3500毫克/天，低于非孕期女性的4000毫克/天。",
+      "section": "Upper Limits",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "磷",
+        "孕期",
+        "可耐受最高摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-007",
+      "claim": "叶酸、镁、烟酸和维生素E的可耐受最高摄入量（UL）仅适用于补充剂和强化食品，不适用于天然食物中的该营养素；维生素A的UL仅适用于预成型维生素A，不适用于β-胡萝卜素。",
+      "section": "Upper Limits",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "镁",
+        "烟酸",
+        "维生素E",
+        "维生素A",
+        "可耐受最高摄入量",
+        "补充剂"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-008",
+      "claim": "孕妇应每日服用产前补充剂，以确保摄入足够的叶酸、铁、碘和维生素D等营养素。",
+      "section": "Prenatal Supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "产前补充剂",
+        "孕期营养",
+        "叶酸",
+        "铁",
+        "碘",
+        "维生素D"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-009",
+      "claim": "临床医生应筛查孕妇的饮食和补充剂使用，以确保其满足钙、铁、维生素A、B族维生素、维生素D等营养素的推荐摄入量。",
+      "section": "Prenatal Supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "筛查",
+        "孕期营养",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-010",
+      "claim": "每日补充1500-2000 mg钙可降低钙摄入不足孕妇的子痫前期风险。",
+      "section": "Calcium",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙",
+        "子痫前期",
+        "孕期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-011",
+      "claim": "所有可能怀孕的女性应每日从补充剂或强化食品中摄入400-800 mcg叶酸。",
+      "section": "Folate/Folic Acid",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷",
+        "孕期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-012",
+      "claim": "叶酸是唯一被证明可降低神经管缺陷风险的叶酸形式。",
+      "section": "Folate/Folic Acid",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷",
+        "5-MTHF"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-013",
+      "claim": "建议孕前和孕期每日补充150 mcg碘。",
+      "section": "Iodine",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "碘",
+        "孕期",
+        "甲状腺"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-014",
+      "claim": "育龄女性应每日从饮食或补充剂中摄入至少250 mg DHA+EPA，孕期额外摄入100-200 mg DHA。",
+      "section": "Omega-3 Fatty Acids and Seafood",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "Omega-3",
+        "DHA",
+        "EPA",
+        "孕期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-015",
+      "claim": "建议孕妇每周摄入8-12盎司低汞海鲜。",
+      "section": "Omega-3 Fatty Acids and Seafood",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "海鲜",
+        "Omega-3",
+        "孕期",
+        "汞"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-016",
+      "claim": "孕期摄入过多预成型维生素A可导致出生缺陷，应远低于可耐受最高摄入量。",
+      "section": "Vitamin A",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素A",
+        "出生缺陷",
+        "孕期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-017",
+      "claim": "维生素B6补充剂有助于减轻孕期恶心呕吐。",
+      "section": "Vitamin B6",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B6",
+        "恶心呕吐",
+        "孕期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-018",
+      "claim": "孕期适量使用姜可缓解恶心，且使用似乎是安全的。",
+      "section": "Ginger",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "姜",
+        "恶心",
+        "孕期",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-019",
+      "claim": "素食或纯素孕妇可能需补充维生素B12以满足推荐摄入量。",
+      "section": "Vitamin B12",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "素食",
+        "孕期",
+        "补充剂"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-020",
+      "claim": "孕妇可考虑补充维生素D以达到推荐摄入量，可能降低子痫前期风险但需更多研究。",
+      "section": "Vitamin D",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "补充剂",
+        "子痫前期"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-021",
+      "claim": "孕妇可考虑使用锌补充剂以增加摄入量，但对妊娠结局影响不明确。",
+      "section": "Zinc",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "锌",
+        "孕期",
+        "补充剂"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-022",
+      "claim": "孕期适量摄入咖啡因通常无风险，但高摄入可能对胎儿生长不利。",
+      "section": "Caffeine from Botanical Sources",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "孕期",
+        "胎儿生长"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-023",
+      "claim": "孕期使用德国洋甘菊证据有限，安全性未充分研究，不推荐使用。",
+      "section": "German Chamomile",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "德国洋甘菊",
+        "孕期",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-024",
+      "claim": "孕期应避免使用薄荷叶精油，其安全性未充分研究。",
+      "section": "Peppermint",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "薄荷叶",
+        "精油",
+        "孕期",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-025",
+      "claim": "孕期使用覆盆子叶证据有限，安全性未充分研究，不推荐使用。",
+      "section": "Red Raspberry Leaf",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "覆盆子叶",
+        "孕期",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-026",
+      "claim": "孕期使用其他植物药需谨慎，可能引起流产等不良效应。",
+      "section": "Other Botanicals",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "植物药",
+        "孕期",
+        "流产",
+        "安全性"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-027",
+      "claim": "减重手术后的孕妇推荐补充多种维生素和矿物质（包括维生素A、B12、D、E、K、硫胺素、叶酸、钙、铜、铁、锌）。",
+      "section": "Pregnancy After Bariatric Surgery",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "减重手术",
+        "孕期",
+        "补充剂",
+        "维生素",
+        "矿物质"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-dietary-supp-028",
+      "claim": "镰状细胞病孕妇应每日补充4mg叶酸，并选用不含铁的产前维生素（除非缺铁确诊）。",
+      "section": "Sickle Cell Disease",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "镰状细胞病",
+        "孕期",
+        "叶酸",
+        "铁"
+      ],
+      "source_doc": "Dietary Supplements and Pregnancy",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2026",
+      "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/",
+      "page": "10-12"
+    }
+  ]
+}

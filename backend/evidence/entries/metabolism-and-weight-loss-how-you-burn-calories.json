@@ -1,0 +1,132 @@
+{
+  "doc": "Metabolism and weight loss: How you burn calories",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2026",
+  "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+  "complete": true,
+  "done_windows": 2,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-metabolism-a-001",
+      "claim": "慢代谢通常不是体重增加的主要原因",
+      "section": "Metabolism and weight",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "基础代谢率",
+        "体重增加",
+        "慢代谢",
+        "肥胖原因"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "1-3"
+    },
+    {
+      "id": "E-metabolism-a-002",
+      "claim": "体重减轻需要消耗的热量多于摄入的热量",
+      "section": "Metabolism and weight",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "体重减轻",
+        "热量平衡",
+        "卡路里"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "1-3"
+    },
+    {
+      "id": "E-metabolism-a-003",
+      "claim": "健康成年人应每周进行至少150分钟中等强度有氧运动或75分钟高强度有氧运动",
+      "section": "A closer look at physical activity and metabolism",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "有氧运动",
+        "运动指南",
+        "运动推荐"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "1-3"
+    },
+    {
+      "id": "E-metabolism-a-004",
+      "claim": "健康成年人应每周进行至少两次力量训练，覆盖所有主要肌群",
+      "section": "A closer look at physical activity and metabolism",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "力量训练",
+        "肌群",
+        "运动推荐"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "1-3"
+    },
+    {
+      "id": "E-metabolism-a-005",
+      "claim": "不要依赖膳食补充剂来帮助燃烧卡路里或减轻体重，因为通常无效且可能引起副作用。",
+      "section": "No quick fix",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "膳食补充剂",
+        "减肥",
+        "副作用",
+        "卡路里"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "4-5"
+    },
+    {
+      "id": "E-metabolism-a-006",
+      "claim": "为减轻体重，每天应减少500至750卡路里的摄入，以达到每周减重1至1.5磅（0.5至0.7千克）的目标。",
+      "section": "No quick fix",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "卡路里赤字",
+        "减重",
+        "热量摄入"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "4-5"
+    },
+    {
+      "id": "E-metabolism-a-007",
+      "claim": "增加体力活动有助于更快达到减重目标并维持体重。",
+      "section": "No quick fix",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "体力活动",
+        "减重",
+        "体重维持"
+      ],
+      "source_doc": "Metabolism and weight loss: How you burn calories",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2026",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/metabolism/art-20046508",
+      "page": "4-5"
+    }
+  ]
+}

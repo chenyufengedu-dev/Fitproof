@@ -1,0 +1,855 @@
+{
+  "doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+  "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+  "year": "2022",
+  "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+  "complete": true,
+  "done_windows": 6,
+  "count": 48,
+  "entries": [
+    {
+      "id": "E-probiotics-f-001",
+      "claim": "对于儿童急性胃肠炎，可推荐使用鼠李糖乳杆菌GG（剂量≥1×10^10 CFU/天，持续5-7天）以减少腹泻持续时间、住院时间和粪便量。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "鼠李糖乳杆菌GG",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-002",
+      "claim": "对于儿童急性胃肠炎，可推荐使用布拉氏酵母菌（剂量250-750 mg/天，持续5-7天）以减少腹泻持续时间。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "布拉氏酵母菌",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-003",
+      "claim": "对于儿童急性胃肠炎，可推荐使用罗伊氏乳杆菌DSM 17938（每日1×10^8至4×10^8 CFU，持续5天）以减少腹泻持续时间。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "罗伊氏乳杆菌DSM 17938",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-004",
+      "claim": "对于儿童急性胃肠炎，可推荐使用鼠李糖乳杆菌19070-2和罗伊氏乳杆菌DSM 12246组合（每种菌株2×10^10 CFU，持续5天）以减少腹泻持续时间。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "鼠李糖乳杆菌19070-2",
+        "罗伊氏乳杆菌DSM 12246",
+        "益生菌组合"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-005",
+      "claim": "对于儿童急性胃肠炎，不应推荐使用瑞士乳杆菌R0052和鼠李糖乳杆菌R0011组合，因为缺乏疗效。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "瑞士乳杆菌R0052",
+        "鼠李糖乳杆菌R0011",
+        "益生菌组合"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-006",
+      "claim": "对于儿童急性胃肠炎，可能不推荐使用克劳氏芽孢杆菌菌株O/C、SIN、N/R和T，因为缺乏疗效。",
+      "section": "Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "急性胃肠炎",
+        "克劳氏芽孢杆菌",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-007",
+      "claim": "为预防抗生素相关性腹泻，可推荐高剂量（≥50亿CFU/天）的布拉氏酵母菌或鼠李糖乳杆菌GG，与抗生素同时开始使用。",
+      "section": "Prevention of Antibiotic-Associated Diarrhea",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "抗生素相关性腹泻",
+        "布拉氏酵母菌",
+        "鼠李糖乳杆菌GG",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-008",
+      "claim": "为预防儿童院内腹泻，可推荐使用鼠李糖乳杆菌GG（至少10^9 CFU/天）在整个住院期间使用。",
+      "section": "Prevention of Nosocomial Diarrhea",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "院内腹泻",
+        "鼠李糖乳杆菌GG",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-009",
+      "claim": "为预防儿童院内腹泻，不应推荐使用罗伊氏乳杆菌DSM 17938，因为缺乏疗效。",
+      "section": "Prevention of Nosocomial Diarrhea",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "院内腹泻",
+        "罗伊氏乳杆菌DSM 17938",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-010",
+      "claim": "为降低早产儿坏死性小肠结肠炎风险，可推荐使用鼠李糖乳杆菌GG（剂量1×10^9至6×10^9 CFU）。",
+      "section": "Prevention of Necrotizing Enterocolitis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "坏死性小肠结肠炎",
+        "早产儿",
+        "鼠李糖乳杆菌GG",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-011",
+      "claim": "为降低早产儿坏死性小肠结肠炎风险，可推荐使用婴儿双歧杆菌BB-02、乳双歧杆菌BB-12和嗜热链球菌TH-4组合（每种菌株3.0-3.5×10^8 CFU）。",
+      "section": "Prevention of Necrotizing Enterocolitis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "坏死性小肠结肠炎",
+        "早产儿",
+        "婴儿双歧杆菌BB-02",
+        "乳双歧杆菌BB-12",
+        "嗜热链球菌TH-4",
+        "益生菌组合"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-012",
+      "claim": "为降低早产儿坏死性小肠结肠炎风险，可能不推荐使用短双歧杆菌BBG-001，因为缺乏疗效。",
+      "section": "Prevention of Necrotizing Enterocolitis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "坏死性小肠结肠炎",
+        "早产儿",
+        "短双歧杆菌BBG-001",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-013",
+      "claim": "为降低早产儿坏死性小肠结肠炎风险，可能不推荐使用布拉氏酵母菌，因为缺乏疗效。",
+      "section": "Prevention of Necrotizing Enterocolitis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "坏死性小肠结肠炎",
+        "早产儿",
+        "布拉氏酵母菌",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-014",
+      "claim": "对于幽门螺杆菌感染儿童，可推荐在抗幽门螺杆菌治疗的同时使用布拉氏酵母菌，以提高根除率并减少胃肠道不良反应。",
+      "section": "Helicobacter pylori Infection",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "幽门螺杆菌感染",
+        "布拉氏酵母菌",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-015",
+      "claim": "对于母乳喂养的婴儿肠绞痛，可推荐使用罗伊氏乳杆菌DSM 17938（10^8 CFU/天，至少21天）。",
+      "section": "Infant Colic",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "母乳喂养",
+        "罗伊氏乳杆菌DSM 17938",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-016",
+      "claim": "对于母乳喂养的婴儿肠绞痛，可推荐使用乳双歧杆菌BB-12（10^8 CFU/天，21-28天）。",
+      "section": "Infant Colic",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "母乳喂养",
+        "乳双歧杆菌BB-12",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-017",
+      "claim": "对于儿童功能性腹痛，可推荐使用罗伊氏乳杆菌DSM 17938（10^8至2×10^8 CFU/天）以减少疼痛强度。",
+      "section": "Functional Abdominal Pain Disorders",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "罗伊氏乳杆菌DSM 17938",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-018",
+      "claim": "对于肠易激综合征患儿，可推荐使用鼠李糖乳杆菌GG（10^9至3×10^9 CFU，每日两次）以减少疼痛频率和强度。",
+      "section": "Functional Abdominal Pain Disorders",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "肠易激综合征",
+        "鼠李糖乳杆菌GG",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-019",
+      "claim": "对于儿童功能性便秘，可能不推荐使用益生菌作为单一或辅助治疗，因为缺乏疗效。",
+      "section": "Functional Constipation",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性便秘",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-020",
+      "claim": "应劝阻使用无健康益处的益生菌。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "无益"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-probiotics-f-021",
+      "claim": "对于儿童急性胃肠炎，推荐使用鼠李糖乳杆菌GG（L rhamnosus GG ATCC 53103），剂量≥10^10 CFU/天，疗程5-7天，可减少腹泻持续时间、住院时间和粪便排出量。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "鼠李糖乳杆菌GG",
+        "急性胃肠炎",
+        "儿童",
+        "腹泻持续时间",
+        "剂量"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-022",
+      "claim": "对于儿童急性胃肠炎，推荐使用布拉氏酵母菌（S boulardii），剂量250-750 mg/天，疗程5-7天，可减少腹泻持续时间。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "布拉氏酵母菌",
+        "急性胃肠炎",
+        "儿童",
+        "腹泻持续时间"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-023",
+      "claim": "对于儿童急性胃肠炎，推荐使用罗伊氏乳杆菌DSM 17938（L reuteri DSM 17938），剂量1×10^8至4×10^8 CFU/天，疗程5天，可减少腹泻持续时间。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "罗伊氏乳杆菌",
+        "急性胃肠炎",
+        "儿童",
+        "腹泻持续时间"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-024",
+      "claim": "对于儿童急性胃肠炎，推荐使用鼠李糖乳杆菌19070-2和罗伊氏乳杆菌DSM 12246的联合制剂，各剂量2×10^10 CFU，疗程5天，可减少腹泻持续时间。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "鼠李糖乳杆菌19070-2",
+        "罗伊氏乳杆菌DSM 12246",
+        "急性胃肠炎",
+        "儿童",
+        "联合制剂"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-025",
+      "claim": "对于儿童急性胃肠炎，不应推荐使用瑞士乳杆菌R0052和鼠李糖乳杆菌R0011的联合制剂，因缺乏疗效。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "瑞士乳杆菌R0052",
+        "鼠李糖乳杆菌R0011",
+        "急性胃肠炎",
+        "儿童",
+        "缺乏疗效"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-026",
+      "claim": "对于儿童急性胃肠炎，不建议使用克劳氏芽孢杆菌菌株O/C、SIN、N/R和T，因缺乏疗效。",
+      "section": "Treatment of Acute Gastroenteritis",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "克劳氏芽孢杆菌",
+        "急性胃肠炎",
+        "儿童",
+        "缺乏疗效"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-027",
+      "claim": "为预防儿童抗生素相关性腹泻，可推荐高剂量（≥5×10^9 CFU/天）的布拉氏酵母菌或鼠李糖乳杆菌GG，从抗生素治疗开始时同时使用。",
+      "section": "Prevention of AAD",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "抗生素相关性腹泻",
+        "布拉氏酵母菌",
+        "鼠李糖乳杆菌GG",
+        "儿童",
+        "预防"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-028",
+      "claim": "对于预防儿童院内腹泻，可推荐鼠李糖乳杆菌GG（至少10^9 CFU/天）在整个住院期间使用。",
+      "section": "Prevention of Nosocomial Diarrhea",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "鼠李糖乳杆菌GG",
+        "院内腹泻",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-029",
+      "claim": "不建议使用罗伊氏乳杆菌DSM 17938预防儿童院内腹泻。",
+      "section": "Prevention of Nosocomial Diarrhea",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "罗伊氏乳杆菌DSM 17938",
+        "院内腹泻",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-030",
+      "claim": "为降低早产儿坏死性小肠结肠炎（NEC）风险，可推荐使用鼠李糖乳杆菌GG ATCC53103（剂量1×10^9至6×10^9 CFU）。",
+      "section": "Prevention of NEC",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "鼠李糖乳杆菌GG",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-031",
+      "claim": "为降低早产儿NEC风险，可推荐使用婴儿双歧杆菌BB-02、乳双歧杆菌BB-12和嗜热链球菌TH-4的联合制剂（每种菌株3.0-3.5×10^8 CFU）。",
+      "section": "Prevention of NEC",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿双歧杆菌BB-02",
+        "乳双歧杆菌BB-12",
+        "嗜热链球菌TH-4",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-032",
+      "claim": "由于证据不足，对于罗伊氏乳杆菌DSM 17938在早产儿NEC预防中无法做出推荐。",
+      "section": "Prevention of NEC",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "罗伊氏乳杆菌DSM 17938",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-033",
+      "claim": "由于证据不足，对于两歧双歧杆菌NCDO 1453和嗜酸乳杆菌NCDO 1748的联合制剂在早产儿NEC预防中无法做出推荐。",
+      "section": "Prevention of NEC",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "两歧双歧杆菌",
+        "嗜酸乳杆菌",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-034",
+      "claim": "由于缺乏疗效，不建议使用短双歧杆菌BBG-001预防早产儿NEC。",
+      "section": "Prevention of NEC",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "短双歧杆菌BBG-001",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-035",
+      "claim": "由于缺乏疗效，不建议使用布拉氏酵母菌预防早产儿NEC。",
+      "section": "Prevention of NEC",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "布拉氏酵母菌",
+        "NEC",
+        "早产儿"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-036",
+      "claim": "在儿童幽门螺杆菌感染中，可推荐在根除治疗同时使用布拉氏酵母菌以提高根除率并减少治疗相关胃肠道不良反应。",
+      "section": "H pylori Infection",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "布拉氏酵母菌",
+        "幽门螺杆菌",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-037",
+      "claim": "由于证据不足，对于溃疡性结肠炎患儿，目前无法对任何益生菌的使用做出推荐。",
+      "section": "Inflammatory Bowel Diseases",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "溃疡性结肠炎",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "7-9"
+    },
+    {
+      "id": "E-probiotics-f-038",
+      "claim": "不能就目前研究的益生菌用于儿童克罗恩病的治疗作出推荐。",
+      "section": "Crohn Disease",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "克罗恩病",
+        "益生菌",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-039",
+      "claim": "对于母乳喂养的婴儿肠绞痛，医护人员可推荐使用鼠李糖乳杆菌DSM 17938（每日10^8 CFU，至少21天）以缓解症状。",
+      "section": "Infant Colic",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "鼠李糖乳杆菌DSM 17938",
+        "母乳喂养",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-040",
+      "claim": "对于配方奶喂养的婴儿肠绞痛，不能就使用鼠李糖乳杆菌DSM 17938作出推荐。",
+      "section": "Infant Colic",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "鼠李糖乳杆菌DSM 17938",
+        "配方奶喂养",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-041",
+      "claim": "对于母乳喂养的婴儿肠绞痛，医护人员可推荐使用动物双歧杆菌乳亚种BB-12（每日10^8 CFU，21-28天）以缓解症状。",
+      "section": "Infant Colic",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "动物双歧杆菌乳亚种BB-12",
+        "母乳喂养",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-042",
+      "claim": "不能就目前研究的任何益生菌用于预防婴儿肠绞痛作出推荐。",
+      "section": "Infant Colic",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿肠绞痛",
+        "预防",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-043",
+      "claim": "对于功能性腹痛患儿，医护人员可推荐使用鼠李糖乳杆菌DSM 17938（每日10^8-2×10^8 CFU）以减轻疼痛强度。",
+      "section": "Functional Abdominal Pain Disorders",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "鼠李糖乳杆菌DSM 17938",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-044",
+      "claim": "对于肠易激综合征患儿，医护人员可推荐使用鼠李糖乳杆菌GG（每日10^9-3×10^9 CFU，每日两次）以减少疼痛频率和强度。",
+      "section": "Functional Abdominal Pain Disorders",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "肠易激综合征",
+        "鼠李糖乳杆菌GG",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-045",
+      "claim": "对于儿童功能性便秘，医护人员不应推荐使用目前评估的任何益生菌作为单一或辅助治疗。",
+      "section": "Functional Constipation",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性便秘",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-046",
+      "claim": "不能就益生菌用于儿童乳糜泻作出推荐。",
+      "section": "Celiac Disease",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "乳糜泻",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-047",
+      "claim": "不能就益生菌用于小肠细菌过度生长的治疗或预防作出推荐。",
+      "section": "Small Intestinal Bacterial Overgrowth",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "小肠细菌过度生长",
+        "益生菌",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-probiotics-f-048",
+      "claim": "不能就益生菌用于儿童胰腺炎的管理作出推荐。",
+      "section": "Pancreatitis",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "胰腺炎",
+        "儿童",
+        "益生菌"
+      ],
+      "source_doc": "Probiotics for the Management of Pediatric Gastrointestinal Disorders",
+      "org": "欧洲儿童胃肠肝病营养学会 (ESPGHAN)",
+      "year": "2022",
+      "url": "https://afpa.org/content/uploads/2025/01/J-pediatr-gastroenterol-nutr-2022-Szajewska-Probiotics-for-the-Management-of-Pediatric-Gastrointestinal-Disorders.pdf",
+      "page": "10-12"
+    }
+  ]
+}

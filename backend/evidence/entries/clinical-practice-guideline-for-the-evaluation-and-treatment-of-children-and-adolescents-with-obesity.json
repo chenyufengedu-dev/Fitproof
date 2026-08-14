@@ -1,0 +1,1776 @@
+{
+  "doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+  "org": "美国儿科学会 (AAP)",
+  "year": "2023",
+  "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+  "complete": true,
+  "done_windows": 34,
+  "count": 100,
+  "entries": [
+    {
+      "id": "E-clinical-pra-001",
+      "claim": "超重和肥胖儿童从以儿童为中心、家庭为基础的健康行为和生活方式治疗中获益。",
+      "section": "II. APPROACH",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "健康行为和生活方式治疗",
+        "以家庭为中心",
+        "生活方式干预"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-clinical-pra-002",
+      "claim": "由于肥胖是一种慢性疾病，随时间推移影响加剧，应尽早开始并纵向持续儿童期、青春期和青年期的识别与治疗，采用生命历程方法。",
+      "section": "II. APPROACH",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "生命历程方法",
+        "早期干预",
+        "慢性病管理",
+        "纵向治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-clinical-pra-003",
+      "claim": "使用人物优先语言，如“儿童患有肥胖症”而非“肥胖儿童”，以减少体重污名。",
+      "section": "Weight Bias and Stigma Considerations",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "人物优先语言",
+        "体重污名",
+        "儿科",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-clinical-pra-004",
+      "claim": "儿科医生和健康保健提供者应首先发现并解决自己对肥胖儿童的态度偏见。",
+      "section": "Weight Bias and Stigma Considerations",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "体重偏见",
+        "儿科医生",
+        "自我反思",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-clinical-pra-005",
+      "claim": "为减少体重污名，临床环境应使用合适尺寸的办公家具、合适容量的医疗设备、包容性图像，并避免污名化语言。",
+      "section": "Weight Bias and Stigma Considerations",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "体重污名",
+        "临床环境",
+        "医疗设备",
+        "包容性",
+        "儿科"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "4-6"
+    },
+    {
+      "id": "E-clinical-pra-006",
+      "claim": "儿科医生和其他初级卫生保健提供者应至少每年一次测量所有2至18岁儿童的身高和体重，计算BMI，并使用年龄和性别特定的CDC生长图或严重肥胖儿童生长图来评估BMI百分位数，以筛查超重、肥胖和严重肥胖。",
+      "section": "Diagnosis and Measurement",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "肥胖筛查",
+        "BMI",
+        "儿童",
+        "体重管理"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-clinical-pra-007",
+      "claim": "肥胖预防和管理工作应常规包括医疗提供者筛查BMI、食品安全和社会健康决定因素，并增加获得循证儿科体重管理项目和食品援助资源，以减轻未来影响。",
+      "section": "Epidemiology of Childhood and Adolescent Obesity",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "肥胖预防",
+        "BMI筛查",
+        "食品安全",
+        "社会健康决定因素"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-clinical-pra-008",
+      "claim": "For children and adolescents aged 2 to 18 years, CDC Growth Charts are recommended for clinically tracking BMI patterns.",
+      "section": "A. Use of BMI as a Screening and Diagnosis Tool",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "BMI",
+        "生长曲线",
+        "儿童",
+        "青少年"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-clinical-pra-009",
+      "claim": "USPSTF recommends annual obesity screening using BMI for children aged 6 years and older, with referral to comprehensive, intensive, family-based behavioral treatment.",
+      "section": "B. The Clinical Utility of BMI",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "BMI筛查",
+        "儿童肥胖",
+        "行为治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-clinical-pra-010",
+      "claim": "Bright Futures recommends annual assessment of BMI along with dietary nutrition and physical activity counseling for children starting at age 2 years.",
+      "section": "B. The Clinical Utility of BMI",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "BMI",
+        "膳食",
+        "体力活动",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-clinical-pra-011",
+      "claim": "This CPG recommends referral to evidence-based weight management interventions for all children 2 years and older with BMI ≥ 95th percentile.",
+      "section": "B. The Clinical Utility of BMI",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "体重管理",
+        "转诊",
+        "儿童肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-clinical-pra-012",
+      "claim": "Pediatricians should perform initial and longitudinal assessment of individual, structural, and contextual risk factors for obesity to provide individualized treatment.",
+      "section": "VIII. RISK FACTORS FOR CHILD AND ADOLESCENT OVERWEIGHT AND OBESITY",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "风险因素",
+        "评估",
+        "个体化治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-clinical-pra-013",
+      "claim": "权威性喂养方式（responsive feeding）可预防儿童过度增重，权威性家庭中的儿童更健康。",
+      "section": "C.1. Parenting Styles",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "权威性喂养",
+        "育儿风格",
+        "儿童肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-014",
+      "claim": "家庭环境组织（如家庭常规和限制设置）与儿童肥胖呈负相关。",
+      "section": "C.2. Family Home Environment Organization",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "家庭环境",
+        "肥胖",
+        "家庭常规"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-015",
+      "claim": "含糖饮料（SSBs）与儿童肥胖正相关，AAP政策呼吁限制儿童和青少年饮用含糖饮料。",
+      "section": "C.3. Sugar-Sweetened Beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "含糖饮料",
+        "肥胖",
+        "政策"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-016",
+      "claim": "增加家庭餐频率与儿童肥胖风险降低相关。",
+      "section": "C.6. Dining Out and Family Meals",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "家庭餐",
+        "肥胖",
+        "饮食行为"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-017",
+      "claim": "每天屏幕时间超过2小时与儿童超重/肥胖风险增加42%相关。",
+      "section": "C.7. Screen Time",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "屏幕时间",
+        "肥胖",
+        "电视"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-018",
+      "claim": "睡眠时间短（≤10小时）与13岁以下儿童超重/肥胖风险增加76%相关。",
+      "section": "C.9. Sleep Duration",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "睡眠",
+        "肥胖",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-019",
+      "claim": "暴露于环境烟草烟雾（ETS）的儿童比未暴露者BMI更高。",
+      "section": "C.10. Environmental Smoke Exposure",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "烟草烟雾",
+        "肥胖",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-020",
+      "claim": "产前心理压力与儿童和青少年肥胖风险增加相关。",
+      "section": "C.11. Psychosocial Stress",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "心理压力",
+        "产前",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-021",
+      "claim": "累积的不良童年经历（ACEs）使儿童超重/肥胖风险加倍。",
+      "section": "C.12. Adverse Childhood Experiences",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "不良童年经历",
+        "肥胖",
+        "压力"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "19-21"
+    },
+    {
+      "id": "E-clinical-pra-022",
+      "claim": "早发性严重肥胖和食欲亢进是区分遗传性肥胖的两个临床特征。",
+      "section": "Genetic Disorders of Obesity",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "遗传性肥胖",
+        "早发性肥胖",
+        "食欲亢进"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-023",
+      "claim": "孕前母亲或父亲肥胖可能通过表观遗传改变增加后代超重或肥胖的风险。",
+      "section": "Epigenetic Factors",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "表观遗传",
+        "孕前肥胖",
+        "后代肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-024",
+      "claim": "父母体重是儿童肥胖的强预测因子，若至少一方肥胖，儿童风险最高。",
+      "section": "Parental Obesity",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "父母肥胖",
+        "儿童肥胖",
+        "风险因素"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-025",
+      "claim": "母亲肥胖使后代成年肥胖风险增加一倍以上。",
+      "section": "Parental Obesity",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "母亲肥胖",
+        "成年肥胖",
+        "风险"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-026",
+      "claim": "妊娠期糖尿病与儿童肥胖相关，调整混杂因素后比值比为1.6至2.8。",
+      "section": "Gestational Diabetes",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "妊娠期糖尿病",
+        "儿童肥胖",
+        "比值比"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-027",
+      "claim": "子宫内暴露于烟草烟雾的儿童发生肥胖的风险约为未暴露儿童的1.9倍。",
+      "section": "Maternal Smoking",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "孕期吸烟",
+        "儿童肥胖",
+        "风险"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-028",
+      "claim": "母乳喂养与生命第一年超重风险呈负相关，且独立于母亲BMI和社会经济地位。",
+      "section": "Early Breastfeeding Cessation and Formula Feeding",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "母乳喂养",
+        "超重",
+        "婴儿"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-029",
+      "claim": "从出生到2岁期间快速增重的儿童，儿童或成年期超重或肥胖的可能性高达3.6倍。",
+      "section": "Rapid Weight Gain During Infancy and Early Childhood",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "快速增重",
+        "婴儿",
+        "肥胖风险"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-030",
+      "claim": "在美国，患有自闭症谱系障碍的儿童青少年肥胖风险比无ASD者高43.7%。",
+      "section": "Children With Autism Spectrum Disorder",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "自闭症谱系障碍",
+        "儿童肥胖",
+        "风险"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-clinical-pra-031",
+      "claim": "对于2至18岁超重或肥胖（BMI≥85th百分位）的儿童，应通过全面的病史、心理和行为健康筛查、社会健康决定因素评估、体格检查和诊断研究来评估肥胖相关合并症。",
+      "section": "IX. Evaluation of the Pediatric Patient with Overweight or Obesity",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "合并症评估",
+        "BMI",
+        "筛查"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "25-27"
+    },
+    {
+      "id": "E-clinical-pra-032",
+      "claim": "评估肥胖儿童时，应采集完整的用药史，包括与体重增加相关的药物。",
+      "section": "B. History and Assessment",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "用药史",
+        "药物性体重增加"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-clinical-pra-033",
+      "claim": "评估肥胖儿童时，应进行社会史评估，以识别社会健康决定因素。",
+      "section": "B.1. Social History",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "社会史",
+        "社会健康决定因素"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-clinical-pra-034",
+      "claim": "评估肥胖儿童时，应使用多种工具评估营养摄入和体力活动。",
+      "section": "B.2. Nutrition and Physical Activity History",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "营养评估",
+        "体力活动评估"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-clinical-pra-035",
+      "claim": "评估肥胖儿童时，应筛查行为健康问题，包括抑郁、焦虑和进食障碍。",
+      "section": "B.3. Assessments for Behavioral Health and Disordered Eating Concerns",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "行为健康",
+        "进食障碍",
+        "抑郁",
+        "焦虑"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-clinical-pra-036",
+      "claim": "肥胖儿童的体格检查应重点关注特定体征，如黑棘皮症、紫纹和视乳头水肿。",
+      "section": "B.3.a. Physical Evaluation",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "体格检查",
+        "黑棘皮症",
+        "紫纹",
+        "视乳头水肿"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-clinical-pra-037",
+      "claim": "对于超重和肥胖儿童，应进行心肺检查以评估相关损害。",
+      "section": "Physical Examination",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "心肺检查",
+        "体格检查"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-038",
+      "claim": "应通过触诊和听诊评估肝脏大小。",
+      "section": "Physical Examination",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "肝脏检查",
+        "体格检查"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-039",
+      "claim": "应进行泌尿生殖系统检查以评估青春期状态和生殖器外观，寻找内分泌或遗传异常的迹象。",
+      "section": "Physical Examination",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "泌尿生殖系统检查",
+        "青春期",
+        "体格检查"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-040",
+      "claim": "动机性访谈为评估和讨论患者改变意愿提供了有用的框架。",
+      "section": "Assessment of Patient Readiness to Change",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "动机性访谈",
+        "改变意愿",
+        "肥胖治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-041",
+      "claim": "应提醒照护者，儿童超重或肥胖的存在并不表示养育不当。",
+      "section": "Assessment of Patient Readiness to Change",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "养育",
+        "耻辱感"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-042",
+      "claim": "儿童和青少年肥胖患者合并症的患病率增加，且成年后肥胖、发病和早逝的风险更高。",
+      "section": "Comorbidities of Pediatric Overweight and Obesity",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "合并症",
+        "风险"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-043",
+      "claim": "肥胖及其相关合并症应同时通过肥胖专项病史、系统回顾、家族史、社会史、体格检查和实验室检查进行评估。",
+      "section": "Comorbidities of Pediatric Overweight and Obesity",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "合并症",
+        "评估"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "31-33"
+    },
+    {
+      "id": "E-clinical-pra-044",
+      "claim": "对于10岁及以上肥胖儿童（BMI≥95百分位），应评估血脂异常、糖代谢异常和肝功能异常；对于超重儿童（BMI≥85至<95百分位），应评估血脂异常。",
+      "section": "KAS 3",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "血脂",
+        "糖代谢",
+        "肝功能"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-clinical-pra-045",
+      "claim": "对于10岁及以上超重儿童，若存在T2DM或NAFLD风险因素，可评估糖代谢和肝功能；对于2至9岁肥胖儿童，可评估血脂异常。",
+      "section": "KAS 3.1",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "超重",
+        "血脂",
+        "风险评估"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-clinical-pra-046",
+      "claim": "儿童超重或肥胖与其合并症应同时治疗。",
+      "section": "KAS 4",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "合并症",
+        "治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-clinical-pra-047",
+      "claim": "对于10岁及以上的超重或肥胖儿童，应通过空腹血脂谱评估血脂异常。",
+      "section": "C1. Dyslipidemia",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "血脂异常",
+        "空腹血脂谱"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "37-39"
+    },
+    {
+      "id": "E-clinical-pra-048",
+      "claim": "对于10岁及以上的肥胖儿童，应使用空腹血糖、口服葡萄糖耐量试验或糖化血红蛋白评估糖尿病前期和2型糖尿病。",
+      "section": "C2. Prediabetes and Type 2 Diabetes Mellitus",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "糖尿病前期",
+        "2型糖尿病",
+        "糖化血红蛋白"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "37-39"
+    },
+    {
+      "id": "E-clinical-pra-049",
+      "claim": "Pediatricians and other PHCPs should evaluate for NAFLD by obtaining an alanine transaminase (ALT) test.",
+      "section": "C.3. Nonalcoholic Fatty Liver Disease",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "NAFLD",
+        "ALT",
+        "儿童",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "40-42"
+    },
+    {
+      "id": "E-clinical-pra-050",
+      "claim": "For children and adolescents with overweight or obesity, pediatricians should measure blood pressure at every visit starting at 3 years of age to evaluate for hypertension.",
+      "section": "C.4. Hypertension",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "高血压",
+        "血压测量",
+        "儿童",
+        "肥胖",
+        "超重"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "40-42"
+    },
+    {
+      "id": "E-clinical-pra-051",
+      "claim": "If results are unequivocally high and indicative of type 2 diabetes mellitus, repeat confirmatory testing is not recommended; treatment should be initiated instead.",
+      "section": "C.2. Prediabetes and Type 2 Diabetes Mellitus",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "2型糖尿病",
+        "诊断",
+        "确认测试",
+        "儿童",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "40-42"
+    },
+    {
+      "id": "E-clinical-pra-052",
+      "claim": "For children 2 to 9 years of age with severe obesity, pediatricians may consider evaluating for NAFLD by obtaining an ALT level every 2 years.",
+      "section": "C.3. Nonalcoholic Fatty Liver Disease",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "NAFLD",
+        "ALT",
+        "幼儿",
+        "严重肥胖",
+        "筛查"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "40-42"
+    },
+    {
+      "id": "E-clinical-pra-053",
+      "claim": "对肥胖儿童青少年，应获取睡眠史以评估阻塞性睡眠呼吸暂停（OSA），包括打鼾、日间嗜睡、夜间遗尿、晨起头痛和注意力不集中等症状。",
+      "section": "D.1. Obstructive Sleep Apnea",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "阻塞性睡眠呼吸暂停",
+        "睡眠评估",
+        "打鼾"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "43-45"
+    },
+    {
+      "id": "E-clinical-pra-054",
+      "claim": "对于有肥胖且有至少1种呼吸紊乱症状的儿童青少年，应进行多导睡眠图检查以诊断OSA。",
+      "section": "D.1. Obstructive Sleep Apnea",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "阻塞性睡眠呼吸暂停",
+        "多导睡眠图"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "43-45"
+    },
+    {
+      "id": "E-clinical-pra-055",
+      "claim": "对于肥胖的女性青少年，应评估月经不规则和高雄激素血症（如多毛、痤疮）以评估多囊卵巢综合征（PCOS）风险。",
+      "section": "D.3. Polycystic Ovarian Syndrome",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "青少年",
+        "多囊卵巢综合征",
+        "高雄激素血症",
+        "月经不规则"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "43-45"
+    },
+    {
+      "id": "E-clinical-pra-056",
+      "claim": "应监测肥胖儿童青少年的抑郁症状，并对12岁及以上青少年每年使用正式自评工具进行抑郁评估。",
+      "section": "D.4. Depression",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "儿童",
+        "抑郁",
+        "筛查",
+        "青少年"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "43-45"
+    },
+    {
+      "id": "E-clinical-pra-057",
+      "claim": "治疗超重（BMI≥85百分位）或肥胖（BMI≥95百分位）的儿童青少年应遵循医疗之家和慢病护理模式，采用家庭中心和非污名化方法，承认肥胖的生物、社会、结构性驱动因素。",
+      "section": "KAS 9",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "超重",
+        "医疗之家",
+        "慢病护理",
+        "非污名化"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "46-48"
+    },
+    {
+      "id": "E-clinical-pra-058",
+      "claim": "若怀疑儿童发生股骨头骨骺滑脱（SCFE），应立即限制活动、避免负重并使用拐杖，并紧急转诊至骨科医生。",
+      "section": "D.5.b. Slipped Capital Femoral Epiphysis",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "SCFE",
+        "股骨头骨骺滑脱",
+        "肥胖并发症",
+        "儿童骨科"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "46-48"
+    },
+    {
+      "id": "E-clinical-pra-059",
+      "claim": "对于出现新发头痛或进行性头痛且伴有显著体重增加（尤其是体重的5%-15%且在12-18个月内）的儿童，特别是女性，应高度怀疑特发性颅内高压（IIH）。",
+      "section": "D.5.c. Idiopathic Intracranial Hypertension",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "IIH",
+        "特发性颅内高压",
+        "头痛",
+        "体重增加",
+        "儿童肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "46-48"
+    },
+    {
+      "id": "E-clinical-pra-060",
+      "claim": "儿科医生和其他初级卫生保健提供者应使用动机性访谈（MI）来参与患者和家庭治疗超重（BMI≥85百分位至<95百分位）和肥胖（BMI≥95百分位）。",
+      "section": "C.1. Motivational Interviewing and Weight Status",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "动机性访谈",
+        "超重",
+        "肥胖",
+        "儿童",
+        "BMI"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "49-51"
+    },
+    {
+      "id": "E-clinical-pra-061",
+      "claim": "对于6岁及以上超重或肥胖儿童，应提供或转诊至强化健康行为与生活方式治疗（IHBLT），包含≥26小时面对面、家庭为基础、多组分治疗，持续3-12个月。",
+      "section": "D. Intensive Health Behavior and Lifestyle Treatment (IHBLT) / KAS 11",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "强化行为治疗",
+        "IHBLT",
+        "剂量",
+        "26小时"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-062",
+      "claim": "对于2至5岁超重或肥胖儿童，可提供或转诊至强化健康行为与生活方式治疗（Grade C）。",
+      "section": "KAS 11",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "学前教育",
+        "强化行为治疗",
+        "2-5岁"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-063",
+      "claim": "干预时间少于3个月未显示有效性。",
+      "section": "D.1. Evidence for Effectiveness",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "治疗时长",
+        "有效性",
+        "3个月"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-064",
+      "claim": "更高剂量的治疗（≥52小时接触时间）表现出更强且一致的BMI降低效果。",
+      "section": "D.1. Evidence for Effectiveness",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "剂量",
+        "BMI",
+        "52小时",
+        "疗效"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-065",
+      "claim": "没有证据表明肥胖治疗会损害患者的生活质量。",
+      "section": "D.1. Evidence for Effectiveness",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "生活质量",
+        "安全性",
+        "无损伤"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-066",
+      "claim": "没有证据支持对已发展为肥胖的儿童采取观望等待或延迟治疗。",
+      "section": "D.3. Prompt IHBLT",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "及时治疗",
+        "延误",
+        "观望等待"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-067",
+      "claim": "没有证据支持根据肥胖严重程度、合并症或准备程度选择性转诊至肥胖治疗项目。",
+      "section": "D.3. Prompt IHBLT",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "转诊标准",
+        "选择性转诊",
+        "严重程度"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "52-54"
+    },
+    {
+      "id": "E-clinical-pra-068",
+      "claim": "对所有超重和肥胖儿童，应提供最佳可用的强化治疗。",
+      "section": "Consensus Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "超重",
+        "肥胖",
+        "强化治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "55-57"
+    },
+    {
+      "id": "E-clinical-pra-069",
+      "claim": "儿科医生应与其他专科医生和社区项目合作。",
+      "section": "Consensus Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "合作",
+        "社区资源",
+        "肥胖治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "55-57"
+    },
+    {
+      "id": "E-clinical-pra-070",
+      "claim": "推荐减少含糖饮料摄入，每天添加糖不超过25克，每周不超过1份含糖饮料。",
+      "section": "Specific Health Behavior Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "含糖饮料",
+        "添加糖",
+        "肥胖",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "55-57"
+    },
+    {
+      "id": "E-clinical-pra-071",
+      "claim": "推荐儿童每天进行60分钟中等至剧烈运动。",
+      "section": "Specific Health Behavior Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "体力活动",
+        "运动",
+        "儿童",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "55-57"
+    },
+    {
+      "id": "E-clinical-pra-072",
+      "claim": "推荐减少久坐行为（屏幕时间），18月以下儿童不接触媒体，2-5岁每天不超过1小时，大儿童由家长监控合理使用。",
+      "section": "Specific Health Behavior Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "久坐",
+        "屏幕时间",
+        "儿童",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "55-57"
+    },
+    {
+      "id": "E-clinical-pra-073",
+      "claim": "对于8至11岁肥胖儿童，儿科医生可提供减重药物治疗，作为健康行为和生活治疗的辅助手段。",
+      "section": "I. Use of Pharmacotherapy",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "减重药物",
+        "8-11岁"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "58-60"
+    },
+    {
+      "id": "E-clinical-pra-074",
+      "claim": "对于12岁及以上肥胖青少年（BMI≥95百分位），儿科医生应提供减重药物治疗，作为健康行为和生活治疗的辅助手段。",
+      "section": "I. Use of Pharmacotherapy",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "青少年肥胖",
+        "减重药物",
+        "12岁及以上"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "58-60"
+    },
+    {
+      "id": "E-clinical-pra-075",
+      "claim": "13岁及以上重度肥胖（BMI≥120%的95百分位）青少年应转诊至综合多学科代谢和减重手术中心进行评估。",
+      "section": "J. Pediatric Metabolic and Bariatric Surgery",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "代谢和减重手术",
+        "青少年重度肥胖",
+        "外科转诊"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "61-63"
+    },
+    {
+      "id": "E-clinical-pra-076",
+      "claim": "肥胖是一种慢性疾病，类似于哮喘和糖尿病。",
+      "section": "Systems of Care for Children With Overweight and Obesity",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "慢性病",
+        "哮喘",
+        "糖尿病"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-077",
+      "claim": "所有为肥胖儿童和青少年及其家庭提供的护理都应尽可能基于证据。",
+      "section": "Provision of Evidence-based Care",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "循证护理",
+        "肥胖",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-078",
+      "claim": "儿童和青少年肥胖患者应制定向成人初级保健提供者过渡的计划。",
+      "section": "Transition to Adult Primary Care Providers",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "过渡计划",
+        "肥胖",
+        "成人保健"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-079",
+      "claim": "肥胖儿童应在医疗之家中得到照护。",
+      "section": "Medical Home",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "医疗之家",
+        "肥胖",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-080",
+      "claim": "年龄不是代谢与减重手术资格的唯一决定因素。",
+      "section": "Metabolic and Bariatric Surgery",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "年龄",
+        "减重手术",
+        "资格"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-081",
+      "claim": "转诊到综合代谢与减重手术中心并不意味着孩子最终会接受手术。",
+      "section": "Metabolic and Bariatric Surgery",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "转诊",
+        "减重手术",
+        "决策"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "64-66"
+    },
+    {
+      "id": "E-clinical-pra-082",
+      "claim": "AAP应推动支持性支付和公共卫生政策以覆盖儿童肥胖综合防治。",
+      "section": "Policy Level",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "支付政策",
+        "公共卫生政策",
+        "保险覆盖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "67-69"
+    },
+    {
+      "id": "E-clinical-pra-083",
+      "claim": "多部门合作应扩大循证儿童肥胖治疗项目和社区资源，并解决健康的社会决定因素。",
+      "section": "Community and Population Level",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "社区资源",
+        "多部门合作",
+        "健康的社会决定因素"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "67-69"
+    },
+    {
+      "id": "E-clinical-pra-084",
+      "claim": "医疗系统应在电子健康记录中广泛实施临床决策支持系统以促进儿童肥胖管理。",
+      "section": "Practice and Provider Level",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "电子健康记录",
+        "临床决策支持",
+        "儿童肥胖",
+        "最佳实践"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "67-69"
+    },
+    {
+      "id": "E-clinical-pra-085",
+      "claim": "医疗培训项目应加强肥胖相关教育，包括生理基础、动机访谈、体重偏见和社会决定因素。",
+      "section": "Practice and Provider Level",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "医学教育",
+        "肥胖培训",
+        "动机访谈",
+        "体重偏见",
+        "健康的社会决定因素"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "67-69"
+    },
+    {
+      "id": "E-clinical-pra-086",
+      "claim": "儿童和青少年一旦诊断为肥胖，应立即接受强化肥胖治疗。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "儿童肥胖",
+        "立即治疗",
+        "强化治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-087",
+      "claim": "对于10岁及以上肥胖儿童（BMI≥95百分位），应评估血脂异常、糖代谢异常和肝功能异常。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "合并症评估",
+        "血脂",
+        "血糖",
+        "肝功能"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-088",
+      "claim": "对于10岁及以上超重儿童（BMI 85至<95百分位），应评估血脂异常。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "超重",
+        "血脂异常",
+        "评估"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-089",
+      "claim": "对于10岁及以上超重儿童，若存在2型糖尿病或NAFLD风险因素，可评估糖代谢异常和肝功能。",
+      "section": "KAS 3.1",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "超重",
+        "2型糖尿病",
+        "NAFLD",
+        "血糖",
+        "肝功能"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-090",
+      "claim": "对于2至9岁肥胖儿童，可评估血脂异常。",
+      "section": "KAS 3.1",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "儿童",
+        "肥胖",
+        "血脂评估"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-091",
+      "claim": "对于超重和肥胖儿童，从3岁起每次就诊均应测量血压以评估高血压。",
+      "section": "KAS 8",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "高血压",
+        "血压测量",
+        "儿童"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-092",
+      "claim": "肥胖及其合并症应同时治疗。",
+      "section": "KAS 4",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "肥胖",
+        "合并症",
+        "同时治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-093",
+      "claim": "对于6岁及以上超重或肥胖儿童，应提供或转诊至强化健康行为及生活方式治疗（IHBLT）。",
+      "section": "KAS 11",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "IHBLT",
+        "行为治疗",
+        "儿童",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-094",
+      "claim": "对于2至5岁超重或肥胖儿童，可以提供或转诊至IHBLT。",
+      "section": "KAS 11",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "IHBLT",
+        "幼儿",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-095",
+      "claim": "最有效的IHBLT项目包括在2至12个月内提供至少26小时面对面、以家庭为基础的多组分治疗。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "IHBLT",
+        "有效剂量",
+        "面对面",
+        "家庭治疗"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-096",
+      "claim": "对于12岁及以上肥胖青少年，应提供减肥药物治疗作为IHBLT的辅助手段。",
+      "section": "KAS 12",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "青少年",
+        "减肥药",
+        "药物治疗",
+        "肥胖"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-097",
+      "claim": "对于13岁及以上重度肥胖青少年，应转诊至综合多学科儿科代谢与减重手术中心进行评估。",
+      "section": "KAS 13",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "青少年",
+        "重度肥胖",
+        "减重手术",
+        "转诊"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-098",
+      "claim": "动机访谈（MI）是实施儿童肥胖治疗的核心组成部分，用于与患者及家属沟通改变。",
+      "section": "KAS 10",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "动机访谈",
+        "行为改变",
+        "沟通"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-099",
+      "claim": "IHBLT应由初级保健提供者及其团队在儿科肥胖专科医生、联合健康提供者和社区合作伙伴的协作下提供。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "IHBLT",
+        "初级保健",
+        "团队协作"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    },
+    {
+      "id": "E-clinical-pra-100",
+      "claim": "如果无法获得IHBLT，初级保健提供者应提供尽可能高强度的健康行为及生活方式治疗。",
+      "section": "XV. CONCLUSION—PUTTING IT ALL TOGETHER",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "IHBLT",
+        "替代方案",
+        "HBLT"
+      ],
+      "source_doc": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2023",
+      "url": "https://www.hscsnhealthplan.org/sites/default/files/Obesity%20-%20AAP%202023%20CPG%20for%20the%20Eval%20%26%20Tx%20of%20Children%20%26%20Adolescents%20with%20Obesity.pdf",
+      "page": "70-72"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "doc": "Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients",
+  "org": "Cochrane 协作网",
+  "year": "2012",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22895963/",
+  "complete": true,
+  "done_windows": 8,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-garlic-for-t-001",
+      "claim": "现有证据不足以确定大蒜在降低高血压患者心血管发病率和死亡率方面是否优于安慰剂。",
+      "section": "Authors' conclusions",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "大蒜",
+        "高血压",
+        "心血管疾病",
+        "死亡率"
+      ],
+      "source_doc": "Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895963/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-garlic-for-t-002",
+      "claim": "基于有限数据，大蒜似乎能使高血压患者平均收缩压降低约10-12 mmHg、舒张压降低约6-9 mmHg，但证据不精确。",
+      "section": "Authors' conclusions",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "大蒜",
+        "高血压",
+        "血压降低"
+      ],
+      "source_doc": "Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895963/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-garlic-for-t-003",
+      "claim": "目前没有足够证据支持使用大蒜治疗高血压。",
+      "section": "Overall completeness and applicability of evidence",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "大蒜",
+        "高血压",
+        "血压降低",
+        "证据不足"
+      ],
+      "source_doc": "Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895963/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-garlic-for-t-004",
+      "claim": "目前没有足够证据表明大蒜能降低高血压患者的死亡率和心血管发病率。",
+      "section": "AUTHORS' CONCLUSIONS / Implications for practice",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "大蒜",
+        "高血压",
+        "死亡率",
+        "心血管发病率"
+      ],
+      "source_doc": "Garlic for the prevention of cardiovascular morbidity and mortality in hypertensive patients",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895963/",
+      "page": "13-15"
+    }
+  ]
+}

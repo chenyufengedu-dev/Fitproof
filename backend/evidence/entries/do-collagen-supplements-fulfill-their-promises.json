@@ -1,0 +1,30 @@
+{
+  "doc": "Do collagen supplements fulfill their promises?",
+  "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+  "year": "2025",
+  "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/do-collagen-supplements-fulfill-their-promises",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-do-collagen--001",
+      "claim": "胶原蛋白补充剂可能有助于改善皮肤弹性、强化头发和指甲、减轻关节疼痛、提升骨密度，并作为力量训练的一部分可能增加肌肉量。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "胶原蛋白",
+        "皮肤",
+        "关节",
+        "骨骼",
+        "肌肉"
+      ],
+      "source_doc": "Do collagen supplements fulfill their promises?",
+      "org": "哈佛医学院健康出版社 (Harvard Health Publishing)",
+      "year": "2025",
+      "url": "https://www.health.harvard.edu/healthy-aging-and-longevity/do-collagen-supplements-fulfill-their-promises",
+      "page": "1-3"
+    }
+  ]
+}

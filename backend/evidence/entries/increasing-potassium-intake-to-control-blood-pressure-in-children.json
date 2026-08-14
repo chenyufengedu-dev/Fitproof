@@ -1,0 +1,47 @@
+{
+  "doc": "Increasing potassium intake to control blood pressure in children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/potassium-bp-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-increasing-p-001",
+      "claim": "增加膳食钾摄入可帮助控制2-15岁儿童的血压。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "钾摄入",
+        "儿童",
+        "血压",
+        "膳食"
+      ],
+      "source_doc": "Increasing potassium intake to control blood pressure in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/potassium-bp-children",
+      "page": "1-3"
+    },
+    {
+      "id": "E-increasing-p-002",
+      "claim": "儿童钾摄入推荐量应根据成人至少90 mmol/天的标准，按能量需求下调。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "钾摄入量",
+        "儿童",
+        "能量需求",
+        "成人标准"
+      ],
+      "source_doc": "Increasing potassium intake to control blood pressure in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/potassium-bp-children",
+      "page": "1-3"
+    }
+  ]
+}

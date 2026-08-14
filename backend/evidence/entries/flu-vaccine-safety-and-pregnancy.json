@@ -1,0 +1,165 @@
+{
+  "doc": "Flu Vaccine Safety and Pregnancy",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2023",
+  "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+  "complete": true,
+  "done_windows": 2,
+  "count": 9,
+  "entries": [
+    {
+      "id": "E-flu-vaccine--001",
+      "claim": "CDC recommends annual flu vaccination for everyone ages 6 months and older.",
+      "section": "Available vaccines",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "流感疫苗",
+        "年度接种",
+        "推荐"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-flu-vaccine--002",
+      "claim": "Injectable flu vaccines do not contain live flu viruses.",
+      "section": "Types of flu vaccines",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "流感疫苗",
+        "注射疫苗",
+        "灭活"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-flu-vaccine--003",
+      "claim": "Health authorities do not prefer one flu vaccine over another; they recommend administering any age-appropriate flu vaccine.",
+      "section": "Common side effects",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "流感疫苗",
+        "疫苗选择",
+        "年龄适宜"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-flu-vaccine--004",
+      "claim": "Several studies support the safety of flu vaccination during pregnancy.",
+      "section": "Maternal and infant safety",
+      "strength": "一般共识",
+      "topics": [
+        "孕产与产后护理",
+        "流感疫苗",
+        "孕期安全",
+        "安全性"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-flu-vaccine--005",
+      "claim": "流感疫苗接种与流产之间没有关联。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "流感疫苗",
+        "流产",
+        "孕妇"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-flu-vaccine--006",
+      "claim": "6-23月龄儿童同时接种三价灭活流感疫苗和肺炎球菌结合疫苗，或同时接种三价灭活流感疫苗和白喉-破伤风-无细胞百日咳疫苗，会增加热性惊厥风险，但绝对风险很小。",
+      "section": "Febrile seizure",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "热性惊厥",
+        "流感疫苗",
+        "儿童",
+        "联合接种"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-flu-vaccine--007",
+      "claim": "美国许可的H1N1或季节性流感疫苗与嗜睡症无关。",
+      "section": "Narcolepsy after the 2009 H1N1 pandemic influenza vaccine",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "嗜睡症",
+        "H1N1疫苗",
+        "季节性流感疫苗"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-flu-vaccine--008",
+      "claim": "美国使用的含2009 H1N1病毒株的流感疫苗不增加嗜睡症风险。",
+      "section": "Narcolepsy after the 2009 H1N1 pandemic influenza vaccine",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "嗜睡症",
+        "2009 H1N1",
+        "流感疫苗"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "4-6"
+    },
+    {
+      "id": "E-flu-vaccine--009",
+      "claim": "含佐剂的pH1N1疫苗与嗜睡症无关。",
+      "section": "Narcolepsy after the 2009 H1N1 pandemic influenza vaccine",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "嗜睡症",
+        "佐剂疫苗",
+        "pH1N1"
+      ],
+      "source_doc": "Flu Vaccine Safety and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2023",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/flu.html",
+      "page": "4-6"
+    }
+  ]
+}

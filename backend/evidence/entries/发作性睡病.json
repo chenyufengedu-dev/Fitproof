@@ -1,0 +1,187 @@
+{
+  "doc": "发作性睡病",
+  "org": "默沙东诊疗手册大众版 (MSD Manual)",
+  "year": "2024",
+  "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+  "complete": true,
+  "done_windows": 1,
+  "count": 10,
+  "entries": [
+    {
+      "id": "E-发作性睡病-001",
+      "claim": "发作性睡病无法根治，但许多患者通过持续治疗可实现正常生活。",
+      "section": "发作性睡病的治疗",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "治疗",
+        "预后"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-002",
+      "claim": "症状轻的发作性睡病患者不需要药物治疗。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "轻度症状",
+        "药物治疗"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-003",
+      "claim": "有过猝倒的发作性睡病患者应尽量避免大笑、愤怒和恐惧等触发因素。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "猝倒",
+        "触发因素"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-004",
+      "claim": "无猝倒史的发作性睡病患者首选莫达非尼、阿莫达非尼、Solriamfetol或Pitolisant。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "药物治疗",
+        "莫达非尼",
+        "阿莫达非尼",
+        "Solriamfetol",
+        "Pitolisant"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-005",
+      "claim": "有猝倒史的发作性睡病患者首选羟丁酸治疗。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "羟丁酸",
+        "猝倒"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-006",
+      "claim": "孕妇不应服用莫达非尼，因为它可能导致严重的出生缺陷。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "莫达非尼",
+        "孕妇",
+        "出生缺陷"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-007",
+      "claim": "右旋安非他命和哌甲酯仅在其它发作性睡病药物无效或引起不可耐受的问题时使用。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "右旋安非他命",
+        "哌甲酯",
+        "二线治疗"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-008",
+      "claim": "40岁以上患者使用右旋安非他命或哌甲酯前需进行运动负荷试验以检查心脏病。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "右旋安非他命",
+        "哌甲酯",
+        "年龄",
+        "心脏病检查"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-009",
+      "claim": "发作性睡病的诊断不能仅凭症状，需要进行多导睡眠图和多重睡眠延迟测试。",
+      "section": "发作性睡病的诊断",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "诊断",
+        "多导睡眠图",
+        "多重睡眠延迟测试"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    },
+    {
+      "id": "E-发作性睡病-010",
+      "claim": "发作性睡病患者应保证夜间睡眠充足并每天下午相同时间午睡（小于30分钟）。",
+      "section": "发作性睡病的治疗",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "发作性睡病",
+        "睡眠管理",
+        "午睡"
+      ],
+      "source_doc": "发作性睡病",
+      "org": "默沙东诊疗手册大众版 (MSD Manual)",
+      "year": "2024",
+      "url": "https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/sleep-disorders/narcolepsy",
+      "page": "2-4"
+    }
+  ]
+}

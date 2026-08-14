@@ -1,0 +1,28 @@
+{
+  "doc": "Stretching to prevent or reduce muscle soreness after exercise",
+  "org": "Cochrane 协作网",
+  "year": "2011",
+  "url": "https://www.cochrane.org/evidence/CD004577_stretching-prevent-or-reduce-muscle-soreness-after-exercise",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-stretching-t-001",
+      "claim": "运动前后进行肌肉拉伸不能临床显著地减轻健康成人的延迟性肌肉酸痛。",
+      "section": "作者结论",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "肌肉拉伸",
+        "延迟性肌肉酸痛",
+        "运动恢复"
+      ],
+      "source_doc": "Stretching to prevent or reduce muscle soreness after exercise",
+      "org": "Cochrane 协作网",
+      "year": "2011",
+      "url": "https://www.cochrane.org/evidence/CD004577_stretching-prevent-or-reduce-muscle-soreness-after-exercise",
+      "page": "1-2"
+    }
+  ]
+}

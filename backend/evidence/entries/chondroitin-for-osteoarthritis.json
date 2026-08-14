@@ -1,0 +1,436 @@
+{
+  "doc": "Chondroitin for osteoarthritis",
+  "org": "Cochrane 协作网",
+  "year": "2015",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+  "complete": true,
+  "done_windows": 14,
+  "count": 24,
+  "entries": [
+    {
+      "id": "E-chondroitin--001",
+      "claim": "对于骨关节炎患者，软骨素在短期（<6个月）内改善疼痛的效果优于安慰剂，疼痛评分平均降低约10分（0-100分）。",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "软骨素",
+        "疼痛"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "9-11"
+    },
+    {
+      "id": "E-chondroitin--002",
+      "claim": "软骨素与安慰剂相比，发生严重不良事件的风险更低，绝对风险降低约3%。",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "不良事件",
+        "安全性"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "9-11"
+    },
+    {
+      "id": "E-chondroitin--003",
+      "claim": "对于骨关节炎患者，在大型高质量研究中，软骨素未能显著改善疼痛。",
+      "section": "结果",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "疼痛"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-chondroitin--004",
+      "claim": "软骨素较安慰剂能显著增加达到最小临床重要改善（MCII）的骨关节炎患者比例约6%。",
+      "section": "结果",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "最小临床重要改善"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-chondroitin--005",
+      "claim": "软骨素能显著减少骨关节炎患者的关节间隙宽度损失（放射学进展）。",
+      "section": "结果",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "关节间隙宽度"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-chondroitin--006",
+      "claim": "软骨素对骨关节炎患者的物理功能（如WOMAC功能评分）无显著改善效果。",
+      "section": "结果",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "物理功能"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-chondroitin--007",
+      "claim": "软骨素在患者总体评估（好至极好）方面显著优于安慰剂。",
+      "section": "结果",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "患者总体评估"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "33-35"
+    },
+    {
+      "id": "E-chondroitin--008",
+      "claim": "对于骨关节炎患者，使用软骨素与安慰剂相比在减轻疼痛方面无显著差异。",
+      "section": "CHONDROITIN SULFATE VERSUS PLACEBO",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "软骨素",
+        "疼痛",
+        "安慰剂"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "36-38"
+    },
+    {
+      "id": "E-chondroitin--009",
+      "claim": "长期使用软骨素与安慰剂相比，可降低严重不良事件风险。",
+      "section": "CHONDROITIN SULFATE VERSUS PLACEBO",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "软骨素",
+        "严重不良事件",
+        "长期"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "36-38"
+    },
+    {
+      "id": "E-chondroitin--010",
+      "claim": "对于骨关节炎患者，软骨素联合葡萄糖胺与安慰剂相比在减轻疼痛方面无显著差异。",
+      "section": "CHONDROITIN SULFATE PLUS GLUCOSAMINE VERSUS PLACEBO",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "软骨素",
+        "葡萄糖胺",
+        "疼痛",
+        "安慰剂"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "36-38"
+    },
+    {
+      "id": "E-chondroitin--011",
+      "claim": "对于骨关节炎患者，软骨素联合葡萄糖胺在改善疼痛方面优于NSAID治疗。",
+      "section": "CHONDROITIN SULFATE PLUS GLUCOSAMINE VERSUS NSAIDs CONTROL",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "骨关节炎",
+        "软骨素",
+        "葡萄糖胺",
+        "疼痛",
+        "NSAID"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "36-38"
+    },
+    {
+      "id": "E-chondroitin--012",
+      "claim": "对于骨关节炎患者，每日至少800 mg硫酸软骨素（可联合氨基葡萄糖）在低质量研究中显示能缓解疼痛，但在分配隐藏充分、样本量大于200、无药企资助的高质量研究中无显著益处。",
+      "section": "CHONDROITIN SULFATE ALONE OR WITH GLUCOSAMINE OR WITH OTHER SUPPLEMENT VERSUS PLACEBO OR CONTROL",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硫酸软骨素",
+        "骨关节炎",
+        "疼痛",
+        "证据质量"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-chondroitin--013",
+      "claim": "硫酸软骨素（单独或联合氨基葡萄糖）对骨关节炎患者的身体功能无显著改善作用。",
+      "section": "CHONDROITIN SULFATE ALONE OR WITH GLUCOSAMINE OR WITH OTHER SUPPLEMENT VERSUS PLACEBO OR CONTROL",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硫酸软骨素",
+        "骨关节炎",
+        "身体功能"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-chondroitin--014",
+      "claim": "硫酸软骨素（单独或联合氨基葡萄糖）可显著改善骨关节炎患者的Lequesne指数（关节功能评分）。",
+      "section": "CHONDROITIN SULFATE ALONE OR WITH GLUCOSAMINE OR WITH OTHER SUPPLEMENT VERSUS PLACEBO OR CONTROL",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "硫酸软骨素",
+        "骨关节炎",
+        "Lequesne指数"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "39-41"
+    },
+    {
+      "id": "E-chondroitin--015",
+      "claim": "美国FDA认为，软骨素与降低骨关节炎风险之间的关系未被确立。",
+      "section": "FDA and EMEA on Chondroitin",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "FDA",
+        "健康声明"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-chondroitin--016",
+      "claim": "在高质量研究（大样本、独立资助、分配隐藏充分）中，软骨素（单独或与葡萄糖胺联用）与安慰剂相比，在减轻骨关节炎疼痛方面没有显著差异。",
+      "section": "Summary of main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "疼痛",
+        "研究质量",
+        "敏感性分析"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-chondroitin--017",
+      "claim": "软骨素单独或与葡萄糖胺联用，在减轻骨关节炎疼痛方面具有统计学和临床意义的改善，但此结论基于低质量证据。",
+      "section": "Summary of main results",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "疼痛",
+        "临床意义",
+        "低质量证据"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-chondroitin--018",
+      "claim": "软骨素（单独或与氨基葡萄糖联用）可改善骨关节炎患者的关节疼痛，具有临床意义和统计学显著性。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "疼痛"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--019",
+      "claim": "软骨素可延缓骨关节炎患者关节间隙宽度减少，但该影像学获益的临床意义不明确。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "关节间隙",
+        "影像学"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--020",
+      "claim": "软骨素组严重副作用风险低于对照组。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "安全性",
+        "副作用"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--021",
+      "claim": "在物理功能（WOMAC评分）和其他临床及影像学结果方面，软骨素与安慰剂无统计学显著差异。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "物理功能",
+        "WOMAC"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--022",
+      "claim": "软骨素疗效对试验质量、赞助和样本量敏感，高质量、非制药赞助、大样本试验显示较小或无显著差异。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "疗效",
+        "试验质量",
+        "赞助"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--023",
+      "claim": "在充分盲法和ITT分析的试验中，软骨素与安慰剂的疼痛差异仍存在。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "疼痛",
+        "盲法",
+        "ITT"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-chondroitin--024",
+      "claim": "对于骨关节炎，建议患者和医生讨论使用软骨素的利弊，并将其与其他治疗方式（如减重、股四头肌强化和适当药物治疗）结合使用。",
+      "section": "无明确章节",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "软骨素",
+        "骨关节炎",
+        "治疗"
+      ],
+      "source_doc": "Chondroitin for osteoarthritis",
+      "org": "Cochrane 协作网",
+      "year": "2015",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005614.pub2/full",
+      "page": "48-49"
+    }
+  ]
+}

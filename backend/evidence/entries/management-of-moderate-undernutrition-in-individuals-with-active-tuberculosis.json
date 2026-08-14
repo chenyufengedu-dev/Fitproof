@@ -1,0 +1,68 @@
+{
+  "doc": "Management of moderate undernutrition in individuals with active tuberculosis",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/mam-tuberculosis",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-management-o-001",
+      "claim": "5岁以下活动性结核病伴中度营养不良的儿童应按照其他中度营养不良儿童管理，包括提供补充食品以恢复适当的体重/身高。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "儿童",
+        "结核病",
+        "中度营养不良",
+        "补充食品",
+        "体重身高"
+      ],
+      "source_doc": "Management of moderate undernutrition in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/mam-tuberculosis",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-002",
+      "claim": "活动性结核病伴中度营养不良或体重增长不足的孕妇应提供补充食品，以达到孕中晚期平均每周至少增重约300克。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "孕妇",
+        "结核病",
+        "中度营养不良",
+        "补充食品",
+        "体重增长"
+      ],
+      "source_doc": "Management of moderate undernutrition in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/mam-tuberculosis",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-003",
+      "claim": "活动性耐多药结核病（MDR-TB）伴中度营养不良的患者应提供补充食品，以恢复正常营养状况。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "耐多药结核病",
+        "结核病",
+        "中度营养不良",
+        "补充食品",
+        "营养状况"
+      ],
+      "source_doc": "Management of moderate undernutrition in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/mam-tuberculosis",
+      "page": "1-3"
+    }
+  ]
+}

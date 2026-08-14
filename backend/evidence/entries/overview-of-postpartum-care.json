@@ -1,0 +1,699 @@
+{
+  "doc": "Overview of Postpartum Care",
+  "org": "默沙东诊疗手册 (MSD Manual)",
+  "year": "2026",
+  "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+  "complete": true,
+  "done_windows": 6,
+  "count": 39,
+  "entries": [
+    {
+      "id": "E-overview-of--001",
+      "claim": "产后至少6周内不推荐进行性活动。",
+      "section": "Vagina, vulva, and perineum",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后性行为",
+        "产后恢复",
+        "会阴愈合"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "1-3"
+    },
+    {
+      "id": "E-overview-of--002",
+      "claim": "产后6周内体温达到或超过100.4°F（38°C）或出现寒战，尤其在第1周，应立即联系医生。",
+      "section": "Overview of Postpartum Care",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后",
+        "发热",
+        "感染",
+        "就医"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "4-6"
+    },
+    {
+      "id": "E-overview-of--003",
+      "claim": "产后盗汗持续超过4周应联系医生。",
+      "section": "Overview of Postpartum Care",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后",
+        "盗汗",
+        "激素变化",
+        "就医"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "4-6"
+    },
+    {
+      "id": "E-overview-of--004",
+      "claim": "产后抑郁或焦虑症状严重或持续超过2周，或出现其他心理健康症状，应联系医生。",
+      "section": "Overview of Postpartum Care",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后",
+        "抑郁",
+        "焦虑",
+        "心理健康",
+        "就医"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "4-6"
+    },
+    {
+      "id": "E-overview-of--005",
+      "claim": "产后最初24小时可使用冰袋缓解会阴疼痛和肿胀。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "会阴",
+        "疼痛",
+        "冰袋",
+        "产后"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--006",
+      "claim": "产后应至少每4小时排尿一次，以避免膀胱过度充盈和感染。",
+      "section": "Urination",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "排尿",
+        "产后",
+        "膀胱",
+        "感染"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--007",
+      "claim": "产后应鼓励在3天内排便，必要时使用大便软化剂或泻药。",
+      "section": "Bowel movements",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "排便",
+        "产后",
+        "大便软化剂",
+        "泻药"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--008",
+      "claim": "产后可立即进食饮水，除非恶心；应尽早下床行走。",
+      "section": "Diet and activity",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "饮食",
+        "活动",
+        "产后",
+        "行走"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--009",
+      "claim": "产后应避免盆浴直到切口愈合（约6周），且至少2周内避免阴道内放置物品。",
+      "section": "Showering and bathing",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "沐浴",
+        "产后",
+        "缝合",
+        "阴道"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--010",
+      "claim": "产后应避免剧烈活动和重物提举约6周。",
+      "section": "Showering and bathing",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "活动",
+        "产后",
+        "提举",
+        "恢复"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--011",
+      "claim": "哺乳期女性可使用对乙酰氨基酚和布洛芬缓解疼痛，但服用前应咨询医生。",
+      "section": "Medications",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "哺乳",
+        "疼痛",
+        "对乙酰氨基酚",
+        "布洛芬",
+        "安全性"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--012",
+      "claim": "产后应接种推荐的疫苗，包括MMR、水痘、Tdap和HPV（如符合条件）。",
+      "section": "Immunizations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "疫苗",
+        "产后",
+        "MMR",
+        "水痘",
+        "Tdap",
+        "HPV"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--013",
+      "claim": "若母亲Rh阴性且婴儿Rh阳性，产后3天内应给予Rho(D)免疫球蛋白。",
+      "section": "Rh-negative blood type",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "Rh血型",
+        "免疫球蛋白",
+        "产后",
+        "预防"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--014",
+      "claim": "若产后出现过多或异常出血，应联系医生。",
+      "section": "Care During the First 6 Weeks After Childbirth",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后出血",
+        "异常出血",
+        "就医"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "7-9"
+    },
+    {
+      "id": "E-overview-of--015",
+      "claim": "产后6周内不应使用卫生棉条。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后护理",
+        "卫生棉条",
+        "出血",
+        "阴道"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--016",
+      "claim": "温水坐浴可减轻产后会阴疼痛。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "会阴疼痛",
+        "坐浴",
+        "产后护理"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--017",
+      "claim": "剖宫产切口应保持清洁干燥。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "剖宫产",
+        "切口护理",
+        "感染预防"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--018",
+      "claim": "剖宫产术后切口疼痛可用对乙酰氨基酚或布洛芬等非甾体抗炎药缓解。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "剖宫产",
+        "疼痛管理",
+        "对乙酰氨基酚",
+        "布洛芬"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--019",
+      "claim": "剖宫产后6周内应避免提举重于婴儿的物品。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "剖宫产",
+        "活动限制",
+        "产后"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--020",
+      "claim": "母乳喂养会增强产后子宫收缩。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "母乳喂养",
+        "子宫收缩",
+        "催产素"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--021",
+      "claim": "产后腹壁皮肤和肌肉张力需要数月才能恢复，即使运动也不能加速恢复。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "产后腹部",
+        "肌张力",
+        "恢复",
+        "运动"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--022",
+      "claim": "妊娠纹不会消失，但可能一年内逐渐变淡。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "运动健身",
+        "妊娠纹",
+        "产后皮肤"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--023",
+      "claim": "如果剖宫产切口周围出现发红或渗血渗液，应就医。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "剖宫产",
+        "感染症状",
+        "就医"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "10-12"
+    },
+    {
+      "id": "E-overview-of--024",
+      "claim": "产后情绪低落症状若持续超过2周或影响照顾婴儿或日常活动，应咨询医生。",
+      "section": "Sadness",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "产后忧郁",
+        "产后抑郁",
+        "心理保健"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--025",
+      "claim": "阴道分娩后若无肛门括约肌损伤，可在数日内开始腹部和盆底肌锻炼。",
+      "section": "Exercise",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "产后运动",
+        "盆底肌",
+        "凯格尔运动"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--026",
+      "claim": "剖宫产后应等待约6周至手术切口完全愈合后再开始锻炼。",
+      "section": "Exercise",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "剖宫产",
+        "产后运动",
+        "术后恢复"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--027",
+      "claim": "产后性生活可在感到舒适时恢复，但通常建议至少等待6周或直至撕裂或会阴切开愈合。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "产后性生活",
+        "会阴愈合",
+        "剖宫产"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--028",
+      "claim": "产后再次怀孕的间隔建议至少6个月，最好18个月。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "生育间隔",
+        "避孕",
+        "产后"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--029",
+      "claim": "接种风疹或水痘疫苗后须至少等待1个月再怀孕。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "疫苗",
+        "妊娠间隔",
+        "风疹",
+        "水痘"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--030",
+      "claim": "产后开始性活动前应使用避孕措施以降低怀孕风险。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "避孕",
+        "产后",
+        "性活动"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--031",
+      "claim": "含雌激素的避孕药应在产后3周后才能开始使用，因可能增加血栓风险并可能减少乳汁分泌。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "避孕药",
+        "雌激素",
+        "哺乳",
+        "血栓"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--032",
+      "claim": "孕激素-only的避孕方法对血栓形成和乳汁分泌影响很小。",
+      "section": "Sexual activity and family planning",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "避孕",
+        "孕激素",
+        "哺乳"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--033",
+      "claim": "推荐母乳喂养至少6个月，期间不添加其他食物；之后继续母乳喂养并添加辅食至1年，之后可继续直到母婴均无意愿。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "母乳喂养",
+        "婴儿营养",
+        "辅食"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--034",
+      "claim": "哺乳期母亲每日需额外摄入300-500千卡热量，并增加维生素和矿物质摄入，继续服用含至少400微克叶酸的产前维生素。",
+      "section": "Diet during breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "哺乳期营养",
+        "热量",
+        "叶酸",
+        "维生素"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--035",
+      "claim": "哺乳期乳房疼痛可涂抹100%羊毛脂缓解并保护乳头。",
+      "section": "Breast care",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "哺乳",
+        "乳头护理",
+        "羊毛脂"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "13-15"
+    },
+    {
+      "id": "E-overview-of--036",
+      "claim": "哺乳期女性应选择低汞的鱼类。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "哺乳期",
+        "鱼类",
+        "汞",
+        "食品安全"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "16-16"
+    },
+    {
+      "id": "E-overview-of--037",
+      "claim": "哺乳期乳房胀痛时，在两次喂奶间用手或吸奶器吸奶会暂时缓解压力，但总体上可能加重胀痛。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "乳房胀痛",
+        "哺乳期",
+        "吸奶",
+        "胀痛加重"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "16-16"
+    },
+    {
+      "id": "E-overview-of--038",
+      "claim": "对于不哺乳或已停止哺乳的女性，穿戴合身的内衣、冰敷和服用止痛药（如对乙酰氨基酚或布洛芬）可缓解乳房胀痛，且应避免手动挤奶。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "乳房胀痛",
+        "不哺乳",
+        "止痛药",
+        "冰敷",
+        "挤奶"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "16-16"
+    },
+    {
+      "id": "E-overview-of--039",
+      "claim": "医生可能建议服用卡麦角林来抑制产奶。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "卡麦角林",
+        "抑制产奶",
+        "药物"
+      ],
+      "source_doc": "Overview of Postpartum Care",
+      "org": "默沙东诊疗手册 (MSD Manual)",
+      "year": "2026",
+      "url": "https://www.msdmanuals.com/home/women-s-health-issues/postpartum-care/overview-of-postpartum-care",
+      "page": "16-16"
+    }
+  ]
+}

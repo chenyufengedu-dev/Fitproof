@@ -1,0 +1,83 @@
+{
+  "doc": "Treatment of hypoglycaemia in children with severe acute malnutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/hypoglycaemia-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-treatment-of-001",
+      "claim": "在严重急性营养不良儿童入院时，应立即给予喂养或葡萄糖/蔗糖溶液以预防或治疗低血糖。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "低血糖",
+        "喂养",
+        "葡萄糖"
+      ],
+      "source_doc": "Treatment of hypoglycaemia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypoglycaemia-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-treatment-of-002",
+      "claim": "如果严重急性营养不良儿童清醒且能饮用，应口服或通过鼻胃管给予葡萄糖或蔗糖，随后用小而频繁的F-75治疗奶喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "低血糖",
+        "葡萄糖",
+        "F-75"
+      ],
+      "source_doc": "Treatment of hypoglycaemia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypoglycaemia-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-treatment-of-003",
+      "claim": "如果严重急性营养不良儿童昏迷，应静脉注射葡萄糖，或通过鼻胃管给予葡萄糖或蔗糖，待清醒后开始小而频繁的F-75治疗奶喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "低血糖",
+        "昏迷",
+        "静脉葡萄糖"
+      ],
+      "source_doc": "Treatment of hypoglycaemia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypoglycaemia-sam",
+      "page": "1-3"
+    },
+    {
+      "id": "E-treatment-of-004",
+      "claim": "所有疑似低血糖的严重急性营养不良儿童应使用广谱抗生素治疗严重全身感染。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "低血糖",
+        "抗生素",
+        "感染"
+      ],
+      "source_doc": "Treatment of hypoglycaemia in children with severe acute malnutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/hypoglycaemia-sam",
+      "page": "1-3"
+    }
+  ]
+}

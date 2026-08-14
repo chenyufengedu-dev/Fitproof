@@ -1,0 +1,29 @@
+{
+  "doc": "Intermittent iron supplementation in preschool and school-age children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-intermittent-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-intermittent-001",
+      "claim": "在贫血患病率≥20%的学龄前（24-59个月）或学龄儿童（5-12岁）群体中，推荐采取间歇性铁补充作为公共卫生干预措施，以改善铁状况并降低贫血风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "间歇性铁补充",
+        "儿童",
+        "贫血",
+        "铁缺乏"
+      ],
+      "source_doc": "Intermittent iron supplementation in preschool and school-age children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-intermittent-children",
+      "page": "1-3"
+    }
+  ]
+}

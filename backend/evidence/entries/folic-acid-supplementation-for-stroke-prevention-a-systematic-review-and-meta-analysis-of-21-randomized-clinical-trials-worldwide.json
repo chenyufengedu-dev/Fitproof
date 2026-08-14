@@ -1,0 +1,155 @@
+{
+  "doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+  "org": "临床营养 (Clinical Nutrition)",
+  "year": "2023",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-folic-acid-s-001",
+      "claim": "AHA/ASA指南推荐叶酸补充用于卒中预防（IIb级推荐，证据水平B）",
+      "section": "Introduction",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "卒中",
+        "预防",
+        "指南"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-folic-acid-s-002",
+      "claim": "在无谷物强化或部分谷物强化地区，叶酸补充可显著降低脑卒中风险。",
+      "section": "3.3",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "脑卒中",
+        "谷物强化",
+        "预防"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-folic-acid-s-003",
+      "claim": "在无谷物强化或部分谷物强化地区，无脑卒中或心肌梗死病史者补充叶酸可进一步降低脑卒中风险约23%。",
+      "section": "3.3",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "脑卒中",
+        "谷物强化",
+        "既往病史",
+        "一级预防"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-folic-acid-s-004",
+      "claim": "在无谷物强化地区，无卒中或心肌梗死病史者补充叶酸可降低卒中风险23%。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "卒中",
+        "一级预防",
+        "谷物强化"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-folic-acid-s-005",
+      "claim": "对于有缺血性卒中病史的患者，补充叶酸不能降低卒中风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "卒中",
+        "二级预防",
+        "缺血性卒中"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-folic-acid-s-006",
+      "claim": "现有充分证据推荐叶酸用于卒中一级预防。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "卒中",
+        "一级预防",
+        "推荐"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-folic-acid-s-007",
+      "claim": "叶酸补充对预防中风具有总体益处",
+      "section": "Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "中风预防",
+        "荟萃分析"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "10-11"
+    },
+    {
+      "id": "E-folic-acid-s-008",
+      "claim": "在无叶酸强化且无中风或心肌梗死病史的人群中，叶酸补充的中风预防益处更大",
+      "section": "Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "叶酸",
+        "中风预防",
+        "亚组分析",
+        "无强化"
+      ],
+      "source_doc": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide",
+      "org": "临床营养 (Clinical Nutrition)",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38824900/",
+      "page": "10-11"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "doc": "Vitamin A supplementation in infants 1–5 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "不应给1-5月龄婴儿补充维生素A作为公共卫生干预措施以降低发病率和死亡率。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "婴儿",
+        "补充剂",
+        "不推荐"
+      ],
+      "source_doc": "Vitamin A supplementation in infants 1–5 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-infants",
+      "page": "1-3"
+    }
+  ]
+}

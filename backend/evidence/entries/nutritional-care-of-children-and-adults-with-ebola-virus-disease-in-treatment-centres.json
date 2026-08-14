@@ -1,0 +1,134 @@
+{
+  "doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+  "complete": true,
+  "done_windows": 2,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-nutritional--001",
+      "claim": "如果哺乳期妇女疑似或确诊急性埃博拉病毒病，应停止母乳喂养，并将婴儿与母亲隔离，提供母乳替代品。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "breastfeeding",
+        "breastmilk substitute"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--002",
+      "claim": "未感染埃博拉病毒的儿童暴露于确诊埃博拉病毒病女性的母乳后，应停止母乳喂养，提供母乳替代品，并进行21天密切监测。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "breastfeeding",
+        "exposure",
+        "monitoring"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--003",
+      "claim": "如果哺乳期女性及其婴儿均确诊埃博拉病毒病，应停止母乳喂养，将母婴分离，并提供适当的母乳替代品；但如果婴儿小于6个月且无安全替代品或无法充分护理，可以考虑不分离并继续母乳喂养。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "breastfeeding",
+        "infant",
+        "separation"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--004",
+      "claim": "从埃博拉病毒病康复的女性希望继续母乳喂养时，应等待两次连续的RT-PCR检测（间隔24小时）呈阴性后方可恢复。",
+      "section": "Breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "breastfeeding",
+        "recovery",
+        "RT-PCR"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--005",
+      "claim": "埃博拉病毒病患者应获得至少达到各营养素推荐每日摄入量的食物。",
+      "section": "Provision of food",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "nutrition",
+        "RDA"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--006",
+      "claim": "在康复期，应鼓励埃博拉病毒病患者尽可能多进食。",
+      "section": "Provision of food",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "convalescence",
+        "eating"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    },
+    {
+      "id": "E-nutritional--007",
+      "claim": "如果有意识和吞咽能力，应给埃博拉病毒病患者提供食物。",
+      "section": "General management, diet and feeding of children and adults with Ebola virus disease",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "Ebola",
+        "feeding",
+        "conscious",
+        "swallowing"
+      ],
+      "source_doc": "Nutritional care of children and adults with Ebola virus disease in treatment centres",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-ebola",
+      "page": "1-3"
+    }
+  ]
+}

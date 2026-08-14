@@ -1,0 +1,255 @@
+{
+  "doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2024",
+  "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+  "complete": true,
+  "done_windows": 5,
+  "count": 14,
+  "entries": [
+    {
+      "id": "E-amylase-lipa-001",
+      "claim": "胰脂肪酶延迟释放胶囊在儿童中的安全性和有效性已建立",
+      "section": "Pediatric",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "胰脂肪酶",
+        "儿童",
+        "延迟释放胶囊",
+        "安全性",
+        "有效性"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "1-3"
+    },
+    {
+      "id": "E-amylase-lipa-002",
+      "claim": "胰脂肪酶片剂在儿童中的安全性和有效性尚未建立，可能引起体重增加、营养不良等不良效果",
+      "section": "Pediatric",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "胰脂肪酶",
+        "儿童",
+        "片剂",
+        "安全性",
+        "不良效果"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "1-3"
+    },
+    {
+      "id": "E-amylase-lipa-003",
+      "claim": "老年患者使用胰脂肪酶未显示老年特定问题",
+      "section": "Geriatric",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "胰脂肪酶",
+        "老年人",
+        "安全性"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "1-3"
+    },
+    {
+      "id": "E-amylase-lipa-004",
+      "claim": "胰脂肪酶片剂应与质子泵抑制剂（PPI）联用，用于慢性胰腺炎或胰腺切除术患者",
+      "section": "Description",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "胰脂肪酶",
+        "PPI",
+        "慢性胰腺炎",
+        "胰腺切除术"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "1-3"
+    },
+    {
+      "id": "E-amylase-lipa-005",
+      "claim": "对于口服脂肪酶制剂，成人及4岁以上儿童推荐起始剂量为每餐每公斤体重500脂肪酶单位。",
+      "section": "Dosage",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "剂量",
+        "成人",
+        "儿童"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-006",
+      "claim": "对于口服脂肪酶制剂，12个月至4岁以下儿童推荐剂量为每餐每公斤体重1000脂肪酶单位。",
+      "section": "Dosage",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "剂量",
+        "儿童"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-007",
+      "claim": "对于口服脂肪酶制剂，出生至12个月婴儿推荐剂量为每120毫升配方奶或每次母乳喂养2600脂肪酶单位（特定剂型）或4000脂肪酶单位（Pertzye）。",
+      "section": "Dosage",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "剂量",
+        "婴儿"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-008",
+      "claim": "如果漏服脂肪酶药物，应跳过漏服剂量，按原定时间服用下一次，不要双倍剂量。",
+      "section": "Missed Dose",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "漏服",
+        "用药指导"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-009",
+      "claim": "脂肪酶药物应在室温、密闭容器中储存，远离热、湿和直射光，防止冻结。",
+      "section": "Storage",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "储存",
+        "药物稳定性"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-010",
+      "claim": "脂肪酶药物的干燥剂（除湿剂）不应食用或丢弃，应留在瓶内保护药物免受潮湿。",
+      "section": "Storage",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "干燥剂",
+        "储存"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-011",
+      "claim": "脂肪酶药物可能导致严重肠道疾病（纤维化结肠病），尤其在囊性纤维化儿童中长期高剂量使用时风险增加。",
+      "section": "Precautions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "纤维化结肠病",
+        "副作用"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-012",
+      "claim": "脂肪酶药物可能增加血尿酸水平（高尿酸血症）。",
+      "section": "Precautions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "高尿酸血症",
+        "副作用"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-013",
+      "claim": "脂肪酶药物来自猪胰腺，存在极低病毒传播风险。",
+      "section": "Precautions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "猪源",
+        "病毒风险"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    },
+    {
+      "id": "E-amylase-lipa-014",
+      "claim": "脂肪酶药物可能引起严重过敏反应（包括过敏性休克和哮喘），需立即就医。",
+      "section": "Precautions",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "脂肪酶",
+        "过敏反应",
+        "副作用"
+      ],
+      "source_doc": "Amylase/lipase/pancrelipase/protease (oral route) - Side effects & dosage",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/drugs-supplements/amylase-lipase-pancrelipase-protease-oral-route/description/drg-20065293",
+      "page": "7-9"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "doc": "中药药源性肝损伤临床评价技术指导原则",
+  "org": "国家药品监督管理局 (NMPA)",
+  "year": "2018",
+  "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+  "complete": true,
+  "done_windows": 9,
+  "count": 45,
+  "entries": [
+    {
+      "id": "E-中药药源性肝损伤临床评价-001",
+      "claim": "建议采取分层比较法统计药源性肝损伤的中西药构成比。",
+      "section": "二（二）中药药源性肝损伤的流行病学概况",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药药源性肝损伤",
+        "分层比较法",
+        "中西药构成比"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-002",
+      "claim": "中药药源性肝损伤评价时应排除药品质量不合格和用药差错等干扰因素。",
+      "section": "三、中药药源性肝损伤的主要风险因素",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药肝损伤评价",
+        "排除干扰",
+        "质量不合格",
+        "用药差错"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-003",
+      "claim": "在评价中药药源性肝损伤风险因素时，应综合考察药材基原、产地、药用部位、采收时间和加工炮制方法，并严格控制杂质、农药、重金属残留及微生物毒素等外源性污染物。",
+      "section": "三（一）1. 中药材、饮片及辅料的来源和质量",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤风险因素",
+        "药材质量",
+        "污染物控制"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-004",
+      "claim": "在考察中药质量安全性时，建议在常规质量检测基础上，采用生物评价特别是生物效（毒）价、生物标志物等方法进行质量评价与控制；针对易混淆中药的基原鉴定，可采用分子遗传标记技术进行鉴定。",
+      "section": "三（一）1. 中药材、饮片及辅料的来源和质量",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药质量",
+        "生物评价",
+        "分子鉴定"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-005",
+      "claim": "如果处方含有潜在损肝中药或相关成份，建议评估用药的风险与获益情况。",
+      "section": "三（一）2. 肝损伤相关风险物质",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "潜在损肝中药",
+        "风险获益评估"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-006",
+      "claim": "针对中药复方所致肝损伤，应结合中医药传统理论和现代研究资料，从理、法、方、药方面对处方合理性进行系统分析。",
+      "section": "三（一）3. 处方合理性",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药复方",
+        "处方合理性",
+        "肝损伤"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "2-4"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-007",
+      "claim": "新药研制原则上不应使用“相恶”“相反”的中药配伍。",
+      "section": "处方合理性评估",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "配伍禁忌",
+        "十八反",
+        "十九畏"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-008",
+      "claim": "改变给药途径（如外用改内服、口服改注射）可能增加中药安全性风险。",
+      "section": "给药方式",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "给药途径",
+        "剂型",
+        "安全性风险"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-009",
+      "claim": "新型释药技术或给药系统可能增加肝损伤风险。",
+      "section": "给药方式",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "释药技术",
+        "给药系统",
+        "肝损伤"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-010",
+      "claim": "评价中药药源性肝损伤时应考虑患者免疫、遗传、代谢、基础疾病、中医体质等机体因素。",
+      "section": "个体差异",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "个体差异",
+        "易感性",
+        "免疫",
+        "遗传"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-011",
+      "claim": "高龄是药源性肝损伤的重要易感因素和慢性肝损伤的独立危险因素。",
+      "section": "特殊人群",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "高龄",
+        "易感因素",
+        "危险因素"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-012",
+      "claim": "儿童因代谢解毒能力较低，使用中药可能增加肝损伤风险。",
+      "section": "特殊人群",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "儿童",
+        "代谢解毒",
+        "肝损伤"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-013",
+      "claim": "用于儿童、高龄、妊娠期、哺乳期等特殊人群的中药，应在临床前、临床试验及上市后考察用药风险，并在说明书中说明。",
+      "section": "特殊人群",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "特殊人群",
+        "用药风险",
+        "说明书"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-014",
+      "claim": "有基础肝病的患者使用中药发生肝损伤时，应鉴别是药源性肝损伤还是基础病复发。",
+      "section": "有基础肝病的患者",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "基础肝病",
+        "鉴别诊断",
+        "肝损伤"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-015",
+      "claim": "中药超剂量或超疗程使用应有安全性研究数据支持。",
+      "section": "剂量和疗程",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "剂量",
+        "疗程",
+        "安全性数据"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-016",
+      "claim": "中药使用应遵循辨证论治原则，避免方药不对证。",
+      "section": "方证相应",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "辨证论治",
+        "方证相应",
+        "合理用药"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-017",
+      "claim": "分析中药药源性肝损伤时，应考虑联合用药中药物之间的相互作用，尤其是功效相同或相近的药物联用可能增加风险。",
+      "section": "联合用药",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "联合用药",
+        "相互作用",
+        "不良反应"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-018",
+      "claim": "分析中药药源性肝损伤时，应注意排除中西药复方制剂和非法添加化学药的影响。",
+      "section": "联合用药",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中西药复方",
+        "非法添加",
+        "鉴别"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-019",
+      "claim": "分析中药药源性肝损伤时，应注意排除不当饮食和环境因素（如酒精、染发剂、装修污染）的影响。",
+      "section": "其他因素",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "饮食因素",
+        "环境因素",
+        "鉴别"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-020",
+      "claim": "充分收集药源性肝损伤的风险信号有助于实现早发现、早防控。",
+      "section": "风险信号收集",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "风险信号",
+        "早期发现",
+        "防控"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "5-7"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-021",
+      "claim": "影像学检查（B超、CT、MRI）可作为中药药源性肝损伤风险信号收集的辅助手段。",
+      "section": "影像学改变",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "影像学",
+        "B超",
+        "CT",
+        "MRI"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-022",
+      "claim": "目前尚无公认的生物标志物可用于药源性肝损伤的鉴别诊断。",
+      "section": "生物标志物",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "生物标志物",
+        "鉴别诊断"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-023",
+      "claim": "中药药源性肝损伤风险信号的收集应贯穿药品研发、生产和使用的全过程。",
+      "section": "中药药源性肝损伤风险信号的收集",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "风险信号",
+        "药品全生命周期"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-024",
+      "claim": "临床前安全性评价应按照ICH要求进行，并关注肝脏功能相关生化指标和病理改变。",
+      "section": "基于临床前安全性评价的中药药源性肝损伤风险信号收集",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "临床前安全性评价",
+        "ICH",
+        "肝功能"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-025",
+      "claim": "临床应收集患者肝损伤临床表现及详细的服药史，可参照《中药药源性肝损伤调查报告表》。",
+      "section": "基于临床的中药药源性肝损伤风险信号收集",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "临床表现",
+        "服药史",
+        "调查报告表"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-026",
+      "claim": "中药药源性肝损伤缺乏特异性诊断指标，主要采取排除性诊断。",
+      "section": "中药药源性肝损伤的临床诊断",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "诊断",
+        "排除性诊断"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "8-10"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-027",
+      "claim": "对于疑似诊断为中药药源性肝损伤的病例，建议由肝病和临床药学专家共同会诊。",
+      "section": "诊断",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "中药药源性肝损伤",
+        "会诊",
+        "肝病专家",
+        "临床药学专家"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-028",
+      "claim": "肝细胞损伤型是药源性肝损伤最常见的临床类型。",
+      "section": "临床分型",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "肝细胞损伤型",
+        "药源性肝损伤",
+        "最常见临床类型"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-029",
+      "claim": "急性肝损伤通常发病6个月内肝功能可恢复到发病前水平；慢性肝损伤指发病6个月后，肝功能未恢复到发病前水平。",
+      "section": "临床分期",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "急性肝损伤",
+        "慢性肝损伤",
+        "病程",
+        "6个月"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-030",
+      "claim": "药源性肝损伤严重程度分级参照中华医学会《药物性肝损伤诊治指南》及中华中医药学会《中草药相关肝损伤临床诊疗指南》进行评估。",
+      "section": "严重程度分级",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "严重程度分级",
+        "药物性肝损伤",
+        "中草药相关肝损伤",
+        "指南"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-031",
+      "claim": "符合海氏法则的病例大约有10%可发展为致死性肝损伤。",
+      "section": "药物临床试验中肝损伤严重程度的评估",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "海氏法则",
+        "致死性肝损伤",
+        "10%"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-032",
+      "claim": "在药物临床试验中出现1例海氏法则病例，需高度警惕致死性肝损伤风险；出现2例，强烈提示该药在扩大人群使用时极可能发生致死性肝损伤。",
+      "section": "药物临床试验中肝损伤严重程度的评估",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "海氏法则",
+        "药物临床试验",
+        "致死性肝损伤",
+        "风险"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-033",
+      "claim": "海氏法则病例应满足：该药引起肝细胞型损伤且血清ALT（或AST）≥3×ULN；同时血清TBil＞2×ULN且无胆道阻塞证据；排除其他导致ALT（或AST）和TBil同时升高的原因。",
+      "section": "药物临床试验中肝损伤严重程度的评估",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "海氏法则",
+        "病例定义",
+        "肝细胞型损伤",
+        "ALT",
+        "TBil"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "11-13"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-034",
+      "claim": "肝脏生化指标异常若出现ALT≥5×ULN、ALP≥2×ULN且伴GGT升高、或ALT≥3×ULN且TBil≥2×ULN，可判断为药源性肝损伤的生化学标准。",
+      "section": "六、中药药源性肝损伤因果关系的系统评估 （一）中药药源性肝损伤因果关系的评估方法和标准",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "肝脏生化指标",
+        "ALT",
+        "ALP",
+        "诊断标准"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "14-16"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-035",
+      "claim": "药源性肝损伤患者若出现ALT≥3×ULN且伴有TBil升高、INR升高和/或明显临床症状，且时序关系合理，应考虑药源性肝损伤的可能性。",
+      "section": "六、中药药源性肝损伤因果关系的系统评估 （一）中药药源性肝损伤因果关系的评估方法和标准",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "ALT",
+        "TBil",
+        "INR",
+        "诊断"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "14-16"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-036",
+      "claim": "当3×ULN≤ALT＜5×ULN且不伴有TBil、INR异常及临床表现时，可能为机体对中药的“适应性反应”，而非典型的药源性肝损伤。",
+      "section": "六、中药药源性肝损伤因果关系的系统评估 （一）中药药源性肝损伤因果关系的评估方法和标准",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "适应性反应",
+        "药源性肝损伤",
+        "ALT"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "14-16"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-037",
+      "claim": "药物再激发反应阳性是可靠的药源性肝损伤因果关系评估依据，但再激发反应阴性不能排除药源性肝损伤。",
+      "section": "六、中药药源性肝损伤因果关系的系统评估 （一）中药药源性肝损伤因果关系的评估方法和标准",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "再激发反应",
+        "药源性肝损伤",
+        "因果关系"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "14-16"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-038",
+      "claim": "当血清ALT或AST超过正常上限8倍时，应立即停药。",
+      "section": "上市前中药药源性肝损伤风险的主要防控措施",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "停药标准",
+        "ALT",
+        "AST",
+        "中医药"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "17-19"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-039",
+      "claim": "上市后中药应避免超适应症、超剂量、超疗程及超人群使用。",
+      "section": "上市后中药药源性肝损伤风险的主要防控措施",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "超说明书用药",
+        "风险防控",
+        "合理用药"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "17-19"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-040",
+      "claim": "药源性肝损伤患者应随访至全部异常指标恢复正常或达到基线水平后半年。",
+      "section": "上市前中药药源性肝损伤风险的主要防控措施",
+      "strength": "指南建议",
+      "topics": [
+        "用药误区",
+        "药源性肝损伤",
+        "随访",
+        "肝脏生化指标"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "17-19"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-041",
+      "claim": "对于确有肝损伤风险的中药，应开展上市后评价与研究，包括持续监测、评估风险获益、研究易感人群，并实现信息共享。",
+      "section": "2.开展安全性相关的上市后评价与研究",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤",
+        "上市后评价",
+        "风险监测"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "20-22"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-042",
+      "claim": "当中药的获益大于风险时，应修改药品说明书增加肝损伤相关信息，并建议定期或不定期监测肝功能。",
+      "section": "3.修改药品说明书",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤",
+        "药品说明书",
+        "肝功能监测"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "20-22"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-043",
+      "claim": "对于明确可诱发肝损伤的中药，应在药品说明书中增加警示，并加强医护人员、药师或患者的安全性教育。",
+      "section": "3.修改药品说明书",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤",
+        "警示",
+        "安全性教育"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "20-22"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-044",
+      "claim": "对于明确可诱发肝损伤的中药，可采取限制使用（如限制处方权、施药权）的方法以控制风险。",
+      "section": "4.限制使用",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤",
+        "限制使用",
+        "风险控制"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "20-22"
+    },
+    {
+      "id": "E-中药药源性肝损伤临床评价-045",
+      "claim": "如果发生严重药品不良事件且其他措施无效，国家药品监管机构可依法暂停生产销售或撤市。",
+      "section": "5.暂停生产销售或直接撤市",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "中药",
+        "肝损伤",
+        "暂停生产销售",
+        "撤市"
+      ],
+      "source_doc": "中药药源性肝损伤临床评价技术指导原则",
+      "org": "国家药品监督管理局 (NMPA)",
+      "year": "2018",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20180619172601728.html",
+      "page": "20-22"
+    }
+  ]
+}

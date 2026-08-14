@@ -1,0 +1,1342 @@
+{
+  "doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2023",
+  "url": "https://www.who.int/publications/i/item/9789240081864",
+  "complete": true,
+  "done_windows": 32,
+  "count": 76,
+  "entries": [
+    {
+      "id": "E-who-guidelin-001",
+      "claim": "母乳喂养应持续至2岁或更久。",
+      "section": "Recommendation 1 - Continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "持续时间",
+        "2岁"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "10-12"
+    },
+    {
+      "id": "E-who-guidelin-002",
+      "claim": "对于6-11月龄非母乳喂养的婴儿，可喂配方奶或动物奶。",
+      "section": "Recommendation 2 - Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "6-11月龄",
+        "非母乳喂养",
+        "配方奶",
+        "动物奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "10-12"
+    },
+    {
+      "id": "E-who-guidelin-003",
+      "claim": "对于12-23月龄非母乳喂养的幼儿，应喂动物奶，不推荐配方奶。",
+      "section": "Recommendation 2 - Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "12-23月龄",
+        "非母乳喂养",
+        "动物奶",
+        "配方奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "10-12"
+    },
+    {
+      "id": "E-who-guidelin-004",
+      "claim": "如果6-11月龄婴儿喂动物奶，应使用全脂牛奶。",
+      "section": "Recommendation 2 - Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "6-11月龄",
+        "动物奶",
+        "全脂牛奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "10-12"
+    },
+    {
+      "id": "E-who-guidelin-005",
+      "claim": "不应用风味或甜牛奶喂养6-23月龄婴幼儿。",
+      "section": "Recommendation 2 - Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "风味牛奶",
+        "甜牛奶",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "10-12"
+    },
+    {
+      "id": "E-who-guidelin-006",
+      "claim": "婴儿应在6月龄（180天）时引入辅食，同时继续母乳喂养。",
+      "section": "Age of introduction of complementary foods",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食引入",
+        "6月龄",
+        "母乳喂养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-007",
+      "claim": "6-23月龄婴幼儿应每日摄入动物源性食物，包括肉、鱼或蛋。",
+      "section": "Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物源性食物",
+        "肉",
+        "鱼",
+        "蛋",
+        "膳食多样性"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-008",
+      "claim": "6-23月龄婴幼儿应每日摄入水果和蔬菜。",
+      "section": "Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "水果",
+        "蔬菜",
+        "膳食多样性"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-009",
+      "claim": "当肉、鱼、蛋和蔬菜摄入有限时，6-23月龄婴幼儿应经常摄入豆类、坚果和种子。",
+      "section": "Dietary diversity",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "豆类",
+        "坚果",
+        "种子",
+        "膳食多样性"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-010",
+      "claim": "6-23月龄婴幼儿不应摄入高糖、高盐和高反式脂肪酸的食物。",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "高糖食物",
+        "高盐食物",
+        "反式脂肪酸",
+        "不健康食物"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-011",
+      "claim": "6-23月龄婴幼儿不应摄入含糖饮料。",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "含糖饮料",
+        "糖",
+        "饮料"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-012",
+      "claim": "6-23月龄婴幼儿不应摄入非糖甜味剂。",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非糖甜味剂",
+        "甜味剂",
+        "添加剂"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-013",
+      "claim": "6-23月龄婴幼儿应限制纯果汁的摄入。",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯果汁",
+        "果汁",
+        "限制"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-014",
+      "claim": "在某些无法仅通过未强化食物满足营养需求的情况下，6-23月龄儿童可使用多种微量营养素粉（MNPs）补充维生素和矿物质。",
+      "section": "Nutrient supplements and fortified food products",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "多种微量营养素粉",
+        "补充剂",
+        "维生素",
+        "矿物质"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-015",
+      "claim": "对于已消费商业谷物基辅食和混合面粉的人群，强化这些谷物可改善微量营养素摄入，但不应鼓励消费。",
+      "section": "Nutrient supplements and fortified food products",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "强化谷物",
+        "辅食",
+        "微量营养素"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-016",
+      "claim": "在面临显著营养缺乏的粮食不安全人群中，小剂量脂质营养素补充剂（SQ-LNS）可能有用。",
+      "section": "Nutrient supplements and fortified food products",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "小剂量脂质营养素补充剂",
+        "SQ-LNS",
+        "粮食不安全",
+        "营养缺乏"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-017",
+      "claim": "6-23月龄儿童应接受回应性喂养，即鼓励儿童自主进食并根据生理和发育需求进食的喂养方式。",
+      "section": "Responsive feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "回应性喂养",
+        "自主进食",
+        "发育需求"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "13-15"
+    },
+    {
+      "id": "E-who-guidelin-018",
+      "claim": "6-23月龄婴幼儿应持续母乳喂养至2岁或以上。",
+      "section": "3.1 Continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴幼儿",
+        "6-23月龄",
+        "喂养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "25-27"
+    },
+    {
+      "id": "E-who-guidelin-019",
+      "claim": "WHO和UNICEF推荐继续母乳喂养至2岁或更久，同时提供辅食。",
+      "section": "3.1 Continued breastfeeding in the second year of life",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴幼儿",
+        "推荐"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "28-30"
+    },
+    {
+      "id": "E-who-guidelin-020",
+      "claim": "继续母乳喂养与儿童发育迟滞、智商或最高学业成绩无显著关联。",
+      "section": "3.1.3 Evidence",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "发育",
+        "智商"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "28-30"
+    },
+    {
+      "id": "E-who-guidelin-021",
+      "claim": "继续母乳喂养与儿童青少年BMI略低相关。",
+      "section": "3.1.3 Evidence",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "BMI",
+        "体重"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "28-30"
+    },
+    {
+      "id": "E-who-guidelin-022",
+      "claim": "继续母乳喂养与母亲骨质疏松风险增加相关。",
+      "section": "3.1.3 Evidence",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "骨质疏松",
+        "母亲健康"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "28-30"
+    },
+    {
+      "id": "E-who-guidelin-023",
+      "claim": "非母乳喂养的12-23月龄儿童需要更多样化的膳食以满足营养需求。",
+      "section": "3.1.3 Evidence",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "辅食",
+        "营养需求"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "28-30"
+    },
+    {
+      "id": "E-who-guidelin-024",
+      "claim": "对于6-11月龄非母乳喂养的婴儿，既可以喂配方奶，也可以喂动物奶。",
+      "section": "3.2 Milks for children fed milks other than breast milk",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "6-11月龄",
+        "非母乳喂养",
+        "配方奶",
+        "动物奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "31-33"
+    },
+    {
+      "id": "E-who-guidelin-025",
+      "claim": "对于12-23月龄非母乳喂养的幼儿，应喂动物奶，不推荐使用后续配方奶。",
+      "section": "3.2 Milks for children fed milks other than breast milk",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "12-23月龄",
+        "非母乳喂养",
+        "动物奶",
+        "后续配方奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "31-33"
+    },
+    {
+      "id": "E-who-guidelin-026",
+      "claim": "对于6-23月龄非母乳喂养的儿童，不应使用调味或加糖牛奶。",
+      "section": "3.2 Milks for children fed milks other than breast milk",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "调味牛奶",
+        "加糖牛奶",
+        "非母乳喂养",
+        "6-23月龄"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "31-33"
+    },
+    {
+      "id": "E-who-guidelin-027",
+      "claim": "对于6-11月龄非母乳喂养的婴儿，如果喂动物奶，应使用全脂牛奶。",
+      "section": "3.2 Milks for children fed milks other than breast milk",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "6-11月龄",
+        "动物奶",
+        "全脂牛奶",
+        "非母乳喂养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "31-33"
+    },
+    {
+      "id": "E-who-guidelin-028",
+      "claim": "婴儿应在6个月（180天）时引入辅食，同时继续母乳喂养。",
+      "section": "3.3 Age of introduction of complementary foods",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食引入",
+        "6个月",
+        "母乳喂养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-029",
+      "claim": "对于6-11月龄婴儿，动物奶或配方奶均可作为奶源。",
+      "section": "3.2 Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "6-11月龄",
+        "动物奶",
+        "配方奶",
+        "婴儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-030",
+      "claim": "对于12-23月龄幼儿，动物奶是配方奶的合适替代品。",
+      "section": "3.2 Milks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "12-23月龄",
+        "动物奶",
+        "配方奶",
+        "幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-031",
+      "claim": "相比配方奶，12-23月龄儿童饮用动物奶在身高、体重等生长指标上没有差异。",
+      "section": "3.2 Milks",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物奶",
+        "生长指标",
+        "身高体重",
+        "配方奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-032",
+      "claim": "相比配方奶，12-23月龄儿童饮用动物奶更容易出现维生素D缺乏和铁缺乏。",
+      "section": "3.2 Milks",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物奶",
+        "维生素D缺乏",
+        "铁缺乏",
+        "配方奶"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-033",
+      "claim": "全脂动物奶与低脂动物奶相比，对儿童胆固醇和血脂谱没有显著影响。",
+      "section": "3.2 Milks",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "全脂牛奶",
+        "低脂牛奶",
+        "胆固醇",
+        "血脂"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "34-36"
+    },
+    {
+      "id": "E-who-guidelin-034",
+      "claim": "婴儿应在满6月龄时开始引入辅食。",
+      "section": "Timing of introduction of complementary foods",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食引入时间",
+        "6月龄",
+        "婴儿喂养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "37-39"
+    },
+    {
+      "id": "E-who-guidelin-035",
+      "claim": "婴幼儿在6-23个月大时应摄入多样化的饮食。",
+      "section": "3.4 Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "dietary diversity",
+        "infants",
+        "young children",
+        "complementary feeding"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "40-42"
+    },
+    {
+      "id": "E-who-guidelin-036",
+      "claim": "动物性食物（包括肉、鱼或蛋）应每日摄入。",
+      "section": "3.4 Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "animal source foods",
+        "meat",
+        "fish",
+        "eggs",
+        "daily intake"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "40-42"
+    },
+    {
+      "id": "E-who-guidelin-037",
+      "claim": "水果和蔬菜应每日摄入。",
+      "section": "3.4 Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "fruits",
+        "vegetables",
+        "daily intake"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "40-42"
+    },
+    {
+      "id": "E-who-guidelin-038",
+      "claim": "豆类、坚果和种子应经常摄入，尤其是在动物性食物和蔬菜摄入有限的情况下。",
+      "section": "3.4 Dietary diversity",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "pulses",
+        "nuts",
+        "seeds",
+        "frequent intake"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "40-42"
+    },
+    {
+      "id": "E-who-guidelin-039",
+      "claim": "不应在6个月前引入辅食。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "complementary foods",
+        "introduction",
+        "age 6 months"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "40-42"
+    },
+    {
+      "id": "E-who-guidelin-040",
+      "claim": "动物性食物（ASFs）消费可改善婴幼儿生长结局，降低贫血风险，提高血红蛋白浓度。",
+      "section": "Animal-source foods (ASFs)",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物性食物",
+        "生长",
+        "贫血",
+        "血红蛋白"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "43-45"
+    },
+    {
+      "id": "E-who-guidelin-041",
+      "claim": "食用DHA强化鸡蛋可改善婴幼儿的DHA状态。",
+      "section": "Animal-source foods (ASFs)",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "鸡蛋",
+        "DHA",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "43-45"
+    },
+    {
+      "id": "E-who-guidelin-042",
+      "claim": "从6-8月龄婴幼儿饮食中去除肉、禽、鱼和蛋，会导致铁、锌和维生素B12的摄入不足；9-11月龄的铁缺口增加。",
+      "section": "Animal-source foods (ASFs)",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物性食物",
+        "铁",
+        "锌",
+        "维生素B12",
+        "膳食模型"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "43-45"
+    },
+    {
+      "id": "E-who-guidelin-043",
+      "claim": "去除豆类、坚果和种子不会导致营养素缺口，因为其他营养密集食物可填补。",
+      "section": "Nuts, pulses, and seeds",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "豆类",
+        "坚果",
+        "种子",
+        "营养素缺口"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "43-45"
+    },
+    {
+      "id": "E-who-guidelin-044",
+      "claim": "Foods high in sugar, salt and trans fats should not be consumed by infants and young children 6-23 months of age.",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "高糖食物",
+        "高盐食物",
+        "反式脂肪",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-045",
+      "claim": "Sugar-sweetened beverages should not be consumed by infants and young children 6-23 months of age.",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "含糖饮料",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-046",
+      "claim": "Non-sugar sweeteners should not be consumed by infants and young children 6-23 months of age.",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非糖甜味剂",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-047",
+      "claim": "Consumption of 100% fruit juice should be limited in infants and young children 6-23 months of age.",
+      "section": "Unhealthy foods and beverages",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "100%果汁",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-048",
+      "claim": "Animal-source foods and fruits and vegetables should be consumed during complementary feeding (strong recommendation).",
+      "section": "Rationale",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物源食品",
+        "水果",
+        "蔬菜",
+        "辅食"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-049",
+      "claim": "Nuts, pulses, and seeds should be consumed during complementary feeding (conditional recommendation).",
+      "section": "Rationale",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "坚果",
+        "豆类",
+        "种子",
+        "辅食"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "46-48"
+    },
+    {
+      "id": "E-who-guidelin-050",
+      "claim": "对于非母乳喂养的6-24月龄儿童，应避免饮用低营养价值的饮料，如茶、咖啡和含糖饮料，并限制果汁摄入。",
+      "section": "Feeding of Non-Breastfed Children 6-24 Months of Age",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非母乳喂养",
+        "饮料",
+        "茶",
+        "咖啡",
+        "含糖饮料"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "49-51"
+    },
+    {
+      "id": "E-who-guidelin-051",
+      "claim": "在辅食添加期，应避免消费含糖饮料。",
+      "section": "3.5.4 Balance of benefits and harms",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "含糖饮料",
+        "SSB",
+        "辅食期",
+        "肥胖"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "49-51"
+    },
+    {
+      "id": "E-who-guidelin-052",
+      "claim": "在辅食添加期，应限制消费100%果汁。",
+      "section": "3.5.4 Balance of benefits and harms",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "100%果汁",
+        "辅食期"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "49-51"
+    },
+    {
+      "id": "E-who-guidelin-053",
+      "claim": "在辅食添加期，应少消费不健康食品和使用非糖甜味剂的饮料。",
+      "section": "3.5.4 Balance of benefits and harms",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "不健康食品",
+        "非糖甜味剂",
+        "辅食期"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "49-51"
+    },
+    {
+      "id": "E-who-guidelin-054",
+      "claim": "在无法仅靠未强化食物满足营养需求的某些情境下，6-23月龄儿童可以使用多种微量营养素粉（MNPs）补充特定维生素和矿物质，且不会取代饮食中的其他食物。",
+      "section": "3.6 Nutrient supplements and fortified food products",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "多种微量营养素粉",
+        "MNPs",
+        "补充剂",
+        "6-23月龄"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "52-54"
+    },
+    {
+      "id": "E-who-guidelin-055",
+      "claim": "对于已经食用商业化谷物类辅食和混合面粉的人群，强化这些谷物可以改善微量营养素摄入，但不应鼓励消费。",
+      "section": "3.6 Nutrient supplements and fortified food products",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "强化谷物辅食",
+        "商业化辅食",
+        "微量营养素",
+        "不鼓励消费"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "52-54"
+    },
+    {
+      "id": "E-who-guidelin-056",
+      "claim": "在面临严重营养缺乏的粮食不安全人群中，小剂量脂基营养补充剂（SQ-LNS）可能有用。",
+      "section": "3.6 Nutrient supplements and fortified food products",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "小剂量脂基营养补充剂",
+        "SQ-LNS",
+        "营养缺乏",
+        "粮食不安全"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "52-54"
+    },
+    {
+      "id": "E-who-guidelin-057",
+      "claim": "补充微量营养素粉可改善6-23月龄儿童铁状态指标，但对锌状态、维生素A状态、生长、腹泻、上呼吸道感染或语言发育无显著影响。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "微量营养素粉",
+        "铁",
+        "锌",
+        "贫血",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "55-57"
+    },
+    {
+      "id": "E-who-guidelin-058",
+      "claim": "强化谷物基辅食可降低6-23月龄儿童贫血风险43%，并提高血红蛋白浓度。",
+      "section": "Fortified cereal grain-based complementary foods",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "强化谷物",
+        "辅食",
+        "贫血",
+        "血红蛋白"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "55-57"
+    },
+    {
+      "id": "E-who-guidelin-059",
+      "claim": "食用未强化牛奶的儿童比食用强化牛奶的儿童更易贫血和缺铁性贫血，但体重、生长迟缓或消瘦未见差异。",
+      "section": "Unfortified versus fortified milk",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "牛奶",
+        "强化",
+        "贫血",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "55-57"
+    },
+    {
+      "id": "E-who-guidelin-060",
+      "claim": "小剂量脂质营养素补充剂（SQ-LNS）可降低6-23月龄儿童死亡率27%，并降低贫血、铁缺乏和发育迟缓风险。",
+      "section": "Small quantity lipid-based nutrient supplements (SQ-LNS)",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "SQ-LNS",
+        "死亡率",
+        "贫血",
+        "发育迟缓"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "55-57"
+    },
+    {
+      "id": "E-who-guidelin-061",
+      "claim": "6–23月龄儿童应进行响应性喂养，即鼓励儿童自主进食并根据生理和发育需求进食的喂养实践。",
+      "section": "3.7 Responsive feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "响应性喂养",
+        "婴幼儿喂养",
+        "自主进食",
+        "发育"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "58-60"
+    },
+    {
+      "id": "E-who-guidelin-062",
+      "claim": "包含7个及以上响应式护理和发展刺激成分的干预措施可改善6-23月龄幼儿的饮食多样性和健康食物摄入。",
+      "section": "Interventions to prevent undernutrition",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "响应式护理",
+        "饮食多样性",
+        "健康食物摄入"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "61-63"
+    },
+    {
+      "id": "E-who-guidelin-063",
+      "claim": "响应式喂养可预防6-23月龄幼儿的营养不良和超重肥胖。",
+      "section": "3.7 Responsive feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "响应式喂养",
+        "营养不良",
+        "肥胖"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "61-63"
+    },
+    {
+      "id": "E-who-guidelin-064",
+      "claim": "响应式喂养鼓励幼儿自我调节能量摄入并促进发育。",
+      "section": "3.7 Responsive feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "响应式喂养",
+        "能量摄入",
+        "儿童发育"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "61-63"
+    },
+    {
+      "id": "E-who-guidelin-065",
+      "claim": "继续母乳喂养至婴儿2岁可能有益",
+      "section": "Continued breastfeeding",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "婴儿",
+        "2岁"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "85-87"
+    },
+    {
+      "id": "E-who-guidelin-066",
+      "claim": "在6个月龄引入辅食可能优于更早或更晚引入",
+      "section": "Age of introduction of complementary foods",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "辅食引入",
+        "6个月",
+        "时机"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "85-87"
+    },
+    {
+      "id": "E-who-guidelin-067",
+      "claim": "增加婴幼儿膳食中动物性食物的消费可能有益",
+      "section": "Dietary diversity",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "动物性食物",
+        "膳食多样性",
+        "婴幼儿",
+        "营养"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "85-87"
+    },
+    {
+      "id": "E-who-guidelin-068",
+      "claim": "6-23月龄婴幼儿应限制摄入高糖、高盐和高不健康脂肪的食物。",
+      "section": "不健康食物和饮料",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "不健康食物",
+        "高糖",
+        "高盐",
+        "高脂肪"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-069",
+      "claim": "6-23月龄婴幼儿不应饮用含糖饮料。",
+      "section": "不健康食物和饮料",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "含糖饮料",
+        "糖",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-070",
+      "claim": "不推荐给6-23月龄婴幼儿饮用添加非糖甜味剂的饮料。",
+      "section": "不健康食物和饮料",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非糖甜味剂",
+        "饮料",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-071",
+      "claim": "6-23月龄婴幼儿应限制摄入100%纯果汁。",
+      "section": "不健康食物和饮料",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "100%果汁",
+        "水果汁",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-072",
+      "claim": "推荐6-23月龄婴幼儿使用微量营养素粉末补充剂。",
+      "section": "营养补充剂和强化食品",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "微量营养素粉末",
+        "营养补充剂",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-073",
+      "claim": "推荐6-23月龄婴幼儿使用强化辅食。",
+      "section": "营养补充剂和强化食品",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "强化辅食",
+        "营养强化",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-074",
+      "claim": "推荐12-23月龄婴幼儿使用强化牛奶。",
+      "section": "营养补充剂和强化食品",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "强化牛奶",
+        "牛奶",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-075",
+      "claim": "推荐6-23月龄婴幼儿使用小剂量脂质营养补充剂。",
+      "section": "营养补充剂和强化食品",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "脂质营养补充剂",
+        "小剂量",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    },
+    {
+      "id": "E-who-guidelin-076",
+      "claim": "推荐在6-23月龄婴幼儿喂养中融入回应性喂养。",
+      "section": "回应性喂养",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "回应性喂养",
+        "喂养方式",
+        "婴幼儿"
+      ],
+      "source_doc": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2023",
+      "url": "https://www.who.int/publications/i/item/9789240081864",
+      "page": "88-90"
+    }
+  ]
+}

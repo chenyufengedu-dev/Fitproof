@@ -1,0 +1,29 @@
+{
+  "doc": "Nutrition assessment and counselling in individuals with active tuberculosis",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/nutrition-tuberculosis",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-nutrition-as-001",
+      "claim": "所有活动性结核患者都应接受营养状况评估，并根据诊断时及治疗期间的营养状况获得适当咨询。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "结核病",
+        "营养评估",
+        "咨询",
+        "营养状况"
+      ],
+      "source_doc": "Nutrition assessment and counselling in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-tuberculosis",
+      "page": "1-3"
+    }
+  ]
+}

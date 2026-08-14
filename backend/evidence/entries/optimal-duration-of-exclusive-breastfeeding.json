@@ -1,0 +1,97 @@
+{
+  "doc": "Optimal duration of exclusive breastfeeding",
+  "org": "Cochrane 协作网",
+  "year": "2012",
+  "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-optimal-dura-001",
+      "claim": "纯母乳喂养6个月相比3-4个月可降低婴儿胃肠道感染风险。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "喂养持续时间",
+        "胃肠道感染"
+      ],
+      "source_doc": "Optimal duration of exclusive breastfeeding",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-optimal-dura-002",
+      "claim": "纯母乳喂养6个月有助于母亲产后体重减轻和延迟月经恢复。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "母亲减重",
+        "闭经"
+      ],
+      "source_doc": "Optimal duration of exclusive breastfeeding",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-optimal-dura-003",
+      "claim": "纯母乳喂养6个月对婴儿的生长、肥胖、认知能力或行为无长期负面影响。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "生长",
+        "肥胖",
+        "认知能力"
+      ],
+      "source_doc": "Optimal duration of exclusive breastfeeding",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-optimal-dura-004",
+      "claim": "纯母乳喂养6个月未显示降低过敏性疾病、龋齿或行为问题的风险。",
+      "section": "Main results",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "过敏性疾病",
+        "龋齿"
+      ],
+      "source_doc": "Optimal duration of exclusive breastfeeding",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+      "page": "1-3"
+    },
+    {
+      "id": "E-optimal-dura-005",
+      "claim": "在发展中国家，纯母乳喂养6个月可能导致铁水平降低。",
+      "section": "Main results",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "纯母乳喂养",
+        "铁缺乏",
+        "发展中国家"
+      ],
+      "source_doc": "Optimal duration of exclusive breastfeeding",
+      "org": "Cochrane 协作网",
+      "year": "2012",
+      "url": "https://www.cochrane.org/evidence/CD003517_optimal-duration-exclusive-breastfeeding",
+      "page": "1-3"
+    }
+  ]
+}

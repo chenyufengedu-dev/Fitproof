@@ -1,0 +1,1628 @@
+{
+  "doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+  "org": "英国国家健康与照护卓越研究院 (NICE)",
+  "year": "2025",
+  "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+  "complete": true,
+  "done_windows": 21,
+  "count": 93,
+  "entries": [
+    {
+      "id": "E-maternal-and-001",
+      "claim": "计划怀孕或孕早期女性应每日补充400微克叶酸。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "孕前",
+        "孕早期",
+        "神经管缺陷"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "7-9"
+    },
+    {
+      "id": "E-maternal-and-002",
+      "claim": "有神经管缺陷或其他先天畸形高风险的女性应每日补充5毫克高剂量叶酸。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "高剂量",
+        "高风险",
+        "神经管缺陷"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "7-9"
+    },
+    {
+      "id": "E-maternal-and-003",
+      "claim": "BMI≥25的女性孕前及孕早期无需补充超过每日400微克的叶酸，除非有高风险因素。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "BMI",
+        "肥胖",
+        "孕前"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "7-9"
+    },
+    {
+      "id": "E-maternal-and-004",
+      "claim": "有先兆子痫风险的女性孕前及孕早期无需补充超过每日400微克的叶酸，除非有高风险因素。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "先兆子痫",
+        "孕前"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "7-9"
+    },
+    {
+      "id": "E-maternal-and-005",
+      "claim": "曾接受减肥手术的女性应咨询专科医生获取个体化叶酸补充建议。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "减肥手术",
+        "个体化"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "7-9"
+    },
+    {
+      "id": "E-maternal-and-006",
+      "claim": "孕妇或哺乳期女性应在10月至3月每日补充维生素D 10微克（400 IU）。",
+      "section": "Vitamin D and other vitamin supplements during and after pregnancy, and for babies and children under 5",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "哺乳期",
+        "补充剂"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "10-12"
+    },
+    {
+      "id": "E-maternal-and-007",
+      "claim": "高风险人群（如肤色深、晒太阳少）应全年每日补充维生素D 10微克（400 IU）。",
+      "section": "Vitamin D and other vitamin supplements during and after pregnancy, and for babies and children under 5",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "高风险",
+        "补充剂"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "10-12"
+    },
+    {
+      "id": "E-maternal-and-008",
+      "claim": "孕期不应服用鱼肝油或含维生素A（视黄醇）的补充剂。",
+      "section": "Vitamin D and other vitamin supplements during and after pregnancy, and for babies and children under 5",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素A",
+        "鱼肝油",
+        "孕期",
+        "禁忌"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "10-12"
+    },
+    {
+      "id": "E-maternal-and-009",
+      "claim": "遵循限制性饮食（如纯素）的孕妇或哺乳期女性可能需要补充维生素B12。",
+      "section": "Vitamin D and other vitamin supplements during and after pregnancy, and for babies and children under 5",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素B12",
+        "纯素",
+        "孕期",
+        "饮食限制"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "10-12"
+    },
+    {
+      "id": "E-maternal-and-010",
+      "claim": "符合条件的孕妇或哺乳期女性应每日服用一片Healthy Start维生素（含维生素D、C和叶酸）。",
+      "section": "Vitamin D and other vitamin supplements during and after pregnancy, and for babies and children under 5",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "Healthy Start",
+        "维生素",
+        "孕期",
+        "补充剂"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "10-12"
+    },
+    {
+      "id": "E-maternal-and-011",
+      "claim": "5岁以下婴儿和儿童应按照英国政府建议补充维生素，母乳喂养婴儿需补充维生素D，配方奶喂养婴儿若每日摄入至少500ml配方奶则无需额外补充维生素D。",
+      "section": "1.1.13",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素补充",
+        "婴儿",
+        "儿童"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "13-15"
+    },
+    {
+      "id": "E-maternal-and-012",
+      "claim": "孕期或哺乳期女性以及5岁以下儿童，若皮肤黝黑（如非洲、非洲-加勒比或南亚裔）或日照少，应获得免费维生素D补充剂。",
+      "section": "1.1.14",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "免费补充",
+        "高危人群"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "13-15"
+    },
+    {
+      "id": "E-maternal-and-013",
+      "claim": "孕期应提供独立、非商业、循证的健康饮食、身体活动和体重管理信息。",
+      "section": "1.2.1",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康饮食",
+        "身体活动",
+        "体重管理",
+        "信息提供"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "13-15"
+    },
+    {
+      "id": "E-maternal-and-014",
+      "claim": "孕期不需要'吃两人份'，但应每天摄入多种食物以保证营养均衡。",
+      "section": "1.2.2",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期饮食",
+        "营养误区",
+        "均衡饮食"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "13-15"
+    },
+    {
+      "id": "E-maternal-and-015",
+      "claim": "应帮助孕妇获得将健康食品纳入饮食的技能和信心，例如转介至当地烹饪班或健康饮食团体。",
+      "section": "Healthy eating in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "健康饮食",
+        "技能培养",
+        "烹饪班"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-016",
+      "claim": "应与孕妇讨论身体活动的重要性，并提供如何安全继续活动、逐渐增加活动及减少久坐的信息。",
+      "section": "Physical activity in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "身体活动",
+        "孕期运动",
+        "久坐"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-017",
+      "claim": "在讨论孕期体重时，应遵循关于敏感沟通和避免污名化的推荐。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "体重管理",
+        "敏感沟通",
+        "污名"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-018",
+      "claim": "应在首次产前检查时测量孕妇身高体重并计算BMI，对18岁以下者使用BMI百分位图。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "BMI",
+        "产前检查",
+        "青少年"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-019",
+      "claim": "应根据孕妇偏好敏感地共享或不共享其体重和BMI信息。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "体重信息",
+        "共享",
+        "偏好"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-020",
+      "claim": "对于BMI≥30的孕妇，应提供妊娠期糖尿病检测。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "BMI",
+        "妊娠期糖尿病",
+        "检测"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-021",
+      "claim": "对于BMI≥40的孕妇，应讨论转诊至专科肥胖服务或专科医师的选择。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "BMI",
+        "肥胖",
+        "转诊"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "16-18"
+    },
+    {
+      "id": "E-maternal-and-022",
+      "claim": "孕期不应常规称体重，除非有临床原因（如妊娠糖尿病、妊娠剧吐或血栓预防）。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期",
+        "体重管理",
+        "称重",
+        "临床指征"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "19-21"
+    },
+    {
+      "id": "E-maternal-and-023",
+      "claim": "孕期不建议故意减重，因为可能对胎儿产生不良影响。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期",
+        "减重",
+        "胎儿风险"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "19-21"
+    },
+    {
+      "id": "E-maternal-and-024",
+      "claim": "孕期体重管理的建议应重点放在保持健康饮食和体力活动上，而非关注具体体重变化数值。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期",
+        "体重管理",
+        "健康饮食",
+        "体力活动"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "19-21"
+    },
+    {
+      "id": "E-maternal-and-025",
+      "claim": "如果孕产妇有兴趣监测孕期体重变化，可参考根据孕前BMI估算的健康总体重变化范围。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期",
+        "体重监测",
+        "孕前BMI"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "19-21"
+    },
+    {
+      "id": "E-maternal-and-026",
+      "claim": "对于妊娠期糖尿病患者，目前没有令人信服的证据表明某种特定饮食（如低血糖指数饮食、低碳水化合物饮食、低脂饮食或高纤维饮食）优于其他饮食。",
+      "section": "Gestational diabetes",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "饮食",
+        "血糖指数"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "22-24"
+    },
+    {
+      "id": "E-maternal-and-027",
+      "claim": "应提供支持以提高持续母乳喂养的可能性，包括孕期和产后阶段的计划、开始和建立母乳喂养。",
+      "section": "Breastfeeding and formula feeding beyond 8 weeks after birth",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "支持",
+        "产后护理"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "22-24"
+    },
+    {
+      "id": "E-maternal-and-028",
+      "claim": "如果纯母乳喂养，应鼓励继续纯母乳喂养直至大约6个月。",
+      "section": "Supporting continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "纯母乳喂养",
+        "6个月"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "22-24"
+    },
+    {
+      "id": "E-maternal-and-029",
+      "claim": "应讨论继续母乳喂养至第一年并持续至2岁或更久的重要性。",
+      "section": "Supporting continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "持续时间",
+        "固体食物"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "22-24"
+    },
+    {
+      "id": "E-maternal-and-030",
+      "claim": "哺乳期不需要特殊饮食，但应保持健康饮食。",
+      "section": "Supporting continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "哺乳期",
+        "饮食",
+        "健康"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "22-24"
+    },
+    {
+      "id": "E-maternal-and-031",
+      "claim": "来自低收入或弱势背景的父母可能需要更多母乳喂养支持，应引导至政府及地方计划。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "低收入",
+        "支持"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-032",
+      "claim": "使用适当的资源（如UK Drugs in Lactation Advisory Service）以确保继续母乳喂养的安全用药。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "药物安全",
+        "哺乳期用药"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-033",
+      "claim": "向伴侣和其他家庭成员提供信息和鼓励，以支持继续母乳喂养。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "家庭支持",
+        "伴侣"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-034",
+      "claim": "讨论继续母乳喂养时，应给予充足时间，信息应清晰、基于证据、一致、个性化、支持性、非评判性、尊重。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "沟通",
+        "信息提供"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-035",
+      "claim": "由经过适当培训的医疗专业人员或同伴支持者提供额外支持（如虚拟支持群、电话、邮件等），以补充但不取代面对面对话。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "同伴支持",
+        "远程支持"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-036",
+      "claim": "提供面对面母乳喂养支持小组会议，由经过适当培训的医疗专业人员或同伴支持者提供个性化、实际、情感和社会支持以维持母乳喂养。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "支持小组",
+        "面对面"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-037",
+      "claim": "对于返回工作或学习的母乳喂养者，应告知他们无需停止母乳喂养。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "返回工作",
+        "继续母乳喂养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-038",
+      "claim": "鼓励母乳喂养者提前告知雇主或教育机构继续母乳喂养的计划，并参与人力资源或学生服务。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "工作",
+        "沟通"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-039",
+      "claim": "讨论如何平衡母乳喂养与返回工作或学习，包括个人偏好、挑战、吸奶设施、法律保护等话题。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "工作与母乳喂养",
+        "法律"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "25-27"
+    },
+    {
+      "id": "E-maternal-and-040",
+      "claim": "雇主和教育机构应为母乳喂养的员工或学生提供灵活或混合工作选项、私密空间、冰箱、额外休息时间等支持。",
+      "section": "Supporting continued breastfeeding after returning to work or study",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "雇主支持",
+        "工作场所",
+        "灵活工作"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-041",
+      "claim": "服务提供者应确保医护人员提供独立、非商业、循证、一致的配方喂养建议。",
+      "section": "Supporting safe and appropriate formula feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "配方喂养",
+        "循证建议",
+        "非商业"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-042",
+      "claim": "医护人员不得展示、分发或使用由婴儿配方、奶瓶和奶嘴制造商提供的任何材料或设备。",
+      "section": "Supporting safe and appropriate formula feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "配方喂养",
+        "非推广",
+        "商业影响"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-043",
+      "claim": "当父母考虑引入配方奶时，应支持其做出知情决定，并告知如何维持母乳供应。",
+      "section": "Supporting safe and appropriate formula feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "配方喂养",
+        "混合喂养",
+        "知情决定",
+        "母乳供应"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-044",
+      "claim": "如果父母使用配方奶，应提供非商业、循证、一致的安全配方喂养建议，并引导至其他非商业资源。",
+      "section": "Supporting safe and appropriate formula feeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "配方喂养",
+        "安全喂养",
+        "非商业资源"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-045",
+      "claim": "婴儿应在出生时和第一周称重，若体重下降超过10%则适当间隔重新测量，但每日不超过一次。",
+      "section": "Weighing babies and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿称重",
+        "体重监测",
+        "出生体重"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-046",
+      "claim": "健康婴儿应在8、12、16周和1岁时称重，与常规免疫同时进行。",
+      "section": "Weighing babies and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿称重",
+        "免疫接种",
+        "健康监测"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-047",
+      "claim": "婴儿称重应使用维护校准的数字秤，不应使用弹簧秤。",
+      "section": "Weighing babies and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿称重",
+        "数字秤",
+        "弹簧秤"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-048",
+      "claim": "管理者应确保卫生专业人员接受婴儿称重培训，包括设备使用、记录解读和与家长沟通。",
+      "section": "Weighing babies and young children",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "称重培训",
+        "卫生专业人员",
+        "家长沟通"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "28-30"
+    },
+    {
+      "id": "E-maternal-and-049",
+      "claim": "婴儿应在约6个月大时开始引入固体食物，同时继续母乳喂养。",
+      "section": "Introducing solid foods (complementary feeding) for babies between 6 months and 1 year old",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿",
+        "固体食物引入",
+        "6个月",
+        "辅食",
+        "母乳喂养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "31-33"
+    },
+    {
+      "id": "E-maternal-and-050",
+      "claim": "在婴儿2、3和4个月大时，应提醒父母不要过早引入固体食物（至少等到6个月）。",
+      "section": "Introducing solid foods (complementary feeding) for babies between 6 months and 1 year old",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿",
+        "固体食物引入",
+        "过早",
+        "提醒",
+        "4个月"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "31-33"
+    },
+    {
+      "id": "E-maternal-and-051",
+      "claim": "对于6个月至1岁的婴儿，应在每次接触和8-12个月发育检查时询问喂养情况，并提醒家庭关于引入固体食物的事宜。",
+      "section": "Introducing solid foods (complementary feeding) for babies between 6 months and 1 year",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿喂养",
+        "固体食物引入",
+        "发育检查"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "34-36"
+    },
+    {
+      "id": "E-maternal-and-052",
+      "claim": "儿童1至5岁时，医护人员和早期服务人员应获取独立、非商业、循证一致的健康饮食信息，以符合英国政府指南。",
+      "section": "Healthy eating and drinking for children from 1 to 5 years",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "儿童营养",
+        "健康饮食",
+        "循证信息"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "34-36"
+    },
+    {
+      "id": "E-maternal-and-053",
+      "claim": "为1-5岁儿童提供健康饮食建议时，应考虑家庭情况，并对低收入或弱势背景儿童给予额外支持。",
+      "section": "Healthy eating and drinking for children from 1 to 5 years",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康饮食",
+        "弱势群体",
+        "个性化支持"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "34-36"
+    },
+    {
+      "id": "E-maternal-and-054",
+      "claim": "为1-5岁儿童家庭提供健康饮食信息时，应推荐改善健康食品获取的计划（如Healthy Start、免费学校餐）和烹饪技能培训。",
+      "section": "Healthy eating and drinking for children from 1 to 5 years",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康食品获取",
+        "营养计划",
+        "烹饪技能"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "34-36"
+    },
+    {
+      "id": "E-maternal-and-055",
+      "claim": "配方奶对于儿童不需要，不应给予。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "儿童营养",
+        "配方奶",
+        "喂养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-056",
+      "claim": "含糖饮料不应给予儿童。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "儿童营养",
+        "含糖饮料",
+        "限制"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-057",
+      "claim": "儿童每日果汁摄入不应超过150毫升。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "果汁",
+        "限制",
+        "儿童营养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-058",
+      "claim": "儿童饮料应使用杯子，避免使用带奶嘴的奶瓶。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "喂养方式",
+        "杯子",
+        "奶瓶"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-059",
+      "claim": "从约2岁起，应遵循英国政府Eatwell指南的膳食建议。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "膳食指南",
+        "Eatwell",
+        "2岁"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-060",
+      "claim": "自制食物（不加糖、盐或甜味剂）对儿童更健康。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "自制食物",
+        "减糖",
+        "减盐"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-061",
+      "claim": "两餐之间的零食应选择低糖低盐的食物，如蔬菜、水果、纯牛奶等。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "零食",
+        "低糖",
+        "低盐",
+        "儿童营养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-062",
+      "claim": "家庭共餐有助于培养儿童健康饮食习惯，父母应树立榜样。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "家庭共餐",
+        "榜样",
+        "饮食习惯"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-063",
+      "claim": "应鼓励儿童反复接触和品尝多种蔬菜水果，以增加接受度。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "蔬菜水果",
+        "反复接触",
+        "喂养行为"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-064",
+      "claim": "应避免使用食物作为奖励，改为使用贴纸等其他奖励方式。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "食物奖励",
+        "行为管理",
+        "喂养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-065",
+      "claim": "应警惕商业食品公司可能提供的与政府指南相矛盾的误导信息。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "食品营销",
+        "误导信息",
+        "警惕"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-066",
+      "claim": "应关注健康食品的成本问题，并利用政府计划（如Healthy Start）获取支持。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "成本",
+        "政府支持",
+        "健康食品"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-067",
+      "claim": "早期教育机构应优先考虑健康饮食和饮水，并采取整体机构方法，包括提供健康食物、反复提供不熟悉蔬菜水果、开展食品教育、鼓励家庭参与等。",
+      "section": "1.5.12",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "早期教育机构",
+        "健康饮食",
+        "整体方法"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "37-39"
+    },
+    {
+      "id": "E-maternal-and-068",
+      "claim": "信息提供和教育干预，包括面对面、印刷材料和由医护人员提供，有助于提高孕前及孕期叶酸补充的摄取。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "教育干预",
+        "怀孕",
+        "补充"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "40-42"
+    },
+    {
+      "id": "E-maternal-and-069",
+      "claim": "叶酸补充应主动与可能怀孕、计划怀孕或已怀孕的人讨论。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "咨询",
+        "怀孕",
+        "补充"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "40-42"
+    },
+    {
+      "id": "E-maternal-and-070",
+      "claim": "应告知人们叶酸补充耐受性好、低成本或有时免费，以消除误解和担忧。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "安全性",
+        "成本",
+        "误解"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "40-42"
+    },
+    {
+      "id": "E-maternal-and-071",
+      "claim": "对于有神经管缺陷妊娠史的女性，孕前至孕期服用4mg叶酸可降低神经管缺陷风险。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷",
+        "怀孕",
+        "剂量"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "40-42"
+    },
+    {
+      "id": "E-maternal-and-072",
+      "claim": "目前无证据表明孕前及孕期使用高剂量（5mg或以上）叶酸的效果。",
+      "section": "Folic acid before and during pregnancy",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "高剂量",
+        "怀孕",
+        "证据缺乏"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "40-42"
+    },
+    {
+      "id": "E-maternal-and-073",
+      "claim": "对于有神经管缺陷风险的孕妇，推荐每日补充5mg叶酸。",
+      "section": "Folic acid supplementation before and during pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "神经管缺陷",
+        "高剂量",
+        "孕前"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-074",
+      "claim": "对于BMI超重或肥胖的孕妇，除非有其他风险因素，否则标准剂量叶酸（400微克/日）足够，不需高剂量。",
+      "section": "Folic acid supplementation before and during pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "BMI",
+        "超重",
+        "肥胖",
+        "标准剂量"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-075",
+      "claim": "高剂量叶酸不能预防先兆子痫。",
+      "section": "Folic acid supplementation before and during pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "先兆子痫",
+        "预防"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-076",
+      "claim": "有减重手术史的孕妇需要就叶酸及其他微量营养素咨询专科医生。",
+      "section": "Folic acid supplementation before and during pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "叶酸",
+        "减重手术",
+        "微量营养素"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-077",
+      "claim": "为深色皮肤的孕妇和4岁以下儿童免费提供维生素D补充剂具有成本效益。",
+      "section": "Vitamin D and other vitamin supplements",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "儿童",
+        "深色皮肤",
+        "成本效益"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-078",
+      "claim": "孕期健康饮食信息提供和教育对改善饮食实践有积极效果。",
+      "section": "Healthy eating in pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康饮食",
+        "孕期",
+        "信息提供",
+        "教育"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "43-45"
+    },
+    {
+      "id": "E-maternal-and-079",
+      "claim": "孕期饮食信息来源应基于循证且非商业。",
+      "section": "Dietary advice in pregnancy",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期饮食",
+        "信息源",
+        "循证医学"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "46-48"
+    },
+    {
+      "id": "E-maternal-and-080",
+      "claim": "孕期应开始或保持适度身体活动，并个体化讨论。",
+      "section": "Physical activity in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期",
+        "身体活动",
+        "个体化建议"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "46-48"
+    },
+    {
+      "id": "E-maternal-and-081",
+      "claim": "孕前BMI≥40 kg/m²的孕妇应转诊至专科肥胖服务或专科医生。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "BMI",
+        "转诊",
+        "肥胖",
+        "孕期"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "46-48"
+    },
+    {
+      "id": "E-maternal-and-082",
+      "claim": "孕期不应常规称重，仅在有临床需要时进行。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "体重监测",
+        "孕期",
+        "临床需要"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "46-48"
+    },
+    {
+      "id": "E-maternal-and-083",
+      "claim": "孕期低体重增长和过多体重增长均增加不良结局风险。",
+      "section": "Weight management in pregnancy",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "体重增长",
+        "不良结局",
+        "孕期"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "46-48"
+    },
+    {
+      "id": "E-maternal-and-084",
+      "claim": "饮食改变是妊娠期糖尿病的一线干预措施。",
+      "section": "Gestational diabetes",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "饮食干预",
+        "一线治疗"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-085",
+      "claim": "没有证据显示某一种特定饮食在改善妊娠期糖尿病结局方面优于其他。",
+      "section": "Gestational diabetes",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "饮食",
+        "比较疗效"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-086",
+      "claim": "建议婴儿纯母乳喂养至6个月，并继续母乳喂养至2岁或以上。",
+      "section": "Discussing babies' feeding and supporting continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "持续时间",
+        "婴儿喂养"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-087",
+      "claim": "母乳喂养者无需遵循特殊饮食即可满足婴儿营养需求，但应保持健康均衡饮食。",
+      "section": "Discussing babies' feeding and supporting continued breastfeeding",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "营养",
+        "饮食"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-088",
+      "claim": "由医疗保健专业人员和同伴支持者共同提供的小组干预可有效提高母乳喂养率且节省成本。",
+      "section": "Discussing babies' feeding and supporting continued breastfeeding",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "小组干预",
+        "成本效益"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-089",
+      "claim": "临床医生应使用适当来源确保母乳喂养期间用药安全，以支持继续母乳喂养。",
+      "section": "Discussing babies' feeding and supporting continued breastfeeding",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "母乳喂养",
+        "用药安全",
+        "临床决策"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "49-51"
+    },
+    {
+      "id": "E-maternal-and-090",
+      "claim": "婴儿应在约6个月大时引入固体食物。",
+      "section": "Introducing solid foods",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿辅食",
+        "引入时间",
+        "固体食物"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "55-57"
+    },
+    {
+      "id": "E-maternal-and-091",
+      "claim": "医护人员应在婴儿4-5个月时安排一次详细讨论，以提供引入固体食物的实用建议和支持。",
+      "section": "Introducing solid foods",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "婴儿辅食",
+        "健康咨询",
+        "医护人员"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "55-57"
+    },
+    {
+      "id": "E-maternal-and-092",
+      "claim": "医护人员应帮助家庭讨论获取健康食物的资源（如福利计划），以应对可负担性障碍。",
+      "section": "Introducing solid foods",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康饮食",
+        "食物可负担性",
+        "社会支持"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "55-57"
+    },
+    {
+      "id": "E-maternal-and-093",
+      "claim": "通过个体化讨论、提供资源和福利计划、以及烹饪课程等多种方式，可以改善1-5岁儿童的健康饮食。",
+      "section": "Healthy eating and drinking for children from 1 to 5 years",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "儿童健康饮食",
+        "干预方式",
+        "家庭支持"
+      ],
+      "source_doc": "Maternal and child nutrition: nutrition and weight management in pregnancy and nutrition in children up to 5 years",
+      "org": "英国国家健康与照护卓越研究院 (NICE)",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+      "page": "55-57"
+    }
+  ]
+}

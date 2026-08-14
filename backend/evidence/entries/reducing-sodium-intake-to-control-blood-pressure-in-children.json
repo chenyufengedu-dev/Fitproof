@@ -1,0 +1,48 @@
+{
+  "doc": "Reducing sodium intake to control blood pressure in children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sodium-bp-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-reducing-sod-001",
+      "claim": "WHO推荐减少钠摄入以控制2-15岁儿童的血压。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "钠",
+        "血压",
+        "儿童",
+        "高血压",
+        "心血管疾病"
+      ],
+      "source_doc": "Reducing sodium intake to control blood pressure in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sodium-bp-children",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-sod-002",
+      "claim": "成人每日钠摄入上限2克的推荐值应根据儿童能量需求向下调整。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "钠",
+        "摄入量",
+        "儿童",
+        "能量需求"
+      ],
+      "source_doc": "Reducing sodium intake to control blood pressure in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sodium-bp-children",
+      "page": "1-3"
+    }
+  ]
+}

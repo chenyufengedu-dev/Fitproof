@@ -1,0 +1,100 @@
+{
+  "doc": "Tdap Vaccination During Pregnancy",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2025",
+  "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+  "complete": true,
+  "done_windows": 2,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-tdap-vaccina-001",
+      "claim": "孕妇应在每次妊娠的第27至36周接种Tdap疫苗，最好在早期阶段。",
+      "section": "Who should receive the vaccine and when",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "Tdap",
+        "孕妇",
+        "疫苗接种时机",
+        "百日咳"
+      ],
+      "source_doc": "Tdap Vaccination During Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-tdap-vaccina-002",
+      "claim": "Tdap疫苗在孕期非常安全，不会增加妊娠并发症风险。",
+      "section": "Safety",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "Tdap",
+        "安全性",
+        "孕妇"
+      ],
+      "source_doc": "Tdap Vaccination During Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-tdap-vaccina-003",
+      "claim": "孕期接种Tdap可将2月龄以下婴儿百日咳风险降低78%。",
+      "section": "Protecting baby from whooping cough",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "Tdap",
+        "保护效果",
+        "婴儿",
+        "百日咳"
+      ],
+      "source_doc": "Tdap Vaccination During Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-tdap-vaccina-004",
+      "claim": "孕期接种Tdap可保护9/10婴儿免受严重百日咳感染住院。",
+      "section": "Protecting babies from serious complications",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "Tdap",
+        "严重并发症",
+        "住院",
+        "保护效果"
+      ],
+      "source_doc": "Tdap Vaccination During Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+      "page": "1-3"
+    },
+    {
+      "id": "E-tdap-vaccina-005",
+      "claim": "产后接种Tdap不能立即为婴儿提供保护性抗体，婴儿仍面临风险。",
+      "section": "Vaccination after delivery leaves baby without protective antibodies",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "Tdap",
+        "产后接种",
+        "婴儿保护",
+        "百日咳"
+      ],
+      "source_doc": "Tdap Vaccination During Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/pertussis/vaccines/tdap-vaccination-during-pregnancy.html",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+  "org": "营养学进展 (Advances in Nutrition)",
+  "year": "2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+  "complete": true,
+  "done_windows": 5,
+  "count": 12,
+  "entries": [
+    {
+      "id": "E-impact-of-me-001",
+      "claim": "相比于每日3餐或6餐，每日2餐可能轻微减轻体重。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "body weight",
+        "isocaloric",
+        "network meta-analysis"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-impact-of-me-002",
+      "claim": "相比于每日6餐，每日2餐可能减少腰围。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "waist circumference",
+        "isocaloric",
+        "network meta-analysis"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-impact-of-me-003",
+      "claim": "每天两餐比每天三餐可能轻微降低体重（中等确定性证据）",
+      "section": "Body weight",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "餐次频率",
+        "体重",
+        "系统评价",
+        "网络荟萃分析"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-impact-of-me-004",
+      "claim": "每天两餐比每天六餐可能轻微降低体重（中等确定性证据）",
+      "section": "Body weight",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "餐次频率",
+        "体重",
+        "系统评价",
+        "网络荟萃分析"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-impact-of-me-005",
+      "claim": "每天两餐比每天六餐可能改善腰围（中等确定性证据）",
+      "section": "Waist circumference",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "餐次频率",
+        "腰围",
+        "系统评价",
+        "网络荟萃分析"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-impact-of-me-006",
+      "claim": "在短期内，每天2餐比每天6餐更能降低体重和腰围。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "body weight",
+        "waist circumference"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-impact-of-me-007",
+      "claim": "每天1餐或2餐与每天≥8餐相比，对体重的影响证据质量很低，结论不确定。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "body weight",
+        "evidence certainty"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-impact-of-me-008",
+      "claim": "每天1餐与每天3餐相比，对脂肪质量的影响证据质量非常低，结论不确定。",
+      "section": "Discussion",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "fat mass",
+        "evidence certainty"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-impact-of-me-009",
+      "claim": "不同进餐频率对能量摄入无显著差异。",
+      "section": "Results",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "meal frequency",
+        "energy intake"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "10-12"
+    },
+    {
+      "id": "E-impact-of-me-010",
+      "claim": "减少进餐频率不是改善人体测量结局（如体重、腰围）的有益策略。",
+      "section": "Conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "进餐频率",
+        "体重",
+        "腰围",
+        "人体测量"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-impact-of-me-011",
+      "claim": "在等热量条件下，增加进餐频率可能对减重无效。",
+      "section": "Implications",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "进餐频率",
+        "减重",
+        "等热量"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-impact-of-me-012",
+      "claim": "当前证据不支持增加进餐频率的建议。",
+      "section": "Conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "进餐频率",
+        "建议",
+        "体重管理"
+      ],
+      "source_doc": "Impact of Meal Frequency on Anthropometric Outcomes: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials",
+      "org": "营养学进展 (Advances in Nutrition)",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32437566/",
+      "page": "13-15"
+    }
+  ]
+}

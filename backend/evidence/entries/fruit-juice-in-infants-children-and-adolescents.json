@@ -1,0 +1,335 @@
+{
+  "doc": "Fruit Juice in Infants, Children, and Adolescents",
+  "org": "美国儿科学会 (AAP)",
+  "year": "2017",
+  "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+  "complete": true,
+  "done_windows": 3,
+  "count": 18,
+  "entries": [
+    {
+      "id": "E-fruit-juice--001",
+      "claim": "对于便秘的婴儿，可使用西梅汁、梨汁或苹果汁等含山梨醇的果汁来增加大便频率和含水量。",
+      "section": "Absorption of Carbohydrate From Juice",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿便秘",
+        "果汁",
+        "山梨醇",
+        "西梅汁"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fruit-juice--002",
+      "claim": "幼儿腹泻可通过去除过量果汁来改善。",
+      "section": "Absorption of Carbohydrate From Juice",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "幼儿腹泻",
+        "果汁",
+        "过量摄入"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fruit-juice--003",
+      "claim": "100%果汁可替代每天水果摄入量的至多一半，但果汁缺乏纤维，不如整果有营养优势。",
+      "section": "Strategies Regarding Juice in the Dietary Guidelines for Americans",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "水果摄入",
+        "膳食纤维",
+        "营养",
+        "儿童"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fruit-juice--004",
+      "claim": "葡萄柚汁可能减少CYP3A4活性，导致某些药物生物利用度增加，但临床意义难以预测，需考虑果汁摄入量及药物治疗指数。",
+      "section": "Pharmacologic Considerations Associated With Fruit Juice Ingestion",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "葡萄柚汁",
+        "药物相互作用",
+        "CYP3A4",
+        "果汁"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "1-3"
+    },
+    {
+      "id": "E-fruit-juice--005",
+      "claim": "未经过巴氏消毒的果汁可能含有大肠杆菌、沙门氏菌等病原体，对儿童有害，应避免给儿童食用。",
+      "section": "Microbial Safety of Juice",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "食品安全",
+        "巴氏消毒",
+        "儿童"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--006",
+      "claim": "水果果汁对6个月以下婴儿没有营养益处，不应在婴儿12个月前引入，除非有医学指征。",
+      "section": "Infants",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "婴儿",
+        "营养",
+        "引入时机"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--007",
+      "claim": "1-3岁幼儿每天果汁摄入量不超过4盎司（约120毫升）；4-6岁儿童不超过4-6盎司；7-18岁儿童不超过8盎司（约240毫升）。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "儿童",
+        "摄入量",
+        "年龄"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--008",
+      "claim": "幼儿不应使用奶瓶或易携带带盖杯饮用果汁，也不应在睡前给予果汁。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "幼儿",
+        "饮用方式",
+        "龋齿"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--009",
+      "claim": "应鼓励儿童吃整个水果而非喝果汁，以获得纤维和增加饱腹感。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "整个水果",
+        "纤维",
+        "儿童营养"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--010",
+      "claim": "母乳或不含糖的配方奶对婴儿足以满足液体需求；低脂/脱脂牛奶和水对较大儿童足够。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "液体需求",
+        "母乳",
+        "牛奶",
+        "水"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--011",
+      "claim": "未经过巴氏消毒的果汁产品应强烈劝阻在婴儿、儿童和青少年中食用。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "巴氏消毒",
+        "食品安全",
+        "儿童"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--012",
+      "claim": "服用经CYP3A4代谢药物的儿童应避免饮用葡萄柚汁。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "葡萄柚汁",
+        "药物相互作用",
+        "CYP3A4",
+        "儿童"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--013",
+      "claim": "在评估营养不良（营养过剩或营养不足）的儿童时，儿科医生应确定果汁摄入量。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "营养不良",
+        "评估",
+        "儿科医生"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--014",
+      "claim": "在评估慢性腹泻、过度胀气、腹痛和腹胀的儿童时，儿科医生应确定果汁摄入量。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "腹泻",
+        "胀气",
+        "腹部症状"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--015",
+      "claim": "在评估龋齿风险时，儿科医生应常规讨论果汁与龋齿的关系并确定果汁摄入量和方式。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "龋齿",
+        "口腔健康",
+        "评估"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--016",
+      "claim": "儿科医生应常规教育儿童和家长关于果汁和果味饮料的营养差异。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "果味饮料",
+        "营养教育",
+        "儿科医生"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--017",
+      "claim": "儿科医生应倡导减少幼儿饮食中的果汁摄入，并消除体重增长异常（过少或过多）儿童中的果汁。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "幼儿",
+        "体重管理",
+        "儿科医生"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    },
+    {
+      "id": "E-fruit-juice--018",
+      "claim": "儿科医生应支持减少果汁消费和促进幼儿及儿童食用整个水果的政策，包括通过WIC计划。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "果汁",
+        "政策倡导",
+        "整个水果",
+        "WIC"
+      ],
+      "source_doc": "Fruit Juice in Infants, Children, and Adolescents",
+      "org": "美国儿科学会 (AAP)",
+      "year": "2017",
+      "url": "https://publications.aap.org/pediatrics/article/139/6/e20170967/38754/Fruit-Juice-in-Infants-Children-and-Adolescents",
+      "page": "4-6"
+    }
+  ]
+}

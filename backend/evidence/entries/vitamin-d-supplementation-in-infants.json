@@ -1,0 +1,30 @@
+{
+  "doc": "Vitamin D supplementation in infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamind-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-d-su-001",
+      "claim": "目前尚无足够证据支持对婴儿常规补充维生素D的具体推荐，需要进一步研究。",
+      "section": "WHO Recommendations",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "维生素D",
+        "婴儿",
+        "补充剂",
+        "佝偻病",
+        "研究"
+      ],
+      "source_doc": "Vitamin D supplementation in infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamind-infants",
+      "page": "1-3"
+    }
+  ]
+}

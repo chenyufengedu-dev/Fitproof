@@ -1,0 +1,28 @@
+{
+  "doc": "Aristolochic Acids Fact Sheet",
+  "org": "美国国家癌症研究所 (NCI)",
+  "year": "2022",
+  "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/aristolochic-acids",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-aristolochic-001",
+      "claim": "为降低风险，不要使用含有马兜铃酸的草药产品。",
+      "section": "Cancer Causes and Prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "马兜铃酸",
+        "草药产品",
+        "癌症预防"
+      ],
+      "source_doc": "Aristolochic Acids Fact Sheet",
+      "org": "美国国家癌症研究所 (NCI)",
+      "year": "2022",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/aristolochic-acids",
+      "page": "1-3"
+    }
+  ]
+}

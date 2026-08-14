@@ -1,0 +1,30 @@
+{
+  "doc": "Increasing fruit and vegetable consumption to reduce the risk of noncommunicable diseases",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/fruit-vegetables-ncds",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-increasing-f-001",
+      "claim": "WHO建议每天摄入超过400克水果和蔬菜以改善整体健康并降低某些非传染性疾病的风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "水果",
+        "蔬菜",
+        "非传染性疾病",
+        "膳食指南",
+        "每日摄入量"
+      ],
+      "source_doc": "Increasing fruit and vegetable consumption to reduce the risk of noncommunicable diseases",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/fruit-vegetables-ncds",
+      "page": "1-3"
+    }
+  ]
+}

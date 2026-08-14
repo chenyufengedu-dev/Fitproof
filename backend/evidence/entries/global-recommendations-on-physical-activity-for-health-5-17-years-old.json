@@ -1,0 +1,123 @@
+{
+  "doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2010",
+  "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+  "complete": true,
+  "done_windows": 1,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-global-recom-001",
+      "claim": "身体活动为5-17岁儿童青少年提供基本健康益处，包括发展健康的肌肉骨骼组织、心血管系统、神经肌肉意识，维持健康体重，并改善焦虑抑郁症状，促进社交发展。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "身体活动",
+        "健康益处"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    },
+    {
+      "id": "E-global-recom-002",
+      "claim": "5-17岁儿童青少年每天应积累至少60分钟中高强度身体活动。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "身体活动",
+        "60分钟",
+        "中高强度"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    },
+    {
+      "id": "E-global-recom-003",
+      "claim": "超过60分钟的身体活动提供额外健康益处。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "身体活动",
+        "额外益处"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    },
+    {
+      "id": "E-global-recom-004",
+      "claim": "每日大部分身体活动应是有氧运动；每周至少3次进行包括加强肌肉和骨骼的高强度活动。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "有氧运动",
+        "高强度活动",
+        "肌肉骨骼"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    },
+    {
+      "id": "E-global-recom-005",
+      "claim": "残疾儿童青少年应尽可能达到身体活动推荐量，但应与医疗提供者合作确定适合的活动类型和量。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "残疾",
+        "身体活动",
+        "医疗建议"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    },
+    {
+      "id": "E-global-recom-006",
+      "claim": "目前不活动的儿童，即使低于推荐水平的身体活动也比完全不活动更有益；应从少量开始逐渐增加。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "运动健身",
+        "儿童",
+        "青少年",
+        "不活动",
+        "身体活动",
+        "循序渐进"
+      ],
+      "source_doc": "Global Recommendations on Physical Activity for Health 5–17 years old",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2010",
+      "url": "https://www.who.int/docs/default-source/physical-activity/information-sheet-global-recommendations-on-physical-activity-for-health/physical-activity-recommendations-5-17years.pdf",
+      "page": "1-1"
+    }
+  ]
+}

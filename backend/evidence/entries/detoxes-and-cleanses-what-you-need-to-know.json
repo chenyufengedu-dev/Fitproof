@@ -1,0 +1,115 @@
+{
+  "doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+  "org": "美国国家补充与整合健康中心 (NCCIH)",
+  "year": "2019",
+  "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+  "complete": true,
+  "done_windows": 2,
+  "count": 6,
+  "entries": [
+    {
+      "id": "E-detoxes-and--001",
+      "claim": "目前没有高质量研究支持“解毒”饮食用于体重管理或从身体中排除毒素。",
+      "section": "What does the research say about “detoxes” and “cleanses”?",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "解毒饮食",
+        "体重管理",
+        "排毒",
+        "研究证据"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    },
+    {
+      "id": "E-detoxes-and--002",
+      "claim": "果汁和“解毒”饮食可导致初期体重下降，但恢复正常饮食后体重容易反弹。",
+      "section": "What does the research say about “detoxes” and “cleanses”?",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "果汁饮食",
+        "体重反弹",
+        "解毒饮食"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    },
+    {
+      "id": "E-detoxes-and--003",
+      "claim": "美国FDA和FTC已对多家销售排毒产品的公司采取行动，因其含有隐藏成分、虚假宣传或未经批准用途。",
+      "section": "What about safety?",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "FDA",
+        "FTC",
+        "排毒产品",
+        "虚假宣传"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    },
+    {
+      "id": "E-detoxes-and--004",
+      "claim": "缺乏临床证据支持结肠灌洗的用途，且结肠清洁程序可能有严重副作用。",
+      "section": "What about safety?",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "结肠灌洗",
+        "副作用",
+        "临床证据"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    },
+    {
+      "id": "E-detoxes-and--005",
+      "claim": "未经巴氏消毒的果汁可能致病，尤其对儿童、老人和免疫低下者风险更高。",
+      "section": "What about safety?",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "果汁",
+        "巴氏消毒",
+        "食品安全"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    },
+    {
+      "id": "E-detoxes-and--006",
+      "claim": "严格限制热量或食物种类的饮食通常不能带来持久的体重减轻，且可能缺乏营养。",
+      "section": "What about safety?",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "限制热量",
+        "体重减轻",
+        "营养不足"
+      ],
+      "source_doc": "“Detoxes” and “Cleanses”: What You Need To Know",
+      "org": "美国国家补充与整合健康中心 (NCCIH)",
+      "year": "2019",
+      "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know",
+      "page": "1-3"
+    }
+  ]
+}

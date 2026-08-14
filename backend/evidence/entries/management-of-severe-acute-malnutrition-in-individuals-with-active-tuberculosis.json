@@ -1,0 +1,47 @@
+{
+  "doc": "Management of severe acute malnutrition in individuals with active tuberculosis",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/sam-tuberculosis",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-management-o-001",
+      "claim": "学龄儿童（5-19岁）和成人（包括孕妇和哺乳期妇女）若患有活动性结核合并严重急性营养不良，应按照WHO严重急性营养不良管理指南进行治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "活动性结核",
+        "严重急性营养不良",
+        "学龄儿童",
+        "成人",
+        "孕妇"
+      ],
+      "source_doc": "Management of severe acute malnutrition in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-tuberculosis",
+      "page": "1-3"
+    },
+    {
+      "id": "E-management-o-002",
+      "claim": "5岁以下活动性结核合并严重急性营养不良的儿童应按照WHO儿童严重急性营养不良管理指南进行治疗。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "活动性结核",
+        "严重急性营养不良",
+        "5岁以下儿童"
+      ],
+      "source_doc": "Management of severe acute malnutrition in individuals with active tuberculosis",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/sam-tuberculosis",
+      "page": "1-3"
+    }
+  ]
+}

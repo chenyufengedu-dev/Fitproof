@@ -1,0 +1,30 @@
+{
+  "doc": "Daily iron supplementation in adult women and adolescent girls",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/daily-iron-women",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "在贫血患病率≥40%的地区的经期成年女性和青春期女孩，每日补铁可预防贫血和缺铁。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "贫血",
+        "缺铁",
+        "女性",
+        "青春期"
+      ],
+      "source_doc": "Daily iron supplementation in adult women and adolescent girls",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/daily-iron-women",
+      "page": "1-3"
+    }
+  ]
+}

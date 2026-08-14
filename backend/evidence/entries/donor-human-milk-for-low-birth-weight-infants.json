@@ -1,0 +1,46 @@
+{
+  "doc": "Donor human milk for low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/donormilk-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-donor-human--001",
+      "claim": "低出生体重婴儿应优先喂养母亲的母乳。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "母乳喂养",
+        "母亲母乳"
+      ],
+      "source_doc": "Donor human milk for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/donormilk-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-donor-human--002",
+      "claim": "当无法获得母亲的母乳时，低出生体重婴儿（包括极低出生体重婴儿）应喂养捐赠母乳。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "捐赠母乳",
+        "替代喂养",
+        "坏死性小肠结肠炎"
+      ],
+      "source_doc": "Donor human milk for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/donormilk-infants",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "doc": "Vitamin D",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2022",
+  "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-vitamin-d-001",
+      "claim": "母乳喂养的婴儿出生后不久需要额外补充维生素D。",
+      "section": "维生素D与母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "母乳喂养",
+        "婴儿",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin D",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2022",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-002",
+      "claim": "母乳喂养和部分母乳喂养的婴儿应从出生后几天开始每日补充400 IU的维生素D。",
+      "section": "维生素D与母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "母乳喂养",
+        "婴儿",
+        "剂量",
+        "推荐"
+      ],
+      "source_doc": "Vitamin D",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2022",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-003",
+      "claim": "12个月以下的儿童每日需要400 IU的维生素D。",
+      "section": "维生素D与母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "婴儿",
+        "剂量"
+      ],
+      "source_doc": "Vitamin D",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2022",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-004",
+      "claim": "12至24个月的儿童每日需要600 IU的维生素D。",
+      "section": "维生素D与母乳喂养",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "幼儿",
+        "剂量"
+      ],
+      "source_doc": "Vitamin D",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2022",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-vitamin-d-005",
+      "claim": "由于阳光暴露变化且可能增加皮肤癌风险，推荐母乳喂养婴儿补充维生素D。",
+      "section": "对于医疗保健提供者",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "维生素D",
+        "母乳喂养",
+        "阳光暴露",
+        "皮肤癌",
+        "补充剂"
+      ],
+      "source_doc": "Vitamin D",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2022",
+      "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html",
+      "page": "1-2"
+    }
+  ]
+}

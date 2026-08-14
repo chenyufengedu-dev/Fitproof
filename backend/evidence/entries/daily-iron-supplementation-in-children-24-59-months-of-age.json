@@ -1,0 +1,29 @@
+{
+  "doc": "Daily iron supplementation in children 24–59 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-children-24to59",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "对于贫血患病率≥40%的地区，24-59月龄儿童应每日补充铁剂以增加血红蛋白浓度和改善铁状态。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "贫血",
+        "儿童",
+        "血红蛋白"
+      ],
+      "source_doc": "Daily iron supplementation in children 24–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-24to59",
+      "page": "1-3"
+    }
+  ]
+}

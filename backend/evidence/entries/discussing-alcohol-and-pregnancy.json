@@ -1,0 +1,62 @@
+{
+  "doc": "Discussing Alcohol and Pregnancy",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2025",
+  "url": "https://www.cdc.gov/alcohol-pregnancy/media/pdfs/2025/04/FactSheet4_DiscussingAlcoholandPregnancy_RevFeb25-508.pdf",
+  "complete": true,
+  "done_windows": 1,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-discussing-a-001",
+      "claim": "孕期应完全避免饮酒。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期饮酒",
+        "胎儿酒精谱系障碍",
+        "避免饮酒"
+      ],
+      "source_doc": "Discussing Alcohol and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/alcohol-pregnancy/media/pdfs/2025/04/FactSheet4_DiscussingAlcoholandPregnancy_RevFeb25-508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-discussing-a-002",
+      "claim": "孕期没有已知的安全饮酒量、安全时间或安全类型。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕期饮酒",
+        "安全性",
+        "胎儿酒精谱系障碍"
+      ],
+      "source_doc": "Discussing Alcohol and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/alcohol-pregnancy/media/pdfs/2025/04/FactSheet4_DiscussingAlcoholandPregnancy_RevFeb25-508.pdf",
+      "page": "1-2"
+    },
+    {
+      "id": "E-discussing-a-003",
+      "claim": "应使用经过验证的筛查工具作为酒精使用对话的一部分。",
+      "section": "5 TIPS FOR TALKING WITH PATIENTS WHO CAN BECOME PREGNANT",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "酒精筛查",
+        "筛查工具",
+        "临床实践"
+      ],
+      "source_doc": "Discussing Alcohol and Pregnancy",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2025",
+      "url": "https://www.cdc.gov/alcohol-pregnancy/media/pdfs/2025/04/FactSheet4_DiscussingAlcoholandPregnancy_RevFeb25-508.pdf",
+      "page": "1-2"
+    }
+  ]
+}

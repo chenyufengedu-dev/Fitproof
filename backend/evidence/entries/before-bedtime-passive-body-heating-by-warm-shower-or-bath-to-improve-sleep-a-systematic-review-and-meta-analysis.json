@@ -1,0 +1,225 @@
+{
+  "doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+  "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+  "year": "2019",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+  "complete": true,
+  "done_windows": 8,
+  "count": 12,
+  "entries": [
+    {
+      "id": "E-before-bedti-001",
+      "claim": "温水淋浴或泡澡可作为管理失眠的简单低成本非药物手段。",
+      "section": "引言",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "被动身体加热",
+        "失眠",
+        "水浴",
+        "睡眠"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-before-bedti-002",
+      "claim": "睡前1-2小时进行热水淋浴或泡澡可显著缩短入睡潜伏期。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "热水浴",
+        "入睡潜伏期",
+        "睡眠"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-before-bedti-003",
+      "claim": "睡前热水淋浴或泡澡可显著提高睡眠效率。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "热水浴",
+        "睡眠效率",
+        "睡眠"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-before-bedti-004",
+      "claim": "睡前热水淋浴或泡澡对入睡后觉醒时间和总睡眠时间无显著影响。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "热水浴",
+        "入睡后觉醒时间",
+        "总睡眠时间",
+        "睡眠"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "13-15"
+    },
+    {
+      "id": "E-before-bedti-005",
+      "claim": "睡前1-2小时进行温水淋浴或泡澡可以显著缩短入睡时间，平均减少约8.6分钟（36%），并提高睡眠效率。",
+      "section": "DISCUSSION",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "睡前沐浴",
+        "入睡潜伏期",
+        "睡眠效率",
+        "体温",
+        "荟萃分析"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-before-bedti-006",
+      "claim": "睡前温水淋浴或泡澡改善睡眠的最佳时间窗口是在睡前1-2小时进行。",
+      "section": "DISCUSSION",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "睡前沐浴",
+        "时间间隔",
+        "入睡潜伏期"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "16-18"
+    },
+    {
+      "id": "E-before-bedti-007",
+      "claim": "睡前1-2小时的温水淋浴或泡澡可以缩短入睡时间。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "入睡时间",
+        "睡前加热",
+        "温水浴",
+        "睡眠改善"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "19-21"
+    },
+    {
+      "id": "E-before-bedti-008",
+      "claim": "睡前通过温水浴降低核心体温的幅度比实际体温水平更与缩短入睡时间相关。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "核心体温",
+        "入睡时间",
+        "体温下降幅度",
+        "睡前加热"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "19-21"
+    },
+    {
+      "id": "E-before-bedti-009",
+      "claim": "睡前1-2小时进行至少10分钟的温水淋浴、足浴或全身浴可以改善睡眠，特别是缩短入睡潜伏期。",
+      "section": "CONCLUSION",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "温水浴",
+        "睡前",
+        "入睡潜伏期",
+        "睡眠改善"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "22-24"
+    },
+    {
+      "id": "E-before-bedti-010",
+      "claim": "睡前1-2小时进行至少10分钟的温水淋浴或足浴/泡澡可以缩短入睡潜伏期并提高睡眠效率。",
+      "section": "Practice Points",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "睡眠",
+        "温水沐浴",
+        "入睡潜伏期",
+        "睡眠效率"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "25-27"
+    },
+    {
+      "id": "E-before-bedti-011",
+      "claim": "温水淋浴或足浴/泡澡可以改善主观睡眠质量，可能通过增加慢波睡眠和改善其他睡眠参数（如入睡后觉醒时间和总睡眠时间）实现。",
+      "section": "Practice Points",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "睡眠质量",
+        "慢波睡眠",
+        "温水沐浴",
+        "睡眠参数"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "25-27"
+    },
+    {
+      "id": "E-before-bedti-012",
+      "claim": "被动体热对睡眠准备和入睡潜伏期的影响与核心体温下降的程度关联最强，而非核心体温的绝对水平。",
+      "section": "Practice Points",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "核心体温",
+        "被动体热",
+        "入睡潜伏期",
+        "睡眠准备"
+      ],
+      "source_doc": "Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31102877/",
+      "page": "25-27"
+    }
+  ]
+}

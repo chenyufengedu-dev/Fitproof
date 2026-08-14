@@ -1,0 +1,29 @@
+{
+  "doc": "Calcium supplementation before pregnancy for the prevention of pre-eclampsia and its complications",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/calcium-prepregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-calcium-supp-001",
+      "claim": "仅在严格研究背景下推荐孕前补充钙以预防先兆子痫及其并发症。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "钙补充",
+        "孕前",
+        "先兆子痫",
+        "妊娠期高血压"
+      ],
+      "source_doc": "Calcium supplementation before pregnancy for the prevention of pre-eclampsia and its complications",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/calcium-prepregnancy",
+      "page": "1-3"
+    }
+  ]
+}

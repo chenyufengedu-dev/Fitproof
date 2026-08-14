@@ -1,0 +1,99 @@
+{
+  "doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+  "org": "儿科学 (Pediatrics)",
+  "year": "2016",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-a-baby-led-a-001",
+      "claim": "遵循婴儿主导辅食添加（含降低窒息风险建议）的婴儿，其窒息风险并不高于传统喂养方式。",
+      "section": "结论",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴儿主导辅食添加",
+        "窒息风险",
+        "婴儿喂养"
+      ],
+      "source_doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+      "org": "儿科学 (Pediatrics)",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-a-baby-led-a-002",
+      "claim": "在婴儿主导和传统喂养两组中，都有大量婴儿被提供了存在窒息风险的食物。",
+      "section": "结论",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "窒息风险",
+        "不安全喂养",
+        "婴儿辅食"
+      ],
+      "source_doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+      "org": "儿科学 (Pediatrics)",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-a-baby-led-a-003",
+      "claim": "采用改良版BLW方法（BLISS）的婴儿在1岁内发生窒息事件的风险并不高于传统勺喂的婴儿。",
+      "section": "Discussion and Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "BLW",
+        "婴儿窒息",
+        "辅食喂养",
+        "安全性"
+      ],
+      "source_doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+      "org": "儿科学 (Pediatrics)",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-a-baby-led-a-004",
+      "claim": "经改良的婴儿主导辅食喂养方法与传统勺喂方法在窒息风险方面同样安全。",
+      "section": "Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "BLW",
+        "勺喂",
+        "窒息风险",
+        "安全性"
+      ],
+      "source_doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+      "org": "儿科学 (Pediatrics)",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-a-baby-led-a-005",
+      "claim": "父母和照护者需要学习如何提供安全的食物和喂养环境，并且必须教他们如何处理不可避免的窒息事件。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "窒息",
+        "安全喂养",
+        "辅食添加",
+        "父母教育"
+      ],
+      "source_doc": "A Baby-Led Approach to Eating Solids and Risk of Choking",
+      "org": "儿科学 (Pediatrics)",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647715/",
+      "page": "7-9"
+    }
+  ]
+}

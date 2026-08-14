@@ -1,0 +1,513 @@
+{
+  "doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+  "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+  "year": "2024",
+  "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-dietary-supp-001",
+      "claim": "几乎没有科学证据表明减肥补充剂有效。",
+      "section": "概述",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "减肥补充剂",
+        "有效性"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-002",
+      "claim": "β-葡聚糖对体重没有影响。",
+      "section": "β-葡聚糖",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-葡聚糖",
+        "体重",
+        "无效"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-003",
+      "claim": "β-葡聚糖在每日最高10克、持续12周内是安全的。",
+      "section": "β-葡聚糖",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "β-葡聚糖",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-004",
+      "claim": "咖啡因每日400-500毫克对大多数成人是安全的。",
+      "section": "咖啡因",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "咖啡因",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-005",
+      "claim": "钙（来自食物或补充剂）可能无助于减肥或防止体重增加。",
+      "section": "钙",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "钙",
+        "减肥",
+        "无效"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-006",
+      "claim": "成人每日推荐钙摄入量为1000-1200毫克，在此范围内安全。",
+      "section": "钙",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "钙",
+        "安全性",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-007",
+      "claim": "辣椒素在每日最高33毫克（持续4周）或4毫克（持续12周）内是安全的。",
+      "section": "辣椒素",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "辣椒素",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-008",
+      "claim": "肉碱补充剂在每日最高2克（持续1年）或4克（持续56天）内似乎是安全的。",
+      "section": "肉碱",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "肉碱",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-009",
+      "claim": "壳聚糖结合的脂肪量极少，不足以显著减轻体重。",
+      "section": "壳聚糖",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "壳聚糖",
+        "减肥",
+        "无效"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-010",
+      "claim": "壳聚糖在每日最高15克、持续6个月内似乎是安全的。",
+      "section": "壳聚糖",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "壳聚糖",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-011",
+      "claim": "铬在食品和补充剂中，成人每日20-45微克的推荐摄入量范围内是安全的。",
+      "section": "铬",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "铬",
+        "安全性",
+        "推荐摄入量"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-012",
+      "claim": "考虑服用减肥补充剂前应咨询医疗保健提供者。",
+      "section": "概述",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "减肥补充剂",
+        "咨询",
+        "安全"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-dietary-supp-013",
+      "claim": "Forskolin（来自Coleus forskohlii）对体重或食欲没有明显效果。",
+      "section": "Coleus forskohlii",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Coleus forskohlii",
+        "Forskolin",
+        "减重",
+        "食欲"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-014",
+      "claim": "CLA可能有助于减轻少量体重和体脂。",
+      "section": "Conjugated linoleic acid",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "CLA",
+        "减重",
+        "体脂"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-015",
+      "claim": "Fucoxanthin对减重的效果尚不明确。",
+      "section": "Fucoxanthin",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Fucoxanthin",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-016",
+      "claim": "Garcinia cambogia对减重几乎没有效果。",
+      "section": "Garcinia cambogia",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Garcinia cambogia",
+        "减重",
+        "HCA"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-017",
+      "claim": "Glucomannan对减重几乎没有效果。",
+      "section": "Glucomannan",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Glucomannan",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-018",
+      "claim": "绿咖啡豆提取物可能有助于减轻少量体重。",
+      "section": "Green coffee bean extract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "绿咖啡豆提取物",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-019",
+      "claim": "绿茶可能有助于减轻少量体重。",
+      "section": "Green tea and green tea extract",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "绿茶",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-020",
+      "claim": "瓜尔胶可能无助于减重。",
+      "section": "Guar gum",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "瓜尔胶",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-021",
+      "claim": "Hoodia可能无助于减少食量或减重。",
+      "section": "Hoodia",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Hoodia",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-022",
+      "claim": "益生菌补充剂对体重或体脂的效果不明确。",
+      "section": "Probiotics",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "益生菌",
+        "体重",
+        "体脂"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-023",
+      "claim": "丙酮酸补充剂可能有助于减轻少量体重。",
+      "section": "Pyruvate",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "丙酮酸",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-024",
+      "claim": "树莓酮单独使用对体重的效果未知。",
+      "section": "Raspberry ketone",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "树莓酮",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-025",
+      "claim": "维生素D无助于减重。",
+      "section": "Vitamin D",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "维生素D",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-026",
+      "claim": "白芸豆提取物可能有助于减轻少量体重。",
+      "section": "White kidney bean/bean pod",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "白芸豆",
+        "Phaseolus vulgaris",
+        "减重"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-dietary-supp-027",
+      "claim": "Yohimbe does not help with weight loss.",
+      "section": "Yohimbe",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "育亨宾",
+        "减肥",
+        "无效"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-028",
+      "claim": "Ephedra is unsafe and banned from dietary supplements.",
+      "section": "Ephedra",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "麻黄",
+        "减肥",
+        "安全",
+        "禁用"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-029",
+      "claim": "Weight-loss dietary supplements can cause harmful side effects and interact with medications.",
+      "section": "Can weight-loss dietary supplements be harmful?",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "减肥补充剂",
+        "副作用",
+        "药物相互作用"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "7-9"
+    },
+    {
+      "id": "E-dietary-supp-030",
+      "claim": "The most effective approach for weight loss is a healthy eating pattern, calorie reduction, and regular exercise.",
+      "section": "Choosing a sensible approach to weight loss",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "减肥",
+        "健康饮食",
+        "运动"
+      ],
+      "source_doc": "Dietary Supplements for Weight Loss - Consumer Fact Sheet",
+      "org": "美国国立卫生研究院膳食补充剂办公室 (NIH ODS)",
+      "year": "2024",
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/",
+      "page": "7-9"
+    }
+  ]
+}

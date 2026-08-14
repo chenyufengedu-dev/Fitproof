@@ -1,0 +1,30 @@
+{
+  "doc": "Restricting caffeine intake during pregnancy",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/caffeine-pregnancy",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-restricting--001",
+      "claim": "每日咖啡因摄入量超过300毫克的孕妇应降低摄入量，以减少流产和低出生体重儿的风险。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "咖啡因",
+        "怀孕",
+        "摄入限制",
+        "流产",
+        "低出生体重"
+      ],
+      "source_doc": "Restricting caffeine intake during pregnancy",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/caffeine-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

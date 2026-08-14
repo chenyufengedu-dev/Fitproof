@@ -1,0 +1,29 @@
+{
+  "doc": "Supplemental nutrition with dietary advice for older people affected by undernutrition",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/nutrition-older-people",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-supplemental-001",
+      "claim": "对于受营养不良影响的老年人，应推荐口服营养补充加膳食建议。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "口服营养补充",
+        "膳食建议",
+        "老年人",
+        "营养不良"
+      ],
+      "source_doc": "Supplemental nutrition with dietary advice for older people affected by undernutrition",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/nutrition-older-people",
+      "page": "1-3"
+    }
+  ]
+}

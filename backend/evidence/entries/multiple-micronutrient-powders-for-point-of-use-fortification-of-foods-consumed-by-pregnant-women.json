@@ -1,0 +1,30 @@
+{
+  "doc": "Multiple micronutrient powders for point-of-use fortification of foods consumed by pregnant women",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/micronutrientpowder-pregnancy",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-multiple-mic-001",
+      "claim": "孕期常规使用多种微量营养素粉不能替代标准铁和叶酸补充剂来改善母婴健康结局。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "孕期",
+        "微量营养素粉",
+        "铁",
+        "叶酸",
+        "补充"
+      ],
+      "source_doc": "Multiple micronutrient powders for point-of-use fortification of foods consumed by pregnant women",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/micronutrientpowder-pregnancy",
+      "page": "1-3"
+    }
+  ]
+}

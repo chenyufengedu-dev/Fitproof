@@ -1,0 +1,29 @@
+{
+  "doc": "Vitamin E supplementation for the prevention of morbidity and mortality in preterm infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamine-preterm",
+  "complete": true,
+  "done_windows": 1,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-vitamin-e-su-001",
+      "claim": "不推荐对早产儿进行高剂量维生素E补充。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素E",
+        "早产儿",
+        "高剂量补充",
+        "感染风险"
+      ],
+      "source_doc": "Vitamin E supplementation for the prevention of morbidity and mortality in preterm infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamine-preterm",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "doc": "Use Caution When Giving Cough and Cold Products to Kids",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2023",
+  "url": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+  "complete": true,
+  "done_windows": 2,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-use-caution--001",
+      "claim": "2岁以下儿童不应使用任何含减充血剂或抗组胺剂的咳嗽感冒药，因为可能引起严重副作用，如惊厥、心率加快甚至死亡。",
+      "section": "Safe Use of Over-the-Counter (OTC) Medicines in Children",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "2岁以下儿童",
+        "咳嗽感冒药",
+        "减充血剂",
+        "抗组胺剂",
+        "副作用"
+      ],
+      "source_doc": "Use Caution When Giving Cough and Cold Products to Kids",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "page": "1-3"
+    },
+    {
+      "id": "E-use-caution--002",
+      "claim": "4岁以下儿童不应使用非处方儿童咳嗽感冒药。",
+      "section": "Treating Toddlers and Older Children",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "4岁以下儿童",
+        "非处方药",
+        "咳嗽感冒药",
+        "儿童用药安全"
+      ],
+      "source_doc": "Use Caution When Giving Cough and Cold Products to Kids",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "page": "1-3"
+    },
+    {
+      "id": "E-use-caution--003",
+      "claim": "给4岁及以上儿童使用咳嗽感冒药时，应避免超量、过频、合用相同成分药物，且不应使用成人药。",
+      "section": "Treating Toddlers and Older Children",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "4岁以上儿童",
+        "咳嗽感冒药",
+        "用药安全",
+        "剂量",
+        "成人药"
+      ],
+      "source_doc": "Use Caution When Giving Cough and Cold Products to Kids",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "page": "1-3"
+    },
+    {
+      "id": "E-use-caution--004",
+      "claim": "对于婴幼儿，可用冷雾加湿器、盐水滴鼻、鼻吸球、退热药和多喝水等非药物方法缓解感冒症状。",
+      "section": "Other Options for Treating Colds",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "婴幼儿",
+        "感冒",
+        "非药物治疗",
+        "加湿器",
+        "盐水滴鼻"
+      ],
+      "source_doc": "Use Caution When Giving Cough and Cold Products to Kids",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids",
+      "page": "1-3"
+    }
+  ]
+}

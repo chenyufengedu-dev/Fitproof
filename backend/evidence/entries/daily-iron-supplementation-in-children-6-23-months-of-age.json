@@ -1,0 +1,29 @@
+{
+  "doc": "Daily iron supplementation in children 6-23 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-children-6to23",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "对于6-23月龄婴幼儿，在贫血患病率≥40%的地区，建议每日补铁以预防缺铁和贫血。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "儿童",
+        "铁补充",
+        "贫血",
+        "缺铁"
+      ],
+      "source_doc": "Daily iron supplementation in children 6-23 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-6to23",
+      "page": "1-3"
+    }
+  ]
+}

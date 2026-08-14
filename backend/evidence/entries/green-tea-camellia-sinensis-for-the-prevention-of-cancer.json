@@ -1,0 +1,436 @@
+{
+  "doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+  "complete": true,
+  "done_windows": 94,
+  "count": 25,
+  "entries": [
+    {
+      "id": "E-green-tea-ca-001",
+      "claim": "绿茶摄入对癌症预防的益处尚未被证实。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "证据不一致"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-green-tea-ca-002",
+      "claim": "高剂量绿茶提取物补充可能与不良事件相关，包括胃肠道障碍、肝酶升高、失眠、血压升高等，应谨慎使用。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶提取物",
+        "副作用",
+        "谨慎"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-green-tea-ca-003",
+      "claim": "基于低质量证据，绿茶提取物补充剂对降低前列腺癌风险的效果不明确。",
+      "section": "Summary of findings 1: Green tea extract supplementation compared with placebo for preventing cancer: experimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "前列腺癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-004",
+      "claim": "基于低质量证据，绿茶提取物补充剂对降低妇科癌症风险的效果不明确，甚至可能增加风险。",
+      "section": "Summary of findings 1: Green tea extract supplementation compared with placebo for preventing cancer: experimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "妇科癌症"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-005",
+      "claim": "基于低质量证据，绿茶提取物补充剂对非黑色素瘤皮肤癌无预防效果。",
+      "section": "Summary of findings 1: Green tea extract supplementation compared with placebo for preventing cancer: experimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "皮肤癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-006",
+      "claim": "基于低质量证据，高绿茶饮用量可能与任何癌症发病率降低相关，但效果不明确。",
+      "section": "Summary of findings 2: Highest compared with lowest green tea exposure for preventing cancer: primary outcomes in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "总癌症发病率"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-007",
+      "claim": "基于低质量证据，高绿茶饮用量与任何癌症死亡率无关。",
+      "section": "Summary of findings 2: Highest compared with lowest green tea exposure for preventing cancer: primary outcomes in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "总癌症死亡率"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-008",
+      "claim": "基于低质量证据，高绿茶饮用量可能降低口腔癌风险，但证据来自病例对照研究，存在偏倚风险。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "口腔癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-009",
+      "claim": "基于低质量证据，高绿茶饮用量可能降低胃肠道癌风险，但效果不明确。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "胃肠道癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-010",
+      "claim": "基于极低质量证据，高绿茶饮用量对食管癌风险的效果不明确。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "食管癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-011",
+      "claim": "基于极低质量证据，高绿茶饮用量对胃癌风险的效果不明确。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "胃癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-012",
+      "claim": "基于低质量证据，高绿茶饮用量对肝癌风险的效果不明确。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "肝癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-013",
+      "claim": "基于低质量证据，高绿茶饮用量对胰腺癌风险的效果不明确。",
+      "section": "Summary of findings 3: Highest compared with lowest green tea exposure for preventing cancer: individual cancer types in nonexperimental studies",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症预防",
+        "胰腺癌"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-green-tea-ca-014",
+      "claim": "低质量证据显示饮用绿茶可能与结直肠癌风险降低16%相关（RR 0.84, 95% CI 0.74-0.96），但队列研究未发现关联。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "结直肠癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-015",
+      "claim": "低质量证据显示饮用绿茶可能与结肠癌风险降低11%相关（RR 0.89, 95% CI 0.80-0.98），但队列研究结果不精确。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "结肠癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-016",
+      "claim": "低质量证据显示饮用绿茶与直肠癌风险无显著关联（RR 0.89, 95% CI 0.75-1.05）。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "直肠癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-017",
+      "claim": "极低质量证据显示饮用绿茶与肺癌风险无显著关联（RR 0.88, 95% CI 0.76-1.02）。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "肺癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-018",
+      "claim": "极低质量证据显示饮用绿茶与乳腺癌风险无显著关联（RR 0.88, 95% CI 0.75-1.02）。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "乳腺癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-019",
+      "claim": "低质量证据显示饮用绿茶与妇科癌症风险降低31%相关（RR 0.69, 95% CI 0.57-0.83），但可能受病例对照研究偏倚影响。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "妇科癌症",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-020",
+      "claim": "低质量证据显示饮用绿茶与子宫内膜癌风险降低23%相关（RR 0.77, 95% CI 0.65-0.91），但可能受病例对照研究偏倚影响。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "子宫内膜癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-021",
+      "claim": "低质量证据显示饮用绿茶与卵巢癌风险降低36%相关（RR 0.64, 95% CI 0.45-0.90），但所有研究均为病例对照研究。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "卵巢癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-022",
+      "claim": "极低质量证据显示饮用绿茶与前列腺癌风险降低27%相关（RR 0.73, 95% CI 0.56-0.94），但队列研究显示风险增加，可能存在发表偏倚。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "前列腺癌",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-023",
+      "claim": "极低质量证据显示饮用绿茶与泌尿道癌症风险无显著关联（RR 1.04, 95% CI 0.79-1.37）。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "泌尿道癌症",
+        "癌症预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "10-12"
+    },
+    {
+      "id": "E-green-tea-ca-024",
+      "claim": "现有流行病学证据不足以支持绿茶摄入能降低癌症风险。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶",
+        "癌症",
+        "预防"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "40-42"
+    },
+    {
+      "id": "E-green-tea-ca-025",
+      "claim": "高剂量绿茶提取物可能引起不良反应（如胃肠道副作用、肝酶升高、失眠等）。",
+      "section": "Implications for practice",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "绿茶提取物",
+        "不良反应",
+        "安全性"
+      ],
+      "source_doc": "Green tea (Camellia sinensis) for the prevention of cancer",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/full",
+      "page": "40-42"
+    }
+  ]
+}

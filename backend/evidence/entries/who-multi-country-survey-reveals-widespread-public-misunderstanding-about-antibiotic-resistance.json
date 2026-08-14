@@ -1,0 +1,133 @@
+{
+  "doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2017",
+  "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+  "complete": true,
+  "done_windows": 3,
+  "count": 7,
+  "entries": [
+    {
+      "id": "E-who-multi-co-001",
+      "claim": "抗生素无法治疗感冒和流感，因为抗生素对病毒无效。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "感冒",
+        "流感",
+        "病毒",
+        "抗生素耐药性"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-multi-co-002",
+      "claim": "使用抗生素时应完成整个处方疗程，不应在感觉好转时停药。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "疗程",
+        "耐药性"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-multi-co-003",
+      "claim": "抗生素耐药性是细菌对抗生素产生耐药性，而不是人体产生耐药性。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "抗生素耐药性",
+        "细菌",
+        "人体"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-multi-co-004",
+      "claim": "抗生素不应在感觉好转时停止，应按照医嘱完成全程疗程。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "耐药性",
+        "治疗依从性"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-multi-co-005",
+      "claim": "抗生素不能用于治疗感冒和流感。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "感冒",
+        "流感",
+        "耐药性"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-multi-co-006",
+      "claim": "不应使用他人处方或剩下的抗生素，即使症状相同。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "处方共享",
+        "耐药性"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-multi-co-007",
+      "claim": "抗生素只能在医生处方下使用。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "用药误区",
+        "抗生素",
+        "处方",
+        "合理用药"
+      ],
+      "source_doc": "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2017",
+      "url": "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance",
+      "page": "4-6"
+    }
+  ]
+}

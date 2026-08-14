@@ -1,0 +1,98 @@
+{
+  "doc": "Identifying Maternal Depression",
+  "org": "美国疾病控制与预防中心 (CDC)",
+  "year": "2020",
+  "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+  "complete": true,
+  "done_windows": 1,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-identifying--001",
+      "claim": "医疗保健提供者应询问每位孕期和产后妇女关于抑郁症状的问题。",
+      "section": "THE WAY FORWARD",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "孕期抑郁",
+        "产后抑郁",
+        "筛查",
+        "医疗保健提供者"
+      ],
+      "source_doc": "Identifying Maternal Depression",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-identifying--002",
+      "claim": "医疗保健提供者应了解当地资源，以便将患者转诊至治疗和随访。",
+      "section": "THE WAY FORWARD",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "转诊",
+        "治疗",
+        "产后抑郁",
+        "医疗保健提供者"
+      ],
+      "source_doc": "Identifying Maternal Depression",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-identifying--003",
+      "claim": "女性应告知医生自己的抑郁症状。",
+      "section": "THE WAY FORWARD",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "产妇",
+        "抑郁症状",
+        "就医"
+      ],
+      "source_doc": "Identifying Maternal Depression",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-identifying--004",
+      "claim": "朋友和家人应了解抑郁症状，并鼓励女性与医疗保健提供者讨论症状。",
+      "section": "THE WAY FORWARD",
+      "strength": "指南建议",
+      "topics": [
+        "孕产与产后护理",
+        "家庭支持",
+        "抑郁症状",
+        "鼓励就医"
+      ],
+      "source_doc": "Identifying Maternal Depression",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+      "page": "1-2"
+    },
+    {
+      "id": "E-identifying--005",
+      "claim": "产后抑郁比产后情绪低落更严重，通常需要治疗。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "孕产与产后护理",
+        "产后抑郁",
+        "产后情绪低落",
+        "治疗"
+      ],
+      "source_doc": "Identifying Maternal Depression",
+      "org": "美国疾病控制与预防中心 (CDC)",
+      "year": "2020",
+      "url": "https://archive.cdc.gov/www_cdc_gov/reproductivehealth/vital-signs/identifying-maternal-depression/index.html",
+      "page": "1-2"
+    }
+  ]
+}

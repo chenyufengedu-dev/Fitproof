@@ -1,0 +1,81 @@
+{
+  "doc": "Miracle cancer cures: Ask for evidence",
+  "org": "英国癌症研究中心 (Cancer Research UK)",
+  "year": "2013",
+  "url": "https://news.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-for-evidence/",
+  "complete": true,
+  "done_windows": 5,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-miracle-canc-001",
+      "claim": "没有科学证据表明柠檬汁能治愈癌症。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "柠檬汁",
+        "癌症",
+        "证据"
+      ],
+      "source_doc": "Miracle cancer cures: Ask for evidence",
+      "org": "英国癌症研究中心 (Cancer Research UK)",
+      "year": "2013",
+      "url": "https://news.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-for-evidence/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-miracle-canc-002",
+      "claim": "网络上的患者自述不能作为癌症治疗有效的科学证据。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "患者自述",
+        "证据",
+        "癌症治疗"
+      ],
+      "source_doc": "Miracle cancer cures: Ask for evidence",
+      "org": "英国癌症研究中心 (Cancer Research UK)",
+      "year": "2013",
+      "url": "https://news.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-for-evidence/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-miracle-canc-003",
+      "claim": "癌症患者应查证任何替代疗法的科学证据，并与医疗专业人员讨论。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "癌症",
+        "替代疗法",
+        "科学证据",
+        "咨询医生"
+      ],
+      "source_doc": "Miracle cancer cures: Ask for evidence",
+      "org": "英国癌症研究中心 (Cancer Research UK)",
+      "year": "2013",
+      "url": "https://news.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-for-evidence/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-miracle-canc-004",
+      "claim": "替代疗法应通过严格的实验室研究和临床试验证明其安全有效。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "癌症预防/防癌谣言",
+        "替代疗法",
+        "临床试验",
+        "安全有效",
+        "科学证据"
+      ],
+      "source_doc": "Miracle cancer cures: Ask for evidence",
+      "org": "英国癌症研究中心 (Cancer Research UK)",
+      "year": "2013",
+      "url": "https://news.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-for-evidence/",
+      "page": "4-6"
+    }
+  ]
+}

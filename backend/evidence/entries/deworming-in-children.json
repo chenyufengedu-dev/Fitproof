@@ -1,0 +1,29 @@
+{
+  "doc": "Deworming in children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/deworming",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-deworming-in-001",
+      "claim": "对于生活在土壤传播蠕虫感染基线患病率≥20%地区的12-23月龄婴幼儿、1-4岁学龄前儿童和5-12岁学龄儿童，推荐每年或半年进行一次预防性驱虫（阿苯达唑400mg或甲苯达唑500mg）。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "驱虫",
+        "儿童",
+        "土壤传播蠕虫",
+        "预防性化疗"
+      ],
+      "source_doc": "Deworming in children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/deworming",
+      "page": "1-3"
+    }
+  ]
+}

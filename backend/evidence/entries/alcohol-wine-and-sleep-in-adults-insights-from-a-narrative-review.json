@@ -1,0 +1,370 @@
+{
+  "doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+  "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+  "year": "2024",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+  "complete": true,
+  "done_windows": 4,
+  "count": 20,
+  "entries": [
+    {
+      "id": "E-alcohol-wine-001",
+      "claim": "急性酒精摄入（包括葡萄酒）通常缩短入睡潜伏期，但不一定改善睡眠质量。",
+      "section": "3.1. Sleep Initiation",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "葡萄酒",
+        "入睡潜伏期",
+        "睡眠质量"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-002",
+      "claim": "meta分析证据表明，酒精摄入增加入睡后觉醒时间并降低睡眠效率，尤其在下半夜。",
+      "section": "3.2. Sleep Continuity and Fragmentation",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠连续性",
+        "睡眠碎片化",
+        "入睡后觉醒"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-003",
+      "claim": "酒精摄入改变睡眠结构：急性期增加慢波睡眠、抑制快速眼动睡眠，随后出现快速眼动反弹。",
+      "section": "3.3. Sleep Architecture",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠结构",
+        "慢波睡眠",
+        "快速眼动睡眠",
+        "REM反弹"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-004",
+      "claim": "在等量乙醇剂量下，葡萄酒与其他酒精饮料对睡眠结构的影响相似。",
+      "section": "3.3. Sleep Architecture",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "葡萄酒",
+        "酒精",
+        "睡眠结构",
+        "比较"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-005",
+      "claim": "习惯性酒精摄入与更高的睡眠障碍风险相关，包括失眠和主观睡眠质量差。",
+      "section": "3.4. Key Recent Evidence on Alcohol and Sleep in Adults",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "习惯性饮酒",
+        "睡眠障碍",
+        "失眠",
+        "睡眠质量"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-006",
+      "claim": "酒精加重打鼾和睡眠呼吸障碍，增加呼吸暂停低通气指数和氧减饱和度。",
+      "section": "3.4. Key Recent Evidence on Alcohol and Sleep in Adults",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "打鼾",
+        "睡眠呼吸障碍",
+        "呼吸暂停低通气指数"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "2-4"
+    },
+    {
+      "id": "E-alcohol-wine-007",
+      "claim": "红酒中的褪黑素和多酚浓度远低于治疗水平，不足以改善睡眠。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "红酒",
+        "褪黑素",
+        "多酚",
+        "睡眠"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-008",
+      "claim": "低至中度饮酒（女性1-2杯，男性1-3杯）在睡前饮用会加重呼吸事件和阻塞性呼吸参数。",
+      "section": "4. Alcohol, Wine, and Sleep-Disordered Breathing",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠呼吸障碍",
+        "呼吸事件",
+        "剂量"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-009",
+      "claim": "习惯性饮酒与主观睡眠质量差、睡眠时间短、失眠症状相关，且长期来看不能改善睡眠问题。",
+      "section": "5. Chronic Alcohol Consumption, Insomnia, and Sleep Quality",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠质量",
+        "失眠",
+        "习惯性饮酒"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-010",
+      "claim": "女性在较低酒精剂量下睡眠干扰更严重。",
+      "section": "5. Chronic Alcohol Consumption, Insomnia, and Sleep Quality",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "女性",
+        "睡眠干扰",
+        "性别差异"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-011",
+      "claim": "适量红酒与心脏代谢结局的关联不应被推断为对睡眠有益。",
+      "section": "7. Wine-Specific Considerations Within a Nutritional Context",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "红酒",
+        "睡眠",
+        "心脏代谢",
+        "误导"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-012",
+      "claim": "临床医生应将晚间酒精摄入作为打鼾、日间嗜睡等睡眠呼吸暂停症状的常规筛查的一部分。",
+      "section": "4. Alcohol, Wine, and Sleep-Disordered Breathing",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "筛查",
+        "睡眠呼吸暂停",
+        "临床建议"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "5-7"
+    },
+    {
+      "id": "E-alcohol-wine-013",
+      "claim": "葡萄酒中微量存在的褪黑素和多酚类物质（如白藜芦醇、槲皮素）对睡眠无临床意义的改善效果，其作用可忽略不计，对睡眠的影响主要由乙醇含量决定。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "葡萄酒",
+        "褪黑素",
+        "多酚",
+        "睡眠"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-alcohol-wine-014",
+      "claim": "睡眠卫生指南（如美国睡眠医学会和全国睡眠基金会）建议睡前3-4小时内避免饮酒，以减少睡眠中断。",
+      "section": "Timing of Alcohol Intake and Sleep Outcomes",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡眠卫生",
+        "饮酒时机",
+        "指南"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-alcohol-wine-015",
+      "claim": "完全戒酒是保护睡眠质量和正常睡眠结构的最有效策略。",
+      "section": "Practical Sleep Hygiene and Harm-Reduction Messaging Around Alcohol",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "戒酒",
+        "睡眠质量",
+        "睡眠卫生",
+        "危害减少"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "8-10"
+    },
+    {
+      "id": "E-alcohol-wine-016",
+      "claim": "不应将葡萄酒或任何酒精饮料作为助眠剂，因为其短期镇静作用会被后期睡眠碎片化、睡眠质量下降和呼吸紊乱风险增加所抵消。",
+      "section": "Public Health and Clinical Implications",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "助眠",
+        "睡眠碎片化",
+        "睡眠质量"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-alcohol-wine-017",
+      "claim": "建议在睡前3-4小时内避免饮酒，以减少睡眠中断。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "酒精",
+        "睡前饮酒",
+        "睡眠中断"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-alcohol-wine-018",
+      "claim": "完全禁酒是保护睡眠最有效的方法。",
+      "section": "Public Health and Clinical Implications",
+      "strength": "指南推荐",
+      "topics": [
+        "睡眠",
+        "禁酒",
+        "睡眠保护",
+        "酒精"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-alcohol-wine-019",
+      "claim": "葡萄酒中的多酚和褪黑素浓度不足以显著抵消酒精对睡眠的负面影响。",
+      "section": "Conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "睡眠",
+        "葡萄酒",
+        "多酚",
+        "褪黑素",
+        "睡眠"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "11-13"
+    },
+    {
+      "id": "E-alcohol-wine-020",
+      "claim": "临床医生应常规询问患者的晚间饮酒情况。",
+      "section": "Public Health and Clinical Implications",
+      "strength": "指南建议",
+      "topics": [
+        "睡眠",
+        "临床咨询",
+        "晚间饮酒",
+        "睡眠障碍"
+      ],
+      "source_doc": "Alcohol, Wine, and Sleep in Adults: Insights from a Narrative Review",
+      "org": "睡眠医学评论 (Sleep Medicine Reviews)",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41754102/",
+      "page": "11-13"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "doc": "Therapeutic feeding of children 6–59 months of age with severe acute malnutrition and acute or persistent diarrhoea",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/diarrhoea-sam",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-therapeutic--001",
+      "claim": "6-59月龄严重急性营养不良伴急性或持续性腹泻的儿童，可以像无腹泻儿童一样使用即食治疗性食品。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "严重急性营养不良",
+        "腹泻",
+        "即食治疗性食品",
+        "儿童营养"
+      ],
+      "source_doc": "Therapeutic feeding of children 6–59 months of age with severe acute malnutrition and acute or persistent diarrhoea",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/diarrhoea-sam",
+      "page": "1-3"
+    }
+  ]
+}

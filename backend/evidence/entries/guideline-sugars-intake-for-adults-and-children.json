@@ -1,0 +1,523 @@
+{
+  "doc": "Guideline: sugars intake for adults and children",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2015",
+  "url": "https://www.who.int/publications/i/item/9789241549028",
+  "complete": true,
+  "done_windows": 20,
+  "count": 30,
+  "entries": [
+    {
+      "id": "E-guideline-su-001",
+      "claim": "成年人儿童应将游离糖摄入量降至总能量摄入的10%以下",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "总能量摄入",
+        "减少摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "4-6"
+    },
+    {
+      "id": "E-guideline-su-002",
+      "claim": "成年人儿童进一步将游离糖摄入量降至总能量摄入的5%以下可能有益",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "总能量摄入",
+        "减少摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "4-6"
+    },
+    {
+      "id": "E-guideline-su-003",
+      "claim": "健康成人和儿童应减少游离糖的摄入，并终生坚持。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "减少摄入",
+        "终生"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-su-004",
+      "claim": "成人和儿童游离糖摄入应低于总能量摄入的10%。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "总能量摄入",
+        "10%"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-su-005",
+      "claim": "将游离糖摄入进一步降至总能量摄入的5%以下有益于健康。",
+      "section": "Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "总能量摄入",
+        "5%",
+        "进一步减少"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-su-006",
+      "claim": "对于游离糖摄入水平较低的国家，不应增加摄入水平。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "低摄入",
+        "不增加"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-su-007",
+      "claim": "增加或减少游离糖摄入与体重平行变化，且该关系独立于摄入水平。",
+      "section": "Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "体重变化",
+        "能量摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "10-12"
+    },
+    {
+      "id": "E-guideline-su-008",
+      "claim": "为最小化终身龋齿风险，游离糖摄入应尽可能低，尤其是进一步降至总能量摄入的5%以下。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "龋齿",
+        "能量摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "13-15"
+    },
+    {
+      "id": "E-guideline-su-009",
+      "claim": "没有证据表明将游离糖摄入降至总能量5%以下会带来危害。",
+      "section": "Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "安全性"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "13-15"
+    },
+    {
+      "id": "E-guideline-su-010",
+      "claim": "氟化物虽能减少特定年龄的龋齿并延迟龋洞形成，但不能完全预防龋齿，龋齿仍在有氟暴露的人群中进展。",
+      "section": "Recommendations",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "氟化物",
+        "龋齿"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "13-15"
+    },
+    {
+      "id": "E-guideline-su-011",
+      "claim": "如果有其他选择，不应将摄入游离糖作为增加能量摄入的策略。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "能量摄入",
+        "营养不良"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "13-15"
+    },
+    {
+      "id": "E-guideline-su-012",
+      "claim": "该指南不适用于需要治疗性饮食的个体，包括严重和中度急性营养不良的管理。",
+      "section": "Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "治疗性饮食",
+        "营养不良"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "13-15"
+    },
+    {
+      "id": "E-guideline-su-013",
+      "claim": "减少游离糖摄入可降低成人体重，平均减重约0.8kg",
+      "section": "Body weight",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "体重",
+        "减重"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-su-014",
+      "claim": "增加游离糖摄入可增加成人体重，平均增重约0.75kg",
+      "section": "Body weight",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "体重",
+        "增重"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-su-015",
+      "claim": "高摄入含糖饮料的儿童发生超重或肥胖的风险是低摄入者的1.55倍",
+      "section": "Body weight",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "含糖饮料",
+        "儿童",
+        "超重",
+        "肥胖"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "19-21"
+    },
+    {
+      "id": "E-guideline-su-016",
+      "claim": "WHO建议整个生命周期减少游离糖摄入。",
+      "section": "Recommendations and remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "摄入建议",
+        "生命周期"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "22-24"
+    },
+    {
+      "id": "E-guideline-su-017",
+      "claim": "WHO建议成人和儿童将游离糖摄入减少到总能量摄入的10%以下。",
+      "section": "Recommendations and remarks",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "摄入限量",
+        "10%能量"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "22-24"
+    },
+    {
+      "id": "E-guideline-su-018",
+      "claim": "WHO建议进一步将游离糖摄入减少到总能量摄入的5%以下。",
+      "section": "Recommendations and remarks",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "摄入限量",
+        "5%能量"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "22-24"
+    },
+    {
+      "id": "E-guideline-su-019",
+      "claim": "为减少终身龋齿风险，成人及儿童应将游离糖摄入量降至总能量摄入的5%以下。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "龋齿",
+        "总能量摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "25-27"
+    },
+    {
+      "id": "E-guideline-su-020",
+      "claim": "将游离糖摄入量降至总能量摄入的5%以下不会带来健康危害。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "安全性",
+        "总能量摄入"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "25-27"
+    },
+    {
+      "id": "E-guideline-su-021",
+      "claim": "对于能量摄入不足的个体，如果有其他选择，不应将摄入游离糖作为增加热量摄入的策略。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "能量摄入不足",
+        "热量补充"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "25-27"
+    },
+    {
+      "id": "E-guideline-su-022",
+      "claim": "本指南的建议不适用于需要治疗性膳食的个体，包括严重和中等急性营养不良的患者。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "治疗性膳食",
+        "急性营养不良"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "25-27"
+    },
+    {
+      "id": "E-guideline-su-023",
+      "claim": "氟化物暴露可减少龋齿并延缓龋洞形成，但不能完全预防龋齿。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "氟化物",
+        "龋齿",
+        "预防"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "25-27"
+    },
+    {
+      "id": "E-guideline-su-024",
+      "claim": "减少游离糖摄入可导致成人体重下降（中等质量证据）。",
+      "section": "Annex 1: GRADE evidence profiles",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "体重",
+        "成人"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "28-30"
+    },
+    {
+      "id": "E-guideline-su-025",
+      "claim": "增加游离糖摄入可导致成人体重增加（中等质量证据）。",
+      "section": "Annex 1: GRADE evidence profiles",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "体重",
+        "成人"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "28-30"
+    },
+    {
+      "id": "E-guideline-su-026",
+      "claim": "高游离糖摄入增加儿童及成人龋齿风险（中等质量证据）。",
+      "section": "Annex 1: GRADE evidence profiles",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "龋齿",
+        "儿童",
+        "成人"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "28-30"
+    },
+    {
+      "id": "E-guideline-su-027",
+      "claim": "儿童减少游离糖摄入对BMI的影响不显著（证据质量中等）。",
+      "section": "Effect of reduction in free sugars intake in children",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "儿童",
+        "BMI"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-su-028",
+      "claim": "儿童增加游离糖摄入与超重风险增加相关（OR 1.55，证据质量低）。",
+      "section": "Effect of increase in free sugars intake in children",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "儿童",
+        "超重",
+        "含糖饮料"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-su-029",
+      "claim": "儿童增加游离糖摄入与龋齿风险增加相关（证据质量中等）。",
+      "section": "Effect of increase in free sugars intake in children",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "儿童",
+        "龋齿"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "31-33"
+    },
+    {
+      "id": "E-guideline-su-030",
+      "claim": "将游离糖摄入降低到总能量摄入10%以下与儿童龋齿减少相关（证据质量中等）。",
+      "section": "Effect of decreasing intake of free sugars to below 10% of total energy intake",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "游离糖",
+        "龋齿",
+        "能量摄入",
+        "10%阈值"
+      ],
+      "source_doc": "Guideline: sugars intake for adults and children",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2015",
+      "url": "https://www.who.int/publications/i/item/9789241549028",
+      "page": "31-33"
+    }
+  ]
+}

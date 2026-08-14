@@ -1,0 +1,211 @@
+{
+  "doc": "Probiotics for the management of functional abdominal pain disorders in children",
+  "org": "Cochrane 协作网",
+  "year": "2021",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+  "complete": true,
+  "done_windows": 33,
+  "count": 11,
+  "entries": [
+    {
+      "id": "E-probiotics-f-001",
+      "claim": "对于儿童功能性腹痛，益生菌可能比安慰剂更有效地改善腹痛治疗成功率，但证据质量低。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "功能性腹痛",
+        "儿童",
+        "治疗成功"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-002",
+      "claim": "对于儿童功能性腹痛，合生元可能比安慰剂更有效地改善腹痛治疗成功率，但证据质量低。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "合生元",
+        "功能性腹痛",
+        "儿童",
+        "治疗成功"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-003",
+      "claim": "益生菌或合生元与安慰剂相比，在完全缓解疼痛方面几乎没有差异（非常低确定性证据）。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "合生元",
+        "功能性腹痛",
+        "儿童",
+        "疼痛完全缓解"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-probiotics-f-004",
+      "claim": "在儿童功能性腹痛障碍中，益生菌治疗可能比安慰剂更有效，但证据质量低。",
+      "section": "Effects of interventions - Probiotics versus placebo - Treatment success",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "功能性腹痛",
+        "儿童",
+        "治疗成功"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "19-21"
+    },
+    {
+      "id": "E-probiotics-f-005",
+      "claim": "低质量证据表明，乳杆菌属Lactobacillus reuteri、Lactobacillus rhamnosus GG和Bifidobacterium lactis与安慰剂相比，在治疗儿童功能性腹痛方面可能没有差异。",
+      "section": "亚组分析（特定菌株）",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "Lactobacillus reuteri",
+        "Lactobacillus rhamnosus GG",
+        "Bifidobacterium lactis",
+        "功能性腹痛"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-probiotics-f-006",
+      "claim": "非常低质量证据表明，益生菌与安慰剂相比在实现儿童功能性腹痛完全缓解方面没有明确差异。",
+      "section": "疼痛完全缓解",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "益生菌",
+        "疼痛完全缓解",
+        "功能性腹痛",
+        "儿童"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-probiotics-f-007",
+      "claim": "低质量证据提示，合生元可能比安慰剂更有效地治疗儿童功能性腹痛，但结果不稳定。",
+      "section": "合生元与安慰剂比较",
+      "strength": "背景说明",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "合生元",
+        "功能性腹痛",
+        "儿童",
+        "治疗成功"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "22-24"
+    },
+    {
+      "id": "E-probiotics-f-008",
+      "claim": "对于功能性腹痛儿童，益生菌在治疗结束时可能比安慰剂更有效（低确定性证据）。",
+      "section": "Summary of main results / Probiotics",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "益生菌",
+        "儿童",
+        "治疗成功率"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-probiotics-f-009",
+      "claim": "对于功能性腹痛儿童，益生菌与安慰剂在完全缓解疼痛方面的效果尚不明确（极低确定性证据）。",
+      "section": "Summary of main results / Probiotics",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "益生菌",
+        "儿童",
+        "疼痛缓解"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-probiotics-f-010",
+      "claim": "对于功能性腹痛儿童，合生元在治疗结束时可能比安慰剂更有效（低确定性证据）。",
+      "section": "Summary of main results / Synbiotics",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "合生元",
+        "儿童",
+        "治疗成功率"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "25-27"
+    },
+    {
+      "id": "E-probiotics-f-011",
+      "claim": "对于功能性腹痛儿童，合生元与安慰剂在完全缓解疼痛方面可能没有差异（低确定性证据）。",
+      "section": "Summary of main results / Synbiotics",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "功能性腹痛",
+        "合生元",
+        "儿童",
+        "疼痛缓解"
+      ],
+      "source_doc": "Probiotics for the management of functional abdominal pain disorders in children",
+      "org": "Cochrane 协作网",
+      "year": "2021",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012849.pub2/full",
+      "page": "25-27"
+    }
+  ]
+}

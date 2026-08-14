@@ -1,0 +1,29 @@
+{
+  "doc": "Daily iron supplementation in children and adolescents 5–12 years of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/iron-children-5to12",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-daily-iron-s-001",
+      "claim": "对于5岁及以上、所在地区婴幼儿贫血患病率≥40%的学龄儿童，每日补充铁剂可预防缺铁和贫血。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "铁补充",
+        "儿童",
+        "贫血",
+        "预防"
+      ],
+      "source_doc": "Daily iron supplementation in children and adolescents 5–12 years of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/iron-children-5to12",
+      "page": "1-3"
+    }
+  ]
+}

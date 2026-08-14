@@ -1,0 +1,190 @@
+{
+  "doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+  "org": "美国预防服务工作组 (USPSTF)",
+  "year": "2022",
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+  "complete": true,
+  "done_windows": 3,
+  "count": 10,
+  "entries": [
+    {
+      "id": "E-aspirin-use--001",
+      "claim": "对于40-59岁且10年心血管疾病风险≥10%的成人，是否启用低剂量阿司匹林应个体化决定，净获益较小。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "心血管疾病",
+        "一级预防",
+        "40-59岁"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aspirin-use--002",
+      "claim": "对于60岁及以上成人，不应启用低剂量阿司匹林用于心血管疾病一级预防。",
+      "section": "Recommendation",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "心血管疾病",
+        "一级预防",
+        "60岁及以上",
+        "停止使用"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aspirin-use--003",
+      "claim": "低剂量阿司匹林用于心血管疾病预防时，每日81毫克是合理的常用剂量。",
+      "section": "Treatment or Intervention",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "剂量",
+        "81毫克"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aspirin-use--004",
+      "claim": "对于使用阿司匹林的患者，应考虑在75岁左右停止使用。",
+      "section": "Stopping Age",
+      "strength": "指南建议",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "停止年龄",
+        "75岁"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "1-3"
+    },
+    {
+      "id": "E-aspirin-use--005",
+      "claim": "40-59岁、10年心血管疾病风险≥10%的成人启动低剂量阿司匹林用于心血管疾病一级预防应个体化决策。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "心血管疾病",
+        "一级预防",
+        "个体化决策"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aspirin-use--006",
+      "claim": "60岁及以上成人不应启动低剂量阿司匹林用于心血管疾病一级预防。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "心血管疾病",
+        "一级预防",
+        "老年"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aspirin-use--007",
+      "claim": "低剂量阿司匹林使用与主要胃肠道出血风险增加58%相关。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "出血",
+        "胃肠道出血",
+        "不良事件"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aspirin-use--008",
+      "claim": "低剂量阿司匹林使用与颅内出血风险增加31%相关。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "出血",
+        "颅内出血",
+        "不良事件"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aspirin-use--009",
+      "claim": "证据不足以确定低剂量阿司匹林能降低结直肠癌发病率或死亡率。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "结直肠癌",
+        "发病率",
+        "死亡率"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    },
+    {
+      "id": "E-aspirin-use--010",
+      "claim": "对于已开始服用阿司匹林用于心血管疾病一级预防者，考虑在75岁左右停药可能合理。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "慢病常识",
+        "阿司匹林",
+        "停用",
+        "老年",
+        "净获益"
+      ],
+      "source_doc": "Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement",
+      "org": "美国预防服务工作组 (USPSTF)",
+      "year": "2022",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2791399",
+      "page": "4-6"
+    }
+  ]
+}

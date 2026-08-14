@@ -1,0 +1,45 @@
+{
+  "doc": "Exclusive breastfeeding to reduce the risk of childhood overweight and obesity",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/breastfeeding-childhood-obesity",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-exclusive-br-001",
+      "claim": "婴儿应纯母乳喂养至少6个月，以降低儿童超重和肥胖风险",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "纯母乳喂养",
+        "婴儿",
+        "儿童肥胖"
+      ],
+      "source_doc": "Exclusive breastfeeding to reduce the risk of childhood overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-childhood-obesity",
+      "page": "1-3"
+    },
+    {
+      "id": "E-exclusive-br-002",
+      "claim": "婴儿6个月后应继续母乳喂养至2岁或以上，同时添加辅食",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "母乳喂养",
+        "辅食",
+        "婴儿营养"
+      ],
+      "source_doc": "Exclusive breastfeeding to reduce the risk of childhood overweight and obesity",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/breastfeeding-childhood-obesity",
+      "page": "1-3"
+    }
+  ]
+}

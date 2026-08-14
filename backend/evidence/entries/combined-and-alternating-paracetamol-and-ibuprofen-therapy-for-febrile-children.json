@@ -1,0 +1,66 @@
+{
+  "doc": "Combined and alternating paracetamol and ibuprofen therapy for febrile children",
+  "org": "Cochrane 协作网",
+  "year": "2013",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009572.pub2/full",
+  "complete": true,
+  "done_windows": 16,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-combined-and-001",
+      "claim": "当前指南推荐仅使用单一退热药治疗发热儿童，以避免多重用药的潜在副作用。",
+      "section": "Discussion",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "发热",
+        "儿童",
+        "单一药物治疗",
+        "退热药"
+      ],
+      "source_doc": "Combined and alternating paracetamol and ibuprofen therapy for febrile children",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009572.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-combined-and-002",
+      "claim": "交替或联合使用对乙酰氨基酚和布洛芬可能比单一药物更有效降低体温，但改善儿童不适的证据尚不明确。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "对乙酰氨基酚",
+        "布洛芬",
+        "交替治疗",
+        "联合治疗",
+        "体温"
+      ],
+      "source_doc": "Combined and alternating paracetamol and ibuprofen therapy for febrile children",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009572.pub2/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-combined-and-003",
+      "claim": "没有充分证据支持交替退热治疗优于联合退热治疗。",
+      "section": "Authors' conclusions",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿喂养儿童用药疫苗犹豫",
+        "交替治疗",
+        "联合治疗",
+        "对乙酰氨基酚",
+        "布洛芬"
+      ],
+      "source_doc": "Combined and alternating paracetamol and ibuprofen therapy for febrile children",
+      "org": "Cochrane 协作网",
+      "year": "2013",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009572.pub2/full",
+      "page": "13-15"
+    }
+  ]
+}

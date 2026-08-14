@@ -1,0 +1,890 @@
+{
+  "doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+  "org": "世界卫生组织 (WHO)",
+  "year": "2016",
+  "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+  "complete": true,
+  "done_windows": 4,
+  "count": 49,
+  "entries": [
+    {
+      "id": "E-who-recommen-001",
+      "claim": "孕期建议保持健康饮食和适量运动，以预防过度增重。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "健康饮食",
+        "运动",
+        "孕期体重管理"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-002",
+      "claim": "在营养不良人群中，建议进行营养教育以增加每日能量和蛋白质摄入，以降低低出生体重风险。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "营养不良",
+        "营养教育",
+        "低出生体重",
+        "能量",
+        "蛋白质"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-003",
+      "claim": "在营养不良人群中，建议补充平衡能量和蛋白质膳食，以降低死产和小胎龄儿风险。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "营养不良",
+        "膳食补充",
+        "死产",
+        "小胎龄儿",
+        "能量",
+        "蛋白质"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-004",
+      "claim": "在营养不良人群中，不建议高蛋白补充剂用于改善母儿结局。",
+      "section": "A. Nutritional interventions",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "营养不良",
+        "高蛋白补充",
+        "不推荐"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-005",
+      "claim": "推荐每日口服30-60mg铁和400μg叶酸补充剂，以预防母体贫血、产后败血症、低出生体重和早产。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "铁补充",
+        "叶酸补充",
+        "贫血预防",
+        "低出生体重",
+        "早产"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-006",
+      "claim": "如果每日铁剂因副作用不可接受且贫血患病率低于20%，推荐每周一次口服120mg铁和2800μg叶酸补充剂。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "间歇性补铁",
+        "叶酸",
+        "贫血",
+        "副作用"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-007",
+      "claim": "在低膳食钙摄入人群中，推荐每日补充1.5-2.0g钙，以降低子痫前期风险。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "钙补充",
+        "子痫前期",
+        "膳食钙摄入"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-008",
+      "claim": "仅在维生素A缺乏严重公共卫生问题的地区，推荐补充维生素A以预防夜盲。",
+      "section": "A. Nutritional interventions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素A",
+        "夜盲",
+        "维生素A缺乏"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "1-3"
+    },
+    {
+      "id": "E-who-recommen-009",
+      "claim": "孕妇补锌仅应在严格研究背景下进行。",
+      "section": "Zinc supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "补锌",
+        "研究"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-010",
+      "claim": "不推荐孕妇补充多种微量营养素以改善母婴结局。",
+      "section": "Multiple micronutrient supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "多种微量营养素",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-011",
+      "claim": "不推荐孕妇补充维生素B6以改善母婴结局。",
+      "section": "Vitamin B6 (pyridoxine) supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素B6",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-012",
+      "claim": "不推荐孕妇补充维生素E和C以改善母婴结局。",
+      "section": "Vitamin E and C supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素E",
+        "维生素C",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-013",
+      "claim": "不推荐孕妇补充维生素D以改善母婴结局。",
+      "section": "Vitamin D supplements",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-014",
+      "claim": "对于每日咖啡因摄入量超过300毫克的孕妇，建议降低咖啡因摄入量以减少流产和低出生体重的风险。",
+      "section": "Restricting caffeine intake",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "咖啡因",
+        "流产",
+        "低出生体重"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-015",
+      "claim": "全血细胞计数是诊断妊娠期贫血的推荐方法；如果无法进行全血细胞计数，则推荐使用血红蛋白仪进行现场血红蛋白检测，而非血红蛋白比色卡。",
+      "section": "Anaemia",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期贫血",
+        "诊断",
+        "全血细胞计数",
+        "血红蛋白检测"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-016",
+      "claim": "中段尿培养是诊断妊娠期无症状菌尿的推荐方法；如果无法进行尿培养，则推荐使用中段尿革兰染色现场检测，而非试纸条测试。",
+      "section": "Asymptomatic bacteriuria (ASB)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期无症状菌尿",
+        "诊断",
+        "尿培养",
+        "革兰染色"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-017",
+      "claim": "在产前检查中，当评估可能由亲密伴侣暴力引起或复杂化的状况时，应强烈考虑询问亲密伴侣暴力情况，条件是能够提供支持性回应（包括适当转诊）并满足WHO最低要求。",
+      "section": "Intimate partner violence (IPV)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "亲密伴侣暴力",
+        "产前检查",
+        "筛查",
+        "支持"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-018",
+      "claim": "孕期首次发现的高血糖应按照WHO标准分类为妊娠期糖尿病或孕前糖尿病。",
+      "section": "Gestational diabetes mellitus (GDM)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠期糖尿病",
+        "高血糖",
+        "分类",
+        "WHO标准"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-019",
+      "claim": "医护人员应尽早并每次产检时询问所有孕妇的烟草使用（过去和现在）及二手烟暴露情况。",
+      "section": "Tobacco use",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "烟草使用",
+        "二手烟",
+        "筛查"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-020",
+      "claim": "医护人员应尽早并每次产检时询问所有孕妇的酒精和其他物质使用（过去和现在）情况。",
+      "section": "Substance use",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "酒精使用",
+        "物质使用",
+        "筛查"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-021",
+      "claim": "在高流行地区，应将医务人员主动提供的HIV检测和咨询作为所有产前机构孕妇常规护理的一部分；在低流行地区，可考虑作为消除HIV母婴传播的关键措施，并结合梅毒等检测。",
+      "section": "Human immunodeficiency virus (HIV) and syphilis",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "HIV",
+        "检测",
+        "母婴传播"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-022",
+      "claim": "在结核病患病率≥100/10万的人群中，应考虑将结核病系统筛查作为产前护理的一部分。",
+      "section": "Tuberculosis (TB)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "结核病",
+        "筛查"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-023",
+      "claim": "每日胎动计数（如数到十踢图表）仅应在严格研究背景下进行。",
+      "section": "Daily fetal movement counting",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "胎动计数",
+        "胎儿监测",
+        "研究"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-024",
+      "claim": "不推荐用宫高测量代替腹部触诊来评估胎儿生长，也不推荐改变常规做法。",
+      "section": "Symphysis-fundal height (SFH) measurement",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "宫高测量",
+        "胎儿生长评估",
+        "腹部触诊"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-025",
+      "claim": "不推荐常规产前胎心宫缩监护以改善母婴结局。",
+      "section": "Antenatal cardiotocography",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "胎心宫缩监护",
+        "产前",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-026",
+      "claim": "推荐孕妇在孕24周前进行一次超声检查，以评估孕周、提高胎儿异常和多胎妊娠的检出率、减少过期引产，并改善妊娠体验。",
+      "section": "Ultrasound scan",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "超声检查",
+        "孕周评估",
+        "胎儿异常",
+        "多胎妊娠"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-027",
+      "claim": "不推荐常规多普勒超声检查以改善母婴结局。",
+      "section": "Doppler ultrasound of fetal blood vessels",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "多普勒超声",
+        "胎儿血管",
+        "母婴结局"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-028",
+      "claim": "推荐所有合并无症状菌尿的孕妇接受七天的抗生素治疗，以预防持续性菌尿、早产和低出生体重。",
+      "section": "Antibiotics for asymptomatic bacteriuria (ASB)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "抗生素",
+        "无症状菌尿",
+        "早产",
+        "低出生体重"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-029",
+      "claim": "预防性抗生素仅应在严格研究背景下用于预防孕妇复发性尿路感染。",
+      "section": "Antibiotic prophylaxis to prevent recurrent urinary tract infections",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "抗生素预防",
+        "复发性尿路感染",
+        "研究"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-030",
+      "claim": "对于未致敏的Rh阴性孕妇，在孕28周和34周预防性使用抗D免疫球蛋白预防RhD同种免疫仅应在严格研究背景下进行。",
+      "section": "Antenatal anti-D immunoglobulin administration",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "抗D免疫球蛋白",
+        "Rh阴性",
+        "同种免疫",
+        "研究"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-031",
+      "claim": "在流行地区，推荐孕妇在孕中期后接受预防性驱虫治疗，作为减少蠕虫感染项目的一部分。",
+      "section": "Preventive anthelminthic treatment",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "驱虫治疗",
+        "蠕虫感染",
+        "孕妇"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-032",
+      "claim": "推荐所有孕妇根据既往破伤风疫苗接种情况接种破伤风类毒素疫苗，以预防新生儿破伤风死亡。",
+      "section": "Tetanus toxoid vaccination",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "破伤风疫苗",
+        "孕妇",
+        "新生儿破伤风"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "4-6"
+    },
+    {
+      "id": "E-who-recommen-033",
+      "claim": "在非洲疟疾流行区，所有孕妇应从孕中期开始接受至少三次磺胺多辛-乙胺嘧啶间歇性预防治疗（IPTp-SP），每次间隔至少一个月。",
+      "section": "Malaria prevention: intermittent preventive treatment in pregnancy (IPTp)",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "疟疾",
+        "孕妇",
+        "磺胺多辛-乙胺嘧啶",
+        "间歇性预防治疗"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-034",
+      "claim": "应向有显著HIV感染风险的孕妇提供口服暴露前预防（PrEP）作为额外预防选择。",
+      "section": "Pre-exposure prophylaxis (PrEP) for HIV prevention",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "HIV",
+        "暴露前预防",
+        "孕妇",
+        "PrEP"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-035",
+      "claim": "推荐使用姜、洋甘菊、维生素B6和/或针灸缓解早孕恶心，根据孕妇偏好和可用选项选择。",
+      "section": "Interventions for common physiological symptoms",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "恶心",
+        "孕吐",
+        "姜",
+        "维生素B6",
+        "针灸"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-036",
+      "claim": "推荐通过饮食和生活方式建议预防和缓解妊娠期胃灼热；如果生活方式改变无效，可提供抗酸制剂。",
+      "section": "Heartburn",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "胃灼热",
+        "饮食",
+        "生活方式",
+        "抗酸剂",
+        "妊娠"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-037",
+      "claim": "镁、钙或非药物疗法可用于缓解妊娠期腿抽筋，根据孕妇偏好和可用选项选择。",
+      "section": "Leg cramps",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "腿抽筋",
+        "镁",
+        "钙",
+        "非药物疗法",
+        "妊娠"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-038",
+      "claim": "推荐整个孕期规律运动以预防腰背和骨盆疼痛；可使用物理治疗、支撑带、针灸等治疗选项。",
+      "section": "Low back and pelvic pain",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "腰背痛",
+        "骨盆痛",
+        "运动",
+        "物理治疗",
+        "支撑带"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-039",
+      "claim": "如果饮食调整无效，可使用麦麸或其他纤维补充剂缓解妊娠期便秘，根据孕妇偏好和可用选项选择。",
+      "section": "Constipation",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "便秘",
+        "麦麸",
+        "纤维补充剂",
+        "妊娠"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-040",
+      "claim": "非药物选项如压缩袜、抬腿和水浸可用于处理妊娠期静脉曲张和水肿，根据孕妇偏好和可用选项选择。",
+      "section": "Varicose veins and oedema",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "静脉曲张",
+        "水肿",
+        "压缩袜",
+        "抬腿",
+        "水浸"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-041",
+      "claim": "推荐每位孕妇在整个孕期携带自己的病历记录，以改善连续性、质量和妊娠体验。",
+      "section": "Woman-held case notes",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "病历记录",
+        "孕妇",
+        "连续性",
+        "质量"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-042",
+      "claim": "在助产项目完善的地区，推荐助产士主导的连续照护模式，即一位或一小群助产士在产前、产时和产后持续支持孕妇。",
+      "section": "Midwife-led continuity of care",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "助产士",
+        "连续照护",
+        "孕妇",
+        "分娩"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-043",
+      "claim": "在严格研究背景下，可由合格专业人员根据孕妇偏好和基础设施条件提供小组产前护理作为替代方案。",
+      "section": "Group antenatal care",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "小组产前护理",
+        "研究",
+        "孕妇",
+        "替代方案"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-044",
+      "claim": "推荐通过参与式学习与行动妇女小组实施社区动员，改善孕产妇和新生儿健康，尤其在低服务农村地区。",
+      "section": "Community-based interventions to improve communication and support",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "社区动员",
+        "妇女小组",
+        "孕产妇健康",
+        "新生儿健康",
+        "农村"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-045",
+      "claim": "推荐包括家庭和社区动员及产前家访的干预包，改善产前保健利用和围产期健康，尤其在低服务农村地区。",
+      "section": "Community-based interventions to improve communication and support",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "家庭动员",
+        "社区动员",
+        "家访",
+        "产前保健",
+        "围产期健康"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-046",
+      "claim": "推荐将促进孕产妇和新生儿健康相关行为的任务转移给包括非专业卫生工作者、辅助护士、护士、助产士和医生在内的各类人员。",
+      "section": "Task shifting components of antenatal care delivery",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "任务转移",
+        "健康行为",
+        "卫生工作者",
+        "孕产妇",
+        "新生儿"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-047",
+      "claim": "推荐将分发推荐营养补充剂和疟疾间歇性预防治疗的任务转移给辅助护士、护士、助产士和医生。",
+      "section": "Task shifting components of antenatal care delivery",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "任务转移",
+        "营养补充剂",
+        "疟疾预防",
+        "卫生工作者"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-048",
+      "claim": "政策制定者应考虑教育、监管、财务、个人和专业支持干预，以招聘和留住农村和偏远地区的合格卫生工作者。",
+      "section": "Recruitment and retention of staff in rural and remote areas",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "卫生工作者",
+        "农村",
+        "招聘",
+        "留任",
+        "政策"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    },
+    {
+      "id": "E-who-recommen-049",
+      "claim": "推荐至少八次接触的产前保健模式，以降低围产期死亡率并改善妇女的照护体验。",
+      "section": "Antenatal care contact schedules",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "产前保健",
+        "接触次数",
+        "围产期死亡率",
+        "照护体验"
+      ],
+      "source_doc": "WHO recommendations on antenatal care for a positive pregnancy experience",
+      "org": "世界卫生组织 (WHO)",
+      "year": "2016",
+      "url": "https://iris.who.int/bitstreams/6ddf01b4-5b25-4d86-8748-3e86aab01f69/download",
+      "page": "7-9"
+    }
+  ]
+}

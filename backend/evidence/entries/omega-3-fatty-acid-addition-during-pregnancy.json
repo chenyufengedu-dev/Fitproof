@@ -1,0 +1,46 @@
+{
+  "doc": "Omega-3 fatty acid addition during pregnancy",
+  "org": "Cochrane 协作网",
+  "year": "2018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30480773/",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-omega-3-fatt-001",
+      "claim": "孕期补充omega-3长链多不饱和脂肪酸可降低早产（<37周）和早期早产（<34周）的风险。",
+      "section": "Authors' conclusions",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "omega-3脂肪酸",
+        "孕期",
+        "早产",
+        "早期早产"
+      ],
+      "source_doc": "Omega-3 fatty acid addition during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30480773/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-omega-3-fatt-002",
+      "claim": "孕期补充omega-3长链多不饱和脂肪酸可能增加过期妊娠（>42周）的风险。",
+      "section": "Authors' conclusions",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "omega-3脂肪酸",
+        "孕期",
+        "过期妊娠"
+      ],
+      "source_doc": "Omega-3 fatty acid addition during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30480773/",
+      "page": "1-3"
+    }
+  ]
+}

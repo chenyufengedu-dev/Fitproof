@@ -1,0 +1,791 @@
+{
+  "doc": "Vitamin D supplementation for women during pregnancy",
+  "org": "Cochrane 协作网",
+  "year": "2024",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+  "complete": true,
+  "done_windows": 50,
+  "count": 44,
+  "entries": [
+    {
+      "id": "E-vitamin-d-su-001",
+      "claim": "孕妇补充维生素D可降低先兆子痫风险",
+      "section": "作者结论",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "先兆子痫"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-002",
+      "claim": "孕妇补充维生素D可降低妊娠期糖尿病风险",
+      "section": "作者结论",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "妊娠期糖尿病"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-003",
+      "claim": "孕妇补充维生素D可降低低出生体重风险",
+      "section": "作者结论",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-004",
+      "claim": "孕妇补充维生素D可能减少严重产后出血风险",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "产后出血"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-005",
+      "claim": "孕妇补充维生素D对早产风险可能无影响",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-006",
+      "claim": "孕妇补充维生素D和钙可降低先兆子痫风险",
+      "section": "作者结论",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "钙",
+        "孕妇",
+        "先兆子痫"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-007",
+      "claim": "孕妇补充维生素D和钙可能增加早产风险",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "钙",
+        "孕妇",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-008",
+      "claim": "孕妇补充维生素D和其他营养素对早产风险可能无影响",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "其他营养素",
+        "孕妇",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-009",
+      "claim": "孕妇补充维生素D和其他营养素对低出生体重风险可能无影响",
+      "section": "作者结论",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "其他营养素",
+        "孕妇",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "4-6"
+    },
+    {
+      "id": "E-vitamin-d-su-010",
+      "claim": "妊娠期单独补充维生素D可能降低先兆子痫、妊娠糖尿病、低出生体重和严重产后出血的风险。",
+      "section": "What does this mean?",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "妊娠",
+        "先兆子痫",
+        "妊娠糖尿病",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-su-011",
+      "claim": "妊娠期补充维生素D和钙可能降低先兆子痫风险，但可能增加早产风险。",
+      "section": "What does this mean?",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "钙",
+        "妊娠",
+        "先兆子痫",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-su-012",
+      "claim": "妊娠期补充维生素D与其他营养素可能对大多数妊娠结局无显著影响。",
+      "section": "What does this mean?",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "妊娠",
+        "多种营养素",
+        "结局"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "7-9"
+    },
+    {
+      "id": "E-vitamin-d-su-013",
+      "claim": "WHO不推荐孕妇常规补充维生素D，仅用于维生素D缺乏的孕妇。",
+      "section": "Description of the intervention",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "补充",
+        "WHO指南"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-d-su-014",
+      "claim": "英国皇家妇产科学院（RCOG）推荐所有孕妇每日补充400 IU维生素D。",
+      "section": "Description of the intervention",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "补充",
+        "推荐摄入量"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-d-su-015",
+      "claim": "成人维生素D中毒通常发生在每日摄入超过10,000 IU的剂量。",
+      "section": "Background",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "毒性",
+        "剂量"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "13-15"
+    },
+    {
+      "id": "E-vitamin-d-su-016",
+      "claim": "对于社交隔离或肥胖的孕妇，推荐每日至少摄入1000 IU（25 mcg）维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "补充剂量",
+        "高危人群"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-d-su-017",
+      "claim": "对于子痫前期高风险孕妇，推荐每日至少摄入800 IU（20 mcg）维生素D，并联合钙剂。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "子痫前期",
+        "钙",
+        "补充剂量"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-d-su-018",
+      "claim": "中欧专家小组推荐孕妇每日摄入1500至2000 IU（37.5-50 mcg）维生素D。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "补充剂量",
+        "中欧"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-d-su-019",
+      "claim": "加拿大儿科协会和英国卫生部推荐孕妇每日补充200至400 IU（5-10 mcg）维生素D。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "补充剂量",
+        "加拿大",
+        "英国"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-d-su-020",
+      "claim": "美国儿科学会建议产科医疗保健提供者考虑监测孕妇维生素D水平。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "孕妇",
+        "维生素D",
+        "监测",
+        "美国儿科学会"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "16-18"
+    },
+    {
+      "id": "E-vitamin-d-su-021",
+      "claim": "孕期补充维生素D可能降低子痫前期风险",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "子痫前期"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-022",
+      "claim": "孕期补充维生素D可能降低妊娠期糖尿病风险",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "妊娠期糖尿病"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-023",
+      "claim": "孕期补充维生素D可能降低严重产后出血风险",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "产后出血"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-024",
+      "claim": "孕期补充维生素D对早产风险可能无显著影响",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-025",
+      "claim": "孕期补充维生素D可能降低低出生体重风险",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-026",
+      "claim": "孕期补充维生素D对剖宫产风险可能无显著影响",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "剖宫产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-027",
+      "claim": "孕期补充维生素D对妊娠期高血压可能无显著影响",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "妊娠期高血压"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-028",
+      "claim": "孕期补充维生素D可提高母亲维生素D水平",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "维生素D水平"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-029",
+      "claim": "孕期补充维生素D可能增加婴儿出生身长",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "出生身长"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-030",
+      "claim": "孕期补充维生素D对婴儿头围可能无显著影响",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "头围"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-031",
+      "claim": "孕期补充维生素D对出生体重可能无显著影响",
+      "section": "Vitamin D alone versus placebo or no intervention",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "28-30"
+    },
+    {
+      "id": "E-vitamin-d-su-032",
+      "claim": "孕期补充维生素D可能降低子痫前期的风险。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "子痫前期"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vitamin-d-su-033",
+      "claim": "孕期补充维生素D可能降低妊娠期糖尿病的风险。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "妊娠期糖尿病"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vitamin-d-su-034",
+      "claim": "孕期补充维生素D可能降低低出生体重的风险。",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vitamin-d-su-035",
+      "claim": "孕期补充维生素D对早产风险可能没有或仅有很小影响。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕妇",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vitamin-d-su-036",
+      "claim": "孕期补充维生素D联合钙可能增加早产的风险。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "钙",
+        "孕妇",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "31-33"
+    },
+    {
+      "id": "E-vitamin-d-su-037",
+      "claim": "妊娠期补充维生素D（单独）可能降低子痫前期、妊娠糖尿病和低出生体重的风险，并可能降低严重产后出血的风险。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠",
+        "维生素D",
+        "子痫前期",
+        "妊娠糖尿病",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-vitamin-d-su-038",
+      "claim": "妊娠期补充维生素D加钙可能降低子痫前期风险，但可能增加早产风险。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠",
+        "维生素D",
+        "钙",
+        "子痫前期",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-vitamin-d-su-039",
+      "claim": "妊娠期补充维生素D与其他营养素（如钙、其他维生素和矿物质）对早产（<37周）和低出生体重（<2500g）可能没有影响，对妊娠糖尿病和母体不良事件的证据不确定。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠",
+        "维生素D",
+        "复合营养素",
+        "早产",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-vitamin-d-su-040",
+      "claim": "关于妊娠期补充维生素D的母体不良事件（如出血、肾病综合征或高钙血症），由于数据稀缺，无法得出确切结论。",
+      "section": "Implications for practice",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠",
+        "维生素D",
+        "安全性",
+        "不良事件"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-vitamin-d-su-041",
+      "claim": "妊娠期补充维生素D可增加血清25-羟基维生素D浓度。",
+      "section": "Implications for practice",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "妊娠",
+        "维生素D",
+        "25-羟基维生素D",
+        "血清浓度"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "34-36"
+    },
+    {
+      "id": "E-vitamin-d-su-042",
+      "claim": "孕期单独补充维生素D可能降低先兆子痫、妊娠期糖尿病和低出生体重的风险。",
+      "section": "WHAT'S NEW",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "先兆子痫",
+        "妊娠期糖尿病",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "148-150"
+    },
+    {
+      "id": "E-vitamin-d-su-043",
+      "claim": "孕期补充维生素D+钙可能降低先兆子痫风险，但可能增加早产风险。",
+      "section": "WHAT'S NEW",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "钙",
+        "孕期",
+        "先兆子痫",
+        "早产"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "148-150"
+    },
+    {
+      "id": "E-vitamin-d-su-044",
+      "claim": "孕期补充维生素D+其他营养素对早产或低出生体重风险可能没有或仅有微小影响。",
+      "section": "WHAT'S NEW",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "维生素D",
+        "孕期",
+        "早产",
+        "低出生体重"
+      ],
+      "source_doc": "Vitamin D supplementation for women during pregnancy",
+      "org": "Cochrane 协作网",
+      "year": "2024",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008873.pub4/full",
+      "page": "148-150"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "doc": "Demand feeding for low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/demandfeeding-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-demand-feedi-001",
+      "claim": "低出生体重儿应喂养母乳，只有在无法获得时才考虑捐赠母乳或标准配方。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重儿",
+        "母乳喂养",
+        "捐赠母乳",
+        "配方奶"
+      ],
+      "source_doc": "Demand feeding for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/demandfeeding-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-demand-feedi-002",
+      "claim": "需要替代口服喂养的低出生体重儿应使用杯子或勺子喂养。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重儿",
+        "喂养方法",
+        "杯子",
+        "勺子"
+      ],
+      "source_doc": "Demand feeding for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/demandfeeding-infants",
+      "page": "1-3"
+    },
+    {
+      "id": "E-demand-feedi-003",
+      "claim": "完全或大部分通过替代口服喂养的低出生体重儿应根据饥饿线索喂养，除非婴儿在最后一次喂奶后超过3小时仍在睡觉。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重儿",
+        "按需喂养",
+        "饥饿线索",
+        "喂养间隔"
+      ],
+      "source_doc": "Demand feeding for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/demandfeeding-infants",
+      "page": "1-3"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "doc": "Reducing consumption of sugar-sweetened beverages to reduce the risk of unhealthy weight gain in adults",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/ssbs-adult-weight",
+  "complete": true,
+  "done_windows": 2,
+  "count": 3,
+  "entries": [
+    {
+      "id": "E-reducing-con-001",
+      "claim": "WHO推荐减少游离糖摄入，并将游离糖摄入量控制在总能量摄入的10%以下。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "成人",
+        "儿童"
+      ],
+      "source_doc": "Reducing consumption of sugar-sweetened beverages to reduce the risk of unhealthy weight gain in adults",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/ssbs-adult-weight",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-con-002",
+      "claim": "WHO建议进一步将游离糖摄入量降至总能量摄入的5%以下。",
+      "section": "WHO Recommendations",
+      "strength": "指南建议",
+      "topics": [
+        "WHO营养干预",
+        "游离糖",
+        "总能量摄入",
+        "成人",
+        "儿童"
+      ],
+      "source_doc": "Reducing consumption of sugar-sweetened beverages to reduce the risk of unhealthy weight gain in adults",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/ssbs-adult-weight",
+      "page": "1-3"
+    },
+    {
+      "id": "E-reducing-con-003",
+      "claim": "减少含糖饮料的消费可降低成人不健康体重增加的风险。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "含糖饮料",
+        "体重增加",
+        "成人"
+      ],
+      "source_doc": "Reducing consumption of sugar-sweetened beverages to reduce the risk of unhealthy weight gain in adults",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/ssbs-adult-weight",
+      "page": "1-3"
+    }
+  ]
+}

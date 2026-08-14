@@ -1,0 +1,47 @@
+{
+  "doc": "Advice about Eating Fish: For Those Who Might Become or Are Pregnant or Breastfeeding and Children Ages 1-11 Years",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2024",
+  "url": "https://www.fda.gov/media/152849/download",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-advice-about-001",
+      "claim": "怀孕和哺乳期女性每周应摄入8至12盎司来自“最佳选择”列表的鱼类。",
+      "section": "How Much Fish Should I Eat?",
+      "strength": "指南推荐",
+      "topics": [
+        "孕期与哺乳期营养",
+        "怀孕",
+        "哺乳",
+        "鱼类摄入量",
+        "汞",
+        "最佳选择"
+      ],
+      "source_doc": "Advice about Eating Fish: For Those Who Might Become or Are Pregnant or Breastfeeding and Children Ages 1-11 Years",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2024",
+      "url": "https://www.fda.gov/media/152849/download",
+      "page": "1-1"
+    },
+    {
+      "id": "E-advice-about-002",
+      "claim": "食用鱼类作为健康饮食模式的一部分，可能有益于心脏健康。",
+      "section": "Are There Other Benefits of Eating Fish?",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "鱼类",
+        "心脏健康",
+        "Omega-3"
+      ],
+      "source_doc": "Advice about Eating Fish: For Those Who Might Become or Are Pregnant or Breastfeeding and Children Ages 1-11 Years",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2024",
+      "url": "https://www.fda.gov/media/152849/download",
+      "page": "1-1"
+    }
+  ]
+}

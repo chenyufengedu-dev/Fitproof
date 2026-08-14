@@ -1,0 +1,28 @@
+{
+  "doc": "Mother’s milk for low-birth-weight infants",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/mothersmilk-infants",
+  "complete": true,
+  "done_windows": 2,
+  "count": 1,
+  "entries": [
+    {
+      "id": "E-mother-s-mil-001",
+      "claim": "低出生体重婴儿（包括极低出生体重婴儿）应喂养母乳。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "低出生体重婴儿",
+        "母乳",
+        "喂养"
+      ],
+      "source_doc": "Mother’s milk for low-birth-weight infants",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/mothersmilk-infants",
+      "page": "1-3"
+    }
+  ]
+}

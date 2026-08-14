@@ -1,0 +1,79 @@
+{
+  "doc": "How to choose the right weight loss program for your lifestyle",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2025",
+  "url": "https://diet.mayoclinic.org/us/blog/2025/how-to-choose-the-right-weight-loss-program-for-your-lifestyle/",
+  "complete": true,
+  "done_windows": 3,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-how-to-choos-001",
+      "claim": "应避免极低热量、单一食物或排除整个食物群的减肥饮食。",
+      "section": "7 criteria to evaluate any program",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "极低热量饮食",
+        "单一食物饮食",
+        "营养充足性"
+      ],
+      "source_doc": "How to choose the right weight loss program for your lifestyle",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2025",
+      "url": "https://diet.mayoclinic.org/us/blog/2025/how-to-choose-the-right-weight-loss-program-for-your-lifestyle/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-how-to-choos-002",
+      "claim": "应避免承诺极端快速减肥（如10天减30磅）的减肥计划。",
+      "section": "Red flags and myths to avoid",
+      "strength": "指南建议",
+      "topics": [
+        "减肥与代谢",
+        "极端减肥",
+        "快速减肥",
+        "红旗"
+      ],
+      "source_doc": "How to choose the right weight loss program for your lifestyle",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2025",
+      "url": "https://diet.mayoclinic.org/us/blog/2025/how-to-choose-the-right-weight-loss-program-for-your-lifestyle/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-how-to-choos-003",
+      "claim": "没有特定饮食能专门减少腹部脂肪。",
+      "section": "Frequently asked questions",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "腹部脂肪",
+        "局部减脂",
+        "饮食误区"
+      ],
+      "source_doc": "How to choose the right weight loss program for your lifestyle",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2025",
+      "url": "https://diet.mayoclinic.org/us/blog/2025/how-to-choose-the-right-weight-loss-program-for-your-lifestyle/",
+      "page": "4-6"
+    },
+    {
+      "id": "E-how-to-choos-004",
+      "claim": "减肥计划应与生活方式相匹配，而非反之。",
+      "section": "Conclusion and key takeaways",
+      "strength": "指南推荐",
+      "topics": [
+        "减肥与代谢",
+        "生活方式",
+        "可持续性",
+        "个体化"
+      ],
+      "source_doc": "How to choose the right weight loss program for your lifestyle",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2025",
+      "url": "https://diet.mayoclinic.org/us/blog/2025/how-to-choose-the-right-weight-loss-program-for-your-lifestyle/",
+      "page": "4-6"
+    }
+  ]
+}

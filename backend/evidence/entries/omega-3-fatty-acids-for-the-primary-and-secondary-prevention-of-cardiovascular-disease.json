@@ -1,0 +1,682 @@
+{
+  "doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+  "org": "Cochrane 协作网",
+  "year": "2020",
+  "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+  "complete": true,
+  "done_windows": 12,
+  "count": 39,
+  "entries": [
+    {
+      "id": "E-omega-3-fatt-001",
+      "claim": "增加长链Omega-3脂肪酸摄入对全因死亡率几乎没有影响。",
+      "section": "Effects of interventions - Primary outcomes - All-cause mortality (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "全因死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "42-44"
+    },
+    {
+      "id": "E-omega-3-fatt-002",
+      "claim": "增加长链omega-3脂肪酸摄入对全因死亡率没有影响",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "全因死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-omega-3-fatt-003",
+      "claim": "增加长链omega-3脂肪酸摄入对心血管疾病死亡率几乎没有影响",
+      "section": "",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "心血管疾病死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-omega-3-fatt-004",
+      "claim": "增加长链omega-3脂肪酸摄入对心血管事件风险几乎没有影响",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "心血管事件",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-omega-3-fatt-005",
+      "claim": "增加长链omega-3脂肪酸摄入可能轻微降低冠心病死亡率",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "冠心病死亡率",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-omega-3-fatt-006",
+      "claim": "增加长链omega-3脂肪酸摄入可能轻微降低冠心病事件风险",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "冠心病事件",
+        "心血管疾病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "45-47"
+    },
+    {
+      "id": "E-omega-3-fatt-007",
+      "claim": "增加长链Omega-3脂肪酸摄入可能轻微降低冠心病事件风险",
+      "section": "Coronary heart disease events (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "冠心病",
+        "初级预防",
+        "二级预防"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-008",
+      "claim": "增加长链Omega-3脂肪酸摄入可能对中风风险几乎没有影响",
+      "section": "Stroke (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "中风",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-009",
+      "claim": "增加长链Omega-3脂肪酸摄入可能轻微增加心律失常风险",
+      "section": "Arrhythmia (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "心律失常",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-010",
+      "claim": "增加α-亚麻酸摄入可能对全因死亡率几乎没有影响",
+      "section": "All-cause mortality (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "全因死亡率",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-011",
+      "claim": "增加α-亚麻酸摄入可能对心血管死亡率几乎没有影响",
+      "section": "Cardiovascular mortality (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "心血管死亡率",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-012",
+      "claim": "增加α-亚麻酸摄入可能轻微降低心血管事件风险",
+      "section": "Cardiovascular events (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "心血管事件",
+        "预防"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-013",
+      "claim": "增加α-亚麻酸摄入可能对冠心病死亡率几乎没有影响",
+      "section": "Coronary heart disease mortality (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "冠心病死亡率",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-014",
+      "claim": "增加α-亚麻酸摄入可能对冠心病事件几乎没有影响",
+      "section": "Coronary heart disease events (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "冠心病事件",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "48-50"
+    },
+    {
+      "id": "E-omega-3-fatt-015",
+      "claim": "增加α-亚麻酸（ALA）摄入对冠心病事件几乎没有影响。",
+      "section": "Coronary heart disease events (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "α-亚麻酸",
+        "ALA",
+        "冠心病"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-016",
+      "claim": "增加α-亚麻酸（ALA）摄入可能略微降低心律失常风险。",
+      "section": "Arrhythmia (ALA)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "α-亚麻酸",
+        "ALA",
+        "心律失常"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-017",
+      "claim": "增加长链Omega-3脂肪酸摄入对体重几乎没有影响。",
+      "section": "Body weight (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "体重"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-018",
+      "claim": "增加长链Omega-3脂肪酸摄入对BMI几乎没有影响。",
+      "section": "BMI (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "BMI"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-019",
+      "claim": "增加长链Omega-3脂肪酸摄入对血清总胆固醇几乎没有影响。",
+      "section": "Serum total cholesterol (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "总胆固醇"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-020",
+      "claim": "增加长链Omega-3脂肪酸摄入可降低血清甘油三酯约15%，且呈剂量依赖性。",
+      "section": "Serum triglycerides (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "甘油三酯"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-021",
+      "claim": "增加长链Omega-3脂肪酸摄入对HDL胆固醇几乎没有影响。",
+      "section": "HDL cholesterol (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "HDL"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-022",
+      "claim": "增加长链Omega-3脂肪酸摄入对LDL胆固醇几乎没有影响。",
+      "section": "LDL cholesterol (LCn3)",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "长链Omega-3",
+        "LDL"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "51-53"
+    },
+    {
+      "id": "E-omega-3-fatt-023",
+      "claim": "长期增加长链omega-3（LCn3）摄入对全因死亡、心血管死亡、心血管事件、卒中和心律失常风险几乎没有影响（中等至高确定性证据）。",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3",
+        "LCn3",
+        "心血管疾病",
+        "全因死亡"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-024",
+      "claim": "高确定性证据显示，增加LCn3摄入对体重或BMI没有影响。",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3",
+        "LCn3",
+        "体重",
+        "BMI"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-025",
+      "claim": "高确定性证据显示，增加LCn3摄入可降低血清甘油三酯约15%，且呈剂量依赖性。",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3",
+        "LCn3",
+        "甘油三酯",
+        "剂量依赖"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-026",
+      "claim": "高确定性证据显示，增加LCn3摄入对总胆固醇、HDL胆固醇和LDL胆固醇没有影响。",
+      "section": "Summary of main results",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3",
+        "LCn3",
+        "胆固醇",
+        "HDL",
+        "LDL"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-027",
+      "claim": "低确定性证据提示，增加α-亚麻酸（ALA）摄入可能降低冠心病死亡和冠心病事件风险，但效果较小。",
+      "section": "Summary of main results",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "冠心病",
+        "死亡",
+        "心血管事件"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-028",
+      "claim": "中等确定性证据显示，增加ALA摄入对心律失常可能有保护作用。",
+      "section": "Summary of main results",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "心律失常",
+        "保护"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-029",
+      "claim": "增加ALA摄入对体重或BMI的影响不明确（非常低确定性证据）。",
+      "section": "Effects on adiposity",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "ALA",
+        "体重",
+        "BMI",
+        "不明确"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "54-56"
+    },
+    {
+      "id": "E-omega-3-fatt-030",
+      "claim": "长链Omega-3脂肪酸（LCn3）降低血清甘油三酯水平。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3脂肪酸",
+        "甘油三酯",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-031",
+      "claim": "在心血管疾病一级预防中，LCn3对心律失常可能有危害，二级预防中无效果。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "心律失常",
+        "一级预防",
+        "二级预防",
+        "Omega-3脂肪酸"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-032",
+      "claim": "超过20年的研究未能证实LCn3对降低心脏猝死有显著效果。",
+      "section": "Agreements and disagreements with other studies or reviews",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "心脏猝死",
+        "Omega-3",
+        "长链Omega-3"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-033",
+      "claim": "增加LCn3摄入对全因死亡率无显著影响（RR 0.97，95% CI 0.93-1.01）。",
+      "section": "Agreements and disagreements with other studies or reviews",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "全因死亡率",
+        "Omega-3",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-034",
+      "claim": "LCn3对冠心病事件的降低效果很小，约9%，但低偏倚风险试验显示效果更小或无效果。",
+      "section": "Quality of the evidence",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "冠心病事件",
+        "Omega-3",
+        "风险比"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-035",
+      "claim": "饮食来源和补充剂来源的Omega-3对心血管健康的效果没有统计学显著差异。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "Omega-3",
+        "饮食",
+        "补充剂",
+        "心血管"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "57-59"
+    },
+    {
+      "id": "E-omega-3-fatt-036",
+      "claim": "长期omega-3脂肪酸（LCn3）对全因死亡率或心血管事件没有重要影响（高确定性证据）。",
+      "section": "Implications for practice",
+      "strength": "指南推荐",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3脂肪酸",
+        "心血管事件",
+        "死亡率",
+        "LCn3"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "60-62"
+    },
+    {
+      "id": "E-omega-3-fatt-037",
+      "claim": "补充LCn3对预防或治疗心血管疾病可能无显著益处，因为效果非常小。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3脂肪酸",
+        "心血管疾病",
+        "补充剂",
+        "NNTB"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "60-62"
+    },
+    {
+      "id": "E-omega-3-fatt-038",
+      "claim": "增加α-亚麻酸（ALA）的摄入可能轻微降低心血管疾病事件风险，但效果很小（NNTB=500）。",
+      "section": "Implications for practice",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "α-亚麻酸",
+        "ALA",
+        "心血管事件",
+        "预防"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "60-62"
+    },
+    {
+      "id": "E-omega-3-fatt-039",
+      "claim": "LCn3有助于降低血清甘油三酯，但对身体肥胖或其他血脂成分无影响。",
+      "section": "Implications for practice",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "omega-3脂肪酸",
+        "甘油三酯",
+        "血脂",
+        "LCn3"
+      ],
+      "source_doc": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "org": "Cochrane 协作网",
+      "year": "2020",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003177.pub5/full",
+      "page": "60-62"
+    }
+  ]
+}

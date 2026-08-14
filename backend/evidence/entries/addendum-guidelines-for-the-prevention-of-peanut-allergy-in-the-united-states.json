@@ -1,0 +1,783 @@
+{
+  "doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+  "org": "美国国家过敏与传染病研究所 (NIAID)",
+  "year": "2017",
+  "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+  "complete": true,
+  "done_windows": 12,
+  "count": 43,
+  "entries": [
+    {
+      "id": "E-addendum-gui-001",
+      "claim": "应早期将含花生的食物引入婴儿饮食，以预防花生过敏，并根据风险水平调整引入方式。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生",
+        "过敏",
+        "预防",
+        "婴儿",
+        "早期引入"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "1-3"
+    },
+    {
+      "id": "E-addendum-gui-002",
+      "claim": "严重湿疹或鸡蛋过敏的婴儿应在4-6个月引入含花生的食物以降低花生过敏风险。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "预防",
+        "婴儿",
+        "严重湿疹",
+        "鸡蛋过敏"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-003",
+      "claim": "在引入花生前，应强烈考虑进行花生特异性IgE检测或皮肤点刺试验评估。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "诊断",
+        "IgE",
+        "皮肤点刺试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-004",
+      "claim": "花生特异性IgE低于0.35 kUA/L的婴儿推荐在家尽快引入花生，首次剂量约2克花生蛋白。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "IgE",
+        "引入剂量"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-005",
+      "claim": "轻中度湿疹的婴儿应在大约6个月时引入含花生的食物。",
+      "section": "Addendum Guideline 2",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "预防",
+        "婴儿",
+        "轻中度湿疹"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-006",
+      "claim": "无湿疹或食物过敏的婴儿应在适龄时根据家庭偏好和文化习惯引入含花生的食物。",
+      "section": "Addendum Guideline 3",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "预防",
+        "婴儿",
+        "无湿疹"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-007",
+      "claim": "不推荐进行食物过敏原组合检测或添加非花生食物的特异性IgE检测。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "诊断",
+        "测试"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "10-12"
+    },
+    {
+      "id": "E-addendum-gui-008",
+      "claim": "对于严重湿疹、鸡蛋过敏或两者皆有的婴儿，若花生特异性IgE低于0.35 kUA/L或花生SPT风团≤2mm，应在4至6个月大时引入膳食花生，无需进一步评估。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "婴儿",
+        "湿疹",
+        "鸡蛋过敏",
+        "早期引入"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-009",
+      "claim": "对于花生SPT风团直径为3至7毫米的婴儿，应在专科医生办公室进行监督喂养或分级口服食物激发试验。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "皮肤点刺试验",
+        "口服食物激发",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-010",
+      "claim": "对于花生SPT风团直径≥8毫米的婴儿，花生过敏可能性高，应严格避免膳食花生，除非专科医生进一步评估后推荐食用。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "皮肤点刺试验",
+        "婴儿",
+        "避免"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-011",
+      "claim": "对于决定引入膳食花生的婴儿，每周应摄入约6至7克花生蛋白，分3次以上喂养。",
+      "section": "Addendum Guideline 1",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生蛋白",
+        "摄入量",
+        "婴儿",
+        "预防花生过敏"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-012",
+      "claim": "对于轻度至中度湿疹的婴儿，应在6个月左右引入适龄的花生食物，以降低花生过敏风险，可在家中进行，无需在诊所评估。",
+      "section": "Addendum Guideline 2",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "婴儿",
+        "湿疹",
+        "花生",
+        "预防过敏",
+        "早期引入"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-013",
+      "claim": "对于无湿疹或任何食物过敏的婴儿，可以自由引入适龄的花生食物，与其他固体食物一起，根据家庭偏好和文化习俗。",
+      "section": "Addendum Guideline 3",
+      "strength": "指南建议",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "婴儿",
+        "花生",
+        "自由引入",
+        "无风险因素"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-014",
+      "claim": "早期引入花生不影响母乳喂养的持续时间或频率，也不影响婴儿的生长和营养。",
+      "section": "Additional comments",
+      "strength": "一般共识",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "母乳喂养",
+        "花生",
+        "婴儿生长",
+        "营养"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-015",
+      "claim": "对于有确诊花生过敏的家庭成员的婴儿，在决定引入花生前应咨询医疗提供者，权衡整体益处和风险。",
+      "section": "Additional comments",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "家庭成员过敏",
+        "花生引入",
+        "风险评估",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-016",
+      "claim": "对于已确诊花生过敏的儿童，应严格避免花生，并由专科医生进行长期管理。",
+      "section": "Additional comments",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "儿童",
+        "避免",
+        "专科管理"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "13-15"
+    },
+    {
+      "id": "E-addendum-gui-017",
+      "claim": "对低过敏风险婴儿进行家庭花生蛋白喂养前，应先经医生评估，包括过敏测试，确认安全。",
+      "section": "Appendix D: Instructions for home feeding of peanut protein for infants at low risk of an allergic reaction",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "婴儿喂养",
+        "过敏测试",
+        "低风险"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-addendum-gui-018",
+      "claim": "首次花生喂养应在婴儿健康时，且在家中、非日托或餐厅进行。",
+      "section": "Appendix D: Instructions for home feeding of peanut protein for infants at low risk of an allergic reaction",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "婴儿喂养",
+        "喂养环境",
+        "健康状态"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-addendum-gui-019",
+      "claim": "喂养时至少有一名成人全身心关注婴儿，不受干扰，并喂养后观察至少2小时。",
+      "section": "Appendix D: Instructions for home feeding of peanut protein for infants at low risk of an allergic reaction",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "婴儿喂养",
+        "监护",
+        "观察"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-addendum-gui-020",
+      "claim": "先喂一小口花生食物，等待10分钟，若无过敏反应再继续喂完。",
+      "section": "Appendix D: Instructions for home feeding of peanut protein for infants at low risk of an allergic reaction",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "婴儿喂养",
+        "逐步引入",
+        "观察时间"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "22-24"
+    },
+    {
+      "id": "E-addendum-gui-021",
+      "claim": "对于小于7个月的婴儿，应在喂食Bamba前用4-6茶匙水将其软化。",
+      "section": "Option 1: Bamba",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏预防",
+        "Bamba",
+        "婴儿喂养",
+        "花生蛋白"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "25-27"
+    },
+    {
+      "id": "E-addendum-gui-022",
+      "claim": "对于已经能处理可溶质地的大龄婴儿，可以直接喂食未经改性的Bamba；如果尚未适应可溶质地，则应提供软化的Bamba。",
+      "section": "Option 1: Bamba",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏预防",
+        "Bamba",
+        "婴儿喂养",
+        "可溶质地"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "25-27"
+    },
+    {
+      "id": "E-addendum-gui-023",
+      "claim": "进行办公室监督喂养前，应确认婴儿无任何伴随疾病，如上呼吸道感染。",
+      "section": "Appendix E: In-Office Supervised Feeding Protocol",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏预防",
+        "办公室监督喂养",
+        "婴儿",
+        "疾病筛查"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "25-27"
+    },
+    {
+      "id": "E-addendum-gui-024",
+      "claim": "办公室监督喂养应从一小部分开始，等待10分钟无反应后，继续逐步喂完剩余的花生蛋白食物，并在摄入2克花生蛋白后观察30分钟。",
+      "section": "Appendix E: In-Office Supervised Feeding Protocol",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏预防",
+        "办公室监督喂养",
+        "婴儿",
+        "观察时间"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "25-27"
+    },
+    {
+      "id": "E-addendum-gui-025",
+      "claim": "如果决定在婴儿饮食中引入花生，每周应摄入约6至7克花生蛋白，分3次或更多次喂养。",
+      "section": "APPENDIX F",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生",
+        "婴儿",
+        "蛋白质摄入量"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-addendum-gui-026",
+      "claim": "4岁以下儿童不应直接喂食勺子上的花生酱或花生酱块。",
+      "section": "APPENDIX F",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生酱",
+        "窒息风险",
+        "儿童"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-addendum-gui-027",
+      "claim": "5岁以下儿童不应喂食整颗坚果。",
+      "section": "APPENDIX F",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "整颗坚果",
+        "窒息风险",
+        "儿童"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-addendum-gui-028",
+      "claim": "如果婴儿或儿童在吃花生后2小时内出现轻微过敏症状，应联系医疗保健提供者。",
+      "section": "APPENDIX F",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "花生过敏",
+        "过敏症状",
+        "就医"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "28-30"
+    },
+    {
+      "id": "E-addendum-gui-029",
+      "claim": "口服食物激发试验前，应停用西替利嗪至少5天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "西替利嗪",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-030",
+      "claim": "口服食物激发试验前，应停用赛庚啶至少10天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "赛庚啶",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-031",
+      "claim": "口服食物激发试验前，应停用苯海拉明至少3天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "苯海拉明",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-032",
+      "claim": "口服食物激发试验前，应停用非索非那定至少3天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "非索非那定",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-033",
+      "claim": "口服食物激发试验前，应停用氯雷他定至少7天。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "氯雷他定",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-034",
+      "claim": "口服食物激发试验前，应停用短效支气管扩张剂（如沙丁胺醇）至少8小时。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "沙丁胺醇",
+        "短效支气管扩张剂",
+        "停药时间",
+        "口服食物激发试验"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-035",
+      "claim": "口服食物激发试验前，抗组胺眼药水、吸入/鼻用皮质类固醇、外用皮质类固醇、外用吡美莫司或他克莫司可以继续使用。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "口服食物激发试验",
+        "持续用药",
+        "抗组胺眼药水",
+        "皮质类固醇"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-036",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，一线治疗是肌肉注射肾上腺素（1:1000浓度），医疗场所剂量为0.01 mg/kg，社区场所使用自动注射器0.15 mg。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "肾上腺素",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-037",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括沙丁胺醇雾化吸入（每20分钟0.15 mg/kg，至少2.5 mg/次，共3次）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "沙丁胺醇",
+        "雾化",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-038",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括沙丁胺醇MDI吸入（2喷，每喷90 μg，使用面罩）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "沙丁胺醇",
+        "MDI",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-039",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括氧气（8-10 L/min经面罩）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "氧气",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-040",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括口服苯海拉明（1.25 mg/kg）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "苯海拉明",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-041",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括口服西替利嗪（2.5 mg）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "西替利嗪",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-042",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括静脉输注生理盐水或乳酸林格液（20 ml/kg，5分钟内）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "生理盐水",
+        "乳酸林格液",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    },
+    {
+      "id": "E-addendum-gui-043",
+      "claim": "对于婴儿在诊室进行的口服食物激发试验中的严重反应，辅助治疗包括口服泼尼松龙（1 mg/kg）或静脉注射甲泼尼龙（1 mg/kg）。",
+      "section": "",
+      "strength": "指南推荐",
+      "topics": [
+        "婴幼儿与儿童喂养",
+        "泼尼松龙",
+        "甲泼尼龙",
+        "糖皮质激素",
+        "严重反应",
+        "口服食物激发试验",
+        "婴儿"
+      ],
+      "source_doc": "Addendum Guidelines for the Prevention of Peanut Allergy in the United States",
+      "org": "美国国家过敏与传染病研究所 (NIAID)",
+      "year": "2017",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum-peanut-allergy-prevention-guidelines.pdf",
+      "page": "34-36"
+    }
+  ]
+}

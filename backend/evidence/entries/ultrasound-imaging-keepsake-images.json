@@ -1,0 +1,100 @@
+{
+  "doc": "Ultrasound Imaging：Keepsake images",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2023",
+  "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+  "complete": true,
+  "done_windows": 3,
+  "count": 5,
+  "entries": [
+    {
+      "id": "E-ultrasound-i-001",
+      "claim": "不建议仅为了获取胎儿纪念影像而使用超声。",
+      "section": "Benefits/Risks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超声",
+        "胎儿",
+        "纪念影像",
+        "非医疗用途"
+      ],
+      "source_doc": "Ultrasound Imaging：Keepsake images",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+      "page": "1-3"
+    },
+    {
+      "id": "E-ultrasound-i-002",
+      "claim": "在医学指征检查期间，若无需额外暴露，获取胎儿纪念影像是合理的。",
+      "section": "Benefits/Risks",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超声",
+        "胎儿",
+        "纪念影像",
+        "医学指征"
+      ],
+      "source_doc": "Ultrasound Imaging：Keepsake images",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+      "page": "1-3"
+    },
+    {
+      "id": "E-ultrasound-i-003",
+      "claim": "非处方胎儿心跳监测系统（doptones）只能由经过培训的医疗保健提供者在有医学必要时使用。",
+      "section": "Information for Patients including Expectant Mothers",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "胎儿心跳监测",
+        "doptones",
+        "安全",
+        "培训"
+      ],
+      "source_doc": "Ultrasound Imaging：Keepsake images",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+      "page": "1-3"
+    },
+    {
+      "id": "E-ultrasound-i-004",
+      "claim": "在医学上适当的情况下，应优先考虑使用超声或MRI等低或无电离辐射的检查方式。",
+      "section": "Information for Health Care Providers",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超声",
+        "MRI",
+        "电离辐射",
+        "医学成像"
+      ],
+      "source_doc": "Ultrasound Imaging：Keepsake images",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+      "page": "4-6"
+    },
+    {
+      "id": "E-ultrasound-i-005",
+      "claim": "使用超声时应遵循ALARA原则，在维持诊断质量的同时最小化暴露。",
+      "section": "Information for Health Care Providers",
+      "strength": "指南推荐",
+      "topics": [
+        "孕产与产后护理",
+        "超声",
+        "ALARA",
+        "暴露最小化"
+      ],
+      "source_doc": "Ultrasound Imaging：Keepsake images",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2023",
+      "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging",
+      "page": "4-6"
+    }
+  ]
+}

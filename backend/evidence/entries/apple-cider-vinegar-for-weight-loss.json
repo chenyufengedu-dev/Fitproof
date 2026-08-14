@@ -1,0 +1,45 @@
+{
+  "doc": "Apple cider vinegar for weight loss",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2024",
+  "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394",
+  "complete": true,
+  "done_windows": 1,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-apple-cider--001",
+      "claim": "饮用苹果醋并不能有效减轻体重。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "减肥与代谢",
+        "苹果醋",
+        "体重减轻",
+        "减肥"
+      ],
+      "source_doc": "Apple cider vinegar for weight loss",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394",
+      "page": "1-3"
+    },
+    {
+      "id": "E-apple-cider--002",
+      "claim": "健康成人每天摄入苹果醋不超过2汤匙（约30毫升），连续使用不超过12周是安全的。",
+      "section": "",
+      "strength": "背景说明",
+      "topics": [
+        "减肥与代谢",
+        "苹果醋",
+        "安全性",
+        "剂量"
+      ],
+      "source_doc": "Apple cider vinegar for weight loss",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2024",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394",
+      "page": "1-3"
+    }
+  ]
+}

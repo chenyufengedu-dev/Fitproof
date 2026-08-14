@@ -1,0 +1,158 @@
+{
+  "doc": "LactMed: Caffeine",
+  "org": "美国国家医学图书馆 (NIH NLM)",
+  "year": "2026",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+  "complete": true,
+  "done_windows": 2,
+  "count": 8,
+  "entries": [
+    {
+      "id": "E-lactmed-caff-001",
+      "claim": "大多数哺乳期母亲每日咖啡因摄入量在300-500 mg以内可能是安全的。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "哺乳期",
+        "安全摄入量",
+        "咖啡"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-002",
+      "claim": "欧洲机构认为哺乳期母亲每日咖啡因摄入量200 mg以内可能是安全的。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "哺乳期",
+        "欧洲指南",
+        "安全摄入量"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-003",
+      "claim": "早产儿和新生儿的母亲应控制更低的咖啡因摄入量，因为婴儿代谢咖啡因缓慢。",
+      "section": "Summary of Use during Lactation",
+      "strength": "指南建议",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "早产儿",
+        "新生儿",
+        "哺乳期",
+        "代谢"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-004",
+      "claim": "哺乳期母亲每日饮用超过450 mL咖啡可能降低母乳铁浓度，并导致部分母乳喂养婴儿出现轻度缺铁性贫血。",
+      "section": "Summary of Use during Lactation",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡",
+        "铁浓度",
+        "贫血",
+        "母乳喂养"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-005",
+      "claim": "咖啡因的剂量相关效应同样适用于其他含咖啡因的饮品，如可乐、能量饮料、马黛茶和瓜拉纳。",
+      "section": "Summary of Use during Lactation",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "可乐",
+        "能量饮料",
+        "马黛茶",
+        "瓜拉纳"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-006",
+      "claim": "哺乳期母亲每日服用5杯咖啡（约500 mg咖啡因）对3周龄及以上的母乳喂养婴儿未发现兴奋作用。",
+      "section": "Summary of Use during Lactation",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "咖啡",
+        "婴儿",
+        "兴奋作用"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-007",
+      "claim": "母亲每日摄入约10杯或以上咖啡当量的咖啡因，可能引起母乳喂养婴儿烦躁、惊跳和睡眠不佳。",
+      "section": "Summary of Use during Lactation",
+      "strength": "背景说明",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "高剂量",
+        "婴儿",
+        "烦躁",
+        "睡眠"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "1-3"
+    },
+    {
+      "id": "E-lactmed-caff-008",
+      "claim": "哺乳期母亲每天摄入咖啡因不超过300毫克是合理的。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "孕期与哺乳期营养",
+        "咖啡因",
+        "哺乳",
+        "婴儿",
+        "睡眠"
+      ],
+      "source_doc": "LactMed: Caffeine",
+      "org": "美国国家医学图书馆 (NIH NLM)",
+      "year": "2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501467/",
+      "page": "4-6"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "doc": "Grapefruit Juice and Some Drugs Don't Mix",
+  "org": "美国食品药品监督管理局 (FDA)",
+  "year": "2017",
+  "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+  "complete": true,
+  "done_windows": 1,
+  "count": 4,
+  "entries": [
+    {
+      "id": "E-grapefruit-j-001",
+      "claim": "服用辛伐他汀或阿托伐他汀等降胆固醇药物时，饮用大量柚子汁可能增加肝肾功能损害风险。",
+      "section": "How Grapefruit Juice Can Interfere With Medications",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "柚子汁",
+        "他汀类药物",
+        "药物相互作用",
+        "副作用"
+      ],
+      "source_doc": "Grapefruit Juice and Some Drugs Don't Mix",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2017",
+      "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+      "page": "1-3"
+    },
+    {
+      "id": "E-grapefruit-j-002",
+      "claim": "服用非索非那定（Allegra）抗过敏药时，不应同时饮用柚子汁、橙汁或苹果汁，以免降低药效。",
+      "section": "How Grapefruit Juice Can Interfere With Medications",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "柚子汁",
+        "非索非那定",
+        "抗过敏药",
+        "果汁相互作用"
+      ],
+      "source_doc": "Grapefruit Juice and Some Drugs Don't Mix",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2017",
+      "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+      "page": "1-3"
+    },
+    {
+      "id": "E-grapefruit-j-003",
+      "claim": "柚子汁与某些处方药和非处方药存在相互作用，服用前应咨询医生或药师，并阅读药品标签。",
+      "section": "Find Out if You Should Avoid Grapefruit or Other Juices",
+      "strength": "指南推荐",
+      "topics": [
+        "用药误区",
+        "柚子汁",
+        "药物相互作用",
+        "咨询医生",
+        "药品标签"
+      ],
+      "source_doc": "Grapefruit Juice and Some Drugs Don't Mix",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2017",
+      "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+      "page": "1-3"
+    },
+    {
+      "id": "E-grapefruit-j-004",
+      "claim": "柚子汁可能阻断小肠CYP3A4酶，导致更多药物进入血液，增加副作用风险。",
+      "section": "How Grapefruit Juice Can Interfere With Medications",
+      "strength": "背景说明",
+      "topics": [
+        "用药误区",
+        "柚子汁",
+        "CYP3A4酶",
+        "药物代谢",
+        "副作用"
+      ],
+      "source_doc": "Grapefruit Juice and Some Drugs Don't Mix",
+      "org": "美国食品药品监督管理局 (FDA)",
+      "year": "2017",
+      "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix",
+      "page": "1-3"
+    }
+  ]
+}

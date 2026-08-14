@@ -1,0 +1,245 @@
+{
+  "doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+  "org": "妙佑医疗国际 (Mayo Clinic)",
+  "year": "2023",
+  "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+  "complete": true,
+  "done_windows": 2,
+  "count": 13,
+  "entries": [
+    {
+      "id": "E-milk-thistle-001",
+      "claim": "水飞蓟可能降低2型糖尿病患者的血糖水平，但需要更多研究来确认其益处。",
+      "section": "What the research says",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "2型糖尿病",
+        "血糖"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-002",
+      "claim": "水飞蓟与其他补充剂联用可能改善消化不良症状。",
+      "section": "What the research says",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "消化不良",
+        "补充剂"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-003",
+      "claim": "水飞蓟对肝硬化、丙型肝炎等肝病的效果研究结果不一。",
+      "section": "What the research says",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "肝病",
+        "肝硬化",
+        "丙型肝炎"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-004",
+      "claim": "适当剂量口服水飞蓟似乎是安全的。",
+      "section": "Safety and side effects",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "安全性",
+        "口服"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-005",
+      "claim": "水飞蓟可能引起胃肠道不适、瘙痒和头痛。",
+      "section": "Safety and side effects",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "副作用",
+        "胃肠道",
+        "瘙痒",
+        "头痛"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-006",
+      "claim": "糖尿病患者使用水飞蓟应谨慎，因其可能降低血糖。",
+      "section": "Safety and side effects",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "糖尿病",
+        "低血糖",
+        "谨慎使用"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-007",
+      "claim": "水飞蓟可能影响雌激素水平，患有乳腺癌、子宫癌、卵巢癌、子宫内膜异位症或子宫肌瘤者应考虑避免使用。",
+      "section": "Safety and side effects",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "雌激素",
+        "癌症",
+        "子宫肌瘤"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-008",
+      "claim": "对菊科植物（如豚草、雏菊、万寿菊、菊花）过敏者，使用水飞蓟更易发生过敏反应，包括严重过敏反应。",
+      "section": "Safety and side effects",
+      "strength": "一般共识",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "过敏",
+        "菊科植物",
+        "过敏性反应"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-009",
+      "claim": "水飞蓟可能影响CYP2C9酶的活性，从而改变地西泮、华法林等药物的体内水平。",
+      "section": "Interactions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "CYP2C9",
+        "药物相互作用",
+        "地西泮",
+        "华法林"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-010",
+      "claim": "服用糖尿病药物时使用水飞蓟应监测血糖并咨询医生，因水飞蓟可能增强降糖效果。",
+      "section": "Interactions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "糖尿病药物",
+        "血糖监测",
+        "药物相互作用"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-011",
+      "claim": "水飞蓟可能影响肝脏对雷洛昔芬的代谢，导致血药浓度升高，服用雷洛昔芬者使用水飞蓟前应咨询医生。",
+      "section": "Interactions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "雷洛昔芬",
+        "药物相互作用",
+        "骨质疏松"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-012",
+      "claim": "水飞蓟与西梅普韦（治疗丙型肝炎药物）合用可能增加西梅普韦的血浆浓度，应避免同时使用。",
+      "section": "Interactions",
+      "strength": "指南建议",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "西梅普韦",
+        "丙型肝炎",
+        "药物相互作用",
+        "避免合用"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    },
+    {
+      "id": "E-milk-thistle-013",
+      "claim": "水飞蓟可能改变西罗莫司（免疫抑制剂）在体内的代谢方式。",
+      "section": "Interactions",
+      "strength": "背景说明",
+      "topics": [
+        "膳食补充剂与保健品",
+        "水飞蓟",
+        "西罗莫司",
+        "免疫抑制剂",
+        "药物相互作用"
+      ],
+      "source_doc": "Milk thistle / Self-care for fatty liver disease (MASLD)",
+      "org": "妙佑医疗国际 (Mayo Clinic)",
+      "year": "2023",
+      "url": "https://www.mayoclinic.org/drugs-supplements-milk-thistle/art-20362885",
+      "page": "1-3"
+    }
+  ]
+}

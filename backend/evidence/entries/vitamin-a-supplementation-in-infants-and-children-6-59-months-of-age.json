@@ -1,0 +1,47 @@
+{
+  "doc": "Vitamin A supplementation in infants and children 6–59 months of age",
+  "org": "世界卫生组织 (WHO)",
+  "year": "",
+  "url": "https://www.who.int/tools/elena/interventions/vitamina-children",
+  "complete": true,
+  "done_windows": 2,
+  "count": 2,
+  "entries": [
+    {
+      "id": "E-vitamin-a-su-001",
+      "claim": "在维生素A缺乏是公共卫生问题的地区（24-59月龄儿童夜盲症患病率≥1%，或6-59月龄婴幼儿血清视黄醇≤0.70 µmol/L的患病率≥20%），应对6-59月龄婴幼儿和儿童进行高剂量维生素A补充。",
+      "section": "WHO Recommendations",
+      "strength": "指南推荐",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "补充",
+        "婴幼儿",
+        "公共卫生问题"
+      ],
+      "source_doc": "Vitamin A supplementation in infants and children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-children",
+      "page": "1-3"
+    },
+    {
+      "id": "E-vitamin-a-su-002",
+      "claim": "维生素A可以安全地以大剂量给予儿童，因为身体能储存并随时间释放。",
+      "section": "",
+      "strength": "一般共识",
+      "topics": [
+        "WHO营养干预",
+        "维生素A",
+        "剂量",
+        "安全性",
+        "储存"
+      ],
+      "source_doc": "Vitamin A supplementation in infants and children 6–59 months of age",
+      "org": "世界卫生组织 (WHO)",
+      "year": "",
+      "url": "https://www.who.int/tools/elena/interventions/vitamina-children",
+      "page": "1-3"
+    }
+  ]
+}
