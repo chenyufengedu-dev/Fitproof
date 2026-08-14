@@ -144,7 +144,7 @@ export default function Home() {
       }
       return result
     } catch (e) {
-      throw new Error(e instanceof Error ? e.message : `第 ${index + 1} 条观点核验失败，请重试`)
+      throw new Error(e instanceof Error ? e.message : `第 ${index + 1} 条说法核验失败，请重试`)
     }
   }
 

@@ -145,7 +145,7 @@ export default function InputPage({
           </div>
           <p className="fitproof-input-tagline fitproof-brand-tagline mt-3 text-xl font-semibold text-slate-800">让 AI 替你多看一步</p>
           <p className="fitproof-input-description mt-3 text-[15px] leading-relaxed text-slate-600">
-            粘贴健康短视频链接，提取可核验主张，并对照权威健康指南给出更稳妥的判断。
+            粘贴健康短视频链接，提取可核验说法，并对照权威健康指南给出更稳妥的判断。
           </p>
           <div className="fitproof-input-features mt-5 flex flex-nowrap items-center justify-between gap-1.5 whitespace-nowrap text-[11px] font-medium min-[420px]:text-xs">
             <span className="inline-flex shrink-0 items-center gap-1 rounded-lg border border-[#E5C455]/55 bg-[#FFFDF5] px-1 py-1 font-semibold text-[#8A610A] shadow-[0_1px_3px_rgba(180,139,14,0.05)]">
@@ -226,7 +226,7 @@ export default function InputPage({
                     disabled={singleSubmitting}
                     className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-bold text-[#06403A] shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
                   >
-                    {singleSubmitting ? "正在拆解主张…" : localVideo ? "分析本地视频" : "分析单视频"}
+                    {singleSubmitting ? "正在拆解说法…" : localVideo ? "分析本地视频" : "分析单视频"}
                   </button>
                   <button
                     type="button"

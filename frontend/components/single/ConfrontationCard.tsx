@@ -23,9 +23,9 @@ export default function ConfrontationCard({ claim, state, keyframes, onRetry, on
       return [name, name] as const
     })).values())
   const fallbackTraceSteps: ReasoningStep[] = result ? [
-    { label: '提取视频观点', detail: `拆出 ${claimCount} 条可核验说法`, tone: 'ok', icon: 'extract', status: 'done' },
+    { label: '提取视频说法', detail: `拆出 ${claimCount} 条可核验说法`, tone: 'ok', icon: 'extract', status: 'done' },
     { label: '检索相关文献', detail: downgraded ? '当前未命中已收录权威依据' : `命中 ${supportEvidence.length} 条依据`, tone: downgraded ? 'warn' : 'ok', icon: 'search', status: 'done', sources: sourceNames },
-    { label: `比对 ${claimCount} 条核心观点`, detail: downgraded ? '无法完成权威依据交叉比对' : `涉及 ${sourceDocs.size} 篇文献、${orgs.size} 家机构`, tone: downgraded ? 'warn' : 'ok', icon: 'compare', status: 'done' },
+    { label: `比对 ${claimCount} 条核心说法`, detail: downgraded ? '无法完成权威依据交叉比对' : `涉及 ${sourceDocs.size} 篇文献、${orgs.size} 家机构`, tone: downgraded ? 'warn' : 'ok', icon: 'compare', status: 'done' },
     { label: '生成核验结论', detail: downgraded ? '结论已明确标注为辅助判断' : '综合证据与适用条件输出结论', tone: downgraded ? 'warn' : 'ok', icon: 'verdict', status: 'done' },
   ] : []
   // 流式步骤来自后端真实 trace；核验结束后也必须保留，不能被前端摘要四步覆盖。
@@ -33,7 +33,7 @@ export default function ConfrontationCard({ claim, state, keyframes, onRetry, on
   // 「已查阅」= 检索到的文献数(result.evidence)，不是模型最终引用的(citedEvidence)。
   // 降级案例里检索命中若干篇但模型未引用，用 citedEvidence 会错显示「0 篇」。
   const reviewedDocs = new Set((result?.evidence || []).map((item) => item.source_doc).filter(Boolean))
-  const traceSummary = `已查阅 ${reviewedDocs.size} 篇文献｜分析 ${claimCount} 条观点`
+  const traceSummary = `已查阅 ${reviewedDocs.size} 篇文献｜分析 ${claimCount} 条说法`
 
   const showConclusion = Boolean(result)
 
@@ -41,7 +41,7 @@ export default function ConfrontationCard({ claim, state, keyframes, onRetry, on
     <div className="space-y-3 pb-2">
       <section className="-mt-3 rounded-[16px] bg-white px-1 pt-1">
         <div className="flex items-center gap-3">
-          <h1 className="text-[17px] font-black tracking-[-0.035em] text-[#17243B]">视频观点 {claimIndex + 1}</h1>
+          <h1 className="text-[17px] font-black tracking-[-0.035em] text-[#17243B]">视频说法 {claimIndex + 1}</h1>
           <span className={`rounded-md border px-2 py-0.5 text-[11px] font-bold ${signalClass(claim.signal)}`}>{claimGroupsLabel(claim)}</span>
         </div>
         {claim.video_refs?.[0]?.time ? <a href={videoTimeUrl(videoUrl, claim.video_refs[0].time)} target="_blank" rel="noreferrer" className="mt-3 inline-flex items-center gap-1.5 text-[12px] font-semibold text-[#4C7890]" aria-label={`在原视频打开 ${claim.video_refs[0].time} 片段`}><svg className="h-4 w-4 text-[#07766B]" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="10" cy="10" r="7.2" /><path d="m8.4 6.9 5 3.1-5 3.1V6.9Z" fill="currentColor" stroke="none" /></svg>视频片段&nbsp;{claim.video_refs[0].time}</a> : null}

@@ -31,7 +31,7 @@ export default function OverviewCard({ data, states, revealed, onOpenClaim }: { 
   return (
     <div className="pb-1">
       {data.claims.length === 0 ? (
-        <StateBlock className="mt-2" title="没有提取到可核验说法" description="这条视频里没有找到可以对照指南核验的健康主张，换一条试试。" />
+        <StateBlock className="mt-2" title="没有提取到可核验说法" description="这条视频里没有找到可以对照指南核验的健康说法，换一条试试。" />
       ) : (
         <>
           {/* 筛选：每一类始终保留对应颜色与描边，选中态仅加强底色。 */}
@@ -60,7 +60,7 @@ export default function OverviewCard({ data, states, revealed, onOpenClaim }: { 
             })}
           </div>
 
-          {/* 独立观点卡：顶部状态、正文与真实核验切入点分层，不用左侧色条。 */}
+          {/* 独立说法卡：顶部状态、正文与真实核验切入点分层，不用左侧色条。 */}
           <div className="mt-2 space-y-2">
             {visibleClaims.map(({ claim, index }) => {
               const group = claimGroups(claim)

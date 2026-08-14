@@ -19,7 +19,7 @@ function computeProgress(elapsedMs: number) {
 }
 
 const STEPS = ['读取视频文字稿与时间点', '抽取争议说法与核心论据', '对照运动医学证据来源', '计算风险边界', '生成 FitProof 核验报告']
-const STEP_SHORT_NAMES = ['提取观点', '交叉验证', '验证证据', '风险判断', '生成报告']
+const STEP_SHORT_NAMES = ['提取说法', '交叉验证', '验证证据', '风险判断', '生成报告']
 
 const KNOWLEDGE_CARDS = [
   {

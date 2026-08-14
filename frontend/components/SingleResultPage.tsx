@@ -232,7 +232,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
     const existing = freshRunPromisesRef.current.get(index)
     if (existing) return existing
     const claim = data.claims[index]
-    if (!claim) return Promise.reject(new Error('观点不存在'))
+    if (!claim) return Promise.reject(new Error('这条说法不存在'))
 
     // 从点击起就让旧海报失效；分享若在核验中触发，会进入等待态而不是展示旧图。
     setShareBlob(null)
@@ -321,7 +321,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
 
   function openClaimFromOverview(claimIndex: number) {
     overviewScrollTopRef.current = overviewScrollRef.current?.scrollTop || 0
-    // 首次打开真实重跑流式核验；成功后该观点改为静态直出最新结果。
+    // 首次打开真实重跑流式核验；成功后该说法改为静态直出最新结果。
     const shouldRunFresh = !revealedClaims[claimIndex]
     setDiagnosticLiveReveal(shouldRunFresh)
     setDiagnosticExitDirection(null)
@@ -596,7 +596,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
       <CourtCardShell
         label={label}
         index={displayIndex + 1}
-        subtitle={card.kind === 'profile' ? '来自抖音的单条视频' : card.kind === 'overview' ? '点击你感兴趣的观点进行核验' : undefined}
+        subtitle={card.kind === 'profile' ? '来自抖音的单条视频' : card.kind === 'overview' ? '点击你感兴趣的说法进行核验' : undefined}
         contentScrollable={card.kind !== 'followup'}
         visualVariant="dual"
       >
@@ -748,7 +748,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
         >
           <div className="mx-auto flex h-full w-full max-w-2xl flex-col">
             {/* 顶栏与提示固定不动，只有下方的卡片会被拖拽/倾斜/滑出 */}
-            <VerifyTopBar topic={`观点 ${diagnosticIndex + 1} 诊断报告`} page={0} total={0} hideProgress onBack={() => closeDiagnostic(1)} />
+            <VerifyTopBar topic={`说法 ${diagnosticIndex + 1} 诊断报告`} page={0} total={0} hideProgress onBack={() => closeDiagnostic(1)} />
             <p className="shrink-0 px-5 pb-1 text-center text-[11px] text-[#8AA0A0]">左右滑动 或 点左上角「返回」可退出报告</p>
             <div
               ref={diagOverlayRef}
@@ -759,7 +759,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
               onPointerUp={handleDiagnosticPointerUp}
               onPointerCancel={springDiagnosticBack}
             >
-              <CourtCardShell label={`观点 ${diagnosticIndex + 1} 诊断报告`} index={diagnosticIndex + 1} hideHeader contentScrollable visualVariant="dual">
+              <CourtCardShell label={`说法 ${diagnosticIndex + 1} 诊断报告`} index={diagnosticIndex + 1} hideHeader contentScrollable visualVariant="dual">
             <ConfrontationCard
               claim={data.claims[diagnosticIndex]}
               claimCount={data.claims.length}

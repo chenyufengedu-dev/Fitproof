@@ -26,7 +26,7 @@ export default function ContentRejectionModal({ result, onClose }: ContentReject
   const title = isUnrelated ? "暂不支持分析这段视频" : "这段视频暂无可核验的健康说法";
   const summary = isUnrelated
     ? "识别到的内容与健康信息核验无关，因此没有继续进行转写和深度分析。"
-    : "视频可能涉及饮食、运动或生活场景，但暂未发现明确的健康主张或可模仿方案。";
+    : "视频可能涉及饮食、运动或生活场景，但暂未发现明确的健康说法或可模仿方案。";
 
   return (
     <div

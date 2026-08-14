@@ -38,7 +38,7 @@ export function saveIdentity(identity: Identity): Identity {
 /**
  * 一条记录是否算「识破不实」。
  *
- * 只看核验结论（result），不看 claim.signal —— signal 是拆主张阶段快模型在
+ * 只看核验结论（result），不看 claim.signal —— signal 是拆说法阶段快模型在
  * 没有查任何证据时的初步归类，核验的意义正是纠正它。用 signal 计数会出现
  * 「核验结论是可信·低风险，却因为初判疑似夸大被算成识破一条」，
  * 数字只会往「帮你避开了很多坑」的方向虚高，正是最不该虚的方向。

@@ -15,7 +15,7 @@ async function postJson<T>(path: string, body: unknown, timeoutMs?: number): Pro
     })
   } catch {
     if (controller?.signal.aborted) throw new Error('生成超时，请重试')
-    throw new Error('无法连接分析服务，请确认后端已启动，或稍后重试')
+    throw new Error('连不上分析服务，请检查网络后重试')
   } finally {
     if (timer) clearTimeout(timer)
   }
@@ -38,7 +38,7 @@ export async function analyzeSingleUpload(file: File, topic: string): Promise<Si
   try {
     res = await fetch(`${API_BASE_URL}/api/analyze_single_upload`, { method: 'POST', body: form })
   } catch {
-    throw new Error('无法连接分析服务，本地视频分析需要连接后端')
+    throw new Error('连不上分析服务，暂时无法分析本地视频，请检查网络后重试')
   }
   if (!res.ok) {
     const data = await res.json().catch(() => ({}))

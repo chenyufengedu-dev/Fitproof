@@ -5,7 +5,7 @@ import FitProofCat from '@/components/FitProofCat'
 import { ExpandableHighlight, formatFrameTime, parseVideoTime, proxiedImg } from '@/components/single/shared'
 
 export default function ProfileCard({ data, onOpenOverview }: { data: SingleAnalyzeResponse; onOpenOverview: () => void }) {
-  // 说明：这里读的是快模型拆主张时的初步归类 claim.signal，不是核验结论。
+  // 说明：这里读的是快模型拆说法时的初步归类 claim.signal，不是核验结论。
   // 核验结论在 verifyStates 里，属于卡02及以后 —— 故此处一律用中性分类图标与措辞。
   const durationSeconds = data.reference.duration_seconds
   const durationLabel = typeof durationSeconds === 'number' && Number.isFinite(durationSeconds) && durationSeconds > 0
@@ -138,7 +138,7 @@ export default function ProfileCard({ data, onOpenOverview }: { data: SingleAnal
             </div>
           )}
 
-          {/* 核心看点：固定三行骨架（主要主张 / 需要留意 / 核验方式），每行都保证有内容，
+          {/* 核心看点：固定三行骨架（主要说法 / 需要留意 / 核验方式），每行都保证有内容，
               不随成分变化而增减。数据来自拆条阶段的 claim.signal 与原文，或真实核验机制，
               核验前即可得出，不编造，也不与卡02重复。 */}
           {/* 连接线放在实心圆底之后：视觉上连续，但不会透过任何图标。 */}
@@ -162,8 +162,8 @@ export default function ProfileCard({ data, onOpenOverview }: { data: SingleAnal
                 </svg>
               </span>
               <div className="min-w-0 flex-1">
-                <p className="text-[13px] font-semibold leading-tight text-[#07766B]">主要主张</p>
-                <ExpandableHighlight text={mainClaim || '视频未拆出明确主张'} label="主要主张" />
+                <p className="text-[13px] font-semibold leading-tight text-[#07766B]">主要说法</p>
+                <ExpandableHighlight text={mainClaim || '视频未拆出明确说法'} label="主要说法" />
               </div>
             </div>
             <div className="relative flex items-start gap-3">
@@ -192,7 +192,7 @@ export default function ProfileCard({ data, onOpenOverview }: { data: SingleAnal
         </div>
 
         <div className="mt-0.5 pb-2.5 pt-0.5">
-          {/* 诚实边界：这三行读的是拆主张阶段的初步归类 claim.signal，不是核验判定。
+          {/* 诚实边界：这三行读的是拆说法阶段的初步归类 claim.signal，不是核验判定。
               核验判定在卡02及以后的 verifyStates 里。 */}
           <button type="button" onClick={onOpenOverview} className="t-meta flex w-full items-center gap-2 rounded-lg bg-[#F3FBF9] px-3 py-2 text-left text-[#4C7774] shadow-[0_2px_8px_rgba(15,90,82,0.08)] transition hover:bg-[#EAF8F5]">
             <span className="grid h-5 w-5 shrink-0 place-items-center rounded-md bg-white text-[#4C7774] shadow-[0_1px_3px_rgba(15,90,82,0.10)]" aria-hidden="true">

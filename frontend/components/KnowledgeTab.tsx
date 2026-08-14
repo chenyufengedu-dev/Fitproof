@@ -303,7 +303,7 @@ export default function KnowledgeTab() {
           <p className="mt-0.5 text-[11px] leading-tight text-slate-600">基于权威文献，给出可靠、可溯源的健康依据</p>
         </header>
 
-        {/* 主张卡：左列固定给图标，右列所有内容左边界对齐 */}
+        {/* 说法卡：左列固定给图标，右列所有内容左边界对齐 */}
         <section className="mt-2.5 flex items-start gap-3.5 rounded-[18px] border border-[#E4F1ED] bg-gradient-to-br from-[#EDF8F5] via-[#F5FBFA] to-[#FCFDFD] px-3.5 py-3">
           <img
             src="/knowledge/library-badge.webp"

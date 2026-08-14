@@ -113,7 +113,7 @@ export default function SummaryCard({ claims, states, actions, actionsLoading, s
           <span className="t-micro shrink-0 text-right text-slate-600">{isReviewing ? `已核验 ${completedCount} / ${claims.length} 条` : `已核验 ${completedCount} 条说法 · 输出重点误导风险`}</span>
         </div>
         {claims.length === 0 ? (
-          <StateBlock title="没有可核验的说法" description="这条视频里没有提取出可以对照证据核验的主张。" />
+          <StateBlock title="没有可核验的说法" description="这条视频里没有提取出可以对照证据核验的说法。" />
         ) : featured.length > 0 ? (
           <div className="space-y-2.5">
             {featured.map(({ claim, state, index }) => (
