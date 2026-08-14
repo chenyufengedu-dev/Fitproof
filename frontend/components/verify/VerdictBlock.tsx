@@ -29,7 +29,7 @@ export default function VerdictBlock({ verdict, riskLevel, correction, stamp, sh
       </div>
       {showCorrection ? <div className={`border-t px-4 py-3.5 ${tone.divider}`}>
         <p className="text-[13px] font-bold opacity-80">更准确的说法</p>
-        <p className="mt-1.5 text-[14px] leading-relaxed">{correction}</p>
+        <p className="mt-1.5 text-[15px] leading-relaxed">{correction}</p>
       </div> : null}
     </section>
   )

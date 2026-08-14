@@ -263,7 +263,7 @@ export default function KnowledgeTab() {
   if (error) {
     return (
       <main className="min-h-[calc(100dvh-4rem)] bg-white px-4 py-10 text-center">
-        <p className="text-[14px] font-bold text-slate-900">知识库暂时打不开</p>
+        <p className="text-[15px] font-bold text-slate-900">知识库暂时打不开</p>
         <p className="mx-auto mt-2 max-w-[17rem] text-[12px] leading-relaxed text-slate-500">
           需要后端服务运行中（{error}）。核验功能不受影响。
         </p>
@@ -300,7 +300,7 @@ export default function KnowledgeTab() {
 
           {/* 右列：标题、正文、机构胶囊、统计全部同一左边界，不越界到图标那一列 */}
           <div className="min-w-0 flex-1">
-            <h2 className="text-[14px] font-extrabold leading-snug tracking-tight text-slate-900">
+            <h2 className="text-[15px] font-extrabold leading-snug tracking-tight text-slate-900">
               FitProof 的判定，只基于权威文献
             </h2>
             <p className="mt-0.5 text-[11px] leading-snug text-slate-600">
@@ -611,12 +611,12 @@ export default function KnowledgeTab() {
             >
               <Icon name="back" className="h-5 w-5" />
             </button>
-            <p className="min-w-0 flex-1 truncate text-[14px] font-extrabold tracking-tight text-slate-900">文献详情</p>
+            <p className="min-w-0 flex-1 truncate text-[15px] font-extrabold tracking-tight text-slate-900">文献详情</p>
           </header>
 
           <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3">
             <section className="rounded-[16px] border border-[#EDF3F2] bg-white px-3.5 py-3">
-              <p className="font-cite text-[14px] font-semibold leading-snug text-slate-900">{detail.doc}</p>
+              <p className="font-cite text-[15px] font-semibold leading-snug text-slate-900">{detail.doc}</p>
               <dl className="mt-2">
                 {([
                   ['bankIcon', '发布机构', detail.org],

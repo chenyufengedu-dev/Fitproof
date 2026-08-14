@@ -24,7 +24,7 @@ function MetricPill({ label, value }: { label: string; value: string }) {
   return (
     <div className={`rounded-2xl border px-3 py-2 ${levelClass(value)}`}>
       <p className="text-[11px] opacity-75">{label}</p>
-      <p className="mt-1 text-sm font-semibold leading-none">{value || '待定'}</p>
+      <p className="mt-1 text-[13px] font-semibold leading-none">{value || '待定'}</p>
     </div>
   )
 }
@@ -48,7 +48,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
             <MetricPill label="依据强度" value={result.strength} />
           </div>
           {traceLabel && (
-            <p className="mt-3 rounded-2xl border border-[#20CDB6]/15 bg-white px-3 py-2 text-sm font-semibold leading-relaxed text-[#0B6E63]">
+            <p className="mt-3 rounded-2xl border border-[#20CDB6]/15 bg-white px-3 py-2 text-[15px] font-semibold leading-relaxed text-[#0B6E63]">
               {traceLabel}
             </p>
           )}
@@ -56,7 +56,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
 
         <div className="rounded-3xl border border-[#20CDB6]/15 bg-white p-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0B6E63]">更准确的说法</p>
-          <p className="mt-2 text-sm leading-relaxed text-slate-700">{result.correction}</p>
+          <p className="mt-2 text-[15px] leading-relaxed text-slate-700">{result.correction}</p>
         </div>
 
         <div className="rounded-3xl border border-[#20CDB6]/15 bg-white p-4">
@@ -68,7 +68,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
           </div>
 
           {downgraded ? (
-            <p className="mt-3 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-relaxed text-amber-800">
+            <p className="mt-3 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-[15px] leading-relaxed text-amber-800">
               未命中已收录权威依据，以下为 AI 常识判断。当前结果不伪装成有指南支撑。
             </p>
           ) : (
@@ -81,7 +81,7 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
                   className="w-full rounded-2xl border border-[#20CDB6]/15 bg-[#f3fbf9] p-4 text-left transition hover:border-[#20CDB6] hover:bg-white"
                 >
                   <p className="text-xs font-semibold text-[#0B6E63]">{item.id}</p>
-                  <p className="mt-1 text-sm font-medium leading-relaxed text-slate-900">{item.claim}</p>
+                  <p className="mt-1 text-[15px] font-medium leading-relaxed text-slate-900">{item.claim}</p>
                   <p className="mt-2 text-xs leading-relaxed text-slate-500">
                     {item.source_doc}
                     {item.org ? ` · ${item.org}` : ''}
@@ -100,18 +100,18 @@ export default function VerifyResultCard({ result, claimTitle }: VerifyResultCar
           <div className="absolute inset-0 animate-fadeIn bg-black/40" />
           <div onClick={(e) => e.stopPropagation()} className="animate-slideUp relative z-50 max-h-[72vh] overflow-y-auto rounded-t-3xl bg-white px-6 pb-8 pt-5">
             <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-slate-200" />
-            <p className="mb-3 text-sm font-semibold text-slate-900">权威依据 · {drawer.title}</p>
+            <p className="mb-3 text-[15px] font-semibold text-slate-900">权威依据 · {drawer.title}</p>
             <div className="rounded-2xl bg-[#f3fbf9] px-4 py-3">
               <p className="text-[15px] leading-relaxed text-slate-900">{drawer.evidence.claim}</p>
-              <p className="mt-3 text-sm leading-relaxed text-slate-500">
+              <p className="mt-3 text-[15px] leading-relaxed text-slate-500">
                 {drawer.evidence.source_doc}
                 {drawer.evidence.org ? ` · ${drawer.evidence.org}` : ''}
                 {drawer.evidence.year ? ` · ${drawer.evidence.year}` : ''}
                 {drawer.evidence.page ? ` · 页码 ${drawer.evidence.page}` : ''}
               </p>
-              {drawer.evidence.url && <a href={drawer.evidence.url} target="_blank" rel="noreferrer" className="mt-3 inline-block break-all text-sm font-medium text-[#0B6E63] underline">打开官方来源</a>}
+              {drawer.evidence.url && <a href={drawer.evidence.url} target="_blank" rel="noreferrer" className="mt-3 inline-block break-all text-[13px] font-medium text-[#0B6E63] underline">打开官方来源</a>}
             </div>
-            <button onClick={() => setDrawer(null)} className="mt-5 w-full rounded-full bg-slate-100 py-2.5 text-sm font-medium text-slate-600">收起</button>
+            <button onClick={() => setDrawer(null)} className="mt-5 w-full rounded-full bg-slate-100 py-2.5 text-[15px] font-medium text-slate-600">收起</button>
           </div>
         </div>
       )}

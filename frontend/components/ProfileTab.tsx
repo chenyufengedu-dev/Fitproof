@@ -265,7 +265,7 @@ function CardTitle({ title, note, extra, icon }: { title: string; note?: ReactNo
     <div className="flex items-center justify-between gap-2">
       <div className="flex min-w-0 items-center gap-1.5">
         {icon && <MenuTitleIcon name={icon} />}
-        <h2 className="shrink-0 text-[14px] font-extrabold tracking-tight text-slate-900">{title}</h2>
+        <h2 className="shrink-0 text-[15px] font-extrabold tracking-tight text-slate-900">{title}</h2>
         {note && <span className="flex min-w-0 items-center gap-1 truncate text-[11px] text-slate-400">{note}</span>}
       </div>
       {extra}
@@ -638,7 +638,7 @@ export default function ProfileTab() {
           {viewRecords.length === 0 ? (
             <div className="px-4 py-8 text-center">
               <FitProofCat pose="empty" size={88} className="mx-auto" title="还没有记录" />
-              <p className="mt-3 text-[14px] font-bold text-slate-900">还没有核验记录</p>
+              <p className="mt-3 text-[15px] font-bold text-slate-900">还没有核验记录</p>
               <p className="mx-auto mt-1.5 max-w-[15rem] text-[12px] leading-relaxed text-slate-500">
                 去「核验」贴一条健康短视频链接，结论和可追溯依据会保存在这里。
               </p>
@@ -830,7 +830,7 @@ export default function ProfileTab() {
               <Icon name="back" className="h-5 w-5" />
             </button>
             <div className="min-w-0 flex-1">
-              <p className="truncate text-[14px] font-extrabold tracking-tight text-slate-900">核验详情</p>
+              <p className="truncate text-[15px] font-extrabold tracking-tight text-slate-900">核验详情</p>
               <p className="truncate text-[11px] text-slate-400">
                 {detail.topic || detail.reference?.title || '未分类'} · {formatDate(detail.createdAt)}
               </p>

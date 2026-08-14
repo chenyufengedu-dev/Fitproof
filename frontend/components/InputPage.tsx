@@ -177,7 +177,7 @@ export default function InputPage({
                   type="button"
                   onClick={() => void useClipboardLink()}
                   disabled={singleSubmitting}
-                  className="w-full rounded-2xl border border-[#20CDB6]/25 bg-[#f3fbf9] px-4 py-3 text-left text-sm text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-white disabled:opacity-50"
+                  className="w-full rounded-2xl border border-[#20CDB6]/25 bg-[#f3fbf9] px-4 py-3 text-left text-[15px] text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-white disabled:opacity-50"
                 >
                   <span className="font-semibold">检测到视频链接，一键核验</span>
                   <span className="mt-1 block truncate text-xs text-slate-500">{clipboardLink}</span>
@@ -223,7 +223,7 @@ export default function InputPage({
                     type="button"
                     onClick={() => void handleSingleSubmit()}
                     disabled={singleSubmitting}
-                    className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
+                    className="rounded-2xl bg-[#20CDB6] px-4 py-3 text-[15px] font-semibold text-white shadow-[0_12px_28px_rgba(32,205,182,0.28)] transition hover:bg-[#19b8a4] disabled:opacity-50"
                   >
                     {singleSubmitting ? "正在拆解主张…" : localVideo ? "分析本地视频" : "分析单视频"}
                   </button>
@@ -231,7 +231,7 @@ export default function InputPage({
                     type="button"
                     onClick={loadSingleSample}
                     disabled={singleSubmitting}
-                    className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-sm font-semibold text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-[#f3fbf9] disabled:opacity-50"
+                    className="rounded-2xl border border-[#20CDB6]/25 bg-white px-4 py-3 text-[15px] font-semibold text-[#0B6E63] transition hover:border-[#20CDB6] hover:bg-[#f3fbf9] disabled:opacity-50"
                   >
                     用样例数据
                   </button>
@@ -245,7 +245,7 @@ export default function InputPage({
               </div>
           </div>
 
-          {error && <p className="mt-4 rounded-2xl bg-red-50 px-4 py-3 text-sm text-red-600">{error}</p>}
+          {error && <p className="mt-4 rounded-2xl bg-red-50 px-4 py-3 text-[15px] text-red-600">{error}</p>}
         </section>
       </div>
     </main>

@@ -173,7 +173,7 @@ export default function LoadingPage({ topic, mode = 'dual', startedAt }: Loading
         </section>
 
         <section className="mt-2 shrink-0">
-          <div className="flex items-center justify-between gap-3"><p className="text-[14px] font-black text-[#163848]">{STEPS[activeStep]}中…</p><span className="text-[16px] font-black text-[#0AB39F]">{progress}%</span></div>
+          <div className="flex items-center justify-between gap-3"><p className="text-[15px] font-black text-[#163848]">{STEPS[activeStep]}中…</p><span className="text-[16px] font-black text-[#0AB39F]">{progress}%</span></div>
           <div className="mt-2 h-2 overflow-hidden rounded-full bg-[#E1F4F0]"><span className="block h-full rounded-full bg-[linear-gradient(90deg,#08B9A5,#08A98E)] transition-[width] duration-500" style={{ width: `${progress}%` }} /></div>
           <div className="relative mt-4 flex items-start justify-between before:absolute before:left-0 before:right-0 before:top-[9px] before:h-px before:bg-[#D8F0EC]">
             {STEP_SHORT_NAMES.map((name, index) => <div key={name} className={`relative z-10 flex flex-col text-center ${index === 0 ? 'items-start text-left' : index === STEP_SHORT_NAMES.length - 1 ? 'items-end text-right' : 'items-center'}`}><span className="grid h-[18px] w-[18px] place-items-center rounded-full border-2 border-[#D8E1E8] bg-white text-[11px] font-black text-[#08B9A5]">{index < activeStep ? '✓' : index === activeStep ? '●' : '•'}</span><span className="mt-1 text-[11px] font-bold leading-tight text-[#079B8B]">{name}</span></div>)}
@@ -226,7 +226,7 @@ export default function LoadingPage({ topic, mode = 'dual', startedAt }: Loading
                 <div key={`${card.title}-${slot}`} className="flex w-1/3 shrink-0 items-start gap-3 px-px">
                   <img src={card.image} alt={card.alt} loading="eager" decoding="async" draggable={false} className="h-[62px] w-[62px] shrink-0 rounded-[13px] bg-white object-cover shadow-[0_6px_15px_rgba(18,116,103,.07)]" />
                   <div className="min-w-0 flex-1 pt-0.5">
-                    <p className="text-[14px] font-black leading-snug text-[#101C2C]">{card.title}</p>
+                    <p className="text-[15px] font-black leading-snug text-[#101C2C]">{card.title}</p>
                     <p className="mt-0.5 line-clamp-2 text-[11px] leading-[1.4] text-[#26384A]">{card.body}</p>
                   </div>
                 </div>

@@ -468,7 +468,7 @@ function ProfileCard({ data, onOpenOverview }: { data: SingleAnalyzeResponse; on
                 </svg>
               </span>
               <div className="min-w-0 flex-1">
-                <p className="text-[14px] font-semibold leading-tight text-[#0B9F91]">主要主张</p>
+                <p className="text-[13px] font-semibold leading-tight text-[#0B9F91]">主要主张</p>
                 <ExpandableHighlight text={mainClaim || '视频未拆出明确主张'} label="主要主张" />
               </div>
             </div>
@@ -481,7 +481,7 @@ function ProfileCard({ data, onOpenOverview }: { data: SingleAnalyzeResponse; on
                 </svg>
               </span>
               <div className="min-w-0">
-                <p className="text-[14px] font-semibold leading-tight text-[#C77A16]">需要留意</p>
+                <p className="text-[13px] font-semibold leading-tight text-[#C77A16]">需要留意</p>
                 <ExpandableHighlight text={attentionText} label="需要留意" />
               </div>
             </div>
@@ -490,7 +490,7 @@ function ProfileCard({ data, onOpenOverview }: { data: SingleAnalyzeResponse; on
                 <svg className="h-[19px] w-[19px]" viewBox="0 0 24 24" fill="none" stroke="#3E7BC4" strokeWidth="1.8"><path d="M12 2.6 5 5.2v5.3c0 4.1 2.8 7.2 7 8.9 4.2-1.7 7-4.8 7-8.9V5.2L12 2.6Z" strokeLinejoin="round" /><path d="m8.6 11.6 2.4 2.4 4.4-4.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
               </span>
               <div className="min-w-0">
-                <p className="text-[14px] font-semibold leading-tight text-[#3E7BC4]">核验方式</p>
+                <p className="text-[13px] font-semibold leading-tight text-[#3E7BC4]">核验方式</p>
                 <ExpandableHighlight text={verificationMethodText} label="核验方式" />
               </div>
             </div>
@@ -540,7 +540,7 @@ function OverviewCard({ data, states, revealed, onOpenClaim }: { data: SingleAna
   return (
     <div className="pb-1">
       {data.claims.length === 0 ? (
-        <p className="mt-2 rounded-2xl bg-slate-50 px-4 py-5 text-sm text-slate-500">这条视频没有提取到可核验说法。</p>
+        <p className="mt-2 rounded-2xl bg-slate-50 px-4 py-5 text-[15px] text-slate-500">这条视频没有提取到可核验说法。</p>
       ) : (
         <>
           {/* 筛选：每一类始终保留对应颜色与描边，选中态仅加强底色。 */}
@@ -786,7 +786,7 @@ function ConfrontationCard({ claim, state, keyframes, onRetry, onEvidence, onOpe
         {claim.video_refs?.[0]?.time ? <a href={videoTimeUrl(videoUrl, claim.video_refs[0].time)} target="_blank" rel="noreferrer" className="mt-3 inline-flex items-center gap-1.5 text-[12px] font-semibold text-[#4C7890]" aria-label={`在原视频打开 ${claim.video_refs[0].time} 片段`}><svg className="h-4 w-4 text-[#0B9F91]" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="10" cy="10" r="7.2" /><path d="m8.4 6.9 5 3.1-5 3.1V6.9Z" fill="currentColor" stroke="none" /></svg>视频片段&nbsp;{claim.video_refs[0].time}</a> : null}
         <div className="relative mt-1.5 rounded-[12px] border border-[#DCE5E5] bg-[#FCFEFE] px-4 py-3">
           <span className="absolute left-3 top-3 select-none text-[46px] font-black leading-none text-[#087F76]" aria-hidden="true">“</span>
-          <p className="pl-8 text-[14px] font-semibold leading-[1.6] tracking-[-0.015em] text-[#23334B]">{claim.claim}</p>
+          <p className="pl-8 text-[15px] font-semibold leading-[1.6] tracking-[-0.015em] text-[#23334B]">{claim.claim}</p>
         </div>
       </section>
 
@@ -949,7 +949,7 @@ function SummaryCard({ claims, states, actions, actionsLoading, shareReady, shar
         {claims.length === 0 ? (
           <div className="rounded-2xl border border-[#20CDB6]/20 bg-[#E1F5EE] px-4 py-6 text-center">
             <p className="text-base font-semibold text-[#0B6E63]">无可核验说法</p>
-            <p className="mt-1 text-sm text-slate-500">这条视频没有提取出可供证据核验的主张。</p>
+            <p className="mt-1 text-[15px] text-slate-500">这条视频没有提取出可供证据核验的主张。</p>
           </div>
         ) : featured.length > 0 ? (
           <div className="space-y-2.5">
@@ -1035,7 +1035,7 @@ function ActionAdviceCard({ actions, claims, states, loading, requested, error, 
       <p className="mt-2 flex items-center gap-1.5 text-[11px] leading-relaxed text-[#71839E]"><svg className="h-4 w-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" /></svg>{locked ? '至少完成 1 条说法核验后，再根据已核验内容生成建议；不输出猜测性内容。' : '建议只基于已核验说法与对应证据生成，不包含未核验内容。'}</p>
       <ActionPrinciples />
     </div>
-    {locked ? <div className="rounded-[18px] border border-[#D9E7E7] bg-[linear-gradient(135deg,#FFFFFF,#F8FCFC)] px-4 py-6 text-center"><div className="mx-auto grid h-14 w-14 place-items-center rounded-full bg-[#EFF8F7] text-[#0B8F82]"><svg className="h-8 w-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" /></svg></div><p className="mt-3 text-[17px] font-black text-slate-900">生成你的专属行动建议</p><p className="mt-1 px-2 text-[13px] leading-relaxed text-slate-400">行动建议只依据已核验的说法，避免给出没有根据的健康建议。一键核验全部说法即可生成。</p>{verifyingCount > 0 ? <div className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#EAF8F5] px-4 py-2.5 text-[14px] font-black text-[#0B6E63]"><svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg>正在核验全部说法…</div> : <button type="button" onClick={onVerifyAll} className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#20CDB6] px-5 py-2.5 text-[14px] font-black text-white shadow-[0_8px_20px_rgba(32,205,182,0.28)] transition hover:brightness-[1.03]"><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" strokeLinejoin="round" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" strokeLinecap="round" strokeLinejoin="round" /></svg>一键核验全部并生成建议</button>}<p className="mt-3 text-[11px] text-slate-400">也可以只核验你关心的几条，回到「说法全景」逐条点选。</p></div> : actions.length === 0 && loading ? <div className="rounded-[18px] border border-[#91DDD1] bg-[linear-gradient(135deg,#FFFFFF,#F0FBF8)] px-4 py-7 text-center"><span className="mx-auto grid h-12 w-12 place-items-center rounded-full bg-[#E7F8F4] text-[#078C7E]"><svg className="h-6 w-6 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg></span><span className="mt-3 block text-[17px] font-black text-[#0B6E63]">正在生成行动建议…</span></div> : actions.length === 0 && error ? <div className="rounded-[18px] border border-[#F3D6A6] bg-[#FFFBF4] px-4 py-7 text-center"><p className="text-[17px] font-black text-slate-900">行动建议生成失败</p><p className="mt-1 text-sm text-slate-400">可能是网络波动或服务繁忙，已核验内容仍在。</p><button type="button" onClick={onGenerate} className="mt-4 inline-flex items-center gap-2 rounded-full bg-[#20CDB6] px-5 py-2.5 text-[14px] font-black text-white shadow-[0_8px_20px_rgba(32,205,182,0.28)] transition hover:brightness-[1.03]"><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg>点此重试</button></div> : actions.length === 0 && requested ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[17px] font-black text-slate-900">当前尚无可用建议</p><p className="mt-1 text-sm text-slate-400">已核验内容不足以形成具体行动建议。</p></div> : actions.length === 0 ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[16px] font-black text-[#0B6E63]">正在等待核验完成…</p></div> : actions.map((action, actionIndex) => { const tone = SINGLE_ACTION_TONES[action.level as keyof typeof SINGLE_ACTION_TONES] || SINGLE_ACTION_TONES.caution; const evidence = evidenceFor(action); return <section key={`${action.condition}-${actionIndex}`} className="rounded-[18px] border border-slate-200/90 bg-white p-3 shadow-[0_6px_18px_rgba(15,80,74,0.10)]"><header className="flex items-center gap-2"><span data-action-audience-icon className={`grid h-8 w-8 shrink-0 place-items-center rounded-full text-white ${tone.dot}`}><svg className="h-4.5 w-4.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="8" r="3" /><path d="M6.5 19c.7-3.5 2.6-5.3 5.5-5.3s4.8 1.8 5.5 5.3" strokeLinecap="round" /></svg></span><h3 data-action-condition className="t-body min-w-0 flex-1 font-black text-slate-900">{action.condition}</h3><span className={`rounded-full px-2 py-1 text-[11px] font-black ${tone.soft} ${tone.text}`}>适合谁</span></header>{action.steps.length > 0 && <div className="mt-3 border-y border-slate-100 py-3"><p className={`text-[12px] font-black ${tone.text}`}>› 建议动作</p><div className="mt-2 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">{action.steps.map((step, index) => <div key={`${step.title}-${index}`} className="flex shrink-0 items-center gap-2"><div className="w-[92px] text-center"><ActionIcon name={step.icon} className={"mx-auto h-8 w-8 " + tone.text} /><div className="mt-1 flex items-start justify-center gap-1"><span className={`grid h-4 w-4 shrink-0 place-items-center rounded-full text-[11px] font-black text-white ${tone.dot}`}>{index + 1}</span><span className="text-left text-[11px] font-bold leading-tight text-slate-700">{step.title}<small className="mt-0.5 block text-[11px] font-normal text-slate-400">{step.note}</small></span></div></div>{index < action.steps.length - 1 && <span className={`text-xl ${tone.text}`}>›</span>}</div>)}</div></div>}{action.caution && <div className="mt-2 flex items-start gap-1.5 text-[11px] leading-relaxed text-slate-600"><span className={`inline-flex shrink-0 items-center gap-1 font-black ${tone.text}`}><ActionSectionMarker /> 需要注意</span><span data-action-caution-text className="text-[#C75B36]">{action.caution}</span></div>}<div className="mt-2 flex items-center gap-1.5 overflow-x-auto border-t border-slate-100 pt-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"><span className={`inline-flex shrink-0 items-center gap-1 text-[11px] font-black ${tone.text}`}><ActionSectionMarker /> 查看依据</span>{action.claim_indices.map((claimIndex) => claims[claimIndex] && <span key={claimIndex} className={`shrink-0 rounded-full px-2 py-1 text-[11px] font-bold ${tone.soft} ${tone.text}`}>已核验说法 {claimIndex + 1}</span>)}{evidence.map((item) => <button key={item.id} type="button" onClick={() => onEvidence([item])} className={`shrink-0 rounded-full px-2 py-1 text-[11px] font-bold ${tone.soft} ${tone.text}`}>[{item.id}]</button>)}</div></section> })}
+    {locked ? <div className="rounded-[18px] border border-[#D9E7E7] bg-[linear-gradient(135deg,#FFFFFF,#F8FCFC)] px-4 py-6 text-center"><div className="mx-auto grid h-14 w-14 place-items-center rounded-full bg-[#EFF8F7] text-[#0B8F82]"><svg className="h-8 w-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" /></svg></div><p className="mt-3 text-[17px] font-black text-slate-900">生成你的专属行动建议</p><p className="mt-1 px-2 text-[13px] leading-relaxed text-slate-400">行动建议只依据已核验的说法，避免给出没有根据的健康建议。一键核验全部说法即可生成。</p>{verifyingCount > 0 ? <div className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#EAF8F5] px-4 py-2.5 text-[15px] font-black text-[#0B6E63]"><svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg>正在核验全部说法…</div> : <button type="button" onClick={onVerifyAll} className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#20CDB6] px-5 py-2.5 text-[15px] font-black text-white shadow-[0_8px_20px_rgba(32,205,182,0.28)] transition hover:brightness-[1.03]"><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="M12 3.5 19 6v5c0 4.3-2.8 7.7-7 9.5-4.2-1.8-7-5.2-7-9.5V6l7-2.5Z" strokeLinejoin="round" /><path d="m8.8 12.1 2.1 2.1 4.2-4.3" strokeLinecap="round" strokeLinejoin="round" /></svg>一键核验全部并生成建议</button>}<p className="mt-3 text-[11px] text-slate-400">也可以只核验你关心的几条，回到「说法全景」逐条点选。</p></div> : actions.length === 0 && loading ? <div className="rounded-[18px] border border-[#91DDD1] bg-[linear-gradient(135deg,#FFFFFF,#F0FBF8)] px-4 py-7 text-center"><span className="mx-auto grid h-12 w-12 place-items-center rounded-full bg-[#E7F8F4] text-[#078C7E]"><svg className="h-6 w-6 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg></span><span className="mt-3 block text-[17px] font-black text-[#0B6E63]">正在生成行动建议…</span></div> : actions.length === 0 && error ? <div className="rounded-[18px] border border-[#F3D6A6] bg-[#FFFBF4] px-4 py-7 text-center"><p className="text-[17px] font-black text-slate-900">行动建议生成失败</p><p className="mt-1 text-[15px] text-slate-400">可能是网络波动或服务繁忙，已核验内容仍在。</p><button type="button" onClick={onGenerate} className="mt-4 inline-flex items-center gap-2 rounded-full bg-[#20CDB6] px-5 py-2.5 text-[15px] font-black text-white shadow-[0_8px_20px_rgba(32,205,182,0.28)] transition hover:brightness-[1.03]"><svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M20 12a8 8 0 1 1-2.34-5.66" /><path d="M20 4v5h-5" /></svg>点此重试</button></div> : actions.length === 0 && requested ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[17px] font-black text-slate-900">当前尚无可用建议</p><p className="mt-1 text-[15px] text-slate-400">已核验内容不足以形成具体行动建议。</p></div> : actions.length === 0 ? <div className="rounded-[18px] border border-[#D9E7E7] bg-white px-4 py-7 text-center"><p className="text-[16px] font-black text-[#0B6E63]">正在等待核验完成…</p></div> : actions.map((action, actionIndex) => { const tone = SINGLE_ACTION_TONES[action.level as keyof typeof SINGLE_ACTION_TONES] || SINGLE_ACTION_TONES.caution; const evidence = evidenceFor(action); return <section key={`${action.condition}-${actionIndex}`} className="rounded-[18px] border border-slate-200/90 bg-white p-3 shadow-[0_6px_18px_rgba(15,80,74,0.10)]"><header className="flex items-center gap-2"><span data-action-audience-icon className={`grid h-8 w-8 shrink-0 place-items-center rounded-full text-white ${tone.dot}`}><svg className="h-4.5 w-4.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="8" r="3" /><path d="M6.5 19c.7-3.5 2.6-5.3 5.5-5.3s4.8 1.8 5.5 5.3" strokeLinecap="round" /></svg></span><h3 data-action-condition className="t-body min-w-0 flex-1 font-black text-slate-900">{action.condition}</h3><span className={`rounded-full px-2 py-1 text-[11px] font-black ${tone.soft} ${tone.text}`}>适合谁</span></header>{action.steps.length > 0 && <div className="mt-3 border-y border-slate-100 py-3"><p className={`text-[12px] font-black ${tone.text}`}>› 建议动作</p><div className="mt-2 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">{action.steps.map((step, index) => <div key={`${step.title}-${index}`} className="flex shrink-0 items-center gap-2"><div className="w-[92px] text-center"><ActionIcon name={step.icon} className={"mx-auto h-8 w-8 " + tone.text} /><div className="mt-1 flex items-start justify-center gap-1"><span className={`grid h-4 w-4 shrink-0 place-items-center rounded-full text-[11px] font-black text-white ${tone.dot}`}>{index + 1}</span><span className="text-left text-[11px] font-bold leading-tight text-slate-700">{step.title}<small className="mt-0.5 block text-[11px] font-normal text-slate-400">{step.note}</small></span></div></div>{index < action.steps.length - 1 && <span className={`text-xl ${tone.text}`}>›</span>}</div>)}</div></div>}{action.caution && <div className="mt-2 flex items-start gap-1.5 text-[11px] leading-relaxed text-slate-600"><span className={`inline-flex shrink-0 items-center gap-1 font-black ${tone.text}`}><ActionSectionMarker /> 需要注意</span><span data-action-caution-text className="text-[#C75B36]">{action.caution}</span></div>}<div className="mt-2 flex items-center gap-1.5 overflow-x-auto border-t border-slate-100 pt-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"><span className={`inline-flex shrink-0 items-center gap-1 text-[11px] font-black ${tone.text}`}><ActionSectionMarker /> 查看依据</span>{action.claim_indices.map((claimIndex) => claims[claimIndex] && <span key={claimIndex} className={`shrink-0 rounded-full px-2 py-1 text-[11px] font-bold ${tone.soft} ${tone.text}`}>已核验说法 {claimIndex + 1}</span>)}{evidence.map((item) => <button key={item.id} type="button" onClick={() => onEvidence([item])} className={`shrink-0 rounded-full px-2 py-1 text-[11px] font-bold ${tone.soft} ${tone.text}`}>[{item.id}]</button>)}</div></section> })}
     <style jsx global>{`
       .action-advice-density > section { padding: 0.625rem 0.75rem; }
       .action-advice-density > section > header { gap: 0.375rem; }
@@ -1176,12 +1176,12 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
       {hasConversation && (
         <div className="mt-3 space-y-4 pb-2">
           {messages.map((message, index) => message.role === 'user' ? (
-            <div key={`${message.role}-${index}`} className="ml-auto max-w-[88%] whitespace-pre-wrap rounded-2xl rounded-br-md bg-[#20CDB6] px-3.5 py-2.5 text-sm leading-relaxed text-white">
+            <div key={`${message.role}-${index}`} className="ml-auto max-w-[88%] whitespace-pre-wrap rounded-2xl rounded-br-md bg-[#20CDB6] px-3.5 py-2.5 text-[15px] leading-relaxed text-white">
                 <ChatMarkdown content={message.content} />
               </div>
           ) : message.content ? (
             <div key={`${message.role}-${index}`} className="mr-auto max-w-[94%]">
-              <div className="min-w-0 rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-sm leading-relaxed text-slate-700">
+              <div className="min-w-0 rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-[15px] leading-relaxed text-slate-700">
                 <ChatMarkdown content={message.content} stripCitations />
               </div>
             </div>
@@ -1189,7 +1189,7 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
 
         {loading && !messages[messages.length - 1]?.content && (
           <div className="mr-auto">
-            <div className="rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-sm text-slate-400">正在核验回答…</div>
+            <div className="rounded-2xl rounded-bl-md border border-[#20CDB6]/20 bg-[#F3FBF9] px-3.5 py-2.5 text-[15px] text-slate-400">正在核验回答…</div>
           </div>
         )}
         </div>
@@ -1198,7 +1198,7 @@ function FollowupCard({ data, topic, claims, states }: { data: SingleAnalyzeResp
       </div>
       <form className="mt-0 flex shrink-0 translate-y-1.5 gap-2" onSubmit={(event) => { event.preventDefault(); void sendQuestion(input) }}>
         <textarea value={input} onChange={(event) => setInput(event.target.value)} disabled={loading} rows={1} placeholder="输入你的疑问" className="h-10 min-w-0 flex-1 resize-none rounded-full border border-[#20CDB6]/25 bg-white px-4 py-2 text-base leading-tight text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-[#20CDB6] focus:ring-4 focus:ring-[#20CDB6]/10 disabled:bg-slate-50" />
-        <button type="submit" disabled={loading || !input.trim()} className="h-10 shrink-0 rounded-full bg-[#20CDB6] px-5 text-sm font-medium text-white shadow-[0_8px_20px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-40">
+        <button type="submit" disabled={loading || !input.trim()} className="h-10 shrink-0 rounded-full bg-[#20CDB6] px-5 text-[15px] font-medium text-white shadow-[0_8px_20px_rgba(32,205,182,0.30)] transition hover:bg-[#19b8a4] disabled:opacity-40">
           发送
         </button>
       </form>
@@ -1769,7 +1769,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
               onClick={openSharePoster}
               disabled={shareStatus === 'generating'}
               aria-label="分享这份核验，生成 9:16 长图"
-              className="inline-flex h-8 shrink-0 items-center gap-1 rounded-full bg-white/75 px-3 text-sm font-medium text-[#128f80] shadow-sm backdrop-blur transition hover:bg-[#20CDB6] hover:text-white disabled:opacity-50"
+              className="inline-flex h-8 shrink-0 items-center gap-1 rounded-full bg-white/75 px-3 text-[13px] font-medium text-[#128f80] shadow-sm backdrop-blur transition hover:bg-[#20CDB6] hover:text-white disabled:opacity-50"
             >
               <svg className="h-4 w-4 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 10.8 16 6.2M8 13.2l8 4.6" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" fill="none" /><circle cx="18" cy="5" r="2.9" /><circle cx="6" cy="12" r="2.9" /><circle cx="18" cy="19" r="2.9" /></svg>
               {shareStatus === 'generating' ? '生成中' : '分享'}
@@ -1881,7 +1881,7 @@ export default function SingleResultPage({ data, topic, onBack, onVerifyClaim, o
               <img src={visualImage.image} alt="放大的视频关键帧" className="max-h-[70vh] w-full rounded-xl object-contain" />
               <div className="px-1 pb-1 pt-3">
                 <p className="text-xs font-semibold text-[#0B6E63]">画面 {formatFrameTime(visualImage.time)}</p>
-                <p className="mt-1.5 text-sm leading-relaxed text-slate-600">{visualImage.screenText}</p>
+                <p className="mt-1.5 text-[15px] leading-relaxed text-slate-600">{visualImage.screenText}</p>
               </div>
             </div>
           </div>
