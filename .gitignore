@@ -83,3 +83,8 @@ frontend/public/fitproof-loading-cat-handoff/
 # ===== 素材源文件（交付包/设计稿原图，不参与构建也不上传）=====
 # 从 frontend/public/ 移出来的：放在 public 里会跟着部署走，还让人分不清哪些素材线上真在用。
 assets-source/
+
+# ===== 与项目无关/一次性的图片素材，不进版本库 =====
+# pics: 早期为别的用途建的原图；output: 验收截图和海报产物，都能再生成。
+pics/
+output/
